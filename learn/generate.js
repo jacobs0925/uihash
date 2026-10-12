@@ -2,6 +2,7 @@
 // Usage: node learn/generate.js <outDir> <count> [firstId]   single-change PRs (even ids deliberate, odd ids mistakes)
 //        node learn/generate.js <outDir> --mixed <count>     PRs that combine a deliberate change and a mistake
 //        APPS=shop,admin node learn/generate.js ...          only some testbeds
+//        OPS=m-typo,d-gap node learn/generate.js ...         only some operators (ids of the other kind are skipped)
 // Each PR leaves <outDir>/prs/<id>/{summary.json, label.json[, sides.json]} in the labelled-PR format that
 // dataset.js reads (see HANDOFF.md); screenshots are deleted to save space. Resumable: PRs that already have
 // a label.json are skipped, and a PR id always gets the same change, so runs can be split across machines.
@@ -26,6 +27,7 @@ const APPS = {
   admin: { weight: 0.5, config: { runs: 6, viewport: VP, pages: [{ name: 'People', path: 'admin/index.html?seed={i}', states: { 'row menu': '.more' } }] } },
 };
 // APPS=shop,admin limits a run to some testbeds (weights are renormalized)
+const ONLY = process.env.OPS ? process.env.OPS.split(',') : null;
 if (process.env.APPS) for (const a of Object.keys(APPS)) if (!process.env.APPS.split(',').includes(a)) delete APPS[a];
 { const t = Object.values(APPS).reduce((k, a) => k + a.weight, 0); for (const a of Object.values(APPS)) a.weight /= t; }
 const sigOf = (p, f) => [p.page, p.state, p.vp, f.type, f.path, ...f.changes].join('|');
@@ -83,7 +85,9 @@ async function runOne(id, app, P, edits, label) {
       for (let tries = 0; tries < 30 && !made; tries++) {
         app = appOf(r);
         const kind = k % 2 ? 'mistake' : 'deliberate';
-        op = pick(r, OPS.filter((o) => o.kind === kind));
+        const ops = OPS.filter((o) => o.kind === kind && (!ONLY || ONLY.includes(o.id)));
+        if (!ops.length) break;
+        op = pick(r, ops);
         const html = fs.readFileSync(path.join(OUT, 'base', app, 'index.html'), 'utf8');
         made = op.make(PROF[app], r, html);
         if (made && !apply(html, PROF[app], made.edits)) made = null;

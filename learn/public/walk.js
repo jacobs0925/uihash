@@ -131,8 +131,12 @@ async function check(c, comps) {
     const t0 = Date.now();
     log(`${c.sha.slice(0, 8)} ${c.date} ${c.subject.slice(0, 70)} [${comps.join(', ')}]`);
     try {
-      // evidence for labelling, from the commit itself (label.js adds what later commits say)
-      const changeset = c.files.filter((f) => /^\.changeset\/.*\.md$/.test(f)).map((f) => { try { return git(['show', `${c.sha}:${f}`]); } catch (e) { return ''; } }).join('\n');
+      // evidence for labelling, from the commit itself (label.js adds what later commits say). What the
+      // author wrote about the change: changesets (.changeset/*.md), or Beachball change files (change/*.json,
+      // Fluent UI), of which only the type and comment are kept (they also hold the author's email)
+      const show = (f) => { try { return git(['show', `${c.sha}:${f}`]); } catch (e) { return ''; } };
+      const beachball = (f) => { try { const j = JSON.parse(show(f)); return j.comment ? `${j.type || 'change'}: ${j.comment}` : ''; } catch (e) { return ''; } };
+      const changeset = c.files.map((f) => (/^\.changeset\/.*\.md$/.test(f) ? show(f) : /^change\/.*\.json$/.test(f) ? beachball(f) : '')).filter(Boolean).join('\n');
       const meta = { repo: NAME, sha: c.sha, parent: c.parent, date: c.date, subject: c.subject, pr: c.pr, components: comps, files: c.files,
         snapshotsUpdated: c.files.filter((f) => SNAP.test(f)), changeset: changeset.slice(0, 4000) };
       const s = await check(c, comps);

@@ -38,7 +38,7 @@ jobs:
       WALK_MINUTES: ${{ inputs.walk_minutes || '70' }}
       COREPACK_ENABLE_DOWNLOAD_PROMPT: '0'
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with: { persist-credentials: false }
       - name: Find the data so far
         id: data
@@ -46,13 +46,13 @@ jobs:
         run: |
           if gh api "repos/${{ github.repository }}/branches/learn-data" --silent; then echo "exists=true" >> "$GITHUB_OUTPUT"
           else echo "No learn-data branch yet: starting from nothing"; mkdir -p data; fi
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         if: steps.data.outputs.exists == 'true'
         with: { ref: learn-data, path: data, persist-credentials: false }
 
-      - uses: actions/setup-node@v4
+      - uses: actions/setup-node@v5
         with: { node-version: 22 }
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with: { python-version: '3.12', cache: pip, cache-dependency-path: learn/requirements.txt }
       - name: Make room on disk
         run: |
@@ -82,15 +82,15 @@ jobs:
 
       - name: Keep the logs
         if: always()
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with: { name: 'learn-logs-${{ github.run_number }}', path: '${{ runner.temp }}/logs', retention-days: 14, if-no-files-found: ignore }
       - name: Hand the data to publish
         if: ${{ !cancelled() }}
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with: { name: learn-data, path: data, retention-days: 3 }
       - name: Hand the model to publish
         if: ${{ !cancelled() }}
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with: { name: learn-model, path: '${{ runner.temp }}/model', retention-days: 14, if-no-files-found: ignore }
 
   publish:
@@ -102,12 +102,12 @@ jobs:
       contents: write                  # the learn-data and learn-model branches
       pull-requests: write             # the model PR
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/download-artifact@v4
+      - uses: actions/checkout@v5
+      - uses: actions/download-artifact@v7
         id: download
         continue-on-error: true
         with: { name: learn-data, path: new }
-      - uses: actions/download-artifact@v4
+      - uses: actions/download-artifact@v7
         id: model
         continue-on-error: true
         with: { name: learn-model, path: model }

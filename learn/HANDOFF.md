@@ -436,7 +436,7 @@ whose accept/deny decisions would be ideal labels but are not in the repository.
   | a changeset, nothing undone | 0 | 0.6 |
   | no evidence | none (left out of training) | |
 - `round.sh`: one round, in two phases.
-  - `walk` checks the next commits of each repository for a time budget, shared between them.
+  - `walk` checks the next commits for a time budget, one repository at a time (see Time budget below).
   - `train` relabels everything, stores the summaries compressed, and runs `weekly.js` with a fixed 20 %
     of each repository's labelled commits held out. A commit is held out when a hash of its name says
     so (`dataset.js --split`), so it stays held out as the data grows. The held-out commits form a set
@@ -480,8 +480,10 @@ repositories.
 
 - **Schedule.** A round every two hours (`7 */2 * * *`), or on demand from the Actions tab. Rounds never
   overlap; a late one waits for the one running.
-- **Time budget.** About 70 minutes of walking, shared by Primer and EUI; the first repository changes
-  each round. Then a few minutes to relabel and run `weekly.js`.
+- **Time budget.** About 70 minutes of walking, then a few minutes to relabel and run `weekly.js`. The
+  walk takes one repository at a time, in the order of `REPOS`: it stays on a repository until every
+  style-changing commit in its window (`SINCE`) is checked, then moves on to the next. Repositories that
+  are done come first each round, but only have their new commits to check.
 - **Two jobs.**
   - `collect` installs and builds the libraries, which runs their install scripts, so its token is
     read-only.

@@ -125,5 +125,26 @@
     ],
     "style": "\\.(css|scss)$",
     "snapshots": "__snapshots__/[^/]+-snapshots/[^/]+\\.png$"
+  },
+  "fuselage": {
+    "url": "https://github.com/RocketChat/fuselage",
+    "branch": "main",
+    "lockfile": "yarn.lock",
+    "install": "corepack yarn install --immutable --mode=skip-build",
+    "storybookPackage": "packages/fuselage",
+    "storybookConfig": "packages/fuselage/.storybook/main.ts",
+    "storiesPattern": "['../src/**/*.stories.{mdx,js,tsx}', '../src/**/*.mdx']",
+    "storyGlob": "../src/components/{c}/**/*.stories.{js,tsx}",
+    "patches": [
+      [
+        "reactDocgen: 'react-docgen-typescript'",
+        "reactDocgen: false"
+      ]
+    ],
+    "build": "(cd ../.. && TURBO_TELEMETRY_DISABLED=1 corepack yarn turbo run build --filter=@rocket.chat/fuselage^... --no-daemon --output-logs=errors-only) && npx storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "packages/fuselage/src/components",
+    "skipDirs": [],
+    "style": "\\.scss$",
+    "snapshots": "packages/fuselage/test/snapshots/.*\\.png$"
   }
 }

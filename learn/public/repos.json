@@ -59,26 +59,29 @@
     "node": "nvmrc",
     "version": 2
   },
-  "gravity-uikit": {
-    "url": "https://github.com/gravity-ui/uikit",
+  "primer-brand": {
+    "url": "https://github.com/primer/brand",
     "branch": "main",
     "lockfile": "package-lock.json",
-    "install": "HUSKY=0 npm ci --no-audit --no-fund --loglevel=error --before=\"$(git log -1 --format=%cI)\"",
-    "storybookPackage": ".",
-    "storybookConfig": ".storybook/main.ts",
-    "storiesPattern": "['../src/**/*.mdx', '../src/**/*.stories.@(ts|tsx)']",
-    "storyGlob": "../src/components/{c}/**/*.stories.@(ts|tsx)",
+    "install": "npm ci --no-audit --no-fund --loglevel=error",
+    "storybookPackage": "apps/storybook",
+    "storybookConfig": "apps/storybook/.storybook/main.js",
+    "storiesPattern": "['../../../packages/react/src/**/*.stories.@(js|jsx|ts|tsx)']",
+    "storyGlob": "../../../packages/react/src/{c}/**/*.stories.@(js|jsx|ts|tsx)",
     "patches": [],
-    "build": "npx storybook build --quiet --disable-telemetry -o {out}",
-    "componentRoot": "src/components",
+    "build": "(cd ../../packages/design-tokens && npm run build --silent) && NODE_ENV=test npx storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "packages/react/src",
     "skipDirs": [
+      "css",
+      "fixtures",
+      "hooks",
       "utils",
-      "mobile",
-      "theme",
-      "ControlLabel"
+      "test-utils",
+      "component-helpers"
     ],
-    "style": "\\.(css|scss)$",
-    "snapshots": "__snapshots__/[^/]+-snapshots/[^/]+\\.png$"
+    "style": "\\.css$",
+    "snapshots": "\\.visual\\.spec\\.tsx?-snapshots/.*\\.png$",
+    "node": "24.14.1"
   },
   "vkui": {
     "url": "https://github.com/vkcom/VKUI",
@@ -101,5 +104,26 @@
     "skipDirs": [],
     "style": "\\.css$",
     "snapshots": "__image_snapshots__/.*\\.(png|webp)$"
+  },
+  "gravity-uikit": {
+    "url": "https://github.com/gravity-ui/uikit",
+    "branch": "main",
+    "lockfile": "package-lock.json",
+    "install": "HUSKY=0 npm ci --no-audit --no-fund --loglevel=error --before=\"$(git log -1 --format=%cI)\"",
+    "storybookPackage": ".",
+    "storybookConfig": ".storybook/main.ts",
+    "storiesPattern": "['../src/**/*.mdx', '../src/**/*.stories.@(ts|tsx)']",
+    "storyGlob": "../src/components/{c}/**/*.stories.@(ts|tsx)",
+    "patches": [],
+    "build": "npx storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "src/components",
+    "skipDirs": [
+      "utils",
+      "mobile",
+      "theme",
+      "ControlLabel"
+    ],
+    "style": "\\.(css|scss)$",
+    "snapshots": "__snapshots__/[^/]+-snapshots/[^/]+\\.png$"
   }
 }

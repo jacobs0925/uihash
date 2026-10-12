@@ -104,14 +104,23 @@ function serve(dir) {
 }
 // story ids to leave out (dev-only stories); "skipStories" overrides it where a library's main story is its "Playground"
 const SKIP_STORIES = new RegExp(R.skipStories || 'playground|dev|performance|test', 'i');
-function stories(dir, max) {
+// up to max stories, taken in turn from each of the commit's components: the index is in title order, so the
+// first component would otherwise take them all. Stories of none of them come last.
+function stories(dir, max, comps = []) {
   const idx = JSON.parse(fs.readFileSync(path.join(dir, 'index.json'), 'utf8'));
-  return Object.values(idx.entries).filter((e) => e.type === 'story' && !SKIP_STORIES.test(e.id)).slice(0, max);
+  const groups = comps.map(() => []), rest = [];
+  for (const e of Object.values(idx.entries).filter((x) => x.type === 'story' && !SKIP_STORIES.test(x.id))) {
+    const i = comps.findIndex((c) => (e.importPath || '').includes(`/${c}/`));
+    (i < 0 ? rest : groups[i]).push(e);
+  }
+  const out = [];
+  for (let k = 0; out.length < max && groups.some((g) => k < g.length); k++) for (const g of groups) if (k < g.length && out.length < max) out.push(g[k]);
+  return out.concat(rest).slice(0, max);
 }
 
 async function check(c, comps) {
   const base = build(c.parent, comps), head = build(c.sha, comps);
-  const list = stories(head, +opt('stories', 24)).filter((e) => fs.existsSync(path.join(base, 'index.json')) && JSON.parse(fs.readFileSync(path.join(base, 'index.json'), 'utf8')).entries[e.id]);
+  const list = stories(head, +opt('stories', 24), comps).filter((e) => fs.existsSync(path.join(base, 'index.json')) && JSON.parse(fs.readFileSync(path.join(base, 'index.json'), 'utf8')).entries[e.id]);
   if (!list.length) return null;
   const [sb, sh2] = [await serve(base), await serve(head)];
   try {

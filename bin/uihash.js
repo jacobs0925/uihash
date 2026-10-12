@@ -12,6 +12,7 @@
 //             [--cache-dir dir --cache-key <base sha>] [--image-base-url <url, may contain {file}>]
 //             [--expect-no-change]   (the PR says it changes no UI: every finding is to check)
 //             [--model model.json]   (advisory learned triage: a score per finding, see learn/HANDOFF.md)
+//             [--feedback]           (tick boxes per finding in the comment: "intended" / "a mistake")
 //                                                              PR check: base vs head, report + PR comment
 // UI states (menus, dialogs, tabs): --state name=selector[;selector...] (repeatable) clicks the
 // selectors in order after load; each state gets its own schema, and check/digest replay them.
@@ -143,7 +144,7 @@ function printFindings(res) {
   } else if (cmd === 'pr') {
     if (!o.base || !o.head || !o.config) throw new Error('pr needs --base <url> --head <url> --config <file>');
     const { runPR } = require('../src/pr.js');
-    const config = { ...require('../src/pr.js').loadConfig(o.config), ...(o['expect-no-change'] ? { expectNoChange: true } : {}), ...(o.model ? { model: path.resolve(o.model) } : {}) };
+    const config = { ...require('../src/pr.js').loadConfig(o.config), ...(o['expect-no-change'] ? { expectNoChange: true } : {}), ...(o.model ? { model: path.resolve(o.model) } : {}), ...(o.feedback ? { feedback: true } : {}) };
     const s = await runPR({ baseUrl: o.base, headUrl: o.head, config, outDir: o.out || 'uihash-report', cacheDir: o['cache-dir'], cacheKey: o['cache-key'], imageBaseUrl: o['image-base-url'], log: (m) => process.stderr.write(m + '\n') });
     for (const p of s.pages) {
       if (p.status === 'new') console.log(`• ${p.page} / ${p.state}: new, no baseline on the base build${p.message ? ` (${p.message})` : ''}`);

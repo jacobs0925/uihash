@@ -695,7 +695,7 @@ async function runPR({ baseUrl, headUrl, config, outDir, cacheDir, cacheKey, ima
     const sigOf = (p) => [p.page, p.state, p.status, ...p.findings.map((f) => [f.severity, f.type, f.path, ...f.changes].join('\u0001')).sort()].join('\u0002');
     const signature = crypto.createHash('sha1').update(pages.filter((p) => !p.pass || p.status === 'new').map(sigOf).sort().join('\u0003')).digest('hex').slice(0, 16);
     const summary = { base: baseUrl, head: headUrl, ms: Date.now() - t0, targets: pages.length, changed: pages.filter((p) => !p.pass).length, failed: pages.filter((p) => !p.ok).length,
-      fresh: pages.filter((p) => p.status === 'new').length, signature, ...(cfg.expectNoChange ? { expectNoChange: true } : {}), pages };
+      fresh: pages.filter((p) => p.status === 'new').length, signature, ...(cfg.expectNoChange ? { expectNoChange: true } : {}), ...(cfg.feedback ? { feedback: true } : {}), pages };
     // advisory learned triage: a score per finding, never part of the signature
     if (cfg.model) { const { loadModel, scoreSummary } = require('./model.js'); scoreSummary(summary, typeof cfg.model === 'string' ? loadModel(cfg.model) : cfg.model); }
     fs.writeFileSync(path.join(outDir, 'summary.json'), JSON.stringify(summary, null, 1));
@@ -789,6 +789,9 @@ const stateLabel = (st, forced) => (forced ? `:${st} forced` : st);
 const where = (x) => `${x.page} — ${stateLabel(x.state, x.forced)}${x.vp ? ` · ${x.vp}` : ''}`;
 const status = (p) => ({ new: '🆕 new, no baseline', error: '❌ failed to render', same: '✅ same' })[p.status] || (p.ok ? `⚠️ ${p.warnings} warning(s)` : `❌ ${p.errors} change(s)`);
 const tidOf = (x) => tid({ page: x.page, state: x.state, vp: x.vp });
+// a finding's signature in the labelled-PR format (learn/dataset.js), and a short id of it for the comment
+const findingSig = (p, f) => [p.page, p.state, p.vp, f.type, f.path, ...f.changes].join('|');
+const findingId = (p, f) => crypto.createHash('sha1').update(findingSig(p, f)).digest('hex').slice(0, 10);
 function imageUrl(base, file) { return base.includes('{file}') ? base.replace('{file}', file) : `${base.replace(/\/$/, '')}/${file}`; }
 
 const ruled = (f) => f.triage === 'breaks' || f.triage === 'check';
@@ -843,6 +846,17 @@ function commentMd(s, imageBaseUrl) {
       for (const f of seen) { const k = where(f.sameAs); by.set(k, [...(by.get(k) || []), f.sameAs.n]); }
       L.push(`${fresh.length ? 'Also' : 'Only'} the change${seen.length > 1 ? 's' : ''} shown above: ${[...by].map(([k, ns]) => `${mdt(k)} ${ns.map((n) => '#' + n).join(', ')}`).join('; ')}.`, '');
     }
+  }
+  // per-finding feedback (config "feedback": true): a reviewer ticks whether each change was meant. The
+  // workflow keeps the ticks when it updates the comment; learn/collect.js reads them as labels.
+  const asked = s.feedback ? s.pages.flatMap((p) => p.findings.filter((f) => !f.sameAs && f.type !== 'coverage').map((f) => ({ p, f }))) : [];
+  if (asked.length) {
+    L.push('<details><summary>Was each change intended? Tick one box per change (optional: it trains the triage model)</summary>', '');
+    for (const { p, f } of asked.slice(0, 30)) {
+      const id = findingId(p, f);
+      L.push(`- [ ] ✅ intended: ${mdt(where(p))} **#${f.n}** <!-- uihash-f:${id}:deliberate -->`, `- [ ] ❌ a mistake: ${mdt(where(p))} **#${f.n}** <!-- uihash-f:${id}:mistake -->`);
+    }
+    L.push('', '</details>', '');
   }
   L.push('<sub>BEFORE = base branch, AFTER = this PR; red boxes mark what changed. If a change is intended, merge as usual: the base branch is the new baseline.</sub>');
   return L.join('\n') + '\n';
@@ -899,5 +913,18 @@ ${s.pages.filter((p) => !p.pass).map(card).join('')}${s.pages.filter((p) => p.pa
 </main></body></html>`;
 }
 
-module.exports = { runPR, loadConfig, targets, render, reportHtml, commentMd, why, triageOf };
+// the reviewer's ticks in a comment body: finding id -> 'deliberate' | 'mistake' (both ticked: dropped)
+function feedbackOf(body) {
+  const out = {}, both = new Set();
+  for (const m of String(body).matchAll(/^- \[[xX]\] .*<!-- uihash-f:([0-9a-f]+):(deliberate|mistake) -->/gm)) { if (out[m[1]] && out[m[1]] !== m[2]) both.add(m[1]); out[m[1]] = m[2]; }
+  for (const id of both) delete out[id];
+  return out;
+}
+// carry the ticks of an earlier comment over to a new one (same finding ids)
+function keepFeedback(oldBody, newBody) {
+  const ticked = new Set([...String(oldBody).matchAll(/^- \[[xX]\] .*(<!-- uihash-f:[0-9a-f]+:\w+ -->)/gm)].map((m) => m[1]));
+  return newBody.replace(/^- \[ \] (.*(<!-- uihash-f:[0-9a-f]+:\w+ -->))$/gm, (line, rest, mark) => (ticked.has(mark) ? `- [x] ${rest}` : line));
+}
+
+module.exports = { runPR, loadConfig, targets, render, reportHtml, commentMd, why, triageOf, findingSig, findingId, feedbackOf, keepFeedback };
 

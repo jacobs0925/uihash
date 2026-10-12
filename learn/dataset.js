@@ -11,7 +11,7 @@
 //   { split, set, pr, group, app, kind: regression | deliberate | mixed, prY, side, y, w, x, sig, triage, type, text }
 const fs = require('fs');
 const path = require('path');
-const { findingsOf } = require('./features.js');
+const { findingsOf } = require('../src/features.js');
 
 const sigOf = (p, f) => [p.page, p.state, p.vp, f.type, f.path, ...f.changes].join('|');
 const read = (f) => JSON.parse(fs.readFileSync(f, 'utf8'));

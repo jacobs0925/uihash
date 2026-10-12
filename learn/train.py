@@ -1,6 +1,6 @@
 """Train uihash's triage model and test it.
 
-Usage: python learn/train.py rows.jsonl model.json [report.md] [--variant all|local]
+Usage: python learn/train.py rows.jsonl model.json [report.md] [--variant all|local] [--kind logistic|trees]
 
 rows.jsonl comes from dataset.js. Rows with split=train are fitted (synthetic PRs, and later real PRs
 with trusted labels); rows with split=eval are only scored, so they measure how the model does on PRs
@@ -12,8 +12,8 @@ both on the out-of-fold scores of the cross-validation (whole operators held out
 --variant local leaves out the features about the PR as a whole (pr_*), which helps to tell the two
 sides of a PR apart when it holds a deliberate change and a mistake.
 
-Writes model.json (the logistic model, which src/model.js-style code can run with a dot product) and a
-markdown report with every number.
+Writes model.json (by default the logistic model, which src/model.js runs with a dot product; --kind trees
+exports the gradient-boosted trees as arrays src/model.js walks) and a markdown report with every number.
 """
 import json, sys, math
 from collections import defaultdict
@@ -28,9 +28,11 @@ from sklearn.model_selection import GroupKFold
 args = [a for a in sys.argv[1:] if not a.startswith('--')]
 VARIANT = sys.argv[sys.argv.index('--variant') + 1] if '--variant' in sys.argv else 'all'
 if VARIANT in args: args.remove(VARIANT)
-rows = [json.loads(l) for l in open(args[0])]
+KIND = sys.argv[sys.argv.index('--kind') + 1] if '--kind' in sys.argv else 'logistic'
+if KIND in args: args.remove(KIND)
+rows = [json.loads(l) for l in open(args[0], encoding='utf8')]
 out_model = args[1]
-report = open(args[2], 'w') if len(args) > 2 else sys.stdout
+report = open(args[2], 'w', encoding='utf8') if len(args) > 2 else sys.stdout
 def say(*a): print(*a, file=report); report.flush()
 
 train = [r for r in rows if r['split'] == 'train']
@@ -161,8 +163,25 @@ order = np.argsort(-np.abs(lm.coef_[0]))
 say('## Strongest features (logistic model, standardized weights)\n')
 say(', '.join(f'`{names[i]}` {lm.coef_[0][i]:+.2f}' for i in order[:30]))
 scale = np.where(sc.scale_ == 0, 1, sc.scale_)
-json.dump({'kind': 'logistic', 'variant': VARIANT, 'features': list(names), 'mean': list(sc.mean_), 'scale': list(scale),
-           'coef': list(lm.coef_[0]), 'intercept': float(lm.intercept_[0]), 'thresholds': {'flag': t_flag, 'obvious': t_obv},
-           'trained_on': {'prs': len({r['pr'] for r in train}), 'findings': len(train), 'sets': sorted({r['set'] for r in train})},
-           'best_on_eval': best[1] if best else None}, open(out_model, 'w'), indent=1)
-say(f'\nWrote the logistic model to {out_model}' + (f'; best on the evaluation PRs: {best[1]} (AUROC {best[0]:.3f})' if best else ''))
+common = {'variant': VARIANT, 'features': list(names),
+          'trained_on': {'prs': len({r['pr'] for r in train}), 'findings': len(train), 'sets': sorted({r['set'] for r in train})},
+          'best_on_eval': best[1] if best else None}
+if KIND == 'logistic':
+    out = {'kind': 'logistic', **common, 'mean': list(sc.mean_), 'scale': list(scale), 'coef': list(lm.coef_[0]),
+           'intercept': float(lm.intercept_[0]), 'thresholds': {'flag': t_flag, 'obvious': t_obv}}
+else:
+    # each regression tree as arrays (left = -1 at a leaf; x[feature] <= threshold goes left) and the
+    # prior log-odds, so that log-odds = init + rate * (sum of the leaves reached)
+    _, (gm, _), tt_flag, tt_obv = fitted['trees']
+    trees = [{'feature': [int(v) for v in e.tree_.feature], 'threshold': [float(v) for v in e.tree_.threshold],
+              'left': [int(v) for v in e.tree_.children_left], 'right': [int(v) for v in e.tree_.children_right],
+              'value': [float(v) for v in e.tree_.value[:, 0, 0]]} for e in gm.estimators_[:, 0]]
+    init = float(gm._raw_predict_init(Xtr[:1])[0, 0])
+    z = init + gm.learning_rate * sum(np.array(t['value'])[e.apply(Xtr.astype(np.float32))] for t, e in zip(trees, gm.estimators_[:, 0]))
+    assert np.allclose(1 / (1 + np.exp(-z)), gm.predict_proba(Xtr)[:, 1], atol=1e-6), 'the tree export does not reproduce sklearn'
+    out = {'kind': 'trees', **common, 'init': init, 'rate': float(gm.learning_rate), 'trees': trees, 'thresholds': {'flag': tt_flag, 'obvious': tt_obv}}
+# a few training findings with sklearn's scores, so the JavaScript runtime can check it scores the same
+pick = np.linspace(0, len(train) - 1, num=min(8, len(train))).astype(int)
+out['checks'] = [{'x': train[i]['x'], 'p': float(fitted[KIND][0](Xtr[i:i + 1])[0])} for i in pick]
+json.dump(out, open(out_model, 'w'), indent=1)
+say(f'\nWrote the {KIND} model to {out_model}' + (f'; best on the evaluation PRs: {best[1]} (AUROC {best[0]:.3f})' if best else ''))

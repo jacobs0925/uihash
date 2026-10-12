@@ -166,6 +166,30 @@
     "style": "\\.scss$",
     "snapshots": "packages/fuselage/test/snapshots/.*\\.png$"
   },
+  "retail-ui": {
+    "url": "https://github.com/skbkontur/retail-ui",
+    "branch": "master",
+    "lockfile": "yarn.lock",
+    "install": "HUSKY=0 yarn install --pure-lockfile --ignore-engines --non-interactive --network-timeout 600000",
+    "storybookPackage": "packages/react-ui",
+    "storybookConfig": "packages/react-ui/.storybook/main.ts",
+    "storiesPattern": [
+      "['../components/**/!(*.docs)*.stories.tsx', '../internal/**/*.stories.tsx', '../lib/**/*.stories.tsx']",
+      "['../components/**/!(*.docs)*.stories.tsx', '../internal/**/*.stories.tsx']"
+    ],
+    "storyGlob": "../components/{c}/**/!(*.docs)*.stories.tsx",
+    "patches": [],
+    "build": "grep -qE \"key( =|:) REACT_UI_PREFIX,\" lib/theming/Emotion.ts && sed -i -E \"s/key( =|:) REACT_UI_PREFIX,/key\\\\1 'emotion',/\" lib/theming/Emotion.ts && STORYBOOK_REACT_UI_TEST=true ../../node_modules/.bin/storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "packages/react-ui/components",
+    "skipDirs": [
+      "__creevey__",
+      "__mocks__",
+      "__stories__",
+      "__tests__"
+    ],
+    "style": "\\.styles\\.tsx?$|\\.mixins\\.ts$",
+    "snapshots": "^packages/react-ui/\\.creevey/images/.*\\.png$"
+  },
   "spectrum-web-components-2nd-gen": {
     "url": "https://github.com/adobe/spectrum-web-components",
     "branch": "main",

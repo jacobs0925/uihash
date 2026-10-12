@@ -25,6 +25,8 @@ const out = path.join(DATA, NAME);
 const sh = (cmd, cwd, env = {}) => execSync(cmd, { cwd, stdio: ['ignore', 'pipe', 'pipe'], encoding: 'utf8', maxBuffer: 1 << 28, timeout: 30 * 60e3, env: { ...process.env, ...env } });
 const git = (args, cwd = clone) => execFileSync('git', args, { cwd, encoding: 'utf8', maxBuffer: 1 << 28, stdio: ['ignore', 'pipe', 'pipe'] });
 const STYLE = new RegExp(R.style), SNAP = new RegExp(R.snapshots), SRC = R.componentRoot;
+// changeset files (labelling evidence); "changesets" overrides it where a monorepo keeps them per package
+const CHANGESET = new RegExp(R.changesets || '^\\.changeset/.*\\.md$');
 const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
 // a repository may need its own Node version: "node": "24.19.0", or "nvmrc" for the checked-out commit's
 // .nvmrc (some repositories check the exact version). Fetched once into the work dir, put first on PATH.
@@ -76,8 +78,8 @@ function build(sha, comps) {
   const pattern = [].concat(R.storiesPattern).find((p) => original.includes(p));
   if (!pattern) throw new Error(`${R.storybookConfig} at ${sha.slice(0, 8)} has none of the recipe's storiesPattern values`);
   let patched = original.replace(pattern, () => JSON.stringify(comps.map((c) => R.storyGlob.replace('{c}', c))));
-  for (const [a, b] of R.patches || []) {
-    if (!patched.includes(a)) throw new Error(`${R.storybookConfig} at ${sha.slice(0, 8)} lacks the recipe's patch anchor ${JSON.stringify(a.slice(0, 60))}`);
+  for (const [a, b, optional] of R.patches || []) {          // a third element "optional": the anchor exists only part of the time
+    if (!patched.includes(a)) { if (optional) continue; throw new Error(`${R.storybookConfig} at ${sha.slice(0, 8)} lacks the recipe's patch anchor ${JSON.stringify(a.slice(0, 60))}`); }
     patched = patched.split(a).join(b);
   }
   fs.writeFileSync(main, patched);
@@ -156,7 +158,7 @@ async function check(c, comps) {
       // Fluent UI), of which only the type and comment are kept (they also hold the author's email)
       const show = (f) => { try { return git(['show', `${c.sha}:${f}`]); } catch (e) { return ''; } };
       const beachball = (f) => { try { const j = JSON.parse(show(f)); return j.comment ? `${j.type || 'change'}: ${j.comment}` : ''; } catch (e) { return ''; } };
-      const changeset = c.files.map((f) => (/^\.changeset\/.*\.md$/.test(f) ? show(f) : /^change\/.*\.json$/.test(f) ? beachball(f) : '')).filter(Boolean).join('\n');
+      const changeset = c.files.map((f) => (CHANGESET.test(f) ? show(f) : /^change\/.*\.json$/.test(f) ? beachball(f) : '')).filter(Boolean).join('\n');
       const meta = { repo: NAME, sha: c.sha, parent: c.parent, date: c.date, subject: c.subject, pr: c.pr, components: comps, files: c.files,
         snapshotsUpdated: c.files.filter((f) => SNAP.test(f)), changeset: changeset.slice(0, 4000) };
       const s = await check(c, comps);

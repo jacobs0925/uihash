@@ -165,5 +165,69 @@
     "skipDirs": [],
     "style": "\\.scss$",
     "snapshots": "packages/fuselage/test/snapshots/.*\\.png$"
+  },
+  "spectrum-web-components-2nd-gen": {
+    "url": "https://github.com/adobe/spectrum-web-components",
+    "branch": "main",
+    "lockfile": "yarn.lock",
+    "install": "corepack yarn install --immutable",
+    "storybookPackage": "2nd-gen/packages/swc",
+    "storybookConfig": "2nd-gen/packages/swc/.storybook/main.ts",
+    "storiesPattern": "export default config;",
+    "storyGlob": "../components/{c}/**/*.stories.ts",
+    "patches": [
+      [
+        "[\"../components/",
+        "export default { ...config, stories: [\"../components/"
+      ],
+      [
+        ".stories.ts\"]",
+        ".stories.ts\"] };"
+      ],
+      [
+        "resolve(__dirname, './addons/screen-reader-addon')",
+        "...[]",
+        "optional"
+      ]
+    ],
+    "build": "corepack yarn analyze && npx storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "2nd-gen/packages/swc/components",
+    "skipDirs": [],
+    "style": "\\.css$",
+    "snapshots": "^$",
+    "node": "nvmrc",
+    "changesets": "^(2nd-gen/)?\\.changeset/(?!README\\.md$)[^/]+\\.md$"
+  },
+  "spectrum-web-components": {
+    "url": "https://github.com/adobe/spectrum-web-components",
+    "branch": "main",
+    "lockfile": "yarn.lock",
+    "install": "corepack yarn install --immutable",
+    "storybookPackage": "gen2/packages/swc",
+    "storybookConfig": "gen2/packages/swc/.storybook/main.ts",
+    "storiesPattern": "export default config;",
+    "storyGlob": "../components/{c}/**/*.stories.ts",
+    "patches": [
+      [
+        "[\"../components/",
+        "export default { ...config, stories: [\"../components/"
+      ],
+      [
+        ".stories.ts\"]",
+        ".stories.ts\"] };"
+      ],
+      [
+        "resolve(__dirname, './addons/screen-reader-addon')",
+        "...[]",
+        "optional"
+      ]
+    ],
+    "build": "corepack yarn analyze && npx storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "gen2/packages/swc/components",
+    "skipDirs": [],
+    "style": "\\.css$",
+    "snapshots": "^$",
+    "node": "nvmrc",
+    "changesets": "^(gen2/)?\\.changeset/(?!README\\.md$)[^/]+\\.md$"
   }
 }

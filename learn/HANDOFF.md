@@ -437,7 +437,11 @@ Kit, PatternFly React, commercetools UI Kit).
   Storybook config and its stories value to narrow (a list when it changed over time), extra patches,
   the Node version, which story ids to skip, and which files count as styles and as visual baselines.
   A commit whose config fits none of the stories values or lacks a patch's anchor fails, instead of
-  checking the wrong stories. Raising a library's `version` checks its commits again, after a recipe fix.
+  checking the wrong stories (a patch marked `"optional"` is for an anchor that exists only part of the
+  time). Raising a library's `version` checks its commits again, after a recipe fix. `changesets` says
+  where a monorepo keeps its changeset files.
+- `check-recipe.js`: whether a recipe fits every version its library's Storybook config had in the
+  window, from git alone. Run it before adding or changing a recipe.
 - `walk.js`: for each commit on `main` that changes styles, it:
   1. builds the Storybook of the commit and of its parent, with only the stories of the components the
      commit touched (about a minute each instead of three);

@@ -19,6 +19,7 @@ const { calibrate, check, digest, boxOf } = require('./fingerprint.js');
 const { moved } = require('./shift.js');
 const { colorHint } = require('./perceive.js');
 const { focusLost } = require('./focus.js');
+const { findingSig, findingId } = require('./features.js');
 
 const sha1 = (buf) => (buf ? crypto.createHash('sha1').update(buf).digest('hex') : null);
 const { annotate, beforeAfter, pixelsDiffer, read } = require('./annotate.js');
@@ -697,7 +698,7 @@ async function runPR({ baseUrl, headUrl, config, outDir, cacheDir, cacheKey, ima
     const summary = { base: baseUrl, head: headUrl, ms: Date.now() - t0, targets: pages.length, changed: pages.filter((p) => !p.pass).length, failed: pages.filter((p) => !p.ok).length,
       fresh: pages.filter((p) => p.status === 'new').length, signature, ...(cfg.expectNoChange ? { expectNoChange: true } : {}), ...(cfg.feedback ? { feedback: true } : {}), pages };
     // advisory learned triage: a score per finding, never part of the signature
-    if (cfg.model) { const { loadModel, scoreSummary } = require('./model.js'); scoreSummary(summary, typeof cfg.model === 'string' ? loadModel(cfg.model) : cfg.model); }
+    if (cfg.model) { const { loadModel, scoreSummary } = require('./model.js'); scoreSummary(summary, typeof cfg.model === 'string' ? loadModel(cfg.model) : cfg.model, cfg.prText !== undefined ? { text: cfg.prText } : null); }
     fs.writeFileSync(path.join(outDir, 'summary.json'), JSON.stringify(summary, null, 1));
     fs.writeFileSync(path.join(outDir, 'report.html'), reportHtml(summary));
     fs.writeFileSync(path.join(outDir, 'comment.md'), commentMd(summary, imageBaseUrl || cfg.imageBaseUrl));
@@ -789,9 +790,6 @@ const stateLabel = (st, forced) => (forced ? `:${st} forced` : st);
 const where = (x) => `${x.page} — ${stateLabel(x.state, x.forced)}${x.vp ? ` · ${x.vp}` : ''}`;
 const status = (p) => ({ new: '🆕 new, no baseline', error: '❌ failed to render', same: '✅ same' })[p.status] || (p.ok ? `⚠️ ${p.warnings} warning(s)` : `❌ ${p.errors} change(s)`);
 const tidOf = (x) => tid({ page: x.page, state: x.state, vp: x.vp });
-// a finding's signature in the labelled-PR format (learn/dataset.js), and a short id of it for the comment
-const findingSig = (p, f) => [p.page, p.state, p.vp, f.type, f.path, ...f.changes].join('|');
-const findingId = (p, f) => crypto.createHash('sha1').update(findingSig(p, f)).digest('hex').slice(0, 10);
 function imageUrl(base, file) { return base.includes('{file}') ? base.replace('{file}', file) : `${base.replace(/\/$/, '')}/${file}`; }
 
 const ruled = (f) => f.triage === 'breaks' || f.triage === 'check';

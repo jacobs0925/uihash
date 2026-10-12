@@ -1,6 +1,7 @@
 // Features of a finding for the triage model: what kind of change it is, which properties, how big,
 // where it comes from (CSS attribution), what it breaks or takes away, and the PR around it. The
 // same function runs at training time (on summary.json files) and at check time (src/model.js).
+const crypto = require('crypto');
 const LAYOUT_KIND = /^(layout: [a-z ,]+|accessibility tree|text contrast|no longer matches its siblings|colours now hard to tell apart|no longer told apart|states no longer shown|hover feedback|only some instances changed|round trip[a-z ]*)/;
 const PROP_GROUPS = [
   ['colour', /^(color|background-color|background|fill|stroke|border-[a-z-]*color|outline-color|caret-color|text-decoration-color|accent-color|--)/],
@@ -52,7 +53,7 @@ function textFeatures(changes, x) {
 }
 
 // rows: one per fresh finding of a summary.json, with the PR-level context each finding needs
-function findingsOf(s) {
+function findingsOf(s, ctx = null) {
   const all = s.pages.flatMap((p) => p.findings.filter((f) => !f.sameAs && f.type !== 'coverage').map((f) => ({ p, f })));
   const edits = Math.max(0, ...s.pages.map((p) => (p.edits || []).length));
   const byEdit = {};
@@ -99,8 +100,38 @@ function findingsOf(s) {
     x.pr_types = types.size;
     x.pr_hot_share = all.length ? hot / all.length : 0;
     x.pr_edits_log = Math.log1p(edits);
+    // what the PR says it does, when known (real PRs): how much of the finding its text names, and the
+    // intent judge's verdict (learn/intent.js). Synthetic PRs have neither, so these stay 0 there.
+    if (ctx && typeof ctx.text === 'string') { x.intent_known = 1; x.intent_mentions = mentions(ctx.text, f); }
+    const v = ctx && ctx.intent && ctx.intent[findingId(p, f)];
+    if (v) { x['judge=' + v.verdict] = 1; x.judge_conf = v.confidence; }
     return { p, f, x };
   });
 }
 
-module.exports = { findingsOf, lev };
+// a finding's signature in the labelled-PR format (learn/dataset.js), and a short id of it (comment, judge)
+const findingSig = (p, f) => [p.page, p.state, p.vp, f.type, f.path, ...f.changes].join('|');
+const findingId = (p, f) => crypto.createHash('sha1').update(findingSig(p, f)).digest('hex').slice(0, 10);
+
+// Does a PR's text name what a finding is about? Its terms: the classes, ids and tags of the last two
+// path segments, the changed properties and the words of changed text; the result is the share of them
+// the title and description name (0: none).
+const STOP = new Set('the and for with from that this into are was were has have not but you your our its all any can div span html body main section'.split(' '));
+const words = (t) => new Set(String(t || '').toLowerCase().replace(/[^a-z0-9#-]+/g, ' ').split(' ').flatMap((w) => [w, ...w.split('-')]).filter((w) => w.length >= 3 && !STOP.has(w)));
+function terms(f) {
+  const out = new Set();
+  for (const seg of f.path.split(' > ').slice(-2)) for (const w of words(seg.replace(/\[[^\]]*\]|\{\d+\}|@.*$/g, '').replace(/[.#]/g, ' '))) out.add(w);
+  for (const c of f.changes) {
+    const m = /^([a-z-]+|--[a-z0-9-]+|@[a-z-]+):/.exec(c);
+    if (m && m[1] !== 'text') for (const w of words(m[1].replace(/^--|^@/, ''))) out.add(w);
+    const t = /^text: "(.*)" → "(.*)"/.exec(c);
+    if (t) for (const w of words(t[2])) out.add(w);
+  }
+  return out;
+}
+function mentions(text, f) {
+  const T = words(text), t = [...terms(f)];
+  return t.length ? t.filter((w) => T.has(w)).length / t.length : 0;
+}
+
+module.exports = { findingsOf, lev, findingSig, findingId, mentions, terms };

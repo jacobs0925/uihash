@@ -38,8 +38,9 @@ function scoreOf(m, x) {
 // Adds `score` (0..1) to every fresh finding of a summary.json, `obvious: true` at or above the
 // model's obvious-mistake threshold and `modelFlag: true` at or above its flag threshold, plus
 // summary.model describing the model. Returns the summary.
-function scoreSummary(s, m) {
-  for (const { f, x } of findingsOf(s)) {
+// ctx: what the PR says it does ({ text: title and description }), when the caller knows it.
+function scoreSummary(s, m, ctx = null) {
+  for (const { f, x } of findingsOf(s, ctx)) {
     const p = scoreOf(m, x);
     f.score = Math.round(p * 1000) / 1000;
     if (p >= m.thresholds.flag) f.modelFlag = true;

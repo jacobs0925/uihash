@@ -6,7 +6,9 @@
 //   <dir>/<pr>/summary.json   what `uihash pr` wrote for the PR
 //   <dir>/<pr>/label.json     { "label": 1 (has a regression) | 0 (all intended), "source": "...", "confidence": 0..1,
 //                               "group": "<operator, app or repo>", "app": "<app or repo>" }
-//   <dir>/<pr>/sides.json     optional: finding signature -> "mistake" | "deliberate", for PRs with both
+//   <dir>/<pr>/sides.json     optional: finding signature -> "mistake" | "deliberate" | "unknown" (left out), for PRs with both
+//   <dir>/<pr>/meta.json      optional (real PRs): { title, body, ... } — the PR text features
+//   <dir>/<pr>/intent.json    optional (real PRs): the intent judge's verdicts (learn/intent.js)
 // Rows of --train dirs are fitted; rows of --eval dirs are only scored. A row:
 //   { split, set, pr, group, app, kind: regression | deliberate | mixed, prY, side, y, w, x, sig, triage, type, text }
 const fs = require('fs');
@@ -32,7 +34,10 @@ function rowsOf(dir, split) {
     const sides = fs.existsSync(path.join(d, 'sides.json')) ? read(path.join(d, 'sides.json')) : null;
     // a side of "unknown" (a labeler knows the PR, not this finding) leaves the finding out
     const sideOf = (sig) => (sides ? sides[sig] || 'mistake' : L.label ? 'mistake' : 'deliberate');
-    const rows = findingsOf(s).filter(({ p, f }) => sideOf(sigOf(p, f)) !== 'unknown');
+    const meta = fs.existsSync(path.join(d, 'meta.json')) ? read(path.join(d, 'meta.json')) : null;
+    const intent = fs.existsSync(path.join(d, 'intent.json')) ? read(path.join(d, 'intent.json')).verdicts : null;
+    const ctx = meta ? { text: `${meta.title || ''}\n${meta.body || ''}`, intent } : null;
+    const rows = findingsOf(s, ctx).filter(({ p, f }) => sideOf(sigOf(p, f)) !== 'unknown');
     const known = new Set(rows.map(({ p, f }) => sideOf(sigOf(p, f))));
     const kind = known.size > 1 ? 'mixed' : L.label ? 'regression' : 'deliberate';
     for (const { p, f, x } of rows) {

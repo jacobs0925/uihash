@@ -1,18 +1,22 @@
 // Labelers for the self-improvement loop (HANDOFF.md, "Label"), cheapest evidence first, on the raw store
 // collect.js fills. Each labelled PR becomes a labelled-PR directory dataset.js reads; PRs the labelers
 // disagree on go to a human queue instead.
-// Usage: node learn/label.js <raw/owner__repo> <outDir> [--now 2026-10-12] [--window 30]
+// Usage: node learn/label.js <raw/owner__repo> <outDir> [--now 2026-10-12] [--window 30] [--no-weak]
 //   1. reviewer ticks in the uihash comment (src/pr.js feedback): confidence 1, per finding
 //   2. undo miner: a later PR (within --window days) put a change back: label 1, confidence 0.8
 //      (0.9 when the later PR's title says fix, revert, regression...)
 //   3. outcome: approved with `ui-change-approved` for exactly what it showed, and nothing of it undone
 //      --window days later: label 0, confidence 0.6 (people also approve to get unblocked)
+//   4. intent judge (intent.json from learn/intent.js), only when nothing else knows the PR: a finding the
+//      judge calls unintended (confidence >= 0.7) makes label 1, every finding intended label 0, at
+//      confidence <= 0.5. --no-weak leaves these out (always, for evaluation sets).
 // Writes <outDir>/<pr>/{summary.json, label.json[, sides.json]} and <outDir>/queue.jsonl. A side of
 // "unknown" in sides.json means no labeler knows that finding: dataset.js leaves it out.
 const fs = require('fs');
 const path = require('path');
 const { undone } = require('./undo.js');
-const { findingSig, findingId, feedbackOf } = require('../src/pr.js');
+const { feedbackOf } = require('../src/pr.js');
+const { findingSig, findingId } = require('../src/features.js');
 
 const FIX = /\b(fix|fixes|fixed|revert|reverts|regression|restore|restores|broke|broken|bug|hotfix|undo)\b/i;
 const DAY = 864e5;
@@ -21,12 +25,13 @@ const fresh = (s) => s.pages.flatMap((p) => p.findings.filter((f) => !f.sameAs &
 
 function loadRaw(dir) {
   return fs.readdirSync(dir).filter((d) => fs.existsSync(path.join(dir, d, 'summary.json')) && fs.existsSync(path.join(dir, d, 'meta.json')))
-    .map((d) => ({ id: d, dir: path.join(dir, d), s: read(path.join(dir, d, 'summary.json')), m: read(path.join(dir, d, 'meta.json')) }))
+    .map((d) => ({ id: d, dir: path.join(dir, d), s: read(path.join(dir, d, 'summary.json')), m: read(path.join(dir, d, 'meta.json')),
+      intent: fs.existsSync(path.join(dir, d, 'intent.json')) ? read(path.join(dir, d, 'intent.json')) : null }))
     .sort((a, b) => a.m.mergedAt.localeCompare(b.m.mergedAt));
 }
 
 // every labeler's verdict on one PR: [{ source, label, confidence, sides: { sig: side }, evidence }]
-function verdicts(pr, later, { window = 30, now = Date.now() } = {}) {
+function verdicts(pr, later, { window = 30, now = Date.now(), weak = true } = {}) {
   const out = [], all = fresh(pr.s);
   // 1. reviewer ticks
   if (pr.m.comment) {
@@ -53,6 +58,15 @@ function verdicts(pr, later, { window = 30, now = Date.now() } = {}) {
   const approved = pr.m.approvedSignature && pr.m.approvedSignature === pr.s.signature;
   if (approved && !by && now - t0 >= window * DAY)
     out.push({ source: 'approval', label: 0, confidence: 0.6, sides: null, evidence: `approved with ui-change-approved, nothing undone within ${window} days` });
+  // 4. intent judge: weak, and only for PRs nothing else knows
+  if (weak && !out.length && pr.intent) {
+    const v = pr.intent.verdicts || {}, sides = {};
+    for (const { p, f } of all) { const x = v[findingId(p, f)]; if (x && x.verdict === 'unintended' && x.confidence >= 0.7) sides[findingSig(p, f)] = 'mistake'; }
+    const n = Object.keys(sides).length;
+    if (n) out.push({ source: 'agent', label: 1, confidence: 0.5, sides, evidence: `intent judge (${pr.intent.model}): ${n} change(s) the PR text does not explain` });
+    else if (all.every(({ p, f }) => (v[findingId(p, f)] || {}).verdict === 'intended'))
+      out.push({ source: 'agent', label: 0, confidence: 0.4, sides: null, evidence: `intent judge (${pr.intent.model}): the PR text explains every change` });
+  }
   return out;
 }
 
@@ -92,6 +106,9 @@ function label(rawDir, outDir, opts = {}) {
     const out = path.join(outDir, pr.id);
     fs.mkdirSync(out, { recursive: true });
     fs.copyFileSync(path.join(pr.dir, 'summary.json'), path.join(out, 'summary.json'));
+    // the PR text (and the judge's verdicts) travel with the PR as features
+    fs.writeFileSync(path.join(out, 'meta.json'), JSON.stringify({ title: pr.m.title, body: pr.m.body, changedFiles: pr.m.changedFiles }, null, 1));
+    if (pr.intent) fs.copyFileSync(path.join(pr.dir, 'intent.json'), path.join(out, 'intent.json'));
     fs.writeFileSync(path.join(out, 'label.json'), JSON.stringify({ label: d.label, source: d.source, confidence: d.confidence, group: repo, app: repo, evidence: d.evidence, pr: pr.m.pr, mergedAt: pr.m.mergedAt }, null, 1));
     if (d.sides) fs.writeFileSync(path.join(out, 'sides.json'), JSON.stringify(d.sides, null, 1));
     else fs.rmSync(path.join(out, 'sides.json'), { force: true });
@@ -104,7 +121,7 @@ function label(rawDir, outDir, opts = {}) {
 if (require.main === module) {
   const a = process.argv.slice(2), opt = (k) => (a.includes(k) ? a[a.indexOf(k) + 1] : undefined);
   if (a.length < 2) { console.error('usage: node learn/label.js <raw/owner__repo> <outDir> [--now YYYY-MM-DD] [--window 30]'); process.exit(2); }
-  const r = label(a[0], a[1], { window: +opt('--window') || 30, now: opt('--now') ? Date.parse(opt('--now')) : Date.now() });
+  const r = label(a[0], a[1], { window: +opt('--window') || 30, now: opt('--now') ? Date.parse(opt('--now')) : Date.now(), weak: !a.includes('--no-weak') });
   console.log(JSON.stringify(r));
 }
 module.exports = { label, verdicts, decide, loadRaw };

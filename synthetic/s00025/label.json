@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-rows-missing",
+ "ops": [
+  {
+   "op": "m-rows-missing",
+   "kind": "mistake",
+   "desc": "div.trow past 3 not drawn",
+   "edits": [
+    {
+     "css": "add",
+     "text": "div.viewport > div.trow:nth-child(n+4) { display: none; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00025",
+ "app": "dashboard",
+ "findings": 3,
+ "ms": 5802
+}

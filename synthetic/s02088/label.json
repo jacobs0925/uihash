@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-copy",
+ "ops": [
+  {
+   "op": "d-copy",
+   "kind": "deliberate",
+   "desc": "copy: Home",
+   "edits": [
+    {
+     "src": "'Home'",
+     "to": "'My home'"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02088",
+ "app": "shop",
+ "findings": 2,
+ "ms": 5753
+}

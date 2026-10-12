@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-font-weight",
+ "ops": [
+  {
+   "op": "d-font-weight",
+   "kind": "deliberate",
+   "desc": ".nav-item .count: font-weight",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 22,
+     "prop": "font-weight",
+     "value": "600"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00016",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 9580
+}

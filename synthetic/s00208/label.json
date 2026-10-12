@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-zebra",
+ "ops": [
+  {
+   "op": "d-zebra",
+   "kind": "deliberate",
+   "desc": "zebra div.navlink",
+   "edits": [
+    {
+     "css": "add",
+     "text": "aside.side > div.navlink:nth-child(even) { background-color: #f7f8fa; }"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00208",
+ "app": "dashboard",
+ "findings": 3,
+ "ms": 6180
+}

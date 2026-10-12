@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-padding",
+ "ops": [
+  {
+   "op": "d-padding",
+   "kind": "deliberate",
+   "desc": ".pill: padding",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 42,
+     "prop": "padding",
+     "value": "0px 8px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00100",
+ "app": "dashboard",
+ "findings": 1,
+ "ms": 6145
+}

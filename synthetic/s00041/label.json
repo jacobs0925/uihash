@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-value-typo",
+ "ops": [
+  {
+   "op": "m-value-typo",
+   "kind": "mistake",
+   "desc": "footer a: margin typo",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 54,
+     "prop": "margin",
+     "value": "0 60px"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00041",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 9479
+}

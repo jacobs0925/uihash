@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-broad-rule",
+ "ops": [
+  {
+   "op": "m-broad-rule",
+   "kind": "mistake",
+   "desc": "broad rule th, td",
+   "edits": [
+    {
+     "css": "add",
+     "text": "th, td { padding: 1px; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02003",
+ "app": "shop",
+ "findings": 0,
+ "ms": 1899
+}

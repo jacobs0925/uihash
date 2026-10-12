@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-copy",
+ "ops": [
+  {
+   "op": "d-copy",
+   "kind": "deliberate",
+   "desc": "copy: Domain must be verified",
+   "edits": [
+    {
+     "src": ">Domain must be verified<",
+     "to": ">Domain Must Be Verified<"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02104",
+ "app": "admin",
+ "findings": 1,
+ "ms": 5334
+}

@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-sibling-size",
+ "ops": [
+  {
+   "op": "m-sibling-size",
+   "kind": "mistake",
+   "desc": ".pager button 3 smaller than the others",
+   "edits": [
+    {
+     "css": "add",
+     "text": ".pager button:nth-of-type(3) { height: 28px; padding: 0; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02175",
+ "app": "shop",
+ "findings": 4,
+ "ms": 6302
+}

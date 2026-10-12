@@ -1,0 +1,31 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-fixed-clip",
+ "ops": [
+  {
+   "op": "m-fixed-clip",
+   "kind": "mistake",
+   "desc": ".kpi .value clipped",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 22,
+     "prop": "height",
+     "value": "19px"
+    },
+    {
+     "css": "set",
+     "rule": 22,
+     "prop": "overflow",
+     "value": "hidden"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00043",
+ "app": "dashboard",
+ "findings": 2,
+ "ms": 6520
+}

@@ -1,0 +1,45 @@
+{
+ "repo": "primer-react",
+ "sha": "7f5303d803986887187d86dcebaeda22a4dc6823",
+ "parent": "c9419e75d7084b62096b50fb54f6a94e96592a9a",
+ "date": "2026-10-07",
+ "subject": "Implementing small size variant for ActionList.Item (#8477)",
+ "pr": "8477",
+ "components": [
+  "ActionList"
+ ],
+ "files": [
+  ".changeset/small-actionlist-item.md",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-dark-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-light-colorblind-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-light-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-light-tritanopia-linux.png",
+  "e2e/components/ActionList.test.ts",
+  "packages/react/src/ActionList/ActionList.docs.json",
+  "packages/react/src/ActionList/ActionList.features.stories.tsx",
+  "packages/react/src/ActionList/ActionList.module.css",
+  "packages/react/src/ActionList/ActionList.stories.tsx",
+  "packages/react/src/ActionList/ActionList.test.tsx",
+  "packages/react/src/ActionList/shared.ts"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-dark-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-light-colorblind-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-light-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-Small-Item-light-tritanopia-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': minor\n---\n\nActionList.Item and ActionList.LinkItem: Add a small size variant with smaller text.\n",
+ "stories": 72,
+ "findings": 0,
+ "ms": 217711
+}

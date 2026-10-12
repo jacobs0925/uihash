@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-token",
+ "ops": [
+  {
+   "op": "d-token",
+   "kind": "deliberate",
+   "desc": "--compose rebrand",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 0,
+     "prop": "--compose",
+     "value": "#c2ffee"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00020",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 9721
+}

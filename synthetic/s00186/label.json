@@ -1,0 +1,31 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-uppercase",
+ "ops": [
+  {
+   "op": "d-uppercase",
+   "kind": "deliberate",
+   "desc": ".attach: small caps",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 47,
+     "prop": "text-transform",
+     "value": "uppercase"
+    },
+    {
+     "css": "set",
+     "rule": 47,
+     "prop": "letter-spacing",
+     "value": "0.04em"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00186",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 12596
+}

@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-contrast",
+ "ops": [
+  {
+   "op": "m-contrast",
+   "kind": "mistake",
+   "desc": ".kpi .label: low contrast",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 21,
+     "prop": "color",
+     "value": "#bdc0c7"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00029",
+ "app": "dashboard",
+ "findings": 2,
+ "ms": 4270
+}

@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-missing",
+ "ops": [
+  {
+   "op": "m-missing",
+   "kind": "mistake",
+   "desc": ".compose gone",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 17,
+     "prop": "display",
+     "value": "none"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00187",
+ "app": "mailbox",
+ "findings": 3,
+ "ms": 17544
+}

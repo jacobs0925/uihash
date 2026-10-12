@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-duplicate",
+ "ops": [
+  {
+   "op": "m-duplicate",
+   "kind": "mistake",
+   "desc": "div.card duplicated",
+   "edits": [
+    {
+     "js": "const it = document.querySelectorAll(\"div.kpis > div.card\")[1]; if (it) it.after(it.cloneNode(true));"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00069",
+ "app": "dashboard",
+ "findings": 2,
+ "ms": 5220
+}

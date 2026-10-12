@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-broad-rule",
+ "ops": [
+  {
+   "op": "m-broad-rule",
+   "kind": "mistake",
+   "desc": "broad rule nav a, nav button",
+   "edits": [
+    {
+     "css": "add",
+     "text": "nav a, nav button { display: block; width: 100%; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00165",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 13060
+}

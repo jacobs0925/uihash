@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-rows-missing",
+ "ops": [
+  {
+   "op": "m-rows-missing",
+   "kind": "mistake",
+   "desc": "div.bar past 2 not drawn",
+   "edits": [
+    {
+     "css": "add",
+     "text": "div.bars > div.bar:nth-child(n+3) { visibility: hidden; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00207",
+ "app": "dashboard",
+ "findings": 1,
+ "ms": 5517
+}

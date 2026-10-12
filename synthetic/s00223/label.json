@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-misalign",
+ "ops": [
+  {
+   "op": "m-misalign",
+   "kind": "mistake",
+   "desc": "div.card 2 off by a few px",
+   "edits": [
+    {
+     "css": "add",
+     "text": "div.kpis > div.card:nth-child(2) { position: relative; top: 3px; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00223",
+ "app": "dashboard",
+ "findings": 3,
+ "ms": 8700
+}

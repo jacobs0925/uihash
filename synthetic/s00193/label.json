@@ -1,0 +1,37 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-truncate",
+ "ops": [
+  {
+   "op": "m-truncate",
+   "kind": "mistake",
+   "desc": ".pill.status-degraded cut",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 44,
+     "prop": "max-width",
+     "value": "41px"
+    },
+    {
+     "css": "set",
+     "rule": 44,
+     "prop": "overflow",
+     "value": "hidden"
+    },
+    {
+     "css": "set",
+     "rule": 44,
+     "prop": "white-space",
+     "value": "nowrap"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00193",
+ "app": "dashboard",
+ "findings": 2,
+ "ms": 9830
+}

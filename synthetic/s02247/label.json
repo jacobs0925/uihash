@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-value-typo",
+ "ops": [
+  {
+   "op": "m-value-typo",
+   "kind": "mistake",
+   "desc": ".tag: padding typo",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 24,
+     "prop": "padding",
+     "value": "20px 80px"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02247",
+ "app": "shop",
+ "findings": 1,
+ "ms": 5917
+}

@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-line-height",
+ "ops": [
+  {
+   "op": "d-line-height",
+   "kind": "deliberate",
+   "desc": ".label: type",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 43,
+     "prop": "letter-spacing",
+     "value": "0.01em"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02076",
+ "app": "admin",
+ "findings": 1,
+ "ms": 6819
+}

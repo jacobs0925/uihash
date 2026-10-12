@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-font-weight",
+ "ops": [
+  {
+   "op": "d-font-weight",
+   "kind": "deliberate",
+   "desc": ".logo: font-weight",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 4,
+     "prop": "font-weight",
+     "value": "700"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02072",
+ "app": "shop",
+ "findings": 1,
+ "ms": 6837
+}

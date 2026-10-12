@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-rows-missing",
+ "ops": [
+  {
+   "op": "m-rows-missing",
+   "kind": "mistake",
+   "desc": "article.card past 6 not drawn",
+   "edits": [
+    {
+     "css": "add",
+     "text": "div.grid > article.card:nth-child(n+7) { visibility: hidden; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02215",
+ "app": "shop",
+ "findings": 2,
+ "ms": 7274
+}

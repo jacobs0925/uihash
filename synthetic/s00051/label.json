@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-ghost",
+ "ops": [
+  {
+   "op": "m-ghost",
+   "kind": "mistake",
+   "desc": ".promo .cta invisible but clickable",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 18,
+     "prop": "opacity",
+     "value": "0"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00051",
+ "app": "dashboard",
+ "findings": 1,
+ "ms": 4489
+}

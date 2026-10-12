@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-line-height",
+ "ops": [
+  {
+   "op": "d-line-height",
+   "kind": "deliberate",
+   "desc": ".stars: type",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 21,
+     "prop": "letter-spacing",
+     "value": "0.01em"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02150",
+ "app": "shop",
+ "findings": 1,
+ "ms": 5661
+}

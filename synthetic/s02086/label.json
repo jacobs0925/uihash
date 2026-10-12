@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-new-control",
+ "ops": [
+  {
+   "op": "d-new-control",
+   "kind": "deliberate",
+   "desc": "new .pager button \"Print\"",
+   "edits": [
+    {
+     "js": "const e = document.querySelectorAll(\".pager button\")[0]; if (e) { const c = e.cloneNode(true); for (const n of c.querySelectorAll('*')) if (!n.children.length && n.textContent.trim()) n.textContent = \"Print\"; if (!c.children.length) c.textContent = \"Print\"; c.setAttribute('aria-label', \"Print\"); e.parentNode.appendChild(c); }"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02086",
+ "app": "shop",
+ "findings": 2,
+ "ms": 6962
+}

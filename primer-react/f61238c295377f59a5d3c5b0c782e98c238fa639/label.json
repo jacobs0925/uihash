@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "f61238c295377f59a5d3c5b0c782e98c238fa639",
+ "date": "2025-10-09",
+ "pr": "6965",
+ "title": "Chore: remove styled system components (#6965)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Chore/remove styled. components: deprecated UnderlineNav, ValidationAnimation, LabelGroup, Tooltip"
+}

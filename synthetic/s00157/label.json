@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-rows-missing",
+ "ops": [
+  {
+   "op": "m-rows-missing",
+   "kind": "mistake",
+   "desc": "li.row past 31 not drawn",
+   "edits": [
+    {
+     "css": "add",
+     "text": "ul.rows > li.row:nth-child(n+32) { visibility: hidden; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00157",
+ "app": "mailbox",
+ "findings": 2,
+ "ms": 12525
+}

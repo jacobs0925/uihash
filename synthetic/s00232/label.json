@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-colour",
+ "ops": [
+  {
+   "op": "d-colour",
+   "kind": "deliberate",
+   "desc": ".tab .badge: background",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 31,
+     "prop": "background",
+     "value": "#1b9167"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00232",
+ "app": "mailbox",
+ "findings": 2,
+ "ms": 15235
+}

@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-line-height",
+ "ops": [
+  {
+   "op": "d-line-height",
+   "kind": "deliberate",
+   "desc": ".snippet: type",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 45,
+     "prop": "letter-spacing",
+     "value": "1.35"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00128",
+ "app": "mailbox",
+ "findings": 0,
+ "ms": 5116
+}

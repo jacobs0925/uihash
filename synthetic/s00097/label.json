@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-binding",
+ "ops": [
+  {
+   "op": "m-binding",
+   "kind": "mistake",
+   "desc": "li.row shows [object Object]",
+   "edits": [
+    {
+     "js": "for (const it of [...document.querySelectorAll(\"ul.rows > li.row\")].slice(0, 3)) { const w = document.createTreeWalker(it, NodeFilter.SHOW_TEXT); let n; while ((n = w.nextNode())) if (n.textContent.trim().length > 2) { n.textContent = \"[object Object]\"; break; } }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00097",
+ "app": "mailbox",
+ "findings": 2,
+ "ms": 10189
+}

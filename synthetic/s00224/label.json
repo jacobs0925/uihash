@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-zebra",
+ "ops": [
+  {
+   "op": "d-zebra",
+   "kind": "deliberate",
+   "desc": "zebra div.trow",
+   "edits": [
+    {
+     "css": "add",
+     "text": "div.viewport > div.trow:nth-child(even) { background-color: #f7f8fa; }"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00224",
+ "app": "dashboard",
+ "findings": 1,
+ "ms": 6144
+}

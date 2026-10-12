@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-ghost",
+ "ops": [
+  {
+   "op": "m-ghost",
+   "kind": "mistake",
+   "desc": ".cart invisible but clickable",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 6,
+     "prop": "opacity",
+     "value": "0"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02225",
+ "app": "shop",
+ "findings": 2,
+ "ms": 7996
+}

@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-width",
+ "ops": [
+  {
+   "op": "d-width",
+   "kind": "deliberate",
+   "desc": ".who: width",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 9,
+     "prop": "width",
+     "value": "184px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00076",
+ "app": "scroller",
+ "findings": 2,
+ "ms": 5332
+}

@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-width",
+ "ops": [
+  {
+   "op": "d-width",
+   "kind": "deliberate",
+   "desc": ".toolbar input: width",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 13,
+     "prop": "width",
+     "value": "239px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02034",
+ "app": "admin",
+ "findings": 1,
+ "ms": 6253
+}

@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-missing",
+ "ops": [
+  {
+   "op": "m-missing",
+   "kind": "mistake",
+   "desc": ".promo .cta gone",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 18,
+     "prop": "display",
+     "value": "none"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00117",
+ "app": "dashboard",
+ "findings": 2,
+ "ms": 6990
+}

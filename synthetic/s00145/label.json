@@ -1,0 +1,31 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-fixed-clip",
+ "ops": [
+  {
+   "op": "m-fixed-clip",
+   "kind": "mistake",
+   "desc": ".promo .cta clipped",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 18,
+     "prop": "height",
+     "value": "22px"
+    },
+    {
+     "css": "set",
+     "rule": 18,
+     "prop": "overflow",
+     "value": "hidden"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00145",
+ "app": "dashboard",
+ "findings": 2,
+ "ms": 4512
+}

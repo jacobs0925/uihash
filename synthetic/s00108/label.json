@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-padding",
+ "ops": [
+  {
+   "op": "d-padding",
+   "kind": "deliberate",
+   "desc": ".row: padding",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 8,
+     "prop": "padding",
+     "value": "0 18px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00108",
+ "app": "scroller",
+ "findings": 2,
+ "ms": 4839
+}

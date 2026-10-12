@@ -1,0 +1,24 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-hover-lost",
+ "ops": [
+  {
+   "op": "m-hover-lost",
+   "kind": "mistake",
+   "desc": ".btn:hover does nothing",
+   "edits": [
+    {
+     "css": "drop",
+     "rule": 16,
+     "prop": "background"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02103",
+ "app": "admin",
+ "findings": 2,
+ "ms": 4430
+}

@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-past-window",
+ "ops": [
+  {
+   "op": "m-past-window",
+   "kind": "mistake",
+   "desc": ".storage pushed past the window",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 51,
+     "prop": "margin-left",
+     "value": "1600px"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00017",
+ "app": "mailbox",
+ "findings": 3,
+ "ms": 12608
+}

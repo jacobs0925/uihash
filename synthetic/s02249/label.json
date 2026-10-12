@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-important",
+ "ops": [
+  {
+   "op": "m-important",
+   "kind": "mistake",
+   "desc": "reset beats .nav a.current",
+   "edits": [
+    {
+     "css": "add",
+     "text": ".nav a { color: inherit !important; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02249",
+ "app": "admin",
+ "findings": 2,
+ "ms": 6895
+}

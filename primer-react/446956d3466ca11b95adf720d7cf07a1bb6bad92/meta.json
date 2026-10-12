@@ -1,0 +1,40 @@
+{
+ "repo": "primer-react",
+ "sha": "446956d3466ca11b95adf720d7cf07a1bb6bad92",
+ "parent": "3ced917f595667e1f68a6b9110bd034e0d88bf2a",
+ "date": "2025-10-06",
+ "subject": "Remove support for sx from the ActionList component in @primer/react/deprecated (#6944)",
+ "pr": "6944",
+ "components": [
+  "FilteredActionList"
+ ],
+ "files": [
+  ".changeset/afraid-teams-throw.md",
+  "packages/react/src/FilteredActionList/FilteredActionList.module.css",
+  "packages/react/src/FilteredActionList/FilteredActionList.tsx",
+  "packages/react/src/deprecated/ActionList/Divider.module.css",
+  "packages/react/src/deprecated/ActionList/Divider.tsx",
+  "packages/react/src/deprecated/ActionList/Group.tsx",
+  "packages/react/src/deprecated/ActionList/Header.module.css",
+  "packages/react/src/deprecated/ActionList/Header.tsx",
+  "packages/react/src/deprecated/ActionList/Item.module.css",
+  "packages/react/src/deprecated/ActionList/Item.tsx",
+  "packages/react/src/deprecated/ActionList/List.module.css",
+  "packages/react/src/deprecated/ActionList/List.tsx",
+  "packages/react/src/stories/deprecated/ActionList.stories.tsx",
+  "packages/react/src/stories/deprecated/ActionListStories.module.css",
+  "packages/styled-react/src/__tests__/__snapshots__/exports.test.ts.snap",
+  "packages/styled-react/src/components/Tooltip.tsx",
+  "packages/styled-react/src/components/deprecated/ActionList.tsx",
+  "packages/styled-react/src/components/deprecated/DialogV1.tsx",
+  "packages/styled-react/src/components/deprecated/Octicon.tsx",
+  "packages/styled-react/src/components/deprecated/TabNav.tsx",
+  "packages/styled-react/src/components/deprecated/Tooltip.tsx",
+  "packages/styled-react/src/deprecated.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': major\n'@primer/styled-react': minor\n---\n\nRemove sx from deprecated ActionList component.\n",
+ "stories": 3,
+ "findings": 2,
+ "ms": 179538
+}

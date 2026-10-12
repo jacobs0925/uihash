@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-line-height",
+ "ops": [
+  {
+   "op": "d-line-height",
+   "kind": "deliberate",
+   "desc": ".pager button: type",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 33,
+     "prop": "letter-spacing",
+     "value": "1.6"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02148",
+ "app": "shop",
+ "findings": 0,
+ "ms": 2075
+}

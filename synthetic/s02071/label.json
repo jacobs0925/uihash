@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-duplicate",
+ "ops": [
+  {
+   "op": "m-duplicate",
+   "kind": "mistake",
+   "desc": "article.card duplicated",
+   "edits": [
+    {
+     "js": "const it = document.querySelectorAll(\"div.grid > article.card\")[0]; if (it) it.after(it.cloneNode(true));"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02071",
+ "app": "shop",
+ "findings": 3,
+ "ms": 5785
+}

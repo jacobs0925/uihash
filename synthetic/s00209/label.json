@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-collide",
+ "ops": [
+  {
+   "op": "m-collide",
+   "kind": "mistake",
+   "desc": ".delta.up now like .delta.down",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 24,
+     "prop": "background",
+     "value": "#feeeec"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00209",
+ "app": "dashboard",
+ "findings": 1,
+ "ms": 6618
+}

@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-shadow",
+ "ops": [
+  {
+   "op": "d-shadow",
+   "kind": "deliberate",
+   "desc": ".tag: subtle shadow",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 24,
+     "prop": "box-shadow",
+     "value": "0 1px 3px rgba(0, 0, 0, 0.12)"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02192",
+ "app": "shop",
+ "findings": 1,
+ "ms": 5430
+}

@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-font-typo",
+ "ops": [
+  {
+   "op": "m-font-typo",
+   "kind": "mistake",
+   "desc": "body: font name typo",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 2,
+     "prop": "font-family",
+     "value": "Ariaal, sans-serif"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00235",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 12780
+}

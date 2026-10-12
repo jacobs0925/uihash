@@ -1,0 +1,29 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-state-lost",
+ "ops": [
+  {
+   "op": "m-state-lost",
+   "kind": "mistake",
+   "desc": ".navlink.current looks like the rest",
+   "edits": [
+    {
+     "css": "drop",
+     "rule": 8,
+     "prop": "color"
+    },
+    {
+     "css": "drop",
+     "rule": 8,
+     "prop": "background"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00105",
+ "app": "dashboard",
+ "findings": 5,
+ "ms": 4763
+}

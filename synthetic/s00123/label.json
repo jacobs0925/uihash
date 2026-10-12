@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-broad-rule",
+ "ops": [
+  {
+   "op": "m-broad-rule",
+   "kind": "mistake",
+   "desc": "broad rule button, input",
+   "edits": [
+    {
+     "css": "add",
+     "text": "button, input { font-size: 18px; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00123",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 13102
+}

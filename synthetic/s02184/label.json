@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-colour",
+ "ops": [
+  {
+   "op": "d-colour",
+   "kind": "deliberate",
+   "desc": ".thumb: background",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 17,
+     "prop": "background",
+     "value": "#ffffff"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02184",
+ "app": "shop",
+ "findings": 1,
+ "ms": 7465
+}

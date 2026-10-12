@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-drift",
+ "ops": [
+  {
+   "op": "m-drift",
+   "kind": "mistake",
+   "desc": "one td drifts (font-size: 12px)",
+   "edits": [
+    {
+     "css": "add",
+     "text": "tr > td:nth-child(5) { font-size: 12px; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02099",
+ "app": "admin",
+ "findings": 1,
+ "ms": 6316
+}

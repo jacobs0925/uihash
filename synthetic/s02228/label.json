@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-token",
+ "ops": [
+  {
+   "op": "d-token",
+   "kind": "deliberate",
+   "desc": "--muted rebrand",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 0,
+     "prop": "--muted",
+     "value": "#6d6b80"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02228",
+ "app": "shop",
+ "findings": 2,
+ "ms": 7568
+}

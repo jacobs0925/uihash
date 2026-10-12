@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-token",
+ "ops": [
+  {
+   "op": "d-token",
+   "kind": "deliberate",
+   "desc": "--ink rebrand",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 0,
+     "prop": "--ink",
+     "value": "#131127"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02052",
+ "app": "shop",
+ "findings": 2,
+ "ms": 5819
+}

@@ -1,0 +1,31 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-uppercase",
+ "ops": [
+  {
+   "op": "d-uppercase",
+   "kind": "deliberate",
+   "desc": ".badge: small caps",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 11,
+     "prop": "text-transform",
+     "value": "uppercase"
+    },
+    {
+     "css": "set",
+     "rule": 11,
+     "prop": "letter-spacing",
+     "value": "0.04em"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00142",
+ "app": "scroller",
+ "findings": 2,
+ "ms": 5961
+}

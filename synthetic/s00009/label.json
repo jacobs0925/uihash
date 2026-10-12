@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-order",
+ "ops": [
+  {
+   "op": "m-order",
+   "kind": "mistake",
+   "desc": "div.bar moved to the end",
+   "edits": [
+    {
+     "css": "add",
+     "text": "div.bars > div.bar:nth-child(1) { order: 9; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00009",
+ "app": "dashboard",
+ "findings": 1,
+ "ms": 4586
+}

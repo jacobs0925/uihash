@@ -1,0 +1,26 @@
+{
+ "repo": "primer-react",
+ "sha": "aa033b42f3af4f54d28351c95d35bf2932c12580",
+ "parent": "503a592ebc0f01d7a556b3be8e899c5be0caf6e8",
+ "date": "2025-10-03",
+ "subject": "Revert \"Remove Box usage and `sx` prop from PageLayout (#6872)\" (#6940)",
+ "pr": "6940",
+ "components": [
+  "PageLayout"
+ ],
+ "files": [
+  ".changeset/gold-geckos-send.md",
+  "packages/react/src/PageLayout/PageLayout.dev.stories.module.css",
+  "packages/react/src/PageLayout/PageLayout.dev.stories.tsx",
+  "packages/react/src/PageLayout/PageLayout.module.css",
+  "packages/react/src/PageLayout/PageLayout.stories.tsx",
+  "packages/react/src/PageLayout/PageLayout.tsx",
+  "packages/styled-react/src/components/PageLayout.tsx",
+  "packages/styled-react/src/index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "stories": 45,
+ "findings": 4,
+ "ms": 293040
+}

@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-binding",
+ "ops": [
+  {
+   "op": "m-binding",
+   "kind": "mistake",
+   "desc": "div.nav-item shows N/A",
+   "edits": [
+    {
+     "js": "for (const it of [...document.querySelectorAll(\"nav.side > div.nav-item\")].slice(0, 2)) { const w = document.createTreeWalker(it, NodeFilter.SHOW_TEXT); let n; while ((n = w.nextNode())) if (n.textContent.trim().length > 2) { n.textContent = \"N/A\"; break; } }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00055",
+ "app": "mailbox",
+ "findings": 3,
+ "ms": 8471
+}

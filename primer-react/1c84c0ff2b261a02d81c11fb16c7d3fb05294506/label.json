@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "1c84c0ff2b261a02d81c11fb16c7d3fb05294506",
+ "date": "2025-10-06",
+ "pr": "6945",
+ "title": "chore(Octicon): remove sx (#6945)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "10 visual-test baselines updated"
+}

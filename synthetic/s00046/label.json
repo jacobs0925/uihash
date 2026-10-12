@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-copy",
+ "ops": [
+  {
+   "op": "d-copy",
+   "kind": "deliberate",
+   "desc": "copy: Later",
+   "edits": [
+    {
+     "src": "'Later'",
+     "to": "'My later'"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00046",
+ "app": "mailbox",
+ "findings": 2,
+ "ms": 9435
+}

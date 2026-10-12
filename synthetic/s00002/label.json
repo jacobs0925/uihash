@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-font-size",
+ "ops": [
+  {
+   "op": "d-font-size",
+   "kind": "deliberate",
+   "desc": "footer: font-size",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 13,
+     "prop": "font-size",
+     "value": "13px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00002",
+ "app": "scroller",
+ "findings": 1,
+ "ms": 2997
+}

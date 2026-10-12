@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-duplicate",
+ "ops": [
+  {
+   "op": "m-duplicate",
+   "kind": "mistake",
+   "desc": "td duplicated",
+   "edits": [
+    {
+     "js": "const it = document.querySelectorAll(\"tr > td\")[1]; if (it) it.after(it.cloneNode(true));"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02211",
+ "app": "admin",
+ "findings": 2,
+ "ms": 7605
+}

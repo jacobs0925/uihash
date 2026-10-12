@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-value-typo",
+ "ops": [
+  {
+   "op": "m-value-typo",
+   "kind": "mistake",
+   "desc": ".meta: gap typo",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 20,
+     "prop": "gap",
+     "value": "80px"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02023",
+ "app": "shop",
+ "findings": 1,
+ "ms": 5958
+}

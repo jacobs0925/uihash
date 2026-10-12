@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-rows-missing",
+ "ops": [
+  {
+   "op": "m-rows-missing",
+   "kind": "mistake",
+   "desc": "div.row past 19 not drawn",
+   "edits": [
+    {
+     "css": "add",
+     "text": "main > div.row:nth-child(n+20) { visibility: hidden; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00033",
+ "app": "scroller",
+ "findings": 1,
+ "ms": 3758
+}

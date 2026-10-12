@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-font-size",
+ "ops": [
+  {
+   "op": "d-font-size",
+   "kind": "deliberate",
+   "desc": ".tip: font-size",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 32,
+     "prop": "font-size",
+     "value": "14px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00118",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 15785
+}

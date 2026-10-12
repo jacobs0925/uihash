@@ -1,0 +1,20 @@
+{
+ "repo": "eui",
+ "sha": "c6ca6a2987db0b06572fb635f41a29012071cc22",
+ "parent": "ff6e9ddd035340c1defea0db512858421ec860a8",
+ "date": "2025-10-14",
+ "subject": "[EuiCodeBlock] Improve `yaml` syntax (#9089)",
+ "pr": "9089",
+ "components": [
+  "code"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9089.md",
+  "packages/eui/src/components/code/code_syntax.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "stories": 72,
+ "findings": 0,
+ "ms": 622575
+}

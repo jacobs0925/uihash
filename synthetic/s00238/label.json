@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-font-size",
+ "ops": [
+  {
+   "op": "d-font-size",
+   "kind": "deliberate",
+   "desc": ".kpi .label: font-size",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 21,
+     "prop": "font-size",
+     "value": "11px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00238",
+ "app": "dashboard",
+ "findings": 1,
+ "ms": 5502
+}

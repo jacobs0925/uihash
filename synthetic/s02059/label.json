@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-past-window",
+ "ops": [
+  {
+   "op": "m-past-window",
+   "kind": "mistake",
+   "desc": ".side pushed past the window",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 39,
+     "prop": "min-width",
+     "value": "900px"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02059",
+ "app": "admin",
+ "findings": 2,
+ "ms": 6622
+}

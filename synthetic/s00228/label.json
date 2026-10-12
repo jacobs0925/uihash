@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-border",
+ "ops": [
+  {
+   "op": "d-border",
+   "kind": "deliberate",
+   "desc": "li.row: border-bottom",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 34,
+     "prop": "border-bottom",
+     "value": "1px solid #e3e7e9"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00228",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 15307
+}

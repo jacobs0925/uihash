@@ -1,0 +1,29 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-state-lost",
+ "ops": [
+  {
+   "op": "m-state-lost",
+   "kind": "mistake",
+   "desc": "nav a.on looks like the rest",
+   "edits": [
+    {
+     "css": "drop",
+     "rule": 6,
+     "prop": "color"
+    },
+    {
+     "css": "drop",
+     "rule": 6,
+     "prop": "background"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00155",
+ "app": "scroller",
+ "findings": 2,
+ "ms": 15249
+}

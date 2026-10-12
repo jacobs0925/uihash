@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-typo",
+ "ops": [
+  {
+   "op": "m-typo",
+   "kind": "mistake",
+   "desc": "typo in Linus",
+   "edits": [
+    {
+     "src": "'Linus'",
+     "to": "'Lius'"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00047",
+ "app": "scroller",
+ "findings": 2,
+ "ms": 3217
+}

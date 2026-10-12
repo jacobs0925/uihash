@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-font-size",
+ "ops": [
+  {
+   "op": "d-font-size",
+   "kind": "deliberate",
+   "desc": ".tab .badge: font-size",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 31,
+     "prop": "font-size",
+     "value": "10px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00010",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 10504
+}

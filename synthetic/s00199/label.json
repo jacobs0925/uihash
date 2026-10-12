@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-misalign",
+ "ops": [
+  {
+   "op": "m-misalign",
+   "kind": "mistake",
+   "desc": "div.row 4 off by a few px",
+   "edits": [
+    {
+     "css": "add",
+     "text": "main > div.row:nth-child(4) { position: relative; top: 3px; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00199",
+ "app": "scroller",
+ "findings": 3,
+ "ms": 5841
+}

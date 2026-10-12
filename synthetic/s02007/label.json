@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-binding",
+ "ops": [
+  {
+   "op": "m-binding",
+   "kind": "mistake",
+   "desc": "label shows null",
+   "edits": [
+    {
+     "js": "for (const it of [...document.querySelectorAll(\"aside.filters > label\")].slice(0, 2)) { const w = document.createTreeWalker(it, NodeFilter.SHOW_TEXT); let n; while ((n = w.nextNode())) if (n.textContent.trim().length > 2) { n.textContent = \"null\"; break; } }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02007",
+ "app": "shop",
+ "findings": 3,
+ "ms": 5358
+}

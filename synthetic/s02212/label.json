@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-line-height",
+ "ops": [
+  {
+   "op": "d-line-height",
+   "kind": "deliberate",
+   "desc": "tr.selected td: type",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 22,
+     "prop": "line-height",
+     "value": "1.6"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02212",
+ "app": "admin",
+ "findings": 1,
+ "ms": 8173
+}

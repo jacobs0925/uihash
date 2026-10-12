@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-line-height",
+ "ops": [
+  {
+   "op": "d-line-height",
+   "kind": "deliberate",
+   "desc": ".icon-btn: type",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 12,
+     "prop": "line-height",
+     "value": "1.6"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00056",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 9996
+}

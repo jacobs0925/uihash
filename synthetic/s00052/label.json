@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-shadow",
+ "ops": [
+  {
+   "op": "d-shadow",
+   "kind": "deliberate",
+   "desc": ".chip: subtle shadow",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 46,
+     "prop": "box-shadow",
+     "value": "0 1px 3px rgba(0, 0, 0, 0.12)"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00052",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 9599
+}

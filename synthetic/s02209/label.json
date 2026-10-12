@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-typo",
+ "ops": [
+  {
+   "op": "m-typo",
+   "kind": "mistake",
+   "desc": "typo in Steel water bottle",
+   "edits": [
+    {
+     "src": "'Steel water bottle'",
+     "to": "'Steel wateb bottle'"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02209",
+ "app": "shop",
+ "findings": 3,
+ "ms": 6468
+}

@@ -1,0 +1,43 @@
+{
+ "repo": "primer-react",
+ "sha": "cbcaff0071ca6ee81aadb483515fe784f08efc94",
+ "parent": "8641c7a778f88c9f65fa1f3d2c40994468651ae7",
+ "date": "2025-10-08",
+ "subject": "Revert \"Chore: remove styled system components\" (#6964)",
+ "pr": "6964",
+ "components": [
+  "LabelGroup",
+  "Tooltip"
+ ],
+ "files": [
+  ".changeset/chilled-spoons-roll.md",
+  "packages/react/src/DialogV1/Dialog.test.tsx",
+  "packages/react/src/FormControl/FormControlLeadingVisual.tsx",
+  "packages/react/src/LabelGroup/LabelGroup.module.css",
+  "packages/react/src/LabelGroup/LabelGroup.tsx",
+  "packages/react/src/PageLayout/PageLayout.examples.stories.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControl.features.stories.tsx",
+  "packages/react/src/Skeleton/SkeletonBox.tsx",
+  "packages/react/src/SkeletonAvatar/SkeletonAvatar.tsx",
+  "packages/react/src/Text/Text.tsx",
+  "packages/react/src/TextInput/TextInput.docs.json",
+  "packages/react/src/TextInput/TextInput.tsx",
+  "packages/react/src/Tooltip/Tooltip.module.css",
+  "packages/react/src/Tooltip/Tooltip.tsx",
+  "packages/react/src/Truncate/Truncate.tsx",
+  "packages/react/src/UnderlineNav/UnderlineNav.tsx",
+  "packages/react/src/deprecated/ActionList/Item.tsx",
+  "packages/react/src/deprecated/UnderlineNav/UnderlineNav.module.css",
+  "packages/react/src/deprecated/UnderlineNav/UnderlineNav.tsx",
+  "packages/react/src/experimental/UnderlinePanels/UnderlinePanels.tsx",
+  "packages/react/src/internal/components/TextInputWrapper.tsx",
+  "packages/react/src/internal/components/ValidationAnimationContainer.module.css",
+  "packages/react/src/internal/components/ValidationAnimationContainer.tsx",
+  "packages/react/src/internal/utils/sharedCheckboxAndRadioStyles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "stories": 27,
+ "findings": 24,
+ "ms": 157705
+}

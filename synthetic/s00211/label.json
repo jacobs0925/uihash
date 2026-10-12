@@ -1,0 +1,37 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-truncate",
+ "ops": [
+  {
+   "op": "m-truncate",
+   "kind": "mistake",
+   "desc": ".tab cut",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 29,
+     "prop": "max-width",
+     "value": "139px"
+    },
+    {
+     "css": "set",
+     "rule": 29,
+     "prop": "overflow",
+     "value": "hidden"
+    },
+    {
+     "css": "set",
+     "rule": 29,
+     "prop": "white-space",
+     "value": "nowrap"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00211",
+ "app": "mailbox",
+ "findings": 4,
+ "ms": 15860
+}

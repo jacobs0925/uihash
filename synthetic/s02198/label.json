@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-colour",
+ "ops": [
+  {
+   "op": "d-colour",
+   "kind": "deliberate",
+   "desc": ".add.in-cart: background",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 31,
+     "prop": "background",
+     "value": "#f4f9fa"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02198",
+ "app": "shop",
+ "findings": 1,
+ "ms": 8157
+}

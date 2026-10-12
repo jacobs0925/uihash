@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-token",
+ "ops": [
+  {
+   "op": "d-token",
+   "kind": "deliberate",
+   "desc": "--off rebrand",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 0,
+     "prop": "--off",
+     "value": "#94b2b8"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02074",
+ "app": "admin",
+ "findings": 0,
+ "ms": 2158
+}

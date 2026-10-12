@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-zebra",
+ "ops": [
+  {
+   "op": "d-zebra",
+   "kind": "deliberate",
+   "desc": "zebra td",
+   "edits": [
+    {
+     "css": "add",
+     "text": "tr > td:nth-child(even) { background-color: #f7f8fa; }"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02190",
+ "app": "admin",
+ "findings": 6,
+ "ms": 10275
+}

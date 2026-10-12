@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-radius",
+ "ops": [
+  {
+   "op": "d-radius",
+   "kind": "deliberate",
+   "desc": ".pill: border-radius",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 42,
+     "prop": "border-radius",
+     "value": "997px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00196",
+ "app": "dashboard",
+ "findings": 1,
+ "ms": 5818
+}

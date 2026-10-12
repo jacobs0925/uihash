@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-past-window",
+ "ops": [
+  {
+   "op": "m-past-window",
+   "kind": "mistake",
+   "desc": ".logo pushed past the window",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 4,
+     "prop": "margin-left",
+     "value": "900px"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02031",
+ "app": "shop",
+ "findings": 2,
+ "ms": 6455
+}

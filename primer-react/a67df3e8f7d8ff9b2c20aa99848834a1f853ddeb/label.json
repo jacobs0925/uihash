@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "a67df3e8f7d8ff9b2c20aa99848834a1f853ddeb",
+ "date": "2025-10-07",
+ "pr": "6941",
+ "title": "Chore: remove styled system components (#6941)",
+ "label": 1,
+ "source": "revert",
+ "confidence": 0.9,
+ "evidence": "reverted by cbcaff00 \"Revert \"Chore: remove styled system components\" (#6964)\""
+}

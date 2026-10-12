@@ -1,0 +1,29 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-state-lost",
+ "ops": [
+  {
+   "op": "m-state-lost",
+   "kind": "mistake",
+   "desc": ".nav a.current looks like the rest",
+   "edits": [
+    {
+     "css": "drop",
+     "rule": 6,
+     "prop": "color"
+    },
+    {
+     "css": "drop",
+     "rule": 6,
+     "prop": "font-weight"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02069",
+ "app": "admin",
+ "findings": 1,
+ "ms": 7373
+}

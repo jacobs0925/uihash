@@ -1,0 +1,29 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-overrun",
+ "ops": [
+  {
+   "op": "m-overrun",
+   "kind": "mistake",
+   "desc": ".email runs over",
+   "edits": [
+    {
+     "css": "drop",
+     "rule": 26,
+     "prop": "overflow"
+    },
+    {
+     "css": "drop",
+     "rule": 26,
+     "prop": "text-overflow"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02005",
+ "app": "admin",
+ "findings": 1,
+ "ms": 5114
+}

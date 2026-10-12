@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-font-weight",
+ "ops": [
+  {
+   "op": "d-font-weight",
+   "kind": "deliberate",
+   "desc": "th: font-weight",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 20,
+     "prop": "font-weight",
+     "value": "700"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02182",
+ "app": "admin",
+ "findings": 2,
+ "ms": 7614
+}

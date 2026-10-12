@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-line-height",
+ "ops": [
+  {
+   "op": "d-line-height",
+   "kind": "deliberate",
+   "desc": ".add: type",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 28,
+     "prop": "line-height",
+     "value": "0.01em"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02224",
+ "app": "shop",
+ "findings": 1,
+ "ms": 7060
+}

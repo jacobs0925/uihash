@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-typo",
+ "ops": [
+  {
+   "op": "m-typo",
+   "kind": "mistake",
+   "desc": "typo in LinkedIn",
+   "edits": [
+    {
+     "src": "'LinkedIn'",
+     "to": "'LiinkedIn'"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00201",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 12691
+}

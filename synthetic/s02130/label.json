@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-copy",
+ "ops": [
+  {
+   "op": "d-copy",
+   "kind": "deliberate",
+   "desc": "copy: Notebook set",
+   "edits": [
+    {
+     "src": "'Notebook set'",
+     "to": "'My notebook set'"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02130",
+ "app": "shop",
+ "findings": 3,
+ "ms": 4968
+}

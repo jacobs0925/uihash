@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-ghost",
+ "ops": [
+  {
+   "op": "m-ghost",
+   "kind": "mistake",
+   "desc": ".field input invisible but clickable",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 50,
+     "prop": "opacity",
+     "value": "0"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02219",
+ "app": "admin",
+ "findings": 1,
+ "ms": 7087
+}

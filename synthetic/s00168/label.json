@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-copy",
+ "ops": [
+  {
+   "op": "d-copy",
+   "kind": "deliberate",
+   "desc": "copy: Opsboard",
+   "edits": [
+    {
+     "src": ">Opsboard<",
+     "to": ">My opsboard<"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00168",
+ "app": "dashboard",
+ "findings": 2,
+ "ms": 4146
+}

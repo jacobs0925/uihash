@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-height",
+ "ops": [
+  {
+   "op": "d-height",
+   "kind": "deliberate",
+   "desc": ".tab svg: taller",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 9,
+     "prop": "height",
+     "value": "24px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00146",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 10003
+}

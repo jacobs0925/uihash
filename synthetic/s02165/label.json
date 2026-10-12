@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-drift",
+ "ops": [
+  {
+   "op": "m-drift",
+   "kind": "mistake",
+   "desc": "one label drifts (font-size: 12px)",
+   "edits": [
+    {
+     "css": "add",
+     "text": "aside.filters > label:nth-child(4) { font-size: 12px; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02165",
+ "app": "shop",
+ "findings": 3,
+ "ms": 7602
+}

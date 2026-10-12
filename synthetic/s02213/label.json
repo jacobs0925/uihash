@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-typo",
+ "ops": [
+  {
+   "op": "m-typo",
+   "kind": "mistake",
+   "desc": "typo in Office",
+   "edits": [
+    {
+     "src": "'Office'",
+     "to": "'Offzce'"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02213",
+ "app": "shop",
+ "findings": 2,
+ "ms": 6630
+}

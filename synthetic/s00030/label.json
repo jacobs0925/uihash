@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-gap",
+ "ops": [
+  {
+   "op": "d-gap",
+   "kind": "deliberate",
+   "desc": ".toolbar: gap",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 26,
+     "prop": "gap",
+     "value": "10px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00030",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 9285
+}

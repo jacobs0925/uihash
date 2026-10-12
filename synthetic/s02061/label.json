@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-sibling-size",
+ "ops": [
+  {
+   "op": "m-sibling-size",
+   "kind": "mistake",
+   "desc": ".add 2 smaller than the others",
+   "edits": [
+    {
+     "css": "add",
+     "text": ".add:nth-of-type(2) { height: 24px; padding: 0; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02061",
+ "app": "shop",
+ "findings": 0,
+ "ms": 2228
+}

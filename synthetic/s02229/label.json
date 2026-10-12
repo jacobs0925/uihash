@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-drift",
+ "ops": [
+  {
+   "op": "m-drift",
+   "kind": "mistake",
+   "desc": "one article.card drifts (padding-left: 0)",
+   "edits": [
+    {
+     "css": "add",
+     "text": "div.grid > article.card:nth-child(2) { padding-left: 0; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02229",
+ "app": "shop",
+ "findings": 0,
+ "ms": 2250
+}

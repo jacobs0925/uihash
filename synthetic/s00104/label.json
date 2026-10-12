@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-width",
+ "ops": [
+  {
+   "op": "d-width",
+   "kind": "deliberate",
+   "desc": ".bar: width",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 52,
+     "prop": "width",
+     "value": "194px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00104",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 11514
+}

@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-binding",
+ "ops": [
+  {
+   "op": "m-binding",
+   "kind": "mistake",
+   "desc": "article.card shows [object Object]",
+   "edits": [
+    {
+     "js": "for (const it of [...document.querySelectorAll(\"div.grid > article.card\")].slice(0, 1)) { const w = document.createTreeWalker(it, NodeFilter.SHOW_TEXT); let n; while ((n = w.nextNode())) if (n.textContent.trim().length > 2) { n.textContent = \"[object Object]\"; break; } }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02195",
+ "app": "shop",
+ "findings": 1,
+ "ms": 5863
+}

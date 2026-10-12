@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-duplicate",
+ "ops": [
+  {
+   "op": "m-duplicate",
+   "kind": "mistake",
+   "desc": "span duplicated",
+   "edits": [
+    {
+     "js": "const it = document.querySelectorAll(\"div.axis > span\")[2]; if (it) it.after(it.cloneNode(true));"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00169",
+ "app": "dashboard",
+ "findings": 2,
+ "ms": 4699
+}

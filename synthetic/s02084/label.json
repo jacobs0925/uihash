@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-height",
+ "ops": [
+  {
+   "op": "d-height",
+   "kind": "deliberate",
+   "desc": ".more: taller",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 36,
+     "prop": "height",
+     "value": "34px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02084",
+ "app": "admin",
+ "findings": 3,
+ "ms": 8336
+}

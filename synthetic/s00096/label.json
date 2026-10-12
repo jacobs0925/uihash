@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-zebra",
+ "ops": [
+  {
+   "op": "d-zebra",
+   "kind": "deliberate",
+   "desc": "zebra li.row",
+   "edits": [
+    {
+     "css": "add",
+     "text": "ul.rows > li.row:nth-child(even) { background-color: #f7f8fa; }"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00096",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 12162
+}

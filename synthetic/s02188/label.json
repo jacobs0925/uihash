@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-token",
+ "ops": [
+  {
+   "op": "d-token",
+   "kind": "deliberate",
+   "desc": "--warn rebrand",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 0,
+     "prop": "--warn",
+     "value": "#d9cf06"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02188",
+ "app": "admin",
+ "findings": 1,
+ "ms": 7008
+}

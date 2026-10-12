@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-value-typo",
+ "ops": [
+  {
+   "op": "m-value-typo",
+   "kind": "mistake",
+   "desc": ".role: padding typo",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 27,
+     "prop": "padding",
+     "value": "2em 8em"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02199",
+ "app": "admin",
+ "findings": 2,
+ "ms": 7360
+}

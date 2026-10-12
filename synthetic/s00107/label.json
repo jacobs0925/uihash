@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-contrast",
+ "ops": [
+  {
+   "op": "m-contrast",
+   "kind": "mistake",
+   "desc": ".attach: low contrast",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 47,
+     "prop": "color",
+     "value": "#909493"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00107",
+ "app": "mailbox",
+ "findings": 2,
+ "ms": 11335
+}

@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-value-typo",
+ "ops": [
+  {
+   "op": "m-value-typo",
+   "kind": "mistake",
+   "desc": "li.row: padding typo",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 34,
+     "prop": "padding",
+     "value": "0 160px"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00221",
+ "app": "mailbox",
+ "findings": 5,
+ "ms": 14732
+}

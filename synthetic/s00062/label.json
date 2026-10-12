@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-copy",
+ "ops": [
+  {
+   "op": "d-copy",
+   "kind": "deliberate",
+   "desc": "copy: Terms",
+   "edits": [
+    {
+     "src": ">Terms<",
+     "to": ">New terms<"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00062",
+ "app": "mailbox",
+ "findings": 2,
+ "ms": 11464
+}

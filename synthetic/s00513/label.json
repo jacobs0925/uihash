@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-drift",
+ "ops": [
+  {
+   "op": "m-drift",
+   "kind": "mistake",
+   "desc": "one li.row drifts (background-color: #fff3cd)",
+   "edits": [
+    {
+     "css": "add",
+     "text": "ul.rows > li.row:nth-child(5) { background-color: #fff3cd; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00513",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 9742
+}

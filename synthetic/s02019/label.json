@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-contrast",
+ "ops": [
+  {
+   "op": "m-contrast",
+   "kind": "mistake",
+   "desc": ".role: low contrast",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 27,
+     "prop": "color",
+     "value": "#758cac"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02019",
+ "app": "admin",
+ "findings": 3,
+ "ms": 5950
+}

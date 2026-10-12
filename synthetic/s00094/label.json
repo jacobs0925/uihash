@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-line-height",
+ "ops": [
+  {
+   "op": "d-line-height",
+   "kind": "deliberate",
+   "desc": ".who: type",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 9,
+     "prop": "line-height",
+     "value": "1.6"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00094",
+ "app": "scroller",
+ "findings": 1,
+ "ms": 5330
+}

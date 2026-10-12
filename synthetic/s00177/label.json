@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-broad-rule",
+ "ops": [
+  {
+   "op": "m-broad-rule",
+   "kind": "mistake",
+   "desc": "broad rule button",
+   "edits": [
+    {
+     "css": "add",
+     "text": "button { height: 22px; padding: 0 4px; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00177",
+ "app": "dashboard",
+ "findings": 1,
+ "ms": 5180
+}

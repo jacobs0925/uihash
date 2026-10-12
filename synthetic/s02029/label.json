@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-misalign",
+ "ops": [
+  {
+   "op": "m-misalign",
+   "kind": "mistake",
+   "desc": "td 2 off by a few px",
+   "edits": [
+    {
+     "css": "add",
+     "text": "tr.selected > td:nth-child(2) { position: relative; top: 3px; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02029",
+ "app": "admin",
+ "findings": 2,
+ "ms": 5563
+}

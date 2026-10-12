@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "446956d3466ca11b95adf720d7cf07a1bb6bad92",
+ "date": "2025-10-06",
+ "pr": "6944",
+ "title": "Remove support for sx from the ActionList component in @primer/react/deprecated (#6944)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Remove sx from deprecated ActionList component."
+}

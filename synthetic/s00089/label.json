@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-contrast",
+ "ops": [
+  {
+   "op": "m-contrast",
+   "kind": "mistake",
+   "desc": ".pill.status-degraded: low contrast",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 44,
+     "prop": "color",
+     "value": "#eb9b41"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00089",
+ "app": "dashboard",
+ "findings": 2,
+ "ms": 5221
+}

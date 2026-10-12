@@ -1,0 +1,29 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-state-lost",
+ "ops": [
+  {
+   "op": "m-state-lost",
+   "kind": "mistake",
+   "desc": ".tab.active looks like the rest",
+   "edits": [
+    {
+     "css": "drop",
+     "rule": 11,
+     "prop": "color"
+    },
+    {
+     "css": "drop",
+     "rule": 11,
+     "prop": "font-weight"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02057",
+ "app": "admin",
+ "findings": 2,
+ "ms": 7006
+}

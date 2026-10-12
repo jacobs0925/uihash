@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-new-control",
+ "ops": [
+  {
+   "op": "d-new-control",
+   "kind": "deliberate",
+   "desc": "new .switch \"Export\"",
+   "edits": [
+    {
+     "js": "const e = document.querySelectorAll(\".switch\")[0]; if (e) { const c = e.cloneNode(true); for (const n of c.querySelectorAll('*')) if (!n.children.length && n.textContent.trim()) n.textContent = \"Export\"; if (!c.children.length) c.textContent = \"Export\"; c.setAttribute('aria-label', \"Export\"); e.parentNode.appendChild(c); }"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02242",
+ "app": "admin",
+ "findings": 2,
+ "ms": 5436
+}

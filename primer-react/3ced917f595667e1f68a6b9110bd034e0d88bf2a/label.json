@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "3ced917f595667e1f68a6b9110bd034e0d88bf2a",
+ "date": "2025-10-06",
+ "pr": "6942",
+ "title": "Remove Box usage and `sx` prop from PageLayout (#6942)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Removes sx prop from PageLayout and subcomponents"
+}

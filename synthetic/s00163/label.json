@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-typo",
+ "ops": [
+  {
+   "op": "m-typo",
+   "kind": "mistake",
+   "desc": "typo in Privacy",
+   "edits": [
+    {
+     "src": ">Privacy<",
+     "to": ">Privayc<"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00163",
+ "app": "mailbox",
+ "findings": 2,
+ "ms": 10626
+}

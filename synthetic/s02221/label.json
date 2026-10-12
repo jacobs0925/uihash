@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-duplicate",
+ "ops": [
+  {
+   "op": "m-duplicate",
+   "kind": "mistake",
+   "desc": "label duplicated",
+   "edits": [
+    {
+     "js": "const it = document.querySelectorAll(\"aside.filters > label\")[1]; if (it) it.after(it.cloneNode(true));"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02221",
+ "app": "shop",
+ "findings": 2,
+ "ms": 5153
+}

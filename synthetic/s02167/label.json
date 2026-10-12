@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-value-typo",
+ "ops": [
+  {
+   "op": "m-value-typo",
+   "kind": "mistake",
+   "desc": ".help: margin-top typo",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 44,
+     "prop": "margin-top",
+     "value": "2em"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02167",
+ "app": "admin",
+ "findings": 1,
+ "ms": 6877
+}

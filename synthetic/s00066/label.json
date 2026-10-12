@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-radius",
+ "ops": [
+  {
+   "op": "d-radius",
+   "kind": "deliberate",
+   "desc": "main: border-radius",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 25,
+     "prop": "border-radius",
+     "value": "24px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00066",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 10039
+}

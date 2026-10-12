@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-copy",
+ "ops": [
+  {
+   "op": "d-copy",
+   "kind": "deliberate",
+   "desc": "copy: Overview",
+   "edits": [
+    {
+     "src": ">Overview<",
+     "to": ">Summary<"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00222",
+ "app": "dashboard",
+ "findings": 2,
+ "ms": 6607
+}

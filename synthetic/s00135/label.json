@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-past-window",
+ "ops": [
+  {
+   "op": "m-past-window",
+   "kind": "mistake",
+   "desc": ".toolbar .pager pushed past the window",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 27,
+     "prop": "min-width",
+     "value": "1400px"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00135",
+ "app": "mailbox",
+ "findings": 2,
+ "ms": 13827
+}

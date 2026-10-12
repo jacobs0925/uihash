@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-gap",
+ "ops": [
+  {
+   "op": "d-gap",
+   "kind": "deliberate",
+   "desc": ".charts: gap",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 26,
+     "prop": "gap",
+     "value": "20px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00042",
+ "app": "dashboard",
+ "findings": 1,
+ "ms": 5035
+}

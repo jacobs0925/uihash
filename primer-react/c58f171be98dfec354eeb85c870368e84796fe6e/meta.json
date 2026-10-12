@@ -1,0 +1,41 @@
+{
+ "repo": "primer-react",
+ "sha": "c58f171be98dfec354eeb85c870368e84796fe6e",
+ "parent": "985ba9a82b36619cb27b4801ddd67b440989760f",
+ "date": "2025-10-06",
+ "subject": "Remove support for `sx` from `ActionList` component and sub-components (#6921)",
+ "pr": "6921",
+ "components": [
+  "KeybindingHint"
+ ],
+ "files": [
+  ".changeset/eleven-cameras-hammer.md",
+  "packages/react/src/ActionList/ActionList.docs.json",
+  "packages/react/src/ActionList/Description.tsx",
+  "packages/react/src/ActionList/Divider.tsx",
+  "packages/react/src/ActionList/Group.tsx",
+  "packages/react/src/ActionList/Heading.tsx",
+  "packages/react/src/ActionList/Item.tsx",
+  "packages/react/src/ActionList/LinkItem.tsx",
+  "packages/react/src/ActionList/List.tsx",
+  "packages/react/src/ActionList/TrailingAction.tsx",
+  "packages/react/src/ActionList/Visuals.tsx",
+  "packages/react/src/ActionList/shared.ts",
+  "packages/react/src/FilteredActionList/types.ts",
+  "packages/react/src/KeybindingHint/KeybindingHint.examples.stories.module.css",
+  "packages/react/src/KeybindingHint/KeybindingHint.examples.stories.tsx",
+  "packages/react/src/UnderlineNav/UnderlineNav.test.tsx",
+  "packages/react/src/UnderlineNav/UnderlineNav.tsx",
+  "packages/react/src/UnderlineNav/styles.ts",
+  "packages/react/src/experimental/SelectPanel2/SelectPanel.examples.stories.module.css",
+  "packages/react/src/experimental/SelectPanel2/SelectPanel.examples.stories.tsx",
+  "packages/styled-react/src/components/ActionList.tsx",
+  "packages/styled-react/src/components/NavList.tsx",
+  "packages/styled-react/src/index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@primer/react\": major\n---\n\nUpdate ActionList component and related components to no longer support sx/styled-components\n",
+ "stories": 42,
+ "findings": 2,
+ "ms": 202421
+}

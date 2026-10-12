@@ -1,0 +1,29 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-state-lost",
+ "ops": [
+  {
+   "op": "m-state-lost",
+   "kind": "mistake",
+   "desc": ".nav-item.active looks like the rest",
+   "edits": [
+    {
+     "css": "drop",
+     "rule": 21,
+     "prop": "background"
+    },
+    {
+     "css": "drop",
+     "rule": 21,
+     "prop": "font-weight"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00013",
+ "app": "mailbox",
+ "findings": 4,
+ "ms": 13754
+}

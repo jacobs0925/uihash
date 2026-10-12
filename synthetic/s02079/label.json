@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-past-window",
+ "ops": [
+  {
+   "op": "m-past-window",
+   "kind": "mistake",
+   "desc": ".toolbar pushed past the window",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 12,
+     "prop": "margin-left",
+     "value": "1400px"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02079",
+ "app": "admin",
+ "findings": 6,
+ "ms": 10021
+}

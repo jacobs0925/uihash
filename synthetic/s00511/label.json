@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-drift",
+ "ops": [
+  {
+   "op": "m-drift",
+   "kind": "mistake",
+   "desc": "one div.trow drifts (background-color: #fff3cd)",
+   "edits": [
+    {
+     "css": "add",
+     "text": "div.viewport > div.trow:nth-child(4) { background-color: #fff3cd; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00511",
+ "app": "dashboard",
+ "findings": 2,
+ "ms": 8005
+}

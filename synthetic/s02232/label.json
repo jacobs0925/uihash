@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-zebra",
+ "ops": [
+  {
+   "op": "d-zebra",
+   "kind": "deliberate",
+   "desc": "zebra article.card",
+   "edits": [
+    {
+     "css": "add",
+     "text": "div.grid > article.card:nth-child(even) { background-color: #f7f8fa; }"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02232",
+ "app": "shop",
+ "findings": 1,
+ "ms": 6988
+}

@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-new-control",
+ "ops": [
+  {
+   "op": "d-new-control",
+   "kind": "deliberate",
+   "desc": "new footer a \"Pin\"",
+   "edits": [
+    {
+     "js": "const e = document.querySelectorAll(\"footer a\")[0]; if (e) { const c = e.cloneNode(true); for (const n of c.querySelectorAll('*')) if (!n.children.length && n.textContent.trim()) n.textContent = \"Pin\"; if (!c.children.length) c.textContent = \"Pin\"; c.setAttribute('aria-label', \"Pin\"); e.parentNode.appendChild(c); }"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00130",
+ "app": "mailbox",
+ "findings": 2,
+ "ms": 8192
+}

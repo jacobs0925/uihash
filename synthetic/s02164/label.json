@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-radius",
+ "ops": [
+  {
+   "op": "d-radius",
+   "kind": "deliberate",
+   "desc": ".sort-btn: border-radius",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 8,
+     "prop": "border-radius",
+     "value": "2px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02164",
+ "app": "shop",
+ "findings": 1,
+ "ms": 7408
+}

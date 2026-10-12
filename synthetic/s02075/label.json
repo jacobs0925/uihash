@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-font-typo",
+ "ops": [
+  {
+   "op": "m-font-typo",
+   "kind": "mistake",
+   "desc": "body: font name typo",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 2,
+     "prop": "font-family",
+     "value": "Izter, system-ui, -apple-system, \"Segoe UI\", sans-serif"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02075",
+ "app": "admin",
+ "findings": 1,
+ "ms": 6418
+}

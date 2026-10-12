@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-duplicate",
+ "ops": [
+  {
+   "op": "m-duplicate",
+   "kind": "mistake",
+   "desc": "div.row duplicated",
+   "edits": [
+    {
+     "js": "const it = document.querySelectorAll(\"main > div.row\")[0]; if (it) it.after(it.cloneNode(true));"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00099",
+ "app": "scroller",
+ "findings": 2,
+ "ms": 4698
+}

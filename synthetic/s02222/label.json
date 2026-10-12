@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-padding",
+ "ops": [
+  {
+   "op": "d-padding",
+   "kind": "deliberate",
+   "desc": ".filters label: padding",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 12,
+     "prop": "padding",
+     "value": "9px 0"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02222",
+ "app": "shop",
+ "findings": 1,
+ "ms": 8653
+}

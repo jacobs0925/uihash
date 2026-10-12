@@ -1,0 +1,20 @@
+{
+ "repo": "eui",
+ "sha": "badbb1f3a5b9fc44dd38ac31d8edf44fde9fbfbc",
+ "parent": "78d42024d010f53b1c3c23a9cb7b7bf2627df239",
+ "date": "2025-10-15",
+ "subject": "[EuiBasicTable] Do not animate loading bar when user prefers reduced motion (#9095)",
+ "pr": "9095",
+ "components": [
+  "basic_table"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9095.md",
+  "packages/eui/src/components/basic_table/basic_table.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "stories": 72,
+ "findings": 0,
+ "ms": 718099
+}

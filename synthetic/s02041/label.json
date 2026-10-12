@@ -1,0 +1,24 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-state-lost",
+ "ops": [
+  {
+   "op": "m-state-lost",
+   "kind": "mistake",
+   "desc": ".switch.on looks like the rest",
+   "edits": [
+    {
+     "css": "drop",
+     "rule": 47,
+     "prop": "background"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02041",
+ "app": "admin",
+ "findings": 2,
+ "ms": 6507
+}

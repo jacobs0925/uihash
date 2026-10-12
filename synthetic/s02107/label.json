@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-misalign",
+ "ops": [
+  {
+   "op": "m-misalign",
+   "kind": "mistake",
+   "desc": "label 2 off by a few px",
+   "edits": [
+    {
+     "css": "add",
+     "text": "aside.filters > label:nth-child(2) { position: relative; top: 1px; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02107",
+ "app": "shop",
+ "findings": 2,
+ "ms": 5983
+}

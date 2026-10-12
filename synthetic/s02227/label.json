@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-rows-missing",
+ "ops": [
+  {
+   "op": "m-rows-missing",
+   "kind": "mistake",
+   "desc": "th past 3 not drawn",
+   "edits": [
+    {
+     "css": "add",
+     "text": "tr > th:nth-child(n+4) { visibility: hidden; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02227",
+ "app": "admin",
+ "findings": 1,
+ "ms": 5954
+}

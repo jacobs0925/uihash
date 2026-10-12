@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-shadow",
+ "ops": [
+  {
+   "op": "d-shadow",
+   "kind": "deliberate",
+   "desc": ".card: softer shadow",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 20,
+     "prop": "box-shadow",
+     "value": "0 4px 16px rgba(0, 0, 0, 0.08)"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00064",
+ "app": "dashboard",
+ "findings": 1,
+ "ms": 7119
+}

@@ -1,0 +1,29 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-state-lost",
+ "ops": [
+  {
+   "op": "m-state-lost",
+   "kind": "mistake",
+   "desc": "li.row.unread .sender, li.row.unread .subject, li.row.unread .date looks like the rest",
+   "edits": [
+    {
+     "css": "drop",
+     "rule": 36,
+     "prop": "color"
+    },
+    {
+     "css": "drop",
+     "rule": 36,
+     "prop": "font-weight"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00101",
+ "app": "mailbox",
+ "findings": 4,
+ "ms": 12702
+}

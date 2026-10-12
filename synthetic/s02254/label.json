@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-copy",
+ "ops": [
+  {
+   "op": "d-copy",
+   "kind": "deliberate",
+   "desc": "copy: Filter",
+   "edits": [
+    {
+     "src": ">Filter<",
+     "to": ">Refine<"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02254",
+ "app": "admin",
+ "findings": 2,
+ "ms": 5285
+}

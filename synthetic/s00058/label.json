@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-token",
+ "ops": [
+  {
+   "op": "d-token",
+   "kind": "deliberate",
+   "desc": "--brand rebrand",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 0,
+     "prop": "--brand",
+     "value": "#110bd0"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00058",
+ "app": "mailbox",
+ "findings": 4,
+ "ms": 11196
+}

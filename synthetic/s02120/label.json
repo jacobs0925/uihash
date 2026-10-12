@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-font-size",
+ "ops": [
+  {
+   "op": "d-font-size",
+   "kind": "deliberate",
+   "desc": ".nav a: font-size",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 5,
+     "prop": "font-size",
+     "value": "13px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02120",
+ "app": "admin",
+ "findings": 1,
+ "ms": 5548
+}

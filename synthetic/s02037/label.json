@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-z-under",
+ "ops": [
+  {
+   "op": "m-z-under",
+   "kind": "mistake",
+   "desc": ".top under the content",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 3,
+     "prop": "z-index",
+     "value": "-1"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02037",
+ "app": "shop",
+ "findings": 1,
+ "ms": 14083
+}

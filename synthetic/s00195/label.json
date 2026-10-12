@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-font-typo",
+ "ops": [
+  {
+   "op": "m-font-typo",
+   "kind": "mistake",
+   "desc": "body: font name typo",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 1,
+     "prop": "font-family",
+     "value": "Aial, sans-serif"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00195",
+ "app": "dashboard",
+ "findings": 1,
+ "ms": 4538
+}

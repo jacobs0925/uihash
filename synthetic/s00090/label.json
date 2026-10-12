@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-radius",
+ "ops": [
+  {
+   "op": "d-radius",
+   "kind": "deliberate",
+   "desc": ".badge: border-radius",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 11,
+     "prop": "border-radius",
+     "value": "1003px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00090",
+ "app": "scroller",
+ "findings": 1,
+ "ms": 6260
+}

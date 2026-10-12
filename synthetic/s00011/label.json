@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-missing",
+ "ops": [
+  {
+   "op": "m-missing",
+   "kind": "mistake",
+   "desc": "nav a.on gone",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 6,
+     "prop": "display",
+     "value": "none"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00011",
+ "app": "scroller",
+ "findings": 2,
+ "ms": 4132
+}

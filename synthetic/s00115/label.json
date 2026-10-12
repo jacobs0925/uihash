@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-past-window",
+ "ops": [
+  {
+   "op": "m-past-window",
+   "kind": "mistake",
+   "desc": "nav pushed past the window",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 4,
+     "prop": "min-width",
+     "value": "1600px"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00115",
+ "app": "scroller",
+ "findings": 3,
+ "ms": 6199
+}

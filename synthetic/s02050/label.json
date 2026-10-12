@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-gap",
+ "ops": [
+  {
+   "op": "d-gap",
+   "kind": "deliberate",
+   "desc": ".user: gap",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 23,
+     "prop": "gap",
+     "value": "14px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02050",
+ "app": "admin",
+ "findings": 2,
+ "ms": 7627
+}

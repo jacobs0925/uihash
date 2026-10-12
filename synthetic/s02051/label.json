@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-typo",
+ "ops": [
+  {
+   "op": "m-typo",
+   "kind": "mistake",
+   "desc": "typo in Email",
+   "edits": [
+    {
+     "src": ">Email<",
+     "to": ">Emuil<"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02051",
+ "app": "admin",
+ "findings": 1,
+ "ms": 5173
+}

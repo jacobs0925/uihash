@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-colour",
+ "ops": [
+  {
+   "op": "d-colour",
+   "kind": "deliberate",
+   "desc": ".stars: color",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 21,
+     "prop": "color",
+     "value": "#f6ee1f"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02202",
+ "app": "shop",
+ "findings": 1,
+ "ms": 6041
+}

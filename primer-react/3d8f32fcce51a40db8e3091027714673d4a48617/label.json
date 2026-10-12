@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "3d8f32fcce51a40db8e3091027714673d4a48617",
+ "date": "2026-10-06",
+ "pr": "8412",
+ "title": "fix(Button): apply disabled styles while loading under FF (#8412)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "9 visual-test baselines updated"
+}

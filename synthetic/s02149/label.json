@@ -1,0 +1,24 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-hover-lost",
+ "ops": [
+  {
+   "op": "m-hover-lost",
+   "kind": "mistake",
+   "desc": ".add:hover does nothing",
+   "edits": [
+    {
+     "css": "drop",
+     "rule": 29,
+     "prop": "background"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02149",
+ "app": "shop",
+ "findings": 2,
+ "ms": 6458
+}

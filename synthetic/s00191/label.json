@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-ghost",
+ "ops": [
+  {
+   "op": "m-ghost",
+   "kind": "mistake",
+   "desc": ".icon-btn invisible but clickable",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 12,
+     "prop": "opacity",
+     "value": "0"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00191",
+ "app": "mailbox",
+ "findings": 5,
+ "ms": 15833
+}

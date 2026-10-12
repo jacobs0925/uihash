@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-contrast",
+ "ops": [
+  {
+   "op": "m-contrast",
+   "kind": "mistake",
+   "desc": "footer: low contrast",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 13,
+     "prop": "color",
+     "value": "#d3d5da"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00121",
+ "app": "scroller",
+ "findings": 2,
+ "ms": 12333
+}

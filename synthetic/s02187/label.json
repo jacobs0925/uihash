@@ -1,0 +1,29 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-hover-lost",
+ "ops": [
+  {
+   "op": "m-hover-lost",
+   "kind": "mistake",
+   "desc": ".card:hover does nothing",
+   "edits": [
+    {
+     "css": "drop",
+     "rule": 16,
+     "prop": "box-shadow"
+    },
+    {
+     "css": "drop",
+     "rule": 16,
+     "prop": "border-color"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02187",
+ "app": "shop",
+ "findings": 2,
+ "ms": 8091
+}

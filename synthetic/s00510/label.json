@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-radius",
+ "ops": [
+  {
+   "op": "d-radius",
+   "kind": "deliberate",
+   "desc": ".promo .cta: border-radius",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 18,
+     "prop": "border-radius",
+     "value": "12px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00510",
+ "app": "dashboard",
+ "findings": 1,
+ "ms": 4790
+}

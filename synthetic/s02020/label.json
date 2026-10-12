@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-copy",
+ "ops": [
+  {
+   "op": "d-copy",
+   "kind": "deliberate",
+   "desc": "copy: Herb planter",
+   "edits": [
+    {
+     "src": "'Herb planter'",
+     "to": "'All herb planter'"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02020",
+ "app": "shop",
+ "findings": 3,
+ "ms": 5445
+}

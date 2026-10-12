@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-duplicate",
+ "ops": [
+  {
+   "op": "m-duplicate",
+   "kind": "mistake",
+   "desc": "li.row duplicated",
+   "edits": [
+    {
+     "js": "const it = document.querySelectorAll(\"ul.rows > li.row\")[2]; if (it) it.after(it.cloneNode(true));"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00003",
+ "app": "mailbox",
+ "findings": 3,
+ "ms": 5939
+}

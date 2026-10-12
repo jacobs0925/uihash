@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-padding",
+ "ops": [
+  {
+   "op": "d-padding",
+   "kind": "deliberate",
+   "desc": ".row: padding",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 41,
+     "prop": "padding",
+     "value": "8px 0"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02210",
+ "app": "admin",
+ "findings": 1,
+ "ms": 10029
+}

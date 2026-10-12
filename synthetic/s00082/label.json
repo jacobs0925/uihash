@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-colour",
+ "ops": [
+  {
+   "op": "d-colour",
+   "kind": "deliberate",
+   "desc": ".bar: background",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 52,
+     "prop": "background",
+     "value": "#ededed"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00082",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 13067
+}

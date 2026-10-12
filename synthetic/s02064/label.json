@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-zebra",
+ "ops": [
+  {
+   "op": "d-zebra",
+   "kind": "deliberate",
+   "desc": "zebra label",
+   "edits": [
+    {
+     "css": "add",
+     "text": "aside.filters > label:nth-child(even) { background-color: #f7f8fa; }"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02064",
+ "app": "shop",
+ "findings": 2,
+ "ms": 7248
+}

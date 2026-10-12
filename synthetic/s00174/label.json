@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-zebra",
+ "ops": [
+  {
+   "op": "d-zebra",
+   "kind": "deliberate",
+   "desc": "zebra div.nav-item",
+   "edits": [
+    {
+     "css": "add",
+     "text": "nav.side > div.nav-item:nth-child(even) { background-color: #f7f8fa; }"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00174",
+ "app": "mailbox",
+ "findings": 2,
+ "ms": 13313
+}

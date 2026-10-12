@@ -1,0 +1,37 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-truncate",
+ "ops": [
+  {
+   "op": "m-truncate",
+   "kind": "mistake",
+   "desc": ".filters h3 cut",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 11,
+     "prop": "max-width",
+     "value": "74px"
+    },
+    {
+     "css": "set",
+     "rule": 11,
+     "prop": "overflow",
+     "value": "hidden"
+    },
+    {
+     "css": "set",
+     "rule": 11,
+     "prop": "white-space",
+     "value": "nowrap"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02155",
+ "app": "shop",
+ "findings": 2,
+ "ms": 6919
+}

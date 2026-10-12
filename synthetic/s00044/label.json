@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-copy",
+ "ops": [
+  {
+   "op": "d-copy",
+   "kind": "deliberate",
+   "desc": "copy: Travel",
+   "edits": [
+    {
+     "src": "'Travel'",
+     "to": "'View travel'"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00044",
+ "app": "mailbox",
+ "findings": 2,
+ "ms": 10125
+}

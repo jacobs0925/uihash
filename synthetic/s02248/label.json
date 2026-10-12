@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-shadow",
+ "ops": [
+  {
+   "op": "d-shadow",
+   "kind": "deliberate",
+   "desc": ".toast: softer shadow",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 57,
+     "prop": "box-shadow",
+     "value": "0 4px 16px rgba(0, 0, 0, 0.08)"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02248",
+ "app": "admin",
+ "findings": 1,
+ "ms": 6456
+}

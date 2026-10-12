@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-misalign",
+ "ops": [
+  {
+   "op": "m-misalign",
+   "kind": "mistake",
+   "desc": "div.nav-item 3 off by a few px",
+   "edits": [
+    {
+     "css": "add",
+     "text": "nav.side > div.nav-item:nth-child(3) { position: relative; top: 3px; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00509",
+ "app": "mailbox",
+ "findings": 2,
+ "ms": 9015
+}

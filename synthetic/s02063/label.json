@@ -1,0 +1,29 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-overrun",
+ "ops": [
+  {
+   "op": "m-overrun",
+   "kind": "mistake",
+   "desc": ".title runs over",
+   "edits": [
+    {
+     "css": "drop",
+     "rule": 19,
+     "prop": "overflow"
+    },
+    {
+     "css": "drop",
+     "rule": 19,
+     "prop": "text-overflow"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02063",
+ "app": "shop",
+ "findings": 1,
+ "ms": 6319
+}

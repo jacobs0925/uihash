@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-collide",
+ "ops": [
+  {
+   "op": "m-collide",
+   "kind": "mistake",
+   "desc": ".nav a now like .nav a.current",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 5,
+     "prop": "color",
+     "value": "#ffffff"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02105",
+ "app": "admin",
+ "findings": 1,
+ "ms": 5437
+}

@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-rows-missing",
+ "ops": [
+  {
+   "op": "m-rows-missing",
+   "kind": "mistake",
+   "desc": "label past 4 not drawn",
+   "edits": [
+    {
+     "css": "add",
+     "text": "aside.filters > label:nth-child(n+5) { visibility: hidden; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02239",
+ "app": "shop",
+ "findings": 2,
+ "ms": 7376
+}

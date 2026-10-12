@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-border",
+ "ops": [
+  {
+   "op": "d-border",
+   "kind": "deliberate",
+   "desc": ".row: border-bottom",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 8,
+     "prop": "border-bottom",
+     "value": "1px solid #dfe3e8"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00240",
+ "app": "scroller",
+ "findings": 2,
+ "ms": 3604
+}

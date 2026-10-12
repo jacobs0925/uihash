@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-gap",
+ "ops": [
+  {
+   "op": "d-gap",
+   "kind": "deliberate",
+   "desc": ".grid: gap",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 14,
+     "prop": "gap",
+     "value": "14px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02038",
+ "app": "shop",
+ "findings": 1,
+ "ms": 6167
+}

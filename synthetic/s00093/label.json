@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-value-typo",
+ "ops": [
+  {
+   "op": "m-value-typo",
+   "kind": "mistake",
+   "desc": ".card h2: margin typo",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 27,
+     "prop": "margin",
+     "value": "0 0 12em"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00093",
+ "app": "dashboard",
+ "findings": 1,
+ "ms": 5663
+}

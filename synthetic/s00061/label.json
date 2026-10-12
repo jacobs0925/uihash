@@ -1,0 +1,37 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-truncate",
+ "ops": [
+  {
+   "op": "m-truncate",
+   "kind": "mistake",
+   "desc": ".promo .cta cut",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 18,
+     "prop": "max-width",
+     "value": "29px"
+    },
+    {
+     "css": "set",
+     "rule": 18,
+     "prop": "overflow",
+     "value": "hidden"
+    },
+    {
+     "css": "set",
+     "rule": 18,
+     "prop": "white-space",
+     "value": "nowrap"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00061",
+ "app": "dashboard",
+ "findings": 2,
+ "ms": 5564
+}

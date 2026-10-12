@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-height",
+ "ops": [
+  {
+   "op": "d-height",
+   "kind": "deliberate",
+   "desc": "li.row: taller",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 34,
+     "prop": "height",
+     "value": "46px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00126",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 13468
+}

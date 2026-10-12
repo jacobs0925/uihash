@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-padding",
+ "ops": [
+  {
+   "op": "d-padding",
+   "kind": "deliberate",
+   "desc": "li.row: padding",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 34,
+     "prop": "padding",
+     "value": "0 14px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00164",
+ "app": "mailbox",
+ "findings": 2,
+ "ms": 14594
+}

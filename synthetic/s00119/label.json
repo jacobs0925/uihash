@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-typo",
+ "ops": [
+  {
+   "op": "m-typo",
+   "kind": "mistake",
+   "desc": "typo in healthy",
+   "edits": [
+    {
+     "src": "'healthy'",
+     "to": "'healthhy'"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00119",
+ "app": "dashboard",
+ "findings": 3,
+ "ms": 5905
+}

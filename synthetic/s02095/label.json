@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-order",
+ "ops": [
+  {
+   "op": "m-order",
+   "kind": "mistake",
+   "desc": "label moved to the end",
+   "edits": [
+    {
+     "css": "add",
+     "text": "aside.filters > label:nth-child(1) { order: 9; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02095",
+ "app": "shop",
+ "findings": 0,
+ "ms": 2499
+}

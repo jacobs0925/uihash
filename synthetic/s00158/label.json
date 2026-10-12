@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-new-control",
+ "ops": [
+  {
+   "op": "d-new-control",
+   "kind": "deliberate",
+   "desc": "new nav a \"Share\"",
+   "edits": [
+    {
+     "js": "const e = document.querySelectorAll(\"nav a\")[0]; if (e) { const c = e.cloneNode(true); for (const n of c.querySelectorAll('*')) if (!n.children.length && n.textContent.trim()) n.textContent = \"Share\"; if (!c.children.length) c.textContent = \"Share\"; c.setAttribute('aria-label', \"Share\"); e.parentNode.appendChild(c); }"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00158",
+ "app": "scroller",
+ "findings": 2,
+ "ms": 3681
+}

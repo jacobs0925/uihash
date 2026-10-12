@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-colour",
+ "ops": [
+  {
+   "op": "d-colour",
+   "kind": "deliberate",
+   "desc": ".role.admin: background",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 28,
+     "prop": "background",
+     "value": "#dddaff"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02234",
+ "app": "admin",
+ "findings": 1,
+ "ms": 9469
+}

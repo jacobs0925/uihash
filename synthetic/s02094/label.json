@@ -1,0 +1,31 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-uppercase",
+ "ops": [
+  {
+   "op": "d-uppercase",
+   "kind": "deliberate",
+   "desc": ".when: small caps",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 35,
+     "prop": "text-transform",
+     "value": "uppercase"
+    },
+    {
+     "css": "set",
+     "rule": 35,
+     "prop": "letter-spacing",
+     "value": "0.04em"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s02094",
+ "app": "admin",
+ "findings": 2,
+ "ms": 7392
+}

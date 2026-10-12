@@ -1,0 +1,29 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-state-lost",
+ "ops": [
+  {
+   "op": "m-state-lost",
+   "kind": "mistake",
+   "desc": ".pager button.current looks like the rest",
+   "edits": [
+    {
+     "css": "drop",
+     "rule": 34,
+     "prop": "color"
+    },
+    {
+     "css": "drop",
+     "rule": 34,
+     "prop": "background"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s02021",
+ "app": "shop",
+ "findings": 1,
+ "ms": 6746
+}

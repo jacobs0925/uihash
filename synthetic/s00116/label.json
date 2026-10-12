@@ -1,0 +1,25 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-font-size",
+ "ops": [
+  {
+   "op": "d-font-size",
+   "kind": "deliberate",
+   "desc": ".topbar h1: font-size",
+   "edits": [
+    {
+     "css": "set",
+     "rule": 11,
+     "prop": "font-size",
+     "value": "21px"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00116",
+ "app": "dashboard",
+ "findings": 1,
+ "ms": 6506
+}

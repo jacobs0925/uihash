@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-drift",
+ "ops": [
+  {
+   "op": "m-drift",
+   "kind": "mistake",
+   "desc": "one div.navlink drifts (background-color: #fff3cd)",
+   "edits": [
+    {
+     "css": "add",
+     "text": "aside.side > div.navlink:nth-child(2) { background-color: #fff3cd; }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00167",
+ "app": "dashboard",
+ "findings": 2,
+ "ms": 6245
+}

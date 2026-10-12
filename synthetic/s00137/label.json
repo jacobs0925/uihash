@@ -1,0 +1,22 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "m-numbers",
+ "ops": [
+  {
+   "op": "m-numbers",
+   "kind": "mistake",
+   "desc": "numbers changed (plus)",
+   "edits": [
+    {
+     "js": "const w = document.createTreeWalker(document.body, NodeFilter.SHOW_TEXT); let n, k = 0; while ((n = w.nextNode())) { if (!/\\d/.test(n.textContent) || !n.parentElement || !n.parentElement.offsetParent) continue; if (k++ % 3) continue; n.textContent = n.textContent.replace(/(\\d+)([.,]\\d+)?/, (m, a, b) => \"plus\" === 'round' && b ? a : String(+a + 1) + (b || '')); }"
+    }
+   ]
+  }
+ ],
+ "label": 1,
+ "id": "s00137",
+ "app": "mailbox",
+ "findings": 6,
+ "ms": 8677
+}

@@ -1,0 +1,23 @@
+{
+ "source": "synthetic",
+ "confidence": 1,
+ "group": "d-copy",
+ "ops": [
+  {
+   "op": "d-copy",
+   "kind": "deliberate",
+   "desc": "copy: LinkedIn",
+   "edits": [
+    {
+     "src": "'LinkedIn'",
+     "to": "'My linkedin'"
+    }
+   ]
+  }
+ ],
+ "label": 0,
+ "id": "s00242",
+ "app": "mailbox",
+ "findings": 1,
+ "ms": 10963
+}

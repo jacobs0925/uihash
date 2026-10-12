@@ -190,6 +190,62 @@
     "style": "\\.styles\\.tsx?$|\\.mixins\\.ts$",
     "snapshots": "^packages/react-ui/\\.creevey/images/.*\\.png$"
   },
+  "fluentui": {
+    "url": "https://github.com/microsoft/fluentui",
+    "branch": "master",
+    "lockfile": "yarn.lock",
+    "install": "if [ -f .yarnrc.yml ]; then corepack yarn install --immutable --mode=skip-build; else corepack yarn install --frozen-lockfile --ignore-scripts --network-timeout 600000; fi",
+    "storybookPackage": ".",
+    "storybookConfig": ".storybook/main.js",
+    "storiesPattern": "[]",
+    "storyGlob": "../packages/react-components/{c}/stories/src/**/index.stories.@(ts|tsx)",
+    "patches": [
+      [
+        "reactDocgen: 'react-docgen-typescript'",
+        "reactDocgen: false"
+      ],
+      [
+        "module.exports = /** @type {import('./types').StorybookConfig} */ ({",
+        "module.exports = (c => ({ ...c, addons: c.addons.filter(a => !String((a && a.name) || a).includes('export-to-sandbox')) }))(/** @type {import('./types').StorybookConfig} */ ({"
+      ],
+      [
+        "\n});",
+        "\n}));"
+      ],
+      [
+        "registerTsPaths({ config, configFile: tsConfigPath });",
+        "registerTsPaths({ config, configFile: tsConfigPath });\n    const deprecatedDir = path.resolve(__dirname, '../packages/react-components/deprecated');\n    for (const d of fs.existsSync(deprecatedDir) ? fs.readdirSync(deprecatedDir) : []) {\n      const src = ['src', 'library/src'].map(s => path.join(deprecatedDir, d, s, 'index.ts')).find(p => fs.existsSync(p));\n      if (src) config.resolve.alias = { ...config.resolve.alias, ['@fluentui/' + d + '$']: src };\n    }"
+      ]
+    ],
+    "build": "find node_modules -maxdepth 6 -path '*/@griffel/core/constants.*js' -not -name '*.map' -exec sed -i -e \"s/^const HASH_PREFIX = 'f';/const HASH_PREFIX = '_f';/\" -e \"s/^const RESET_HASH_PREFIX = 'r';/const RESET_HASH_PREFIX = '_r';/\" {} + && find node_modules -maxdepth 6 -path '*/@griffel/core/constants.*js' -not -name '*.map' -exec grep -l \"^const HASH_PREFIX = '_f';\" {} + | grep -q . && npx storybook build -c .storybook --quiet --disable-telemetry -o {out}",
+    "componentRoot": "packages/react-components",
+    "skipDirs": [
+      "deprecated",
+      "recipes",
+      "react-components",
+      "react-tabster",
+      "react-utilities",
+      "react-theme-sass",
+      "react-storybook-addon",
+      "react-storybook-addon-export-to-sandbox",
+      "react-storybook-addon-playground",
+      "react-conformance-griffel",
+      "babel-preset-global-context",
+      "babel-preset-storybook-full-source",
+      "eslint-plugin-react-components",
+      "theme-designer",
+      "react-jsx-runtime",
+      "react-portal-compat",
+      "react-portal-compat-context",
+      "react-context-selector",
+      "priority-overflow",
+      "keyboard-keys",
+      "global-context",
+      "react-colorpicker-compat"
+    ],
+    "style": "\\.styles\\.tsx?$|[a-z]Styles?\\.ts$",
+    "snapshots": "^$"
+  },
   "spectrum-web-components-2nd-gen": {
     "url": "https://github.com/adobe/spectrum-web-components",
     "branch": "main",

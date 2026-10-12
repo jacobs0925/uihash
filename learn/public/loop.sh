@@ -13,7 +13,8 @@
 set -u
 WORK=$1; DATA=$2; shift 2
 HERE=$(cd "$(dirname "$0")" && pwd)
-export REPOS=${*:-${REPOS:-primer-react eui}} KEEP_MODELS=${KEEP_MODELS:-1}
+[ $# -gt 0 ] && export REPOS="$*"
+export KEEP_MODELS=${KEEP_MODELS:-1}
 checked() { find "$DATA" -mindepth 3 -maxdepth 3 -name meta.json 2>/dev/null | wc -l; }
 round=0
 while [ -z "${ROUNDS:-}" ] || [ "$round" -lt "$ROUNDS" ]; do

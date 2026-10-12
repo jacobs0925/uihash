@@ -2,7 +2,8 @@
 # One round of the self-improvement loop on public data, in two phases. loop.sh runs rounds back to back on
 # your own machine; the GitHub workflow (.github/workflows/learn.yml) runs one every two hours, each phase
 # as a step with its own time limit.
-#   walk   check the next commits of each repository (walk.js), sharing a time budget between them
+#   walk   check the next commits (walk.js) for a time budget, one repository at a time: the next
+#          repository in REPOS starts only when the ones before it have no commits left to check
 #   train  relabel every repository (label.js) and store its summaries compressed, then retrain with
 #          weekly.js: a fixed share of each repository's commits is held out (dataset.js --split), three
 #          candidates are trained, the best on the held-out commits goes through the promotion gate
@@ -15,7 +16,7 @@
 # <dataDir>/synthetic/     labelled synthetic PRs (generate.js output), trained on as well
 # <dataDir>/latest.md, history.jsonl   the last round's summary, and one line per round
 # Environment:
-#   REPOS          repositories from repos.json                                 (default: primer-react eui)
+#   REPOS          repositories from repos.json, in the order they are walked    (default: all, in file order)
 #   WALK_MINUTES   the walk's time budget; a commit in progress still finishes    (default 70)
 #   BATCH          at most this many commits per repository and round             (default: no limit)
 #   SINCE          oldest commit date to walk                                     (default 2025-10-01)
@@ -30,19 +31,20 @@
 set -u
 PHASE=$1; DATA=$2
 HERE=$(cd "$(dirname "$0")/../.." && pwd)
-read -r -a repos <<< "${REPOS:-primer-react eui}"
+read -r -a repos <<< "${REPOS:-$(node -p "Object.keys(require('$HERE/learn/public/repos.json')).join(' ')")}"
 LOGS=${LOGS:-$DATA/logs}
 mkdir -p "$DATA" "$LOGS"
 
 if [ "$PHASE" = walk ]; then
   WORK=$3; mkdir -p "$WORK"
   [[ ${WALK_MINUTES:-70} =~ ^[0-9]+$ ]] || { echo "WALK_MINUTES must be a whole number of minutes"; exit 2; }
-  # start with another repository each round, so that a slow one does not always get the leftovers
-  k=$(( $(cat "$DATA/history.jsonl" 2>/dev/null | wc -l) % ${#repos[@]} ))
-  end=$(( $(date +%s) + ${WALK_MINUTES:-70} * 60 )); left=${#repos[@]}
-  for r in "${repos[@]:k}" "${repos[@]:0:k}"; do
-    minutes=$(( (end - $(date +%s)) / 60 / left )); left=$((left - 1))
-    [ "$minutes" -gt 0 ] || continue
+  # one repository at a time, in the order of REPOS: each walks until its window is used up (or it cannot
+  # get past failing commits), and only then does the next one get the time that is left. Repositories
+  # already used up come first each round, but only have their new commits to check.
+  end=$(( $(date +%s) + ${WALK_MINUTES:-70} * 60 ))
+  for r in "${repos[@]}"; do
+    minutes=$(( (end - $(date +%s)) / 60 ))
+    [ "$minutes" -gt 0 ] || break
     echo "== $r: up to $minutes minutes"
     node "$HERE/learn/public/walk.js" "$r" "$WORK" "$DATA" --since "${SINCE:-2025-10-01}" --minutes "$minutes" --max "${BATCH:-100000}" 2>&1 | tee -a "$LOGS/walk-$r.log"
   done

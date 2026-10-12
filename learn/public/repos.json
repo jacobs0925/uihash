@@ -41,7 +41,10 @@
     "install": "corepack yarn install --immutable && corepack yarn workspace @elastic/eui-theme-common build && corepack yarn workspace @elastic/eui-theme-borealis build",
     "storybookPackage": "packages/eui",
     "storybookConfig": "packages/eui/.storybook/main.ts",
-    "storiesPattern": "['../src/**/*.stories.@(js|jsx|ts|tsx)']",
+    "storiesPattern": [
+      "['../src/**/*.stories.@(js|jsx|ts|tsx)']",
+      "['../src/**/*.mdx', '../src/**/*.stories.@(js|jsx|ts|tsx)']"
+    ],
     "storyGlob": "../src/components/{c}/**/*.stories.@(js|jsx|ts|tsx)",
     "patches": [],
     "build": "npx storybook build --quiet --disable-telemetry -o {out}",
@@ -53,6 +56,74 @@
     ],
     "style": "\\.styles\\.ts$|\\.scss$",
     "snapshots": "\\.vrt/reference/.*\\.png$",
-    "node": "nvmrc"
+    "node": "nvmrc",
+    "version": 2
+  },
+  "primer-brand": {
+    "url": "https://github.com/primer/brand",
+    "branch": "main",
+    "lockfile": "package-lock.json",
+    "install": "npm ci --no-audit --no-fund --loglevel=error",
+    "storybookPackage": "apps/storybook",
+    "storybookConfig": "apps/storybook/.storybook/main.js",
+    "storiesPattern": "['../../../packages/react/src/**/*.stories.@(js|jsx|ts|tsx)']",
+    "storyGlob": "../../../packages/react/src/{c}/**/*.stories.@(js|jsx|ts|tsx)",
+    "patches": [],
+    "build": "(cd ../../packages/design-tokens && npm run build --silent) && NODE_ENV=test npx storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "packages/react/src",
+    "skipDirs": [
+      "css",
+      "fixtures",
+      "hooks",
+      "utils",
+      "test-utils",
+      "component-helpers"
+    ],
+    "style": "\\.css$",
+    "snapshots": "\\.visual\\.spec\\.tsx?-snapshots/.*\\.png$",
+    "node": "24.14.1"
+  },
+  "vkui": {
+    "url": "https://github.com/vkcom/VKUI",
+    "branch": "master",
+    "lockfile": "yarn.lock",
+    "install": "YARN_ENABLE_SCRIPTS=false YARN_ENABLE_HARDENED_MODE=0 corepack yarn install --immutable",
+    "storybookPackage": "packages/vkui",
+    "storybookConfig": "packages/vkui/.storybook/main.ts",
+    "storiesPattern": "['../docs/**/*.mdx', '../src/**/*.mdx', '../src/**/*.stories.@(js|jsx|ts|tsx)']",
+    "storyGlob": "../src/components/{c}/**/*.stories.@(js|jsx|ts|tsx)",
+    "patches": [
+      [
+        "return mergeConfig(config, {\n      define: {",
+        "return mergeConfig(config, {\n      css: { modules: { generateScopedName: 'vkui[folder]__[local]' } },\n      define: {"
+      ]
+    ],
+    "build": "npx storybook build --quiet --disable-telemetry -o {out}",
+    "skipStories": "^devtools-",
+    "componentRoot": "packages/vkui/src/components",
+    "skipDirs": [],
+    "style": "\\.css$",
+    "snapshots": "__image_snapshots__/.*\\.(png|webp)$"
+  },
+  "gravity-uikit": {
+    "url": "https://github.com/gravity-ui/uikit",
+    "branch": "main",
+    "lockfile": "package-lock.json",
+    "install": "HUSKY=0 npm ci --no-audit --no-fund --loglevel=error --before=\"$(git log -1 --format=%cI)\"",
+    "storybookPackage": ".",
+    "storybookConfig": ".storybook/main.ts",
+    "storiesPattern": "['../src/**/*.mdx', '../src/**/*.stories.@(ts|tsx)']",
+    "storyGlob": "../src/components/{c}/**/*.stories.@(ts|tsx)",
+    "patches": [],
+    "build": "npx storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "src/components",
+    "skipDirs": [
+      "utils",
+      "mobile",
+      "theme",
+      "ControlLabel"
+    ],
+    "style": "\\.(css|scss)$",
+    "snapshots": "__snapshots__/[^/]+-snapshots/[^/]+\\.png$"
   }
 }

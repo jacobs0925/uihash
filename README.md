@@ -338,7 +338,8 @@ node bin/uihash.js snapshot "http://localhost:3000/inbox?seed=1" --out inbox.jso
 - **Other browsers**: Chromium only.
 - **Intent**: whether a change was meant. The labels say what a change breaks or takes away and which
   edit it comes from. They cannot tell a deliberate 4px margin from an accidental one; only the PR's
-  stated purpose can ([RESEARCH.md](RESEARCH.md), "Intended or not").
+  stated purpose can ([RESEARCH.md](RESEARCH.md), "Intended or not"). A learned model that adds this
+  evidence is in progress: [learn/HANDOFF.md](learn/HANDOFF.md).
 
 **Measured:**
 
@@ -390,7 +391,8 @@ The details of every experiment, the negative results and the design trade-offs 
 | `src/capture.js`, `src/annotate.js` | stable page capture; red boxes and before/after crops |
 | `ci/github/uihash.yml` | the GitHub Actions workflow template |
 | `ci/demo/` | the demo PR |
-| `experiments/` | the test suites behind the numbers above (`npm run eval:*`) |
+| `experiments/` | the test suites behind the numbers above (`npm run eval:*`), and the testbed apps |
+| `learn/` | the harness for a learned triage model and the design of its self-improvement loop ([learn/HANDOFF.md](learn/HANDOFF.md)) |
 
 ## License
 

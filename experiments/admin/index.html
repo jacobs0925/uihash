@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Admin testbed</title>
+<style>
+:root { --accent: #4f46e5; --ink: #0f172a; --muted: #64748b; --line: #e2e8f0; --ok: #16a34a; --warn: #d97706; --off: #94a3b8; --bad: #dc2626; --panel: #ffffff; }
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Inter, system-ui, -apple-system, "Segoe UI", sans-serif; color: var(--ink); background: #f8fafc; font-size: 14px; }
+.nav { display: flex; align-items: center; gap: 24px; height: 56px; padding: 0 24px; background: var(--ink); color: #e2e8f0; }
+.brand { font-weight: 700; color: #ffffff; }
+.nav a { color: #cbd5e1; text-decoration: none; font-size: 14px; }
+.nav a.current { color: #ffffff; font-weight: 600; }
+.me { margin-left: auto; width: 32px; height: 32px; border-radius: 50%; background: #334155; color: #ffffff; display: inline-flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 600; }
+.page { display: grid; grid-template-columns: 1fr 300px; gap: 24px; padding: 24px; }
+.tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); margin-bottom: 16px; }
+.tab { padding: 10px 14px; border: 0; background: none; font-size: 14px; color: var(--muted); border-bottom: 2px solid transparent; cursor: pointer; }
+.tab.active { color: var(--accent); border-bottom-color: var(--accent); font-weight: 600; }
+.toolbar { display: flex; align-items: center; gap: 8px; margin-bottom: 12px; }
+.toolbar input { height: 36px; width: 260px; padding: 0 10px; border: 1px solid var(--line); border-radius: 6px; font-size: 14px; }
+.btn { height: 36px; padding: 0 14px; border: 1px solid var(--line); border-radius: 6px; background: #ffffff; font-size: 14px; cursor: pointer; }
+.btn.primary { margin-left: auto; background: var(--accent); border-color: var(--accent); color: #ffffff; font-weight: 600; }
+.btn:hover { background: #f1f5f9; }
+.btn.primary:hover { background: #4338ca; }
+.btn:focus-visible, .tab:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+table { width: 100%; border-collapse: collapse; background: var(--panel); border: 1px solid var(--line); border-radius: 8px; }
+th { text-align: left; font-size: 12px; font-weight: 600; color: var(--muted); text-transform: uppercase; letter-spacing: 0.04em; padding: 10px 12px; border-bottom: 1px solid var(--line); background: #f8fafc; }
+td { padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: middle; }
+tr.selected td { background: #eef2ff; }
+.user { display: flex; align-items: center; gap: 10px; }
+.av { width: 28px; height: 28px; border-radius: 50%; color: #ffffff; font-size: 11px; font-weight: 700; display: inline-flex; align-items: center; justify-content: center; }
+.name { font-weight: 600; }
+.email { color: var(--muted); font-size: 13px; max-width: 180px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.role { display: inline-block; padding: 2px 8px; border-radius: 999px; font-size: 12px; background: #f1f5f9; color: #334155; }
+.role.admin { background: #eef2ff; color: var(--accent); }
+.status { display: inline-flex; align-items: center; gap: 6px; font-size: 13px; }
+.dot { width: 8px; height: 8px; border-radius: 50%; }
+.dot.active { background: var(--ok); }
+.dot.invited { background: var(--warn); }
+.dot.suspended { background: var(--bad); }
+.dot.inactive { background: var(--off); }
+.when { color: var(--muted); font-size: 13px; }
+.more { width: 28px; height: 28px; border: 0; border-radius: 6px; background: none; font-size: 16px; cursor: pointer; color: var(--muted); }
+.more:hover { background: #f1f5f9; }
+.foot { display: flex; align-items: center; justify-content: space-between; margin-top: 12px; color: var(--muted); font-size: 13px; }
+.side { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; padding: 16px; align-self: start; }
+.side h2 { margin: 0 0 12px; font-size: 15px; }
+.row { display: flex; align-items: center; justify-content: space-between; padding: 10px 0; border-bottom: 1px solid var(--line); }
+.row:last-child { border-bottom: 0; }
+.label { font-size: 14px; }
+.help { font-size: 12px; color: var(--muted); margin-top: 2px; }
+.switch { position: relative; width: 36px; height: 20px; border-radius: 10px; background: #cbd5e1; border: 0; cursor: pointer; flex: none; }
+.switch::after { content: ""; position: absolute; top: 2px; left: 2px; width: 16px; height: 16px; border-radius: 50%; background: #ffffff; }
+.switch.on { background: var(--accent); }
+.switch.on::after { left: 18px; }
+.field { margin-top: 12px; }
+.field input { width: 100%; height: 34px; padding: 0 10px; border: 1px solid var(--line); border-radius: 6px; font-size: 14px; }
+.field .error { color: var(--bad); font-size: 12px; margin-top: 4px; }
+.save { margin-top: 14px; width: 100%; }
+.menu { position: absolute; width: 170px; background: #ffffff; border: 1px solid var(--line); border-radius: 8px; box-shadow: 0 12px 28px rgba(15, 23, 42, 0.14); padding: 4px; display: none; z-index: 30; }
+.menu.open { display: block; }
+.menu button { display: block; width: 100%; text-align: left; padding: 8px 10px; border: 0; background: none; font-size: 14px; border-radius: 6px; cursor: pointer; }
+.menu button.danger { color: var(--bad); }
+.toast { position: fixed; right: 24px; bottom: 24px; padding: 10px 14px; background: var(--ink); color: #ffffff; border-radius: 8px; font-size: 13px; z-index: 40; box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2); }
+</style>
+<style id="mutation"></style>
+</head>
+<body>
+<div id="app"></div>
+<script>
+const P = new URLSearchParams(location.search), seed = +(P.get('seed') || 1);
+let s = seed * 7919 + 104729; const R = () => { s = (s * 16807) % 2147483647; return s / 2147483647; };
+const pick = (a) => a[Math.floor(R() * a.length)];
+const FIRST = ['Ava', 'Ben', 'Chloe', 'Dev', 'Elena', 'Farid', 'Grace', 'Hiro', 'Ines', 'Jonas', 'Kara', 'Liam', 'Maya', 'Noah', 'Olga', 'Priya'];
+const LAST = ['Adams', 'Baker', 'Chen', 'Diaz', 'Evans', 'Fischer', 'Garcia', 'Huang', 'Ito', 'Jensen', 'Khan', 'Lopez', 'Moreau', 'Nakamura'];
+const ROLES = ['Admin', 'Editor', 'Viewer', 'Billing'];
+const STATUS = ['active', 'active', 'active', 'invited', 'suspended', 'inactive'];
+const HUES = [210, 340, 150, 30, 270, 190, 0];
+const n = 5 + Math.floor(R() * 8), sel = Math.floor(R() * n), total = n + Math.floor(R() * 200);
+const users = Array.from({ length: n }, () => { const f = pick(FIRST), l = pick(LAST); return { f, l, email: `${f}.${l}@example.com`.toLowerCase(), role: pick(ROLES), status: pick(STATUS), days: Math.floor(R() * 40), hue: pick(HUES) }; });
+const when = (d) => d === 0 ? 'today' : d === 1 ? 'yesterday' : `${d} days ago`;
+document.getElementById('app').innerHTML = `
+<nav class="nav"><span class="brand">Acme Admin</span><a href="#" class="current">People</a><a href="#">Teams</a><a href="#">Billing</a><a href="#">Audit log</a><span class="me">AD</span></nav>
+<div class="page">
+  <main>
+    <div class="tabs"><button class="tab active">Members</button><button class="tab">Invitations</button><button class="tab">Groups</button></div>
+    <div class="toolbar"><input placeholder="Search people"><button class="btn">Filter</button><button class="btn">Export</button><button class="btn primary">Invite people</button></div>
+    <table><thead><tr><th>Name</th><th>Email</th><th>Role</th><th>Status</th><th>Last active</th><th></th></tr></thead>
+    <tbody>${users.map((u, i) => `<tr class="${i === sel ? 'selected' : ''}"><td><div class="user"><span class="av" style="background:hsl(${u.hue},55%,45%)">${u.f[0]}${u.l[0]}</span><span class="name">${u.f} ${u.l}</span></div></td>
+      <td><div class="email">${u.email}</div></td><td><span class="role${u.role === 'Admin' ? ' admin' : ''}">${u.role}</span></td>
+      <td><span class="status"><span class="dot ${u.status}"></span>${u.status[0].toUpperCase() + u.status.slice(1)}</span></td><td class="when">${when(u.days)}</td><td><button class="more" aria-label="Row actions">⋯</button></td></tr>`).join('')}</tbody></table>
+    <div class="foot"><span>Showing 1–${n} of ${total}</span><span>Page 1</span></div>
+  </main>
+  <aside class="side"><h2>Workspace settings</h2>
+    <div class="row"><div><div class="label">Require two-factor</div><div class="help">Members must set up 2FA</div></div><button class="switch on" role="switch" aria-checked="true" aria-label="Require two-factor"></button></div>
+    <div class="row"><div><div class="label">Allow guests</div><div class="help">Guests see shared projects only</div></div><button class="switch" role="switch" aria-checked="false" aria-label="Allow guests"></button></div>
+    <div class="row"><div><div class="label">Weekly digest</div><div class="help">Email a summary on Mondays</div></div><button class="switch on" role="switch" aria-checked="true" aria-label="Weekly digest"></button></div>
+    <div class="field"><label class="label" for="dom">Allowed domain</label><input id="dom" value="example.com"><div class="error">Domain must be verified</div></div>
+    <button class="btn primary save">Save changes</button></aside>
+</div>
+<div class="menu"><button>Change role</button><button>Resend invite</button><button class="danger">Remove</button></div>
+<div class="toast" role="status">${total} people synced</div>`;
+document.querySelectorAll('.more').forEach((b) => b.addEventListener('click', () => { const m = document.querySelector('.menu'), r = b.getBoundingClientRect(); m.style.left = (r.right - 170) + 'px'; m.style.top = (r.bottom + 4) + 'px'; m.classList.add('open'); }));
+document.getElementById('mutation').textContent = P.get('css') || '';
+if (P.get('js')) new Function(P.get('js'))();
+</script>
+</body>
+</html>

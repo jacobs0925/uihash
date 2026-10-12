@@ -21,6 +21,7 @@ and the agents that write code (the operator miner). See [Where things stand](#w
 - [The harness](#the-harness)
 - [The model](#the-model)
 - [The self-improvement loop](#the-self-improvement-loop)
+- [Public data](#public-data)
 - [Evaluation and guardrails](#evaluation-and-guardrails)
 - [Putting the model into uihash](#putting-the-model-into-uihash)
 - [Roadmap](#roadmap)
@@ -378,6 +379,132 @@ Intent judge prompt, in outline:
 
 Store each label with the model id and a prompt hash, so labels can be recomputed when the judge changes.
 
+## Public data
+
+Open-source component libraries are the cheapest source of real labelled PRs: their history is public,
+they render every component in Storybook, and many leave intent and regression evidence behind.
+
+**Which libraries.** One year of `main` (to October 2026), measured with `git` alone:
+
+| repository | commits | style-changing | reverted | fixed within 14 days | visual-test baseline updates | changesets (style PRs with one) | stories | Storybook | visual testing |
+|---|---|---|---|---|---|---|---|---|---|
+| primer/react | 899 | 192 | 10 | 10 (5 %) | 106 | 452 (160) | 248 | yes | Playwright, baselines in the repo |
+| elastic/eui | 565 | 119 | 2 | 5 (4 %) | 54 | 0 | 249 | yes | VRT references in the repo, named by story |
+| carbon-design-system/carbon | 1512 | 395 | 2 | 63 (16 %) | 0 | 0 | 299 | yes | Chromatic |
+| adobe/react-spectrum | 939 | 127 | 0 | 23 (18 %) | 0 | 0 | 587 | yes | Chromatic |
+| chakra-ui/chakra-ui | 439 | 68 | 0 | 5 (7 %) | 0 | 132 (47) | 125 | yes | none found |
+| mantinedev/mantine | 1641 | 376 | 0 | 94 (25 %) | 0 | 0 | stories as `*.story.tsx` | yes | none found |
+| ant-design/ant-design | 2175 | 482 | 3 | 111 (23 %) | 0 | 0 | none | no | none found |
+| mui/material-ui | 1457 | 71* | 0 | 9 | 0 | 0 | none | no | Argos (screenshots outside the repo) |
+
+\* MUI styles live in component files (`styled()`), which this count misses. Shopify Polaris had 19
+commits in the year and was dropped.
+
+**Reading the table.**
+
+- *Visual-test baseline updates* are the best intent signal: the author regenerated the screenshots, so
+  the visual change was accepted.
+- *Changesets* describe the change in words, which also serves the intent judge.
+- *Reverts* and *undone changes* are the regression signal.
+- "Fixed within 14 days" only counts later fixes that touch the same style file, so it is an upper bound.
+
+Primer React and EUI have the most evidence and run first. Carbon and React Spectrum use Chromatic,
+whose accept/deny decisions would be ideal labels but are not in the repository.
+
+**Pipeline** (`learn/public/`):
+
+- `repos.json`: how to build each library: install command, the Storybook config and the stories
+  pattern to narrow, extra patches, the Node version, and which files count as styles and as visual
+  baselines.
+- `walk.js`: for each commit on `main` that changes styles, it:
+  1. builds the Storybook of the commit and of its parent, with only the stories of the components the
+     commit touched (about a minute each instead of three);
+  2. serves both builds and runs `uihash pr` in `quick` mode on up to 24 stories, each as loaded and
+     with forced hover and focus;
+  3. keeps `summary.json` and `meta.json` (subject, PR number, files, changeset text, baselines updated).
+
+  Primer's CSS-module names carry a content hash, which would make every element look new. The build
+  patch drops it.
+- `label.js`: labels from the evidence, rerun after every walk, because later commits change earlier
+  labels:
+
+  | evidence | label | confidence |
+  |---|---|---|
+  | reverted later | 1, all findings | 0.9 |
+  | a later commit undid some of its changes (within 60 days) | 1; undone findings are the mistake side | 0.85 when the later commit is titled as a fix, else 0.7 |
+  | visual-test baselines updated, nothing undone | 0 | 0.7 |
+  | a changeset, nothing undone | 0 | 0.6 |
+  | no evidence | none (left out of training) | |
+- `round.sh`: one round, in two phases.
+  - `walk` checks the next commits of each repository for a time budget, shared between them.
+  - `train` relabels everything, stores the summaries compressed, and runs `weekly.js` with a fixed 20 %
+    of each repository's labelled commits held out. A commit is held out when a hash of its name says
+    so (`dataset.js --split`), so it stays held out as the data grows. The held-out commits form a set
+    named `<repo>-held-out`. `weekly.js` trains its three candidates on the synthetic PRs and the other
+    commits, picks the best on the held-out sets, and runs the promotion gate against
+    `learn/model.json`. Then `report.js` decides:
+
+    | decision | when |
+    |---|---|
+    | wait | no candidate yet, or fewer than 10 held-out regressions or 10 held-out intended changes |
+    | propose | there is no current model, or the gate passed and the candidate raises the mean held-out AUROC by 0.005 or more |
+    | keep | otherwise |
+
+    The gate only asks that a candidate be no worse. A round every two hours also asks that it be
+    better; otherwise every round would propose a model.
+  - Outputs: the chosen model and its reports go to `models/latest/` (or `$MODEL_OUT`), the round's
+    summary to `latest.md`, and a line to `history.jsonl`.
+- `loop.sh`: rounds back to back on your own machine. It sleeps when nothing is new, then picks up
+  whatever was merged meanwhile.
+
+```bash
+# data/public/synthetic: labelled synthetic PRs (generate.js output, or the learn-data branch's synthetic/)
+# EVAL: your own labelled PRs, scored but never trained on (the private set: the gate then runs on it too)
+EVAL=data/real-eval PY=.venv/bin/python SINCE=2025-10-01 \
+  nohup learn/public/loop.sh data/work data/public primer-react eui > loop.out 2>&1 &
+tail -f data/public/history.jsonl
+```
+
+**Cost.** Per commit:
+
+- an install when the lockfile changed (50 s for Primer, 2.5 minutes for EUI);
+- two narrowed builds (about a minute each for Primer, 4 for EUI);
+- the check (2–3 minutes).
+
+That is 12–20 Primer commits an hour on 4 cores, and about 5 for EUI. A library's year of style
+commits is about a day of walking. On the two-hour schedule below, Primer's and EUI's last year take
+three or four days, then only new commits.
+
+**Where it runs: GitHub Actions** (`.github/workflows/learn.yml`). Runners are free for public
+repositories.
+
+- **Schedule.** A round every two hours (`7 */2 * * *`), or on demand from the Actions tab. Rounds never
+  overlap; a late one waits for the one running.
+- **Time budget.** About 70 minutes of walking, shared by Primer and EUI; the first repository changes
+  each round. Then a few minutes to relabel and run `weekly.js`.
+- **Two jobs.**
+  - `collect` installs and builds the libraries, which runs their install scripts, so its token is
+    read-only.
+  - `publish` writes. It runs only `git` and `gh` on the files `collect` produced.
+- **Data.** Everything is kept on the `learn-data` branch: `<repo>/<sha>/` per commit (`meta.json`,
+  `summary.json.gz`, labels), `synthetic/`, `latest.md` and `history.jsonl`. A round commits to it only
+  when it does not lose any commit the branch had. The walk logs and the round's model are kept as run
+  artifacts for 14 days.
+- **Synthetic PRs.** `synthetic/` holds the first pass's 511 synthetic PRs. The shipped model was
+  trained on the second pass's 1,800. Add those to `synthetic/<id>/` (`label.json` and `summary.json`
+  or `summary.json.gz`), so the rounds train on the same corpus.
+- **Visible output.** The round's summary is the run's job summary. When the decision is *propose*, the
+  job force-pushes the `learn-model` branch with `learn/model.json` and `learn/model-report.md`, as
+  `weekly.js --pr` would. It then opens a pull request, or updates the one already open. A person
+  merges it.
+- **Repository settings.** GitHub Actions cannot open pull requests until *Settings → Actions → General →
+  Allow GitHub Actions to create and approve pull requests* is on. Until then the round leaves a link to
+  open the pull request in its summary.
+- **Stopping.** Actions tab → learn → *Disable workflow*. GitHub also pauses schedules after 60 days
+  without activity in the repository.
+- **Evaluation.** Only the public held-out commits are used there. The private set stays local: point
+  `EVAL` at it with `loop.sh`.
+
 ## Evaluation and guardrails
 
 - **Frozen evaluation sets.** Versioned, never trained on, never relabelled by agents. Keep at least:
@@ -421,7 +548,8 @@ and value, evaluated in a few lines of JavaScript.
 
 ## Roadmap
 
-Steps 1–7 are built (see [Where things stand](#where-things-stand)); step 8 is not.
+Steps 1–7 are built (see [Where things stand](#where-things-stand)). Step 8 runs every two hours on
+GitHub Actions (see [Public data](#public-data)).
 
 1. **Finish the corpus.** Aim for about 1,500 single-change PRs and 300 mixed, then rerun `train.py`
    and pick the variant on the frozen set. A few hours on 4 cores, with 2 or 3 generator processes.
@@ -434,7 +562,7 @@ Steps 1–7 are built (see [Where things stand](#where-things-stand)); step 8 is
 7. **Operator miner** and the weekly retrain with the promotion gate.
 8. **Public data for diversity.** Open-source projects with Storybook and visual tests: build base and
    head of merged PRs, run uihash, and label by later reverts. This brings in components and design
-   systems the testbeds do not have.
+   systems the testbeds do not have. Running for Primer React and EUI.
 
 ## What is left
 
@@ -457,7 +585,12 @@ These need your repositories, data or people. The code for each is in place.
    audit above: rewrite or retire `m-broad-rule`, `m-collide` and `m-sibling-size`, and decide whether
    the rule false alarms on `d-sort`, `d-zebra` and `d-column` should change the rules or stay as
    training signal.
-5. **Public data (roadmap 8).** Not started.
+5. **Public data (roadmap 8).** Running for Primer React and EUI every two hours, once
+   `.github/workflows/learn.yml` is on the default branch.
+   - Add the second pass's synthetic corpus to the `learn-data` branch (see Public data), so the rounds
+     train on it.
+   - Add libraries to `repos.json`. Carbon and React Spectrum need their Chromatic decisions, which are
+     not in their repositories.
 6. **A frozen synthetic set.** Until the real set is in the loop, keep one leave-one-app-out split
    frozen (`split.js`) as the gate's floor, so a candidate cannot regress on unseen apps unnoticed.
 

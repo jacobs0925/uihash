@@ -19,6 +19,7 @@ const { calibrate, check, digest, boxOf } = require('./fingerprint.js');
 const { moved } = require('./shift.js');
 const { colorHint } = require('./perceive.js');
 const { focusLost } = require('./focus.js');
+const { findingSig, findingId } = require('./features.js');
 
 const sha1 = (buf) => (buf ? crypto.createHash('sha1').update(buf).digest('hex') : null);
 const { annotate, beforeAfter, pixelsDiffer, read } = require('./annotate.js');
@@ -45,6 +46,8 @@ const SCHEMA_VERSION = 9;
 function loadConfig(file) {
   const c = { ...DEFAULTS, ...JSON.parse(fs.readFileSync(file, 'utf8')) };
   c.pages = c.pages.map((p) => ({ states: {}, ...p }));
+  // "model": a triage model (learn/train.py's model.json), relative to the config file
+  if (c.model) c.model = path.resolve(path.dirname(file), c.model);
   return c;
 }
 
@@ -693,7 +696,9 @@ async function runPR({ baseUrl, headUrl, config, outDir, cacheDir, cacheKey, ima
     const sigOf = (p) => [p.page, p.state, p.status, ...p.findings.map((f) => [f.severity, f.type, f.path, ...f.changes].join('\u0001')).sort()].join('\u0002');
     const signature = crypto.createHash('sha1').update(pages.filter((p) => !p.pass || p.status === 'new').map(sigOf).sort().join('\u0003')).digest('hex').slice(0, 16);
     const summary = { base: baseUrl, head: headUrl, ms: Date.now() - t0, targets: pages.length, changed: pages.filter((p) => !p.pass).length, failed: pages.filter((p) => !p.ok).length,
-      fresh: pages.filter((p) => p.status === 'new').length, signature, ...(cfg.expectNoChange ? { expectNoChange: true } : {}), pages };
+      fresh: pages.filter((p) => p.status === 'new').length, signature, ...(cfg.expectNoChange ? { expectNoChange: true } : {}), ...(cfg.feedback ? { feedback: true } : {}), pages };
+    // advisory learned triage: a score per finding, never part of the signature
+    if (cfg.model) { const { loadModel, scoreSummary } = require('./model.js'); scoreSummary(summary, typeof cfg.model === 'string' ? loadModel(cfg.model) : cfg.model, cfg.prText !== undefined ? { text: cfg.prText } : null); }
     fs.writeFileSync(path.join(outDir, 'summary.json'), JSON.stringify(summary, null, 1));
     fs.writeFileSync(path.join(outDir, 'report.html'), reportHtml(summary));
     fs.writeFileSync(path.join(outDir, 'comment.md'), commentMd(summary, imageBaseUrl || cfg.imageBaseUrl));
@@ -787,6 +792,8 @@ const status = (p) => ({ new: '🆕 new, no baseline', error: '❌ failed to ren
 const tidOf = (x) => tid({ page: x.page, state: x.state, vp: x.vp });
 function imageUrl(base, file) { return base.includes('{file}') ? base.replace('{file}', file) : `${base.replace(/\/$/, '')}/${file}`; }
 
+const ruled = (f) => f.triage === 'breaks' || f.triage === 'check';
+const modelNote = (f) => `model ${f.score.toFixed(2)}`;
 function commentMd(s, imageBaseUrl) {
   const L = ['<!-- uihash -->', `<!-- uihash-signature: ${s.signature} -->`];
   const broken = s.pages.filter((p) => p.status === 'error').length;
@@ -798,13 +805,19 @@ function commentMd(s, imageBaseUrl) {
   if (fresh.length) {
     const n = (l) => fresh.filter((f) => f.triage === l).length;
     L.push(Object.keys(TRIAGE).filter(n).map((l) => `${TRIAGE[l][0]} ${n(l)} ${TRIAGE[l][1]}`).join(' · '), '');
+    if (s.model) {
+      const obv = fresh.filter((f) => f.obvious).length, extra = fresh.filter((f) => f.modelFlag && !ruled(f) && !f.obvious).length;
+      if (obv || extra) L.push(`<sub>Triage model (advisory): ${[obv && `🚫 ${obv} obvious mistake${obv > 1 ? 's' : ''}`, extra && `🤖 ${extra} more likely unintended`].filter(Boolean).join(' · ')}. It adds flags and orders the list; it never removes a rule's flag or approves a change.</sub>`, '');
+    }
     if (s.expectNoChange) L.push('<sub>This PR says it changes no UI (a refactor, a dependency update), so every change below is one to check.</sub>', '');
-    // what to look at first: the findings that break something or are likely unintended
-    const hot = s.pages.flatMap((p) => p.findings.filter((f) => !f.sameAs && (f.triage === 'breaks' || f.triage === 'check')).map((f) => ({ p, f })))
-      .sort((x, y) => (x.f.triage === 'breaks' ? 0 : 1) - (y.f.triage === 'breaks' ? 0 : 1));
+    // what to look at first: the findings that break something or are likely unintended, and with a
+    // triage model the ones it flags; the model's obvious mistakes first, then breaks, then by score
+    const hot = s.pages.flatMap((p) => p.findings.filter((f) => !f.sameAs && (ruled(f) || f.modelFlag || f.obvious)).map((f) => ({ p, f })))
+      .sort((x, y) => (x.f.obvious ? 0 : 1) - (y.f.obvious ? 0 : 1) || (x.f.triage === 'breaks' ? 0 : 1) - (y.f.triage === 'breaks' ? 0 : 1) || (y.f.score || 0) - (x.f.score || 0));
+    const mark = (f) => (f.obvious ? `🚫 ${modelNote(f)}` : ruled(f) ? `${TRIAGE[f.triage][0]}${f.score !== undefined ? ` ${modelNote(f)}` : ''}` : `🤖 ${modelNote(f)}`);
     if (hot.length) {
       L.push('**Look at these first:**', '');
-      for (const { p, f } of hot.slice(0, 8)) L.push(`- ${TRIAGE[f.triage][0]} ${mdt(where(p))} **#${f.n}**: ${mdc(f.changes[0].slice(0, 140))}`);
+      for (const { p, f } of hot.slice(0, 8)) L.push(`- ${mark(f)} ${mdt(where(p))} **#${f.n}**: ${mdc(f.changes[0].slice(0, 140))}`);
       if (hot.length > 8) L.push(`- … and ${hot.length - 8} more below`);
       L.push('');
     }
@@ -816,9 +829,10 @@ function commentMd(s, imageBaseUrl) {
     L.push('', `#### ${mdt(where(p))}`, '');
     const fresh = p.findings.filter((f) => !f.sameAs), seen = p.findings.filter((f) => f.sameAs);
     for (const f of fresh) {
-      L.push(`**${f.n}.** ${f.severity === 'warning' ? '⚠️' : '❌'} ${f.triage ? `${TRIAGE[f.triage][0]} ` : ''}${mdc(shortPath(f.path))} — ${f.changes.slice(0, 3).map(mdc).join(', ')}${scope(f) ? ` _(${scope(f)})_` : ''}`);
+      L.push(`**${f.n}.** ${f.severity === 'warning' ? '⚠️' : '❌'} ${f.obvious && f.triage !== 'breaks' ? '🚫 ' : ''}${f.triage ? `${TRIAGE[f.triage][0]} ` : ''}${f.modelFlag && !ruled(f) && !f.obvious ? '🤖 ' : ''}${mdc(shortPath(f.path))} — ${f.changes.slice(0, 3).map(mdc).join(', ')}${scope(f) ? ` _(${scope(f)})_` : ''}`);
       const w = why(f, p.edits);
       if (w) L.push('', `<sub>${f.triage ? `${TRIAGE[f.triage][1]}. ` : ''}${mdt(w).replace(/&#96;([^&]*?)&#96;/g, (m, x) => `<code>${x}</code>`)}</sub>`);
+      if (f.score !== undefined && (f.modelFlag || ruled(f))) L.push('', `<sub>Triage model: ${f.obvious ? 'an obvious mistake' : f.modelFlag ? 'likely unintended' : 'probably intended'} (${modelNote(f)}).</sub>`);
       if (f.visible === false && !NOT_DRAWN.has(f.type)) L.push('', `<sub>${INTENT_ONLY}</sub>`);
       if (f.outOfView) L.push('', `<sub>${OUT_OF_VIEW}</sub>`);
       if (f.image) L.push('', imageBaseUrl ? `<img src="${imageUrl(imageBaseUrl, f.image)}" alt="before and after"${f.imageWidth > 760 ? ' width="760"' : ''}>` : `_before/after image: \`${f.image}\` in the report artifact_`);
@@ -830,6 +844,17 @@ function commentMd(s, imageBaseUrl) {
       for (const f of seen) { const k = where(f.sameAs); by.set(k, [...(by.get(k) || []), f.sameAs.n]); }
       L.push(`${fresh.length ? 'Also' : 'Only'} the change${seen.length > 1 ? 's' : ''} shown above: ${[...by].map(([k, ns]) => `${mdt(k)} ${ns.map((n) => '#' + n).join(', ')}`).join('; ')}.`, '');
     }
+  }
+  // per-finding feedback (config "feedback": true): a reviewer ticks whether each change was meant. The
+  // workflow keeps the ticks when it updates the comment; learn/collect.js reads them as labels.
+  const asked = s.feedback ? s.pages.flatMap((p) => p.findings.filter((f) => !f.sameAs && f.type !== 'coverage').map((f) => ({ p, f }))) : [];
+  if (asked.length) {
+    L.push('<details><summary>Was each change intended? Tick one box per change (optional: it trains the triage model)</summary>', '');
+    for (const { p, f } of asked.slice(0, 30)) {
+      const id = findingId(p, f);
+      L.push(`- [ ] ✅ intended: ${mdt(where(p))} **#${f.n}** <!-- uihash-f:${id}:deliberate -->`, `- [ ] ❌ a mistake: ${mdt(where(p))} **#${f.n}** <!-- uihash-f:${id}:mistake -->`);
+    }
+    L.push('', '</details>', '');
   }
   L.push('<sub>BEFORE = base branch, AFTER = this PR; red boxes mark what changed. If a change is intended, merge as usual: the base branch is the new baseline.</sub>');
   return L.join('\n') + '\n';
@@ -846,7 +871,7 @@ function reportHtml(s) {
     <div class="finding same" id="${p.id}-${f.n}"><div class="fh"><b>${f.n}</b><span class="sev ${f.severity}">${f.severity}</span><code>${esc(shortPath(f.path))}</code>
       <span class="type">same change as <a href="#${tidOf(f.sameAs)}-${f.sameAs.n}">${esc(where(f.sameAs))} #${f.sameAs.n}</a></span></div></div>` : `
     <div class="finding" id="${p.id}-${f.n}">
-      <div class="fh"><b>${f.n}</b><span class="sev ${f.severity}">${f.severity}</span>${f.triage ? `<span class="tri ${f.triage}">${TRIAGE[f.triage][0]} ${TRIAGE[f.triage][1]}</span>` : ''}<code>${esc(shortPath(f.path))}</code><span class="type">${esc(f.type)}${scope(f) ? ` · ${scope(f)}` : ''}</span></div>
+      <div class="fh"><b>${f.n}</b><span class="sev ${f.severity}">${f.severity}</span>${f.triage ? `<span class="tri ${f.triage}">${TRIAGE[f.triage][0]} ${TRIAGE[f.triage][1]}</span>` : ''}${f.score !== undefined ? `<span class="tri ${f.obvious ? 'breaks' : f.modelFlag ? 'check' : 'other'}" title="triage model: probability the change was not intended">model ${f.score.toFixed(2)}</span>` : ''}<code>${esc(shortPath(f.path))}</code><span class="type">${esc(f.type)}${scope(f) ? ` · ${scope(f)}` : ''}</span></div>
       <ul>${f.changes.map((c) => `<li><code>${esc(c)}</code></li>`).join('')}</ul>
       ${why(f, p.edits) ? `<p class="why">${esc(why(f, p.edits)).replace(/`([^`]*)`/g, '<code>$1</code>')}</p>` : ''}
       ${f.visible === false && !NOT_DRAWN.has(f.type) ? `<p class="note">${INTENT_ONLY}</p>` : ''}
@@ -886,5 +911,18 @@ ${s.pages.filter((p) => !p.pass).map(card).join('')}${s.pages.filter((p) => p.pa
 </main></body></html>`;
 }
 
-module.exports = { runPR, loadConfig, targets, render, reportHtml, commentMd, why, triageOf };
+// the reviewer's ticks in a comment body: finding id -> 'deliberate' | 'mistake' (both ticked: dropped)
+function feedbackOf(body) {
+  const out = {}, both = new Set();
+  for (const m of String(body).matchAll(/^- \[[xX]\] .*<!-- uihash-f:([0-9a-f]+):(deliberate|mistake) -->/gm)) { if (out[m[1]] && out[m[1]] !== m[2]) both.add(m[1]); out[m[1]] = m[2]; }
+  for (const id of both) delete out[id];
+  return out;
+}
+// carry the ticks of an earlier comment over to a new one (same finding ids)
+function keepFeedback(oldBody, newBody) {
+  const ticked = new Set([...String(oldBody).matchAll(/^- \[[xX]\] .*(<!-- uihash-f:[0-9a-f]+:\w+ -->)/gm)].map((m) => m[1]));
+  return newBody.replace(/^- \[ \] (.*(<!-- uihash-f:[0-9a-f]+:\w+ -->))$/gm, (line, rest, mark) => (ticked.has(mark) ? `- [x] ${rest}` : line));
+}
+
+module.exports = { runPR, loadConfig, targets, render, reportHtml, commentMd, why, triageOf, findingSig, findingId, feedbackOf, keepFeedback };
 

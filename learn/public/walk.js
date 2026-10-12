@@ -3,23 +3,26 @@
 // the commit touched), serve both and run `uihash pr` on those stories. Each commit leaves
 //   <data>/<repo>/<sha>/{meta.json, summary.json}
 // and label.js turns the evidence in meta.json and later commits into label.json (see HANDOFF.md).
-// Usage: node learn/public/walk.js <repo name in repos.json> <workDir> <dataDir> [--since 2026-01-01] [--max 20] [--newest-first]
-// Resumable: commits that already have a summary.json are skipped.
+// Usage: node learn/public/walk.js <repo name in repos.json> <workDir> <dataDir> [--since 2026-01-01] [--max 20] [--minutes 40] [--newest-first]
+// --minutes: start no new commit after that long (the one in progress finishes). Resumable: commits that
+// already have a summary (summary.json, or summary.json.gz once round.sh has compacted it) are skipped.
 const fs = require('fs');
 const path = require('path');
 const http = require('http');
 const crypto = require('crypto');
 const { execFileSync, execSync } = require('child_process');
 const { runPR } = require('../../src/pr.js');
+const { hasSummary } = require('../dataset.js');
 
-const [NAME, WORK, DATA] = process.argv.slice(2);
+const [NAME, WORK, DATA] = process.argv.slice(2), START = Date.now();
 const opt = (k, d) => { const i = process.argv.indexOf('--' + k); return i > 0 ? process.argv[i + 1] : d; };
 const REPOS = JSON.parse(fs.readFileSync(path.join(__dirname, 'repos.json'), 'utf8'));
 const R = REPOS[NAME];
 if (!R) throw new Error(`unknown repo ${NAME}; known: ${Object.keys(REPOS).join(', ')}`);
 const clone = path.join(WORK, NAME), tree = path.join(WORK, NAME + '-build'), builds = path.join(WORK, 'builds', NAME);
 const out = path.join(DATA, NAME);
-const sh = (cmd, cwd, env = {}) => execSync(cmd, { cwd, stdio: ['ignore', 'pipe', 'pipe'], encoding: 'utf8', maxBuffer: 1 << 28, env: { ...process.env, ...env } });
+// an install or a build that takes half an hour is stuck: fail the commit rather than the whole round
+const sh = (cmd, cwd, env = {}) => execSync(cmd, { cwd, stdio: ['ignore', 'pipe', 'pipe'], encoding: 'utf8', maxBuffer: 1 << 28, timeout: 30 * 60e3, env: { ...process.env, ...env } });
 const git = (args, cwd = clone) => execFileSync('git', args, { cwd, encoding: 'utf8', maxBuffer: 1 << 28 });
 const STYLE = new RegExp(R.style), SNAP = new RegExp(R.snapshots), SRC = R.componentRoot;
 const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
@@ -53,14 +56,19 @@ function components(c) {
 }
 
 // ------------------------------------------------------------------ builds
-let installedLock = null;
+// what is installed in the worktree, kept across runs: a new walk reinstalls only when the lockfile changed
+const installed = path.join(WORK, NAME + '.installed');
+let installedLock = fs.existsSync(installed) ? fs.readFileSync(installed, 'utf8') : null;
 function build(sha, comps) {
   const key = sha.slice(0, 10) + '-' + crypto.createHash('sha1').update(comps.join(',')).digest('hex').slice(0, 6);
   const dir = path.join(builds, key);
   if (fs.existsSync(path.join(dir, 'index.json'))) return dir;
   git(['checkout', '-q', '--detach', '--force', sha], tree);
   const lock = crypto.createHash('sha1').update(fs.readFileSync(path.join(tree, R.lockfile))).digest('hex');
-  if (lock !== installedLock) { log(`  install (${sha.slice(0, 8)})`); sh(R.install, tree, nodeEnv()); installedLock = lock; }
+  if (lock !== installedLock) {
+    log(`  install (${sha.slice(0, 8)})`); fs.rmSync(installed, { force: true });
+    sh(R.install, tree, nodeEnv()); installedLock = lock; fs.writeFileSync(installed, lock);
+  }
   const main = path.join(tree, R.storybookConfig), original = fs.readFileSync(main, 'utf8');
   let patched = original.replace(R.storiesPattern, () => JSON.stringify(comps.map((c) => R.storyGlob.replace('{c}', c))));
   for (const [a, b] of R.patches || []) patched = patched.split(a).join(b);
@@ -111,12 +119,12 @@ async function check(c, comps) {
   const known = (sha) => { try { git(['cat-file', '-e', sha + '^{commit}']); return true; } catch (e) { return false; } };
   let list = commits(opt('since', '2026-01-01')).filter((c) => c.parent && components(c).length && known(c.parent));
   if (process.argv.includes('--newest-first')) list.reverse();
-  const max = +opt('max', 20);
+  const max = +opt('max', 20), until = START + +opt('minutes', 1e6) * 60e3;
   let done = 0, failedInARow = 0;
   for (const c of list) {
-    if (done >= max || failedInARow >= 3) break;
+    if (done >= max || failedInARow >= 3 || Date.now() > until) break;
     const dir = path.join(out, c.sha);
-    if (fs.existsSync(path.join(dir, 'summary.json'))) continue;
+    if (hasSummary(dir)) continue;
     const attempts = fs.existsSync(path.join(dir, 'failed.json')) ? JSON.parse(fs.readFileSync(path.join(dir, 'failed.json'), 'utf8')).attempts || 1 : 0;
     if (attempts >= 2) continue;
     const comps = components(c);

@@ -9,6 +9,7 @@
 const fs = require('fs');
 const path = require('path');
 const { undone } = require('../undo.js');
+const { hasSummary, summaryOf } = require('../dataset.js');
 
 const dir = process.argv[2];
 const WINDOW = +(process.argv.includes('--window') ? process.argv[process.argv.indexOf('--window') + 1] : 60);
@@ -16,9 +17,9 @@ const read = (f) => JSON.parse(fs.readFileSync(f, 'utf8'));
 const sigOf = (p, f) => [p.page, p.state, p.vp, f.type, f.path, ...f.changes].join('|');
 const day = (d) => Date.parse(d) / 864e5;
 
-const all = fs.readdirSync(dir).filter((d) => fs.existsSync(path.join(dir, d, 'meta.json')) && fs.existsSync(path.join(dir, d, 'summary.json')))
+const all = fs.readdirSync(dir).filter((d) => fs.existsSync(path.join(dir, d, 'meta.json')) && hasSummary(path.join(dir, d)))
   .map((d) => ({ d: path.join(dir, d), meta: read(path.join(dir, d, 'meta.json')) })).sort((a, b) => a.meta.date.localeCompare(b.meta.date));
-const summary = (x) => x.s || (x.s = read(path.join(x.d, 'summary.json')));
+const summary = (x) => x.s || (x.s = summaryOf(x.d));
 const findings = (x) => summary(x).pages.reduce((k, p) => k + p.findings.length, 0);
 
 const counts = { regression: 0, intended: 0, unlabelled: 0, empty: 0 };
@@ -34,7 +35,7 @@ for (let i = 0; i < all.length; i++) {
     if (!findings(b) || !b.meta.components.some((c) => m.components.includes(c))) continue;
     for (const u of undone(summary(a), summary(b))) undos.push({ ...u, by: b.meta });
   }
-  const app = m.repo, base = { app, group: app, sha: m.sha, pr: m.pr || null, title: m.subject };
+  const app = m.repo, base = { app, group: app, sha: m.sha, date: m.date, pr: m.pr || null, title: m.subject };
   if (revert || undos.length) {
     const mistake = new Set(revert ? summary(a).pages.flatMap((p) => p.findings.map((f) => sigOf(p, f))) : undos.map((u) => u.a));
     const sides = {};

@@ -37,6 +37,8 @@ env:
   BUILD: npm run build
   SERVE: npx --yes http-server@14 dist -s -p $PORT    # must serve the built app on $PORT
   PUBLISH_IMAGES: 'true'                # push comment images to the `uihash-assets` branch (see below)
+  MODEL: ''                             # optional: a triage model (learn/train.py's model.json) for advisory scores per change
+  FEEDBACK: 'true'                      # tick boxes per change in the comment ("intended" / "a mistake"): labels for the model
 
 jobs:
   pr:
@@ -108,7 +110,8 @@ jobs:
           if [[ "$PR_TITLE" =~ ^(refactor|chore|build|ci|test|docs|perf)(\(.+\))?!?: ]] || [ "$NO_UI_LABEL" = true ]; then NOCHANGE="--expect-no-change"; fi
           node "head/$UIHASH/bin/uihash.js" pr --base http://127.0.0.1:4001/ --head http://127.0.0.1:4002/ \
             --config "head/$CONFIG" --out uihash-report \
-            --cache-dir .uihash-cache --cache-key "$BASE_SHA" ${IMG:+--image-base-url "$IMG"} $NOCHANGE
+            --cache-dir .uihash-cache --cache-key "$BASE_SHA" ${IMG:+--image-base-url "$IMG"} $NOCHANGE \
+            ${MODEL:+--model "head/$MODEL"} $([ "$FEEDBACK" = true ] && echo --feedback)
           echo "code=$?" >> "$GITHUB_OUTPUT"
 
       - name: Save base calibration
@@ -163,6 +166,11 @@ jobs:
             }
             if (approved) body = body.replace('### uihash — visual check', '### uihash — visual check · these changes are approved (`ui-change-approved`)')
               + `<!-- uihash-approved: ${sig} -->\n`;
+            // keep the reviewer's ticks ("intended" / "a mistake") on the changes this run still reports
+            if (old) {
+              const ticked = new Set([...old.body.matchAll(/^- \[[xX]\] .*(<!-- uihash-f:[0-9a-f]+:\w+ -->)/gm)].map((m) => m[1]));
+              body = body.replace(/^- \[ \] (.*(<!-- uihash-f:[0-9a-f]+:\w+ -->))$/gm, (line, rest, mark) => (ticked.has(mark) ? `- [x] ${rest}` : line));
+            }
             body += `\n[Full report: artifact \`uihash-report\` of this run](${context.serverUrl}/${owner}/${repo}/actions/runs/${context.runId})\n`;
             await core.summary.addRaw(body).write();
             if (old) await github.rest.issues.updateComment({ owner, repo, comment_id: old.id, body });

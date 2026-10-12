@@ -1,0 +1,139 @@
+// Labelers for the self-improvement loop (HANDOFF.md, "Label"), cheapest evidence first, on the raw store
+// collect.js fills. Each labelled PR becomes a labelled-PR directory dataset.js reads; PRs the labelers
+// disagree on go to a human queue instead.
+// Usage: node learn/label.js <raw/owner__repo> <outDir> [--now 2026-10-12] [--window 30] [--no-weak]
+//   1. a person: reviewer ticks in the uihash comment (src/pr.js feedback), and answers given in the human
+//      queue (review.js, human.json, which win over ticks): confidence 1, per finding
+//   2. undo miner: a later PR (within --window days) put a change back: label 1, confidence 0.8
+//      (0.9 when the later PR's title says fix, revert, regression...)
+//   2b. bug reports (bugs.json from link-bugs.js): the finding a UI bug report names, label 1 at the
+//      linker's confidence
+//   3. outcome: approved with `ui-change-approved` for exactly what it showed, and nothing of it undone
+//      --window days later: label 0, confidence 0.6 (people also approve to get unblocked)
+//   4. intent judge (intent.json from learn/intent.js), only when nothing else knows the PR: a finding the
+//      judge calls unintended (confidence >= 0.7) makes label 1, every finding intended label 0, at
+//      confidence <= 0.5. --no-weak leaves these out (always, for evaluation sets).
+// Writes <outDir>/<pr>/{summary.json, label.json[, sides.json]} and <outDir>/queue.jsonl. A side of
+// "unknown" in sides.json means no labeler knows that finding: dataset.js leaves it out.
+const fs = require('fs');
+const path = require('path');
+const { undone } = require('./undo.js');
+const { feedbackOf } = require('../src/pr.js');
+const { findingSig, findingId } = require('../src/features.js');
+
+const FIX = /\b(fix|fixes|fixed|revert|reverts|regression|restore|restores|broke|broken|bug|hotfix|undo)\b/i;
+const DAY = 864e5;
+const read = (f) => JSON.parse(fs.readFileSync(f, 'utf8'));
+const fresh = (s) => s.pages.flatMap((p) => p.findings.filter((f) => !f.sameAs && f.type !== 'coverage').map((f) => ({ p, f })));
+
+function loadRaw(dir) {
+  return fs.readdirSync(dir).filter((d) => fs.existsSync(path.join(dir, d, 'summary.json')) && fs.existsSync(path.join(dir, d, 'meta.json')))
+    .map((d) => ({ id: d, dir: path.join(dir, d), s: read(path.join(dir, d, 'summary.json')), m: read(path.join(dir, d, 'meta.json')),
+      intent: fs.existsSync(path.join(dir, d, 'intent.json')) ? read(path.join(dir, d, 'intent.json')) : null,
+      human: fs.existsSync(path.join(dir, d, 'human.json')) ? read(path.join(dir, d, 'human.json')) : null,
+      bugs: fs.existsSync(path.join(dir, d, 'bugs.json')) ? read(path.join(dir, d, 'bugs.json')) : null }))
+    .sort((a, b) => a.m.mergedAt.localeCompare(b.m.mergedAt));
+}
+
+// every labeler's verdict on one PR: [{ source, label, confidence, sides: { sig: side }, evidence }]
+function verdicts(pr, later, { window = 30, now = Date.now(), weak = true } = {}) {
+  const out = [], all = fresh(pr.s);
+  // 1. a person: comment ticks, then answers from the human queue
+  if (pr.m.comment || pr.human) {
+    const ticks = pr.m.comment ? feedbackOf(pr.m.comment) : {}, sides = {};
+    for (const { p, f } of all) { const t = ticks[findingId(p, f)]; if (t) sides[findingSig(p, f)] = t; }
+    for (const [sig, side] of Object.entries(pr.human || {})) if (side === 'mistake' || side === 'deliberate') sides[sig] = side;
+    const n = Object.keys(sides).length, mistakes = Object.values(sides).filter((v) => v === 'mistake').length;
+    if (mistakes) out.push({ source: 'human', label: 1, confidence: 1, sides, evidence: `reviewer marked ${mistakes} of ${all.length} changes a mistake` });
+    else if (n && n === all.length) out.push({ source: 'human', label: 0, confidence: 1, sides, evidence: 'reviewer marked every change intended' });
+  }
+  // 2. undo miner
+  const t0 = Date.parse(pr.m.mergedAt), back = {};
+  let by = null;
+  for (const q of later) {
+    const t = Date.parse(q.m.mergedAt);
+    if (t <= t0 || t - t0 > window * DAY) continue;
+    const u = undone(pr.s, q.s);
+    if (!u.length) continue;
+    for (const x of u) back[x.a] = 'mistake';
+    if (!by || FIX.test(q.m.title)) by = q;
+  }
+  if (by) out.push({ source: 'undo', label: 1, confidence: FIX.test(by.m.title) ? 0.9 : 0.8, sides: back,
+    evidence: `${Object.keys(back).length} change(s) put back by #${by.m.pr} ("${String(by.m.title).slice(0, 80)}") within ${window} days` });
+  // 2b. bug reports that name a finding of this PR
+  if (pr.bugs && pr.bugs.length) {
+    const sides = {}; for (const b of pr.bugs) sides[b.sig] = 'mistake';
+    out.push({ source: 'bug-report', label: 1, confidence: Math.max(...pr.bugs.map((b) => b.confidence)), sides,
+      evidence: pr.bugs.map((b) => `bug report #${b.issue}`).join(', ') });
+  }
+  // 3. approved and kept
+  const approved = pr.m.approvedSignature && pr.m.approvedSignature === pr.s.signature;
+  if (approved && !by && !(pr.bugs && pr.bugs.length) && now - t0 >= window * DAY)
+    out.push({ source: 'approval', label: 0, confidence: 0.6, sides: null, evidence: `approved with ui-change-approved, nothing undone within ${window} days` });
+  // 4. intent judge: weak, and only for PRs nothing else knows
+  if (weak && !out.length && pr.intent) {
+    const v = pr.intent.verdicts || {}, sides = {};
+    for (const { p, f } of all) { const x = v[findingId(p, f)]; if (x && x.verdict === 'unintended' && x.confidence >= 0.7) sides[findingSig(p, f)] = 'mistake'; }
+    const n = Object.keys(sides).length;
+    if (n) out.push({ source: 'agent', label: 1, confidence: 0.5, sides, evidence: `intent judge (${pr.intent.model}): ${n} change(s) the PR text does not explain` });
+    else if (all.every(({ p, f }) => (v[findingId(p, f)] || {}).verdict === 'intended'))
+      out.push({ source: 'agent', label: 0, confidence: 0.4, sides: null, evidence: `intent judge (${pr.intent.model}): the PR text explains every change` });
+  }
+  return out;
+}
+
+// one label from the verdicts, or a reason to ask a person
+function decide(vs, all) {
+  if (!vs.length) return { skip: 'no evidence yet' };
+  const human = vs.find((v) => v.source === 'human');
+  // a person's per-finding ticks against another labeler on the same finding
+  for (const v of vs.filter((x) => x !== human && x.sides)) for (const [sig, side] of Object.entries(v.sides))
+    if (human && human.sides[sig] && human.sides[sig] !== side) return { queue: `${v.source} says ${side}, the reviewer ${human.sides[sig]}`, keep: human };
+  if (!human && new Set(vs.map((v) => v.label)).size > 1) return { queue: vs.map((v) => `${v.source}: ${v.label}`).join(' vs ') };
+  const best = human || vs.sort((a, b) => b.confidence - a.confidence)[0];
+  // per-finding sides: the union of what the labelers know; with label 0 every finding is deliberate
+  let sides = null;
+  if (best.label === 1) {
+    sides = {};
+    for (const { p, f } of all) sides[findingSig(p, f)] = 'unknown';
+    for (const v of vs) if (v.sides) Object.assign(sides, v.sides);
+    if (human) Object.assign(sides, human.sides);
+    // a PR with one finding: the PR's label is that finding's label
+    if (all.length === 1) for (const k of Object.keys(sides)) if (sides[k] === 'unknown') sides[k] = 'mistake';
+  }
+  return { label: best.label, source: vs.map((v) => v.source).join('+'), confidence: Math.max(...vs.filter((v) => v.label === best.label).map((v) => v.confidence)),
+    evidence: vs.map((v) => v.evidence).join('; '), sides };
+}
+
+function label(rawDir, outDir, opts = {}) {
+  const prs = loadRaw(rawDir), queue = [], counts = {};
+  const repo = path.basename(rawDir);
+  fs.mkdirSync(outDir, { recursive: true });
+  prs.forEach((pr, i) => {
+    const all = fresh(pr.s);
+    if (!all.length) return;
+    let d = decide(verdicts(pr, prs.slice(i + 1), opts), all);
+    if (d.queue) { queue.push({ repo, pr: pr.m.pr, title: pr.m.title, why: d.queue }); if (!d.keep) return; d = decide([d.keep], all); }
+    if (d.skip) { counts.skipped = (counts.skipped || 0) + 1; return; }
+    const out = path.join(outDir, pr.id);
+    fs.mkdirSync(out, { recursive: true });
+    fs.copyFileSync(path.join(pr.dir, 'summary.json'), path.join(out, 'summary.json'));
+    // the PR text (and the judge's verdicts) travel with the PR as features
+    fs.writeFileSync(path.join(out, 'meta.json'), JSON.stringify({ title: pr.m.title, body: pr.m.body, changedFiles: pr.m.changedFiles }, null, 1));
+    if (pr.intent) fs.copyFileSync(path.join(pr.dir, 'intent.json'), path.join(out, 'intent.json'));
+    fs.writeFileSync(path.join(out, 'label.json'), JSON.stringify({ label: d.label, source: d.source, confidence: d.confidence, group: repo, app: repo, evidence: d.evidence, pr: pr.m.pr, mergedAt: pr.m.mergedAt }, null, 1));
+    if (d.sides) fs.writeFileSync(path.join(out, 'sides.json'), JSON.stringify(d.sides, null, 1));
+    else fs.rmSync(path.join(out, 'sides.json'), { force: true });
+    counts[d.source] = (counts[d.source] || 0) + 1;
+  });
+  fs.writeFileSync(path.join(outDir, 'queue.jsonl'), queue.map((q) => JSON.stringify(q) + '\n').join(''));
+  return { counts, queued: queue.length };
+}
+
+if (require.main === module) {
+  const a = process.argv.slice(2), opt = (k) => (a.includes(k) ? a[a.indexOf(k) + 1] : undefined);
+  if (a.length < 2) { console.error('usage: node learn/label.js <raw/owner__repo> <outDir> [--now YYYY-MM-DD] [--window 30]'); process.exit(2); }
+  const r = label(a[0], a[1], { window: +opt('--window') || 30, now: opt('--now') ? Date.parse(opt('--now')) : Date.now(), weak: !a.includes('--no-weak') });
+  console.log(JSON.stringify(r));
+}
+module.exports = { label, verdicts, decide, loadRaw };

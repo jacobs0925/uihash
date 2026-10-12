@@ -53,6 +53,6 @@
     ],
     "style": "\\.styles\\.ts$|\\.scss$",
     "snapshots": "\\.vrt/reference/.*\\.png$",
-    "node": "24.19.0"
+    "node": "nvmrc"
   }
 }

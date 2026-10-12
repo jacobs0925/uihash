@@ -23,11 +23,14 @@ const sh = (cmd, cwd, env = {}) => execSync(cmd, { cwd, stdio: ['ignore', 'pipe'
 const git = (args, cwd = clone) => execFileSync('git', args, { cwd, encoding: 'utf8', maxBuffer: 1 << 28 });
 const STYLE = new RegExp(R.style), SNAP = new RegExp(R.snapshots), SRC = R.componentRoot;
 const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
-// a repository may need its own Node version ("node": "24.19.0"): fetched once into the work dir, put first on PATH
+// a repository may need its own Node version: "node": "24.19.0", or "nvmrc" for the checked-out commit's
+// .nvmrc (some repositories check the exact version). Fetched once into the work dir, put first on PATH.
 function nodeEnv() {
   if (!R.node) return {};
-  const dir = path.join(WORK, `node-v${R.node}-linux-x64`);
-  if (!fs.existsSync(path.join(dir, 'bin', 'node'))) sh(`curl -sSL https://nodejs.org/dist/v${R.node}/node-v${R.node}-linux-x64.tar.xz | tar -xJ -C ${JSON.stringify(WORK)}`, WORK);
+  let v = R.node === 'nvmrc' ? fs.readFileSync(path.join(tree, '.nvmrc'), 'utf8').trim().replace(/^v/, '') : R.node;
+  if (!/^\d+\.\d+\.\d+$/.test(v)) return {};
+  const dir = path.join(WORK, `node-v${v}-linux-x64`);
+  if (!fs.existsSync(path.join(dir, 'bin', 'node'))) sh(`curl -sSL https://nodejs.org/dist/v${v}/node-v${v}-linux-x64.tar.xz | tar -xJ -C ${JSON.stringify(WORK)}`, WORK);
   return { PATH: path.join(dir, 'bin') + ':' + process.env.PATH };
 }
 
@@ -136,7 +139,7 @@ async function check(c, comps) {
     } catch (e) {
       log(`  failed: ${(e.stderr || e.message || '').toString().split('\n').filter(Boolean).slice(-3).join(' | ').slice(0, 300)}`);
       fs.mkdirSync(dir, { recursive: true });
-      fs.writeFileSync(path.join(dir, 'failed.json'), JSON.stringify({ attempts: attempts + 1, error: String((e.stderr || '') + e.message).slice(-2000) }));
+      fs.writeFileSync(path.join(dir, 'failed.json'), JSON.stringify({ attempts: attempts + 1, error: String((e.stdout || '') + (e.stderr || '') + e.message).slice(-3000) }));
       done++; failedInARow++;
     }
     prune(new Set());                       // builds are per commit pair; keep the disk small

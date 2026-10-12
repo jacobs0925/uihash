@@ -1,0 +1,25 @@
+{
+  "name": "uihash",
+  "version": "0.1.0",
+  "description": "Fingerprint a rendered web UI for fast visual regression checks, ignoring data and nondeterminism",
+  "bin": {
+    "uihash": "bin/uihash.js"
+  },
+  "main": "src/fingerprint.js",
+  "license": "MIT",
+  "scripts": {
+    "eval:mailbox": "node experiments/mailbox/eval.js && node experiments/mailbox/learning-curve.js tag",
+    "eval:dashboard": "node experiments/dashboard/eval.js",
+    "eval:live-mutations": "node experiments/live/live-mutate.js live-mut 40 && node experiments/live/live-eval.js live-series live-mut",
+    "eval:latent": "node experiments/live/latent.js 12",
+    "capture:live": "node experiments/live/capture-live.js live-series 1",
+    "eval:highlight": "node experiments/highlight/eval.js",
+    "demo:pr": "node ci/demo/make-pr.js /tmp/uihash-demo && node bin/uihash.js pr --base file:///tmp/uihash-demo/base/ --head file:///tmp/uihash-demo/head/ --config ci/demo/uihash.config.json --out /tmp/uihash-demo/report",
+    "eval:scroller": "node experiments/scroller/eval.js",
+    "eval:subtle": "node experiments/subtle/eval.js && node experiments/subtle/states-fp.js",
+    "eval:assets": "node experiments/assets/eval.js"
+  },
+  "dependencies": {
+    "playwright": "^1.56.0"
+  }
+}

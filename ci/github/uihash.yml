@@ -1,0 +1,214 @@
+# uihash visual check for pull requests — copy to .github/workflows/uihash.yml in the app's repo.
+#
+# On every push to a PR it builds and serves the base commit and the PR (merged into its base),
+# renders every page/state listed in uihash.config.json, and posts ONE sticky comment showing
+# before/after crops of each UI change with red boxes around the changed elements. The check fails
+# when the UI changed; add the label `ui-change-approved` once the changes are intended.
+#
+# Each change is triaged in the comment: what breaks something (cut off, contrast, lost states...),
+# what is likely unintended (gone, drifted, reached through a rule that does not select it), what
+# comes from the PR's own CSS edits, and what from markup, scripts or data. A PR whose title is a
+# conventional-commit refactor / chore / build / ci / test / docs / perf, or that carries the label
+# `no-ui-change`, says it changes no UI: every change it makes is then listed as one to check.
+#
+# Fill in the env block below. Requirements on the app:
+#   * SERVE must serve the built app on $PORT (any static server or the app's own server).
+#   * Pages should render fixture data chosen by a seed in the URL ({i} in uihash.config.json, e.g.
+#     /inbox?seed={i}) so the base can be rendered with 6 different datasets: that is how uihash
+#     learns what is data (email rows, counts, names) and must not be flagged. Time is frozen and
+#     Math.random is seeded by uihash itself.
+#
+# Speed: the base calibration (6 renders per page/state) is cached per base commit. The `baseline`
+# job fills that cache on every push to the default branch, so a PR normally renders only its own
+# build once per page/state. The baseline job also renders the branch against itself: any finding
+# there is nondeterminism in the app that would cause false alarms, and fails that job.
+name: uihash
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, labeled, unlabeled]
+  push:
+    branches: [main]
+
+env:
+  UIHASH: tools/uihash                  # path of the uihash folder in your repo (vendored copy or submodule)
+  CONFIG: uihash.config.json            # pages, states and fixture URLs
+  INSTALL: npm ci
+  BUILD: npm run build
+  SERVE: npx --yes http-server@14 dist -s -p $PORT    # must serve the built app on $PORT
+  PUBLISH_IMAGES: 'true'                # push comment images to the `uihash-assets` branch (see below)
+
+jobs:
+  pr:
+    if: github.event_name == 'pull_request' && (github.event.action != 'labeled' && github.event.action != 'unlabeled' || github.event.label.name == 'ui-change-approved' || github.event.label.name == 'no-ui-change')
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: write          # only for PUBLISH_IMAGES (push to the uihash-assets branch)
+      pull-requests: write     # the sticky comment
+    concurrency:
+      group: uihash-pr-${{ github.event.pull_request.number }}
+      cancel-in-progress: true
+    env:
+      BASE_SHA: ${{ github.event.pull_request.base.sha }}
+      PR: ${{ github.event.pull_request.number }}
+      APPROVED: ${{ contains(github.event.pull_request.labels.*.name, 'ui-change-approved') }}
+      SAME_REPO: ${{ github.event.pull_request.head.repo.full_name == github.repository }}
+      PR_TITLE: ${{ github.event.pull_request.title }}                                     # read from the environment, never pasted into a script
+      NO_UI_LABEL: ${{ contains(github.event.pull_request.labels.*.name, 'no-ui-change') }}
+    steps:
+      - uses: actions/checkout@v4
+        with: { path: head }                                  # refs/pull/N/merge: what would ship
+      - uses: actions/checkout@v4
+        with: { path: base, ref: '${{ github.event.pull_request.base.sha }}' }
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+
+      - name: Restore base calibration
+        id: cache
+        uses: actions/cache/restore@v4
+        with:
+          path: .uihash-cache
+          key: uihash-${{ github.event.pull_request.base.sha }}-${{ hashFiles(format('head/{0}', env.CONFIG)) }}
+
+      - name: Build and serve the PR
+        working-directory: head
+        run: |
+          eval "$INSTALL" && eval "$BUILD"
+          PORT=4002 nohup bash -c "$SERVE" > ../serve-head.log 2>&1 &
+      - name: Build and serve the base (skipped when its calibration is cached)
+        if: steps.cache.outputs.cache-hit != 'true'
+        working-directory: base
+        run: |
+          eval "$INSTALL" && eval "$BUILD"
+          PORT=4001 nohup bash -c "$SERVE" > ../serve-base.log 2>&1 &
+      - name: Install uihash and Chromium
+        working-directory: head/${{ env.UIHASH }}
+        run: npm install --no-audit --no-fund && npx playwright install --with-deps chromium
+      - name: Wait for the servers
+        run: |
+          ports=4002; [ "${{ steps.cache.outputs.cache-hit }}" = true ] || ports="$ports 4001"
+          for port in $ports; do
+            for i in $(seq 1 90); do curl -s -o /dev/null "http://127.0.0.1:$port/" && break; sleep 1; done
+            curl -s -o /dev/null "http://127.0.0.1:$port/" || { echo "nothing is serving on port $port"; cat serve-*.log; exit 1; }
+          done
+
+      - name: Visual check
+        id: uihash
+        run: |
+          set +e
+          IMG=""
+          if [ "$PUBLISH_IMAGES" = true ] && [ "$SAME_REPO" = true ]; then
+            # github.com/.../blob/...?raw=true renders for everyone on public repos and for signed-in
+            # readers on private ones (raw.githubusercontent.com links would not, for private repos)
+            IMG="${{ github.server_url }}/${{ github.repository }}/blob/uihash-assets/pr-$PR/${{ github.run_id }}/{file}?raw=true"
+          fi
+          # a PR that says it changes no UI: every change it makes is one to check
+          NOCHANGE=""
+          if [[ "$PR_TITLE" =~ ^(refactor|chore|build|ci|test|docs|perf)(\(.+\))?!?: ]] || [ "$NO_UI_LABEL" = true ]; then NOCHANGE="--expect-no-change"; fi
+          node "head/$UIHASH/bin/uihash.js" pr --base http://127.0.0.1:4001/ --head http://127.0.0.1:4002/ \
+            --config "head/$CONFIG" --out uihash-report \
+            --cache-dir .uihash-cache --cache-key "$BASE_SHA" ${IMG:+--image-base-url "$IMG"} $NOCHANGE
+          echo "code=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Save base calibration
+        if: always() && steps.cache.outputs.cache-hit != 'true' && hashFiles('.uihash-cache/**') != ''
+        uses: actions/cache/save@v4
+        with:
+          path: .uihash-cache
+          key: uihash-${{ github.event.pull_request.base.sha }}-${{ hashFiles(format('head/{0}', env.CONFIG)) }}
+      - name: Upload the full report
+        if: always() && hashFiles('uihash-report/**') != ''
+        uses: actions/upload-artifact@v4
+        with: { name: uihash-report, path: uihash-report, retention-days: 14 }
+
+      - name: Publish comment images
+        if: steps.uihash.outputs.code == '1' && env.PUBLISH_IMAGES == 'true' && env.SAME_REPO == 'true'
+        env: { GH_TOKEN: '${{ github.token }}' }
+        run: |
+          remote="https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }}.git"
+          git clone --quiet --depth 1 --branch uihash-assets "$remote" assets 2>/dev/null \
+            || { git init --quiet -b uihash-assets assets && git -C assets remote add origin "$remote"; }
+          ls uihash-report/*.[0-9]*.png > /dev/null 2>&1 || exit 0     # nothing to show (e.g. only render errors)
+          dir="assets/pr-$PR/${{ github.run_id }}"; mkdir -p "$dir"
+          cp uihash-report/*.[0-9]*.png "$dir/"                      # the before/after crops only
+          cd assets && git add -A
+          git -c user.name=uihash -c user.email=uihash@users.noreply.github.com commit --quiet -m "uihash images: PR #$PR, run ${{ github.run_id }}"
+          for i in 1 2 3; do git push --quiet origin uihash-assets && break; git pull --quiet --rebase origin uihash-assets; done
+
+      - name: Comment on the PR (and check that an approval covers exactly these changes)
+        id: comment
+        if: steps.uihash.outputs.code == '0' || steps.uihash.outputs.code == '1'
+        continue-on-error: true      # PRs from forks get a read-only token: the job summary still has it
+        uses: actions/github-script@v7
+        env: { CODE: '${{ steps.uihash.outputs.code }}', EVENT_ACTION: '${{ github.event.action }}', EVENT_LABEL: '${{ github.event.label.name }}' }
+        with:
+          script: |
+            const fs = require('fs');
+            const LABEL = 'ui-change-approved';
+            const { owner, repo } = context.repo, issue_number = context.issue.number;
+            let body = fs.readFileSync('uihash-report/comment.md', 'utf8');
+            const sig = (body.match(/<!-- uihash-signature: (\w+) -->/) || [])[1];
+            const comments = await github.paginate(github.rest.issues.listComments, { owner, repo, issue_number });
+            const old = comments.find((c) => c.user.type === 'Bot' && c.body.startsWith('<!-- uihash -->'));
+            // An approval is for the set of changes the reviewer saw: adding the label approves the current
+            // signature; a later push with a different set of changes drops the approval and the label.
+            let approvedSig = old && (old.body.match(/<!-- uihash-approved: (\w+) -->/) || [])[1];
+            const labelled = process.env.APPROVED === 'true';
+            if (labelled && process.env.EVENT_ACTION === 'labeled' && process.env.EVENT_LABEL === LABEL) approvedSig = sig;   // only the act of labelling approves
+            let approved = labelled && process.env.CODE === '1' && approvedSig === sig;
+            if (labelled && process.env.CODE === '1' && !approved) {
+              await github.rest.issues.removeLabel({ owner, repo, issue_number, name: LABEL }).catch(() => {});
+              body = body.replace('### uihash — visual check', '### uihash — visual check · the UI changed again after approval: review and approve again');
+            }
+            if (approved) body = body.replace('### uihash — visual check', '### uihash — visual check · these changes are approved (`ui-change-approved`)')
+              + `<!-- uihash-approved: ${sig} -->\n`;
+            body += `\n[Full report: artifact \`uihash-report\` of this run](${context.serverUrl}/${owner}/${repo}/actions/runs/${context.runId})\n`;
+            await core.summary.addRaw(body).write();
+            if (old) await github.rest.issues.updateComment({ owner, repo, comment_id: old.id, body });
+            else if (process.env.CODE === '1') await github.rest.issues.createComment({ owner, repo, issue_number, body });  // no noise when nothing changed
+            core.setOutput('approved', String(approved));
+
+      - name: Result
+        env: { APPROVED_NOW: '${{ steps.comment.outputs.approved }}' }
+        run: |
+          case "${{ steps.uihash.outputs.code }}" in
+            0) echo "No UI changes." ;;
+            1) if [ "$APPROVED_NOW" = true ]; then echo "UI changed; these exact changes were approved with the ui-change-approved label."
+               else echo "::error::The UI changed. Review the PR comment; if the changes are intended, add the 'ui-change-approved' label."; exit 1; fi ;;
+            *) echo "::error::uihash did not complete (see the 'Visual check' step)."; exit 1 ;;
+          esac
+
+  # Calibrate every new commit of the default branch once, so PRs based on it only render their own
+  # build. Renders the branch against itself: a finding here means the app renders differently with
+  # identical input (an unpinned clock, unseeded randomness, a race) — fix that first, or PRs see it.
+  baseline:
+    if: github.event_name == 'push'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    concurrency: { group: uihash-baseline, cancel-in-progress: true }
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - name: Build and serve
+        run: |
+          eval "$INSTALL" && eval "$BUILD"
+          PORT=4001 nohup bash -c "$SERVE" > serve.log 2>&1 &
+      - name: Install uihash and Chromium
+        working-directory: ${{ env.UIHASH }}
+        run: npm install --no-audit --no-fund && npx playwright install --with-deps chromium
+      - name: Calibrate
+        run: |
+          for i in $(seq 1 90); do curl -s -o /dev/null http://127.0.0.1:4001/ && break; sleep 1; done
+          node "$UIHASH/bin/uihash.js" pr --base http://127.0.0.1:4001/ --head http://127.0.0.1:4001/ \
+            --config "$CONFIG" --out uihash-baseline --cache-dir .uihash-cache --cache-key "${{ github.sha }}"
+      - name: Save calibration
+        if: always() && hashFiles('.uihash-cache/**') != ''
+        uses: actions/cache/save@v4
+        with:
+          path: .uihash-cache
+          key: uihash-${{ github.sha }}-${{ hashFiles(env.CONFIG) }}
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with: { name: uihash-baseline, path: uihash-baseline, retention-days: 7 }

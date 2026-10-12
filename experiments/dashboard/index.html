@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Ops Dashboard</title>
+<style id="base">
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: Arial, sans-serif; font-size: 14px; color: #1b1f24; background: #f4f6fa; }
+  .shell { display: grid; grid-template-columns: 220px 1fr; min-height: 100vh; }
+  .side { background: #111827; color: #cbd5e1; padding: 20px 12px; }
+  .brand { display: flex; align-items: center; gap: 10px; font-weight: 700; color: #fff; font-size: 16px; padding: 0 8px 20px; }
+  .brand svg { width: 22px; height: 22px; fill: #60a5fa; }
+  .navlink { display: flex; align-items: center; gap: 10px; padding: 9px 10px; border-radius: 8px; color: #cbd5e1; }
+  .navlink svg { width: 18px; height: 18px; fill: currentColor; }
+  .navlink.current { background: #1f2937; color: #fff; }
+  .content { padding: 20px 28px; min-width: 0; }
+  .topbar { display: flex; align-items: center; justify-content: space-between; margin-bottom: 18px; }
+  .topbar h1 { font-size: 22px; margin: 0; }
+  .updated { color: #6b7280; font-size: 12px; }
+  .avatars { display: flex; align-items: center; }
+  .avatars .av { width: 30px; height: 30px; border-radius: 50%; border: 2px solid #fff; margin-left: -8px; color: #fff; font-size: 11px; display: flex; align-items: center; justify-content: center; font-weight: 700; }
+  .avatars .more { background: #e5e7eb; color: #374151; }
+  .promo { display: flex; align-items: center; gap: 16px; padding: 14px 18px; border-radius: 12px; background: linear-gradient(90deg, #eef2ff, #e0f2fe); margin-bottom: 18px; }
+  .promo.layout-b { flex-direction: row-reverse; justify-content: space-between; }
+  .promo .cta { background: #4f46e5; color: #fff; border: 0; border-radius: 8px; padding: 8px 14px; font-weight: 600; }
+  .kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: 18px; }
+  .card { background: #fff; border-radius: 12px; padding: 16px; box-shadow: 0 1px 2px rgba(16,24,40,.06), 0 1px 3px rgba(16,24,40,.1); }
+  .kpi .label { color: #6b7280; font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
+  .kpi .value { font-size: 26px; font-weight: 700; margin: 6px 0; }
+  .delta { display: inline-block; font-size: 12px; font-weight: 600; padding: 2px 8px; border-radius: 999px; }
+  .delta.up { background: #dcfce7; color: #166534; }
+  .delta.down { background: #fee2e2; color: #991b1b; }
+  .charts { display: grid; grid-template-columns: 2fr 1fr; gap: 16px; margin-bottom: 18px; }
+  .card h2 { font-size: 14px; margin: 0 0 12px; }
+  .line-chart svg { width: 100%; height: 180px; display: block; }
+  .line-chart .grid line { stroke: #e5e7eb; stroke-width: 1; }
+  .line-chart .series { fill: none; stroke: #2563eb; stroke-width: 2; }
+  .line-chart .area { fill: rgba(37, 99, 235, .08); stroke: none; }
+  .axis { display: flex; justify-content: space-between; color: #9ca3af; font-size: 11px; margin-top: 6px; }
+  .bars { display: flex; align-items: flex-end; gap: 8px; height: 180px; }
+  .bar { flex: 1; background: #93c5fd; border-radius: 4px 4px 0 0; min-width: 6px; }
+  .table-card { padding: 0; overflow: hidden; }
+  .table-head, .trow { display: grid; grid-template-columns: 2fr 1fr 1fr 1fr 120px; align-items: center; padding: 0 16px; }
+  .table-head { height: 40px; background: #f9fafb; color: #6b7280; font-size: 12px; font-weight: 600; border-bottom: 1px solid #e5e7eb; }
+  .viewport { position: relative; height: 336px; overflow: hidden; }
+  .trow { position: absolute; left: 0; right: 0; height: 48px; border-bottom: 1px solid #f3f4f6; }
+  .svc { display: flex; align-items: center; gap: 10px; font-weight: 600; }
+  .svc .dot { width: 8px; height: 8px; border-radius: 50%; }
+  .pill { justify-self: start; font-size: 12px; padding: 2px 10px; border-radius: 999px; font-weight: 600; }
+  .pill.status-healthy { background: #dcfce7; color: #166534; }
+  .pill.status-degraded { background: #fef9c3; color: #854d0e; }
+  .pill.status-down { background: #fee2e2; color: #991b1b; }
+  .muted { color: #6b7280; }
+  .spark { width: 110px; height: 28px; }
+  .spark polyline { fill: none; stroke: #6366f1; stroke-width: 1.5; }
+  .toast { position: fixed; right: 24px; bottom: 24px; background: #111827; color: #fff; padding: 12px 16px; border-radius: 10px; box-shadow: 0 10px 25px rgba(0,0,0,.25); font-size: 13px; }
+</style>
+<style id="mutation"></style>
+</head>
+<body>
+<div id="app"></div>
+<script>
+const P = new URLSearchParams(location.search);
+const MUT = new Set((P.get('m') || '').split(',').filter(Boolean));
+function rng(seed) { let s = seed >>> 0; return () => { s = (s + 0x6D2B79F5) >>> 0; let t = s; t = Math.imul(t ^ (t >>> 15), t | 1); t ^= t + Math.imul(t ^ (t >>> 7), t | 61); return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
+const R = rng(+(P.get('seed') || 1));
+const pick = (a) => a[Math.floor(R() * a.length)];
+const NOW = +(P.get('now') || Date.UTC(2026, 9, 7, 15, 30));
+// class names: plain, or CSS-in-JS style hashes that change on every build (refactor "rehash")
+// (CSS-in-JS: every class becomes css-<hash(build salt + name)>, the salt changes on every build)
+const BUILD = MUT.has('rehash-classes') ? Math.floor(Math.random() * 1e9).toString(36) : '';
+const hashName = (n) => { let h = 2166136261; for (const ch of BUILD + n) h = Math.imul(h ^ ch.charCodeAt(0), 16777619); return 'css-' + (h >>> 0).toString(36); };
+const C = (...names) => names.filter(Boolean).map((n) => (BUILD ? hashName(n) : n)).join(' ');
+
+const money = (v) => '$' + v.toLocaleString('en-US', { maximumFractionDigits: 0 });
+const pct = (v) => (v >= 0 ? '+' : '') + v.toFixed(1) + '%';
+const ago = (ms) => { const m = Math.round(ms / 60000); if (m < 1) return 'just now'; if (m < 60) return `${m} minute${m === 1 ? '' : 's'} ago`; const h = Math.round(m / 60); if (h < 24) return `${h} hour${h === 1 ? '' : 's'} ago`; return `${Math.round(h / 24)} days ago`; };
+
+const kpis = [['Revenue', money(20000 + R() * 90000)], ['Active users', Math.round(1000 + R() * 50000).toLocaleString('en-US')], ['Error rate', (R() * 3).toFixed(2) + '%'], ['p95 latency', Math.round(80 + R() * 400) + ' ms']]
+  .map(([label, value]) => ({ label: MUT.has('copy-change') && label === 'Revenue' ? 'Revenues' : label, value, delta: (R() - 0.45) * 30 }));
+const series = Array.from({ length: 24 }, () => 20 + R() * 70);
+const bars = Array.from({ length: 6 + Math.floor(R() * 8) }, () => 10 + R() * 90);
+const SVCS = ['auth', 'billing', 'search', 'gateway', 'notifications', 'ingest', 'reports', 'cdn', 'scheduler', 'mailer', 'graph', 'export'];
+const services = SVCS.filter(() => R() < 0.8).map((name) => ({
+  name, status: R() < 0.7 ? 'healthy' : R() < 0.6 ? 'degraded' : 'down', rps: Math.round(R() * 5000), p95: Math.round(20 + R() * 300),
+  color: `hsl(${Math.floor(R() * 360)}, 70%, 50%)`, spark: Array.from({ length: 12 }, () => R()), seen: NOW - R() * 7200e3,
+}));
+const team = Array.from({ length: 1 + Math.floor(R() * 7) }, () => ({ initials: pick(['AK', 'BT', 'CJ', 'DM', 'EL', 'FN', 'GP']), color: `hsl(${Math.floor(R() * 360)}, 60%, 45%)` }));
+const updatedAgo = R() * 600e3;
+// truly random (not seeded): A/B layout of the promo, and whether a toast is showing
+const abLayout = Math.random() < 0.5 ? 'a' : 'b';
+const toast = Math.random() < 0.5;
+
+const ICON = {
+  logo: 'M12 2 2 7l10 5 10-5-10-5zm0 7.5L4.5 6 12 2.5 19.5 6 12 9.5zM2 17l10 5 10-5-2-1-8 4-8-4-2 1zm0-5 10 5 10-5-2-1-8 4-8-4-2 1z',
+  home: 'M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z',
+  chart: 'M5 9.2h3V19H5zM10.6 5h2.8v14h-2.8zm5.6 8H19v6h-2.8z',
+  chart2: 'M3 13h2v-2H3v2zm0 4h2v-2H3v2zm0-8h2V7H3v2zm4 4h14v-2H7v2zm0 4h14v-2H7v2zM7 7v2h14V7H7z',
+  bell: 'M12 22a2 2 0 0 0 2-2h-4a2 2 0 0 0 2 2zm6-6v-5c0-3.07-1.64-5.64-4.5-6.32V4a1.5 1.5 0 0 0-3 0v.68C7.63 5.36 6 7.92 6 11v5l-2 2v1h16v-1l-2-2z',
+  gear: 'M19.14 12.94a7.07 7.07 0 0 0 0-1.88l2.03-1.58-1.92-3.32-2.39.96a7.1 7.1 0 0 0-1.62-.94l-.36-2.54h-3.84l-.36 2.54c-.59.24-1.13.57-1.62.94l-2.39-.96-1.92 3.32 2.03 1.58a7.07 7.07 0 0 0 0 1.88l-2.03 1.58 1.92 3.32 2.39-.96c.5.38 1.03.7 1.62.94l.36 2.54h3.84l.36-2.54c.59-.24 1.13-.56 1.62-.94l2.39.96 1.92-3.32-2.03-1.58zM12 15.6A3.6 3.6 0 1 1 12 8.4a3.6 3.6 0 0 1 0 7.2z',
+};
+const icon = (n) => `<svg viewBox="0 0 24 24" aria-hidden="true"><path d="${ICON[n]}"></path></svg>`;
+const W = 600, Hh = 180;
+const pts = series.map((v, i) => [i * W / (series.length - 1), Hh - v / 100 * Hh]);
+const linePath = 'M' + pts.map((p) => p.map((x) => x.toFixed(1)).join(',')).join(' L');
+const cols = MUT.has('column-order') ? ['Service', 'p95', 'RPS', 'Status', 'Last 12h'] : ['Service', 'RPS', 'p95', 'Status', 'Last 12h'];
+const cell = { RPS: (s) => `<span class="${C('muted')}">${s.rps.toLocaleString('en-US')}</span>`, p95: (s) => `<span class="${C('muted')}">${s.p95} ms</span>` };
+const sparkPts = (a) => a.map((v, i) => `${(i * 110 / 11).toFixed(1)},${(26 - v * 24).toFixed(1)}`).join(' ');
+let inner = `
+<div class="${C('shell')}">
+  <aside class="${C('side')}">
+    <div class="${C('brand')}">${icon('logo')}<span>Opsboard</span></div>
+    ${[['home', 'Overview'], ['chart', 'Metrics'], ['bell', 'Alerts'], ['gear', 'Settings']].map(([ic, l], i) => `<div class="${C('navlink', i === 0 && 'current')}">${icon(MUT.has('icon-swap') && ic === 'chart' ? 'chart2' : ic)}<span>${l}</span></div>`).join('')}
+  </aside>
+  <main class="${C('content')}">
+    <div class="${C('topbar')}">
+      <div><h1>Overview</h1><div class="${C('updated')}">Updated ${ago(updatedAgo)}</div></div>
+      <div class="${C('avatars')}">${team.slice(0, 4).map((m) => `<span class="${C('av')}" style="background:${m.color}">${m.initials}</span>`).join('')}${team.length > 4 ? `<span class="${C('av', 'more')}">+${team.length - 4}</span>` : ''}</div>
+    </div>
+    <div class="${C('promo', 'layout-' + abLayout)}"><div><b>Try anomaly alerts</b> — get paged before your users notice.</div><button class="${C('cta')}">Enable</button></div>
+    <div class="${C('kpis')}">${kpis.map((k) => `<div class="${C('card', 'kpi')}"><div class="${C('label')}">${k.label}</div><div class="${C('value')}">${k.value}</div><span class="${C('delta', k.delta >= 0 ? 'up' : 'down')}">${pct(k.delta)}</span></div>`).join('')}</div>
+    <div class="${C('charts')}">
+      <div class="${C('card', 'line-chart')}"><h2>Requests / min</h2>
+        <svg viewBox="0 0 ${W} ${Hh}" preserveAspectRatio="none"><g class="${C('grid')}">${[0, 1, 2, 3].map((i) => `<line x1="0" x2="${W}" y1="${i * Hh / 3}" y2="${i * Hh / 3}"></line>`).join('')}</g>
+        <path class="${C('area')}" d="${linePath} L${W},${Hh} L0,${Hh} Z"></path><path class="${C('series')}" d="${linePath}"></path></svg>
+        <div class="${C('axis')}">${['00:00', '06:00', '12:00', '18:00', '24:00'].map((t) => `<span>${t}</span>`).join('')}</div></div>
+      <div class="${C('card')}"><h2>Deploys per day</h2><div class="${C('bars')}">${bars.map((b) => `<div class="${C('bar')}" style="height:${b.toFixed(0)}%"></div>`).join('')}</div></div>
+    </div>
+    <div class="${C('card', 'table-card')}">
+      <div class="${C('table-head')}">${cols.map((c) => `<span>${c}</span>`).join('')}</div>
+      <div class="${C('viewport')}">${services.slice(0, 7).map((s, i) => `<div class="${C('trow')}" style="transform:translateY(${i * 48}px)">
+        ${cols.map((c) => c === 'Service' ? `<span class="${C('svc')}"><span class="${C('dot')}" style="background:${s.color}"></span>${s.name}</span>`
+          : c === 'Status' ? `<span class="${C('pill', 'status-' + s.status)}" title="seen ${ago(NOW - s.seen)}">${s.status}</span>`
+          : c === 'Last 12h' ? `<svg class="${C('spark')}" viewBox="0 0 110 28"><polyline points="${sparkPts(s.spark)}"></polyline></svg>` : cell[c](s)).join('')}
+      </div>`).join('')}</div>
+    </div>
+  </main>
+</div>
+${toast ? `<div class="${C('toast')}" role="status">Deploy #${Math.floor(Math.random() * 9000 + 1000)} finished ${ago(Math.random() * 300e3)}</div>` : ''}`;
+if (MUT.has('wrapper-block')) inner = `<div class="${C('page')}">${inner}</div>`; // refactor: a real (block) wrapper div
+document.getElementById('app').innerHTML = inner;
+
+const CSS_MUT = {
+  'kpi-down-color': `.delta.down{color:#b91c1c}`,
+  'chart-stroke': `.line-chart .series{stroke-width:3}`,
+  'bar-radius': `.bar{border-radius:2px 2px 0 0}`,
+  'head-weight': `.table-head{font-weight:700}`,
+  'pill-padding': `.pill{padding:2px 12px}`,
+  'nav-current-bg': `.navlink.current{background:#273244}`,
+  'kpi-gap': `.kpis{gap:20px}`,
+  'axis-color': `.axis{color:#8b93a1}`,
+  'toast-shadow': `.toast{box-shadow:0 6px 18px rgba(0,0,0,.25)}`,
+  'avatar-ring': `.avatars .av{border-color:#f3f4f6}`,
+  'spark-color': `.spark polyline{stroke:#4f46e5}`,
+  'cta-radius': `.promo .cta{border-radius:6px}`,
+  'degraded-color': `.pill.status-degraded{color:#713f12}`,
+};
+let css = [...MUT].map((m) => CSS_MUT[m] || '').join('\n');
+if (BUILD) {
+  const rw = (t) => t.replace(/\.([a-z][\w-]*)(?=[\s{,.:>\[)]|$)/g, (all, c) => '.' + hashName(c));
+  css = rw(css);
+  const base = document.getElementById('base'); base.textContent = rw(base.textContent);
+}
+document.getElementById('mutation').textContent = css + '\n' + (P.get('css') || '');   // ?css=<raw css> (experiments/subtle)
+if (P.get('js')) new Function(P.get('js'))();                   // ?js=<raw js>: DOM changes (experiments/subtle)
+</script>
+</body>
+</html>

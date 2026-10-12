@@ -1,0 +1,58 @@
+{
+  "primer-react": {
+    "url": "https://github.com/primer/react",
+    "branch": "main",
+    "lockfile": "package-lock.json",
+    "install": "npm ci --no-audit --no-fund --loglevel=error",
+    "storybookPackage": "packages/react",
+    "storybookConfig": "packages/react/.storybook/main.ts",
+    "storiesPattern": "DEPLOY_ENV === 'development'\n      ? ['../src/**/*.mdx', '../src/**/*.stories.@(js|jsx|ts|tsx)']\n      : // Don't include dev stories in production\n        ['../src/**/*.mdx', '../src/**/!(*.dev).stories.@(js|jsx|ts|tsx)']",
+    "storyGlob": "../src/{c}/**/*.stories.@(js|jsx|ts|tsx)",
+    "patches": [
+      [
+        "prc-[folder]-[local]-[hash:base64:5]",
+        "prc-[folder]-[local]"
+      ]
+    ],
+    "build": "npx storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "packages/react/src",
+    "skipDirs": [
+      "internal",
+      "utils",
+      "hooks",
+      "__tests__",
+      "stories",
+      "experimental",
+      "drafts",
+      "deprecated",
+      "legacy-theme",
+      "theme",
+      "constants",
+      "utils-tests",
+      "docs"
+    ],
+    "style": "\\.(css|scss)$|\\.module\\.css$",
+    "snapshots": "(-snapshots/|__snapshots__/|/snapshots/).*\\.png$"
+  },
+  "eui": {
+    "url": "https://github.com/elastic/eui",
+    "branch": "main",
+    "lockfile": "yarn.lock",
+    "install": "corepack yarn install --immutable && corepack yarn workspace @elastic/eui-theme-common build && corepack yarn workspace @elastic/eui-theme-borealis build",
+    "storybookPackage": "packages/eui",
+    "storybookConfig": "packages/eui/.storybook/main.ts",
+    "storiesPattern": "['../src/**/*.stories.@(js|jsx|ts|tsx)']",
+    "storyGlob": "../src/components/{c}/**/*.stories.@(js|jsx|ts|tsx)",
+    "patches": [],
+    "build": "npx storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "packages/eui/src/components",
+    "skipDirs": [
+      "common",
+      "index.ts",
+      "__snapshots__"
+    ],
+    "style": "\\.styles\\.ts$|\\.scss$",
+    "snapshots": "\\.vrt/reference/.*\\.png$",
+    "node": "24.19.0"
+  }
+}

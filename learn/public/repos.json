@@ -83,6 +83,25 @@
     "snapshots": "\\.visual\\.spec\\.tsx?-snapshots/.*\\.png$",
     "node": "24.14.1"
   },
+  "siemens-ix": {
+    "url": "https://github.com/siemens/ix",
+    "branch": "main",
+    "lockfile": "pnpm-lock.yaml",
+    "install": "corepack pnpm install --frozen-lockfile --filter storybook-docs...",
+    "storybookPackage": "packages/storybook-docs",
+    "storybookConfig": "packages/storybook-docs/.storybook/main.ts",
+    "storiesPattern": "['../src/**/*.mdx', '../src/**/*.stories.@(js|jsx|mjs|ts|tsx)']",
+    "storyGlob": "../src/stories/**/{c}{.stories,/**/*.stories}.@(js|jsx|mjs|ts|tsx)",
+    "patches": [],
+    "build": "cd ../core && printf \"import { config as c } from './stencil.config';\\nexport const config = { ...c, outputTargets: c.outputTargets.filter((t) => ['dist', 'dist-custom-elements', 'docs-custom'].includes(t.type)) };\\n\" > stencil.walk.config.ts && npx stencil build --prod --config stencil.walk.config.ts && cd ../storybook-docs && npx storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "packages/core/src/components",
+    "skipDirs": [
+      "utils",
+      "ix-playground"
+    ],
+    "style": "\\.s?css$",
+    "snapshots": "(__screenshots__|-snapshots)/.*\\.png$"
+  },
   "vkui": {
     "url": "https://github.com/vkcom/VKUI",
     "branch": "master",

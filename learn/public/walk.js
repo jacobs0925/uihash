@@ -23,7 +23,7 @@ const clone = path.join(WORK, NAME), tree = path.join(WORK, NAME + '-build'), bu
 const out = path.join(DATA, NAME);
 // an install or a build that takes half an hour is stuck: fail the commit rather than the whole round
 const sh = (cmd, cwd, env = {}) => execSync(cmd, { cwd, stdio: ['ignore', 'pipe', 'pipe'], encoding: 'utf8', maxBuffer: 1 << 28, timeout: 30 * 60e3, env: { ...process.env, ...env } });
-const git = (args, cwd = clone) => execFileSync('git', args, { cwd, encoding: 'utf8', maxBuffer: 1 << 28 });
+const git = (args, cwd = clone) => execFileSync('git', args, { cwd, encoding: 'utf8', maxBuffer: 1 << 28, stdio: ['ignore', 'pipe', 'pipe'] });
 const STYLE = new RegExp(R.style), SNAP = new RegExp(R.snapshots), SRC = R.componentRoot;
 const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
 // a repository may need its own Node version: "node": "24.19.0", or "nvmrc" for the checked-out commit's

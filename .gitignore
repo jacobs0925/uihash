@@ -1,0 +1,6 @@
+node_modules/
+# experiment caches and outputs (raw snapshots, screenshots, crops; regenerable)
+.cache/
+.out/
+live-series/
+live-mut/

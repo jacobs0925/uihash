@@ -1,0 +1,50 @@
+<!doctype html>
+<!-- App shell that scrolls inside an inner container (like Gmail or Slack): the page itself never
+     scrolls, so a full-page screenshot shows only the rows above the container's fold.
+     ?seed=N varies the data; ?m=<mutation> plants a UI change (see MUT below). -->
+<html><head><meta charset="utf-8"><title>Scroller</title>
+<style>
+  * { box-sizing: border-box }
+  body { margin: 0; font: 14px/1.4 Arial, sans-serif; color: #1f2937; background: #f9fafb }
+  header { height: 56px; display: flex; align-items: center; padding: 0 20px; background: #111827; color: #fff; font-weight: 700 }
+  .app { display: flex; height: calc(100vh - 56px) }
+  nav { width: 200px; padding: 12px; border-right: 1px solid #e5e7eb }
+  nav a { display: block; padding: 6px 10px; color: #374151; text-decoration: none; border-radius: 6px }
+  nav a.on { background: #e0e7ff; color: #3730a3 }
+  main { flex: 1; overflow-y: auto }
+  .row { display: flex; gap: 12px; align-items: center; height: 44px; padding: 0 16px; border-bottom: 1px solid #eef0f3; background: #fff }
+  .who { width: 160px; font-weight: 600 }
+  .what { flex: 1; color: #4b5563; white-space: nowrap; overflow: hidden; text-overflow: ellipsis }
+  .badge { font-size: 12px; padding: 1px 8px; border-radius: 999px; background: #fef3c7; color: #92400e }
+  .badge.hot { background: #fee2e2; color: #991b1b }
+  footer { padding: 16px; color: #6b7280; font-size: 12px; text-align: center }
+</style>
+<script>
+  const q = new URLSearchParams(location.search), seed = +(q.get('seed') || 1), MUT = new Set((q.get('m') || '').split(',').filter(Boolean));
+  let s = seed * 9301 + 49297; const R = () => ((s = (s * 9301 + 49297) % 233280) / 233280);
+  const NAMES = ['Ada', 'Grace', 'Linus', 'Margaret', 'Ken', 'Barbara', 'Dennis', 'Frances', 'Edsger', 'Radia'];
+  const WORDS = ['deploy', 'review', 'invoice', 'report', 'incident', 'migration', 'budget', 'roadmap', 'launch', 'notes'];
+  const MUT_CSS = {
+    'row-text': '.what { color: #374151 }',          // every row: visible rows change on screen
+    'deep-badge': '.badge.hot { background: #fecaca }', // only rows far below the fold have a hot badge
+    'header-pad': 'header { padding: 0 24px }',          // outside the scroller
+  };
+</script>
+</head><body>
+<header>Scroller</header>
+<div class="app">
+  <nav><a class="on" href="#">Inbox</a><a href="#">Sent</a><a href="#">Archive</a></nav>
+  <main id="list"></main>
+</div>
+<script>
+  const rows = [];
+  for (let i = 0; i < 60; i++) {
+    const who = NAMES[Math.floor(R() * NAMES.length)], what = Array.from({ length: 6 }, () => WORDS[Math.floor(R() * WORDS.length)]).join(' ');
+    const badge = i >= 50 ? '<span class="badge hot">urgent</span>' : R() < 0.2 ? '<span class="badge">later</span>' : '';
+    rows.push(`<div class="row"><span class="who">${who}</span><span class="what">${what}</span>${badge}</div>`);
+  }
+  document.getElementById('list').innerHTML = rows.join('') + '<footer>End of list</footer>';
+  const css = [...MUT].map((m) => MUT_CSS[m]).filter(Boolean).join('\n') + '\n' + (q.get('css') || '');   // ?css=<raw css>
+  if (css) { const st = document.createElement('style'); st.textContent = css; document.head.appendChild(st); }
+</script>
+</body></html>

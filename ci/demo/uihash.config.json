@@ -1,0 +1,8 @@
+{
+  "runs": 6,
+  "viewport": { "width": 1280, "height": 800 },
+  "pages": [
+    { "name": "Inbox", "path": "mailbox/index.html?seed={i}", "states": { "Settings menu": "[aria-label=\"Settings\"]", "Compose": "nav button" } },
+    { "name": "Dashboard", "path": "dashboard/index.html?seed={i}" }
+  ]
+}

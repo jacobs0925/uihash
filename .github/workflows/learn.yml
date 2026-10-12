@@ -1,0 +1,156 @@
+# The training loop of uihash's triage model (learn/HANDOFF.md, "Public data"), every two hours on GitHub's
+# runners. A round checks the next commits of the component libraries in learn/public/repos.json, relabels,
+# and retrains on those and the synthetic PRs with learn/weekly.js, keeping the data on the `learn-data`
+# branch. When the best candidate passes the promotion gate against learn/model.json and beats it on the
+# held-out commits (learn/public/report.js), it opens a pull request with it, or updates the open one. A
+# person merges.
+#
+# Two jobs, because walking a library runs its own install scripts and builds: `collect` does that with a
+# read-only token, and `publish`, which can write, runs only git and gh on the files `collect` produced.
+#
+# Stop it any time: Actions tab → learn → ··· → Disable workflow. GitHub also pauses schedules in a public
+# repository after 60 days without activity; enable it there again.
+name: learn
+
+on:
+  schedule:
+    - cron: '7 */2 * * *'          # every two hours, a few minutes past, when the scheduler is less busy
+  workflow_dispatch:
+    inputs:
+      walk_minutes:
+        description: Minutes to spend checking commits
+        type: number
+        default: 70
+
+concurrency:
+  group: learn
+  cancel-in-progress: false          # rounds never overlap: a late round waits for the one running
+
+permissions: {}
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 115
+    permissions:
+      contents: read
+    env:
+      WALK_MINUTES: ${{ inputs.walk_minutes || '70' }}
+      COREPACK_ENABLE_DOWNLOAD_PROMPT: '0'
+    steps:
+      - uses: actions/checkout@v4
+        with: { persist-credentials: false }
+      - name: Find the data so far
+        id: data
+        env: { GH_TOKEN: '${{ github.token }}' }
+        run: |
+          if gh api "repos/${{ github.repository }}/branches/learn-data" --silent; then echo "exists=true" >> "$GITHUB_OUTPUT"
+          else echo "No learn-data branch yet: starting from nothing"; mkdir -p data; fi
+      - uses: actions/checkout@v4
+        if: steps.data.outputs.exists == 'true'
+        with: { ref: learn-data, path: data, persist-credentials: false }
+
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12', cache: pip, cache-dependency-path: learn/requirements.txt }
+      - name: Make room on disk
+        run: |
+          # two libraries' node_modules and builds take about 6 GB; the runner image's toolchains go if space is short
+          if [ "$(df --output=avail -k / | tail -1)" -lt 25000000 ]; then
+            sudo rm -rf /usr/share/dotnet /usr/local/lib/android /opt/ghc /usr/local/.ghcup /opt/hostedtoolcache/CodeQL
+          fi
+          df -h /
+      - name: Install uihash, Chromium and the training libraries
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+          pip install -r learn/requirements.txt
+
+      - name: Check new commits
+        timeout-minutes: 88
+        continue-on-error: true          # whatever was checked before the limit is kept
+        env: { LOGS: '${{ runner.temp }}/logs' }
+        run: bash learn/public/round.sh walk data "$RUNNER_TEMP/work"
+      - name: Relabel, retrain and gate against learn/model.json
+        if: ${{ !cancelled() }}
+        timeout-minutes: 15
+        env: { LOGS: '${{ runner.temp }}/logs', MODEL_OUT: '${{ runner.temp }}/model' }
+        run: |
+          bash learn/public/round.sh train data learn/model.json
+          cat data/latest.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Keep the logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with: { name: 'learn-logs-${{ github.run_number }}', path: '${{ runner.temp }}/logs', retention-days: 14, if-no-files-found: ignore }
+      - name: Hand the data to publish
+        if: ${{ !cancelled() }}
+        uses: actions/upload-artifact@v4
+        with: { name: learn-data, path: data, retention-days: 3 }
+      - name: Hand the model to publish
+        if: ${{ !cancelled() }}
+        uses: actions/upload-artifact@v4
+        with: { name: learn-model, path: '${{ runner.temp }}/model', retention-days: 14, if-no-files-found: ignore }
+
+  publish:
+    needs: collect
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write                  # the learn-data and learn-model branches
+      pull-requests: write             # the model PR
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/download-artifact@v4
+        id: download
+        continue-on-error: true
+        with: { name: learn-data, path: new }
+      - uses: actions/download-artifact@v4
+        id: model
+        continue-on-error: true
+        with: { name: learn-model, path: model }
+      - name: Save the data on the learn-data branch
+        if: steps.download.outcome == 'success'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          if git ls-remote --exit-code --heads origin learn-data > /dev/null; then
+            git fetch --quiet --depth 1 origin learn-data && git worktree add --quiet --detach data FETCH_HEAD
+          else
+            git worktree add --quiet --orphan -b learn-data data
+          fi
+          # a round only ever adds commits: fewer than the branch has means collect lost the data, so keep the branch
+          old=$(find data -mindepth 3 -maxdepth 3 -name meta.json | wc -l); now=$(find new -mindepth 3 -maxdepth 3 -name meta.json | wc -l)
+          if [ "$now" -lt "$old" ]; then echo "::error::collect produced $now checked commits, the learn-data branch has $old; not saving"; exit 1; fi
+          find data -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
+          cp -a new/. data/
+          cd data && git add -A
+          if git diff --cached --quiet; then echo "Nothing new"; exit 0; fi
+          git commit --quiet -m "learn: round ${{ github.run_number }}"
+          git push --quiet origin HEAD:refs/heads/learn-data
+      - name: Propose the model
+        if: steps.download.outcome == 'success' && steps.model.outcome == 'success' && hashFiles('model/decision.json') != ''
+        env: { GH_TOKEN: '${{ github.token }}', BASE: '${{ github.ref_name }}', RUN_URL: '${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}' }
+        run: |
+          if [ "$(jq -r .propose model/decision.json)" != true ]; then jq -r '.decision + ": " + .reason' model/decision.json; exit 0; fi
+          git checkout --quiet -B learn-model
+          cp model/model.json learn/model.json
+          cp model/model-report.md learn/model-report.md
+          git add learn/model.json learn/model-report.md
+          git commit --quiet -m "Learned triage model from round ${{ github.run_number }} ($(jq -r .best model/decision.json))" -m "$(jq -r .reason model/decision.json)"
+          git push --quiet --force origin learn-model
+          { cat model/summary.md
+            echo; echo "<details><summary>weekly.js: candidates, gate and dataset manifest</summary>"; echo; cat model/weekly.md; echo; echo "</details>"
+            echo; echo "Merging makes this learn/model.json; later rounds have to beat it. [This round's run]($RUN_URL). A person merges model PRs, never the workflow."
+          } > body.md
+          title="Learned triage model from round ${{ github.run_number }}"
+          pr=$(gh pr list --head learn-model --base "$BASE" --state open --json number --jq '.[0].number // empty')
+          if [ -n "$pr" ]; then gh pr edit "$pr" --title "$title" --body-file body.md
+          elif ! gh pr create --base "$BASE" --head learn-model --title "$title" --body-file body.md; then
+            # off by default: Settings → Actions → General → "Allow GitHub Actions to create and approve pull requests"
+            url="${{ github.server_url }}/${{ github.repository }}/compare/$BASE...learn-model?expand=1"
+            echo "::warning::Could not open the pull request (GitHub Actions may not be allowed to create them in this repository). Open it from $url"
+            echo "A better model is on the \`learn-model\` branch: [open the pull request]($url)." >> "$GITHUB_STEP_SUMMARY"
+          fi

@@ -4,3 +4,6 @@ node_modules/
 .out/
 live-series/
 live-mut/
+# learned-triage data, models and Python environment
+data/
+.venv/

@@ -2,9 +2,12 @@
 // collect.js fills. Each labelled PR becomes a labelled-PR directory dataset.js reads; PRs the labelers
 // disagree on go to a human queue instead.
 // Usage: node learn/label.js <raw/owner__repo> <outDir> [--now 2026-10-12] [--window 30] [--no-weak]
-//   1. reviewer ticks in the uihash comment (src/pr.js feedback): confidence 1, per finding
+//   1. a person: reviewer ticks in the uihash comment (src/pr.js feedback), and answers given in the human
+//      queue (review.js, human.json, which win over ticks): confidence 1, per finding
 //   2. undo miner: a later PR (within --window days) put a change back: label 1, confidence 0.8
 //      (0.9 when the later PR's title says fix, revert, regression...)
+//   2b. bug reports (bugs.json from link-bugs.js): the finding a UI bug report names, label 1 at the
+//      linker's confidence
 //   3. outcome: approved with `ui-change-approved` for exactly what it showed, and nothing of it undone
 //      --window days later: label 0, confidence 0.6 (people also approve to get unblocked)
 //   4. intent judge (intent.json from learn/intent.js), only when nothing else knows the PR: a finding the
@@ -26,17 +29,20 @@ const fresh = (s) => s.pages.flatMap((p) => p.findings.filter((f) => !f.sameAs &
 function loadRaw(dir) {
   return fs.readdirSync(dir).filter((d) => fs.existsSync(path.join(dir, d, 'summary.json')) && fs.existsSync(path.join(dir, d, 'meta.json')))
     .map((d) => ({ id: d, dir: path.join(dir, d), s: read(path.join(dir, d, 'summary.json')), m: read(path.join(dir, d, 'meta.json')),
-      intent: fs.existsSync(path.join(dir, d, 'intent.json')) ? read(path.join(dir, d, 'intent.json')) : null }))
+      intent: fs.existsSync(path.join(dir, d, 'intent.json')) ? read(path.join(dir, d, 'intent.json')) : null,
+      human: fs.existsSync(path.join(dir, d, 'human.json')) ? read(path.join(dir, d, 'human.json')) : null,
+      bugs: fs.existsSync(path.join(dir, d, 'bugs.json')) ? read(path.join(dir, d, 'bugs.json')) : null }))
     .sort((a, b) => a.m.mergedAt.localeCompare(b.m.mergedAt));
 }
 
 // every labeler's verdict on one PR: [{ source, label, confidence, sides: { sig: side }, evidence }]
 function verdicts(pr, later, { window = 30, now = Date.now(), weak = true } = {}) {
   const out = [], all = fresh(pr.s);
-  // 1. reviewer ticks
-  if (pr.m.comment) {
-    const ticks = feedbackOf(pr.m.comment), sides = {};
+  // 1. a person: comment ticks, then answers from the human queue
+  if (pr.m.comment || pr.human) {
+    const ticks = pr.m.comment ? feedbackOf(pr.m.comment) : {}, sides = {};
     for (const { p, f } of all) { const t = ticks[findingId(p, f)]; if (t) sides[findingSig(p, f)] = t; }
+    for (const [sig, side] of Object.entries(pr.human || {})) if (side === 'mistake' || side === 'deliberate') sides[sig] = side;
     const n = Object.keys(sides).length, mistakes = Object.values(sides).filter((v) => v === 'mistake').length;
     if (mistakes) out.push({ source: 'human', label: 1, confidence: 1, sides, evidence: `reviewer marked ${mistakes} of ${all.length} changes a mistake` });
     else if (n && n === all.length) out.push({ source: 'human', label: 0, confidence: 1, sides, evidence: 'reviewer marked every change intended' });
@@ -54,9 +60,15 @@ function verdicts(pr, later, { window = 30, now = Date.now(), weak = true } = {}
   }
   if (by) out.push({ source: 'undo', label: 1, confidence: FIX.test(by.m.title) ? 0.9 : 0.8, sides: back,
     evidence: `${Object.keys(back).length} change(s) put back by #${by.m.pr} ("${String(by.m.title).slice(0, 80)}") within ${window} days` });
+  // 2b. bug reports that name a finding of this PR
+  if (pr.bugs && pr.bugs.length) {
+    const sides = {}; for (const b of pr.bugs) sides[b.sig] = 'mistake';
+    out.push({ source: 'bug-report', label: 1, confidence: Math.max(...pr.bugs.map((b) => b.confidence)), sides,
+      evidence: pr.bugs.map((b) => `bug report #${b.issue}`).join(', ') });
+  }
   // 3. approved and kept
   const approved = pr.m.approvedSignature && pr.m.approvedSignature === pr.s.signature;
-  if (approved && !by && now - t0 >= window * DAY)
+  if (approved && !by && !(pr.bugs && pr.bugs.length) && now - t0 >= window * DAY)
     out.push({ source: 'approval', label: 0, confidence: 0.6, sides: null, evidence: `approved with ui-change-approved, nothing undone within ${window} days` });
   // 4. intent judge: weak, and only for PRs nothing else knows
   if (weak && !out.length && pr.intent) {

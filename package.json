@@ -17,7 +17,9 @@
     "demo:pr": "node ci/demo/make-pr.js /tmp/uihash-demo && node bin/uihash.js pr --base file:///tmp/uihash-demo/base/ --head file:///tmp/uihash-demo/head/ --config ci/demo/uihash.config.json --out /tmp/uihash-demo/report",
     "eval:scroller": "node experiments/scroller/eval.js",
     "eval:subtle": "node experiments/subtle/eval.js && node experiments/subtle/states-fp.js",
-    "eval:assets": "node experiments/assets/eval.js"
+    "eval:assets": "node experiments/assets/eval.js",
+    "test:learn": "node learn/test-undo.js && node learn/test-model.js && node learn/test-feedback.js && node learn/test-label.js && node learn/test-intent.js && node learn/test-gate.js && node learn/test-link.js",
+    "test:demo-model": "node learn/test-demo.js"
   },
   "dependencies": {
     "playwright": "^1.56.0"

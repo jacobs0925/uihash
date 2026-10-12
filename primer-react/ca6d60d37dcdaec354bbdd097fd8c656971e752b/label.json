@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "ca6d60d37dcdaec354bbdd097fd8c656971e752b",
+ "date": "2025-10-17",
+ "pr": "7008",
+ "title": "Use primitives for Button line-height (#7008)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "1109 visual-test baselines updated"
+}

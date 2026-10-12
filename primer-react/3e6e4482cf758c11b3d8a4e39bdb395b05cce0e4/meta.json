@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "3e6e4482cf758c11b3d8a4e39bdb395b05cce0e4",
+ "parent": "2fd6c82e327db24b63cf604465b4192b0d29d8a9",
+ "date": "2025-10-16",
+ "subject": "chore: refactor IssueLabelToken styles (#7012)",
+ "pr": "7012",
+ "components": [
+  "Token"
+ ],
+ "files": [
+  "packages/react/src/TextInputWithTokens/__snapshots__/TextInputWithTokens.test.tsx.snap",
+  "packages/react/src/Token/IssueLabelToken.module.css",
+  "packages/react/src/Token/IssueLabelToken.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "stories": 36,
+ "findings": 0,
+ "ms": 121869
+}

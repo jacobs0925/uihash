@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "3680ae469f70e4158c8543234cf7be1bcfcfb513",
+ "date": "2025-11-04",
+ "pr": "9169",
+ "title": "Fix EuiFlyout `z-index` values for managed and unmanaged flyouts (#9169)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "z-index: 999 → 1000 undone by 9fc422d3 \"Revert flyout system changes (#9175)\"; z-index: 999 → 1000 undone by 9fc422d3 \"Revert flyout system changes (#9175)\"; z-index: 999 → 1000 undone by 9fc422d3 \"Revert flyout system changes (#9175)\""
+}

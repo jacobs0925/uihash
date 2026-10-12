@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "3c32e7e162ae9a5f66c068639934cc55c01cca72",
+ "date": "2025-10-16",
+ "pr": "6982",
+ "title": "Correct bg color of disabled ToggleSwitch knob (#6982)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Uses correct bg color for disabled ToggleSwitch knob"
+}

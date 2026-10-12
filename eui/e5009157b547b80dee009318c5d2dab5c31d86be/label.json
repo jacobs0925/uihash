@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "e5009157b547b80dee009318c5d2dab5c31d86be",
+ "date": "2025-10-30",
+ "pr": "9068",
+ "title": "Feature: Flyout System [Beta] (#9068)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "top: 48px → 0px undone by 3680ae46 \"Fix EuiFlyout `z-index` values for managed and unmanaged flyouts (#9169)\"; top: 48px → 0px undone by 3680ae46 \"Fix EuiFlyout `z-index` values for managed and unmanaged flyouts (#9169)\"; top: 48px → 0px undone by 3680ae46 \"Fix EuiFlyout `z-index` values for managed and unmanaged flyouts (#9169)\""
+}

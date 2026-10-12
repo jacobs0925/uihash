@@ -1,0 +1,42 @@
+{
+ "repo": "primer-react",
+ "sha": "30992106820dee75cb2f6f0594e66acfd8b56f3c",
+ "parent": "96968a28c1ddb2c31cb3e2f0e2e6297c1ee8df97",
+ "date": "2025-10-16",
+ "subject": "Remove unwanted box-shadow on `inactive` buttons (#6981)",
+ "pr": "6981",
+ "components": [
+  "Button"
+ ],
+ "files": [
+  ".changeset/dull-wolves-judge.md",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-dark-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-light-colorblind-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-light-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-light-tritanopia-linux.png",
+  "e2e/components/LinkButton.test.ts",
+  "packages/react/src/Button/ButtonBase.module.css",
+  "packages/react/src/Button/LinkButton.features.stories.tsx",
+  "packages/react/src/Button/LinkButton.stories.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-dark-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-light-colorblind-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-light-linux.png",
+  ".playwright/snapshots/components/LinkButton.test.ts-snapshots/LinkButton-Link-light-tritanopia-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': patch\n---\n\nRemoves unwanted box-shadow on buttons with 'inactive' prop passed.\n",
+ "stories": 72,
+ "findings": 4,
+ "ms": 168453
+}

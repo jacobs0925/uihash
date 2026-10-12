@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "30992106820dee75cb2f6f0594e66acfd8b56f3c",
+ "date": "2025-10-16",
+ "pr": "6981",
+ "title": "Remove unwanted box-shadow on `inactive` buttons (#6981)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "9 visual-test baselines updated"
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "primer-react",
+ "sha": "34e7fa8cd88684c16d17e997aa7ef69d40b50340",
+ "parent": "0889246fda736fe7dd967a295fe8467109d06bc9",
+ "date": "2025-10-16",
+ "subject": "Add gap prop to ActionBar for customizable spacing between items (#7000)",
+ "pr": "7000",
+ "components": [
+  "ActionBar"
+ ],
+ "files": [
+  ".changeset/healthy-laws-walk.md",
+  "packages/react/src/ActionBar/ActionBar.docs.json",
+  "packages/react/src/ActionBar/ActionBar.examples.stories.tsx",
+  "packages/react/src/ActionBar/ActionBar.module.css",
+  "packages/react/src/ActionBar/ActionBar.stories.tsx",
+  "packages/react/src/ActionBar/ActionBar.test.tsx",
+  "packages/react/src/ActionBar/ActionBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@primer/react\": patch\n---\n\nAdd gap prop to ActionBar for customizable spacing between items\n",
+ "stories": 27,
+ "findings": 0,
+ "ms": 118466
+}

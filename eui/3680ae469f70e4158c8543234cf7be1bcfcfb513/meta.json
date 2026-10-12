@@ -1,0 +1,27 @@
+{
+ "repo": "eui",
+ "sha": "3680ae469f70e4158c8543234cf7be1bcfcfb513",
+ "parent": "3276b8f7c1db4c6c3c7d568efb56301a89a059fd",
+ "date": "2025-11-04",
+ "subject": "Fix EuiFlyout `z-index` values for managed and unmanaged flyouts (#9169)",
+ "pr": "9169",
+ "components": [
+  "flyout"
+ ],
+ "files": [
+  "packages/eui/src/components/collapsible_nav/__snapshots__/collapsible_nav.test.tsx.snap",
+  "packages/eui/src/components/collapsible_nav_beta/__snapshots__/collapsible_nav_beta.test.tsx.snap",
+  "packages/eui/src/components/flyout/__snapshots__/flyout.test.tsx.snap",
+  "packages/eui/src/components/flyout/_flyout_overlay.tsx",
+  "packages/eui/src/components/flyout/flyout.component.tsx",
+  "packages/eui/src/components/flyout/flyout.styles.test.tsx",
+  "packages/eui/src/components/flyout/flyout.styles.ts",
+  "packages/eui/src/components/flyout/use_flyout_z_index.test.ts",
+  "packages/eui/src/components/flyout/use_flyout_z_index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "stories": 72,
+ "findings": 5,
+ "ms": 441153
+}

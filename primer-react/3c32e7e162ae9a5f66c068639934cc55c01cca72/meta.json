@@ -1,0 +1,20 @@
+{
+ "repo": "primer-react",
+ "sha": "3c32e7e162ae9a5f66c068639934cc55c01cca72",
+ "parent": "43081799465d5e4d66a0d761406a2ab64fb27d91",
+ "date": "2025-10-16",
+ "subject": "Correct bg color of disabled ToggleSwitch knob (#6982)",
+ "pr": "6982",
+ "components": [
+  "ToggleSwitch"
+ ],
+ "files": [
+  ".changeset/slick-gifts-cross.md",
+  "packages/react/src/ToggleSwitch/ToggleSwitch.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nUses correct bg color for disabled ToggleSwitch knob\n",
+ "stories": 33,
+ "findings": 1,
+ "ms": 126767
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "503a592ebc0f01d7a556b3be8e899c5be0caf6e8",
+ "date": "2025-10-03",
+ "pr": "6939",
+ "title": "revert: Remove support for sx from FormControl component (#6681) (#6939)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: flex → block undone by 2703bc9c \"feat(FormControl): remove sx (#6951)\"; flex-direction: row → ∅ undone by 2703bc9c \"feat(FormControl): remove sx (#6951)\"; flex-wrap: nowrap → ∅ undone by 2703bc9c \"feat(FormControl): remove sx (#6951)\""
+}

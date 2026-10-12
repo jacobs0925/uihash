@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "2703bc9cad2d3f16552b748f3799949a35464a1a",
+ "date": "2025-10-10",
+ "pr": "6951",
+ "title": "feat(FormControl): remove sx (#6951)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Update FormControl component to no longer support sx"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "62df166574d6248b3405c224a2f63f1e53a75ece",
+ "date": "2025-10-11",
+ "pr": "6904",
+ "title": "Adapt Button to styled-react and remove sx (#6904)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "9 visual-test baselines updated"
+}

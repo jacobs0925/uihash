@@ -1,0 +1,20 @@
+{
+ "repo": "primer-react",
+ "sha": "96968a28c1ddb2c31cb3e2f0e2e6297c1ee8df97",
+ "parent": "61b508d4d8161229e7e26b493a074c349fdf5165",
+ "date": "2025-10-16",
+ "subject": "Correct bg color of disabled indeterminate checkbox (#7007)",
+ "pr": "7007",
+ "components": [
+  "Checkbox"
+ ],
+ "files": [
+  ".changeset/sad-shoes-help.md",
+  "packages/react/src/Checkbox/Checkbox.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nCorrects bg color of disabled indeterminate checkbox\n",
+ "stories": 21,
+ "findings": 0,
+ "ms": 109176
+}

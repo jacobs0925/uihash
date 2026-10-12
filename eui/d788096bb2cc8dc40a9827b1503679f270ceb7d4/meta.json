@@ -1,0 +1,25 @@
+{
+ "repo": "eui",
+ "sha": "d788096bb2cc8dc40a9827b1503679f270ceb7d4",
+ "parent": "eb3d790d8a173ad3488b719e0c0d4b83e0d84f77",
+ "date": "2025-10-16",
+ "subject": "[EuiTable] Fix shadow styles for mobile tables (#9115)",
+ "pr": "9115",
+ "components": [
+  "table"
+ ],
+ "files": [
+  "packages/eui/.loki/reference/chrome_desktop_Tabular_Content_EuiBasicTable_Dark_Mode.png",
+  "packages/eui/.loki/reference/chrome_mobile_Tabular_Content_EuiBasicTable_Dark_Mode.png",
+  "packages/eui/.loki/reference/chrome_mobile_Tabular_Content_EuiBasicTable_Expanded_Nested_Table.png",
+  "packages/eui/.loki/reference/chrome_mobile_Tabular_Content_EuiBasicTable_Expanded_Row.png",
+  "packages/eui/changelogs/upcoming/9115.md",
+  "packages/eui/src/components/basic_table/basic_table.stories.tsx",
+  "packages/eui/src/components/table/table_row.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "stories": 72,
+ "findings": 1,
+ "ms": 599778
+}

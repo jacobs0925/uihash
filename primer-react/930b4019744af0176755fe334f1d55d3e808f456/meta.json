@@ -1,0 +1,28 @@
+{
+ "repo": "primer-react",
+ "sha": "930b4019744af0176755fe334f1d55d3e808f456",
+ "parent": "62df166574d6248b3405c224a2f63f1e53a75ece",
+ "date": "2025-10-12",
+ "subject": "Revert \"[a11y] When aria-disabled is set on SegmentedControl, don't allow action\" (#6986)",
+ "pr": "6986",
+ "components": [
+  "SegmentedControl"
+ ],
+ "files": [
+  ".changeset/strong-mangos-rest.md",
+  "packages/react/src/FeatureFlags/DefaultFeatureFlags.ts",
+  "packages/react/src/SegmentedControl/SegmentedControl.dev.stories.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControl.examples.stories.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControl.module.css",
+  "packages/react/src/SegmentedControl/SegmentedControl.test.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControl.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControlButton.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControlIconButton.stories.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControlIconButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "stories": 33,
+ "findings": 0,
+ "ms": 123385
+}

@@ -186,6 +186,8 @@ render never shows) and under each emulated medium.
 | `freezeTime`, `seedRandom` | `2026-01-15T12:00:00Z`, `42` | the frozen clock and the `Math.random` seed |
 | `networkIdleMs` | `150` | how long the network must be quiet before capture |
 | `imageBaseUrl` | (none) | where the comment's images are served from (`{file}` is replaced) |
+| `model` | (none) | a learned triage model (`learn/model.json`), relative to the config: an advisory score per finding (see [below](#learned-triage-advisory)) |
+| `feedback` | `false` | ask the reviewer, per finding, whether it was intended (tick boxes in the comment); the answers train the model |
 
 ## GitHub Actions
 
@@ -264,6 +266,22 @@ something, and they name the rule.
 - "not in the screenshot": the change is scrolled out of view inside a scroll container.
 - "same change as": a change already shown for another state is listed once, with a pointer back.
 
+### Learned triage (advisory)
+
+With `"model": "learn/model.json"` (or `--model`), each finding also gets a score: the probability,
+from a model trained on labelled PRs, that the change was not intended. The rules stay the floor: the
+model adds flags and orders "look at these first", but never removes a rule's flag and never approves
+anything.
+
+- 🚫 `model 0.99`: an obvious mistake (at or above the model's `obvious` threshold), listed first.
+- 🤖 `model 0.83`: likely unintended although no rule flags it (at or above its `flag` threshold).
+- `summary.json` carries `score`, `modelFlag` and `obvious` per finding.
+
+With `"feedback": true` the comment ends with a tick box pair per change ("✅ intended" / "❌ a
+mistake"). The workflow keeps the ticks when it updates the comment, and `learn/collect.js` reads
+them as the cleanest labels for retraining. How the model is trained, evaluated, gated and improved:
+[learn/HANDOFF.md](learn/HANDOFF.md).
+
 ## Approving changes
 
 When the PR's changes are intended, add the label **`ui-change-approved`**. The check passes, and the
@@ -280,6 +298,7 @@ findings.
 ```
 uihash pr --base <url> --head <url> --config uihash.config.json --out uihash-report
           [--cache-dir dir --cache-key <base sha>] [--image-base-url <url with {file}>] [--expect-no-change]
+          [--model learn/model.json] [--feedback] [--pr-text <file with the PR title and description>]
 ```
 
 The PR check described above. Without CI, uihash also works on single pages:
@@ -338,8 +357,9 @@ node bin/uihash.js snapshot "http://localhost:3000/inbox?seed=1" --out inbox.jso
 - **Other browsers**: Chromium only.
 - **Intent**: whether a change was meant. The labels say what a change breaks or takes away and which
   edit it comes from. They cannot tell a deliberate 4px margin from an accidental one; only the PR's
-  stated purpose can ([RESEARCH.md](RESEARCH.md), "Intended or not"). A learned model that adds this
-  evidence is in progress: [learn/HANDOFF.md](learn/HANDOFF.md).
+  stated purpose can ([RESEARCH.md](RESEARCH.md), "Intended or not"). An advisory learned model
+  ([Learned triage](#learned-triage-advisory)) adds evidence, and the loop that improves it with the
+  PR's text and what happened to each change later is in [learn/HANDOFF.md](learn/HANDOFF.md).
 
 **Measured:**
 
@@ -392,7 +412,8 @@ The details of every experiment, the negative results and the design trade-offs 
 | `ci/github/uihash.yml` | the GitHub Actions workflow template |
 | `ci/demo/` | the demo PR |
 | `experiments/` | the test suites behind the numbers above (`npm run eval:*`), and the testbed apps |
-| `learn/` | the harness for a learned triage model and the design of its self-improvement loop ([learn/HANDOFF.md](learn/HANDOFF.md)) |
+| `src/model.js`, `src/features.js` | the learned triage model at check time, and the per-finding features it shares with training |
+| `learn/` | training, evaluation and the self-improvement loop of the triage model: generator, labelers, intent judge, gate, weekly retrain ([learn/HANDOFF.md](learn/HANDOFF.md)) |
 
 ## License
 

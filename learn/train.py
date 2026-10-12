@@ -6,7 +6,8 @@ rows.jsonl comes from dataset.js. Rows with split=train are fitted (synthetic PR
 with trusted labels); rows with split=eval are only scored, so they measure how the model does on PRs
 it has never seen. Thresholds are chosen on the training rows too:
   flag     at most 10 % of the training set's deliberate PRs get a finding at or above it
-  obvious  findings at or above it are 95 % on the mistake side in the training set
+  obvious  findings at or above it are 95 % on the mistake side in the training set, and at most 2 % of
+           the training set's deliberate PRs have one (it ships as a 🚫-level flag)
 both on the out-of-fold scores of the cross-validation (whole operators held out), not in-sample.
 
 --variant local leaves out the features about the PR as a whole (pr_*), which helps to tell the two
@@ -106,10 +107,10 @@ for kind in ('logistic', 'trees'):
     tres = per_pr(train, ptr)
     dl = sorted(v['max'] for v in tres.values() if v['kind'] == 'deliberate')
     t_flag = dl[int(math.ceil(0.9 * len(dl))) - 1] + 1e-9 if dl else 0.5
-    t_obv = 0.99
-    for t in np.linspace(0.5, 0.99, 50):
+    t_obv = 0.999
+    for t in np.linspace(0.5, 0.999, 500):
         sel = ytr[ptr >= t]
-        if len(sel) >= 20 and sel.mean() >= 0.95: t_obv = float(t); break
+        if len(sel) >= 20 and sel.mean() >= 0.95 and (not dl or sum(v >= t for v in dl) <= 0.02 * len(dl)): t_obv = float(t); break
     fitted[kind] = (f, m, t_flag, t_obv)
 
 if test:

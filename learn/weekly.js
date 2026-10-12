@@ -1,10 +1,12 @@
 // Weekly retrain (HANDOFF.md, "Retrain, evaluate, gate"): rows, three candidates, the promotion gate, a
 // dataset manifest, and (with --pr) a pull request with the new model for a person to merge.
 // Usage: node learn/weekly.js --train <dir>... --eval <dir>... [--newest <dir>] [--current learn/model.json]
-//                             [--out data/weekly/<date>] [--pr]
+//                             [--split <dir>... [--holdout 0.2]] [--out data/weekly/<date>] [--pr]
 //   --train   synthetic sets and real sets labelled above the confidence floor (label.js output)
 //   --eval    frozen evaluation sets (never trained on, never relabelled by agents) and --newest
 //   --newest  the newest month of real PRs, held out by time (also an evaluation set)
+//   --split   sets that are both: a fixed share of each, chosen by hash, is held out (dataset.js --split;
+//             the public repositories of learn/public/round.sh)
 // The candidate is whichever of logistic, logistic --variant local and trees has the best mean PR-level
 // AUROC over the evaluation sets; it replaces --current only if the gate passes. Agents never merge:
 // --pr opens a pull request, a person merges it. Python: $PYTHON, else .venv's.
@@ -19,11 +21,11 @@ const PY = process.env.PYTHON || [path.join(ROOT, '.venv', 'Scripts', 'python.ex
 const CANDIDATES = [['logistic', 'all'], ['logistic', 'local'], ['trees', 'all']];
 
 function args(argv) {
-  const o = { train: [], eval: [] };
+  const o = { train: [], eval: [], split: [] };
   let list = null;
   for (let i = 0; i < argv.length; i++) {
     const a = argv[i];
-    if (a === '--train' || a === '--eval') list = a.slice(2);
+    if (a === '--train' || a === '--eval' || a === '--split') list = a.slice(2);
     else if (a === '--pr') o.pr = true;
     else if (a.startsWith('--')) { o[a.slice(2)] = argv[++i]; list = null; }
     else if (list) o[list].push(a);
@@ -72,7 +74,8 @@ function weekly(o) {
   const out = path.resolve(o.out || path.join(ROOT, 'data', 'weekly', date));
   fs.mkdirSync(out, { recursive: true });
   const rowsFile = path.join(out, 'rows.jsonl');
-  fs.writeFileSync(rowsFile, run(process.execPath, [path.join(__dirname, 'dataset.js'), '--train', ...o.train, ...(o.eval.length ? ['--eval', ...o.eval] : [])]));
+  fs.writeFileSync(rowsFile, run(process.execPath, [path.join(__dirname, 'dataset.js'), '--train', ...o.train, ...(o.eval.length ? ['--eval', ...o.eval] : []),
+    ...(o.split.length ? ['--split', ...o.split, '--holdout', o.holdout || '0.2'] : [])]));
   const rows = fs.readFileSync(rowsFile, 'utf8').split('\n').filter(Boolean).map(JSON.parse);
   const cands = CANDIDATES.map(([kind, variant]) => {
     const name = `${kind}-${variant}`, file = path.join(out, `${name}.json`);
@@ -93,6 +96,8 @@ function weekly(o) {
     'Label accuracy per source comes from the weekly human audit of a random sample of each source; set the labelers\' confidences from it.');
   fs.writeFileSync(path.join(out, 'manifest.json'), JSON.stringify(man, null, 1));
   fs.writeFileSync(path.join(out, 'weekly.md'), L.join('\n') + '\n');
+  fs.writeFileSync(path.join(out, 'result.json'), JSON.stringify({ date, best: best && best.name, pass: g.pass,
+    candidates: cands.map((c) => ({ name: c.name, auroc: c.auroc })), gate: g }, null, 1));
   if (best) fs.copyFileSync(best.file, path.join(out, 'model.json'));
   let pr = null;
   if (o.pr && best && g.pass) pr = openPR(out, best, date, L.join('\n'));

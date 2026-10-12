@@ -14,7 +14,8 @@ both on the out-of-fold scores of the cross-validation (whole operators held out
 sides of a PR apart when it holds a deliberate change and a mistake.
 
 Writes model.json (by default the logistic model, which src/model.js runs with a dot product; --kind trees
-exports the gradient-boosted trees as arrays src/model.js walks) and a markdown report with every number.
+exports the gradient-boosted trees as arrays src/model.js walks), a markdown report with every number,
+and the headline numbers as <model>.metrics.json (cross-validation and evaluation AUROCs, training sources).
 """
 import json, sys, math
 from collections import defaultdict

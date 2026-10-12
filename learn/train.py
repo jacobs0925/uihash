@@ -45,6 +45,8 @@ Xtr = vec.fit_transform([r['x'] for r in train]); ytr = np.array([r['y'] for r i
 names = vec.get_feature_names_out()
 wtr = np.array([r['w'] for r in train]); wtr *= len(wtr) / wtr.sum()
 rules_flag = lambda r: r['triage'] in ('breaks', 'check')
+METRICS = {'variant': VARIANT, 'train_prs': len({r['pr'] for r in train}), 'train_findings': len(train), 'eval_prs': len({r['pr'] for r in test}),
+           'train_sources': {s: len({r['pr'] for r in train if r.get('source') == s}) for s in sorted({r.get('source', '') for r in train})}}
 
 def model(kind):
     if kind == 'logistic': return LogisticRegression(C=0.5, class_weight='balanced', max_iter=4000)
@@ -97,6 +99,7 @@ for kind in ('logistic', 'trees'):
     res = per_pr(train, oof)
     single = [v for v in res.values() if v['kind'] != 'mixed']
     ys = [1 if v['kind'] == 'regression' else 0 for v in single]
+    METRICS[f'cv_auc_{kind}'] = round(float(roc_auc_score(ys, [v['max'] for v in single])), 4)
     say(f"- {kind}: PR-level AUROC {roc_auc_score(ys, [v['max'] for v in single]):.3f} over {len(single)} single-change PRs "
         f"(the rules as a 0/1 score: {roc_auc_score(ys, [1 if v['rules'] else 0 for v in single]):.3f}); finding-level AUROC {roc_auc_score(ytr, oof):.3f}")
 
@@ -135,6 +138,8 @@ if test:
             say(f"\nObvious mistakes (score ≥ {t_obv:.2f}): {len(obv)} findings, {sum(r['y'] for r, _ in obv) / len(obv):.0%} of them on the mistake side; "
                 + ', '.join(f"{len(kinds[k])} of {len(n[k])} {k} PRs have one" for k in ('regression', 'deliberate', 'mixed') if n[k]) + '.\n')
         if auc is not None and (best is None or auc > best[0]): best = (auc, kind)
+        if auc is not None: METRICS[f'eval_auc_{kind}'] = round(float(auc), 4)
+        if obv: METRICS[f'obvious_precision_{kind}'] = round(sum(r['y'] for r, _ in obv) / len(obv), 4); METRICS[f'obvious_n_{kind}'] = len(obv)
 
     # two-phase: the model's score and the rules' flags as the only inputs of a small head fitted on
     # evaluation PRs of the other apps (leave one app out), threshold from those apps' deliberate PRs
@@ -156,7 +161,8 @@ if test:
                 thr[te] = dl[int(math.ceil(0.9 * len(dl))) - 1] + 1e-9 if dl else 0.5
             # per-row thresholds: compare each row with its own app's threshold
             res = per_pr(test, out - thr + 0.5)
-            say(f'### {kind} + head\n'); table(res, 0.5, 'two-phase'); say('')
+            say(f'### {kind} + head\n'); a2 = table(res, 0.5, 'two-phase'); say('')
+            if a2 is not None: METRICS[f'eval_auc_{kind}_twophase'] = round(float(a2), 4)
 
 # ------------------------------------------------- what the logistic model learned, and the export
 f, (lm, sc), t_flag, t_obv = fitted['logistic']
@@ -185,4 +191,5 @@ else:
 pick = np.linspace(0, len(train) - 1, num=min(8, len(train))).astype(int)
 out['checks'] = [{'x': train[i]['x'], 'p': float(fitted[KIND][0](Xtr[i:i + 1])[0])} for i in pick]
 json.dump(out, open(out_model, 'w'), indent=1)
+json.dump(METRICS, open(out_model.replace('.json', '') + '.metrics.json', 'w'), indent=1)
 say(f'\nWrote the {KIND} model to {out_model}' + (f'; best on the evaluation PRs: {best[1]} (AUROC {best[0]:.3f})' if best else ''))

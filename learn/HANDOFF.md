@@ -21,6 +21,7 @@ and the agents that write code (the operator miner). See [Where things stand](#w
 - [The harness](#the-harness)
 - [The model](#the-model)
 - [The self-improvement loop](#the-self-improvement-loop)
+- [Public data](#public-data)
 - [Evaluation and guardrails](#evaluation-and-guardrails)
 - [Putting the model into uihash](#putting-the-model-into-uihash)
 - [Roadmap](#roadmap)
@@ -377,6 +378,87 @@ Intent judge prompt, in outline:
    Say `unsure` rather than guess.
 
 Store each label with the model id and a prompt hash, so labels can be recomputed when the judge changes.
+
+## Public data
+
+Open-source component libraries are the cheapest source of real labelled PRs: their history is public,
+they render every component in Storybook, and many leave intent and regression evidence behind.
+
+**Which libraries.** One year of `main` (to October 2026), measured with `git` alone:
+
+| repository | commits | style-changing | reverted | fixed within 14 days | visual-test baseline updates | changesets (style PRs with one) | stories | Storybook | visual testing |
+|---|---|---|---|---|---|---|---|---|---|
+| primer/react | 899 | 192 | 10 | 10 (5 %) | 106 | 452 (160) | 248 | yes | Playwright, baselines in the repo |
+| elastic/eui | 565 | 119 | 2 | 5 (4 %) | 54 | 0 | 249 | yes | VRT references in the repo, named by story |
+| carbon-design-system/carbon | 1512 | 395 | 2 | 63 (16 %) | 0 | 0 | 299 | yes | Chromatic |
+| adobe/react-spectrum | 939 | 127 | 0 | 23 (18 %) | 0 | 0 | 587 | yes | Chromatic |
+| chakra-ui/chakra-ui | 439 | 68 | 0 | 5 (7 %) | 0 | 132 (47) | 125 | yes | none found |
+| mantinedev/mantine | 1641 | 376 | 0 | 94 (25 %) | 0 | 0 | stories as `*.story.tsx` | yes | none found |
+| ant-design/ant-design | 2175 | 482 | 3 | 111 (23 %) | 0 | 0 | none | no | none found |
+| mui/material-ui | 1457 | 71* | 0 | 9 | 0 | 0 | none | no | Argos (screenshots outside the repo) |
+
+\* MUI styles live in component files (`styled()`), which this count misses. Shopify Polaris had 19
+commits in the year and was dropped.
+
+**Reading the table.**
+
+- *Visual-test baseline updates* are the best intent signal: the author regenerated the screenshots, so
+  the visual change was accepted.
+- *Changesets* describe the change in words, which also serves the intent judge.
+- *Reverts* and *undone changes* are the regression signal.
+- "Fixed within 14 days" only counts later fixes that touch the same style file, so it is an upper bound.
+
+Primer React and EUI have the most evidence and run first. Carbon and React Spectrum use Chromatic,
+whose accept/deny decisions would be ideal labels but are not in the repository.
+
+**Pipeline** (`learn/public/`):
+
+- `repos.json`: how to build each library: install command, the Storybook config and the stories
+  pattern to narrow, extra patches, the Node version, and which files count as styles and as visual
+  baselines.
+- `walk.js`: for each commit on `main` that changes styles, it:
+  1. builds the Storybook of the commit and of its parent, with only the stories of the components the
+     commit touched (about a minute each instead of three);
+  2. serves both builds and runs `uihash pr` in `quick` mode on up to 24 stories, each as loaded and
+     with forced hover and focus;
+  3. keeps `summary.json` and `meta.json` (subject, PR number, files, changeset text, baselines updated).
+
+  Primer's CSS-module names carry a content hash, which would make every element look new. The build
+  patch drops it.
+- `label.js`: labels from the evidence, rerun after every walk, because later commits change earlier
+  labels:
+
+  | evidence | label | confidence |
+  |---|---|---|
+  | reverted later | 1, all findings | 0.9 |
+  | a later commit undid some of its changes (within 60 days) | 1; undone findings are the mistake side | 0.85 when the later commit is titled as a fix, else 0.7 |
+  | visual-test baselines updated, nothing undone | 0 | 0.7 |
+  | a changeset, nothing undone | 0 | 0.6 |
+  | no evidence | none (left out of training) | |
+- `loop.sh`: each round walks the next commits of each repository, relabels, rebuilds the rows,
+  retrains, and keeps `models/<time>/{model.json, report.md, model.metrics.json}`, a `models/latest`
+  link and a line in `history.jsonl`. It sleeps when nothing is new, then picks up whatever was merged
+  meanwhile.
+
+```bash
+SYNTH=data/synth EVAL=data/real-eval PY=.venv/bin/python BATCH=4 SINCE=2025-10-01 \
+  nohup learn/public/loop.sh data/work data/public primer-react eui > loop.out 2>&1 &
+tail -f data/public/history.jsonl
+```
+
+**Cost.** Per commit: an install when the lockfile changed (50 s for Primer, 2.5 minutes for EUI), two
+narrowed builds (about a minute each) and the check (2–3 minutes). That is 15–20 commits an hour on 4
+cores, so a library's year takes about half a day, and new commits after that.
+
+**Where to run it.**
+
+- **A machine you leave on** is the simplest: the loop above.
+- **GitHub Actions** on this repository: runners are free for public repositories, and a scheduled job
+  of up to 6 hours can walk a batch every night. The data lives in a `learn-data` branch or in release
+  assets, and the job opens a PR when the promotion gate passes. Evaluation there can only use public
+  held-out PRs (the newest month); run the private set locally.
+- **A Claude Code routine** that resumes the loop nightly in a cloud session works too, but a cloud
+  session's disk does not persist, so the data still has to be pushed somewhere.
 
 ## Evaluation and guardrails
 

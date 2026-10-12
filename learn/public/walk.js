@@ -69,9 +69,17 @@ function build(sha, comps) {
     log(`  install (${sha.slice(0, 8)})`); fs.rmSync(installed, { force: true });
     sh(R.install, tree, nodeEnv()); installedLock = lock; fs.writeFileSync(installed, lock);
   }
+  // narrow the stories to the commit's components (storiesPattern: the config's stories value, or a list of
+  // the values it had over time) and apply the patches. A config the recipe does not fit fails the commit:
+  // unnarrowed or unpatched builds would check the wrong stories, or see every class name change
   const main = path.join(tree, R.storybookConfig), original = fs.readFileSync(main, 'utf8');
-  let patched = original.replace(R.storiesPattern, () => JSON.stringify(comps.map((c) => R.storyGlob.replace('{c}', c))));
-  for (const [a, b] of R.patches || []) patched = patched.split(a).join(b);
+  const pattern = [].concat(R.storiesPattern).find((p) => original.includes(p));
+  if (!pattern) throw new Error(`${R.storybookConfig} at ${sha.slice(0, 8)} has none of the recipe's storiesPattern values`);
+  let patched = original.replace(pattern, () => JSON.stringify(comps.map((c) => R.storyGlob.replace('{c}', c))));
+  for (const [a, b] of R.patches || []) {
+    if (!patched.includes(a)) throw new Error(`${R.storybookConfig} at ${sha.slice(0, 8)} lacks the recipe's patch anchor ${JSON.stringify(a.slice(0, 60))}`);
+    patched = patched.split(a).join(b);
+  }
   fs.writeFileSync(main, patched);
   try { log(`  build ${key} (${comps.join(', ')})`); sh(R.build.replace('{out}', dir), path.join(tree, R.storybookPackage), { ...nodeEnv(), NODE_OPTIONS: '--max-old-space-size=6144' }); }
   finally { fs.writeFileSync(main, original); }
@@ -94,9 +102,11 @@ function serve(dir) {
     }).listen(0, '127.0.0.1', () => ok(s));
   });
 }
+// story ids to leave out (dev-only stories); "skipStories" overrides it where a library's main story is its "Playground"
+const SKIP_STORIES = new RegExp(R.skipStories || 'playground|dev|performance|test', 'i');
 function stories(dir, max) {
   const idx = JSON.parse(fs.readFileSync(path.join(dir, 'index.json'), 'utf8'));
-  return Object.values(idx.entries).filter((e) => e.type === 'story' && !/playground|dev|performance|test/i.test(e.id)).slice(0, max);
+  return Object.values(idx.entries).filter((e) => e.type === 'story' && !SKIP_STORIES.test(e.id)).slice(0, max);
 }
 
 async function check(c, comps) {
@@ -124,7 +134,8 @@ async function check(c, comps) {
   for (const c of list) {
     if (done >= max || failedInARow >= 3 || Date.now() > until) break;
     const dir = path.join(out, c.sha);
-    if (hasSummary(dir)) continue;
+    // done: checked with the current version of the recipe (raise "version" to check again what an older one got wrong)
+    if (hasSummary(dir) && fs.existsSync(path.join(dir, 'meta.json')) && (JSON.parse(fs.readFileSync(path.join(dir, 'meta.json'), 'utf8')).recipe || 1) >= (R.version || 1)) continue;
     const attempts = fs.existsSync(path.join(dir, 'failed.json')) ? JSON.parse(fs.readFileSync(path.join(dir, 'failed.json'), 'utf8')).attempts || 1 : 0;
     if (attempts >= 2) continue;
     const comps = components(c);
@@ -143,7 +154,7 @@ async function check(c, comps) {
       fs.mkdirSync(dir, { recursive: true });
       for (const f of fs.existsSync(dir) ? fs.readdirSync(dir) : []) if (/\.(png|html)$/.test(f)) fs.unlinkSync(path.join(dir, f));
       const n = s ? s.pages.reduce((k, p) => k + p.findings.filter((f) => !f.sameAs).length, 0) : 0;
-      fs.writeFileSync(path.join(dir, 'meta.json'), JSON.stringify({ ...meta, stories: s ? s.pages.length : 0, findings: n, ms: Date.now() - t0 }, null, 1));
+      fs.writeFileSync(path.join(dir, 'meta.json'), JSON.stringify({ ...meta, recipe: R.version || 1, stories: s ? s.pages.length : 0, findings: n, ms: Date.now() - t0 }, null, 1));
       if (!s) fs.writeFileSync(path.join(dir, 'summary.json'), JSON.stringify({ pages: [] }));
       log(`  ${n} findings in ${s ? s.targets : 0} story states (${((Date.now() - t0) / 1000).toFixed(0)}s)`);
       fs.rmSync(path.join(dir, 'failed.json'), { force: true });

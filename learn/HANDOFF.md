@@ -411,11 +411,33 @@ commits in the year and was dropped.
 Primer React and EUI have the most evidence and run first. Carbon and React Spectrum use Chromatic,
 whose accept/deny decisions would be ideal labels but are not in the repository.
 
+**More libraries (second assessment, October 2026).** 32 more, measured the same way. These have a
+Storybook, so the walker needs no adapter, and evidence in the repository:
+
+| repository | style-changing | visual-test baseline updates | changesets (style PRs with one) | fixed within 14 days | stories |
+|---|---|---|---|---|---|
+| primer/brand | 107 | 98 | 145 (89) | 24 (22 %) | 156 |
+| siemens/ix | 162 | 116 | 298 (100) | 35 (22 %) | 129 |
+| vkcom/VKUI | 95 | 38 | 0 | 8 (8 %) | 149 |
+| gravity-ui/uikit | 72 | 30 | 0 | 7 (10 %) | 98 |
+| RocketChat/fuselage | 49 | 28 | 136 (39) | 6 (12 %) | 87 |
+| adobe/spectrum-web-components | 155 | 0 | 139 (75) | 44 (28 %) | 218 |
+| microsoft/fluentui | 187 | 0 | Beachball: 3,614 change files | 17 (9 %) | 1,785 |
+
+The libraries with the most evidence have no Storybook and need an adapter for their own test pages:
+porsche-design-system (1,014 style-changing commits, 310 baseline updates, 6 reverts),
+vaadin/web-components (531, 285) and ionic-framework. Dropped: gitlab-ui (archived, moved into GitLab's
+monorepo), db-ui/mono (moved; the new home has 3 stories), Paste and Orbit (about 5 commits a year on
+the default branch), and libraries with little style activity (Base Web, Garden, Spectrum CSS, Canvas
+Kit, PatternFly React, commercetools UI Kit).
+
 **Pipeline** (`learn/public/`):
 
-- `repos.json`: how to build each library: install command, the Storybook config and the stories
-  pattern to narrow, extra patches, the Node version, and which files count as styles and as visual
-  baselines.
+- `repos.json`: how to build each library, in the order the loop walks them: install command, the
+  Storybook config and its stories value to narrow (a list when it changed over time), extra patches,
+  the Node version, which story ids to skip, and which files count as styles and as visual baselines.
+  A commit whose config fits none of the stories values or lacks a patch's anchor fails, instead of
+  checking the wrong stories. Raising a library's `version` checks its commits again, after a recipe fix.
 - `walk.js`: for each commit on `main` that changes styles, it:
   1. builds the Storybook of the commit and of its parent, with only the stories of the components the
      commit touched (about a minute each instead of three);

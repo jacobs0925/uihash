@@ -16,7 +16,7 @@
 # <dataDir>/synthetic/     labelled synthetic PRs (generate.js output), trained on as well
 # <dataDir>/latest.md, history.jsonl   the last round's summary, and one line per round
 # Environment:
-#   REPOS          repositories from repos.json                                 (default: primer-react eui)
+#   REPOS          repositories from repos.json, in the order they are walked    (default: all, in file order)
 #   WALK_MINUTES   the walk's time budget; a commit in progress still finishes    (default 70)
 #   BATCH          at most this many commits per repository and round             (default: no limit)
 #   SINCE          oldest commit date to walk                                     (default 2025-10-01)
@@ -31,7 +31,7 @@
 set -u
 PHASE=$1; DATA=$2
 HERE=$(cd "$(dirname "$0")/../.." && pwd)
-read -r -a repos <<< "${REPOS:-primer-react eui}"
+read -r -a repos <<< "${REPOS:-$(node -p "Object.keys(require('$HERE/learn/public/repos.json')).join(' ')")}"
 LOGS=${LOGS:-$DATA/logs}
 mkdir -p "$DATA" "$LOGS"
 

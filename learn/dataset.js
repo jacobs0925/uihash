@@ -30,11 +30,14 @@ function rowsOf(dir, split) {
   for (const [id, d] of prsIn(dir)) {
     const L = read(path.join(d, 'label.json')), s = read(path.join(d, 'summary.json'));
     const sides = fs.existsSync(path.join(d, 'sides.json')) ? read(path.join(d, 'sides.json')) : null;
-    const kind = sides ? 'mixed' : L.label ? 'regression' : 'deliberate';
-    const rows = findingsOf(s);
+    // a side of "unknown" (a labeler knows the PR, not this finding) leaves the finding out
+    const sideOf = (sig) => (sides ? sides[sig] || 'mistake' : L.label ? 'mistake' : 'deliberate');
+    const rows = findingsOf(s).filter(({ p, f }) => sideOf(sigOf(p, f)) !== 'unknown');
+    const known = new Set(rows.map(({ p, f }) => sideOf(sigOf(p, f))));
+    const kind = known.size > 1 ? 'mixed' : L.label ? 'regression' : 'deliberate';
     for (const { p, f, x } of rows) {
       const sig = sigOf(p, f);
-      const side = sides ? sides[sig] || 'mistake' : L.label ? 'mistake' : 'deliberate';
+      const side = sideOf(sig);
       out.push({ split, set, pr: `${set}/${id}`, group: L.group || L.app || set, app: L.app || set, kind, prY: L.label, side, y: side === 'mistake' ? 1 : 0,
         w: (L.confidence === undefined ? 1 : L.confidence) / rows.length, source: L.source || '', x, sig, triage: f.triage, type: f.type,
         text: `${f.path.split(' > ').slice(-2).join(' > ')}: ${f.changes.slice(0, 2).join('; ')}`.slice(0, 200) });

@@ -516,8 +516,11 @@ three or four days, then only new commits.
 **Where it runs: GitHub Actions** (`.github/workflows/learn.yml`). Runners are free for public
 repositories.
 
-- **Schedule.** A round every two hours (`7 */2 * * *`), or on demand from the Actions tab. Rounds never
-  overlap; a late one waits for the one running.
+- **Schedule.** A round every two hours (`23 */2 * * *`), or on demand from the Actions tab. Rounds never
+  overlap; a late one waits for the one running. GitHub's scheduler is best effort. The first cron line
+  (`7 */2 * * *`) never fired in its first six hours, while manual runs worked, a problem others have
+  reported since mid-2026 with no fix from GitHub. Changing the cron line registers the schedule again.
+  If rounds still do not start on their own, start them from the Actions tab (*Run workflow*).
 - **Time budget.** About 70 minutes of walking, then a few minutes to relabel and run `weekly.js`. The
   walk takes one repository at a time, in the order of `REPOS`: it stays on a repository until every
   style-changing commit in its window (`SINCE`) is checked, then moves on to the next. Repositories that

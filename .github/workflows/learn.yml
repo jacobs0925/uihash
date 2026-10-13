@@ -14,7 +14,7 @@ name: learn
 
 on:
   schedule:
-    - cron: '7 */2 * * *'          # every two hours, a few minutes past, when the scheduler is less busy
+    - cron: '23 */2 * * *'         # every two hours, off the busy start of the hour (changed from :07, which never fired)
   workflow_dispatch:
     inputs:
       walk_minutes:

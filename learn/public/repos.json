@@ -67,7 +67,7 @@
       "bun.lockb",
       "package-lock.json"
     ],
-    "install": "npx -y bun@1.2.23 install --frozen-lockfile --ignore-scripts",
+    "install": "npx -y bun@1.2.23 install --ignore-scripts",
     "build": "npx vite build --outDir {out} --emptyOutDir",
     "pages": {
       "routes": [
@@ -102,7 +102,7 @@
       "bun.lockb",
       "package-lock.json"
     ],
-    "install": "npx -y bun@1.2.23 install --frozen-lockfile --ignore-scripts",
+    "install": "npx -y bun@1.2.23 install --ignore-scripts",
     "build": "npx vite build --mode uihash --outDir {out} --emptyOutDir",
     "pages": {
       "routes": [

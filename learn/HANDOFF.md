@@ -426,7 +426,9 @@ Storybook, so the walker needs no adapter, and evidence in the repository:
 
 The libraries with the most evidence have no Storybook and need an adapter for their own test pages:
 porsche-design-system (1,014 style-changing commits, 310 baseline updates, 6 reverts),
-vaadin/web-components (531, 285) and ionic-framework. Dropped: gitlab-ui (archived, moved into GitLab's
+vaadin/web-components (531, 285) and ionic-framework. Porsche now has one, walked last (see `pages`
+below). Its PRs land as merge commits, so the walk takes each merge as one PR: 41 merged PRs change
+styles in the window; the 1,014 counted every commit inside them. Dropped: gitlab-ui (archived, moved into GitLab's
 monorepo), db-ui/mono (moved; the new home has 3 stories), Paste and Orbit (about 5 commits a year on
 the default branch), and libraries with little style activity (Base Web, Garden, Spectrum CSS, Canvas
 Kit, PatternFly React, commercetools UI Kit).
@@ -437,7 +439,27 @@ Kit, PatternFly React, commercetools UI Kit).
   Storybook config and its stories value to narrow (a list when it changed over time), extra patches,
   the Node version, which story ids to skip, and which files count as styles and as visual baselines.
   A commit whose config fits none of the stories values or lacks a patch's anchor fails, instead of
-  checking the wrong stories. Raising a library's `version` checks its commits again, after a recipe fix.
+  checking the wrong stories (a patch marked `"optional"` is for an anchor that exists only part of the
+  time). Raising a library's `version` checks its commits again, after a recipe fix. `changesets` says
+  where a monorepo keeps its changeset files, `componentDepth` that components sit in group folders,
+  and `since` when the recipe starts to apply (Metabase builds with bun only from February 2026).
+
+  A library without a Storybook (Porsche) gives `pages` instead. Its `build` builds the whole test
+  app as a static site, about 6 minutes for Porsche, since a test app has no config to narrow. The
+  pages to check are the components' page files in the commit's tree (`pages.match`, with `{c}` for a
+  component). Each page is checked under each `pages.path` (Porsche: light and dark scheme), and so
+  is each page it shows in a frame (`pages.frames`, `pages.framePath`). `pages.spa` is the file
+  served for routes. Only pages the parent also has are checked. A commit that edits a page shows that
+  content change as well as its style change, as with stories, and `meta.files` lists the pages it edited.
+  Other fields Porsche needs:
+  - `merges`: each merge commit is one PR. Its subject is the PR title, taken from the merge message.
+  - `lockfile` as a list: the first present counts, since Porsche moved from yarn to npm in April 2026.
+  - `changelog`: the lines a PR added to a changelog file are its changeset text.
+
+  Porsche's build starts with `git clean`. Generated files left by a newer commit broke the build of
+  an older one, because `git checkout` keeps untracked files.
+- `check-recipe.js`: whether a recipe fits every version its library's Storybook config had in the
+  window, from git alone. Run it before adding or changing a recipe.
 - `walk.js`: for each commit on `main` that changes styles, it:
   1. builds the Storybook of the commit and of its parent, with only the stories of the components the
      commit touched (about a minute each instead of three);
@@ -447,6 +469,17 @@ Kit, PatternFly React, commercetools UI Kit).
 
   Primer's CSS-module names carry a content hash, which would make every element look new. The build
   patch drops it.
+
+  A commit that fails twice is skipped from then on. An attempt counts from its start, so a walk
+  stopped in the middle of a commit (a time limit, a lost machine) counts it too. While a commit is
+  checked, the walk watches the machine's memory. Below `MEM_FLOOR_MB` available (15 % of the machine's
+  by default), it gives up that commit for good and exits with status 3, and `round.sh` walks the same
+  repository on. This matters because a GitHub runner that runs out of memory is shut down, and the
+  whole round with it. Round 2 was lost that way to Primer's `TreeView` story `contain-intrinsic-size`:
+  10,000 tree items, over 460,000 elements. Under uihash's page setup it never let the renderer finish a
+  frame and grew it by about 4 GB a minute. uihash now refuses such pages. A state with more than
+  `maxElements` (50,000) elements fails to render, and a render not done in `renderTimeoutMs` (2
+  minutes) is given up and its page closed.
 - `label.js`: labels from the evidence, rerun after every walk, because later commits change earlier
   labels:
 
@@ -493,15 +526,19 @@ tail -f data/public/history.jsonl
 - two narrowed builds (about a minute each for Primer, 4 for EUI);
 - the check (2–3 minutes).
 
-That is 12–20 Primer commits an hour on 4 cores, and about 5 for EUI. A library's year of style
+That is 12–20 Primer commits an hour on 4 cores, and about 5 for EUI. Porsche takes about 15 minutes
+a commit: two whole-app builds of 6 minutes, then a 1–2 minute check. A library's year of style
 commits is about a day of walking. On the two-hour schedule below, Primer's and EUI's last year take
 three or four days, then only new commits.
 
 **Where it runs: GitHub Actions** (`.github/workflows/learn.yml`). Runners are free for public
 repositories.
 
-- **Schedule.** A round every two hours (`7 */2 * * *`), or on demand from the Actions tab. Rounds never
-  overlap; a late one waits for the one running.
+- **Schedule.** A round every two hours (`23 */2 * * *`), or on demand from the Actions tab. Rounds never
+  overlap; a late one waits for the one running. GitHub's scheduler is best effort. The first cron line
+  (`7 */2 * * *`) never fired in its first six hours, while manual runs worked, a problem others have
+  reported since mid-2026 with no fix from GitHub. Changing the cron line registers the schedule again.
+  If rounds still do not start on their own, start them from the Actions tab (*Run workflow*).
 - **Time budget.** About 70 minutes of walking, then a few minutes to relabel and run `weekly.js`. The
   walk takes one repository at a time, in the order of `REPOS`: it stays on a repository until every
   style-changing commit in its window (`SINCE`) is checked, then moves on to the next. Repositories that

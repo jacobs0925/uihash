@@ -83,6 +83,25 @@
     "snapshots": "\\.visual\\.spec\\.tsx?-snapshots/.*\\.png$",
     "node": "24.14.1"
   },
+  "siemens-ix": {
+    "url": "https://github.com/siemens/ix",
+    "branch": "main",
+    "lockfile": "pnpm-lock.yaml",
+    "install": "corepack pnpm install --frozen-lockfile --filter storybook-docs...",
+    "storybookPackage": "packages/storybook-docs",
+    "storybookConfig": "packages/storybook-docs/.storybook/main.ts",
+    "storiesPattern": "['../src/**/*.mdx', '../src/**/*.stories.@(js|jsx|mjs|ts|tsx)']",
+    "storyGlob": "../src/stories/**/{c}{.stories,/**/*.stories}.@(js|jsx|mjs|ts|tsx)",
+    "patches": [],
+    "build": "cd ../core && printf \"import { config as c } from './stencil.config';\\nexport const config = { ...c, outputTargets: c.outputTargets.filter((t) => ['dist', 'dist-custom-elements', 'docs-custom'].includes(t.type)) };\\n\" > stencil.walk.config.ts && npx stencil build --prod --config stencil.walk.config.ts && cd ../storybook-docs && npx storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "packages/core/src/components",
+    "skipDirs": [
+      "utils",
+      "ix-playground"
+    ],
+    "style": "\\.s?css$",
+    "snapshots": "(__screenshots__|-snapshots)/.*\\.png$"
+  },
   "vkui": {
     "url": "https://github.com/vkcom/VKUI",
     "branch": "master",
@@ -125,5 +144,236 @@
     ],
     "style": "\\.(css|scss)$",
     "snapshots": "__snapshots__/[^/]+-snapshots/[^/]+\\.png$"
+  },
+  "fuselage": {
+    "url": "https://github.com/RocketChat/fuselage",
+    "branch": "main",
+    "lockfile": "yarn.lock",
+    "install": "corepack yarn install --immutable --mode=skip-build",
+    "storybookPackage": "packages/fuselage",
+    "storybookConfig": "packages/fuselage/.storybook/main.ts",
+    "storiesPattern": "['../src/**/*.stories.{mdx,js,tsx}', '../src/**/*.mdx']",
+    "storyGlob": "../src/components/{c}/**/*.stories.{js,tsx}",
+    "patches": [
+      [
+        "reactDocgen: 'react-docgen-typescript'",
+        "reactDocgen: false"
+      ]
+    ],
+    "build": "(cd ../.. && TURBO_TELEMETRY_DISABLED=1 corepack yarn turbo run build --filter=@rocket.chat/fuselage^... --no-daemon --output-logs=errors-only) && npx storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "packages/fuselage/src/components",
+    "skipDirs": [],
+    "style": "\\.scss$",
+    "snapshots": "packages/fuselage/test/snapshots/.*\\.png$"
+  },
+  "retail-ui": {
+    "url": "https://github.com/skbkontur/retail-ui",
+    "branch": "master",
+    "lockfile": "yarn.lock",
+    "install": "HUSKY=0 yarn install --pure-lockfile --ignore-engines --non-interactive --network-timeout 600000",
+    "storybookPackage": "packages/react-ui",
+    "storybookConfig": "packages/react-ui/.storybook/main.ts",
+    "storiesPattern": [
+      "['../components/**/!(*.docs)*.stories.tsx', '../internal/**/*.stories.tsx', '../lib/**/*.stories.tsx']",
+      "['../components/**/!(*.docs)*.stories.tsx', '../internal/**/*.stories.tsx']"
+    ],
+    "storyGlob": "../components/{c}/**/!(*.docs)*.stories.tsx",
+    "patches": [],
+    "build": "grep -qE \"key( =|:) REACT_UI_PREFIX,\" lib/theming/Emotion.ts && sed -i -E \"s/key( =|:) REACT_UI_PREFIX,/key\\\\1 'emotion',/\" lib/theming/Emotion.ts && STORYBOOK_REACT_UI_TEST=true ../../node_modules/.bin/storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "packages/react-ui/components",
+    "skipDirs": [
+      "__creevey__",
+      "__mocks__",
+      "__stories__",
+      "__tests__"
+    ],
+    "style": "\\.styles\\.tsx?$|\\.mixins\\.ts$",
+    "snapshots": "^packages/react-ui/\\.creevey/images/.*\\.png$"
+  },
+  "fluentui": {
+    "url": "https://github.com/microsoft/fluentui",
+    "branch": "master",
+    "lockfile": "yarn.lock",
+    "install": "if [ -f .yarnrc.yml ]; then corepack yarn install --immutable --mode=skip-build; else corepack yarn install --frozen-lockfile --ignore-scripts --network-timeout 600000; fi",
+    "storybookPackage": ".",
+    "storybookConfig": ".storybook/main.js",
+    "storiesPattern": "[]",
+    "storyGlob": "../packages/react-components/{c}/stories/src/**/index.stories.@(ts|tsx)",
+    "patches": [
+      [
+        "reactDocgen: 'react-docgen-typescript'",
+        "reactDocgen: false"
+      ],
+      [
+        "module.exports = /** @type {import('./types').StorybookConfig} */ ({",
+        "module.exports = (c => ({ ...c, addons: c.addons.filter(a => !String((a && a.name) || a).includes('export-to-sandbox')) }))(/** @type {import('./types').StorybookConfig} */ ({"
+      ],
+      [
+        "\n});",
+        "\n}));"
+      ],
+      [
+        "registerTsPaths({ config, configFile: tsConfigPath });",
+        "registerTsPaths({ config, configFile: tsConfigPath });\n    const deprecatedDir = path.resolve(__dirname, '../packages/react-components/deprecated');\n    for (const d of fs.existsSync(deprecatedDir) ? fs.readdirSync(deprecatedDir) : []) {\n      const src = ['src', 'library/src'].map(s => path.join(deprecatedDir, d, s, 'index.ts')).find(p => fs.existsSync(p));\n      if (src) config.resolve.alias = { ...config.resolve.alias, ['@fluentui/' + d + '$']: src };\n    }"
+      ]
+    ],
+    "build": "find node_modules -maxdepth 6 -path '*/@griffel/core/constants.*js' -not -name '*.map' -exec sed -i -e \"s/^const HASH_PREFIX = 'f';/const HASH_PREFIX = '_f';/\" -e \"s/^const RESET_HASH_PREFIX = 'r';/const RESET_HASH_PREFIX = '_r';/\" {} + && find node_modules -maxdepth 6 -path '*/@griffel/core/constants.*js' -not -name '*.map' -exec grep -l \"^const HASH_PREFIX = '_f';\" {} + | grep -q . && npx storybook build -c .storybook --quiet --disable-telemetry -o {out}",
+    "componentRoot": "packages/react-components",
+    "skipDirs": [
+      "deprecated",
+      "recipes",
+      "react-components",
+      "react-tabster",
+      "react-utilities",
+      "react-theme-sass",
+      "react-storybook-addon",
+      "react-storybook-addon-export-to-sandbox",
+      "react-storybook-addon-playground",
+      "react-conformance-griffel",
+      "babel-preset-global-context",
+      "babel-preset-storybook-full-source",
+      "eslint-plugin-react-components",
+      "theme-designer",
+      "react-jsx-runtime",
+      "react-portal-compat",
+      "react-portal-compat-context",
+      "react-context-selector",
+      "priority-overflow",
+      "keyboard-keys",
+      "global-context",
+      "react-colorpicker-compat"
+    ],
+    "style": "\\.styles\\.tsx?$|[a-z]Styles?\\.ts$",
+    "snapshots": "^$"
+  },
+  "spectrum-web-components-2nd-gen": {
+    "url": "https://github.com/adobe/spectrum-web-components",
+    "branch": "main",
+    "lockfile": "yarn.lock",
+    "install": "corepack yarn install --immutable",
+    "storybookPackage": "2nd-gen/packages/swc",
+    "storybookConfig": "2nd-gen/packages/swc/.storybook/main.ts",
+    "storiesPattern": "export default config;",
+    "storyGlob": "../components/{c}/**/*.stories.ts",
+    "patches": [
+      [
+        "[\"../components/",
+        "export default { ...config, stories: [\"../components/"
+      ],
+      [
+        ".stories.ts\"]",
+        ".stories.ts\"] };"
+      ],
+      [
+        "resolve(__dirname, './addons/screen-reader-addon')",
+        "...[]",
+        "optional"
+      ]
+    ],
+    "build": "corepack yarn analyze && npx storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "2nd-gen/packages/swc/components",
+    "skipDirs": [],
+    "style": "\\.css$",
+    "snapshots": "^$",
+    "node": "nvmrc",
+    "changesets": "^(2nd-gen/)?\\.changeset/(?!README\\.md$)[^/]+\\.md$"
+  },
+  "spectrum-web-components": {
+    "url": "https://github.com/adobe/spectrum-web-components",
+    "branch": "main",
+    "lockfile": "yarn.lock",
+    "install": "corepack yarn install --immutable",
+    "storybookPackage": "gen2/packages/swc",
+    "storybookConfig": "gen2/packages/swc/.storybook/main.ts",
+    "storiesPattern": "export default config;",
+    "storyGlob": "../components/{c}/**/*.stories.ts",
+    "patches": [
+      [
+        "[\"../components/",
+        "export default { ...config, stories: [\"../components/"
+      ],
+      [
+        ".stories.ts\"]",
+        ".stories.ts\"] };"
+      ],
+      [
+        "resolve(__dirname, './addons/screen-reader-addon')",
+        "...[]",
+        "optional"
+      ]
+    ],
+    "build": "corepack yarn analyze && npx storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "gen2/packages/swc/components",
+    "skipDirs": [],
+    "style": "\\.css$",
+    "snapshots": "^$",
+    "node": "nvmrc",
+    "changesets": "^(gen2/)?\\.changeset/(?!README\\.md$)[^/]+\\.md$"
+  },
+  "metabase": {
+    "url": "https://github.com/metabase/metabase",
+    "branch": "master",
+    "lockfile": "bun.lock",
+    "install": "HUSKY=0 npx -y bun@$(node -p \"require('./package.json').packageManager.split('@')[1]\") install --frozen-lockfile --ignore-scripts && npx patch-package",
+    "storybookPackage": ".",
+    "storybookConfig": ".storybook/main.ts",
+    "storiesPattern": "export default config;",
+    "storyGlob": "../frontend/src/metabase/ui/components/{c}/**/*.stories.@(ts|tsx)",
+    "patches": [
+      [
+        "[\"../frontend/src/metabase/ui/components/",
+        "config.stories = [\"../frontend/src/metabase/ui/components/"
+      ],
+      [
+        ".stories.@(ts|tsx)\"]",
+        ".stories.@(ts|tsx)\"];\n// uihash: the app's ClojureScript output (target/cljs_dev) is not built; every cljs/* import resolves to an inert stub\nrequire(\"fs\").mkdirSync(require(\"path\").resolve(__dirname, \"../target\"), { recursive: true });\nrequire(\"fs\").writeFileSync(require(\"path\").resolve(__dirname, \"../target/cljs-stub.cjs\"), \"var p = new Proxy(function () {}, { get: function (t, k) { return k === 'then' || k === '__esModule' ? undefined : k === Symbol.toPrimitive ? function () { return ''; } : k === Symbol.iterator ? function () { return [][Symbol.iterator](); } : p; }, apply: function () { return p; }, construct: function () { return p; } }); module.exports = p;\");\nexport default config;"
+      ],
+      [
+        "new webpack.ProvidePlugin({",
+        "new webpack.NormalModuleReplacementPlugin(/^cljs\\//, require(\"path\").resolve(__dirname, \"../target/cljs-stub.cjs\")),\n        new webpack.ProvidePlugin({"
+      ]
+    ],
+    "build": "npx storybook build --quiet --disable-telemetry -o {out}",
+    "componentRoot": "frontend/src/metabase/ui/components",
+    "componentDepth": 2,
+    "skipDirs": [
+      "theme"
+    ],
+    "style": "\\.css$|\\.config\\.tsx?$",
+    "snapshots": "^\\.loki/reference/.*\\.png$",
+    "since": "2026-02-11"
+  },
+  "porsche": {
+    "url": "https://github.com/porsche-design-system/porsche-design-system",
+    "branch": "main",
+    "merges": true,
+    "lockfile": [
+      "package-lock.json",
+      "yarn.lock"
+    ],
+    "install": "if [ -f package-lock.json ]; then git clean -ffdxq && npm run --silent preinstall && HUSKY=0 PUPPETEER_SKIP_DOWNLOAD=1 CYPRESS_INSTALL_BINARY=0 PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1 npm ci --no-audit --no-fund --loglevel=error; else yarn run --silent preinstall && HUSKY=0 PUPPETEER_SKIP_DOWNLOAD=1 CYPRESS_INSTALL_BINARY=0 PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1 yarn install --cache-folder ../yarn-cache --frozen-lockfile --ignore-engines --non-interactive --network-timeout 600000; fi",
+    "node": "24.14.1",
+    "pages": {
+      "match": "^packages/components-js/src/pages/({c}(?:-\\d+)?)\\.html$",
+      "path": [
+        "$1?scheme=light",
+        "$1?scheme=dark"
+      ],
+      "frames": "<iframe[^>]*\\ssrc=\"/([a-z0-9-]+)\\?iframe=true[^\"]*\"",
+      "framePath": [
+        "$1?iframe=true&scheme=light",
+        "$1?iframe=true&scheme=dark"
+      ],
+      "spa": "index.html"
+    },
+    "build": "set -e\ngit clean -ffdxq -e node_modules\nif [ -f package-lock.json ]; then npm run --silent preinstall; else yarn run --silent preinstall; fi\nnpm run build:core-dependencies\nnpm run build:components\nif grep -q '\"build:examples:projects\"' package.json; then npm run build:examples:projects; fi\nif grep -q '\"build:skills\"' package.json; then npm run build:skills; fi\nif grep -q '\"build:skill\"' package.json; then npm run build:skill; fi\nnpm run build:components-js\ngrep -q \"'http://localhost:3001/components'\" packages/components-js/projects/components-wrapper/environment.ts\nrm -rf {out} && mkdir -p {out} && cp -r packages/components-js/dist/demo-app/. {out}/ && cp -r packages/assets/cdn {out}/cdn && cp -r packages/shared/dist/dummyassets {out}/dummyassets\ngrep -rlE 'http://localhost:300[12]' {out} | xargs sed -i -e 's#http://localhost:3001#/cdn#g' -e 's#http://localhost:3002#/dummyassets#g'",
+    "componentRoot": "packages/components/src/components",
+    "skipDirs": [
+      "common",
+      "__snapshots__"
+    ],
+    "style": "-styles\\.ts$",
+    "snapshots": "^packages/components-js/tests/vrt/specs/__screenshots__/.*\\.png$",
+    "changelog": "^packages/components/CHANGELOG\\.md$"
   }
 }

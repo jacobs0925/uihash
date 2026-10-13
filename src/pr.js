@@ -37,7 +37,7 @@ const { trees, collapsed, drifted, split, hoverLost, stateEffects, statesLost } 
 // otherwise prefer reduced motion), { name: 'high-contrast', forcedColors: 'active' }. viewports may
 // emulate devices: { name: 'phone', width: 390, height: 844, deviceScaleFactor: 3, isMobile: true, hasTouch: true }.
 const DEFAULTS = { runs: 6, viewport: { width: 1280, height: 800 }, keys: 'class', concurrency: 4, freezeTime: '2026-01-15T12:00:00Z', seedRandom: 42, networkIdleMs: 150,
-  pseudoStates: ['hover', 'focus'], media: [] };
+  pseudoStates: ['hover', 'focus'], media: [], maxElements: 50000, renderTimeoutMs: 120000 };
 
 // Bump when extraction or canonicalization changes what a schema means: cached base calibrations
 // from an older version are then not reused.
@@ -96,13 +96,21 @@ async function render(browser, cfg, baseUrl, t, i, withScreenshot, inspect, o = 
     ru.on('CSS.styleSheetAdded', (e) => sheets.add(e.header.styleSheetId));
     await ru.send('DOM.enable'); await ru.send('CSS.enable'); await ru.send('CSS.startRuleUsageTracking');
   }
-  try {
+  // extraction keeps every element's styles and box, so a page of hundreds of thousands of elements (a
+  // stress-test story) fails to render instead, checked once loaded and again before capture: one such page
+  // never let the renderer finish a frame, and grew it by gigabytes a minute
+  const sizeCheck = async () => {
+    const n = cfg.maxElements ? await page.evaluate(() => document.getElementsByTagName('*').length) : 0;
+    if (n > cfg.maxElements) throw new Error(`the page has ${n} elements, more than maxElements (${cfg.maxElements})`);
+  };
+  const work = (async () => {
     const quiet = trackNetwork(page);
     if (t.emulate) await page.emulateMedia(Object.fromEntries(Object.entries(t.emulate).filter(([, v]) => v !== undefined)));
     const url = new URL(t.path.replace(/\{i\}/g, String(i)), baseUrl).href;
     const resp = await page.goto(url, { waitUntil: 'load', timeout: 60000 });
     if (resp && resp.status() >= 400) throw new Error(`HTTP ${resp.status()} for ${url}`);
     await quiet(cfg.networkIdleMs);
+    await sizeCheck();
     // actions, in order: a selector to click; 'hover:<selector>' moves the mouse over an element (JS
     // hover handlers run); 'right:<selector>' right-clicks (context menus); { fill: <selector>, value }
     // types into a field; '@hover' / '@focus' / ... forces that pseudo-class once the rest is done
@@ -119,6 +127,7 @@ async function render(browser, cfg, baseUrl, t, i, withScreenshot, inspect, o = 
       await quiet(cfg.networkIdleMs);
     }
     await settle(page);
+    await sizeCheck();
     if (inspect) return await inspect(page);
     // layout shifts while the page loaded (Layout Instability API; shifts right after input excluded)
     const shifts = withScreenshot ? await page.evaluate(() => new Promise((done) => {
@@ -183,7 +192,14 @@ async function render(browser, cfg, baseUrl, t, i, withScreenshot, inspect, o = 
     const extra = o.after ? await o.after(page, snap) : undefined;
     if (forced) await forced.cdp.detach().catch(() => {});
     return { snap, png, url, extra };
-  } finally { await ctx.close(); }
+  })();
+  // and a render that has not finished after renderTimeoutMs is given up: closing its context ends the
+  // renderer, whatever the page is doing (a page that never settles would hold it, and its memory, for good)
+  work.catch(() => {});
+  let timer;
+  const limit = cfg.renderTimeoutMs ?? 120000;
+  const late = new Promise((_, no) => { if (limit) timer = setTimeout(() => no(new Error(`the page did not render within ${limit / 1000} s (renderTimeoutMs)`)), limit); });
+  try { return await Promise.race([work, late]); } finally { clearTimeout(timer); await ctx.close(); }
 }
 
 // Widths a PR's media-query changes apply to. Media blocks (condition + rule hash) of the base and head

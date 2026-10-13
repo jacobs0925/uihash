@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "a09a60cb8218adf8fe2ab71e46da76fbf8331bc6",
+ "parent": "c422ab76fc2bb47187b50f06f64f2041f59b6ad7",
+ "date": "2026-03-11",
+ "subject": "fix(SelectPanel): account for iOS safe-area-inset-bottom in fullscreen-on-narrow mode (#7654)",
+ "pr": "7654",
+ "components": [
+  "Overlay"
+ ],
+ "files": [
+  ".changeset/select-panel-ios-safe-area.md",
+  "packages/react/src/Overlay/Overlay.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nSelectPanel: use `100dvh` and `env(safe-area-inset-bottom)` in fullscreen-on-narrow mode to prevent content from being obscured by iOS Safari's browser chrome.\n",
+ "recipe": 1,
+ "stories": 24,
+ "findings": 0,
+ "ms": 130845
+}

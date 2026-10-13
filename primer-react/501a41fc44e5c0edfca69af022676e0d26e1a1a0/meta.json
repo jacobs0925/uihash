@@ -1,0 +1,26 @@
+{
+ "repo": "primer-react",
+ "sha": "501a41fc44e5c0edfca69af022676e0d26e1a1a0",
+ "parent": "cc7e10e7c0bee7ef9694ca94928446f704ada552",
+ "date": "2025-12-30",
+ "subject": "perf(Dialog): Replace body:has() with direct class and scope footer selector (#7329)",
+ "pr": "7329",
+ "components": [
+  "Dialog"
+ ],
+ "files": [
+  ".changeset/perf-dialog-has-selector.md",
+  "packages/react/src/Dialog/Dialog.module.css",
+  "packages/react/src/Dialog/Dialog.test.tsx",
+  "packages/react/src/Dialog/Dialog.tsx",
+  "packages/react/src/FeatureFlags/DefaultFeatureFlags.ts",
+  "packages/react/src/FeatureFlags/FeatureFlags.tsx",
+  "packages/react/src/FeatureFlags/__tests__/FeatureFlags.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nperf(Dialog): Add feature flag for CSS :has() selector performance optimization\n\n- Add `primer_react_css_has_selector_perf` feature flag (default: false)\n- When flag is OFF: uses legacy `body:has(.Dialog.DisableScroll)` selector\n- When flag is ON: uses optimized direct `body[data-dialog-scroll-disabled]` data attribute with ref counting\n- Enables gradual rollout and easy rollback of performance optimization\n",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 0,
+ "ms": 132439
+}

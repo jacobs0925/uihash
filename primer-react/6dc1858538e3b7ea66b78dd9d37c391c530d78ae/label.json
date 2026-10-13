@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "6dc1858538e3b7ea66b78dd9d37c391c530d78ae",
+ "date": "2026-02-19",
+ "pr": "7556",
+ "title": "perf(ActionList): replace :has([aria-disabled]) with data-is-disabled attribute (#7556)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "perf(ActionList): replace `:has([aria-disabled])` child scan with `data-is-disabled` attribute for faster style recalculation"
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "primer-react",
+ "sha": "b492cc82efdb68189a070dfa7fcd88f18cc9d7b4",
+ "parent": "f05fcacedafe8a9a1af9caa6a762403d47851250",
+ "date": "2026-03-25",
+ "subject": "fix(Button): Apply inline-flex display to loading wrapper for link variant (#7690)",
+ "pr": "7690",
+ "components": [
+  "Button"
+ ],
+ "files": [
+  ".changeset/fix-link-loading-wrapper.md",
+  "packages/react/src/Button/ButtonBase.module.css",
+  "packages/react/src/Button/ButtonBase.tsx",
+  "packages/react/src/Button/__tests__/Button.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nfix(Button): Apply inline-flex display to loading wrapper for link variant buttons\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 100173
+}

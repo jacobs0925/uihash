@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "4072e44c74056b7a4e81bd8bba276c165a71c4ba",
+ "date": "2026-01-12",
+ "pr": "7445",
+ "title": "Remove content-visibility from dragging elements (#7445)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Fixed a bug where scroll might jump when resizing by removing content-visibility from dragging elements in PageLayout."
+}

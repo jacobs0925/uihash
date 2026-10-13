@@ -1,0 +1,25 @@
+{
+ "repo": "primer-react",
+ "sha": "2e8c70702d5096551049c29c8e79749bf63a919f",
+ "parent": "727097823422582f784674e00d3905c652d125db",
+ "date": "2026-03-11",
+ "subject": "fix(Banner): stack inline actions vertically on narrow viewports (#7625)",
+ "pr": "7625",
+ "components": [
+  "Banner"
+ ],
+ "files": [
+  ".changeset/gold-rooms-bake.md",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-ActionsInline-primer-breakpoint-xs-linux.png",
+  "e2e/components/Banner.test.ts",
+  "packages/react/src/Banner/Banner.module.css"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-ActionsInline-primer-breakpoint-xs-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': patch\n---\n\nBanner: stack inline actions vertically on narrow viewports.\n",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 0,
+ "ms": 117065
+}

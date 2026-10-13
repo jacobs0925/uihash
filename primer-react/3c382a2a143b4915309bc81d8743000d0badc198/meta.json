@@ -1,0 +1,40 @@
+{
+ "repo": "primer-react",
+ "sha": "3c382a2a143b4915309bc81d8743000d0badc198",
+ "parent": "838859d8ee2afc2afca71a28114020a14a68b297",
+ "date": "2026-01-22",
+ "subject": "Revert \"Change actionlist item inline description styling\" (#7470)",
+ "pr": "7470",
+ "components": [
+  "ActionList"
+ ],
+ "files": [
+  ".changeset/deep-impalas-wave.md",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-colorblind-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-tritanopia-linux.png",
+  "packages/react/src/ActionList/ActionList.module.css"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-colorblind-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-tritanopia-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 8,
+ "ms": 156538
+}

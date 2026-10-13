@@ -1,0 +1,26 @@
+{
+ "repo": "primer-react",
+ "sha": "a107d398e0574b5f8085485c96b27a168061eb50",
+ "parent": "4b43f575bf583e1b7fc19e38932970d66b452bf6",
+ "date": "2026-04-01",
+ "subject": "Graduate `primer_react_css_has_selector_perf` feature flag (#7633)",
+ "pr": "7633",
+ "components": [
+  "Dialog"
+ ],
+ "files": [
+  ".changeset/graduate-css-has-selector-perf-flag.md",
+  "packages/react/src/Dialog/Dialog.module.css",
+  "packages/react/src/Dialog/Dialog.test.tsx",
+  "packages/react/src/Dialog/Dialog.tsx",
+  "packages/react/src/FeatureFlags/DefaultFeatureFlags.ts",
+  "packages/react/src/FeatureFlags/FeatureFlags.tsx",
+  "packages/react/src/FeatureFlags/__tests__/FeatureFlags.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nGraduate `primer_react_css_has_selector_perf` feature flag: the CSS `:has()` performance optimization (`body[data-dialog-scroll-disabled]`) is now the default behavior for Dialog scroll disabling\n",
+ "recipe": 1,
+ "stories": 42,
+ "findings": 6,
+ "ms": 127611
+}

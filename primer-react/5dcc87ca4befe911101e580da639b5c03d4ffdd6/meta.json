@@ -1,0 +1,27 @@
+{
+ "repo": "primer-react",
+ "sha": "5dcc87ca4befe911101e580da639b5c03d4ffdd6",
+ "parent": "3f4462f54b3e9cc23206ed75b4c91139c8c4268c",
+ "date": "2025-12-15",
+ "subject": "Improve PageLayout pane drag performance with pointer capture and GPU-accelerated transforms (#7307)",
+ "pr": "7307",
+ "components": [
+  "PageLayout"
+ ],
+ "files": [
+  ".changeset/shiny-buckets-study.md",
+  "e2e/components/Axe.test.ts",
+  "packages/react/src/PageLayout/PageLayout.module.css",
+  "packages/react/src/PageLayout/PageLayout.performance.stories.tsx",
+  "packages/react/src/PageLayout/PageLayout.test.tsx",
+  "packages/react/src/PageLayout/PageLayout.tsx",
+  "packages/react/src/PageLayout/usePaneWidth.test.ts",
+  "packages/react/src/PageLayout/usePaneWidth.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nreapplies PageLayout resizable enhancements without INP drop from expensive selectors\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 7,
+ "ms": 166932
+}

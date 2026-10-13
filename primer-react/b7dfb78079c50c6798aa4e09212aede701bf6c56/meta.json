@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "b7dfb78079c50c6798aa4e09212aede701bf6c56",
+ "parent": "8550be3fee9cc7cdf85ff99fe7850ed42b19452b",
+ "date": "2026-04-10",
+ "subject": "fix(IssueLabelToken): Fix lightness-switch formula for label text contrast (#7747)",
+ "pr": "7747",
+ "components": [
+  "Token"
+ ],
+ "files": [
+  ".changeset/fix-issue-label-token-contrast.md",
+  "packages/react/src/Token/IssueLabelToken.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@primer/react\": patch\n---\n\nFix IssueLabelToken text contrast in light theme by updating the lightness-switch formula to use a division-based approach that properly produces a binary switch value for selecting black vs white text\n",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 0,
+ "ms": 54496
+}

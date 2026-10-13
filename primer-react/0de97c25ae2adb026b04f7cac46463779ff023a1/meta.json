@@ -1,0 +1,26 @@
+{
+ "repo": "primer-react",
+ "sha": "0de97c25ae2adb026b04f7cac46463779ff023a1",
+ "parent": "d3c8fe2b5891e045568693e12224fd2ff8ad2ab5",
+ "date": "2026-05-14",
+ "subject": "Dialog: Support custom width values (#7831)",
+ "pr": "7831",
+ "components": [
+  "Dialog"
+ ],
+ "files": [
+  ".changeset/tall-impalas-wash.md",
+  "packages/react/src/Dialog/Dialog.docs.json",
+  "packages/react/src/Dialog/Dialog.features.stories.tsx",
+  "packages/react/src/Dialog/Dialog.module.css",
+  "packages/react/src/Dialog/Dialog.stories.tsx",
+  "packages/react/src/Dialog/Dialog.test.tsx",
+  "packages/react/src/Dialog/Dialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': minor\n---\n\nDialog: Support custom width values.\n",
+ "recipe": 1,
+ "stories": 42,
+ "findings": 0,
+ "ms": 123169
+}

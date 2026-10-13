@@ -1,0 +1,45 @@
+{
+ "repo": "primer-react",
+ "sha": "dceb79c5e0f8ab5c25bbc9727bc3207fb77d520e",
+ "parent": "3e61f8325dd8596b9478b28c370860a97b46e48a",
+ "date": "2026-03-17",
+ "subject": "AnchoredOverlay: Add support for CSS anchor positioning PR (Reverted) (#7661)",
+ "pr": "7661",
+ "components": [
+  "AnchoredOverlay",
+  "Overlay"
+ ],
+ "files": [
+  ".changeset/nine-buttons-lose.md",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Anchor-Alignment-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Anchor-Position-Grid-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Fullscreen-Variant-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Offset-Alignment-From-Anchor-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Offset-Position-From-Anchor-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Scroll-With-Anchor-light-css-anchor-positioning-linux.png",
+  "package-lock.json",
+  "packages/react/package.json",
+  "packages/react/src/ActionMenu/ActionMenu.examples.stories.tsx",
+  "packages/react/src/ActionMenu/ActionMenu.test.tsx",
+  "packages/react/src/ActionMenu/ActionMenu.tsx",
+  "packages/react/src/AnchoredOverlay/AnchoredOverlay.module.css",
+  "packages/react/src/AnchoredOverlay/AnchoredOverlay.test.tsx",
+  "packages/react/src/AnchoredOverlay/AnchoredOverlay.tsx",
+  "packages/react/src/FeatureFlags/DefaultFeatureFlags.ts",
+  "packages/react/src/Overlay/Overlay.module.css",
+  "packages/react/src/Overlay/Overlay.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Anchor-Alignment-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Anchor-Position-Grid-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Fullscreen-Variant-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Offset-Alignment-From-Anchor-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Offset-Position-From-Anchor-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Scroll-With-Anchor-light-css-anchor-positioning-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': minor\n---\n\nAnchoredOverlay: Add CSS Anchor Positioning to `AnchoredOverlay` (under a feature flag)\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 169967
+}

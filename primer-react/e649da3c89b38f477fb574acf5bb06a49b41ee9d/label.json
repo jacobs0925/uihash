@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "e649da3c89b38f477fb574acf5bb06a49b41ee9d",
+ "date": "2026-03-03",
+ "pr": "7588",
+ "title": "Update to latest primitives version and add visual fix for toggleSwitch (#7588)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "1982 visual-test baselines updated"
+}

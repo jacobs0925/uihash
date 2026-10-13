@@ -1,0 +1,31 @@
+{
+ "repo": "primer-react",
+ "sha": "b288d6e2dc9d1eef345ef4d16f6b0fba4f165955",
+ "parent": "e974d9f6d156805dbda9639a3fe6091a02a1a754",
+ "date": "2026-04-22",
+ "subject": "Card: Add borderRadius prop (#7763)",
+ "pr": "7763",
+ "components": [
+  "Card"
+ ],
+ "files": [
+  ".changeset/swift-grapes-warn.md",
+  ".playwright/snapshots/components/SideNav.test.ts-snapshots/SideNav-Lightweight-Variant-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SideNav.test.ts-snapshots/SideNav-Lightweight-Variant-light-high-contrast-linux.png",
+  "packages/react/.storybook/primitives-v8.css",
+  "packages/react/src/Card/Card.docs.json",
+  "packages/react/src/Card/Card.module.css",
+  "packages/react/src/Card/Card.stories.tsx",
+  "packages/react/src/Card/Card.test.tsx",
+  "packages/react/src/Card/Card.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/SideNav.test.ts-snapshots/SideNav-Lightweight-Variant-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SideNav.test.ts-snapshots/SideNav-Lightweight-Variant-light-high-contrast-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': minor\n---\n\nAdd borderRadius prop to Card component.\n",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 33494
+}

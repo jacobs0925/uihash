@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "7e108fea1a9f92ce22f46ff1d55bfe4753d89ad8",
+ "date": "2026-03-06",
+ "pr": "7529",
+ "title": "Add keyboard-accessible tooltip for truncated ActionList.Description (#7529)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "27 visual-test baselines updated"
+}

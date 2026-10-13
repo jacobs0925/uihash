@@ -1,0 +1,25 @@
+{
+ "repo": "primer-react",
+ "sha": "dd7bb1b0052e4afe87f395946ea48d7b3d921fe5",
+ "parent": "fe999ca362d21447506798a024ac8e1b8709399a",
+ "date": "2026-02-06",
+ "subject": "implement @primer/behaviors displayInViewport for ActionMenu (#7500)",
+ "pr": "7500",
+ "components": [
+  "ActionMenu"
+ ],
+ "files": [
+  "package-lock.json",
+  "packages/react/package.json",
+  "packages/react/src/ActionMenu/ActionMenu.examples.stories.tsx",
+  "packages/react/src/ActionMenu/ActionMenu.module.css",
+  "packages/react/src/ActionMenu/ActionMenu.tsx",
+  "packages/react/src/AnchoredOverlay/AnchoredOverlay.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 4,
+ "ms": 195736
+}

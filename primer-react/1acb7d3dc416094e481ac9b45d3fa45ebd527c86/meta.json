@@ -1,0 +1,38 @@
+{
+ "repo": "primer-react",
+ "sha": "1acb7d3dc416094e481ac9b45d3fa45ebd527c86",
+ "parent": "39c8cf30254268d770422b9d890d96da51d35d89",
+ "date": "2026-03-25",
+ "subject": "fix(FilteredActionList): prevent content-visibility from clipping item dividers (#7696)",
+ "pr": "7696",
+ "components": [
+  "FilteredActionList"
+ ],
+ "files": [
+  ".changeset/fix-select-panel-item-dividers.md",
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-Above-Tall-Body-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-Above-Tall-Body-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-Height-Initial-with-Underflowing-Items-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-Height-Initial-with-Underflowing-Items-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-Height-Variations-and-Scroll-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-Height-Variations-and-Scroll-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-With-Item-Dividers-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-With-Item-Dividers-light-high-contrast-linux.png",
+  "packages/react/src/FilteredActionList/FilteredActionList.module.css"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-Above-Tall-Body-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-Above-Tall-Body-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-Height-Initial-with-Underflowing-Items-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-Height-Initial-with-Underflowing-Items-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-Height-Variations-and-Scroll-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-Height-Variations-and-Scroll-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-With-Item-Dividers-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SelectPanel.test.ts-snapshots/SelectPanel-With-Item-Dividers-light-high-contrast-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': patch\n---\n\nFix item dividers not visible in SelectPanel and FilteredActionList when `showItemDividers` is enabled, caused by `content-visibility: auto` clipping the absolutely-positioned divider pseudo-elements.\n",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 50015
+}

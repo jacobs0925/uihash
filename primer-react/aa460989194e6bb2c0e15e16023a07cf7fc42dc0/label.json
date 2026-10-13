@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "aa460989194e6bb2c0e15e16023a07cf7fc42dc0",
+ "date": "2026-02-19",
+ "pr": "7568",
+ "title": "feat(Blankslate): Add `text-wrap: balance` to Heading and Description (#7568)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "28 visual-test baselines updated"
+}

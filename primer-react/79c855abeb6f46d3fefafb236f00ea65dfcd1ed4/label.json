@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "79c855abeb6f46d3fefafb236f00ea65dfcd1ed4",
+ "date": "2026-03-03",
+ "pr": "7617",
+ "title": "Push margin-top of TimelineBody +1px (#7617)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "63 visual-test baselines updated"
+}

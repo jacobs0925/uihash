@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "4bb66203f0e6cd5d717b27d591ec5df169c1ad1a",
+ "date": "2026-01-20",
+ "pr": "7427",
+ "title": "Change actionlist item inline description styling (#7427)",
+ "label": 1,
+ "source": "revert",
+ "confidence": 0.9,
+ "evidence": "reverted by 3c382a2a \"Revert \"Change actionlist item inline description styling\" (#7470)\""
+}

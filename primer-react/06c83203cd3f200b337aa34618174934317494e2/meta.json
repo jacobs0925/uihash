@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "06c83203cd3f200b337aa34618174934317494e2",
+ "parent": "501a41fc44e5c0edfca69af022676e0d26e1a1a0",
+ "date": "2025-12-30",
+ "subject": "ToggleSwitch: Add `overflow: hidden` to `.StatusTextItem` (#7399)",
+ "pr": "7399",
+ "components": [
+  "ToggleSwitch"
+ ],
+ "files": [
+  ".changeset/swift-keys-thank.md",
+  "packages/react/src/ToggleSwitch/ToggleSwitch.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nToggleSwitch: Adds `overflow: hidden` to `.StatusTextItem` when hidden\n",
+ "recipe": 1,
+ "stories": 33,
+ "findings": 0,
+ "ms": 107205
+}

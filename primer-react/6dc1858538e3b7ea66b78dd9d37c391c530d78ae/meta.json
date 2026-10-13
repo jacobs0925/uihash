@@ -1,0 +1,22 @@
+{
+ "repo": "primer-react",
+ "sha": "6dc1858538e3b7ea66b78dd9d37c391c530d78ae",
+ "parent": "12dda8654b07bffc33e6b8f29580914c95f3e8e2",
+ "date": "2026-02-19",
+ "subject": "perf(ActionList): replace :has([aria-disabled]) with data-is-disabled attribute (#7556)",
+ "pr": "7556",
+ "components": [
+  "ActionList"
+ ],
+ "files": [
+  ".changeset/perf-actionlist-replace-has-disabled.md",
+  "packages/react/src/ActionList/ActionList.module.css",
+  "packages/react/src/ActionList/Item.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nperf(ActionList): replace `:has([aria-disabled])` child scan with `data-is-disabled` attribute for faster style recalculation\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 7,
+ "ms": 134890
+}

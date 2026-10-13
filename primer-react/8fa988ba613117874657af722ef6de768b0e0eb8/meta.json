@@ -1,0 +1,48 @@
+{
+ "repo": "primer-react",
+ "sha": "8fa988ba613117874657af722ef6de768b0e0eb8",
+ "parent": "77735f975c71b267130899fc1fd7b47bcb5f062d",
+ "date": "2026-03-18",
+ "subject": "chore: ensure max-height does not surpass viewport height in Overlay, ActionMenu under feature flag (#7510)",
+ "pr": "7510",
+ "components": [
+  "ActionMenu",
+  "Overlay"
+ ],
+ "files": [
+  ".changeset/fuzzy-rabbits-wave.md",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-dark-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-light-colorblind-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-light-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-light-tritanopia-linux.png",
+  "e2e/components/Overlay.test.ts",
+  "packages/react/src/ActionMenu/ActionMenu.module.css",
+  "packages/react/src/ActionMenu/ActionMenu.tsx",
+  "packages/react/src/FeatureFlags/DefaultFeatureFlags.ts",
+  "packages/react/src/Overlay/Overlay.features.stories.module.css",
+  "packages/react/src/Overlay/Overlay.features.stories.tsx",
+  "packages/react/src/Overlay/Overlay.module.css",
+  "packages/react/src/Overlay/Overlay.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-dark-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-light-colorblind-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-light-linux.png",
+  ".playwright/snapshots/components/Overlay.test.ts-snapshots/Overlay-Setting-Max-Height-light-tritanopia-linux.png"
+ ],
+ "changeset": "---\n\"@primer/react\": patch\n---\n\nchore: ensure max-height does not surpass viewport height in Overlay, ActionMenu under feature flag\n\n",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 0,
+ "ms": 163878
+}

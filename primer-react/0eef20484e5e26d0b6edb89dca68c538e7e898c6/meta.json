@@ -1,0 +1,23 @@
+{
+ "repo": "primer-react",
+ "sha": "0eef20484e5e26d0b6edb89dca68c538e7e898c6",
+ "parent": "9d2cb53c06f172598dc96be11ac0441c338e5341",
+ "date": "2026-05-28",
+ "subject": "perf(Button): replace :has() icon-only-counter selector with data attribute (#7893)",
+ "pr": "7893",
+ "components": [
+  "Button"
+ ],
+ "files": [
+  ".changeset/perf-button-icon-only-counter.md",
+  "packages/react/src/Button/ButtonBase.module.css",
+  "packages/react/src/Button/ButtonBase.tsx",
+  "packages/react/src/Button/__tests__/Button.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nButton: Replace the icon-only-with-counter `:has(...):not(:has(...))` selector with a `data-icon-only-counter` attribute computed from props. Reduces style-recalculation cost on pages that render many Buttons. No visual or behavioral changes.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 102332
+}

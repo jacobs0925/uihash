@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "aef85486a77a544ab36fcc18470dc06bf2502b09",
+ "date": "2026-05-13",
+ "pr": "7816",
+ "title": "Re-add (unrevert) \"Replace ActionBar overflow calculations with CSS wrapping approach\" (#7816)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "9 visual-test baselines updated"
+}

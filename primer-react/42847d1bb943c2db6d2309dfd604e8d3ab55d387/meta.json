@@ -1,0 +1,28 @@
+{
+ "repo": "primer-react",
+ "sha": "42847d1bb943c2db6d2309dfd604e8d3ab55d387",
+ "parent": "8aed331f9dcb8c51d86bf531f7e331a6ccd23d9a",
+ "date": "2026-03-19",
+ "subject": "Update IconButton and ActionBar.IconButton to support multiple keybinding hints (#7623)",
+ "pr": "7623",
+ "components": [
+  "TooltipV2"
+ ],
+ "files": [
+  ".changeset/iconbutton-keybinding-hint-array.md",
+  "packages/react/src/ActionBar/ActionBar.stories.tsx",
+  "packages/react/src/Button/IconButton.docs.json",
+  "packages/react/src/Button/IconButton.features.stories.tsx",
+  "packages/react/src/Button/types.ts",
+  "packages/react/src/TooltipV2/Tooltip.docs.json",
+  "packages/react/src/TooltipV2/Tooltip.module.css",
+  "packages/react/src/TooltipV2/Tooltip.tsx",
+  "packages/react/src/TooltipV2/__tests__/Tooltip.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@primer/react\": minor\n---\n\n`IconButton`: `keybindingHint` now accepts `string[]` in addition to `string`. Multiple hints are rendered joined with \"or\".\n",
+ "recipe": 1,
+ "stories": 51,
+ "findings": 0,
+ "ms": 130227
+}

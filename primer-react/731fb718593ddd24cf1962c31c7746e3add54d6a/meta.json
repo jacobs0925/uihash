@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "731fb718593ddd24cf1962c31c7746e3add54d6a",
+ "parent": "5fa2dcea6307f29ecef65ee0384f8bebb5244174",
+ "date": "2026-01-26",
+ "subject": "feat(ActionList): update loading styles for specific child elements (#7468)",
+ "pr": "7468",
+ "components": [
+  "ActionList"
+ ],
+ "files": [
+  ".changeset/orange-walls-buy.md",
+  "packages/react/src/ActionList/ActionList.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@primer/react\": patch\n---\n\nfeat(ActionList): Optimizes CSS selector performance in ActionList by replacing expensive universal selectors (`*`) and broad `:has()` queries with targeted class selectors.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 121145
+}

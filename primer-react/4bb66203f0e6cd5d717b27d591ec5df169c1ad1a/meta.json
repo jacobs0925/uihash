@@ -1,0 +1,40 @@
+{
+ "repo": "primer-react",
+ "sha": "4bb66203f0e6cd5d717b27d591ec5df169c1ad1a",
+ "parent": "9a4e46cf902a5c2e046ca7771211536ae0bd08ed",
+ "date": "2026-01-20",
+ "subject": "Change actionlist item inline description styling (#7427)",
+ "pr": "7427",
+ "components": [
+  "ActionList"
+ ],
+ "files": [
+  ".changeset/deep-impalas-wave.md",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-colorblind-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-tritanopia-linux.png",
+  "packages/react/src/ActionList/ActionList.module.css"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-colorblind-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-linux.png",
+  ".playwright/snapshots/components/ActionList.test.ts-snapshots/ActionList-All-combinations-light-tritanopia-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': patch\n---\n\nChange actionlist item inline description styling from flex to block to fix overflow\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 8,
+ "ms": 162763
+}

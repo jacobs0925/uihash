@@ -1,0 +1,24 @@
+{
+ "repo": "primer-react",
+ "sha": "872bf464c0cdf2144b680ffe309ef4ad2ac1b5ac",
+ "parent": "ae65fc98200c5d813ad5d6f709d5457b3d42e6ad",
+ "date": "2026-05-06",
+ "subject": "[CSS Anchor Positioning] Ensure `AnchoredOverlay` remains in the viewport (#7802)",
+ "pr": "7802",
+ "components": [
+  "AnchoredOverlay"
+ ],
+ "files": [
+  ".changeset/social-deer-laugh.md",
+  "packages/react/src/ActionMenu/ActionMenu.dev.stories.tsx",
+  "packages/react/src/AnchoredOverlay/AnchoredOverlay.module.css",
+  "packages/react/src/AnchoredOverlay/AnchoredOverlay.test.tsx",
+  "packages/react/src/AnchoredOverlay/AnchoredOverlay.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nAnchoredOverlay: Ensure overlay fits within viewport by calculating viewport height + width (behind `primer_react_css_anchor_positioning` feature flag)",
+ "recipe": 1,
+ "stories": 63,
+ "findings": 0,
+ "ms": 167282
+}

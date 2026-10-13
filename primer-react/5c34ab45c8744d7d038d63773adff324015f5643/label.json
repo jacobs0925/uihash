@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "5c34ab45c8744d7d038d63773adff324015f5643",
+ "date": "2026-04-15",
+ "pr": "7698",
+ "title": "feat(Timeline): add variant prop to Timeline.Badge (#7698)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "19 visual-test baselines updated"
+}

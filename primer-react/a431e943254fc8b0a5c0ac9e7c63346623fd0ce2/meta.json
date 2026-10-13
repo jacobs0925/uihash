@@ -1,0 +1,25 @@
+{
+ "repo": "primer-react",
+ "sha": "a431e943254fc8b0a5c0ac9e7c63346623fd0ce2",
+ "parent": "4b7e4ca0fe1dcbb687fff94a9c8cfe6951bb08f7",
+ "date": "2026-05-06",
+ "subject": "Revert \"Replace `ActionBar` overflow calculations with CSS wrapping approach\" (#7807)",
+ "pr": "7807",
+ "components": [
+  "ActionBar"
+ ],
+ "files": [
+  ".changeset/many-suns-promise.md",
+  "e2e/components/drafts/ActionBar.test.ts",
+  "packages/react/src/ActionBar/ActionBar.examples.stories.tsx",
+  "packages/react/src/ActionBar/ActionBar.module.css",
+  "packages/react/src/ActionBar/ActionBar.test.tsx",
+  "packages/react/src/ActionBar/ActionBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 12,
+ "ms": 160427
+}

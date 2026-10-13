@@ -1,0 +1,25 @@
+{
+ "repo": "primer-react",
+ "sha": "335e9e8eedc23de3041656acffb4873cd007f698",
+ "parent": "4914cb72b42d645a2f785bb96a56390d0b339a51",
+ "date": "2025-12-11",
+ "subject": "Revert \"Revert \"Revert \"Improve PageLayout pane drag performance with pointer capture and GPU-accelerated transforms\"\"\" (#7305)",
+ "pr": "7305",
+ "components": [
+  "PageLayout"
+ ],
+ "files": [
+  ".changeset/healthy-poets-act.md",
+  "e2e/components/Axe.test.ts",
+  "packages/react/src/PageLayout/PageLayout.module.css",
+  "packages/react/src/PageLayout/PageLayout.performance.stories.tsx",
+  "packages/react/src/PageLayout/PageLayout.tsx",
+  "packages/react/src/PageLayout/__snapshots__/PageLayout.test.tsx.snap"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@primer/react\": patch\n---\n\nRevert PR #7275\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 7,
+ "ms": 188317
+}

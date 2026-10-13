@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "39a21512f71083649bdb00b1d3a6c05e40ec5bfb",
+ "date": "2026-02-23",
+ "pr": "7532",
+ "title": "perf(PageLayout): eliminate ~614ms forced reflow from getComputedStyle on mount (#7532)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "**PageLayout**: Eliminate forced reflow (~614ms) on mount by replacing `getComputedStyle` call with a pure JS viewport width check for the `--pane-max-width-diff` CSS variable."
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "81ab065b734a7d919fd9ce42cee1ced648160d12",
+ "date": "2026-02-04",
+ "pr": "7501",
+ "title": "Fix PageLayout horizontal overflow by constraining ContentWrapper width (#7501)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Fix PageLayout horizontal overflow by adding width constraint to ContentWrapper"
+}

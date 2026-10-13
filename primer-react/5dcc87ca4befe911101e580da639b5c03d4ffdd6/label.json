@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "5dcc87ca4befe911101e580da639b5c03d4ffdd6",
+ "date": "2025-12-15",
+ "pr": "7307",
+ "title": "Improve PageLayout pane drag performance with pointer capture and GPU-accelerated transforms (#7307)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "reapplies PageLayout resizable enhancements without INP drop from expensive selectors"
+}

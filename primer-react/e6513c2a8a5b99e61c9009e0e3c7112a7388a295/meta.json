@@ -1,0 +1,23 @@
+{
+ "repo": "primer-react",
+ "sha": "e6513c2a8a5b99e61c9009e0e3c7112a7388a295",
+ "parent": "63bfd67b6d3ee4c9d5c6a0c11bfeae7f0159ef5d",
+ "date": "2026-03-12",
+ "subject": "perf(Dialog): replace :has(.Footer) with data-has-footer attribute (#7599)",
+ "pr": "7599",
+ "components": [
+  "Dialog"
+ ],
+ "files": [
+  ".changeset/perf-dialog-css-has-selector.md",
+  "packages/react/src/Dialog/Dialog.module.css",
+  "packages/react/src/Dialog/Dialog.test.tsx",
+  "packages/react/src/Dialog/Dialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nperf(Dialog): replace `:has(.Footer)` with `[data-has-footer]` attribute selector for footer border detection\n",
+ "recipe": 1,
+ "stories": 42,
+ "findings": 0,
+ "ms": 117040
+}

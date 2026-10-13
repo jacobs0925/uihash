@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "1d8759aae8a3bdd1dc2b8bc8785867ca467b72b5",
+ "parent": "34612e760bb3d96d157209e4e1c1f72ada953ba6",
+ "date": "2025-12-03",
+ "subject": "Lukasoppermann/radio disabled fix (#7267)",
+ "pr": "7267",
+ "components": [
+  "Radio"
+ ],
+ "files": [
+  ".changeset/forty-aliens-shine.md",
+  "packages/react/src/Radio/Radio.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nUsed correct tokens for disabled radio control\n",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 121028
+}

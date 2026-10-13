@@ -1,0 +1,20 @@
+{
+ "repo": "primer-react",
+ "sha": "94c96a45970ad725d914d7b3436738d6bd93bd88",
+ "parent": "b9211db173841c9d9a531c777c5ce2c0cd8af60f",
+ "date": "2026-04-13",
+ "subject": "fix(ActionList): replace deprecated --control-medium-lineBoxHeight with --base-size-20 (#7749)",
+ "pr": "7749",
+ "components": [
+  "ActionList"
+ ],
+ "files": [
+  "packages/react/src/ActionList/ActionList.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 126176
+}

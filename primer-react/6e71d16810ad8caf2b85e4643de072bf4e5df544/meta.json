@@ -1,0 +1,28 @@
+{
+ "repo": "primer-react",
+ "sha": "6e71d16810ad8caf2b85e4643de072bf4e5df544",
+ "parent": "b2e0efd04c61e526d8e7db6bc773f9b4ab155d72",
+ "date": "2026-04-17",
+ "subject": "fix: correct glob ignore pattern to properly exclude color-fallbacks.json in postcss-preset-primer (#7758)",
+ "pr": "7758",
+ "components": [
+  "SelectPanel",
+  "ToggleSwitch"
+ ],
+ "files": [
+  "package-lock.json",
+  "packages/mcp/src/primitives.ts",
+  "packages/postcss-preset-primer/src/__tests__/__snapshots__/preset.test.ts.snap",
+  "packages/postcss-preset-primer/src/index.js",
+  "packages/postcss-preset-primer/src/mixins/focusOutline.css",
+  "packages/postcss-preset-primer/src/mixins/focusOutlineOnEmphasis.css",
+  "packages/react/src/SelectPanel/SelectPanel.examples.stories.module.css",
+  "packages/react/src/ToggleSwitch/ToggleSwitch.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 182598
+}

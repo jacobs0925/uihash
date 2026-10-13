@@ -1,0 +1,26 @@
+{
+ "repo": "primer-react",
+ "sha": "b9211db173841c9d9a531c777c5ce2c0cd8af60f",
+ "parent": "b7dfb78079c50c6798aa4e09212aede701bf6c56",
+ "date": "2026-04-10",
+ "subject": "chore: graduate primer_react_overlay_max_height_clamp_to_viewport (#7733)",
+ "pr": "7733",
+ "components": [
+  "ActionMenu",
+  "Overlay"
+ ],
+ "files": [
+  ".changeset/graduate-overlay-max-height-clamp.md",
+  "packages/react/src/ActionMenu/ActionMenu.module.css",
+  "packages/react/src/ActionMenu/ActionMenu.tsx",
+  "packages/react/src/FeatureFlags/DefaultFeatureFlags.ts",
+  "packages/react/src/Overlay/Overlay.module.css",
+  "packages/react/src/Overlay/Overlay.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': minor\n---\n\nOverlay: Graduate `primer_react_overlay_max_height_clamp_to_viewport` feature flag\n\nThe max-height of overlays is now clamped to the viewport height by default using `min(size, 100dvh)`. This prevents overlays from extending beyond the viewport on smaller screens.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 149230
+}

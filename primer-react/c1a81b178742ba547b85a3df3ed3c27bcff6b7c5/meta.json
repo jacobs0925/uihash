@@ -1,0 +1,47 @@
+{
+ "repo": "primer-react",
+ "sha": "c1a81b178742ba547b85a3df3ed3c27bcff6b7c5",
+ "parent": "16254891d26db45f02ecb63a7ebf07068f74a40d",
+ "date": "2026-03-30",
+ "subject": "AnchoredOverlay: Add Popover API, modifications to CSS anchor positioning (#7677)",
+ "pr": "7677",
+ "components": [
+  "AnchoredOverlay"
+ ],
+ "files": [
+  ".changeset/soft-pianos-carry.md",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-External-anchor-1-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-External-anchor-1-light-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-External-anchor-2-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-External-anchor-2-light-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-renderAnchor-1-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-renderAnchor-1-light-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-renderAnchor-2-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-renderAnchor-2-light-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Overlay-Props-Overrides-light-css-anchor-positioning-linux.png",
+  "e2e/components/AnchoredOverlay.test.ts",
+  "packages/react/src/ActionMenu/ActionMenu.test.tsx",
+  "packages/react/src/AnchoredOverlay/AnchoredOverlay.dev.stories.tsx",
+  "packages/react/src/AnchoredOverlay/AnchoredOverlay.features.stories.tsx",
+  "packages/react/src/AnchoredOverlay/AnchoredOverlay.module.css",
+  "packages/react/src/AnchoredOverlay/AnchoredOverlay.test.tsx",
+  "packages/react/src/AnchoredOverlay/AnchoredOverlay.tsx",
+  "packages/react/src/Overlay/Overlay.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-External-anchor-1-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-External-anchor-1-light-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-External-anchor-2-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-External-anchor-2-light-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-renderAnchor-1-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-renderAnchor-1-light-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-renderAnchor-2-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-renderAnchor-2-light-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Overlay-Props-Overrides-light-css-anchor-positioning-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': minor\n---\n\nAnchoredOverlay: Add Popover API to AnchoredOverlay (behind `primer_react_css_anchor_positioning` feature flag)\n",
+ "recipe": 1,
+ "stories": 60,
+ "findings": 0,
+ "ms": 135611
+}

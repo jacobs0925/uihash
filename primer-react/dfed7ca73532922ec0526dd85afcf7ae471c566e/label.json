@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "dfed7ca73532922ec0526dd85afcf7ae471c566e",
+ "date": "2026-05-13",
+ "pr": "7833",
+ "title": "Timeline: Remove border-color override from TimelineBadge variants (#7833)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "18 visual-test baselines updated"
+}

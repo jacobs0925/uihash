@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "a431e943254fc8b0a5c0ac9e7c63346623fd0ce2",
+ "date": "2026-05-06",
+ "pr": "7807",
+ "title": "Revert \"Replace `ActionBar` overflow calculations with CSS wrapping approach\" (#7807)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "overflow-x: hidden → ∅ undone by aef85486 \"Re-add (unrevert) \"Replace ActionBar overflow calculations with CSS wrapping approach\" (#7816)\"; overflow-y: hidden → ∅ undone by aef85486 \"Re-add (unrevert) \"Replace ActionBar overflow calculations with CSS wrapping approach\" (#7816)\"; height: 32px → auto undone by aef85486 \"Re-add (unrevert) \"Replace ActionBar overflow calculations with CSS wrapping approach\" (#7816)\""
+}

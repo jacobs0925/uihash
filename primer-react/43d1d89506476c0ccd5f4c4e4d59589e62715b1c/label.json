@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "43d1d89506476c0ccd5f4c4e4d59589e62715b1c",
+ "date": "2026-01-12",
+ "pr": "7431",
+ "title": "Fix positioning of Autocomplete overlay menu when tokens are present (#7431)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "18 visual-test baselines updated"
+}

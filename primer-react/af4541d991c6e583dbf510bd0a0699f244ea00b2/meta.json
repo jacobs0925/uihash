@@ -1,0 +1,25 @@
+{
+ "repo": "primer-react",
+ "sha": "af4541d991c6e583dbf510bd0a0699f244ea00b2",
+ "parent": "5043b2e07571f6a04f20e09a7f712a93ace0f869",
+ "date": "2026-05-29",
+ "subject": "perf(ActionList): replace :has() selectors with data attributes (#7894)",
+ "pr": "7894",
+ "components": [
+  "ActionList"
+ ],
+ "files": [
+  ".changeset/perf-actionlist-has-selectors.md",
+  "packages/react/src/ActionList/ActionList.module.css",
+  "packages/react/src/ActionList/Item.test.tsx",
+  "packages/react/src/ActionList/Item.tsx",
+  "packages/react/src/ActionList/TrailingAction.tsx",
+  "packages/react/src/ActionList/Visuals.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nActionList: Replace `:has(...)` selectors on `ActionList.Item`, `InactiveButtonWrap`, and `TrailingActionButton` with JS-derived data attributes (`data-has-trailing-action`, `data-trailing-action-loading`, `data-position`, `data-has-label`). Reduces style-recalculation cost on lists that render many items. No visual or behavioral changes.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 151203
+}

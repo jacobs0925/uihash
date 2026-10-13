@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "df4bd30874275245f1300573f4f4694b0be78ad5",
+ "parent": "7fdea6ff8c4902fa38f916908724469a1e1a1b33",
+ "date": "2026-01-26",
+ "subject": "Shrink gutter around dialog on very small screen heights (#7471)",
+ "pr": "7471",
+ "components": [
+  "Dialog"
+ ],
+ "files": [
+  ".changeset/lemon-pandas-buy.md",
+  "packages/react/src/Dialog/Dialog.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@primer/react\": patch\n---\n\nAdd breakpoint to shrink gutter around dialog on very small screen heights\n",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 0,
+ "ms": 133709
+}

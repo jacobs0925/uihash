@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "12dda8654b07bffc33e6b8f29580914c95f3e8e2",
+ "date": "2026-02-18",
+ "pr": "7521",
+ "title": "PageLayout: Add new layout option `PageLayout.Sidebar` (#7521)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "144 visual-test baselines updated"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "a107d398e0574b5f8085485c96b27a168061eb50",
+ "date": "2026-04-01",
+ "pr": "7633",
+ "title": "Graduate `primer_react_css_has_selector_perf` feature flag (#7633)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Graduate `primer_react_css_has_selector_perf` feature flag: the CSS `:has()` performance optimization (`body[data-dialog-scroll-disabled]`) is now the default behavior for Dialog scroll disabling"
+}

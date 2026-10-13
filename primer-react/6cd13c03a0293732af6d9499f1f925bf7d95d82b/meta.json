@@ -1,0 +1,27 @@
+{
+ "repo": "primer-react",
+ "sha": "6cd13c03a0293732af6d9499f1f925bf7d95d82b",
+ "parent": "f4418419f68587b6cda73f26f6d58ae3f3439667",
+ "date": "2026-03-30",
+ "subject": "Add 'Archived' to StateLabel (#7686)",
+ "pr": "7686",
+ "components": [
+  "StateLabel"
+ ],
+ "files": [
+  ".changeset/ready-pears-call.md",
+  "packages/react/src/StateLabel/StateLabel.docs.json",
+  "packages/react/src/StateLabel/StateLabel.features.stories.tsx",
+  "packages/react/src/StateLabel/StateLabel.figma.tsx",
+  "packages/react/src/StateLabel/StateLabel.module.css",
+  "packages/react/src/StateLabel/StateLabel.tsx",
+  "packages/react/src/StateLabel/__tests__/StateLabel.test.tsx",
+  "packages/react/src/StateLabel/__tests__/__snapshots__/StateLabel.test.tsx.snap"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': minor\n---\n\nStateLabel: Add new type: `archived`\n",
+ "recipe": 1,
+ "stories": 54,
+ "findings": 0,
+ "ms": 63930
+}

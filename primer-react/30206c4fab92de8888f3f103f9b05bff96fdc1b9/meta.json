@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "30206c4fab92de8888f3f103f9b05bff96fdc1b9",
+ "parent": "0fb25c49e112317f002afb42fb8ce2e141c5caa3",
+ "date": "2026-04-10",
+ "subject": "Update line-height to use CSS variable (#7746)",
+ "pr": "7746",
+ "components": [
+  "Token"
+ ],
+ "files": [
+  ".changeset/small-comics-kick.md",
+  "packages/react/src/Token/_TokenTextContainer.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@primer/react\": patch\n---\n\nUpdate TokenTextContainer `line-height` to use primer primitives CSS variable `var(--base-text-lineHeight-normal)`\n",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 3,
+ "ms": 60149
+}

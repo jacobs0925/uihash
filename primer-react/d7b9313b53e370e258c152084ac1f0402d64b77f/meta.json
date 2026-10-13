@@ -1,0 +1,35 @@
+{
+ "repo": "primer-react",
+ "sha": "d7b9313b53e370e258c152084ac1f0402d64b77f",
+ "parent": "efa7af8d1e628cddc2f0356de83e7af5568ff358",
+ "date": "2026-04-13",
+ "subject": "Replace polyfill with `useAnchoredPosition` (#7725)",
+ "pr": "7725",
+ "components": [
+  "AnchoredOverlay",
+  "Overlay"
+ ],
+ "files": [
+  ".changeset/eight-eagles-deny.md",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Fullscreen-Variant-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-External-anchor-2-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Overlay-Props-Overrides-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Width-light-css-anchor-positioning-linux.png",
+  "packages/react/package.json",
+  "packages/react/src/AnchoredOverlay/AnchoredOverlay.module.css",
+  "packages/react/src/AnchoredOverlay/AnchoredOverlay.tsx",
+  "packages/react/src/Overlay/Overlay.module.css",
+  "packages/react/src/Overlay/Overlay.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Fullscreen-Variant-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Multiple-Overlays-External-anchor-2-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Overlay-Props-Overrides-light-css-anchor-positioning-linux.png",
+  ".playwright/snapshots/components/AnchoredOverlay.test.ts-snapshots/AnchoredOverlay-Width-light-css-anchor-positioning-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': minor\n---\n\nAnchoredOverlay: Remove polyfill for CSS Anchor Positioning, use primer/behaviors as fallback. Ensure overlays take available space.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 176154
+}

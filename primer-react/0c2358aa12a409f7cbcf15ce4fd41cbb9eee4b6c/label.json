@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "0c2358aa12a409f7cbcf15ce4fd41cbb9eee4b6c",
+ "date": "2026-02-18",
+ "pr": "7526",
+ "title": "perf(ActionList): add content-visibility: auto to reduce style recalc and layout costs (#7526)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "17 visual-test baselines updated"
+}

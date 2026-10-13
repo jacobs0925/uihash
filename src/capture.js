@@ -22,10 +22,12 @@ async function newStablePage(browser, { width = 1280, height = 800, deviceScaleF
     locale: 'en-US', timezoneId: 'UTC', colorScheme: 'light', serviceWorkers: offline ? 'block' : 'allow',
   });
   if (offline) {
+    const local = (u) => ['127.0.0.1', 'localhost', '[::1]'].includes(u.hostname);
     await ctx.route('**/*', (r) => {
       const u = new URL(r.request().url());
-      return /^(data|blob):$/.test(u.protocol) || ['127.0.0.1', 'localhost', '[::1]'].includes(u.hostname) ? r.continue() : r.abort('blockedbyclient');
+      return /^(data|blob):$/.test(u.protocol) || local(u) ? r.continue() : r.abort('blockedbyclient');
     });
+    await ctx.routeWebSocket((u) => !local(u), (ws) => ws.close());      // never connected to the server (e.g. a backend's realtime feed)
   }
   if (freezeTime !== null || seed !== null) {
     await ctx.addInitScript(({ freezeTime, seed }) => {

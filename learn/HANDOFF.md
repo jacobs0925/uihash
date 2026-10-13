@@ -437,17 +437,19 @@ Kit, PatternFly React, commercetools UI Kit).
 had 2 in its first 57 commits. Apps built mostly by AI tools record many, and Lovable records them exactly.
 When a Lovable user goes back to an earlier version, a bot commit "Reverted to commit <sha>" restores that
 commit's files exactly (628 of 628 checked in six repositories). Every edit between the two was looked at in the
-preview and thrown away. 66 public repositories were assessed from git alone; these walk first, before the
-libraries:
+preview and thrown away. 66 public repositories were assessed from git alone; the first three walk first,
+before the libraries:
 
 | repository | what it is | commits since 2025-10 | Lovable restores | backend |
 |---|---|---|---|---|
 | pedropaulovc/el400 (MIT) | machine-tool readout simulator, one very visual page | 646 | 30 | none |
 | Louis-Maxwell/livingwitharthritis (MIT) | charity content site, 183 routes | 2,037 | 45 | none |
 | preijm/milk-me-not (MIT) | product comparison site, with Lovable's visual editor | 1,146 | 37 | Supabase (blocked) |
-| aiwebtools/aiwebtools.app-live-source-code (MIT) | AI tools directory, content in the repo | 2,057 | 79 | Supabase (blocked) |
+| aiwebtools/aiwebtools.app-live-source-code (MIT) | AI tools directory, content in the repo | 2,057 | 79 | Supabase (blocked); not walked yet |
 
-Left out: Parium2025/swipe-and-hire, the densest (419 restores in the year), which has no license, while the
+aiwebtools builds and checks (its first commits gave the expected findings), but at 7 minutes a commit: its home
+page never stops animating, so each render takes about 27 s instead of 4, two base renders differ, and tracing
+findings to CSS edits ran past the 2-minute render limit. It waits until uihash handles such pages. Left out: Parium2025/swipe-and-hire, the densest (419 restores in the year), which has no license, while the
 walk's data is public; apps whose pages need their backend (unisonOS, zivosmedia, yana-contabila, 717rec); and
 git-agent repositories (Copilot agent, Claude Code, Codex), whose reverts are fewer and harder to match. About
 22 % of Lovable restores undo an earlier restore (the person going back and forth), and many "fix" commits are
@@ -484,12 +486,14 @@ iterative tuning rather than regressions, so only restores give labels.
   - `keys: "tag"`: their styling is Tailwind class names, so elements are matched by tag. Matched by class,
     a restyled element looked removed and added; matched by tag, el400's "Move logo left" gives
     `right: 24px → 96px`.
-  - `offline: true`: uihash fails every request to another host, so a hard-coded Supabase backend, analytics
-    and web fonts are never reached and cannot make the two builds differ.
+  - `offline: true`: uihash fails every request to another host and closes every WebSocket to one before it
+    connects, so a hard-coded Supabase backend, its realtime feed, analytics and web fonts are never reached
+    and cannot make the two builds differ.
   - `restores`: the regex of the tool's restore commits (`^Reverted to commit ([0-9a-f]{7,40})$`). walk.js
     writes the first-parent order and each restore's discarded commits to `restores.json` for label.js.
   - `build`: `npx vite build` straight, which skips the repositories' pre- and post-build hooks (one pings
-    search engines); aiwebtools builds in a mode of its own (`--mode uihash`) to skip its prerender plugin.
+    search engines). A plugin that runs only in production mode (aiwebtools' prerender) is skipped with a mode
+    of the recipe's own (`--mode uihash`).
 
   Porsche's build starts with `git clean`. Generated files left by a newer commit broke the build of
   an older one, because `git checkout` keeps untracked files.

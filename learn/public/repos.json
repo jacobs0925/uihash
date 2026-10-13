@@ -93,39 +93,6 @@
     "offline": true,
     "restores": "^Reverted to commit ([0-9a-f]{7,40})$"
   },
-  "aiwebtools": {
-    "url": "https://github.com/aiwebtools/aiwebtools.app-live-source-code",
-    "branch": "main",
-    "merges": true,
-    "lockfile": [
-      "bun.lock",
-      "bun.lockb",
-      "package-lock.json"
-    ],
-    "install": "npx -y bun@1.2.23 install --ignore-scripts",
-    "build": "npx vite build --mode uihash --outDir {out} --emptyOutDir",
-    "pages": {
-      "routes": [
-        "/"
-      ],
-      "router": "src/App.tsx",
-      "spa": "index.html"
-    },
-    "componentRoot": "src",
-    "skipDirs": [
-      "integrations",
-      "test",
-      "tests",
-      "__tests__",
-      "stories",
-      "types"
-    ],
-    "style": "(?<!\\.(test|spec|stories))\\.(tsx|jsx|css)$",
-    "snapshots": "(?!)",
-    "keys": "tag",
-    "offline": true,
-    "restores": "^Reverted to commit ([0-9a-f]{7,40})$"
-  },
   "primer-react": {
     "url": "https://github.com/primer/react",
     "branch": "main",

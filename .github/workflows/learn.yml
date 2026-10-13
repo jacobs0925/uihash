@@ -1,26 +1,31 @@
-# The training loop of uihash's triage model (learn/HANDOFF.md, "Public data"), every two hours on GitHub's
-# runners. A round checks the next commits of the component libraries in learn/public/repos.json, relabels,
-# and retrains on those and the synthetic PRs with learn/weekly.js, keeping the data on the `learn-data`
-# branch. When the best candidate passes the promotion gate against learn/model.json and beats it on the
-# held-out commits (learn/public/report.js), it opens a pull request with it, or updates the open one. A
-# person merges.
+# The training loop of uihash's triage model (learn/HANDOFF.md, "Public data"), on GitHub's runners, one
+# round after another. A round takes about three hours: it checks the next commits of the component
+# libraries in learn/public/repos.json for 2 h 45 min, relabels, and retrains on those real commits alone
+# with learn/weekly.js (no synthetic PRs), keeping the data on the `learn-data` branch. When the best
+# candidate passes the promotion gate against learn/model.json and beats it on the held-out commits
+# (learn/public/report.js), it opens a pull request with it, or updates the open one. A person merges.
 #
-# Two jobs, because walking a library runs its own install scripts and builds: `collect` does that with a
+# Three jobs. Walking a library runs its own install scripts and builds, so `collect` does that with a
 # read-only token, and `publish`, which can write, runs only git and gh on the files `collect` produced.
+# `next` starts the following round when this one checked something. GitHub's scheduler started 2 of the
+# first 10 two-hourly slots, so the schedule is only a safety net that restarts the rounds if they stop
+# (a round that checked nothing, or failed): a scheduled run that arrives while rounds are going is
+# replaced by the next round in the queue, and shows as cancelled.
 #
-# Stop it any time: Actions tab → learn → ··· → Disable workflow. GitHub also pauses schedules in a public
-# repository after 60 days without activity; enable it there again.
+# Stop it: Actions tab → learn → ··· → Disable workflow. Cancelling a run stops the rounds only until the
+# schedule restarts them. GitHub also pauses schedules in a public repository after 60 days without
+# activity; enable it there again.
 name: learn
 
 on:
   schedule:
-    - cron: '23 */2 * * *'         # every two hours, off the busy start of the hour (changed from :07, which never fired)
+    - cron: '23 */6 * * *'         # the safety net: restarts the rounds if they stopped (see `next`)
   workflow_dispatch:
     inputs:
       walk_minutes:
         description: Minutes to spend checking commits
         type: number
-        default: 70
+        default: 165
 
 concurrency:
   group: learn
@@ -31,11 +36,13 @@ permissions: {}
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 115
+    timeout-minutes: 230
     permissions:
       contents: read
+    outputs:
+      checked: ${{ steps.count.outputs.checked }}
     env:
-      WALK_MINUTES: ${{ inputs.walk_minutes || '70' }}
+      WALK_MINUTES: ${{ inputs.walk_minutes || '165' }}
       COREPACK_ENABLE_DOWNLOAD_PROMPT: '0'
     steps:
       - uses: actions/checkout@v5
@@ -68,13 +75,19 @@ jobs:
           pip install -r learn/requirements.txt
 
       - name: Check new commits
-        timeout-minutes: 88
+        timeout-minutes: 195             # the walk's budget, plus the commit in progress when it runs out
         continue-on-error: true          # whatever was checked before the limit is kept
         env: { LOGS: '${{ runner.temp }}/logs' }
-        run: bash learn/public/round.sh walk data "$RUNNER_TEMP/work"
+        run: |
+          touch "$RUNNER_TEMP/walk-start"
+          bash learn/public/round.sh walk data "$RUNNER_TEMP/work"
+      - name: Count the commits checked
+        id: count
+        if: ${{ !cancelled() }}
+        run: echo "checked=$(find data -mindepth 3 -maxdepth 3 -name meta.json -newer "$RUNNER_TEMP/walk-start" | wc -l)" | tee -a "$GITHUB_OUTPUT"
       - name: Relabel, retrain and gate against learn/model.json
         if: ${{ !cancelled() }}
-        timeout-minutes: 15
+        timeout-minutes: 20
         env: { LOGS: '${{ runner.temp }}/logs', MODEL_OUT: '${{ runner.temp }}/model' }
         run: |
           bash learn/public/round.sh train data learn/model.json
@@ -154,3 +167,17 @@ jobs:
             echo "::warning::Could not open the pull request (GitHub Actions may not be allowed to create them in this repository). Open it from $url"
             echo "A better model is on the \`learn-model\` branch: [open the pull request]($url)." >> "$GITHUB_STEP_SUMMARY"
           fi
+
+  next:
+    # the following round, as soon as this one is saved: only on main, and only when this round checked
+    # something and saved it (a round that checked nothing leaves the next one to the schedule)
+    needs: [collect, publish]
+    if: ${{ !cancelled() && github.ref == 'refs/heads/main' && needs.collect.result == 'success' && needs.publish.result == 'success' && needs.collect.outputs.checked != '0' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      actions: write                   # workflow_dispatch: the one event GITHUB_TOKEN may start a run with
+    steps:
+      - name: Start the next round
+        env: { GH_TOKEN: '${{ github.token }}' }
+        run: gh workflow run learn.yml --repo "$GITHUB_REPOSITORY" --ref main

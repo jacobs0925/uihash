@@ -416,7 +416,7 @@ The details of every experiment, the negative results and the design trade-offs 
 | `experiments/` | the test suites behind the numbers above (`npm run eval:*`), and the testbed apps |
 | `src/model.js`, `src/features.js` | the learned triage model at check time, and the per-finding features it shares with training |
 | `learn/` | training, evaluation and the self-improvement loop of the triage model: generator, labelers, intent judge, gate, weekly retrain ([learn/HANDOFF.md](learn/HANDOFF.md)) |
-| `.github/workflows/learn.yml` | that loop on public component libraries, every two hours; its data is on the `learn-data` branch |
+| `.github/workflows/learn.yml` | that loop on public component libraries, one three-hour round after another; its data is on the `learn-data` branch |
 
 ## License
 

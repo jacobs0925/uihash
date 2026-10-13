@@ -426,7 +426,9 @@ Storybook, so the walker needs no adapter, and evidence in the repository:
 
 The libraries with the most evidence have no Storybook and need an adapter for their own test pages:
 porsche-design-system (1,014 style-changing commits, 310 baseline updates, 6 reverts),
-vaadin/web-components (531, 285) and ionic-framework. Dropped: gitlab-ui (archived, moved into GitLab's
+vaadin/web-components (531, 285) and ionic-framework. Porsche now has one, walked last (see `pages`
+below). Its PRs land as merge commits, so the walk takes each merge as one PR: 41 merged PRs change
+styles in the window; the 1,014 counted every commit inside them. Dropped: gitlab-ui (archived, moved into GitLab's
 monorepo), db-ui/mono (moved; the new home has 3 stories), Paste and Orbit (about 5 commits a year on
 the default branch), and libraries with little style activity (Base Web, Garden, Spectrum CSS, Canvas
 Kit, PatternFly React, commercetools UI Kit).
@@ -441,6 +443,21 @@ Kit, PatternFly React, commercetools UI Kit).
   time). Raising a library's `version` checks its commits again, after a recipe fix. `changesets` says
   where a monorepo keeps its changeset files, `componentDepth` that components sit in group folders,
   and `since` when the recipe starts to apply (Metabase builds with bun only from February 2026).
+
+  A library without a Storybook (Porsche) gives `pages` instead. Its `build` builds the whole test
+  app as a static site, about 6 minutes for Porsche, since a test app has no config to narrow. The
+  pages to check are the components' page files in the commit's tree (`pages.match`, with `{c}` for a
+  component). Each page is checked under each `pages.path` (Porsche: light and dark scheme), and so
+  is each page it shows in a frame (`pages.frames`, `pages.framePath`). `pages.spa` is the file
+  served for routes. Only pages the parent also has are checked. A commit that edits a page shows that
+  content change as well as its style change, as with stories, and `meta.files` lists the pages it edited.
+  Other fields Porsche needs:
+  - `merges`: each merge commit is one PR. Its subject is the PR title, taken from the merge message.
+  - `lockfile` as a list: the first present counts, since Porsche moved from yarn to npm in April 2026.
+  - `changelog`: the lines a PR added to a changelog file are its changeset text.
+
+  Porsche's build starts with `git clean`. Generated files left by a newer commit broke the build of
+  an older one, because `git checkout` keeps untracked files.
 - `check-recipe.js`: whether a recipe fits every version its library's Storybook config had in the
   window, from git alone. Run it before adding or changing a recipe.
 - `walk.js`: for each commit on `main` that changes styles, it:
@@ -509,7 +526,8 @@ tail -f data/public/history.jsonl
 - two narrowed builds (about a minute each for Primer, 4 for EUI);
 - the check (2–3 minutes).
 
-That is 12–20 Primer commits an hour on 4 cores, and about 5 for EUI. A library's year of style
+That is 12–20 Primer commits an hour on 4 cores, and about 5 for EUI. Porsche takes about 15 minutes
+a commit: two whole-app builds of 6 minutes, then a 1–2 minute check. A library's year of style
 commits is about a day of walking. On the two-hour schedule below, Primer's and EUI's last year take
 three or four days, then only new commits.
 

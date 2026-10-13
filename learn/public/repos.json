@@ -342,5 +342,38 @@
     "style": "\\.css$|\\.config\\.tsx?$",
     "snapshots": "^\\.loki/reference/.*\\.png$",
     "since": "2026-02-11"
+  },
+  "porsche": {
+    "url": "https://github.com/porsche-design-system/porsche-design-system",
+    "branch": "main",
+    "merges": true,
+    "lockfile": [
+      "package-lock.json",
+      "yarn.lock"
+    ],
+    "install": "if [ -f package-lock.json ]; then git clean -ffdxq && npm run --silent preinstall && HUSKY=0 PUPPETEER_SKIP_DOWNLOAD=1 CYPRESS_INSTALL_BINARY=0 PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1 npm ci --no-audit --no-fund --loglevel=error; else yarn run --silent preinstall && HUSKY=0 PUPPETEER_SKIP_DOWNLOAD=1 CYPRESS_INSTALL_BINARY=0 PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD=1 yarn install --cache-folder ../yarn-cache --frozen-lockfile --ignore-engines --non-interactive --network-timeout 600000; fi",
+    "node": "24.14.1",
+    "pages": {
+      "match": "^packages/components-js/src/pages/({c}(?:-\\d+)?)\\.html$",
+      "path": [
+        "$1?scheme=light",
+        "$1?scheme=dark"
+      ],
+      "frames": "<iframe[^>]*\\ssrc=\"/([a-z0-9-]+)\\?iframe=true[^\"]*\"",
+      "framePath": [
+        "$1?iframe=true&scheme=light",
+        "$1?iframe=true&scheme=dark"
+      ],
+      "spa": "index.html"
+    },
+    "build": "set -e\ngit clean -ffdxq -e node_modules\nif [ -f package-lock.json ]; then npm run --silent preinstall; else yarn run --silent preinstall; fi\nnpm run build:core-dependencies\nnpm run build:components\nif grep -q '\"build:examples:projects\"' package.json; then npm run build:examples:projects; fi\nif grep -q '\"build:skills\"' package.json; then npm run build:skills; fi\nif grep -q '\"build:skill\"' package.json; then npm run build:skill; fi\nnpm run build:components-js\ngrep -q \"'http://localhost:3001/components'\" packages/components-js/projects/components-wrapper/environment.ts\nrm -rf {out} && mkdir -p {out} && cp -r packages/components-js/dist/demo-app/. {out}/ && cp -r packages/assets/cdn {out}/cdn && cp -r packages/shared/dist/dummyassets {out}/dummyassets\ngrep -rlE 'http://localhost:300[12]' {out} | xargs sed -i -e 's#http://localhost:3001#/cdn#g' -e 's#http://localhost:3002#/dummyassets#g'",
+    "componentRoot": "packages/components/src/components",
+    "skipDirs": [
+      "common",
+      "__snapshots__"
+    ],
+    "style": "-styles\\.ts$",
+    "snapshots": "^packages/components-js/tests/vrt/specs/__screenshots__/.*\\.png$",
+    "changelog": "^packages/components/CHANGELOG\\.md$"
   }
 }

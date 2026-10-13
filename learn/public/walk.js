@@ -3,6 +3,7 @@
 // the commit touched), serve both and run `uihash pr` on those stories. Each commit leaves
 //   <data>/<repo>/<sha>/{meta.json, summary.json}
 // and label.js turns the evidence in meta.json and later commits into label.json (see HANDOFF.md).
+// A library without a Storybook builds its own test app instead and names the pages to check ("pages", see pageList()).
 // Usage: node learn/public/walk.js <repo name in repos.json> <workDir> <dataDir> [--since 2026-01-01] [--max 20] [--minutes 40] [--newest-first]
 // --minutes: start no new commit after that long (the one in progress finishes). Resumable: commits that
 // already have a summary (summary.json, or summary.json.gz once round.sh has compacted it) are skipped.
@@ -27,6 +28,8 @@ const git = (args, cwd = clone) => execFileSync('git', args, { cwd, encoding: 'u
 const STYLE = new RegExp(R.style), SNAP = new RegExp(R.snapshots), SRC = R.componentRoot;
 // changeset files (labelling evidence); "changesets" overrides it where a monorepo keeps them per package
 const CHANGESET = new RegExp(R.changesets || '^\\.changeset/.*\\.md$');
+// "changelog": where PRs add their entry to a changelog file instead; the lines the commit added to it are kept
+const CHANGELOG = R.changelog ? new RegExp(R.changelog) : null;
 const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
 // a repository may need its own Node version: "node": "24.19.0", or "nvmrc" for the checked-out commit's
 // .nvmrc (some repositories check the exact version). Fetched once into the work dir, put first on PATH.
@@ -46,10 +49,11 @@ function ensureClone() {
   if (!fs.existsSync(tree)) git(['worktree', 'add', '-q', '--detach', tree, `origin/${R.branch}`]);
 }
 function commits(since) {
-  // no rename detection: in a blob-less clone it fetches file contents commit by commit (minutes on a large history)
-  const raw = git(['log', '--first-parent', '--no-merges', '--no-renames', `--since=${since}`, '--format=@@%H%x09%P%x09%ad%x09%s', '--date=short', '--name-only', `origin/${R.branch}`]);
+  // no rename detection: in a blob-less clone it fetches file contents commit by commit (minutes on a large history).
+  // "merges": true where PRs land as merge commits: each merge then stands for its PR (its files against the first parent)
+  const raw = git(['log', '--first-parent', ...(R.merges ? [] : ['--no-merges']), '--no-renames', `--since=${since}`, '--format=@@%H%x09%P%x09%ad%x09%s', '--date=short', '--name-only', `origin/${R.branch}`]);
   return raw.split('@@').slice(1).map((b) => { const [h, ...files] = b.trim().split('\n'); const [sha, parents, date, subject] = h.split('\t');
-    return { sha, parent: parents.split(' ')[0], date, subject, files: files.filter(Boolean), pr: (/\(#(\d+)\)\s*$/.exec(subject) || [])[1] }; }).reverse();
+    return { sha, parent: parents.split(' ')[0], date, subject, files: files.filter(Boolean), pr: (/\(#(\d+)\)\s*$/.exec(subject) || (R.merges && /^Merge pull request #(\d+)/.exec(subject)) || [])[1] }; }).reverse();
 }
 // the component folders a commit's style changes are in: <componentRoot>/<Component>/...
 // "componentDepth": 2 where components sit in group folders (<componentRoot>/<group>/<Component>/...)
@@ -71,12 +75,20 @@ let installedLock = fs.existsSync(installed) ? fs.readFileSync(installed, 'utf8'
 function build(sha, comps) {
   const key = sha.slice(0, 10) + '-' + crypto.createHash('sha1').update(comps.join(',')).digest('hex').slice(0, 6);
   const dir = path.join(builds, key);
-  if (fs.existsSync(path.join(dir, 'index.json'))) return dir;
+  if (fs.existsSync(path.join(dir, R.pages ? 'built' : 'index.json'))) return dir;
   git(['checkout', '-q', '--detach', '--force', sha], tree);
-  const lock = crypto.createHash('sha1').update(fs.readFileSync(path.join(tree, R.lockfile))).digest('hex');
+  // "lockfile" may list several, the first present counts (a repository that changed package manager)
+  const lockfile = [].concat(R.lockfile).find((f) => fs.existsSync(path.join(tree, f))) || [].concat(R.lockfile)[0];
+  const lock = crypto.createHash('sha1').update(fs.readFileSync(path.join(tree, lockfile))).digest('hex');
   if (lock !== installedLock) {
     log(`  install (${sha.slice(0, 8)})`); fs.rmSync(installed, { force: true });
     sh(R.install, tree, nodeEnv()); installedLock = lock; fs.writeFileSync(installed, lock);
+  }
+  if (R.pages) {                            // no Storybook: the library's own test app, whole (see pageList())
+    log(`  build ${key} (whole app)`);
+    sh(R.build.split('{out}').join(dir), tree, { ...nodeEnv(), NODE_OPTIONS: '--max-old-space-size=6144' });
+    fs.writeFileSync(path.join(dir, 'built'), sha);
+    return dir;
   }
   // narrow the stories to the commit's components (storiesPattern: the config's stories value, or a list of
   // the values it had over time) and apply the patches. A config the recipe does not fit fails the commit:
@@ -101,9 +113,11 @@ function prune(keep) {
 // ------------------------------------------------------------------ serving and checking
 const TYPES = { '.html': 'text/html', '.js': 'text/javascript', '.mjs': 'text/javascript', '.css': 'text/css', '.json': 'application/json', '.svg': 'image/svg+xml', '.png': 'image/png', '.woff2': 'font/woff2', '.woff': 'font/woff' };
 function serve(dir) {
+  const spa = R.pages && R.pages.spa;
   return new Promise((ok) => {
     const s = http.createServer((q, r) => {
-      const p = path.join(dir, decodeURIComponent(q.url.split('?')[0]).replace(/\.\.+/g, ''));
+      let p = path.join(dir, decodeURIComponent(q.url.split('?')[0]).replace(/\.\.+/g, ''));
+      if (spa && !fs.existsSync(p)) p = path.join(dir, spa);
       fs.readFile(fs.existsSync(p) && fs.statSync(p).isDirectory() ? path.join(p, 'index.html') : p, (e, b) => {
         if (e) { r.writeHead(404); return r.end(); }
         r.writeHead(200, { 'content-type': TYPES[path.extname(p)] || 'application/octet-stream' }); r.end(b);
@@ -122,19 +136,47 @@ function stories(dir, max, comps = []) {
     const i = comps.findIndex((c) => (e.importPath || '').includes(`/${c}/`));
     (i < 0 ? rest : groups[i]).push(e);
   }
+  return spread(groups, rest, max);
+}
+function spread(groups, rest, max) {
   const out = [];
   for (let k = 0; out.length < max && groups.some((g) => k < g.length); k++) for (const g of groups) if (k < g.length && out.length < max) out.push(g[k]);
   return out.concat(rest).slice(0, max);
 }
+// A library without a Storybook ("pages" in its recipe): "build", run at the root with {out} the output directory,
+// builds its whole test app as a static site (a test app has no config to narrow to components the way a
+// Storybook has); a build step that depends on an anchor in a file checks it and fails (grep -q), as the Storybook
+// patches do. Its pages are files in the commit's tree: pages.match, a regex over tracked paths with {c} for a
+// component, picks a component's page files, and pages.path (one or a list, e.g. one per color scheme), with $1...
+// from the match, is each page's URL path in the build. pages.frames: a regex over a page file's content whose $1
+// names a page it shows in a frame (uihash does not look inside frames), checked too at pages.framePath. pages.spa:
+// the file served for a path that is no file (a single-page app that routes on the path). Up to max pages in turn
+// from each component, of those the parent also has; known from git alone, so a commit with none (a new
+// component) is not built
+function pageList(c, max, comps) {
+  const at = (sha) => git(['ls-tree', '-r', '--name-only', sha]).split('\n');
+  const inBase = new Set(at(c.parent)), head = at(c.sha).filter((f) => inBase.has(f));
+  const frames = (sha, f) => (R.pages.frames ? [...git(['show', `${sha}:${f}`]).matchAll(new RegExp(R.pages.frames, 'g'))].map((m) => m[1]) : []);
+  const paths = (t, name) => [].concat(t).map((p) => p.split('$1').join(name));
+  return spread(comps.map((k) => {
+    const re = new RegExp(R.pages.match.split('{c}').join(k));
+    return head.filter((f) => re.test(f)).flatMap((f) => {
+      const inParent = new Set(frames(c.parent, f));
+      return [...paths(R.pages.path, re.exec(f)[1]), ...[...new Set(frames(c.sha, f))].filter((n) => inParent.has(n)).flatMap((n) => paths(R.pages.framePath, n))];
+    }).map((p) => ({ id: p, path: p }));
+  }), [], max);
+}
 
 async function check(c, comps) {
+  const listed = R.pages && pageList(c, +opt('stories', 24), comps);
+  if (listed && !listed.length) return null;
   const base = build(c.parent, comps), head = build(c.sha, comps);
-  const list = stories(head, +opt('stories', 24), comps).filter((e) => fs.existsSync(path.join(base, 'index.json')) && JSON.parse(fs.readFileSync(path.join(base, 'index.json'), 'utf8')).entries[e.id]);
+  const list = listed || stories(head, +opt('stories', 24), comps).filter((e) => fs.existsSync(path.join(base, 'index.json')) && JSON.parse(fs.readFileSync(path.join(base, 'index.json'), 'utf8')).entries[e.id]);
   if (!list.length) return null;
   const [sb, sh2] = [await serve(base), await serve(head)];
   try {
     const config = { quick: true, runs: 2, viewport: { width: 1280, height: 800 }, keys: 'class', pseudoStates: ['hover', 'focus'],
-      pages: list.map((e) => ({ name: e.id, path: `iframe.html?id=${e.id}&viewMode=story` })) };
+      pages: list.map((e) => ({ name: e.id, path: R.pages ? e.path : `iframe.html?id=${e.id}&viewMode=story` })) };
     const dir = path.join(out, c.sha);
     return await runPR({ baseUrl: `http://127.0.0.1:${sb.address().port}/`, headUrl: `http://127.0.0.1:${sh2.address().port}/`, config, outDir: dir });
   } finally { sb.close(); sh2.close(); }
@@ -189,8 +231,11 @@ function memoryWatch(dir) {
       // Fluent UI), of which only the type and comment are kept (they also hold the author's email)
       const show = (f) => { try { return git(['show', `${c.sha}:${f}`]); } catch (e) { return ''; } };
       const beachball = (f) => { try { const j = JSON.parse(show(f)); return j.comment ? `${j.type || 'change'}: ${j.comment}` : ''; } catch (e) { return ''; } };
-      const changeset = c.files.map((f) => (CHANGESET.test(f) ? show(f) : /^change\/.*\.json$/.test(f) ? beachball(f) : '')).filter(Boolean).join('\n');
-      const meta = { repo: NAME, sha: c.sha, parent: c.parent, date: c.date, subject: c.subject, pr: c.pr, components: comps, files: c.files,
+      const added = (f) => { try { return git(['diff', '-U0', '--no-color', c.parent, c.sha, '--', f]).split('\n').filter((l) => /^\+(?!\+\+ )/.test(l)).map((l) => l.slice(1)).join('\n'); } catch (e) { return ''; } };
+      const changeset = c.files.map((f) => (CHANGESET.test(f) ? show(f) : CHANGELOG && CHANGELOG.test(f) ? added(f) : /^change\/.*\.json$/.test(f) ? beachball(f) : '')).filter(Boolean).join('\n');
+      // a merged PR's subject is "Merge pull request #N from <branch>"; its title is the first line of the body
+      const title = R.merges && /^Merge pull request #\d+/.test(c.subject) ? git(['log', '-1', '--format=%b', c.sha]).trim().split('\n')[0] : '';
+      const meta = { repo: NAME, sha: c.sha, parent: c.parent, date: c.date, subject: title ? `${title} (#${c.pr})` : c.subject, pr: c.pr, components: comps, files: c.files,
         snapshotsUpdated: c.files.filter((f) => SNAP.test(f)), changeset: changeset.slice(0, 4000) };
       const s = await check(c, comps);
       for (const f of fs.existsSync(dir) ? fs.readdirSync(dir) : []) if (/\.(png|html)$/.test(f)) fs.unlinkSync(path.join(dir, f));
@@ -202,7 +247,10 @@ function memoryWatch(dir) {
       done++; failedInARow = 0;
     } catch (e) {
       log(`  failed: ${(e.stderr || e.message || '').toString().split('\n').filter(Boolean).slice(-3).join(' | ').slice(0, 300)}`);
-      fs.writeFileSync(path.join(dir, 'failed.json'), JSON.stringify({ attempts: attempts + 1, error: String((e.stdout || '') + (e.stderr || '') + e.message).slice(-3000) }));
+      // the end of each stream, kept apart: a build's error is often on stdout, under pages of warnings on stderr
+      const tail = (t) => String(t || '').slice(-2000);
+      const error = e.stdout || e.stderr ? `${String(e.message).split('\n')[0].slice(0, 300)}\n--- stdout (end)\n${tail(e.stdout)}\n--- stderr (end)\n${tail(e.stderr)}` : String(e.stack || e.message).slice(-3000);
+      fs.writeFileSync(path.join(dir, 'failed.json'), JSON.stringify({ attempts: attempts + 1, error }));
       done++; failedInARow++;
     } finally { clearInterval(watch); }
     prune(new Set());                       // builds are per commit pair; keep the disk small

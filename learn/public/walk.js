@@ -140,6 +140,24 @@ async function check(c, comps) {
   } finally { sb.close(); sh2.close(); }
 }
 
+// Out of memory, a GitHub runner is shut down and the whole round is lost, and a commit that does it would
+// do it again every round. So while a commit is checked, below MEM_FLOOR_MB available (default: 15 % of the
+// machine's memory) the commit is given up for good and the walk exits with status 3 (its browser goes with
+// it); round.sh then walks the same repository on. Builds block the event loop and are not watched: their
+// heap is capped (NODE_OPTIONS)
+function memoryWatch(dir) {
+  const mb = (k) => { const m = new RegExp(`^${k}:\\s+(\\d+)`, 'm').exec(fs.readFileSync('/proc/meminfo', 'utf8')); return m ? +m[1] / 1024 : 0; };
+  if (!fs.existsSync('/proc/meminfo')) return null;                 // Linux only
+  const floor = +process.env.MEM_FLOOR_MB || Math.max(1000, mb('MemTotal') * 0.15);
+  return setInterval(() => {
+    const avail = mb('MemAvailable');
+    if (avail >= floor) return;
+    log(`  stopped: ${avail.toFixed(0)} MB of memory left (floor ${floor.toFixed(0)} MB); this commit is given up`);
+    fs.writeFileSync(path.join(dir, 'failed.json'), JSON.stringify({ attempts: 2, error: `out of memory: ${avail.toFixed(0)} MB left while checking this commit` }));
+    process.exit(3);
+  }, 2000);
+}
+
 (async () => {
   ensureClone();
   fs.mkdirSync(out, { recursive: true });
@@ -160,6 +178,11 @@ async function check(c, comps) {
     const comps = components(c);
     const t0 = Date.now();
     log(`${c.sha.slice(0, 8)} ${c.date} ${c.subject.slice(0, 70)} [${comps.join(', ')}]`);
+    // the attempt counts from its start: a walk stopped during the commit (a time limit, a lost machine)
+    // leaves this behind, so a commit that stops the walk twice is skipped like one that failed twice
+    fs.mkdirSync(dir, { recursive: true });
+    fs.writeFileSync(path.join(dir, 'failed.json'), JSON.stringify({ attempts: attempts + 1, error: 'the walk was stopped during this commit' }));
+    const watch = memoryWatch(dir);
     try {
       // evidence for labelling, from the commit itself (label.js adds what later commits say). What the
       // author wrote about the change: changesets (.changeset/*.md), or Beachball change files (change/*.json,
@@ -170,7 +193,6 @@ async function check(c, comps) {
       const meta = { repo: NAME, sha: c.sha, parent: c.parent, date: c.date, subject: c.subject, pr: c.pr, components: comps, files: c.files,
         snapshotsUpdated: c.files.filter((f) => SNAP.test(f)), changeset: changeset.slice(0, 4000) };
       const s = await check(c, comps);
-      fs.mkdirSync(dir, { recursive: true });
       for (const f of fs.existsSync(dir) ? fs.readdirSync(dir) : []) if (/\.(png|html)$/.test(f)) fs.unlinkSync(path.join(dir, f));
       const n = s ? s.pages.reduce((k, p) => k + p.findings.filter((f) => !f.sameAs).length, 0) : 0;
       fs.writeFileSync(path.join(dir, 'meta.json'), JSON.stringify({ ...meta, recipe: R.version || 1, stories: s ? s.pages.length : 0, findings: n, ms: Date.now() - t0 }, null, 1));
@@ -180,10 +202,9 @@ async function check(c, comps) {
       done++; failedInARow = 0;
     } catch (e) {
       log(`  failed: ${(e.stderr || e.message || '').toString().split('\n').filter(Boolean).slice(-3).join(' | ').slice(0, 300)}`);
-      fs.mkdirSync(dir, { recursive: true });
       fs.writeFileSync(path.join(dir, 'failed.json'), JSON.stringify({ attempts: attempts + 1, error: String((e.stdout || '') + (e.stderr || '') + e.message).slice(-3000) }));
       done++; failedInARow++;
-    }
+    } finally { clearInterval(watch); }
     prune(new Set());                       // builds are per commit pair; keep the disk small
   }
 })();

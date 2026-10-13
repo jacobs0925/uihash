@@ -20,6 +20,7 @@
 #   WALK_MINUTES   the walk's time budget; a commit in progress still finishes    (default 70)
 #   BATCH          at most this many commits per repository and round             (default: no limit)
 #   SINCE          oldest commit date to walk                                     (default 2025-10-01)
+#   MEM_FLOOR_MB   below this much free memory a commit is given up (walk.js)   (default 15 % of the machine's)
 #   SYNTH          labelled synthetic PRs                                         (default <dataDir>/synthetic)
 #   HOLDOUT        share of each repository's commits held out for evaluation    (default 0.2)
 #   EVAL           more labelled PRs to evaluate on, never trained on (your own, say; optional)
@@ -43,10 +44,14 @@ if [ "$PHASE" = walk ]; then
   # already used up come first each round, but only have their new commits to check.
   end=$(( $(date +%s) + ${WALK_MINUTES:-70} * 60 ))
   for r in "${repos[@]}"; do
-    minutes=$(( (end - $(date +%s)) / 60 ))
-    [ "$minutes" -gt 0 ] || break
-    echo "== $r: up to $minutes minutes"
-    node "$HERE/learn/public/walk.js" "$r" "$WORK" "$DATA" --since "${SINCE:-2025-10-01}" --minutes "$minutes" --max "${BATCH:-100000}" 2>&1 | tee -a "$LOGS/walk-$r.log"
+    while :; do
+      minutes=$(( (end - $(date +%s)) / 60 ))
+      [ "$minutes" -gt 0 ] || break 2
+      echo "== $r: up to $minutes minutes"
+      node "$HERE/learn/public/walk.js" "$r" "$WORK" "$DATA" --since "${SINCE:-2025-10-01}" --minutes "$minutes" --max "${BATCH:-100000}" 2>&1 | tee -a "$LOGS/walk-$r.log"
+      # 3: the walk gave up a commit that ran the machine out of memory, and stopped; the rest is still to walk
+      [ "${PIPESTATUS[0]}" = 3 ] || break
+    done
   done
 
 elif [ "$PHASE" = train ]; then

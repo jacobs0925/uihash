@@ -452,6 +452,17 @@ Kit, PatternFly React, commercetools UI Kit).
 
   Primer's CSS-module names carry a content hash, which would make every element look new. The build
   patch drops it.
+
+  A commit that fails twice is skipped from then on. An attempt counts from its start, so a walk
+  stopped in the middle of a commit (a time limit, a lost machine) counts it too. While a commit is
+  checked, the walk watches the machine's memory. Below `MEM_FLOOR_MB` available (15 % of the machine's
+  by default), it gives up that commit for good and exits with status 3, and `round.sh` walks the same
+  repository on. This matters because a GitHub runner that runs out of memory is shut down, and the
+  whole round with it. Round 2 was lost that way to Primer's `TreeView` story `contain-intrinsic-size`:
+  10,000 tree items, over 460,000 elements. Under uihash's page setup it never let the renderer finish a
+  frame and grew it by about 4 GB a minute. uihash now refuses such pages. A state with more than
+  `maxElements` (50,000) elements fails to render, and a render not done in `renderTimeoutMs` (2
+  minutes) is given up and its page closed.
 - `label.js`: labels from the evidence, rerun after every walk, because later commits change earlier
   labels:
 

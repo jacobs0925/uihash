@@ -1,0 +1,45 @@
+{
+ "repo": "primer-react",
+ "sha": "a193d30cad6e308e2f0cc29ebdcc926ee057f0fb",
+ "parent": "181f12e1244ea1f33559976ff16e32a1777e877d",
+ "date": "2025-12-02",
+ "subject": "Banner: Add `flush` prop for use inside dialogs, sidebars and other confined spaces (#7250)",
+ "pr": "7250",
+ "components": [
+  "Banner"
+ ],
+ "files": [
+  ".changeset/flush-banner.md",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-dark-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-light-colorblind-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-light-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-light-tritanopia-linux.png",
+  "e2e/components/Banner.test.ts",
+  "packages/react/src/Banner/Banner.docs.json",
+  "packages/react/src/Banner/Banner.features.stories.tsx",
+  "packages/react/src/Banner/Banner.module.css",
+  "packages/react/src/Banner/Banner.test.tsx",
+  "packages/react/src/Banner/Banner.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-dark-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-light-colorblind-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-light-linux.png",
+  ".playwright/snapshots/components/Banner.test.ts-snapshots/Banner-FlushInsideDialog-light-tritanopia-linux.png"
+ ],
+ "changeset": "---\n\"@primer/react\": minor\n---\n\nBanner: Add `flush` prop for use within confined spaces, such as dialogs, tables, cards, or boxes where available space is limited.\n",
+ "recipe": 1,
+ "stories": 66,
+ "findings": 0,
+ "ms": 187560
+}

@@ -1,0 +1,46 @@
+{
+ "repo": "primer-react",
+ "sha": "e5029d7b0e76a1f7da0d21db1a2f47ba114df03b",
+ "parent": "a746a83e68da54a7f66161b0f1d68bfbdc071ce6",
+ "date": "2025-11-04",
+ "subject": "Revert \"Remove deprecated underline prop from Link component\" (#7125)",
+ "pr": "7125",
+ "components": [
+  "Link"
+ ],
+ "files": [
+  ".changeset/swift-queens-smoke.md",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-colorblind-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-tritanopia-linux.png",
+  "e2e/components/Link.test.ts",
+  "packages/react/src/Link/Link.dev.stories.tsx",
+  "packages/react/src/Link/Link.docs.json",
+  "packages/react/src/Link/Link.features.stories.tsx",
+  "packages/react/src/Link/Link.module.css",
+  "packages/react/src/Link/Link.stories.tsx",
+  "packages/react/src/Link/Link.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-colorblind-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-tritanopia-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 37243
+}

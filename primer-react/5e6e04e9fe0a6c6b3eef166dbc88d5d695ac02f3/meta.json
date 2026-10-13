@@ -1,0 +1,26 @@
+{
+ "repo": "primer-react",
+ "sha": "5e6e04e9fe0a6c6b3eef166dbc88d5d695ac02f3",
+ "parent": "24b2dc2524ce46b287b3835e02e041ba29024d4d",
+ "date": "2025-11-10",
+ "subject": "StateLabel: Add size prop and deprecate variant prop (#7149)",
+ "pr": "7149",
+ "components": [
+  "StateLabel"
+ ],
+ "files": [
+  ".changeset/thin-planets-taste.md",
+  "packages/react/src/StateLabel/StateLabel.features.stories.tsx",
+  "packages/react/src/StateLabel/StateLabel.figma.tsx",
+  "packages/react/src/StateLabel/StateLabel.module.css",
+  "packages/react/src/StateLabel/StateLabel.tsx",
+  "packages/react/src/StateLabel/__tests__/StateLabel.test.tsx",
+  "packages/react/src/StateLabel/__tests__/__snapshots__/StateLabel.test.tsx.snap"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': minor\n---\n\nStateLabel: Add size prop and deprecate variant prop to align with APIs in other components.\n",
+ "recipe": 1,
+ "stories": 42,
+ "findings": 0,
+ "ms": 110346
+}

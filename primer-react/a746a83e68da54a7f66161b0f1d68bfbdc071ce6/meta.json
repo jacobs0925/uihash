@@ -1,0 +1,42 @@
+{
+ "repo": "primer-react",
+ "sha": "a746a83e68da54a7f66161b0f1d68bfbdc071ce6",
+ "parent": "fb773ada9e76d48a0fb64f489369caa9b8d7c756",
+ "date": "2025-11-04",
+ "subject": "`Timeline.break` fix when followed by condensed item (#7124)",
+ "pr": "7124",
+ "components": [
+  "Timeline"
+ ],
+ "files": [
+  ".changeset/five-lands-march.md",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-dark-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-light-colorblind-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-light-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-light-tritanopia-linux.png",
+  "packages/react/src/Timeline/Timeline.features.stories.tsx",
+  "packages/react/src/Timeline/Timeline.module.css",
+  "packages/react/src/Timeline/Timeline.stories.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-dark-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-light-colorblind-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-light-linux.png",
+  ".playwright/snapshots/components/Timeline.test.ts-snapshots/Timeline-Condensed-Items-light-tritanopia-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': patch\n---\n\nFixed Timeline.Break when followed by a condensed item and clip sidebar for condensed items.\n",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 4,
+ "ms": 48755
+}

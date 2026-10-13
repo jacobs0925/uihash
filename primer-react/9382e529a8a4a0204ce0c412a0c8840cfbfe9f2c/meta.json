@@ -1,0 +1,25 @@
+{
+ "repo": "primer-react",
+ "sha": "9382e529a8a4a0204ce0c412a0c8840cfbfe9f2c",
+ "parent": "4cf564789eb752ef1d5e4ee8c848667b0bef53f4",
+ "date": "2025-11-05",
+ "subject": "Remove use of useResponsiveValue hook - PageLayout (#7101)",
+ "pr": "7101",
+ "components": [
+  "PageLayout"
+ ],
+ "files": [
+  ".changeset/sweet-times-make.md",
+  "packages/react/src/PageLayout/PageLayout.module.css",
+  "packages/react/src/PageLayout/PageLayout.responsive.stories.tsx",
+  "packages/react/src/PageLayout/PageLayout.tsx",
+  "packages/react/src/PageLayout/__snapshots__/PageLayout.test.tsx.snap",
+  "packages/react/src/Placeholder.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nRemove use of useResponsiveValue hook - PageLayout\n",
+ "recipe": 1,
+ "stories": 42,
+ "findings": 4,
+ "ms": 210151
+}

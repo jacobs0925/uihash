@@ -1,0 +1,49 @@
+{
+ "repo": "primer-react",
+ "sha": "c07dd71e990323a1c73ec99c44752df43d153090",
+ "parent": "568a236c1ea6e9a6ebf2fec8b0897256e6a0b388",
+ "date": "2025-12-01",
+ "subject": "[a11y] When aria-disabled is set on SegmentedControl, don't allow action (#7047)",
+ "pr": "7047",
+ "components": [
+  "SegmentedControl"
+ ],
+ "files": [
+  ".changeset/strong-mangos-rest.md",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-dark-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-light-colorblind-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-light-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-light-tritanopia-linux.png",
+  "e2e/components/SegmentedControl.test.ts",
+  "packages/react/src/FeatureFlags/DefaultFeatureFlags.ts",
+  "packages/react/src/SegmentedControl/SegmentedControl.dev.stories.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControl.examples.stories.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControl.module.css",
+  "packages/react/src/SegmentedControl/SegmentedControl.test.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControl.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControlButton.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControlIconButton.stories.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControlIconButton.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-dark-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-light-colorblind-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-light-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-With-Disabled-Buttons-light-tritanopia-linux.png"
+ ],
+ "changeset": "---\n\"@primer/react\": minor\n---\n\nRemove the feature flag for `primer_react_segmented_control_tooltip` and GA tooltip by default behavior.\n- Ensure that when `disabled` is applied, the tooltip is still triggered.\n",
+ "recipe": 1,
+ "stories": 33,
+ "findings": 0,
+ "ms": 152460
+}

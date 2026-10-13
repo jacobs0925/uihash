@@ -1,0 +1,40 @@
+{
+ "repo": "primer-react",
+ "sha": "f4a92f6d5fab8aee0bebb0b3bd8a400d55dc6cc7",
+ "parent": "4ffe66d0d87c5ab8a3c0d9ef4e9ba571e6d57393",
+ "date": "2025-10-21",
+ "subject": "Adjust Breadcrumb item focus outline (#7048)",
+ "pr": "7048",
+ "components": [
+  "Breadcrumbs"
+ ],
+ "files": [
+  ".changeset/wise-baboons-sing.md",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-dark-colorblind-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-dark-dimmed-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-dark-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-dark-high-contrast-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-dark-tritanopia-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-light-colorblind-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-light-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-light-high-contrast-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-light-tritanopia-focus-linux.png",
+  "packages/react/src/Breadcrumbs/Breadcrumbs.module.css"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-dark-colorblind-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-dark-dimmed-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-dark-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-dark-high-contrast-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-dark-tritanopia-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-light-colorblind-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-light-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-light-high-contrast-focus-linux.png",
+  ".playwright/snapshots/components/Breadcrumbs.test.ts-snapshots/Breadcrumbs-Default-light-tritanopia-focus-linux.png"
+ ],
+ "changeset": "---\n\"@primer/react\": patch\n---\n\nAdjust Breadcrumb item focus outline\n",
+ "recipe": 1,
+ "stories": 24,
+ "findings": 4,
+ "ms": 121598
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "primer-react",
+ "sha": "585c5fa4864e8bb616495622da49beec009dfbe6",
+ "parent": "4a1013fd74bd75fbdb5a869ab0e992fb0fc466e2",
+ "date": "2025-11-20",
+ "subject": "Remove use of useResponsiveValue hook - SegmentedControl (#7134)",
+ "pr": "7134",
+ "components": [
+  "SegmentedControl"
+ ],
+ "files": [
+  ".changeset/segmentedcontrol-responsive.md",
+  "packages/react/src/SegmentedControl/SegmentedControl.module.css",
+  "packages/react/src/SegmentedControl/SegmentedControl.responsive.stories.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControl.test.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControl.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@primer/react\": patch\n---\n\nSegmentedControl: Remove useResponsiveValue hook from fullWidth and variant props to use `getResponsiveAttributes` instead.\n",
+ "recipe": 1,
+ "stories": 33,
+ "findings": 0,
+ "ms": 186737
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "f2ba02a370154dc581c1567f93a4d14075ee5419",
+ "date": "2025-11-14",
+ "pr": "7165",
+ "title": "Token: Fix sizing, padding, and selected state styling (#7165)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "144 visual-test baselines updated"
+}

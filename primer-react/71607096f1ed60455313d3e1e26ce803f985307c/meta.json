@@ -1,0 +1,23 @@
+{
+ "repo": "primer-react",
+ "sha": "71607096f1ed60455313d3e1e26ce803f985307c",
+ "parent": "9382e529a8a4a0204ce0c412a0c8840cfbfe9f2c",
+ "date": "2025-11-05",
+ "subject": "Remove use of useResponsiveValue hook - PageHeader (#7112)",
+ "pr": "7112",
+ "components": [
+  "PageHeader"
+ ],
+ "files": [
+  ".changeset/pageheader-responsive-variant.md",
+  "packages/react/src/PageHeader/PageHeader.module.css",
+  "packages/react/src/PageHeader/PageHeader.responsive.stories.tsx",
+  "packages/react/src/PageHeader/PageHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@primer/react\": minor\n---\n\nPageHeader: Remove useResponsiveValue hook from TitleArea variant prop\n\nMigrates PageHeader.TitleArea's `variant` prop to use `getResponsiveAttributes` following ADR-018 for SSR-safe responsive values. This prevents layout shift during hydration when using responsive variants.\n",
+ "recipe": 1,
+ "stories": 66,
+ "findings": 0,
+ "ms": 168185
+}

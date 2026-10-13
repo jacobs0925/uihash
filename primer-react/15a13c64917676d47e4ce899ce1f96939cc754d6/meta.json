@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "15a13c64917676d47e4ce899ce1f96939cc754d6",
+ "parent": "4d0f08a24750704374655c3dc0450012f905bca0",
+ "date": "2025-11-04",
+ "subject": "ActionList trailingAction fills full height for items with block description (#7114)",
+ "pr": "7114",
+ "components": [
+  "ActionList"
+ ],
+ "files": [
+  ".changeset/chilly-cloths-heal.md",
+  "packages/react/src/ActionList/ActionList.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nActionList: Fix trailing action button to take full height.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 150869
+}

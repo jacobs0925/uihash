@@ -1,0 +1,36 @@
+{
+ "repo": "primer-react",
+ "sha": "9caddf431a342328f8e783fa8a90d8391027aa78",
+ "parent": "525f58deca405625644190fe5419ca6a4189d13b",
+ "date": "2025-10-24",
+ "subject": "Cleanup: Move DialogV1 directory to src/deprecated (#7062)",
+ "pr": "7062",
+ "components": [
+  "DialogV1"
+ ],
+ "files": [
+  "packages/react/src/ActionBar/ActionBar.examples.stories.tsx",
+  "packages/react/src/Autocomplete/Autocomplete.features.stories.tsx",
+  "packages/react/src/DialogV1/Dialog.docs.json",
+  "packages/react/src/DialogV1/Dialog.module.css",
+  "packages/react/src/DialogV1/Dialog.stories.tsx",
+  "packages/react/src/DialogV1/Dialog.test.tsx",
+  "packages/react/src/DialogV1/Dialog.tsx",
+  "packages/react/src/DialogV1/Dialog.types.test.tsx",
+  "packages/react/src/DialogV1/index.ts",
+  "packages/react/src/deprecated/DialogV1/Dialog.docs.json",
+  "packages/react/src/deprecated/DialogV1/Dialog.module.css",
+  "packages/react/src/deprecated/DialogV1/Dialog.stories.tsx",
+  "packages/react/src/deprecated/DialogV1/Dialog.test.tsx",
+  "packages/react/src/deprecated/DialogV1/Dialog.tsx",
+  "packages/react/src/deprecated/DialogV1/Dialog.types.test.tsx",
+  "packages/react/src/deprecated/DialogV1/index.ts",
+  "packages/react/src/deprecated/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 87933
+}

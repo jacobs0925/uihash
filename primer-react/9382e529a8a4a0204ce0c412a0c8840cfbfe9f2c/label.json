@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "9382e529a8a4a0204ce0c412a0c8840cfbfe9f2c",
+ "date": "2025-11-05",
+ "pr": "7101",
+ "title": "Remove use of useResponsiveValue hook - PageLayout (#7101)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Remove use of useResponsiveValue hook - PageLayout"
+}

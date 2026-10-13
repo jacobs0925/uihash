@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "415fafc23bb2060cc856cda8de432a4447a47bfd",
+ "date": "2025-10-27",
+ "pr": "7027",
+ "title": "chore: remove styled components (bye-bye-styled-components) (#7027)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "9 visual-test baselines updated"
+}

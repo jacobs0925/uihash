@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "07c9e5573c22c93aed1f1b5768bac755018fb0f5",
+ "date": "2025-11-06",
+ "pr": "7102",
+ "title": "Make `Button`/`LinkButton` 'link' variant respect user underline preference (#7102)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "138 visual-test baselines updated"
+}

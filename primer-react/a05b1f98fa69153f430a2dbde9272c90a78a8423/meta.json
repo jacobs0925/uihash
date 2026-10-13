@@ -1,0 +1,26 @@
+{
+ "repo": "primer-react",
+ "sha": "a05b1f98fa69153f430a2dbde9272c90a78a8423",
+ "parent": "f051a39229f55d059d867b59bc468020eda09145",
+ "date": "2025-11-13",
+ "subject": "CounterLabel: Deprecated scheme prop in favor of variant prop (#7185)",
+ "pr": "7185",
+ "components": [
+  "CounterLabel"
+ ],
+ "files": [
+  ".changeset/busy-masks-kiss.md",
+  "packages/react/src/CounterLabel/CounterLabel.features.stories.tsx",
+  "packages/react/src/CounterLabel/CounterLabel.figma.tsx",
+  "packages/react/src/CounterLabel/CounterLabel.module.css",
+  "packages/react/src/CounterLabel/CounterLabel.stories.tsx",
+  "packages/react/src/CounterLabel/CounterLabel.test.tsx",
+  "packages/react/src/CounterLabel/CounterLabel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': minor\n---\n\nCounterLabel: Add variant prop and deprecate scheme prop\n",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39179
+}

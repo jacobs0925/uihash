@@ -1,0 +1,46 @@
+{
+ "repo": "primer-react",
+ "sha": "fb773ada9e76d48a0fb64f489369caa9b8d7c756",
+ "parent": "d5891688483f92705e29799c8d0d9065f6f46068",
+ "date": "2025-11-03",
+ "subject": "Remove deprecated underline prop from Link component (#7021)",
+ "pr": "7021",
+ "components": [
+  "Link"
+ ],
+ "files": [
+  ".changeset/swift-queens-smoke.md",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-colorblind-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-tritanopia-linux.png",
+  "e2e/components/Link.test.ts",
+  "packages/react/src/Link/Link.dev.stories.tsx",
+  "packages/react/src/Link/Link.docs.json",
+  "packages/react/src/Link/Link.features.stories.tsx",
+  "packages/react/src/Link/Link.module.css",
+  "packages/react/src/Link/Link.stories.tsx",
+  "packages/react/src/Link/Link.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-colorblind-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-linux.png",
+  ".playwright/snapshots/components/Link.test.ts-snapshots/Link-Dev-Inline-light-tritanopia-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': major\n---\n\nRemove deprecated underline prop from Link component.\n",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 75995
+}

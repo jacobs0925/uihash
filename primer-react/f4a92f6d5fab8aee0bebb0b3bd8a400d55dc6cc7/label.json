@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "f4a92f6d5fab8aee0bebb0b3bd8a400d55dc6cc7",
+ "date": "2025-10-21",
+ "pr": "7048",
+ "title": "Adjust Breadcrumb item focus outline (#7048)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "9 visual-test baselines updated"
+}

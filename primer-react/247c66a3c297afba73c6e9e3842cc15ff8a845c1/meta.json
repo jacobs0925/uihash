@@ -1,0 +1,44 @@
+{
+ "repo": "primer-react",
+ "sha": "247c66a3c297afba73c6e9e3842cc15ff8a845c1",
+ "parent": "67cce8b7c27bce19c465e0e93a94899b971cc893",
+ "date": "2025-10-28",
+ "subject": "Feat: popover implement click outside (#7063)",
+ "pr": "7063",
+ "components": [
+  "PageLayout"
+ ],
+ "files": [
+  ".changeset/chilled-rules-boil.md",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-dark-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-light-colorblind-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-light-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-light-tritanopia-linux.png",
+  "e2e/components/Popover.test.ts",
+  "packages/react/src/PageLayout/PageLayout.module.css",
+  "packages/react/src/Popover/Popover.docs.json",
+  "packages/react/src/Popover/Popover.features.stories.tsx",
+  "packages/react/src/Popover/Popover.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-dark-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-light-colorblind-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-light-linux.png",
+  ".playwright/snapshots/components/Popover.test.ts-snapshots/Popover-Close-On-Click-Outside-light-tritanopia-linux.png"
+ ],
+ "changeset": "---\n\"@primer/react\": minor\n---\n\nFeat: popover implement click outside\n",
+ "recipe": 1,
+ "stories": 45,
+ "findings": 1,
+ "ms": 208457
+}

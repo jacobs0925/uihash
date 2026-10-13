@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "f9fb9eba8f1b2db8fddd9f6926edf77454146084",
+ "parent": "bf675e28ba98989c64e61a150f40bfa672f71e84",
+ "date": "2025-11-21",
+ "subject": "ActionBar: Add padding to Divider when gap=\"none\" (#7223)",
+ "pr": "7223",
+ "components": [
+  "ActionBar"
+ ],
+ "files": [
+  ".changeset/mean-facts-brush.md",
+  "packages/react/src/ActionBar/ActionBar.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nActionBar: Add padding to Divider when gap=\"none\".\n",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 0,
+ "ms": 159051
+}

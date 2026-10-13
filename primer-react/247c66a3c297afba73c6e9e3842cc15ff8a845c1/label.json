@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "247c66a3c297afba73c6e9e3842cc15ff8a845c1",
+ "date": "2025-10-28",
+ "pr": "7063",
+ "title": "Feat: popover implement click outside (#7063)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "9 visual-test baselines updated"
+}

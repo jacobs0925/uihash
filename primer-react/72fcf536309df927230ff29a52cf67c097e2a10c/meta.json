@@ -1,0 +1,32 @@
+{
+ "repo": "primer-react",
+ "sha": "72fcf536309df927230ff29a52cf67c097e2a10c",
+ "parent": "2cfb4aef835cfcb26350e38bad94e6bf57a76f6c",
+ "date": "2025-11-06",
+ "subject": "Bump `primer/stylelint-config` (#7160)",
+ "pr": "7160",
+ "components": [
+  "AvatarStack",
+  "ProgressBar",
+  "Skeleton",
+  "ToggleSwitch"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "packages/react/src/AvatarStack/AvatarStack.module.css",
+  "packages/react/src/ProgressBar/ProgressBar.module.css",
+  "packages/react/src/Skeleton/SkeletonBox.module.css",
+  "packages/react/src/ToggleSwitch/ToggleSwitch.module.css",
+  "packages/react/src/Token/IssueLabelToken.module.css",
+  "packages/react/src/stories/deprecated/ActionListStories.module.css",
+  "packages/react/src/stories/deprecated/ActionMenuStories.module.css",
+  "stylelint.config.mjs"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 203564
+}

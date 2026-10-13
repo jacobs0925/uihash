@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "25a5f99a8a624b066baa8e5b9961f96730f78be8",
+ "date": "2025-11-10",
+ "pr": "7143",
+ "title": "Style `KeybindingHint` within Button context (#7143)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "36 visual-test baselines updated"
+}

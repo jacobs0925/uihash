@@ -1,0 +1,22 @@
+{
+ "repo": "primer-react",
+ "sha": "4ffe66d0d87c5ab8a3c0d9ef4e9ba571e6d57393",
+ "parent": "14f7925a70b94e28d18f37c70f5ed5392b61424e",
+ "date": "2025-10-22",
+ "subject": "Fix: ActionMenu with overflow doesn’t contain scrollbars within its rounded border (#7046)",
+ "pr": "7046",
+ "components": [
+  "ActionMenu"
+ ],
+ "files": [
+  ".changeset/purple-pigs-check.md",
+  "packages/react/src/ActionMenu/ActionMenu.module.css",
+  "packages/react/src/ActionMenu/ActionMenu.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@primer/react\": patch\n---\n\nFix: ActionMenu with overflow contains scrollbars within its rounded border\n\n\n",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 0,
+ "ms": 205093
+}

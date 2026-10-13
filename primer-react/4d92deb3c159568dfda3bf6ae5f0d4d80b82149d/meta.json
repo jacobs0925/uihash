@@ -1,0 +1,24 @@
+{
+ "repo": "primer-react",
+ "sha": "4d92deb3c159568dfda3bf6ae5f0d4d80b82149d",
+ "parent": "17c631861adad4c4b3fd3e9fd61b99d99e77048f",
+ "date": "2025-11-12",
+ "subject": "fix(AnchoredOverlay): Remove use of useResponsiveValue (#7098)",
+ "pr": "7098",
+ "components": [
+  "Overlay"
+ ],
+ "files": [
+  "packages/react/src/AnchoredOverlay/AnchoredOverlay.tsx",
+  "packages/react/src/AnchoredOverlay/__snapshots__/AnchoredOverlay.test.tsx.snap",
+  "packages/react/src/Overlay/Overlay.module.css",
+  "packages/react/src/Overlay/Overlay.tsx",
+  "packages/react/src/experimental/SelectPanel2/SelectPanel.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 24,
+ "findings": 0,
+ "ms": 138122
+}

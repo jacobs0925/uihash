@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "a746a83e68da54a7f66161b0f1d68bfbdc071ce6",
+ "date": "2025-11-04",
+ "pr": "7124",
+ "title": "`Timeline.break` fix when followed by condensed item (#7124)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "9 visual-test baselines updated"
+}

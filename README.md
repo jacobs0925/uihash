@@ -186,6 +186,7 @@ render never shows) and under each emulated medium.
 | `freezeTime`, `seedRandom` | `2026-01-15T12:00:00Z`, `42` | the frozen clock and the `Math.random` seed |
 | `networkIdleMs` | `150` | how long the network must be quiet before capture |
 | `maxElements` | `50000` | a state with more elements fails to render instead of being extracted (each element's styles are kept, so a page of hundreds of thousands takes gigabytes); `0` for no limit |
+| `offline` | `false` | requests to any host but the local one fail, and service workers are off: for apps that call live backends, analytics or web fonts, so both builds render the same way and no outside server is contacted |
 | `renderTimeoutMs` | `120000` | a render not finished by then (a page that never settles) fails, and its browser page is closed; `0` for no limit |
 | `imageBaseUrl` | (none) | where the comment's images are served from (`{file}` is replaced) |
 | `model` | (none) | a learned triage model (`learn/model.json`), relative to the config: an advisory score per finding (see [below](#learned-triage-advisory)) |

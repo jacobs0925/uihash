@@ -87,7 +87,7 @@ const tid = (t) => `${slug(t.page)}${t.state === 'default' ? '' : '--' + slug(t.
 // as extra. o.shot === false: a compared render without the screenshot.
 async function render(browser, cfg, baseUrl, t, i, withScreenshot, inspect, o = {}) {
   const shoot = withScreenshot && o.shot !== false;
-  const { ctx, page } = await newStablePage(browser, { ...(t.viewport || cfg.viewport), freezeTime: cfg.freezeTime ? Date.parse(cfg.freezeTime) : null, seed: cfg.seedRandom });
+  const { ctx, page } = await newStablePage(browser, { ...(t.viewport || cfg.viewport), freezeTime: cfg.freezeTime ? Date.parse(cfg.freezeTime) : null, seed: cfg.seedRandom, offline: !!cfg.offline });
   // CSS coverage (opt-in): which style rules this render used, from load to capture
   let ru = null;
   const sheets = new Set();
@@ -555,7 +555,7 @@ async function runPR({ baseUrl, headUrl, config, outDir, cacheDir, cacheKey, ima
         const okRuns = mine.filter((r) => !r.error);
         if (mine[0].error || (!t.quick && okRuns.length < 2)) { results.push({ t, id, head, status: head.error ? 'error' : 'new', message: head.error || (mine.find((r) => r.error) || {}).error }); continue; }
         if (okRuns.length < mine.length) log(`warning: ${id}: ${mine.length - okRuns.length} base render(s) failed, calibrated on ${okRuns.length}`);
-        schema = t.quick ? { quick: true, opts: {}, stateClasses: [] } : calibrate(okRuns.map((r) => r.snap), { keyMode: cfg.keys });
+        schema = t.quick ? { quick: true, opts: { keyMode: cfg.keys }, stateClasses: [] } : calibrate(okRuns.map((r) => r.snap), { keyMode: cfg.keys });
         ref = mine[0].snap; refPng = mine[0].png;
         const cdir = baseJobs.find((j) => j.t === t).cdir;
         if (cdir) {

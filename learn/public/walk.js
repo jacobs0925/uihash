@@ -3,7 +3,8 @@
 // the commit touched), serve both and run `uihash pr` on those stories. Each commit leaves
 //   <data>/<repo>/<sha>/{meta.json, summary.json}
 // and label.js turns the evidence in meta.json and later commits into label.json (see HANDOFF.md).
-// A library without a Storybook builds its own test app instead and names the pages to check ("pages", see pageList()).
+// A library without a Storybook builds its own test app instead and names the pages to check ("pages", see pageList());
+// an app ("pages.routes", see appRoutes()) is built whole and checked on its routes.
 // Usage: node learn/public/walk.js <repo name in repos.json> <workDir> <dataDir> [--since 2026-01-01] [--max 20] [--minutes 40] [--newest-first]
 // --minutes: start no new commit after that long (the one in progress finishes). Resumable: commits that
 // already have a summary (summary.json, or summary.json.gz once round.sh has compacted it) are skipped.
@@ -30,6 +31,8 @@ const STYLE = new RegExp(R.style), SNAP = new RegExp(R.snapshots), SRC = R.compo
 const CHANGESET = new RegExp(R.changesets || '^\\.changeset/.*\\.md$');
 // "changelog": where PRs add their entry to a changelog file instead; the lines the commit added to it are kept
 const CHANGELOG = R.changelog ? new RegExp(R.changelog) : null;
+// an app rather than a component library: any style file under componentRoot counts, and pages are routes
+const APP = !!(R.pages && R.pages.routes);
 const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
 // a repository may need its own Node version: "node": "24.19.0", or "nvmrc" for the checked-out commit's
 // .nvmrc (some repositories check the exact version). Fetched once into the work dir, put first on PATH.
@@ -63,6 +66,7 @@ function components(c) {
   for (const f of c.files) {
     if (!STYLE.test(f) || !f.startsWith(SRC + '/')) continue;
     const p = f.slice(SRC.length + 1).split('/'), d = p.slice(0, DEPTH).join('/');
+    if (APP) { if (!R.skipDirs.includes(p[0])) out.add(p[0]); continue; }      // an app: its top-level folder or file
     if (p.length > DEPTH && !R.skipDirs.includes(p[0]) && !R.skipDirs.includes(d)) out.add(d);
   }
   return [...out].slice(0, 4);
@@ -118,7 +122,8 @@ function serve(dir) {
     const s = http.createServer((q, r) => {
       let p = path.join(dir, decodeURIComponent(q.url.split('?')[0]).replace(/\.\.+/g, ''));
       if (spa && !fs.existsSync(p)) p = path.join(dir, spa);
-      fs.readFile(fs.existsSync(p) && fs.statSync(p).isDirectory() ? path.join(p, 'index.html') : p, (e, b) => {
+      if (fs.existsSync(p) && fs.statSync(p).isDirectory()) p = path.join(p, 'index.html');   // the type is the file's, not the folder's
+      fs.readFile(p, (e, b) => {
         if (e) { r.writeHead(404); return r.end(); }
         r.writeHead(200, { 'content-type': TYPES[path.extname(p)] || 'application/octet-stream' }); r.end(b);
       });
@@ -167,15 +172,52 @@ function pageList(c, max, comps) {
   }), [], max);
 }
 
+// An app ("pages.routes"): the routes whose page component the commit changed, found through the router file
+// (pages.router: <Route path="/x" element={<X />} /> with X imported from a file), when the parent has them too,
+// then the recipe's own routes (those every commit is checked on), up to pages.max (default 6)
+function appRoutes(c) {
+  const show = (sha, f) => { try { return git(['show', `${sha}:${f}`]); } catch (e) { return ''; } };
+  const found = [];
+  if (R.pages.router) {
+    const text = show(c.sha, R.pages.router), before = show(c.parent, R.pages.router), dir = path.posix.dirname(R.pages.router), file = {};
+    for (const m of text.matchAll(/import\s+(\w+)\s+from\s+["'](\.[^"']+)["']|(\w+)\s*=\s*\w*[lL]azy\w*\(\s*\(\)\s*=>\s*import\(\s*["'](\.[^"']+)["']/g)) file[m[1] || m[3]] = path.posix.join(dir, m[2] || m[4]);
+    for (const m of text.matchAll(/<Route\s+path="([^":*]+)"\s+element=\{<(\w+)/g)) {
+      const f = file[m[2]];
+      if (f && before.includes(`path="${m[1]}"`) && c.files.some((x) => x === f || x.startsWith(f + '.') || x.startsWith(f + '/'))) found.push(m[1]);
+    }
+  }
+  return [...new Set([...found, ...R.pages.routes])].slice(0, R.pages.max || 6).map((r) => ({ id: r === '/' ? 'home' : r.slice(1), path: r }));
+}
+
+// "restores": a regex over commit subjects whose $1 names the commit a tool put the project back to (Lovable's
+// "Reverted to commit <sha>" restores that commit's files exactly). Every first-parent commit between the two was
+// thrown away. restores.json lists them, with the first-parent order, for label.js
+function writeRestores() {
+  const order = git(['log', '--first-parent', '--format=%H%x09%s', `origin/${R.branch}`]).split('\n').filter(Boolean).map((l) => l.split('\t')).reverse();
+  const at = new Map(order.map(([sha], i) => [sha, i])), re = new RegExp(R.restores), restores = [];
+  order.forEach(([sha, subject], i) => {
+    const m = re.exec(subject);
+    if (!m) return;
+    let target;
+    try { target = git(['rev-parse', '--verify', '-q', `${m[1]}^{commit}`]).trim(); } catch (e) { return; }   // not in the public history
+    if (!at.has(target) || at.get(target) >= i) return;
+    restores.push({ sha, target, undone: order.slice(at.get(target) + 1, i).map(([s]) => s) });
+  });
+  fs.writeFileSync(path.join(out, 'restores.json'), JSON.stringify({ order: order.map(([sha]) => sha), restores }));
+  log(`${restores.length} restores in the history`);
+}
+
 async function check(c, comps) {
-  const listed = R.pages && pageList(c, +opt('stories', 24), comps);
+  const listed = APP ? appRoutes(c) : R.pages && pageList(c, +opt('stories', 24), comps);
   if (listed && !listed.length) return null;
   const base = build(c.parent, comps), head = build(c.sha, comps);
   const list = listed || stories(head, +opt('stories', 24), comps).filter((e) => fs.existsSync(path.join(base, 'index.json')) && JSON.parse(fs.readFileSync(path.join(base, 'index.json'), 'utf8')).entries[e.id]);
   if (!list.length) return null;
   const [sb, sh2] = [await serve(base), await serve(head)];
   try {
-    const config = { quick: true, runs: 2, viewport: { width: 1280, height: 800 }, keys: 'class', pseudoStates: ['hover', 'focus'],
+    // "keys": "tag" where styling lives in class names (Tailwind): a restyled element would otherwise look removed and
+    // added. "offline": the app calls live backends, which must neither be reached nor make the two builds differ
+    const config = { quick: true, runs: 2, viewport: { width: 1280, height: 800 }, keys: R.keys || 'class', offline: !!R.offline, pseudoStates: ['hover', 'focus'],
       pages: list.map((e) => ({ name: e.id, path: R.pages ? e.path : `iframe.html?id=${e.id}&viewMode=story` })) };
     const dir = path.join(out, c.sha);
     return await runPR({ baseUrl: `http://127.0.0.1:${sb.address().port}/`, headUrl: `http://127.0.0.1:${sh2.address().port}/`, config, outDir: dir });
@@ -203,6 +245,7 @@ function memoryWatch(dir) {
 (async () => {
   ensureClone();
   fs.mkdirSync(out, { recursive: true });
+  if (R.restores) writeRestores();
   // a commit whose parent is outside the clone's history (the shallow boundary) cannot be compared
   const known = (sha) => { try { git(['cat-file', '-e', sha + '^{commit}']); return true; } catch (e) { return false; } };
   // a recipe's own "since" wins when later: the commits before it cannot be built with this recipe

@@ -433,6 +433,26 @@ monorepo), db-ui/mono (moved; the new home has 3 stories), Paste and Orbit (abou
 the default branch), and libraries with little style activity (Base Web, Garden, Spectrum CSS, Canvas
 Kit, PatternFly React, commercetools UI Kit).
 
+**Vibe-coded apps (third assessment, October 2026).** Component libraries record few regressions: Primer React
+had 2 in its first 57 commits. Apps built mostly by AI tools record many, and Lovable records them exactly.
+When a Lovable user goes back to an earlier version, a bot commit "Reverted to commit <sha>" restores that
+commit's files exactly (628 of 628 checked in six repositories). Every edit between the two was looked at in the
+preview and thrown away. 66 public repositories were assessed from git alone; these walk first, before the
+libraries:
+
+| repository | what it is | commits since 2025-10 | Lovable restores | backend |
+|---|---|---|---|---|
+| pedropaulovc/el400 (MIT) | machine-tool readout simulator, one very visual page | 646 | 30 | none |
+| Louis-Maxwell/livingwitharthritis (MIT) | charity content site, 183 routes | 2,037 | 45 | none |
+| preijm/milk-me-not (MIT) | product comparison site, with Lovable's visual editor | 1,146 | 37 | Supabase (blocked) |
+| aiwebtools/aiwebtools.app-live-source-code (MIT) | AI tools directory, content in the repo | 2,057 | 79 | Supabase (blocked) |
+
+Left out: Parium2025/swipe-and-hire, the densest (419 restores in the year), which has no license, while the
+walk's data is public; apps whose pages need their backend (unisonOS, zivosmedia, yana-contabila, 717rec); and
+git-agent repositories (Copilot agent, Claude Code, Codex), whose reverts are fewer and harder to match. About
+22 % of Lovable restores undo an earlier restore (the person going back and forth), and many "fix" commits are
+iterative tuning rather than regressions, so only restores give labels.
+
 **Pipeline** (`learn/public/`):
 
 - `repos.json`: how to build each library, in the order the loop walks them: install command, the
@@ -455,6 +475,21 @@ Kit, PatternFly React, commercetools UI Kit).
   - `merges`: each merge commit is one PR. Its subject is the PR title, taken from the merge message.
   - `lockfile` as a list: the first present counts, since Porsche moved from yarn to npm in April 2026.
   - `changelog`: the lines a PR added to a changelog file are its changeset text.
+
+  An app gives `pages.routes`, the routes checked at every commit, and `pages.router`, the file whose
+  `<Route path="/x" element={<X />} />` lines map a changed page file to its route, which is checked first
+  (up to `pages.max`, default 6). Any style file under `componentRoot` makes a commit count. Lovable records
+  each edit as a merge commit ("Changes" merged under the edit's title), so the app recipes set `merges`.
+  They also set:
+  - `keys: "tag"`: their styling is Tailwind class names, so elements are matched by tag. Matched by class,
+    a restyled element looked removed and added; matched by tag, el400's "Move logo left" gives
+    `right: 24px → 96px`.
+  - `offline: true`: uihash fails every request to another host, so a hard-coded Supabase backend, analytics
+    and web fonts are never reached and cannot make the two builds differ.
+  - `restores`: the regex of the tool's restore commits (`^Reverted to commit ([0-9a-f]{7,40})$`). walk.js
+    writes the first-parent order and each restore's discarded commits to `restores.json` for label.js.
+  - `build`: `npx vite build` straight, which skips the repositories' pre- and post-build hooks (one pings
+    search engines); aiwebtools builds in a mode of its own (`--mode uihash`) to skip its prerender plugin.
 
   Porsche's build starts with `git clean`. Generated files left by a newer commit broke the build of
   an older one, because `git checkout` keeps untracked files.
@@ -489,7 +524,11 @@ Kit, PatternFly React, commercetools UI Kit).
   | a later commit undid some of its changes (within 60 days) | 1; undone findings are the mistake side | 0.85 when the later commit is titled as a fix, else 0.7 |
   | visual-test baselines updated, nothing undone | 0 | 0.7 |
   | a changeset, nothing undone | 0 | 0.6 |
+  | thrown away by a restore (`restores.json`), not brought back by a later one | 1, all findings | 0.85 when the restore discarded 1–2 commits, 0.75 for 3–4, 0.6 for more |
+  | in a repository with restores: nothing undid it, and 5 or more commits followed | 0 (source `kept`) | 0.6 |
   | no evidence | none (left out of training) | |
+
+  Restores themselves, and commits a restore threw away and a later restore brought back, stay unlabelled.
 - `round.sh`: one round, in two phases.
   - `walk` checks the next commits for a time budget, one repository at a time (see Time budget below).
   - `train` relabels everything, stores the summaries compressed, and runs `weekly.js` with a fixed 20 %

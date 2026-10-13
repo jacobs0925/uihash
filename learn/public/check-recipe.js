@@ -15,6 +15,16 @@ const git = (...a) => execFileSync('git', ['-C', dir, ...a], { encoding: 'utf8',
 const ref = `origin/${r.branch}`;
 // a "pages" recipe has no config to fit: list instead the style-changing commits walk.js would take and how many
 // page files each component has in both the parent and the commit (one with none, a new component, gets no pages)
+// an app ("pages.routes"): the commits walk.js would take (a style file under componentRoot changed) and the
+// restores its tool recorded (restores), which label.js turns into regression labels
+if (r.pages && r.pages.routes) {
+  const log = git('log', '--first-parent', ...(r.merges ? [] : ['--no-merges']), '--no-renames', `--since=${from}`, '--format=@@%s', '--name-only', ref).split('@@').slice(1);
+  const STYLE = new RegExp(r.style), restore = r.restores ? new RegExp(r.restores) : null;
+  const ui = log.filter((b) => b.trim().split('\n').slice(1).some((f) => STYLE.test(f) && f.startsWith(r.componentRoot + '/'))).length;
+  const restores = restore ? log.filter((b) => restore.test(b.trim().split('\n')[0])).length : 0;
+  console.log(`${name}: ${log.length} commits since ${from}, ${ui} change styles (walked), ${restores} restores; routes always checked: ${r.pages.routes.join(' ')}`);
+  process.exit(0);
+}
 if (r.pages) {
   const raw = git('log', '--first-parent', ...(r.merges ? [] : ['--no-merges']), '--no-renames', `--since=${from}`, '--format=@@%H%x09%P%x09%as', '--name-only', ref);
   const STYLE = new RegExp(r.style), D = r.componentDepth || 1;

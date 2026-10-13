@@ -14,11 +14,21 @@ const STABILIZE_CSS = `
 
 // A viewport may also emulate a device: deviceScaleFactor (HiDPI: 0.5px hairlines exist only there),
 // isMobile and hasTouch (the (hover: none) / (pointer: coarse) styles touch screens get).
-async function newStablePage(browser, { width = 1280, height = 800, deviceScaleFactor = 1, isMobile = false, hasTouch = false, freezeTime = null, seed = null } = {}) {
+// offline: requests to any host but the local one fail (and service workers are off), so a page that calls a
+// live backend, analytics or web fonts renders the same way every time, and no outside server sees the check.
+async function newStablePage(browser, { width = 1280, height = 800, deviceScaleFactor = 1, isMobile = false, hasTouch = false, freezeTime = null, seed = null, offline = false } = {}) {
   const ctx = await browser.newContext({
     viewport: { width, height }, deviceScaleFactor, isMobile, hasTouch, reducedMotion: 'reduce',
-    locale: 'en-US', timezoneId: 'UTC', colorScheme: 'light',
+    locale: 'en-US', timezoneId: 'UTC', colorScheme: 'light', serviceWorkers: offline ? 'block' : 'allow',
   });
+  if (offline) {
+    const local = (u) => ['127.0.0.1', 'localhost', '[::1]'].includes(u.hostname);
+    await ctx.route('**/*', (r) => {
+      const u = new URL(r.request().url());
+      return /^(data|blob):$/.test(u.protocol) || local(u) ? r.continue() : r.abort('blockedbyclient');
+    });
+    await ctx.routeWebSocket((u) => !local(u), (ws) => ws.close());      // never connected to the server (e.g. a backend's realtime feed)
+  }
   if (freezeTime !== null || seed !== null) {
     await ctx.addInitScript(({ freezeTime, seed }) => {
       if (seed !== null) {

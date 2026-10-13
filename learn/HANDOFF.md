@@ -439,7 +439,8 @@ Kit, PatternFly React, commercetools UI Kit).
   A commit whose config fits none of the stories values or lacks a patch's anchor fails, instead of
   checking the wrong stories (a patch marked `"optional"` is for an anchor that exists only part of the
   time). Raising a library's `version` checks its commits again, after a recipe fix. `changesets` says
-  where a monorepo keeps its changeset files.
+  where a monorepo keeps its changeset files, `componentDepth` that components sit in group folders,
+  and `since` when the recipe starts to apply (Metabase builds with bun only from February 2026).
 - `check-recipe.js`: whether a recipe fits every version its library's Storybook config had in the
   window, from git alone. Run it before adding or changing a recipe.
 - `walk.js`: for each commit on `main` that changes styles, it:

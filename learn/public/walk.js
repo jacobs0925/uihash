@@ -46,14 +46,21 @@ function ensureClone() {
   if (!fs.existsSync(tree)) git(['worktree', 'add', '-q', '--detach', tree, `origin/${R.branch}`]);
 }
 function commits(since) {
-  const raw = git(['log', '--first-parent', '--no-merges', `--since=${since}`, '--format=@@%H%x09%P%x09%ad%x09%s', '--date=short', '--name-only', `origin/${R.branch}`]);
+  // no rename detection: in a blob-less clone it fetches file contents commit by commit (minutes on a large history)
+  const raw = git(['log', '--first-parent', '--no-merges', '--no-renames', `--since=${since}`, '--format=@@%H%x09%P%x09%ad%x09%s', '--date=short', '--name-only', `origin/${R.branch}`]);
   return raw.split('@@').slice(1).map((b) => { const [h, ...files] = b.trim().split('\n'); const [sha, parents, date, subject] = h.split('\t');
     return { sha, parent: parents.split(' ')[0], date, subject, files: files.filter(Boolean), pr: (/\(#(\d+)\)\s*$/.exec(subject) || [])[1] }; }).reverse();
 }
 // the component folders a commit's style changes are in: <componentRoot>/<Component>/...
+// "componentDepth": 2 where components sit in group folders (<componentRoot>/<group>/<Component>/...)
+const DEPTH = R.componentDepth || 1;
 function components(c) {
   const out = new Set();
-  for (const f of c.files) if (STYLE.test(f) && f.startsWith(SRC + '/')) { const d = f.slice(SRC.length + 1).split('/')[0]; if (d && !/\.[a-z]+$/.test(d) && !R.skipDirs.includes(d)) out.add(d); }
+  for (const f of c.files) {
+    if (!STYLE.test(f) || !f.startsWith(SRC + '/')) continue;
+    const p = f.slice(SRC.length + 1).split('/'), d = p.slice(0, DEPTH).join('/');
+    if (p.length > DEPTH && !R.skipDirs.includes(p[0]) && !R.skipDirs.includes(d)) out.add(d);
+  }
   return [...out].slice(0, 4);
 }
 
@@ -138,7 +145,8 @@ async function check(c, comps) {
   fs.mkdirSync(out, { recursive: true });
   // a commit whose parent is outside the clone's history (the shallow boundary) cannot be compared
   const known = (sha) => { try { git(['cat-file', '-e', sha + '^{commit}']); return true; } catch (e) { return false; } };
-  let list = commits(opt('since', '2026-01-01')).filter((c) => c.parent && components(c).length && known(c.parent));
+  // a recipe's own "since" wins when later: the commits before it cannot be built with this recipe
+  let list = commits([opt('since', '2026-01-01'), R.since].filter(Boolean).sort().pop()).filter((c) => c.parent && components(c).length && known(c.parent));
   if (process.argv.includes('--newest-first')) list.reverse();
   const max = +opt('max', 20), until = START + +opt('minutes', 1e6) * 60e3;
   let done = 0, failedInARow = 0;

@@ -8,12 +8,13 @@ const R = require('./repos.json');
 const [name, dir] = process.argv.slice(2);
 const since = process.argv.includes('--since') ? process.argv[process.argv.indexOf('--since') + 1] : '2025-10-01';
 const r = R[name];
+const from = [since, r && r.since].filter(Boolean).sort().pop();   // a recipe's own "since" wins when later, as in walk.js
 if (!r || !dir) { console.error('usage: node learn/public/check-recipe.js <repo name> <clone> [--since date]'); process.exit(2); }
 const git = (...a) => execFileSync('git', ['-C', dir, ...a], { encoding: 'utf8', maxBuffer: 1 << 28, stdio: ['ignore', 'pipe', 'pipe'] });
 const ref = `origin/${r.branch}`;
 // the config as it was when the window opened, and every version since
-const first = git('rev-list', '-1', `--before=${since}`, ref).trim();
-const shas = [first, ...git('log', '--reverse', '--format=%H', `--since=${since}`, ref, '--', r.storybookConfig).split('\n')].filter(Boolean);
+const first = git('rev-list', '-1', `--before=${from}`, ref).trim();
+const shas = [first, ...git('log', '--reverse', '--format=%H', `--since=${from}`, ref, '--', r.storybookConfig).split('\n')].filter(Boolean);
 let unfit = 0;
 for (const sha of shas) {
   let text;
@@ -28,5 +29,5 @@ for (const sha of shas) {
     console.log(`${sha.slice(0, 8)} ${date}: ${[!pattern && 'no storiesPattern value matches', ...missing.map((a) => `missing patch anchor ${JSON.stringify(a.slice(0, 50))}`)].filter(Boolean).join('; ')}`);
   }
 }
-console.log(`${name}: ${shas.length} config versions since ${since}, ${unfit} the recipe does not fit`);
+console.log(`${name}: ${shas.length} config versions since ${from}, ${unfit} the recipe does not fit`);
 process.exit(unfit ? 1 : 0);

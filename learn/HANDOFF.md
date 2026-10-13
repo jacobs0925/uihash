@@ -495,9 +495,11 @@ Kit, PatternFly React, commercetools UI Kit).
   - `train` relabels everything, stores the summaries compressed, and runs `weekly.js` with a fixed 20 %
     of each repository's labelled commits held out. A commit is held out when a hash of its name says
     so (`dataset.js --split`), so it stays held out as the data grows. The held-out commits form a set
-    named `<repo>-held-out`. `weekly.js` trains its three candidates on the synthetic PRs and the other
-    commits, picks the best on the held-out sets, and runs the promotion gate against
-    `learn/model.json`. Then `report.js` decides:
+    named `<repo>-held-out`. `weekly.js` trains its three candidates on the other commits, real
+    commits only, picks the best on the held-out sets, and runs the promotion gate against
+    `learn/model.json`. Synthetic PRs are left out of training unless `SYNTH` names a set: the
+    candidates have to beat the shipped model, which was trained on synthetic PRs, on real commits
+    alone. Then `report.js` decides:
 
     | decision | when |
     |---|---|
@@ -505,7 +507,7 @@ Kit, PatternFly React, commercetools UI Kit).
     | propose | there is no current model, or the gate passed and the candidate raises the mean held-out AUROC by 0.005 or more |
     | keep | otherwise |
 
-    The gate only asks that a candidate be no worse. A round every two hours also asks that it be
+    The gate only asks that a candidate be no worse. Rounds that follow one another also ask that it be
     better; otherwise every round would propose a model.
   - Outputs: the chosen model and its reports go to `models/latest/` (or `$MODEL_OUT`), the round's
     summary to `latest.md`, and a line to `history.jsonl`.
@@ -513,7 +515,7 @@ Kit, PatternFly React, commercetools UI Kit).
   whatever was merged meanwhile.
 
 ```bash
-# data/public/synthetic: labelled synthetic PRs (generate.js output, or the learn-data branch's synthetic/)
+# SYNTH=<dir>: also train on labelled synthetic PRs (generate.js output); left out by default
 # EVAL: your own labelled PRs, scored but never trained on (the private set: the gate then runs on it too)
 EVAL=data/real-eval PY=.venv/bin/python SINCE=2025-10-01 \
   nohup learn/public/loop.sh data/work data/public primer-react eui > loop.out 2>&1 &
@@ -528,32 +530,34 @@ tail -f data/public/history.jsonl
 
 That is 12–20 Primer commits an hour on 4 cores, and about 5 for EUI. Porsche takes about 15 minutes
 a commit: two whole-app builds of 6 minutes, then a 1–2 minute check. A library's year of style
-commits is about a day of walking. On the two-hour schedule below, Primer's and EUI's last year take
-three or four days, then only new commits.
+commits is about a day of walking. With three-hour rounds back to back (below), Primer's and EUI's last
+year take a day or two, then only new commits.
 
 **Where it runs: GitHub Actions** (`.github/workflows/learn.yml`). Runners are free for public
 repositories.
 
-- **Schedule.** A round every two hours (`23 */2 * * *`), or on demand from the Actions tab. Rounds never
-  overlap; a late one waits for the one running. GitHub's scheduler is best effort. The first cron line
-  (`7 */2 * * *`) never fired in its first six hours, while manual runs worked, a problem others have
-  reported since mid-2026 with no fix from GitHub. Changing the cron line registers the schedule again.
-  If rounds still do not start on their own, start them from the Actions tab (*Run workflow*).
-- **Time budget.** About 70 minutes of walking, then a few minutes to relabel and run `weekly.js`. The
-  walk takes one repository at a time, in the order of `REPOS`: it stays on a repository until every
+- **One round after another.** A round's last job (`next`) starts the following round, when the round
+  checked at least one commit and saved it. GitHub's scheduler could not be relied on: it started 2 of
+  its first 10 two-hourly slots, an hour or more late, a problem others have reported since mid-2026.
+  The schedule (`23 */6 * * *`) is now a safety net that restarts the rounds after one that checked
+  nothing (every library walked to the end, or every commit failing) or failed. Rounds never overlap: a
+  scheduled run that arrives while rounds are going waits, is replaced by the next round, and shows as
+  cancelled. Start one by hand from the Actions tab (*Run workflow*).
+- **Time budget.** A round takes about three hours: 2 h 45 min of walking, the commit in progress, then a
+  few minutes to relabel and run `weekly.js`. The walk takes one repository at a time, in the order of `REPOS`: it stays on a repository until every
   style-changing commit in its window (`SINCE`) is checked, then moves on to the next. Repositories that
   are done come first each round, but only have their new commits to check.
-- **Two jobs.**
+- **Three jobs.**
   - `collect` installs and builds the libraries, which runs their install scripts, so its token is
     read-only.
   - `publish` writes. It runs only `git` and `gh` on the files `collect` produced.
+  - `next` starts the following round. Its token can only start workflows.
 - **Data.** Everything is kept on the `learn-data` branch: `<repo>/<sha>/` per commit (`meta.json`,
   `summary.json.gz`, labels), `synthetic/`, `latest.md` and `history.jsonl`. A round commits to it only
   when it does not lose any commit the branch had. The walk logs and the round's model are kept as run
   artifacts for 14 days.
-- **Synthetic PRs.** `synthetic/` holds the first pass's 511 synthetic PRs. The shipped model was
-  trained on the second pass's 1,800. Add those to `synthetic/<id>/` (`label.json` and `summary.json`
-  or `summary.json.gz`), so the rounds train on the same corpus.
+- **Synthetic PRs.** `synthetic/` holds the first pass's 511 synthetic PRs, which the rounds no longer
+  train on (see `train` above). They stay for comparison runs with `SYNTH`.
 - **Visible output.** The round's summary is the run's job summary. When the decision is *propose*, the
   job force-pushes the `learn-model` branch with `learn/model.json` and `learn/model-report.md`, as
   `weekly.js --pr` would. It then opens a pull request, or updates the one already open. A person
@@ -609,8 +613,8 @@ and value, evaluated in a few lines of JavaScript.
 
 ## Roadmap
 
-Steps 1–7 are built (see [Where things stand](#where-things-stand)). Step 8 runs every two hours on
-GitHub Actions (see [Public data](#public-data)).
+Steps 1–7 are built (see [Where things stand](#where-things-stand)). Step 8 runs on GitHub Actions,
+one round after another (see [Public data](#public-data)).
 
 1. **Finish the corpus.** Aim for about 1,500 single-change PRs and 300 mixed, then rerun `train.py`
    and pick the variant on the frozen set. A few hours on 4 cores, with 2 or 3 generator processes.
@@ -646,10 +650,9 @@ These need your repositories, data or people. The code for each is in place.
    audit above: rewrite or retire `m-broad-rule`, `m-collide` and `m-sibling-size`, and decide whether
    the rule false alarms on `d-sort`, `d-zebra` and `d-column` should change the rules or stay as
    training signal.
-5. **Public data (roadmap 8).** Running for Primer React and EUI every two hours, once
-   `.github/workflows/learn.yml` is on the default branch.
-   - Add the second pass's synthetic corpus to the `learn-data` branch (see Public data), so the rounds
-     train on it.
+5. **Public data (roadmap 8).** Running on GitHub Actions, one three-hour round after another, on real
+   commits only. A model is proposed once 10 regressions and 10 intended changes are held out, which
+   takes roughly 450 checked commits at round 1's rate of regressions (4 in 36).
    - Add libraries to `repos.json`. Carbon and React Spectrum need their Chromatic decisions, which are
      not in their repositories.
 6. **A frozen synthetic set.** Until the real set is in the loop, keep one leave-one-app-out split

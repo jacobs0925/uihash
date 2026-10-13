@@ -1,8 +1,9 @@
 // Weekly retrain (HANDOFF.md, "Retrain, evaluate, gate"): rows, three candidates, the promotion gate, a
 // dataset manifest, and (with --pr) a pull request with the new model for a person to merge.
-// Usage: node learn/weekly.js --train <dir>... --eval <dir>... [--newest <dir>] [--current learn/model.json]
+// Usage: node learn/weekly.js [--train <dir>...] [--eval <dir>...] [--newest <dir>] [--current learn/model.json]
 //                             [--split <dir>... [--holdout 0.2]] [--out data/weekly/<date>] [--pr]
-//   --train   synthetic sets and real sets labelled above the confidence floor (label.js output)
+//   --train   synthetic sets and real sets labelled above the confidence floor (label.js output); optional
+//             when --split gives the training data (learn/public/round.sh trains on real commits only)
 //   --eval    frozen evaluation sets (never trained on, never relabelled by agents) and --newest
 //   --newest  the newest month of real PRs, held out by time (also an evaluation set)
 //   --split   sets that are both: a fixed share of each, chosen by hash, is held out (dataset.js --split;
@@ -122,7 +123,7 @@ function openPR(out, best, date, body) {
 
 if (require.main === module) {
   const o = args(process.argv.slice(2));
-  if (!o.train.length) { console.error('usage: node learn/weekly.js --train <dir>... --eval <dir>... [--newest <dir>] [--current learn/model.json] [--out dir] [--pr]'); process.exit(2); }
+  if (!o.train.length && !o.split.length) { console.error('usage: node learn/weekly.js [--train <dir>...] [--eval <dir>...] [--split <dir>... [--holdout 0.2]] [--newest <dir>] [--current learn/model.json] [--out dir] [--pr]'); process.exit(2); }
   try {
     const r = weekly(o);
     console.log(`${r.out}/weekly.md: candidate ${r.best || 'none'}, gate ${r.pass ? 'passed' : 'not passed'}${r.pr ? `, ${r.pr}` : ''}`);

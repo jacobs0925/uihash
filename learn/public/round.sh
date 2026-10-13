@@ -1,27 +1,27 @@
 #!/bin/bash
 # One round of the self-improvement loop on public data, in two phases. loop.sh runs rounds back to back on
-# your own machine; the GitHub workflow (.github/workflows/learn.yml) runs one every two hours, each phase
-# as a step with its own time limit.
+# your own machine, and so does the GitHub workflow (.github/workflows/learn.yml), each phase as a step
+# with its own time limit.
 #   walk   check the next commits (walk.js) for a time budget, one repository at a time: the next
 #          repository in REPOS starts only when the ones before it have no commits left to check
 #   train  relabel every repository (label.js) and store its summaries compressed, then retrain with
-#          weekly.js: a fixed share of each repository's commits is held out (dataset.js --split), three
-#          candidates are trained, the best on the held-out commits goes through the promotion gate
-#          against the current model, and report.js adds the round's summary, decision and history line.
+#          weekly.js on the real commits only: a fixed share of each repository's commits is held out
+#          (dataset.js --split), three candidates are trained on the rest, the best on the held-out commits
+#          goes through the promotion gate against the current model, and report.js adds the round's
+#          summary, decision and history line.
 #          The chosen model (model.json, model-report.md) and the reports go to $MODEL_OUT.
 #
 # Usage: learn/public/round.sh walk  <dataDir> <workDir>
 #        learn/public/round.sh train <dataDir> [current model.json]
 # <dataDir>/<repo>/<sha>/  what walk.js and label.js write for a commit
-# <dataDir>/synthetic/     labelled synthetic PRs (generate.js output), trained on as well
 # <dataDir>/latest.md, history.jsonl   the last round's summary, and one line per round
 # Environment:
 #   REPOS          repositories from repos.json, in the order they are walked    (default: all, in file order)
-#   WALK_MINUTES   the walk's time budget; a commit in progress still finishes    (default 70)
+#   WALK_MINUTES   the walk's time budget; a commit in progress still finishes    (default 165)
 #   BATCH          at most this many commits per repository and round             (default: no limit)
 #   SINCE          oldest commit date to walk                                     (default 2025-10-01)
 #   MEM_FLOOR_MB   below this much free memory a commit is given up (walk.js)   (default 15 % of the machine's)
-#   SYNTH          labelled synthetic PRs                                         (default <dataDir>/synthetic)
+#   SYNTH          labelled synthetic PRs to train on as well (generate.js output) (default: none)
 #   HOLDOUT        share of each repository's commits held out for evaluation    (default 0.2)
 #   EVAL           more labelled PRs to evaluate on, never trained on (your own, say; optional)
 #   MIN_EVAL, MARGIN   when a model is proposed: see report.js
@@ -38,11 +38,11 @@ mkdir -p "$DATA" "$LOGS"
 
 if [ "$PHASE" = walk ]; then
   WORK=$3; mkdir -p "$WORK"
-  [[ ${WALK_MINUTES:-70} =~ ^[0-9]+$ ]] || { echo "WALK_MINUTES must be a whole number of minutes"; exit 2; }
+  [[ ${WALK_MINUTES:-165} =~ ^[0-9]+$ ]] || { echo "WALK_MINUTES must be a whole number of minutes"; exit 2; }
   # one repository at a time, in the order of REPOS: each walks until its window is used up (or it cannot
   # get past failing commits), and only then does the next one get the time that is left. Repositories
   # already used up come first each round, but only have their new commits to check.
-  end=$(( $(date +%s) + ${WALK_MINUTES:-70} * 60 ))
+  end=$(( $(date +%s) + ${WALK_MINUTES:-165} * 60 ))
   for r in "${repos[@]}"; do
     while :; do
       minutes=$(( (end - $(date +%s)) / 60 ))
@@ -55,9 +55,9 @@ if [ "$PHASE" = walk ]; then
   done
 
 elif [ "$PHASE" = train ]; then
-  CURRENT=${3:-}; SYNTH=${SYNTH:-$DATA/synthetic}; OUT=${MODEL_OUT:-$DATA/models/latest}
+  CURRENT=${3:-}; OUT=${MODEL_OUT:-$DATA/models/latest}
   [ -n "${PY:-}" ] && export PYTHON=$PY
-  args=(); [ -d "$SYNTH" ] && args+=(--train "$SYNTH")
+  args=(); [ -n "${SYNTH:-}" ] && args+=(--train "$SYNTH")      # real commits only, unless asked
   if [ -n "${EVAL:-}" ]; then read -r -a evals <<< "$EVAL"; args+=(--eval "${evals[@]}"); fi
   split=()
   for r in "${repos[@]}"; do

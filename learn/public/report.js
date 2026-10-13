@@ -80,7 +80,8 @@ const md = [
   '| repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |', '|---|---|---|---|---|---|---|---|',
   ...REPOS.map((r) => { const c = repos[r]; return `| ${r} | ${c.checked} | +${c.new} | ${c.regression} | ${c.intended} | ${c.unlabelled} | ${c.empty} | ${c.failed} |`; }), '',
   `Held out of training and judged on: ${n.regression} regressions, ${n.deliberate} intended changes, ${n.mixed} mixed.` +
-    (metrics.train_prs ? ` Trained on ${metrics.train_prs} PRs (${synthetic} synthetic, ${metrics.train_prs - synthetic} labelled).` : ''), '',
+    (!metrics.train_prs ? '' : synthetic ? ` Trained on ${metrics.train_prs} PRs (${synthetic} synthetic, ${metrics.train_prs - synthetic} labelled).`
+      : ` Trained on ${metrics.train_prs} labelled commits, no synthetic PRs.`), '',
   `Candidates (mean PR-level AUROC on the held-out commits): ${result.candidates.map((c) => `${c.name} ${f3(c.auroc)}${c.name === result.best ? ' (chosen)' : ''}`).join(', ')}.`, '',
   ...(result.gate.sets.length ? [markdown(result.gate).replace(/^# /, '#### ')] : []),
   ...(metrics.cv_auc_trees ? [`Cross-validation on the training data (variant ${metrics.variant}; whole operators or repositories held out): AUROC ${f3(metrics.cv_auc_logistic)} (logistic), ${f3(metrics.cv_auc_trees)} (trees).`, ''] : []),

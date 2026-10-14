@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "e24effd440d69f0068a89aba26bae9e39fb3254e",
+ "date": "2026-07-22",
+ "pr": "8196",
+ "title": "Announce `SegmentedControl` selected state with `aria-pressed` (#8196)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Use `aria-pressed` instead of `aria-current` on `SegmentedControl.Button` and `SegmentedControl.IconButton` so JAWS announces the selected state when a segment is activated."
+}

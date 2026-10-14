@@ -1,0 +1,32 @@
+{
+ "repo": "eui",
+ "sha": "f3a84288ac7a25b0cba16b9ccf488ec000d871eb",
+ "parent": "9fc422d33df96ec5ecf9427577cd92b74e95f525",
+ "date": "2025-11-05",
+ "subject": "[EuiDataGrid] Remove `aria-hidden` from column actions button (#9166)",
+ "pr": "9166",
+ "components": [
+  "datagrid"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9166.md",
+  "packages/eui/src/components/datagrid/__snapshots__/data_grid.test.tsx.snap",
+  "packages/eui/src/components/datagrid/body/__snapshots__/data_grid_body_custom.test.tsx.snap",
+  "packages/eui/src/components/datagrid/body/__snapshots__/data_grid_body_virtualized.test.tsx.snap",
+  "packages/eui/src/components/datagrid/body/cell/data_grid_cell.styles.spec.tsx",
+  "packages/eui/src/components/datagrid/body/header/__snapshots__/column_actions.test.tsx.snap",
+  "packages/eui/src/components/datagrid/body/header/__snapshots__/data_grid_header_cell.test.tsx.snap",
+  "packages/eui/src/components/datagrid/body/header/column_actions.tsx",
+  "packages/eui/src/components/datagrid/body/header/data_grid_header_cell.styles.ts",
+  "packages/eui/src/components/datagrid/body/header/data_grid_header_cell.tsx",
+  "packages/eui/src/components/datagrid/body/header/data_grid_header_cell_wrapper.tsx",
+  "packages/eui/src/components/datagrid/body/header/data_grid_header_row.test.tsx",
+  "packages/eui/src/components/datagrid/data_grid_types.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 72,
+ "findings": 7,
+ "ms": 316058
+}

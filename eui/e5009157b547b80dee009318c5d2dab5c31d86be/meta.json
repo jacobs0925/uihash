@@ -52,6 +52,7 @@
   "packages/eui/src/components/flyout/flyout_menu.styles.ts",
   "packages/eui/src/components/flyout/flyout_menu.tsx",
   "packages/eui/src/components/flyout/flyout_menu_context.ts",
+  "packages/eui/src/components/flyout/flyout_resizable.styles.ts",
   "packages/eui/src/components/flyout/flyout_resizable.tsx",
   "packages/eui/src/components/flyout/hooks.ts",
   "packages/eui/src/components/flyout/index.ts",
@@ -116,7 +117,8 @@
  ],
  "snapshotsUpdated": [],
  "changeset": "",
- "stories": 60,
- "findings": 9,
- "ms": 486212
+ "recipe": 2,
+ "stories": 9,
+ "findings": 6,
+ "ms": 225197
 }

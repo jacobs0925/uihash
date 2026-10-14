@@ -1,0 +1,25 @@
+{
+ "repo": "primer-react",
+ "sha": "b1117811cebfb9463f20fe76f77cdf13917ae6b2",
+ "parent": "9ba3394b42b9a517941b90ab571ef8df10fd06d5",
+ "date": "2026-08-20",
+ "subject": "notification indicator (#8311)",
+ "pr": "8311",
+ "components": [
+  "Button"
+ ],
+ "files": [
+  ".changeset/bright-dots-notify.md",
+  "packages/react/src/Button/Button.features.stories.tsx",
+  "packages/react/src/Button/ButtonBase.module.css",
+  "packages/react/src/Button/ButtonBase.tsx",
+  "packages/react/src/Button/__tests__/Button.test.tsx",
+  "packages/react/src/Button/types.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': minor\n---\n\nButton: Add configurable notification indicators to Button and IconButton",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 10,
+ "ms": 84426
+}

@@ -28,6 +28,7 @@
   "packages/eui-theme-common/changelogs/upcoming/9088.md",
   "packages/eui-theme-common/src/global_styling/functions/shadows.ts",
   "packages/eui-theme-common/src/global_styling/mixins/_index.scss",
+  "packages/eui-theme-common/src/global_styling/mixins/_shadow.scss",
   "packages/eui-theme-common/src/global_styling/mixins/borders.ts",
   "packages/eui-theme-common/src/global_styling/mixins/index.ts",
   "packages/eui-theme-common/src/global_styling/mixins/shadow.ts",
@@ -283,7 +284,8 @@
  ],
  "snapshotsUpdated": [],
  "changeset": "",
+ "recipe": 2,
  "stories": 69,
- "findings": 39,
- "ms": 695859
+ "findings": 44,
+ "ms": 337037
 }

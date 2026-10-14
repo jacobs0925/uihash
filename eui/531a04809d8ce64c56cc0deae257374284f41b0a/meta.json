@@ -1,0 +1,35 @@
+{
+ "repo": "eui",
+ "sha": "531a04809d8ce64c56cc0deae257374284f41b0a",
+ "parent": "4947443052dc3f1b08b3f9df77422ffb95ec9b2e",
+ "date": "2025-11-26",
+ "subject": "[EuiHeaderLogo] Add hover style (#9240)",
+ "pr": "9240",
+ "components": [
+  "header"
+ ],
+ "files": [
+  "packages/eui/.loki/reference/chrome_desktop_Layout_EuiHeader_EuiHeaderLogo_Playground.png",
+  "packages/eui/.loki/reference/chrome_desktop_Layout_EuiHeader_EuiHeaderLogo_With_Text.png",
+  "packages/eui/.loki/reference/chrome_desktop_Layout_EuiHeader_EuiHeader_Dark_Theme_With_Sitewide_Search.png",
+  "packages/eui/.loki/reference/chrome_desktop_Layout_EuiHeader_EuiHeader_Elastic_Navigation_Pattern.png",
+  "packages/eui/.loki/reference/chrome_desktop_Layout_EuiHeader_EuiHeader_Multiple_Fixed_Headers.png",
+  "packages/eui/.loki/reference/chrome_desktop_Layout_EuiHeader_EuiHeader_Sections.png",
+  "packages/eui/.loki/reference/chrome_mobile_Layout_EuiHeader_EuiHeaderLogo_Playground.png",
+  "packages/eui/.loki/reference/chrome_mobile_Layout_EuiHeader_EuiHeaderLogo_With_Text.png",
+  "packages/eui/.loki/reference/chrome_mobile_Layout_EuiHeader_EuiHeader_Dark_Theme_With_Sitewide_Search.png",
+  "packages/eui/.loki/reference/chrome_mobile_Layout_EuiHeader_EuiHeader_Elastic_Navigation_Pattern.png",
+  "packages/eui/.loki/reference/chrome_mobile_Layout_EuiHeader_EuiHeader_Multiple_Fixed_Headers.png",
+  "packages/eui/.loki/reference/chrome_mobile_Layout_EuiHeader_EuiHeader_Sections.png",
+  "packages/eui/changelogs/upcoming/9240.md",
+  "packages/eui/src/components/header/header_logo/__snapshots__/header_logo.test.tsx.snap",
+  "packages/eui/src/components/header/header_logo/header_logo.styles.ts",
+  "packages/eui/src/components/header/header_logo/header_logo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 30,
+ "findings": 3,
+ "ms": 221032
+}

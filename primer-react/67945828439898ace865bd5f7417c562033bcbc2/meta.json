@@ -1,0 +1,22 @@
+{
+ "repo": "primer-react",
+ "sha": "67945828439898ace865bd5f7417c562033bcbc2",
+ "parent": "f2c075a5d4d0b51a279c39effa18226ad909929d",
+ "date": "2026-09-25",
+ "subject": "AvatarStack: Prevent a thin edge from a masked avatar over the next avatar (#8434)",
+ "pr": "8434",
+ "components": [
+  "AvatarStack"
+ ],
+ "files": [
+  ".changeset/fix-avatar-stack-overlap.md",
+  "packages/react/src/AvatarStack/AvatarStack.dev.stories.tsx",
+  "packages/react/src/AvatarStack/AvatarStack.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nAvatarStack: Prevent a thin edge from a masked avatar over the next avatar\n",
+ "recipe": 1,
+ "stories": 30,
+ "findings": 2,
+ "ms": 42973
+}

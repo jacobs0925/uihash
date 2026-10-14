@@ -1,0 +1,26 @@
+{
+ "repo": "primer-react",
+ "sha": "d038d5b8054c7c95cb281ee8474b472b0001d4bf",
+ "parent": "02bb830555aa34042422dd7798d6d9c1f6d59377",
+ "date": "2026-07-08",
+ "subject": "Timeline: add comment event stories (Phase 2) (#8072)",
+ "pr": "8072",
+ "components": [
+  "Timeline"
+ ],
+ "files": [
+  "packages/react/src/Timeline/Timeline.comments.features.stories.module.css",
+  "packages/react/src/Timeline/Timeline.comments.features.stories.tsx",
+  "packages/react/src/Timeline/internal/CommentCard.module.css",
+  "packages/react/src/Timeline/internal/CommentCard.tsx",
+  "packages/react/src/Timeline/internal/timelineStoryHelpers.module.css",
+  "packages/react/src/Timeline/internal/timelineStoryHelpers.stories.tsx",
+  "packages/react/src/Timeline/internal/timelineStoryHelpers.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 33,
+ "findings": 0,
+ "ms": 69787
+}

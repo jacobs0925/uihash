@@ -1,0 +1,35 @@
+{
+ "repo": "eui",
+ "sha": "6c6cafda6bc2ec3399fc5c743ce6136ba0cc6b5d",
+ "parent": "365675284a12f46038aa32f831d4906854486a38",
+ "date": "2025-12-16",
+ "subject": "Tokens clean-up for `EuiTour` (non-active dots color and beacon color) (#9271)",
+ "pr": "9271",
+ "components": [
+  "beacon"
+ ],
+ "files": [
+  "packages/eui-theme-borealis/changelogs/upcoming/9271.md",
+  "packages/eui-theme-borealis/src/variables/_components.ts",
+  "packages/eui-theme-common/changelogs/upcoming/9271.md",
+  "packages/eui-theme-common/src/global_styling/variables/components.ts",
+  "packages/eui/.loki/reference/chrome_desktop_Display_EuiTour_EuiTourStepIndicator_Playground.png",
+  "packages/eui/.loki/reference/chrome_desktop_Display_EuiTour_EuiTourStep_Playground.png",
+  "packages/eui/.loki/reference/chrome_desktop_Display_EuiTour_EuiTour_Playground.png",
+  "packages/eui/.loki/reference/chrome_desktop_Utilities_EuiBeacon_Playground.png",
+  "packages/eui/.loki/reference/chrome_mobile_Display_EuiTour_EuiTourStepIndicator_Playground.png",
+  "packages/eui/.loki/reference/chrome_mobile_Display_EuiTour_EuiTourStep_Playground.png",
+  "packages/eui/.loki/reference/chrome_mobile_Display_EuiTour_EuiTour_Playground.png",
+  "packages/eui/.loki/reference/chrome_mobile_Utilities_EuiBeacon_Playground.png",
+  "packages/eui/changelogs/upcoming/9271.md",
+  "packages/eui/src/components/beacon/beacon.styles.ts",
+  "packages/eui/src/components/tour/__snapshots__/tour_step_indicator.test.tsx.snap",
+  "packages/eui/src/components/tour/tour_step_indicator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 0,
+ "findings": 0,
+ "ms": 99862
+}

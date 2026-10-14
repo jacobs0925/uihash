@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "f32ac0f4d623a78c9e92c43e0f13e654eb5ce2ca",
+ "date": "2026-06-16",
+ "pr": "7930",
+ "title": "Reduce Blankslate small size padding (#7930)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "67 visual-test baselines updated"
+}

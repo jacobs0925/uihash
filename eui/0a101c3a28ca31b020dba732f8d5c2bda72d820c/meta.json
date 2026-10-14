@@ -1,0 +1,22 @@
+{
+ "repo": "eui",
+ "sha": "0a101c3a28ca31b020dba732f8d5c2bda72d820c",
+ "parent": "1917bce421fedb6957703717fba994f223321f9e",
+ "date": "2025-11-17",
+ "subject": "Removed paddings (#9190)",
+ "pr": "9190",
+ "components": [
+  "overlay_mask"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9190.md",
+  "packages/eui/src/components/overlay_mask/overlay_mask.styles.ts",
+  "packages/eui/src/components/overlay_mask/overlay_mask.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 0,
+ "findings": 0,
+ "ms": 131849
+}

@@ -1,0 +1,43 @@
+{
+ "repo": "primer-react",
+ "sha": "68019e8945a754bb0f97c9e963b90e2a9ccaaf85",
+ "parent": "535ced4af63fd9a5ba4f44ca79782ee4c5cecdbb",
+ "date": "2026-09-24",
+ "subject": "Allow SegmentedControl labels to wrap without overflow (#8442)",
+ "pr": "8442",
+ "components": [
+  "SegmentedControl"
+ ],
+ "files": [
+  ".changeset/segmented-control-wrap-labels.md",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-colorblind-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-tritanopia-linux.png",
+  "e2e/components/SegmentedControl.test.ts",
+  "packages/react/src/SegmentedControl/SegmentedControl.features.stories.module.css",
+  "packages/react/src/SegmentedControl/SegmentedControl.features.stories.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControl.module.css"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-colorblind-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-tritanopia-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': patch\n---\n\nSegmentedControl: Allow controls to grow vertically and preserve visible labels when they wrap\n",
+ "recipe": 1,
+ "stories": 42,
+ "findings": 1,
+ "ms": 69066
+}

@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "9fc422d33df96ec5ecf9427577cd92b74e95f525",
+ "date": "2025-11-05",
+ "pr": "9175",
+ "title": "Revert flyout system changes (#9175)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "transform: matrix(1, 0, 0, 1, 0, 0) → ∅ undone by 5be15239 \"Restore Flyout System feature in EUI (#9202)\"; z-index: 1000 → 999 undone by 5be15239 \"Restore Flyout System feature in EUI (#9202)\"; transform: matrix(1, 0, 0, 1, 0, 0) → ∅ undone by 5be15239 \"Restore Flyout System feature in EUI (#9202)\""
+}

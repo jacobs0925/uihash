@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "67945828439898ace865bd5f7417c562033bcbc2",
+ "date": "2026-09-25",
+ "pr": "8434",
+ "title": "AvatarStack: Prevent a thin edge from a masked avatar over the next avatar (#8434)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "AvatarStack: Prevent a thin edge from a masked avatar over the next avatar"
+}

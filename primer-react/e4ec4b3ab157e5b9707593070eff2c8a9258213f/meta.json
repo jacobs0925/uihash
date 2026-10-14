@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "e4ec4b3ab157e5b9707593070eff2c8a9258213f",
+ "parent": "6830a8ab3447ef6fb2c3898e120eed4ce11b56d9",
+ "date": "2026-07-09",
+ "subject": "Timeline: add Code Scanning event stories (Phase 2) (#8074)",
+ "pr": "8074",
+ "components": [
+  "Timeline"
+ ],
+ "files": [
+  "packages/react/src/Timeline/Timeline.code-scanning.features.stories.module.css",
+  "packages/react/src/Timeline/Timeline.code-scanning.features.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 54,
+ "findings": 0,
+ "ms": 77236
+}

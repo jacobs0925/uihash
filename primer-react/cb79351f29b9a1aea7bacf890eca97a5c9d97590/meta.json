@@ -1,0 +1,25 @@
+{
+ "repo": "primer-react",
+ "sha": "cb79351f29b9a1aea7bacf890eca97a5c9d97590",
+ "parent": "6f9e4485a107afdcd3eac73b52924a874b1261b2",
+ "date": "2026-06-24",
+ "subject": "Add NavList.Heading slot for accessible section-nav headings (#8031)",
+ "pr": "8031",
+ "components": [
+  "NavList"
+ ],
+ "files": [
+  ".changeset/navlist-heading-slot.md",
+  "packages/react/src/NavList/NavList.docs.json",
+  "packages/react/src/NavList/NavList.features.stories.tsx",
+  "packages/react/src/NavList/NavList.module.css",
+  "packages/react/src/NavList/NavList.test.tsx",
+  "packages/react/src/NavList/NavList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': minor\n---\n\nAdd a `NavList.Heading` slot that names the navigation region. It renders an `h2`\nby default (configurable to `h3` via `as`), supports a `visuallyHidden` variant,\nlabels the `nav` landmark via `aria-labelledby`, and makes `NavList.Group`\nheadings default to one level deeper (`h3`, or `h4` under an `h3` heading) for a\ncorrect heading hierarchy.\n",
+ "recipe": 1,
+ "stories": 57,
+ "findings": 0,
+ "ms": 88596
+}

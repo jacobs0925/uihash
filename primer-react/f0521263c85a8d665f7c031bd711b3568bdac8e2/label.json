@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "f0521263c85a8d665f7c031bd711b3568bdac8e2",
+ "date": "2026-06-23",
+ "pr": "8007",
+ "title": "perf(css): make ButtonGroup, Pagination, and Checkbox selectors bucketable (#8007)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Improve style-recalc performance by making ButtonGroup, DataTable Pagination, and Checkbox CSS selectors bucketable (removing universal `*`/`:not([attr])` subjects and `:is()` selector-list merges)"
+}

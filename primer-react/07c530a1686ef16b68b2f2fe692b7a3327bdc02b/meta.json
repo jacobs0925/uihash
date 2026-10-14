@@ -1,0 +1,28 @@
+{
+ "repo": "primer-react",
+ "sha": "07c530a1686ef16b68b2f2fe692b7a3327bdc02b",
+ "parent": "50face041d55eb800d643b0d264d23fc12fd4121",
+ "date": "2026-07-07",
+ "subject": "perf(css): remove expensive :has() selectors for Safari style-recalc (#8115)",
+ "pr": "8115",
+ "components": [
+  "ActionList",
+  "Breadcrumbs",
+  "SegmentedControl"
+ ],
+ "files": [
+  ".changeset/perf-remove-expensive-has-selectors.md",
+  "packages/react/src/ActionList/ActionList.module.css",
+  "packages/react/src/Breadcrumbs/Breadcrumbs.module.css",
+  "packages/react/src/Breadcrumbs/Breadcrumbs.tsx",
+  "packages/react/src/NavList/NavList.dev.stories.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControl.module.css",
+  "packages/react/src/experimental/SelectPanel2/SelectPanel.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nImprove rendering performance in Safari by removing expensive `:has()` selectors from ActionList/NavList, Breadcrumbs, SelectPanel, and SegmentedControl. No visual or API changes.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 123251
+}

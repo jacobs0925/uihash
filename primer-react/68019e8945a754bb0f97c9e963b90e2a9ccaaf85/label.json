@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "68019e8945a754bb0f97c9e963b90e2a9ccaaf85",
+ "date": "2026-09-24",
+ "pr": "8442",
+ "title": "Allow SegmentedControl labels to wrap without overflow (#8442)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "height: 32px → fit-content undone by c4189aa8 \"Revert SegmentedControl label wrapping (#8469)\"; min-height: ∅ → 32px undone by c4189aa8 \"Revert SegmentedControl label wrapping (#8469)\"; height: 32px → fit-content undone by c4189aa8 \"Revert SegmentedControl label wrapping (#8469)\""
+}

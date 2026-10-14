@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "9659ce767760d85c033e43e7e8ecdfdfb452dcb1",
+ "date": "2026-06-01",
+ "pr": "7899",
+ "title": "perf(TreeView): make rows paint-safe and reduce hover/focus invalidation (#7899)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "`TreeView`: make rows safer to use with `contain: paint` / `content-visibility: auto` and reduce style-recalc cost on hover/focus in large trees. No visual or layout changes; all changes are either invisible at the default rendering or behind an opt-in CSS containment property the consumer sets.\n\n- "
+}

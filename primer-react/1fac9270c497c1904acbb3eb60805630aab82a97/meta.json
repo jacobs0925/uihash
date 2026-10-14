@@ -1,0 +1,26 @@
+{
+ "repo": "primer-react",
+ "sha": "1fac9270c497c1904acbb3eb60805630aab82a97",
+ "parent": "b7d6d21b3a093354481bb6173276aa8905dd144f",
+ "date": "2026-06-12",
+ "subject": "Fix missing item gap before expanded NavList sub-navs (#7976)",
+ "pr": "7976",
+ "components": [
+  "ActionList"
+ ],
+ "files": [
+  ".changeset/action-list-item-gap.md",
+  "packages/react/src/ActionList/ActionList.module.css",
+  "packages/react/src/ActionList/ActionList.test.tsx",
+  "packages/react/src/ActionList/List.tsx",
+  "packages/react/src/FeatureFlags/DefaultFeatureFlags.ts",
+  "packages/react/src/NavList/NavList.features.stories.tsx",
+  "packages/react/src/NavList/NavList.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nNavList: add a small gap between items for readability, including before expanded sub-navs, behind the `primer_react_action_list_item_gap` feature flag\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 129998
+}

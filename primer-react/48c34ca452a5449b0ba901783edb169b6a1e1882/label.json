@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "48c34ca452a5449b0ba901783edb169b6a1e1882",
+ "date": "2026-06-15",
+ "pr": "7929",
+ "title": "fix: update FilteredActionList skeleton to use deterministic widths (#7929)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "31 visual-test baselines updated"
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "primer-react",
+ "sha": "8288ed9d88668f93cf3b1eb70ee61edac6217367",
+ "parent": "07c530a1686ef16b68b2f2fe692b7a3327bdc02b",
+ "date": "2026-07-07",
+ "subject": "perf(PageHeader): replace 18 :has() selectors with hoisted data attributes (#7901)",
+ "pr": "7901",
+ "components": [
+  "PageHeader"
+ ],
+ "files": [
+  ".changeset/perf-pageheader-has-selectors.md",
+  "packages/react/src/PageHeader/PageHeader.module.css",
+  "packages/react/src/PageHeader/PageHeader.test.tsx",
+  "packages/react/src/PageHeader/PageHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nPageHeader: improve rendering performance by removing expensive `:has()` selectors. No visual or API changes.\n",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 0,
+ "ms": 86988
+}

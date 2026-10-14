@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "9ba3394b42b9a517941b90ab571ef8df10fd06d5",
+ "parent": "80a68cf05226323ad8cbc0531f244d60ea6747e3",
+ "date": "2026-08-19",
+ "subject": "Add an interactive Timeline Playground story and rename Playground to Event Playground (#8322)",
+ "pr": "8322",
+ "components": [
+  "Timeline"
+ ],
+ "files": [
+  "packages/react/src/Timeline/Timeline.stories.module.css",
+  "packages/react/src/Timeline/Timeline.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 95833
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "fceb655f87d6eaf700f89d6d048c62f6d7faee78",
+ "parent": "4f8dca169e155d0ba69a2ec874e3c704e3a2b8b6",
+ "date": "2026-07-09",
+ "subject": "Timeline: CommentCard uses shared MutedTime permalink helper (#8141)",
+ "pr": "8141",
+ "components": [
+  "Timeline"
+ ],
+ "files": [
+  "packages/react/src/Timeline/internal/CommentCard.module.css",
+  "packages/react/src/Timeline/internal/CommentCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 93261
+}

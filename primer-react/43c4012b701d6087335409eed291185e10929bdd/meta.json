@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "43c4012b701d6087335409eed291185e10929bdd",
+ "parent": "0cb8e17219f61f853fcf06ce9ee09c755c9ef5ff",
+ "date": "2026-07-08",
+ "subject": "Timeline: add Dependabot event stories (Phase 2) (#8071)",
+ "pr": "8071",
+ "components": [
+  "Timeline"
+ ],
+ "files": [
+  "packages/react/src/Timeline/Timeline.dependabot.features.stories.module.css",
+  "packages/react/src/Timeline/Timeline.dependabot.features.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 39,
+ "findings": 0,
+ "ms": 53510
+}

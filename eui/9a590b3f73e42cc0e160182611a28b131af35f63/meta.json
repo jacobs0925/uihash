@@ -1,0 +1,24 @@
+{
+ "repo": "eui",
+ "sha": "9a590b3f73e42cc0e160182611a28b131af35f63",
+ "parent": "8c4da8b349ef751f47113d2163172406591f9d58",
+ "date": "2025-11-24",
+ "subject": "[EuiButton] Use `euiDisabledSelector` in `useEuiButtonColorCSS` (#9226)",
+ "pr": "9226",
+ "components": [
+  "button"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9226.md",
+  "packages/eui/src/components/button/button_group/button_group.styles.ts",
+  "packages/eui/src/components/button/button_group/button_group_button.styles.ts",
+  "packages/eui/src/global_styling/mixins/__snapshots__/_button.test.ts.snap",
+  "packages/eui/src/global_styling/mixins/_button.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 21,
+ "findings": 2,
+ "ms": 117315
+}

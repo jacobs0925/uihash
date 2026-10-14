@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "e58907c5559f5ef8133a1d98a05e2e4a6c1ca6cb",
+ "date": "2026-06-25",
+ "pr": "7506",
+ "title": "Fix and refactor `UnderlineNav` to resolve CLS issues and improve performance/code quality (#7506)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "99 visual-test baselines updated"
+}

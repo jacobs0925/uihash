@@ -1,0 +1,21 @@
+{
+ "repo": "eui",
+ "sha": "2fa28ccde377534d6573c052da768456233cc9dc",
+ "parent": "6d0dd124a5a77aa4881e72c1f09574c06dfc11bb",
+ "date": "2025-11-28",
+ "subject": "[EuiIcon] Set stroke color for logoElastic (#9247)",
+ "pr": "9247",
+ "components": [
+  "icon"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9247.md",
+  "packages/eui/src/components/icon/icon.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 0,
+ "findings": 0,
+ "ms": 89508
+}

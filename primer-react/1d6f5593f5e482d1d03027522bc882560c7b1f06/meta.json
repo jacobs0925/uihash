@@ -1,0 +1,23 @@
+{
+ "repo": "primer-react",
+ "sha": "1d6f5593f5e482d1d03027522bc882560c7b1f06",
+ "parent": "34c998c30166927519d88bd9b7656efc07acb3f6",
+ "date": "2026-07-20",
+ "subject": "Timeline.Actions: wrap below Body on narrow viewports (#8169)",
+ "pr": "8169",
+ "components": [
+  "Timeline"
+ ],
+ "files": [
+  ".changeset/timeline-actions-narrow-viewport.md",
+  "packages/react/src/Timeline/Timeline.features.stories.module.css",
+  "packages/react/src/Timeline/Timeline.features.stories.tsx",
+  "packages/react/src/Timeline/Timeline.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nTimeline: `Timeline.Actions` now wraps onto a new row below `Timeline.Body`, left-aligned with the body content, when `Timeline.Item` is narrower than 480px.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 117786
+}

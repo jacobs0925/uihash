@@ -1,0 +1,24 @@
+{
+ "repo": "primer-react",
+ "sha": "163698e9df9f4b6b6aa2a0f9a850fdc59cbde5b5",
+ "parent": "adc5299f3d98519119fb9547e50dd2985fc96174",
+ "date": "2026-06-01",
+ "subject": "Replace Timeline Playground with Custom Event playground (#7836)",
+ "pr": "7836",
+ "components": [
+  "Timeline"
+ ],
+ "files": [
+  "packages/react/src/Timeline/Timeline.dev.stories.tsx",
+  "packages/react/src/Timeline/Timeline.features.stories.tsx",
+  "packages/react/src/Timeline/Timeline.stories.module.css",
+  "packages/react/src/Timeline/Timeline.stories.tsx",
+  "packages/react/src/Timeline/Timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 30,
+ "findings": 3,
+ "ms": 55282
+}

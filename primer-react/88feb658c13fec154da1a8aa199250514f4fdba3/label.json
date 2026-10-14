@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "88feb658c13fec154da1a8aa199250514f4fdba3",
+ "date": "2026-08-19",
+ "pr": "8304",
+ "title": "Animate `SegmentedControl` when switching between items (#8304)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Animate `SegmentedControl` when switching between items"
+}

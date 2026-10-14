@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "b1117811cebfb9463f20fe76f77cdf13917ae6b2",
+ "date": "2026-08-20",
+ "pr": "8311",
+ "title": "notification indicator (#8311)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Button: Add configurable notification indicators to Button and IconButton"
+}

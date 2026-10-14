@@ -1,0 +1,22 @@
+{
+ "repo": "primer-react",
+ "sha": "e25a1a9828d542de2f8eb9598cb13f26e40e367f",
+ "parent": "43c4012b701d6087335409eed291185e10929bdd",
+ "date": "2026-07-08",
+ "subject": "Timeline: add shared internal story helpers (UserActor, EventSubRow, permalink time) (#8140)",
+ "pr": "8140",
+ "components": [
+  "Timeline"
+ ],
+ "files": [
+  "packages/react/src/Timeline/internal/timelineStoryHelpers.module.css",
+  "packages/react/src/Timeline/internal/timelineStoryHelpers.stories.tsx",
+  "packages/react/src/Timeline/internal/timelineStoryHelpers.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 54,
+ "findings": 2,
+ "ms": 67277
+}

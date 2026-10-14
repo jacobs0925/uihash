@@ -1,0 +1,24 @@
+{
+ "repo": "eui",
+ "sha": "365675284a12f46038aa32f831d4906854486a38",
+ "parent": "4aa060a5feac834b286ec5b18edcff6c6f567b4f",
+ "date": "2025-12-16",
+ "subject": "Add Emotion container query utilities (#9264)",
+ "pr": "9264",
+ "components": [
+  "flyout"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9264.md",
+  "packages/eui/src/components/flyout/flyout.styles.ts",
+  "packages/eui/src/global_styling/mixins/_container_query.test.tsx",
+  "packages/eui/src/global_styling/mixins/_container_query.ts",
+  "packages/eui/src/global_styling/mixins/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 21,
+ "findings": 0,
+ "ms": 202839
+}

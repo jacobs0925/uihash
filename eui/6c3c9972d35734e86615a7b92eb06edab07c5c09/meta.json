@@ -1,0 +1,24 @@
+{
+ "repo": "eui",
+ "sha": "6c3c9972d35734e86615a7b92eb06edab07c5c09",
+ "parent": "4548eb72da7c218ad697d91e8b5110231c828259",
+ "date": "2025-11-11",
+ "subject": "[EuiTable] Fix mobile table row `clip-path` (#9206)",
+ "pr": "9206",
+ "components": [
+  "table"
+ ],
+ "files": [
+  "packages/eui/.loki/reference/chrome_desktop_Tabular_Content_EuiBasicTable_Large_Expanded_Row.png",
+  "packages/eui/.loki/reference/chrome_mobile_Tabular_Content_EuiBasicTable_Large_Expanded_Row.png",
+  "packages/eui/changelogs/upcoming/9206.md",
+  "packages/eui/src/components/basic_table/basic_table.stories.tsx",
+  "packages/eui/src/components/table/table_row.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 9,
+ "findings": 0,
+ "ms": 117300
+}

@@ -33,6 +33,7 @@
   "packages/eui/src/components/flyout/README.md",
   "packages/eui/src/components/flyout/__snapshots__/flyout.test.tsx.snap",
   "packages/eui/src/components/flyout/_flyout_overlay.tsx",
+  "packages/eui/src/components/flyout/_flyout_resize_button.styles.ts",
   "packages/eui/src/components/flyout/_flyout_resize_button.tsx",
   "packages/eui/src/components/flyout/const.ts",
   "packages/eui/src/components/flyout/flyout.component.tsx",
@@ -119,7 +120,8 @@
  ],
  "snapshotsUpdated": [],
  "changeset": "",
- "stories": 51,
- "findings": 8,
- "ms": 444846
+ "recipe": 2,
+ "stories": 9,
+ "findings": 6,
+ "ms": 221756
 }

@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "c4189aa896eaf53b7ce41a71150df10d757732f1",
+ "date": "2026-09-30",
+ "pr": "8469",
+ "title": "Revert SegmentedControl label wrapping (#8469)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "9 visual-test baselines updated"
+}

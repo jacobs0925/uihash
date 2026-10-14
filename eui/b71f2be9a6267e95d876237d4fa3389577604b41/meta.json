@@ -1,0 +1,24 @@
+{
+ "repo": "eui",
+ "sha": "b71f2be9a6267e95d876237d4fa3389577604b41",
+ "parent": "8becb5abd9a9314151ecef33dfac0561f420828d",
+ "date": "2025-11-20",
+ "subject": "[EuiSuperDatePicker] Add tooltip with full range to \"pretty duration\" button (#9221)",
+ "pr": "9221",
+ "components": [
+  "date_picker"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9221.md",
+  "packages/eui/src/components/date_picker/super_date_picker/__snapshots__/super_date_picker.test.tsx.snap",
+  "packages/eui/src/components/date_picker/super_date_picker/super_date_picker.styles.ts",
+  "packages/eui/src/components/date_picker/super_date_picker/super_date_picker.test.tsx",
+  "packages/eui/src/components/date_picker/super_date_picker/super_date_picker.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 45,
+ "findings": 3,
+ "ms": 187779
+}

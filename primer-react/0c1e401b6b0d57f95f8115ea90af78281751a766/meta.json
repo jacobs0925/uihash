@@ -1,0 +1,23 @@
+{
+ "repo": "primer-react",
+ "sha": "0c1e401b6b0d57f95f8115ea90af78281751a766",
+ "parent": "85ec812ab7c4ab3fc4d0eec238d4c2658e11d238",
+ "date": "2026-08-05",
+ "subject": "NavList: Fix group heading list item counts (#8273)",
+ "pr": "8273",
+ "components": [
+  "ActionList"
+ ],
+ "files": [
+  ".changeset/fuzzy-lists-count.md",
+  "packages/react/src/ActionList/Group.module.css",
+  "packages/react/src/NavList/NavList.test.tsx",
+  "packages/react/src/NavList/NavList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nNavList: Exclude group headings from navigation list item counts",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 128084
+}

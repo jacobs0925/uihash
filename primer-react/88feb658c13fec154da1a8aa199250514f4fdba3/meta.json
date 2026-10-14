@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "88feb658c13fec154da1a8aa199250514f4fdba3",
+ "parent": "bfebb8a538e6f068a457722b154799876bda3ab4",
+ "date": "2026-08-19",
+ "subject": "Animate `SegmentedControl` when switching between items (#8304)",
+ "pr": "8304",
+ "components": [
+  "SegmentedControl"
+ ],
+ "files": [
+  ".changeset/three-places-invent.md",
+  "packages/react/src/SegmentedControl/SegmentedControl.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@primer/react\": patch\n---\n\nAnimate `SegmentedControl` when switching between items\n",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 2,
+ "ms": 55712
+}

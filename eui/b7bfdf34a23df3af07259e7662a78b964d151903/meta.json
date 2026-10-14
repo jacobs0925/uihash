@@ -1,0 +1,21 @@
+{
+ "repo": "eui",
+ "sha": "b7bfdf34a23df3af07259e7662a78b964d151903",
+ "parent": "46d432acdc129029b44e3ecdea0eac320013e346",
+ "date": "2025-11-05",
+ "subject": "[EuiDataGrid] Remove `pointer-events: none` on header actions (#9177)",
+ "pr": "9177",
+ "components": [
+  "datagrid"
+ ],
+ "files": [
+  "packages/eui/src/components/datagrid/body/header/data_grid_header_cell.styles.ts",
+  "packages/eui/src/components/datagrid/body/header/draggable_columns.spec.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 72,
+ "findings": 7,
+ "ms": 321621
+}

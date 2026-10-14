@@ -1,0 +1,27 @@
+{
+ "repo": "eui",
+ "sha": "cdd91fb16cbf192aa175a1e34c9156d7fdce033b",
+ "parent": "4b8099c537120a247c0008a70300fca580594996",
+ "date": "2025-11-06",
+ "subject": "[EuiButtonGroup] Ensure square button sizing with `isIconOnly` (#9170)",
+ "pr": "9170",
+ "components": [
+  "button"
+ ],
+ "files": [
+  "packages/eui/.loki/reference/chrome_desktop_Navigation_EuiButtonGroup_Icon_Only.png",
+  "packages/eui/.loki/reference/chrome_desktop_Navigation_EuiButtonGroup_With_Tooltips.png",
+  "packages/eui/.loki/reference/chrome_mobile_Navigation_EuiButtonGroup_Icon_Only.png",
+  "packages/eui/.loki/reference/chrome_mobile_Navigation_EuiButtonGroup_With_Tooltips.png",
+  "packages/eui/changelogs/upcoming/9170.md",
+  "packages/eui/src/components/button/button_group/button_group.stories.tsx",
+  "packages/eui/src/components/button/button_group/button_group_button.styles.ts",
+  "packages/eui/src/components/button/button_group/button_group_button.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 15,
+ "findings": 3,
+ "ms": 130891
+}

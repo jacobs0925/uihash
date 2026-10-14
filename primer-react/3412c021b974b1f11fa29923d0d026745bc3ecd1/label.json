@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "3412c021b974b1f11fa29923d0d026745bc3ecd1",
+ "date": "2026-09-17",
+ "pr": "8426",
+ "title": "Revert \"Button: Limit link underline to the label\" (#8426)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "27 visual-test baselines updated"
+}

@@ -1,0 +1,31 @@
+{
+ "repo": "primer-react",
+ "sha": "e9a225421df61e7fa62da1b2796972122d266d36",
+ "parent": "49a546fcb3901c139a3abe8f1daea7b5f3427f5d",
+ "date": "2026-06-01",
+ "subject": "Fix KeybindingHint key display on non-MacOS/Windows platforms (#7908)",
+ "pr": "7908",
+ "components": [
+  "KeybindingHint"
+ ],
+ "files": [
+  ".changeset/keybinding-hint-platform-keys.md",
+  "packages/react/src/KeybindingHint/KeybindingHint.features.stories.module.css",
+  "packages/react/src/KeybindingHint/KeybindingHint.features.stories.tsx",
+  "packages/react/src/KeybindingHint/KeybindingHint.test.tsx",
+  "packages/react/src/KeybindingHint/KeybindingHint.tsx",
+  "packages/react/src/KeybindingHint/components/Chord.tsx",
+  "packages/react/src/KeybindingHint/components/Key.tsx",
+  "packages/react/src/KeybindingHint/components/Sequence.tsx",
+  "packages/react/src/KeybindingHint/key-names.ts",
+  "packages/react/src/KeybindingHint/platform.ts",
+  "packages/react/src/TooltipV2/Tooltip.tsx",
+  "packages/react/src/TreeView/TreeView.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\n`KeybindingHint`: display the `Meta` key correctly on platforms other than macOS and Windows. The `Meta`, `Alt`, and `Mod` keys are now resolved based on the detected platform: Apple platforms (macOS and iOS) show `⌘`/`⌥`, Windows shows `Win`, and all other platforms show `Meta`/`Alt`.\n",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 0,
+ "ms": 101031
+}

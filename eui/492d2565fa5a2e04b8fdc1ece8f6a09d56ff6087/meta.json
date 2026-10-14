@@ -58,7 +58,8 @@
  ],
  "snapshotsUpdated": [],
  "changeset": "",
- "stories": 72,
- "findings": 1,
- "ms": 750892
+ "recipe": 2,
+ "stories": 57,
+ "findings": 4,
+ "ms": 286730
 }

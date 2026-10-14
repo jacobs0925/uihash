@@ -1,0 +1,21 @@
+{
+ "repo": "primer-react",
+ "sha": "4f8dca169e155d0ba69a2ec874e3c704e3a2b8b6",
+ "parent": "1e36557b4389e3ab3ebcf0abba06b7bec5044738",
+ "date": "2026-07-09",
+ "subject": "Timeline: Dependabot stories use shared internal helpers (UserActor, EventSubRow) (#8142)",
+ "pr": "8142",
+ "components": [
+  "Timeline"
+ ],
+ "files": [
+  "packages/react/src/Timeline/Timeline.dependabot.features.stories.module.css",
+  "packages/react/src/Timeline/Timeline.dependabot.features.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 8,
+ "ms": 95840
+}

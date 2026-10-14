@@ -1,0 +1,32 @@
+{
+ "repo": "eui",
+ "sha": "2c10c34a890f22df0ffd15dabcc72fb3ac1df233",
+ "parent": "5e557346f8b5a335f96a3511cae370464f881cce",
+ "date": "2025-11-24",
+ "subject": "[EuiPageTemplate] Remove shaded backgrounds (#9220)",
+ "pr": "9220",
+ "components": [
+  "page",
+  "page_template"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9220.md",
+  "packages/eui/src/components/page/__snapshots__/page.test.tsx.snap",
+  "packages/eui/src/components/page/page.stories.tsx",
+  "packages/eui/src/components/page/page.styles.ts",
+  "packages/eui/src/components/page/page.tsx",
+  "packages/eui/src/components/page/page_header/__snapshots__/page_header.test.tsx.snap",
+  "packages/eui/src/components/page/page_header/page_header.tsx",
+  "packages/eui/src/components/page_template/__snapshots__/page_template.test.tsx.snap",
+  "packages/eui/src/components/page_template/inner/page_inner.tsx",
+  "packages/eui/src/components/page_template/outer/page_outer.styles.ts",
+  "packages/eui/src/components/page_template/outer/page_outer.tsx",
+  "packages/eui/src/components/page_template/page_template.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 24,
+ "findings": 3,
+ "ms": 155998
+}

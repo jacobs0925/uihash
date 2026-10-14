@@ -1,0 +1,43 @@
+{
+ "repo": "primer-react",
+ "sha": "c4189aa896eaf53b7ce41a71150df10d757732f1",
+ "parent": "a89299ae77e8f444599f94d7e9ca368c17be3f9a",
+ "date": "2026-09-30",
+ "subject": "Revert SegmentedControl label wrapping (#8469)",
+ "pr": "8469",
+ "components": [
+  "SegmentedControl"
+ ],
+ "files": [
+  ".changeset/segmented-control-wrap-labels.md",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-colorblind-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-tritanopia-linux.png",
+  "e2e/components/SegmentedControl.test.ts",
+  "packages/react/src/SegmentedControl/SegmentedControl.features.stories.module.css",
+  "packages/react/src/SegmentedControl/SegmentedControl.features.stories.tsx",
+  "packages/react/src/SegmentedControl/SegmentedControl.module.css"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-colorblind-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-linux.png",
+  ".playwright/snapshots/components/SegmentedControl.test.ts-snapshots/SegmentedControl-Multiline-Labels-light-tritanopia-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 42,
+ "findings": 1,
+ "ms": 67430
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "eui",
+ "sha": "59a3ee037d54e0839423a85b266b6e2b30ab88ea",
+ "parent": "738fa96b736743f5c5e8d42eb266cdccca8cd8c3",
+ "date": "2025-12-11",
+ "subject": "[EuiDataGrid] Update fullscreen z-index (#9267)",
+ "pr": "9267",
+ "components": [
+  "datagrid"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9267.md",
+  "packages/eui/src/components/datagrid/controls/fullscreen_selector.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 72,
+ "findings": 11,
+ "ms": 333064
+}

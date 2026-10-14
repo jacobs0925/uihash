@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "4266cab4cb9e744f70cc13a8904c3b29a6499284",
+ "date": "2026-09-01",
+ "pr": "8325",
+ "title": "SegmentedControl: add subtle variant and action slot (#8325)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "27 visual-test baselines updated"
+}

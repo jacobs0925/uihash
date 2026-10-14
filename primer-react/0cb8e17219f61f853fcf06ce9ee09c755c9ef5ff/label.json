@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "0cb8e17219f61f853fcf06ce9ee09c755c9ef5ff",
+ "date": "2026-07-08",
+ "pr": "8133",
+ "title": "`UnderlineNav`: Replace dynamic icon visibility logic with hardcoded breakpoints (#8133)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "101 visual-test baselines updated"
+}

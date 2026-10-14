@@ -1,0 +1,23 @@
+{
+ "repo": "primer-react",
+ "sha": "55b7b04647af9d7812e9ff77605524048358039c",
+ "parent": "d829b12842a75f4c50a8d874f0e58ae1962ba4c4",
+ "date": "2026-06-05",
+ "subject": "InlineMessage: make `variant` prop optional (#7922)",
+ "pr": "7922",
+ "components": [
+  "InlineMessage"
+ ],
+ "files": [
+  ".changeset/inline-message-optional-variant.md",
+  "packages/react/src/InlineMessage/InlineMessage.module.css",
+  "packages/react/src/InlineMessage/InlineMessage.test.tsx",
+  "packages/react/src/InlineMessage/InlineMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': minor\n---\n\nInlineMessage: Make `variant` prop optional, defaulting to the standard foreground color with an info icon\n",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 54049
+}

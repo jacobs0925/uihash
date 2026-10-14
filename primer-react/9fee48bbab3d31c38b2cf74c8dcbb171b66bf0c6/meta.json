@@ -1,0 +1,26 @@
+{
+ "repo": "primer-react",
+ "sha": "9fee48bbab3d31c38b2cf74c8dcbb171b66bf0c6",
+ "parent": "d4304a556752465434534db90ad9640a888df96b",
+ "date": "2026-08-31",
+ "subject": "Add presentational Viewing-menu (Timeline filter) demo story (#8327)",
+ "pr": "8327",
+ "components": [
+  "Timeline"
+ ],
+ "files": [
+  "packages/react/src/Timeline/Timeline.filter.features.stories.module.css",
+  "packages/react/src/Timeline/Timeline.filter.features.stories.tsx",
+  "packages/react/src/Timeline/Timeline.stories.module.css",
+  "packages/react/src/Timeline/Timeline.stories.tsx",
+  "packages/react/src/Timeline/internal/timelinePlaygroundData.tsx",
+  "packages/react/src/Timeline/internal/timelineStoryHelpers.module.css",
+  "packages/react/src/Timeline/internal/timelineStoryHelpers.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 100855
+}

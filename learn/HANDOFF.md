@@ -455,6 +455,31 @@ git-agent repositories (Copilot agent, Claude Code, Codex), whose reverts are fe
 22 % of Lovable restores undo an earlier restore (the person going back and forth), and many "fix" commits are
 iterative tuning rather than regressions, so only restores give labels.
 
+**More Lovable apps (fourth assessment, October 2026).** 489 more licensed repositories were screened from
+git, found through GitHub's repository search (`license:` with a Lovable README marker; commit search cannot
+filter by license, and 0 of 25 repositories sampled from its "Reverted to commit" hits had a license). 9 had
+15 or more restores since 2025-10. Four build, render real content offline, settle, and check clean against a
+copy of themselves under uihash (every finding of a build against itself is noise). They walk after
+milk-me-not, all with bun, since Lovable keeps `bun.lock` current and lets `package-lock.json` drift (`npm ci`
+fails at some commits of each):
+
+| repository | what it is | commits since 2025-10 (with UI files) | Lovable restores | routes checked |
+|---|---|---|---|---|
+| laurieai94/heartlines-ai (MIT) | AI relationship coach: marketing pages and a chat app | 2,978 (2,531) | 216 | /mission, /privacy-and-security, /plans, /terms |
+| ingrefling/unboxed-loyalty-spark (MIT) | onchain loyalty platform: pitch, guide and portal pages | 1,152 (689) | 39 | /pitch, /guide, /customer |
+| RaiTech-Dev/pronghorn (MIT) | Government of Alberta's standards-first AI software platform | 1,796 (1,261) | 17 | /, /auth, /terms |
+| ddaeducation/skilla (MIT) | online learning platform | 379 (312) | 20 | /, /programs/all, /auth |
+
+heartlines alone has more restores than the first three apps together, but its forced hover and focus states
+depend on timing when uihash renders four pages at once: checked against itself, 2–13 noise findings in 5 of
+9 runs, against 0 in 5 of 5 one page at a time. Its recipe sets `concurrency: 1` (each check about twice as
+slow) and skips "/" (a hero slideshow that never stops) and /showcase (noise in one of two runs). Left out:
+optimum-immo-boss (animates forever), FUN-Play (a Supabase video feed), solana-style-studio (a wallet
+error on every route offline), vibing-arkanoid-qum (a canvas game: invisible to uihash) and travel-hr-buddy
+(logged-in dashboards only). Two other builders record exact restores too: Replit Agent (`Restored to <sha>`,
+with a `Replit-Restored-To:` trailer) and Dyad (`Reverted all changes back to version <sha>`), but their
+licensed repositories are as rare, and Replit apps are mostly Express servers that render little offline.
+
 **Pipeline** (`learn/public/`):
 
 - `repos.json`: how to build each library, in the order the loop walks them: install command, the
@@ -481,7 +506,9 @@ iterative tuning rather than regressions, so only restores give labels.
 
   An app gives `pages.routes`, the routes checked at every commit, and `pages.router`, the file whose
   `<Route path="/x" element={<X />} />` lines map a changed page file to its route, which is checked first
-  (up to `pages.max`, default 6). Any style file under `componentRoot` makes a commit count. Lovable records
+  (up to `pages.max`, default 6). Pages imported from a relative path or from `@/` (Lovable's alias for
+  `src/`), directly or through `lazy()`, are mapped; `pages.skip` lists routes never checked. Any style file
+  under `componentRoot` makes a commit count. Lovable records
   each edit as a merge commit ("Changes" merged under the edit's title), so the app recipes set `merges`.
   They also set:
   - `keys: "tag"`: their styling is Tailwind class names, so elements are matched by tag. Matched by class,
@@ -492,6 +519,8 @@ iterative tuning rather than regressions, so only restores give labels.
     and cannot make the two builds differ.
   - `restores`: the regex of the tool's restore commits (`^Reverted to commit ([0-9a-f]{7,40})$`). walk.js
     writes the first-parent order and each restore's discarded commits to `restores.json` for label.js.
+  - `concurrency` (optional): how many pages uihash renders at once (default 4); 1 for an app whose forced
+    states depend on timing under load (heartlines).
   - `build`: `npx vite build` straight, which skips the repositories' pre- and post-build hooks (one pings
     search engines). A plugin that runs only in production mode (aiwebtools' prerender) is skipped with a mode
     of the recipe's own (`--mode uihash`).

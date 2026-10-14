@@ -93,6 +93,151 @@
     "offline": true,
     "restores": "^Reverted to commit ([0-9a-f]{7,40})$"
   },
+  "loyal-spark": {
+    "url": "https://github.com/ingrefling/unboxed-loyalty-spark",
+    "branch": "a2a-agents",
+    "merges": true,
+    "lockfile": [
+      "bun.lock",
+      "package-lock.json"
+    ],
+    "install": "npx -y bun@1.2.23 install --ignore-scripts",
+    "build": "npx vite build --outDir {out} --emptyOutDir",
+    "pages": {
+      "routes": [
+        "/pitch",
+        "/guide",
+        "/customer"
+      ],
+      "router": "src/App.tsx",
+      "spa": "index.html"
+    },
+    "componentRoot": "src",
+    "skipDirs": [
+      "integrations",
+      "test",
+      "tests",
+      "__tests__",
+      "stories",
+      "types"
+    ],
+    "style": "(?<!\\.(test|spec|stories))\\.(tsx|jsx|css)$",
+    "snapshots": "(?!)",
+    "keys": "tag",
+    "offline": true,
+    "restores": "^Reverted to commit ([0-9a-f]{7,40})$"
+  },
+  "heartlines": {
+    "url": "https://github.com/laurieai94/heartlines-ai",
+    "branch": "main",
+    "merges": true,
+    "lockfile": [
+      "bun.lock",
+      "package-lock.json"
+    ],
+    "install": "npx -y bun@1.2.23 install --ignore-scripts",
+    "build": "npx vite build --outDir {out} --emptyOutDir",
+    "pages": {
+      "routes": [
+        "/mission",
+        "/privacy-and-security",
+        "/plans",
+        "/terms"
+      ],
+      "router": "src/App.tsx",
+      "spa": "index.html",
+      "skip": [
+        "/",
+        "/showcase",
+        "/showcase/demo",
+        "/showcase/embed"
+      ]
+    },
+    "componentRoot": "src",
+    "skipDirs": [
+      "integrations",
+      "test",
+      "tests",
+      "__tests__",
+      "stories",
+      "types"
+    ],
+    "style": "(?<!\\.(test|spec|stories))\\.(tsx|jsx|css)$",
+    "snapshots": "(?!)",
+    "keys": "tag",
+    "offline": true,
+    "restores": "^Reverted to commit ([0-9a-f]{7,40})$",
+    "concurrency": 1
+  },
+  "pronghorn": {
+    "url": "https://github.com/RaiTech-Dev/pronghorn",
+    "branch": "main",
+    "merges": true,
+    "lockfile": [
+      "bun.lock",
+      "package-lock.json"
+    ],
+    "install": "npx -y bun@1.2.23 install --ignore-scripts",
+    "build": "npx vite build --outDir {out} --emptyOutDir",
+    "pages": {
+      "routes": [
+        "/",
+        "/auth",
+        "/terms"
+      ],
+      "router": "src/App.tsx",
+      "spa": "index.html"
+    },
+    "componentRoot": "src",
+    "skipDirs": [
+      "integrations",
+      "test",
+      "tests",
+      "__tests__",
+      "stories",
+      "types"
+    ],
+    "style": "(?<!\\.(test|spec|stories))\\.(tsx|jsx|css)$",
+    "snapshots": "(?!)",
+    "keys": "tag",
+    "offline": true,
+    "restores": "^Reverted to commit ([0-9a-f]{7,40})$"
+  },
+  "skilla": {
+    "url": "https://github.com/ddaeducation/skilla",
+    "branch": "main",
+    "merges": true,
+    "lockfile": [
+      "bun.lock",
+      "package-lock.json",
+      "bun.lockb"
+    ],
+    "install": "npx -y bun@1.2.23 install --ignore-scripts",
+    "build": "npx vite build --outDir {out} --emptyOutDir",
+    "pages": {
+      "routes": [
+        "/",
+        "/programs/all",
+        "/auth"
+      ],
+      "router": "src/App.tsx",
+      "spa": "index.html"
+    },
+    "componentRoot": "src",
+    "skipDirs": [
+      "integrations",
+      "test",
+      "tests",
+      "__tests__",
+      "stories",
+      "types"
+    ],
+    "style": "(?<!\\.(test|spec|stories))\\.(tsx|jsx|css)$",
+    "snapshots": "(?!)",
+    "keys": "tag",
+    "offline": true,
+    "restores": "^Reverted to commit ([0-9a-f]{7,40})$"
+  },
   "primer-react": {
     "url": "https://github.com/primer/react",
     "branch": "main",

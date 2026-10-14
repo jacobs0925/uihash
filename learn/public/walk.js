@@ -53,7 +53,9 @@ function ensureClone() {
 }
 function commits(since) {
   // no rename detection: in a blob-less clone it fetches file contents commit by commit (minutes on a large history).
-  // "merges": true where PRs land as merge commits: each merge then stands for its PR (its files against the first parent)
+  // "merges": true where PRs land as merge commits: each merge then stands for its PR (its files against the first parent).
+  // A bare date is midnight UTC: git reads "2025-10-01" as that day at the current time of day
+  if (/^\d{4}-\d{2}-\d{2}$/.test(since)) since += 'T00:00:00Z';
   const raw = git(['log', '--first-parent', ...(R.merges ? [] : ['--no-merges']), '--no-renames', `--since=${since}`, '--format=@@%H%x09%P%x09%ad%x09%s', '--date=short', '--name-only', `origin/${R.branch}`]);
   return raw.split('@@').slice(1).map((b) => { const [h, ...files] = b.trim().split('\n'); const [sha, parents, date, subject] = h.split('\t');
     return { sha, parent: parents.split(' ')[0], date, subject, files: files.filter(Boolean), pr: (/\(#(\d+)\)\s*$/.exec(subject) || (R.merges && /^Merge pull request #(\d+)/.exec(subject)) || [])[1] }; }).reverse();
@@ -178,16 +180,19 @@ function pageList(c, max, comps) {
 
 // An app ("pages.routes"): the routes whose page component the commit changed, found through the router file
 // (pages.router: <Route path="/x" element={<X />} /> with X imported from a file), when the parent has them too,
-// then the recipe's own routes (those every commit is checked on), up to pages.max (default 6)
+// then the recipe's own routes (those every commit is checked on), up to pages.max (default 6). pages.skip: routes
+// never checked (a page that never settles, or one that differs between two renders of the same build)
 function appRoutes(c) {
   const show = (sha, f) => { try { return git(['show', `${sha}:${f}`]); } catch (e) { return ''; } };
   const found = [];
   if (R.pages.router) {
     const text = show(c.sha, R.pages.router), before = show(c.parent, R.pages.router), dir = path.posix.dirname(R.pages.router), file = {};
-    for (const m of text.matchAll(/import\s+(\w+)\s+from\s+["'](\.[^"']+)["']|(\w+)\s*=\s*\w*[lL]azy\w*\(\s*\(\)\s*=>\s*import\(\s*["'](\.[^"']+)["']/g)) file[m[1] || m[3]] = path.posix.join(dir, m[2] || m[4]);
+    // relative imports, and "@/" for src/ (the alias Lovable's Vite config sets)
+    const where = (p) => (p.startsWith('@/') ? path.posix.join('src', p.slice(2)) : path.posix.join(dir, p));
+    for (const m of text.matchAll(/import\s+(\w+)\s+from\s+["']((?:\.|@\/)[^"']+)["']|(\w+)\s*=\s*(?:\w+\.)?\w*[lL]azy\w*\(\s*\(\)\s*=>\s*import\(\s*["']((?:\.|@\/)[^"']+)["']/g)) file[m[1] || m[3]] = where(m[2] || m[4]);
     for (const m of text.matchAll(/<Route\s+path="([^":*]+)"\s+element=\{<(\w+)/g)) {
       const f = file[m[2]];
-      if (f && before.includes(`path="${m[1]}"`) && c.files.some((x) => x === f || x.startsWith(f + '.') || x.startsWith(f + '/'))) found.push(m[1]);
+      if (f && before.includes(`path="${m[1]}"`) && !(R.pages.skip || []).includes(m[1]) && c.files.some((x) => x === f || x.startsWith(f + '.') || x.startsWith(f + '/'))) found.push(m[1]);
     }
   }
   return [...new Set([...found, ...R.pages.routes])].slice(0, R.pages.max || 6).map((r) => ({ id: r === '/' ? 'home' : r.slice(1), path: r }));
@@ -220,8 +225,9 @@ async function check(c, comps) {
   const [sb, sh2] = [await serve(base), await serve(head)];
   try {
     // "keys": "tag" where styling lives in class names (Tailwind): a restyled element would otherwise look removed and
-    // added. "offline": the app calls live backends, which must neither be reached nor make the two builds differ
-    const config = { quick: true, runs: 2, viewport: { width: 1280, height: 800 }, keys: R.keys || 'class', offline: !!R.offline, pseudoStates: ['hover', 'focus'],
+    // added. "offline": the app calls live backends, which must neither be reached nor make the two builds differ.
+    // "concurrency": pages rendered at once, where forced hover and focus states depend on timing under load
+    const config = { quick: true, runs: 2, viewport: { width: 1280, height: 800 }, keys: R.keys || 'class', offline: !!R.offline, pseudoStates: ['hover', 'focus'], ...(R.concurrency ? { concurrency: R.concurrency } : {}),
       pages: list.map((e) => ({ name: e.id, path: R.pages ? e.path : `iframe.html?id=${e.id}&viewMode=story` })) };
     const dir = path.join(out, c.sha);
     return await runPR({ baseUrl: `http://127.0.0.1:${sb.address().port}/`, headUrl: `http://127.0.0.1:${sh2.address().port}/`, config, outDir: dir });

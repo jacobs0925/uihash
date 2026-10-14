@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "1ad82d0e7767a34081f53b584e525ac9df2a6629",
+ "parent": "430080f023e92dcf365e79a73b5cde6e231e1d3e",
+ "date": "2025-12-12",
+ "subject": "Remove glow effect from LED indicators in forced-colors mode",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "e2e/01-foundation/US-034-forced-colors-mode.spec.ts",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7941
+}

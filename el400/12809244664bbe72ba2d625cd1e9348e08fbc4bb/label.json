@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "12809244664bbe72ba2d625cd1e9348e08fbc4bb",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Improve 7-seg display visuals",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by ed84206e, which restored 5f13700d (1 commit discarded)"
+}

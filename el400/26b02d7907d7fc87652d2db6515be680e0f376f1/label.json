@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "26b02d7907d7fc87652d2db6515be680e0f376f1",
+ "date": "2025-12-15",
+ "pr": null,
+ "title": "Fix e2e test assertions and remove unused code",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 252 later commits"
+}

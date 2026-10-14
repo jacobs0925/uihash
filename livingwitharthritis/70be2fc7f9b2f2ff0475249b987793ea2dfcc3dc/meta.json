@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "70be2fc7f9b2f2ff0475249b987793ea2dfcc3dc",
+ "parent": "e7f6b79c01c5c3f88b06ba9a4ad77ec49825fb00",
+ "date": "2026-02-03",
+ "subject": "Add PayPal verification endpoint",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PayPalDonationModal.tsx",
+  "supabase/functions/verify-paypal-order/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 58871
+}

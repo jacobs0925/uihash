@@ -1,0 +1,32 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "d559f261e746c211368e443e90df6e790a430923",
+ "parent": "d07f6aa204386f8214d90a71147bf817f8860e7c",
+ "date": "2025-12-26",
+ "subject": "Reverted to commit c5fd4bab9769b8653a57025dc7dd6eb5fe3c1a11",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/components/AboutSection.tsx",
+  "src/components/ConditionsSection.tsx",
+  "src/components/DonationTiersSection.tsx",
+  "src/components/Footer.tsx",
+  "src/components/FundraisingSection.tsx",
+  "src/components/Header.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/ServicesGrid.tsx",
+  "src/index.css",
+  "src/pages/Index.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 81,
+ "ms": 43201
+}

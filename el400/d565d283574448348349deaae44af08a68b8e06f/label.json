@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "d565d283574448348349deaae44af08a68b8e06f",
+ "date": "2025-12-15",
+ "pr": null,
+ "title": "Remove unused status LEDs and change Fn to lowercase",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 240 later commits"
+}

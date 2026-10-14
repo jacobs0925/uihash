@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "d13bf28e5a1efd9c09678148115f81ef1c5cb5dd",
+ "parent": "c097b110a2db5f36432636894d01975c8d8bf1e5",
+ "date": "2025-12-12",
+ "subject": "Add arrow direction hints to keypad number labels",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NumericKeypad.test.tsx",
+  "src/components/NumericKeypad.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 11281
+}

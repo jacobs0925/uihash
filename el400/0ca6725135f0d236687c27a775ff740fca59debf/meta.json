@@ -1,0 +1,31 @@
+{
+ "repo": "el400",
+ "sha": "0ca6725135f0d236687c27a775ff740fca59debf",
+ "parent": "534a5a9669597305fbe9e5e5ad73e134c5b016bb",
+ "date": "2025-12-07",
+ "subject": "Create EL400 web simulator UI",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/components/AxisDisplay.tsx",
+  "src/components/AxisPanel.tsx",
+  "src/components/DROButton.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/FunctionButtons.tsx",
+  "src/components/LEDIndicator.tsx",
+  "src/components/NumericKeypad.tsx",
+  "src/components/SevenSegmentDigit.tsx",
+  "src/index.css",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 4,
+ "ms": 23638
+}

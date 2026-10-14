@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "51d3efd4b809bdf185ee64d4a2cfaa80cd6763bf",
+ "parent": "03600acfdae28b65d5e30fb73ab7f466f511f08d",
+ "date": "2025-11-03",
+ "subject": "Remove donation impact section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DonationImpactSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 28617
+}

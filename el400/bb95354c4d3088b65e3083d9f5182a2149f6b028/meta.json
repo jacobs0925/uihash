@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "bb95354c4d3088b65e3083d9f5182a2149f6b028",
+ "parent": "8ce9aa965c40568979c0d730ce5514212325a4fd",
+ "date": "2025-12-07",
+ "subject": "Spread option buttons width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 7,
+ "ms": 18342
+}

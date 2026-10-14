@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "e4124761aa8086bfefeac225d654653c9e474004",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Add raised edges top/bottom",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "width: auto → 100% undone by ed84206e \"Reverted to commit 5f13700d1bfe5df85e2358b4ed1b8370f41b5970\"; display: block → flex undone by ed84206e \"Reverted to commit 5f13700d1bfe5df85e2358b4ed1b8370f41b5970\"; display: block → flex undone by ed84206e \"Reverted to commit 5f13700d1bfe5df85e2358b4ed1b8370f41b5970\""
+}

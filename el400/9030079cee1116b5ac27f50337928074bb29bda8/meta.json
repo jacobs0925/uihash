@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "9030079cee1116b5ac27f50337928074bb29bda8",
+ "parent": "015282c86e1ab7234e0be311748c2a309b0551d2",
+ "date": "2025-12-08",
+ "subject": "Increase 7-seg digits size and reduce spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisDisplay.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 18945
+}

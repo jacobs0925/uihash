@@ -1,0 +1,35 @@
+{
+ "repo": "el400",
+ "sha": "30aab955a486cfb13d4bfb26f6e9b342c369f371",
+ "parent": "794891a643a3ce60f500cb23bd62fb465eaa7599",
+ "date": "2026-05-31",
+ "subject": "feat(US-022): Display Resolution (#229)",
+ "pr": "229",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/06-configuration/US-022-display-resolution.spec.ts",
+  "src/components/Axis.tsx",
+  "src/components/MultiAxisSection.tsx",
+  "src/components/axisDigits.ts",
+  "src/stores/dro/context.test.tsx",
+  "src/stores/dro/features/display-resolution.integration.test.tsx",
+  "src/stores/dro/features/display-resolution.reducer.test.ts",
+  "src/stores/dro/features/setup-parameters.test.ts",
+  "src/stores/dro/features/setup-parameters.ts",
+  "src/stores/dro/utils/displayComputation.ts",
+  "src/stores/dro/utils/displayResolution.test.ts",
+  "src/stores/settingsStore.ts",
+  "src/stories/DataSourceDemo.stories.tsx",
+  "src/tests/helpers/integration-test-utils.tsx",
+  "src/tests/helpers/render-utils.tsx",
+  "src/types/nonVolatileMemory.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 15477
+}

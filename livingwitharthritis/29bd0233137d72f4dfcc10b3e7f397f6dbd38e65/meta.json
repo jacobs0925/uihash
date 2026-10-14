@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "29bd0233137d72f4dfcc10b3e7f397f6dbd38e65",
+ "parent": "242c1476e3a52003e12bec6f0f6c90a07e036060",
+ "date": "2026-01-20",
+ "subject": "Add PayPal checkout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationBanner.tsx",
+  "src/hooks/useDonation.ts",
+  "supabase/config.toml",
+  "supabase/functions/paypal-checkout/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 174798
+}

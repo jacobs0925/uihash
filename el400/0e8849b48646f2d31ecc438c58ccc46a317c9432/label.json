@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "0e8849b48646f2d31ecc438c58ccc46a317c9432",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Spread option buttons evenly",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "min-width: ∅ → 340px undone by 1b357ad9 \"Align frame width with digits area\"; min-width: ∅ → 340px undone by 1b357ad9 \"Align frame width with digits area\"; min-width: ∅ → 340px undone by 1b357ad9 \"Align frame width with digits area\""
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "el400",
+ "sha": "f25936caca44266f715691e791a632988d4cffda",
+ "parent": "2426a96e6a04b354e37b3b4dcd877b07f9bd53a1",
+ "date": "2025-12-12",
+ "subject": "Combine DisplayPanel and AxisDisplay into AxisDisplaySection",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisDisplay.tsx",
+  "src/components/AxisDisplaySection.tsx",
+  "src/components/DisplayPanel.tsx",
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7759
+}

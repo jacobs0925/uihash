@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "7a0963098a1e51b934a52044f9dedb3134860f37",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Right-justify buttons",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-left: 0px → auto undone by d0e61589 \"Add beveled frame polish\"; margin-left: 0px → auto undone by d0e61589 \"Add beveled frame polish\"; margin-left: 0px → auto undone by d0e61589 \"Add beveled frame polish\""
+}

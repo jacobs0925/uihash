@@ -1,0 +1,30 @@
+{
+ "repo": "el400",
+ "sha": "d6ec358521963c78e7dc5eb93f5af88732c08e9e",
+ "parent": "a4fe311d6095e7de99aa99126466a14cee77dfa1",
+ "date": "2025-12-14",
+ "subject": "Implement boot stage state machine in volatile memory",
+ "components": [
+  "components",
+  "context"
+ ],
+ "files": [
+  "e2e/01-foundation/US-001-first-use.spec.ts",
+  "e2e/helpers/dro-page.ts",
+  "src/components/EL400Simulator.power-on.test.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/KeypadSection.tsx",
+  "src/context/VolatileMemoryContext.test.tsx",
+  "src/context/VolatileMemoryContext.tsx",
+  "src/hooks/usePowerOnSequence.ts",
+  "src/tests/helpers/integration-test-utils.tsx",
+  "src/types/nonVolatileMemory.ts",
+  "src/types/volatileMemory.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7680
+}

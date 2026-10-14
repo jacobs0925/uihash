@@ -1,0 +1,40 @@
+{
+ "repo": "el400",
+ "sha": "3f7c1a597b4fc93e5ef1e22e836efd6c6dfdf2e0",
+ "parent": "6cef7276d5422826b3bc1899fb997363eaad3baf",
+ "date": "2025-12-08",
+ "subject": "Reverted to commit 7e8c2438df66abcf88c4bd3470fae3f1a0b8f3d7",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/v2/AxisDisplayV2.tsx",
+  "src/components/v2/AxisPanelSectionV2.tsx",
+  "src/components/v2/AxisPanelV2.tsx",
+  "src/components/v2/BeveledFrameV2.tsx",
+  "src/components/v2/BrandLogoV2.tsx",
+  "src/components/v2/DROButtonV2.tsx",
+  "src/components/v2/DisplayPanelV2.tsx",
+  "src/components/v2/EL400SimulatorV2.tsx",
+  "src/components/v2/FunctionButtonsV2.tsx",
+  "src/components/v2/HousingEdgeV2.tsx",
+  "src/components/v2/InputBufferDisplayV2.tsx",
+  "src/components/v2/KeypadSectionV2.tsx",
+  "src/components/v2/LEDIndicatorV2.tsx",
+  "src/components/v2/NumericKeypadV2.tsx",
+  "src/components/v2/PowerLEDV2.tsx",
+  "src/components/v2/PrimaryFunctionSectionV2.tsx",
+  "src/components/v2/SecondaryFunctionSectionV2.tsx",
+  "src/components/v2/SevenSegmentDigitV2.tsx",
+  "src/pages/IndexV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8004
+}

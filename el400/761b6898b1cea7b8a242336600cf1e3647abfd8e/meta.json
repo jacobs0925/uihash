@@ -1,0 +1,30 @@
+{
+ "repo": "el400",
+ "sha": "761b6898b1cea7b8a242336600cf1e3647abfd8e",
+ "parent": "037738d6e75c1da65a2088b8da0234e73060c031",
+ "date": "2025-12-18",
+ "subject": "Move state-checking logic from KeypadSection to reducers",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/KeypadSection.tsx",
+  "src/dro-state-machine/context.test.tsx",
+  "src/dro-state-machine/droStateMachine.ts",
+  "src/dro-state-machine/features/axis-operations.ts",
+  "src/dro-state-machine/features/calculator.test.ts",
+  "src/dro-state-machine/features/calculator.ts",
+  "src/dro-state-machine/features/center-finding.test.ts",
+  "src/dro-state-machine/features/center-finding.ts",
+  "src/dro-state-machine/features/keypad.ts",
+  "src/dro-state-machine/features/menu.test.ts",
+  "src/dro-state-machine/reducer.test.ts",
+  "src/hooks/useVolatileMemory.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 12543
+}

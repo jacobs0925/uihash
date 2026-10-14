@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "56c826c387644e8b42a66d6db107cb5c408d7ce9",
+ "parent": "4f8d0c0012cbab775103f4f699ea494299c63434",
+ "date": "2025-10-28",
+ "subject": "Revert design changes",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/Header.tsx",
+  "src/components/HeroSection.tsx",
+  "src/index.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 83,
+ "ms": 49884
+}

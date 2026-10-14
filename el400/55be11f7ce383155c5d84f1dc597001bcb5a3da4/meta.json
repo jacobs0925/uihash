@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "55be11f7ce383155c5d84f1dc597001bcb5a3da4",
+ "parent": "0282babfdfe66d7e557e2c7751539a706ba1f385",
+ "date": "2025-12-07",
+ "subject": "Make LEDs glow brighter",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LEDIndicator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 17562
+}

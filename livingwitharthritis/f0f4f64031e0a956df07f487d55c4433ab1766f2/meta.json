@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f0f4f64031e0a956df07f487d55c4433ab1766f2",
+ "parent": "9f423e1d2225bc7daf41ff7bf4706575212d368b",
+ "date": "2025-10-28",
+ "subject": "Update donation tier amount",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationTiersSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 20508
+}

@@ -1,0 +1,43 @@
+{
+ "repo": "el400",
+ "sha": "5f380e17853d106c07aacf1bf9f4b5f9e12ae1d9",
+ "parent": "ee5109e5235784e1bb352c546ef665c43789c272",
+ "date": "2025-12-15",
+ "subject": "Rename MachineState to MillState throughout codebase",
+ "components": [
+  "App.tsx",
+  "context"
+ ],
+ "files": [
+  "AGENTS.md",
+  "ARCHITECTURE.md",
+  "project/user-stories/09-integration/US-035-external-machine-connection.md",
+  "src/App.tsx",
+  "src/adapters/CncjsMillConnection.ts",
+  "src/adapters/MillConnection.ts",
+  "src/adapters/MockMillConnection.ts",
+  "src/adapters/__tests__/MockMillConnection.test.ts",
+  "src/context/MachineStateContext.test.tsx",
+  "src/context/MachineStateContext.tsx",
+  "src/context/MillStateContext.test.tsx",
+  "src/context/MillStateContext.tsx",
+  "src/context/VolatileMemoryContext.test.tsx",
+  "src/context/VolatileMemoryContext.tsx",
+  "src/hooks/useDataSourceConfig.ts",
+  "src/hooks/useMachineState.ts",
+  "src/hooks/useMillState.ts",
+  "src/stories/DataSourceDemo.stories.tsx",
+  "src/stories/MachineState.stories.tsx",
+  "src/stories/MillState.stories.tsx",
+  "src/tests/helpers/integration-test-utils.tsx",
+  "src/tests/helpers/render-utils.tsx",
+  "src/types/machineState.ts",
+  "src/types/millState.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7937
+}

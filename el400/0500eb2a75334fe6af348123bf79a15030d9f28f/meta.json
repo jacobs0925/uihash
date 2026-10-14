@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "0500eb2a75334fe6af348123bf79a15030d9f28f",
+ "parent": "59dc3a1ec25a634770e453a703ca703014d81a3f",
+ "date": "2025-12-08",
+ "subject": "Offset axis zero buttons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/v2/AxisPanelV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8360
+}

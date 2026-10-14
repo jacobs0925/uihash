@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "79a6cd8e9d3afcfc12a75fdba9662c8d6670abe7",
+ "date": "2025-10-23",
+ "pr": null,
+ "title": "Update About section with arthritis information",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "font-family: ∅ → ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\" undone by 49a2c3b0 \"Reverted to commit 9f423e1d2225bc7daf41ff7bf4706575212d368b\"; font-family: ∅ → ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\" undone by 49a2c3b0 \"Reverted to commit 9f423e1d2225bc7daf41ff7bf4706575212d368b\"; font-family: ∅ → ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\" undone by 49a2c3b0 \"Reverted to commit 9f423e1d2225bc7daf41ff7bf4706575212d368b\""
+}

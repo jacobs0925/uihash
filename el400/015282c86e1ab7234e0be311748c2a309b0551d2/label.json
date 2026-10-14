@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "015282c86e1ab7234e0be311748c2a309b0551d2",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Slant 7-segment digits",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 524 later commits"
+}

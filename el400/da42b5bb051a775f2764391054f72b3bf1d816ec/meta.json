@@ -1,0 +1,22 @@
+{
+ "repo": "el400",
+ "sha": "da42b5bb051a775f2764391054f72b3bf1d816ec",
+ "parent": "ba0a5d8109542b9ba6b67fcd99f00e8bd4d181a2",
+ "date": "2025-12-19",
+ "subject": "Fix React anti-patterns in Storybook and App initialization",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/stories/DataSourceDemo.stories.tsx",
+  "src/stories/MillState.stories.tsx",
+  "src/tests/helpers/integration-test-utils.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 12956
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "f289c79453b811e9188d29a551a2ac513ec4a492",
+ "date": "2025-12-12",
+ "pr": null,
+ "title": "Add integration tests and inline SVGs",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 367 later commits"
+}

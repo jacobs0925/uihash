@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4b9b4edf5fd2de4bfd1a9255a190c581759fa504",
+ "parent": "ebe5703f10562a71480ea785741616d1d056832a",
+ "date": "2026-02-07",
+ "subject": "Add About Us modal integration",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AboutUsModal.tsx",
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 151277
+}

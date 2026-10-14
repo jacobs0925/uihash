@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "e6e98f482de8a19f5c7a73307886baa7286aac93",
+ "date": "2025-12-22",
+ "pr": null,
+ "title": "refactor(US-008): address code review feedback",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 93 later commits"
+}

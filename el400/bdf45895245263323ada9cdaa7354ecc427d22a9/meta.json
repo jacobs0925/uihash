@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "bdf45895245263323ada9cdaa7354ecc427d22a9",
+ "parent": "7fe5fad301b44e292b4953a487ea27bbd0f5360c",
+ "date": "2025-12-12",
+ "subject": "Reorder keypad buttons for natural tab order",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NumericKeypad.test.tsx",
+  "src/components/NumericKeypad.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 22,
+ "ms": 15889
+}

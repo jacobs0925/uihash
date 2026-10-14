@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "c21bb8212c038d283cac005f47859b2757d82e97",
+ "parent": "4fa4a5e85d8f8f9529bc656a0155826982189a29",
+ "date": "2025-10-24",
+ "subject": "Remove body map diagnosis",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/BodyMapSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 26631
+}

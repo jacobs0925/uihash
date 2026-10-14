@@ -1,0 +1,41 @@
+{
+ "repo": "el400",
+ "sha": "fe85a46b3bf07a717b0936afe7bbd8a31644d730",
+ "parent": "30aab955a486cfb13d4bfb26f6e9b342c369f371",
+ "date": "2026-05-31",
+ "subject": "feat(US-032): Touch Probe (#230)",
+ "pr": "230",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "e2e/07-auxiliary/US-032-touch-probe.spec.ts",
+  "e2e/helpers/dro-page.ts",
+  "e2e/mock-cncjs-server.ts",
+  "src/App.tsx",
+  "src/components/MultiAxisSection.tsx",
+  "src/stores/dro/context.test.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/idle.ts",
+  "src/stores/dro/features/menu.test.ts",
+  "src/stores/dro/features/menu.ts",
+  "src/stores/dro/features/probe.integration.test.tsx",
+  "src/stores/dro/features/probe.test.ts",
+  "src/stores/dro/features/probe.ts",
+  "src/stores/dro/features/setup-parameters.test.ts",
+  "src/stores/dro/features/setup-parameters.ts",
+  "src/stores/dro/reducer.ts",
+  "src/stores/droStore.ts",
+  "src/stories/DataSourceDemo.stories.tsx",
+  "src/tests/helpers/integration-test-utils.tsx",
+  "src/tests/helpers/render-utils.tsx",
+  "src/types/nonVolatileMemory.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 19127
+}

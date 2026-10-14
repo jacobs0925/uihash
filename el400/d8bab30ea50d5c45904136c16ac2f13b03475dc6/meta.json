@@ -1,0 +1,22 @@
+{
+ "repo": "el400",
+ "sha": "d8bab30ea50d5c45904136c16ac2f13b03475dc6",
+ "parent": "56861a6f7a7de7bcda6f8780b6cd84223e877eea",
+ "date": "2025-12-09",
+ "subject": "Fix React key prop warning in AxisPanel and add tests (#51)",
+ "pr": "51",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisPanel.test.tsx",
+  "src/components/AxisPanel.tsx",
+  "src/tests/setup.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 17452
+}

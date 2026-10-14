@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "b970fac9190a918c61709c45b4e541cb6ec22cae",
+ "date": "2025-12-11",
+ "pr": null,
+ "title": "refactor: update button sizes with proper aspect ratios",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 401 later commits"
+}

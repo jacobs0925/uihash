@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "693ff5b79705dd6045efc8c809bb5a41d8cba1c3",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Refine top edge shape",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "margin-bottom: 8px → 0px undone by 87aafdfa \"Reverted to commit c263013c956f1e59b47095b930c2223a6700ef87\"; margin-bottom: 8px → 0px undone by 87aafdfa \"Reverted to commit c263013c956f1e59b47095b930c2223a6700ef87\"; margin-bottom: 8px → 0px undone by 87aafdfa \"Reverted to commit c263013c956f1e59b47095b930c2223a6700ef87\""
+}

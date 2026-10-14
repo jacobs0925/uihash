@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "a15821e4e4f8ae67db4ddc7fc9385580f5b3ac19",
+ "date": "2025-11-06",
+ "pr": null,
+ "title": "Add new feature",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2012 later commits"
+}

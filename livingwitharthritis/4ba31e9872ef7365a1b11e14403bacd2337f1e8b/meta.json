@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4ba31e9872ef7365a1b11e14403bacd2337f1e8b",
+ "parent": "2f65e6e6d0a932872c00e38d307ab09c7da4a75b",
+ "date": "2025-11-07",
+ "subject": "Add customizable donation section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CryptoDonationForm.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 30402
+}

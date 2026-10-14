@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "e0d528b2bc0cd7133ff3da2c3190fa4c1c44adce",
+ "parent": "818dfaa6874e7d2abb6c9c9c7956f04d41f22127",
+ "date": "2025-12-08",
+ "subject": "Improve seven-seg rendering",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SevenSegmentDigit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 10100
+}

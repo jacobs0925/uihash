@@ -1,0 +1,31 @@
+{
+ "repo": "el400",
+ "sha": "a47311bca37883c9dc4d5b72d5a17b951aeb961a",
+ "parent": "7122844776a0ffef411fa9afaf75b523582c48d8",
+ "date": "2026-05-30",
+ "subject": "feat(US-019): Angle Hole (Linear Hole Pattern) (#211)",
+ "pr": "211",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/05-pattern-generation/US-019-angle-hole.spec.ts",
+  "e2e/helpers/dro-page.ts",
+  "project/user-stories/05-pattern-generation/US-019-angle-hole.md",
+  "src/components/MultiAxisSection.tsx",
+  "src/components/SecondaryFunctionSection.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/angle-hole.integration.test.tsx",
+  "src/stores/dro/features/angle-hole.test.ts",
+  "src/stores/dro/features/angle-hole.ts",
+  "src/stores/dro/features/idle.ts",
+  "src/stores/dro/index.ts",
+  "src/stores/dro/reducer.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 14624
+}

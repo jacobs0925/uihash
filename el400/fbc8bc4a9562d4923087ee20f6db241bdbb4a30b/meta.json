@@ -1,0 +1,41 @@
+{
+ "repo": "el400",
+ "sha": "fbc8bc4a9562d4923087ee20f6db241bdbb4a30b",
+ "parent": "28b458f70dc2d71f01d889bac287519d79b0579d",
+ "date": "2025-12-15",
+ "subject": "Rename DRO state machine types and fix event dispatch property names",
+ "components": [
+  "components",
+  "dro-state-machine"
+ ],
+ "files": [
+  "ARCHITECTURE.md",
+  "src/components/EL400Simulator.tsx",
+  "src/components/KeypadSection.tsx",
+  "src/components/SecondaryFunctionSection.tsx",
+  "src/dro-state-machine/context.test.tsx",
+  "src/dro-state-machine/context.tsx",
+  "src/dro-state-machine/droStateMachine.ts",
+  "src/dro-state-machine/features/abs-inc.test.ts",
+  "src/dro-state-machine/features/abs-inc.ts",
+  "src/dro-state-machine/features/boot.test.ts",
+  "src/dro-state-machine/features/boot.ts",
+  "src/dro-state-machine/features/center-finding.test.ts",
+  "src/dro-state-machine/features/center-finding.ts",
+  "src/dro-state-machine/features/inch-mm.test.ts",
+  "src/dro-state-machine/features/inch-mm.ts",
+  "src/dro-state-machine/features/menu.test.ts",
+  "src/dro-state-machine/features/menu.ts",
+  "src/dro-state-machine/index.ts",
+  "src/dro-state-machine/reducer.test.ts",
+  "src/dro-state-machine/reducer.ts",
+  "src/dro-state-machine/type-guards.test.ts",
+  "src/dro-state-machine/types.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7946
+}

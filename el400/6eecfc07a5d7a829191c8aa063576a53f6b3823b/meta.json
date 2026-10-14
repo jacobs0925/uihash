@@ -1,0 +1,32 @@
+{
+ "repo": "el400",
+ "sha": "6eecfc07a5d7a829191c8aa063576a53f6b3823b",
+ "parent": "a841382db85d8c5a2d699785ca04cecbcb88497a",
+ "date": "2026-05-31",
+ "subject": "feat(US-028): Setup Menu — Restore Defaults (rSt oEm) (#243)",
+ "pr": "243",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "demos/US-028.md",
+  "e2e/06-configuration/US-028-restore-defaults.spec.ts",
+  "project/user-stories/06-configuration/US-028-restore-defaults.md",
+  "src/components/MultiAxisSection.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/restore-defaults.integration.test.tsx",
+  "src/stores/dro/features/restore-defaults.test.ts",
+  "src/stores/dro/features/restore-defaults.ts",
+  "src/stores/dro/features/setup-parameters.test.ts",
+  "src/stores/dro/features/setup-parameters.ts",
+  "src/stores/dro/features/setup.ts",
+  "src/stores/dro/index.ts",
+  "src/stores/dro/reducer.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 16185
+}

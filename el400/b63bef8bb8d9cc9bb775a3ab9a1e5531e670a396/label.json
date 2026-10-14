@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "b63bef8bb8d9cc9bb775a3ab9a1e5531e670a396",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Add top/bottom bezels",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by b8a65cac, which restored 8609141a (2 commits discarded)"
+}

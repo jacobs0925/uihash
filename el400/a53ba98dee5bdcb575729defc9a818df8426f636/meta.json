@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "a53ba98dee5bdcb575729defc9a818df8426f636",
+ "parent": "9030079cee1116b5ac27f50337928074bb29bda8",
+ "date": "2025-12-08",
+ "subject": "Increase brand logo width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BrandLogo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 18458
+}

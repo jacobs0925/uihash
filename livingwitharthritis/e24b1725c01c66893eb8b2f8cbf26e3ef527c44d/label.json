@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "e24b1725c01c66893eb8b2f8cbf26e3ef527c44d",
+ "date": "2025-11-25",
+ "pr": null,
+ "title": "Add activity illustration",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2006 later commits"
+}

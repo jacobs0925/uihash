@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "01e3f1f6ea137e93fd2e78a9f803f4a6dfc85548",
+ "parent": "07bff2133603ebde61727bfe004de81f6235b955",
+ "date": "2025-12-14",
+ "subject": "chore: address review feedback",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/01-foundation/US-001-first-use.spec.ts",
+  "src/components/AxisDisplaySection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7843
+}

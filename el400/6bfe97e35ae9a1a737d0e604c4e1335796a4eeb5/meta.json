@@ -1,0 +1,23 @@
+{
+ "repo": "el400",
+ "sha": "6bfe97e35ae9a1a737d0e604c4e1335796a4eeb5",
+ "parent": "c1342e38f799267372dd8825076e9bffeecdb70b",
+ "date": "2025-12-14",
+ "subject": "Rename updateMemory to updateNvMem",
+ "components": [
+  "components",
+  "context"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx",
+  "src/context/NonVolatileMemoryContext.tsx",
+  "src/hooks/useNonVolatileMemory.ts",
+  "src/stories/DataSourceDemo.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7622
+}

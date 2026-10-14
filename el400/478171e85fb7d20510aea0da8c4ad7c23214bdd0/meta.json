@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "478171e85fb7d20510aea0da8c4ad7c23214bdd0",
+ "parent": "76828c6868d622c0d048e058d266f02fe3a1f448",
+ "date": "2025-12-08",
+ "subject": "Center logo to keypad position",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx",
+  "src/components/HousingEdge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 8,
+ "ms": 20214
+}

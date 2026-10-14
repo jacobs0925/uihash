@@ -1,0 +1,22 @@
+{
+ "repo": "el400",
+ "sha": "342567af4b2cd4aec820bd0f39c81e6d039ea451",
+ "parent": "eaf0848ef6cd2d67aca1ced49686378c5e63f425",
+ "date": "2025-12-08",
+ "subject": "Fix lint errors (#6)",
+ "pr": "6",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/command.tsx",
+  "src/components/ui/textarea.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8560
+}

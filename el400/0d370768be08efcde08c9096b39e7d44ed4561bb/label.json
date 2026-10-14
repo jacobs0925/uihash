@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "0d370768be08efcde08c9096b39e7d44ed4561bb",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Make keypad buttons square",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "width: 56px → 48px undone by 3cf14e9f \"Increase primary button width\"; width: 56px → 48px undone by 3cf14e9f \"Increase primary button width\"; width: 56px → 48px undone by 3cf14e9f \"Increase primary button width\""
+}

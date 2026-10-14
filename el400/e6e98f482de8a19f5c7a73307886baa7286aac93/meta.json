@@ -1,0 +1,29 @@
+{
+ "repo": "el400",
+ "sha": "e6e98f482de8a19f5c7a73307886baa7286aac93",
+ "parent": "91279551e6476bc3240c1de67ca505f256997e56",
+ "date": "2025-12-22",
+ "subject": "refactor(US-008): address code review feedback",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/02-core-operations/US-003-abs-inc-mode.spec.ts",
+  "e2e/02-core-operations/US-005-zero-axes.spec.ts",
+  "e2e/03-data-management/US-008-distance-to-go.spec.ts",
+  "e2e/helpers/dro-page.ts",
+  "e2e/helpers/fixtures.ts",
+  "e2e/mock-cncjs-server.ts",
+  "playwright.config.ts",
+  "src/components/PrimaryFunctionSection.test.tsx",
+  "src/components/PrimaryFunctionSection.tsx",
+  "src/stores/dro/features/preset.integration.test.tsx",
+  "src/stories/DataSourceDemo.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 22184
+}

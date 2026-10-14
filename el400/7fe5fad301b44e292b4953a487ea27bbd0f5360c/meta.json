@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "7fe5fad301b44e292b4953a487ea27bbd0f5360c",
+ "parent": "7b902a2421a0db13b76fe12c879e95a04cad419c",
+ "date": "2025-12-12",
+ "subject": "Remove interactive mode from LEDIndicator",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LEDIndicator.test.tsx",
+  "src/components/LEDIndicator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7498
+}

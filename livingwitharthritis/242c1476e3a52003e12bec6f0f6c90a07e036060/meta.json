@@ -1,0 +1,28 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "242c1476e3a52003e12bec6f0f6c90a07e036060",
+ "parent": "4af65ef46a427256bf6834ffce2f38a9fc3c8a49",
+ "date": "2026-01-19",
+ "subject": "Improve backend and speed",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/AboutSection.tsx",
+  "src/components/ConditionsSection.tsx",
+  "src/components/DonationTiersSection.tsx",
+  "src/components/FundraisingSection.tsx",
+  "src/components/VirtualPhysioSection.tsx",
+  "src/components/ui/OptimizedImage.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 175394
+}

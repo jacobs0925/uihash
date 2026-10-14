@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "4ce69ca7fd10a0a0c6f7543e52b1a01407c3f37e",
+ "parent": "ae3fd7f66cc9128d283c4cc70f42aec54a0ae605",
+ "date": "2025-12-08",
+ "subject": "Visualize grid borders in v2",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/v2/EL400SimulatorV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8245
+}

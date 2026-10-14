@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "82634e1d101de3c97688e5ab04178ec4c2e9b3a0",
+ "parent": "95e299dab98efde008b56ed68a613668bdc424da",
+ "date": "2025-12-08",
+ "subject": "Increase logo text size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BrandLogo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 10218
+}

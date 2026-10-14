@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "a00d977774ef9742b4d8edc927a53cb32804e016",
+ "date": "2026-01-17",
+ "pr": null,
+ "title": "Fix CORS and add auth page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1986 later commits"
+}

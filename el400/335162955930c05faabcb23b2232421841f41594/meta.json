@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "335162955930c05faabcb23b2232421841f41594",
+ "parent": "275315e4ec68094b5c8f19adca3c0269cf30d5d6",
+ "date": "2025-12-08",
+ "subject": "Scale app UI by 20% uniformly",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 16,
+ "ms": 18760
+}

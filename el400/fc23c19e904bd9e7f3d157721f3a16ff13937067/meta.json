@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "fc23c19e904bd9e7f3d157721f3a16ff13937067",
+ "parent": "5430fc1bec266af119db49c942bfce6e06d583f7",
+ "date": "2025-12-08",
+ "subject": "Undo last viewBox edit",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SevenSegmentDigit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9870
+}

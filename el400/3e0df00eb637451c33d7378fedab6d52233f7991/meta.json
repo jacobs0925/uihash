@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "3e0df00eb637451c33d7378fedab6d52233f7991",
+ "parent": "84548397374d25d4f539a25d4f202f68813a5fb6",
+ "date": "2025-12-08",
+ "subject": "Increase secondary button spacing further",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FunctionButtons.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 10083
+}

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "e36f23b0a1e121d6acc0c9ada9ce2e6a75364846",
+ "date": "2026-02-07",
+ "pr": null,
+ "title": "Trimmed header & conditions CTAs",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1953 later commits"
+}

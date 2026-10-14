@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "e5d96df75a02a076aa72678b949289db2f24ff2c",
+ "parent": "9343ae4492f081921356ca84b802808f280b1139",
+ "date": "2025-12-08",
+ "subject": "Shorten secondary buttons height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DROButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 10063
+}

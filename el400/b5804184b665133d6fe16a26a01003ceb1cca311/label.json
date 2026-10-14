@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "b5804184b665133d6fe16a26a01003ceb1cca311",
+ "date": "2026-05-31",
+ "pr": "246",
+ "title": "fix(debug): reserve panel width so it never overlaps the keypad (#246)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 35 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "3b3fe853c1beacab52cd9752fa9a31fe710beb64",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Set secondary area bg to black",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 538 later commits"
+}

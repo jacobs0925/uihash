@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "e87420fbf9b6e3991a54d8d3850069d0d4b9ceab",
+ "parent": "29bd0233137d72f4dfcc10b3e7f397f6dbd38e65",
+ "date": "2026-01-20",
+ "subject": "Integrate PayPal donate flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationBanner.tsx",
+  "src/components/PayPalDonationModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 176063
+}

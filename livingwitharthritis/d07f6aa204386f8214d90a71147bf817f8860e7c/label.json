@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "d07f6aa204386f8214d90a71147bf817f8860e7c",
+ "date": "2025-12-25",
+ "pr": null,
+ "title": "Premium landing redesign 1080p",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by d559f261, which restored c5fd4bab (1 commit discarded)"
+}

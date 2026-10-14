@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "e24b1725c01c66893eb8b2f8cbf26e3ef527c44d",
+ "parent": "3d62c7799316eb59447af8a8bf2f1df51f278e1e",
+ "date": "2025-11-25",
+ "subject": "Add activity illustration",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/activity-illustration.png",
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 38519
+}

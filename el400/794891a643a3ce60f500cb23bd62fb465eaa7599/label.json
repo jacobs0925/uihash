@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "794891a643a3ce60f500cb23bd62fb465eaa7599",
+ "date": "2026-05-31",
+ "pr": "228",
+ "title": "feat(US-038): Keyboard Shortcuts (#228)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 53 later commits"
+}

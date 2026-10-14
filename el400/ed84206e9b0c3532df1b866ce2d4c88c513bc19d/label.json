@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "ed84206e9b0c3532df1b866ce2d4c88c513bc19d",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Reverted to commit 5f13700d1bfe5df85e2358b4ed1b8370f41b5970",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "width: 100% → auto undone by fb8bffdb \"Align option buttons width\"; width: 100% → auto undone by fb8bffdb \"Align option buttons width\"; width: 100% → auto undone by fb8bffdb \"Align option buttons width\""
+}

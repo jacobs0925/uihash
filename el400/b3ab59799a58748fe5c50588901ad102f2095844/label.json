@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "b3ab59799a58748fe5c50588901ad102f2095844",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Adjust BrandLogo padding to restore container size while enlarging text",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by c4576c8b, which restored 95e299da (5 commits discarded)"
+}

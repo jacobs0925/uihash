@@ -1,0 +1,29 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "9a81e0ff527898fcb8920b29052dfab34f22d5c7",
+ "parent": "e87420fbf9b6e3991a54d8d3850069d0d4b9ceab",
+ "date": "2026-01-21",
+ "subject": "Add admin dashboard",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "playwright-fixture.ts",
+  "playwright.config.ts",
+  "src/App.tsx",
+  "src/hooks/useAdmin.ts",
+  "src/hooks/useAdminDonations.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/AdminDashboard.tsx",
+  "supabase/migrations/20260121205920_fc3b4067-1a81-47dd-975c-eb2af1a75092.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 195771
+}

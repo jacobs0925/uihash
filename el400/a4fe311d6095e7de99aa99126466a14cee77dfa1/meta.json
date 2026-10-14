@@ -1,0 +1,25 @@
+{
+ "repo": "el400",
+ "sha": "a4fe311d6095e7de99aa99126466a14cee77dfa1",
+ "parent": "65e9d5989c287ad297cfca9924a54065b17b2092",
+ "date": "2025-12-14",
+ "subject": "Rename AxisDisplaySection to MultiAxisSection and extract Axis component",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "AGENTS.md",
+  "src/components/Axis.tsx",
+  "src/components/AxisDisplaySection.test.tsx",
+  "src/components/AxisDisplaySection.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/MultiAxisSection.test.tsx",
+  "src/components/MultiAxisSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7852
+}

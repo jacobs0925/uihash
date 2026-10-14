@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "90a0a78ca84af25344fef9a304ee8cdb120fdcf7",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Reverted to commit fdae262ed97dfbf10e9b955c57eb7584a65988ca",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "transform: matrix(1, 0, 0, 1, 0, -12) → matrix(1, 0, 0, 1, 0, -6) undone by c3ff5006 \"Center brand logo right edge\"; transform: matrix(1, 0, 0, 1, 0, -12) → matrix(1, 0, 0, 1, 0, -6) undone by c3ff5006 \"Center brand logo right edge\"; transform: matrix(1, 0, 0, 1, 0, -12) → matrix(1, 0, 0, 1, 0, -6) undone by c3ff5006 \"Center brand logo right edge\""
+}

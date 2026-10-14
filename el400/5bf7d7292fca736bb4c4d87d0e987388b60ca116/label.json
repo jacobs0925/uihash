@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "5bf7d7292fca736bb4c4d87d0e987388b60ca116",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Offset X0/Y0/Z0 axis buttons",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 611 later commits"
+}

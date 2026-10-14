@@ -1,0 +1,24 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a00d977774ef9742b4d8edc927a53cb32804e016",
+ "parent": "ddc5409c854fb73adb6e9351230630dbb922ab7a",
+ "date": "2026-01-17",
+ "subject": "Fix CORS and add auth page",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/App.tsx",
+  "src/pages/Auth.tsx",
+  "supabase/functions/chat/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 188308
+}

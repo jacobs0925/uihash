@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "eaa820789f6fe447922dac141b0c6b59b4a276a9",
+ "parent": "abe450a5e2f173ac08718581fae2fdae721f8b92",
+ "date": "2025-12-07",
+ "subject": "Fine tune EL400 alignment",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 9595
+}

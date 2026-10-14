@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "c15c5dd5858a6724ba11ccb5a3efab65c730ee1f",
+ "parent": "a733010ddf5c39036cdf07b96757551ddc187285",
+ "date": "2025-12-07",
+ "subject": "Fix keypad layout (Phase 1)",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx",
+  "src/components/NumericKeypad.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 4,
+ "ms": 17241
+}

@@ -1,0 +1,26 @@
+{
+ "repo": "el400",
+ "sha": "2426a96e6a04b354e37b3b4dcd877b07f9bd53a1",
+ "parent": "85f13aa08812e88c46482bffbec87da43c7d745e",
+ "date": "2025-12-12",
+ "subject": "Combine AxisPanel into AxisSelectionSection",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisPanel.integration.test.tsx",
+  "src/components/AxisPanel.test.tsx",
+  "src/components/AxisPanel.tsx",
+  "src/components/AxisPanelSection.tsx",
+  "src/components/AxisSelectionSection.integration.test.tsx",
+  "src/components/AxisSelectionSection.test.tsx",
+  "src/components/AxisSelectionSection.tsx",
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8033
+}

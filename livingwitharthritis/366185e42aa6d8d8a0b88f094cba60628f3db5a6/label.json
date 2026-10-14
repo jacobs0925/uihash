@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "366185e42aa6d8d8a0b88f094cba60628f3db5a6",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Refactor Donation Tiers Section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2021 later commits"
+}

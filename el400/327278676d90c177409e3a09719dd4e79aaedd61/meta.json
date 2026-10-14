@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "327278676d90c177409e3a09719dd4e79aaedd61",
+ "parent": "3cf14e9f196991080dafa6359dfc93b4c13fe957",
+ "date": "2025-12-08",
+ "subject": "Increase spacing for primary buttons border",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PrimaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 10119
+}

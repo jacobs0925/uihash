@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "c97cba295c4a49f6ec5a555dd913a491600f8e23",
+ "date": "2025-12-15",
+ "pr": null,
+ "title": "Convert HousingEdge top SVG to CSS-only implementation",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 242 later commits"
+}

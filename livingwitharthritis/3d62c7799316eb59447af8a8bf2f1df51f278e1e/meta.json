@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "3d62c7799316eb59447af8a8bf2f1df51f278e1e",
+ "parent": "4ba31e9872ef7365a1b11e14403bacd2337f1e8b",
+ "date": "2025-11-07",
+ "subject": "Revert crypto donation form",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CryptoDonationForm.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 38262
+}

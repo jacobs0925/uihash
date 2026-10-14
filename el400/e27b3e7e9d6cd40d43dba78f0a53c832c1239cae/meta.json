@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "e27b3e7e9d6cd40d43dba78f0a53c832c1239cae",
+ "parent": "238aa4dda9285f841bcf03cd055789a5ca362109",
+ "date": "2025-12-07",
+ "subject": "Remove red LEDs above abs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LEDIndicator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 17252
+}

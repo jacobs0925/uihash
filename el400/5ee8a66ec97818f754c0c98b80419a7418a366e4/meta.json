@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "5ee8a66ec97818f754c0c98b80419a7418a366e4",
+ "parent": "e5d26885b77fbfe91fee88584492dd5c2e476ebf",
+ "date": "2025-12-07",
+ "subject": "Increase axis label size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 10099
+}

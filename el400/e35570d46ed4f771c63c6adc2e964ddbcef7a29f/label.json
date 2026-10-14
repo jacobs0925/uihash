@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "e35570d46ed4f771c63c6adc2e964ddbcef7a29f",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Enhance with rounded corners",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 545 later commits"
+}

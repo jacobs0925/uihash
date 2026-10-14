@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "4c23950eaf8b9798c6dfe013796084e728e23282",
+ "parent": "3f7c1a597b4fc93e5ef1e22e836efd6c6dfdf2e0",
+ "date": "2025-12-08",
+ "subject": "Add rounded corners",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BrandLogo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9571
+}

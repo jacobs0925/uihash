@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "8e63249c66bb35359d6db213df84f5298e12b576",
+ "parent": "05bb392e94281a3494ba0e9152208362d77f7e34",
+ "date": "2026-02-07",
+ "subject": "Premium header and hero refreshed",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/Header.tsx",
+  "src/components/HeroSection.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 11,
+ "ms": 65268
+}

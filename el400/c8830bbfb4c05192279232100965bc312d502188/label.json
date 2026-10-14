@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "c8830bbfb4c05192279232100965bc312d502188",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Center BrandLogo right housing",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 90a0a78c, which restored fdae262e (5 commits discarded)"
+}

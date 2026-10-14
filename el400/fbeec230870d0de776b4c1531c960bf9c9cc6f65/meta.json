@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "fbeec230870d0de776b4c1531c960bf9c9cc6f65",
+ "parent": "a3c3c4e1c4339693b377747fe2d79e65447eddc5",
+ "date": "2025-12-07",
+ "subject": "Increase indicator font size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LEDIndicator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9972
+}

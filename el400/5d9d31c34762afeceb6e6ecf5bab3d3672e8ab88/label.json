@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "5d9d31c34762afeceb6e6ecf5bab3d3672e8ab88",
+ "date": "2025-12-15",
+ "pr": null,
+ "title": "Implement complete center finding feature with state, UI, and tests",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 256 later commits"
+}

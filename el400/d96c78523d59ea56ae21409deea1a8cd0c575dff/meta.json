@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "d96c78523d59ea56ae21409deea1a8cd0c575dff",
+ "parent": "af3115dd746705799181b4dcc3e2556e8838cfdf",
+ "date": "2025-12-22",
+ "subject": "fix: use BASE_URL for sound asset path",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DROButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 13699
+}

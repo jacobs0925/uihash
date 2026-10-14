@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "5047e88bd049f5fffef3b4600569fe4fb16528bf",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Adjust secondary padding to p-3",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 537 later commits"
+}

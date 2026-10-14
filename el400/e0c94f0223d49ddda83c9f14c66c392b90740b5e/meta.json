@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "e0c94f0223d49ddda83c9f14c66c392b90740b5e",
+ "parent": "4ce69ca7fd10a0a0c6f7543e52b1a01407c3f37e",
+ "date": "2025-12-08",
+ "subject": "Show axis panel borders",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/v2/AxisPanelV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8376
+}

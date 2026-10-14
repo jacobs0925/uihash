@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "ebe5703f10562a71480ea785741616d1d056832a",
+ "parent": "64ce904bea2968881ff724062c6db39253a1a38e",
+ "date": "2026-02-07",
+ "subject": "Refined editorial branding",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx",
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 133965
+}

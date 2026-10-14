@@ -1,0 +1,21 @@
+{
+ "repo": "el400",
+ "sha": "7b3f039070302f4999ea67a71f136cfad477b7ca",
+ "parent": "f25936caca44266f715691e791a632988d4cffda",
+ "date": "2025-12-12",
+ "subject": "Remove unused tooltip.tsx",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/ui/tooltip.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7685
+}

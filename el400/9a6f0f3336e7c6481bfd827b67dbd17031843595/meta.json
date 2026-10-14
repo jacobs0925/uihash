@@ -1,0 +1,21 @@
+{
+ "repo": "el400",
+ "sha": "9a6f0f3336e7c6481bfd827b67dbd17031843595",
+ "parent": "705b3607e14ea782ddd34974ea7b9074f3101c34",
+ "date": "2025-12-16",
+ "subject": "state-machine-refactor",
+ "components": [
+  "dro-state-machine"
+ ],
+ "files": [
+  "src/dro-state-machine/context.test.tsx",
+  "src/dro-state-machine/context.tsx",
+  "src/dro-state-machine/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 12463
+}

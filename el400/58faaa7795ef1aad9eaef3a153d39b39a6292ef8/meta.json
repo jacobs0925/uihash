@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "58faaa7795ef1aad9eaef3a153d39b39a6292ef8",
+ "parent": "f0084d75713a864acfe29140ed47cfeeeaeed0fc",
+ "date": "2025-12-19",
+ "subject": "Remove hover:brightness-110 and add title prop to DROButton",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DROButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 33,
+ "ms": 22100
+}

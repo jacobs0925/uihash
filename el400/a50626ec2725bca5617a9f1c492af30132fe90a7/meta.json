@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "a50626ec2725bca5617a9f1c492af30132fe90a7",
+ "parent": "c8830bbfb4c05192279232100965bc312d502188",
+ "date": "2025-12-08",
+ "subject": "Align housing edge logo",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HousingEdge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9537
+}

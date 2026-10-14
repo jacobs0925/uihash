@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "ba5c9ba7a75ce1c78a6efd918488a885391b043f",
+ "parent": "a2fd62c220a9feafc7cd74d7bcab8f4dc9ed8a05",
+ "date": "2025-12-08",
+ "subject": "Offset axis zeros by half button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/v2/AxisPanelV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8305
+}

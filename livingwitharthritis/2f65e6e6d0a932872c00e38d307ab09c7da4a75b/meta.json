@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "2f65e6e6d0a932872c00e38d307ab09c7da4a75b",
+ "parent": "460282bfb411046991696012b0f1088e822d51e3",
+ "date": "2025-11-06",
+ "subject": "Remove Fundraising Section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FundraisingSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 19776
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "e4684195c23e3ce141f7083486a500504c40a792",
+ "parent": "a1a325cc189f844fed31b481af4e49b716c1f6e4",
+ "date": "2025-12-08",
+ "subject": "Offset axis right half row",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/v2/AxisPanelV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8362
+}

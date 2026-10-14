@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "3c9ed62e9e7591c0871f006a94164abdabddc1fd",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Reverted to commit 25021431426ad0d536c93fb437b7dbad62f54a6a",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "height: 100% → auto undone by 478171e8 \"Center logo to keypad position\"; height: 100% → auto undone by 478171e8 \"Center logo to keypad position\"; height: 100% → auto undone by 478171e8 \"Center logo to keypad position\""
+}

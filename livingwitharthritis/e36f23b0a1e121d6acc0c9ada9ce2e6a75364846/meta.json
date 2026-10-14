@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "e36f23b0a1e121d6acc0c9ada9ce2e6a75364846",
+ "parent": "73ecdcb834a8371868ea8d8eeafe4454b5dbb60c",
+ "date": "2026-02-07",
+ "subject": "Trimmed header & conditions CTAs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConditionsSection.tsx",
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 129413
+}

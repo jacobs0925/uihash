@@ -1,0 +1,25 @@
+{
+ "repo": "el400",
+ "sha": "e32a5fc14afeb8313f5f4e2efb3fac419547b529",
+ "parent": "c844603f9f3ffb70affee169c15f8d78498bb88b",
+ "date": "2025-12-13",
+ "subject": "Implement inch/mm unit conversion with internal mm storage (#82)",
+ "pr": "82",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/02-core-operations/US-004-inch-metric.spec.ts",
+  "src/components/AxisDisplaySection.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/UnitConversion.integration.test.tsx",
+  "src/utils/__tests__/unitConversion.test.ts",
+  "src/utils/unitConversion.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 8,
+ "ms": 11958
+}

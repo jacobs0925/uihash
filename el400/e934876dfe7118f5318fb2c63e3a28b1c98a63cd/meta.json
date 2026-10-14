@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "e934876dfe7118f5318fb2c63e3a28b1c98a63cd",
+ "parent": "7e8c2438df66abcf88c4bd3470fae3f1a0b8f3d7",
+ "date": "2025-12-08",
+ "subject": "Align logo width to keypad",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BrandLogo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9553
+}

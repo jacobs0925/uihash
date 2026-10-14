@@ -1,0 +1,22 @@
+{
+ "repo": "el400",
+ "sha": "3f789ec5f96319a3b304d2901c48855c4de298f8",
+ "parent": "0ca6725135f0d236687c27a775ff740fca59debf",
+ "date": "2025-12-07",
+ "subject": "Improve accessibility for LEDs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisPanel.tsx",
+  "src/components/DROButton.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/LEDIndicator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 11,
+ "ms": 21009
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "3cf14e9f196991080dafa6359dfc93b4c13fe957",
+ "parent": "3e0df00eb637451c33d7378fedab6d52233f7991",
+ "date": "2025-12-08",
+ "subject": "Increase primary button width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DROButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 19964
+}

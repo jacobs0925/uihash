@@ -1,0 +1,21 @@
+{
+ "repo": "el400",
+ "sha": "26b02d7907d7fc87652d2db6515be680e0f376f1",
+ "parent": "76c977ebbce0d754f11c8b7863a70709e489e69d",
+ "date": "2025-12-15",
+ "subject": "Fix e2e test assertions and remove unused code",
+ "components": [
+  "context"
+ ],
+ "files": [
+  "e2e/02-core-operations/US-007-center-finding.spec.ts",
+  "e2e/helpers/dro-page.ts",
+  "src/context/CenterFindingContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 8016
+}

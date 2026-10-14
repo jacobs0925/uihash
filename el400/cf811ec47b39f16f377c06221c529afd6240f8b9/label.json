@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "cf811ec47b39f16f377c06221c529afd6240f8b9",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Match EL400 keypad layout",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by a733010d, which restored 354d8f09 (1 commit discarded)"
+}

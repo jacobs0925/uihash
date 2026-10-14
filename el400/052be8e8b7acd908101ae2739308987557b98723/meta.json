@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "052be8e8b7acd908101ae2739308987557b98723",
+ "parent": "e0c94f0223d49ddda83c9f14c66c392b90740b5e",
+ "date": "2025-12-08",
+ "subject": "Offset X0/Y0/Z0 buttons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/v2/AxisPanelV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8381
+}

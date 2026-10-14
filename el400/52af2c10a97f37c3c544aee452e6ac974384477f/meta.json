@@ -1,0 +1,30 @@
+{
+ "repo": "el400",
+ "sha": "52af2c10a97f37c3c544aee452e6ac974384477f",
+ "parent": "415aabdb2b17fa85d6061008a2c7ec6a860454a2",
+ "date": "2026-05-31",
+ "subject": "feat(US-027): Setup Menu — Save Changes (SAV CHG) (#238)",
+ "pr": "238",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "demos/US-027.md",
+  "e2e/06-configuration/US-027-save-changes.spec.ts",
+  "src/components/MultiAxisSection.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/save-changes.integration.test.tsx",
+  "src/stores/dro/features/save-changes.test.ts",
+  "src/stores/dro/features/save-changes.ts",
+  "src/stores/dro/features/setup-parameters.test.ts",
+  "src/stores/dro/features/setup-parameters.ts",
+  "src/stores/dro/features/setup.ts",
+  "src/stores/dro/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 16518
+}

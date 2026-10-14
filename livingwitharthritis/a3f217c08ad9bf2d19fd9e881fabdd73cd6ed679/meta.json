@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a3f217c08ad9bf2d19fd9e881fabdd73cd6ed679",
+ "parent": "529bb3231c26975b6270782d3619d982a2c713ae",
+ "date": "2025-10-24",
+ "subject": "Add donation tiers section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DonationTiersSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 30485
+}

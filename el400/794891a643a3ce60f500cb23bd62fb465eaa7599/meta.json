@@ -1,0 +1,26 @@
+{
+ "repo": "el400",
+ "sha": "794891a643a3ce60f500cb23bd62fb465eaa7599",
+ "parent": "644835ba5ad461b0e3d4b1c980e1ff8906163511",
+ "date": "2026-05-31",
+ "subject": "feat(US-038): Keyboard Shortcuts (#228)",
+ "pr": "228",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/08-accessibility/US-038-keyboard-shortcuts.spec.ts",
+  "src/components/DROButton.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/KeyboardShortcuts.integration.test.tsx",
+  "src/hooks/useKeyboardShortcuts.test.ts",
+  "src/hooks/useKeyboardShortcuts.ts",
+  "src/utils/audio.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 24192
+}

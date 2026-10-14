@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "6935fa9ee0743f1dff79f8a2f76d84c14e83ae93",
+ "date": "2025-12-15",
+ "pr": null,
+ "title": "Refactor state machine into feature-based modules",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-color: rgb(0, 41, 0) → rgb(0, 255, 0) undone by 74d42123 \"Fix empty function lint error in App.tsx\"; filter: ∅ → drop-shadow(rgb(0, 255, 0) 0px 0px 2px) undone by 74d42123 \"Fix empty function lint error in App.tsx\"; background-color: rgb(0, 255, 0) → rgb(0, 41, 0) undone by 74d42123 \"Fix empty function lint error in App.tsx\""
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "c8ddebe7b5f9c27497de83ce1df9731d3f362c61",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Make logo text 95% height",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by 3c9ed62e, which restored 25021431 (3 commits discarded)"
+}

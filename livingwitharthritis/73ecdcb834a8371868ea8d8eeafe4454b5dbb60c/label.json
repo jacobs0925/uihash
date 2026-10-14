@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "73ecdcb834a8371868ea8d8eeafe4454b5dbb60c",
+ "date": "2026-02-07",
+ "pr": null,
+ "title": "Open About Arthritis in header",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1954 later commits"
+}

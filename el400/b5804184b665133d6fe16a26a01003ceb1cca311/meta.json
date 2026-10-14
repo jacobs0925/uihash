@@ -1,0 +1,27 @@
+{
+ "repo": "el400",
+ "sha": "b5804184b665133d6fe16a26a01003ceb1cca311",
+ "parent": "08a54458e8ce121357bc42df8d436a1b43941feb",
+ "date": "2026-05-31",
+ "subject": "fix(debug): reserve panel width so it never overlaps the keypad (#246)",
+ "pr": "246",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "demos/debug-panel/after-1366.png",
+  "demos/debug-panel/after-1920.png",
+  "demos/debug-panel/before-1366.png",
+  "demos/debug-panel/before-1920.png",
+  "e2e/01-foundation/debug-panel-layout.spec.ts",
+  "src/components/debug/DebugControlPanel.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 24533
+}

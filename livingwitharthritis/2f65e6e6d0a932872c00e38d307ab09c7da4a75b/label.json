@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "2f65e6e6d0a932872c00e38d307ab09c7da4a75b",
+ "date": "2025-11-06",
+ "pr": null,
+ "title": "Remove Fundraising Section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2009 later commits"
+}

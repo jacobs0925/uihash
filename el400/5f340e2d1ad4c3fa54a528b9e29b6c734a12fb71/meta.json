@@ -1,0 +1,30 @@
+{
+ "repo": "el400",
+ "sha": "5f340e2d1ad4c3fa54a528b9e29b6c734a12fb71",
+ "parent": "4dadc50772f2bafb692d751a52e2153043892195",
+ "date": "2026-06-04",
+ "subject": "Add AUX Fn setup-menu row with hardware-absent dwell (#270)",
+ "pr": "270",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "docs/plans/2026-06-04-aux-fn-setup-menu-hardware-absent-design.md",
+  "e2e/06-configuration/US-039-aux-fn.spec.ts",
+  "src/components/MultiAxisSection.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/aux-fn.test.ts",
+  "src/stores/dro/features/aux-fn.ts",
+  "src/stores/dro/features/setup-parameters.test.ts",
+  "src/stores/dro/features/setup-parameters.ts",
+  "src/stores/dro/features/setup.integration.test.tsx",
+  "src/stores/dro/features/setup.ts",
+  "src/stores/dro/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 16497
+}

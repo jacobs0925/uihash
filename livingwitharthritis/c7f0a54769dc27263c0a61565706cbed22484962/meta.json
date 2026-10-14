@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "c7f0a54769dc27263c0a61565706cbed22484962",
+ "parent": "0102b610a7e77ac088d6d48d0fb9ae824c9f3a90",
+ "date": "2026-02-03",
+ "subject": "Removed Young Adult Hub section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FundraisingSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 68596
+}

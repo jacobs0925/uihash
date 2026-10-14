@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "238aa4dda9285f841bcf03cd055789a5ca362109",
+ "parent": "074481785f57b68381b77b83a9c034b77abcdca4",
+ "date": "2025-12-07",
+ "subject": "Enhance 7-seg with decimals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisDisplay.tsx",
+  "src/components/SevenSegmentDigit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 7,
+ "ms": 17303
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a15821e4e4f8ae67db4ddc7fc9385580f5b3ac19",
+ "parent": "51d3efd4b809bdf185ee64d4a2cfaa80cd6763bf",
+ "date": "2025-11-06",
+ "subject": "Add new feature",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/FundraisingSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 29707
+}

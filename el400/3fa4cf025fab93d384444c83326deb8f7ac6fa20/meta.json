@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "3fa4cf025fab93d384444c83326deb8f7ac6fa20",
+ "parent": "1835bc24277e479a80c109d7425e1aa559f62159",
+ "date": "2025-12-08",
+ "subject": "Preload button audio on load",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DROButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8413
+}

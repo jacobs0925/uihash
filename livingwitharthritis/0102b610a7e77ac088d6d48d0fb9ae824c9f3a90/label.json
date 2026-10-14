@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "0102b610a7e77ac088d6d48d0fb9ae824c9f3a90",
+ "date": "2026-02-03",
+ "pr": null,
+ "title": "Removed cost calculator and updated contact number",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1969 later commits"
+}

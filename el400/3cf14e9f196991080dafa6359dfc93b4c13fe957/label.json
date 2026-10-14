@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "3cf14e9f196991080dafa6359dfc93b4c13fe957",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Increase primary button width",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 530 later commits"
+}

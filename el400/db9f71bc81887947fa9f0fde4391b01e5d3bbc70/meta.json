@@ -1,0 +1,22 @@
+{
+ "repo": "el400",
+ "sha": "db9f71bc81887947fa9f0fde4391b01e5d3bbc70",
+ "parent": "278cb4ab6936e8f5614df92afb953acc30474cff",
+ "date": "2025-12-08",
+ "subject": "Fix npm security vulnerabilities and React Router v7 future flags (#12)",
+ "pr": "12",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "package-lock.json",
+  "src/App.tsx",
+  "src/tests/helpers/render-utils.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 15930
+}

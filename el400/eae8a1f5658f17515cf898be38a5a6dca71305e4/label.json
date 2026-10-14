@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "eae8a1f5658f17515cf898be38a5a6dca71305e4",
+ "date": "2025-12-09",
+ "pr": "39",
+ "title": "Bump tailwindcss from 3.4.18 to 4.1.17 (#39)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 424 later commits"
+}

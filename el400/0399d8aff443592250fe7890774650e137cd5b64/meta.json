@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "0399d8aff443592250fe7890774650e137cd5b64",
+ "parent": "b970fac9190a918c61709c45b4e541cb6ec22cae",
+ "date": "2025-12-12",
+ "subject": "Changes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Icon.stories.tsx",
+  "src/components/SevenSegmentDigit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8101
+}

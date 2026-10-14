@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "fe54311c6eccf71e040fa1d239dde8b5f2f10f5f",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Increase top gap above keypad",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 580 later commits"
+}

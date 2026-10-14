@@ -1,0 +1,31 @@
+{
+ "repo": "el400",
+ "sha": "6babef6ef3f0b9b82e16654869f2f85d2a6a9984",
+ "parent": "493b6e325da835b3712f3018abeea01cc544f1ff",
+ "date": "2026-05-31",
+ "subject": "feat(US-030): Polar Coordinates (#215)",
+ "pr": "215",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/05-pattern-generation/US-030-polar-coordinates.spec.ts",
+  "project/user-stories/05-pattern-generation/US-030-polar-coordinates.md",
+  "src/components/SevenSegmentDigit.stories.tsx",
+  "src/components/SevenSegmentDigit.test.tsx",
+  "src/components/SevenSegmentDigit.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/menu.test.ts",
+  "src/stores/dro/features/menu.ts",
+  "src/stores/dro/features/polar.integration.test.tsx",
+  "src/stores/dro/features/polar.test.ts",
+  "src/stores/dro/features/polar.ts",
+  "src/stores/dro/reducer.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 14852
+}

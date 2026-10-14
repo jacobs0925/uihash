@@ -1,0 +1,22 @@
+{
+ "repo": "el400",
+ "sha": "9e7558930e666ff12873fa86420e1f201621738a",
+ "parent": "26b02d7907d7fc87652d2db6515be680e0f376f1",
+ "date": "2025-12-15",
+ "subject": "Fix menu navigation: add menuOption state for proper key 6 cycling",
+ "components": [
+  "components",
+  "context"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx",
+  "src/components/KeypadSection.tsx",
+  "src/context/CenterFindingContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7712
+}

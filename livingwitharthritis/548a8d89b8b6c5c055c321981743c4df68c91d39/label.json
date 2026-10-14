@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "548a8d89b8b6c5c055c321981743c4df68c91d39",
+ "date": "2025-10-23",
+ "pr": null,
+ "title": "Refactor website for professionalism",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "text-align: start → ∅ undone by 79a6cd8e \"Update About section with arthritis information\"; line-height: 1.5 → ∅ undone by 79a6cd8e \"Update About section with arthritis information\"; font-size: 16px → ∅ undone by 79a6cd8e \"Update About section with arthritis information\""
+}

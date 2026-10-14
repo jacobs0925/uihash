@@ -1,0 +1,22 @@
+{
+ "repo": "el400",
+ "sha": "b53099d0f4d2ff1d0eb8aad10b94819679f60330",
+ "parent": "36c4b69ae393ea0665711f565dcda41ae280b975",
+ "date": "2025-12-15",
+ "subject": "Fix lint warnings in state machine and simulator components",
+ "components": [
+  "components",
+  "dro-state-machine"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx",
+  "src/dro-state-machine/context.tsx",
+  "src/dro-state-machine/droStateMachine.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7830
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "7b902a2421a0db13b76fe12c879e95a04cad419c",
+ "parent": "0887118e1dbf719877995dbd9d0bf485340e91a7",
+ "date": "2025-12-12",
+ "subject": "Use fieldset elements for LED indicator radio groups",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisDisplaySection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 15868
+}

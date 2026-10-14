@@ -1,0 +1,22 @@
+{
+ "repo": "el400",
+ "sha": "b8a65cac95d7d7a7872df3489d004ce5b6dd7207",
+ "parent": "b63bef8bb8d9cc9bb775a3ab9a1e5531e670a396",
+ "date": "2025-12-07",
+ "subject": "Reverted to commit 8609141adeccda3d45869b7f2e015b1de506daf6",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BottomBezel.tsx",
+  "src/components/BrandLogo.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/TopBezel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 14,
+ "ms": 17881
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "b5ce4aecb70e11f154f7ccf711183630f9115b96",
+ "parent": "7759bf8f78bfdd0e0840efbda7e92f9f54d6b729",
+ "date": "2025-12-07",
+ "subject": "Spread axis and keypad buttons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisPanel.tsx",
+  "src/components/NumericKeypad.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 4,
+ "ms": 18175
+}

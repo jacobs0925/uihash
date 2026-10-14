@@ -1,0 +1,29 @@
+{
+ "repo": "el400",
+ "sha": "16edd6c1ef063448500b17aa0ad451d99596cca0",
+ "parent": "16e8d864f7c22e47b3d8985f07859081f3ba39a7",
+ "date": "2025-12-19",
+ "subject": "Optimize render performance with granular Zustand selectors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Axis.tsx",
+  "src/components/AxisSelectionSection.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/MultiAxisSection.test.tsx",
+  "src/components/MultiAxisSection.tsx",
+  "src/components/PrimaryFunctionSection.tsx",
+  "src/components/SecondaryFunctionSection.tsx",
+  "src/hooks/useDisplayValues.ts",
+  "src/stores/dro/index.ts",
+  "src/stores/droStore.ts",
+  "src/stores/millStore.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 12340
+}

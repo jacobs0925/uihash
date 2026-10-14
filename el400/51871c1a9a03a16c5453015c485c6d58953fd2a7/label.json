@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "51871c1a9a03a16c5453015c485c6d58953fd2a7",
+ "date": "2025-12-12",
+ "pr": null,
+ "title": "Add 2px transparent borders to DRO and sections for forced-colors visibility",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 386 later commits"
+}

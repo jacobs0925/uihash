@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "51ea730722212d9c1bff8d10762e81af704558d2",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Increase seven-seg height",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 483 later commits"
+}

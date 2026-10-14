@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "1cfddec219756a9217ca5a788a96258e327c347e",
+ "parent": "be725934d1cb129b40a801387b327219e1a5cfb3",
+ "date": "2025-12-08",
+ "subject": "Move logo left on housing edge",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HousingEdge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 18028
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "312d9dd77e7345893a978c49f1dc90099c81c851",
+ "date": "2025-12-16",
+ "pr": null,
+ "title": "fix: maintain module boundary pattern for boot feature exports",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 198 later commits"
+}

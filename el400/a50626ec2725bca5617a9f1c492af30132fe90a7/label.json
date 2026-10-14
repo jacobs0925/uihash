@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "a50626ec2725bca5617a9f1c492af30132fe90a7",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Align housing edge logo",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 90a0a78c, which restored fdae262e (5 commits discarded)"
+}

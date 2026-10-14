@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "1c7b453548ff386dcb35b63755512e569869bb3c",
+ "parent": "327278676d90c177409e3a09719dd4e79aaedd61",
+ "date": "2025-12-08",
+ "subject": "Position power LED overlap",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PrimaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 5,
+ "ms": 18145
+}

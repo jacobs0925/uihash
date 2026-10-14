@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "5f13700d1bfe5df85e2358b4ed1b8370f41b5970",
+ "parent": "c15c5dd5858a6724ba11ccb5a3efab65c730ee1f",
+ "date": "2025-12-07",
+ "subject": "Fix axis panel layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 4,
+ "ms": 17531
+}

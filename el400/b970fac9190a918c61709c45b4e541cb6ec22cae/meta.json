@@ -1,0 +1,25 @@
+{
+ "repo": "el400",
+ "sha": "b970fac9190a918c61709c45b4e541cb6ec22cae",
+ "parent": "f796ae84f9f40ee804d895031eaa2d56b8b18801",
+ "date": "2025-12-11",
+ "subject": "refactor: update button sizes with proper aspect ratios",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisPanel.tsx",
+  "src/components/DROButton.stories.tsx",
+  "src/components/DROButton.tsx",
+  "src/components/FunctionButtons.tsx",
+  "src/components/Icon.stories.tsx",
+  "src/components/NumericKeypad.tsx",
+  "vitest.storybook.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 15745
+}

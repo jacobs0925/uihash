@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "4b1b36100a9f0be1dae541ec8fa12eda3ecfaa7f",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Make digits taller",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 6b2ba272, which restored 95e299da (7 commits discarded)"
+}

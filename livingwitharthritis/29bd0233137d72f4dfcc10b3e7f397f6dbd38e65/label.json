@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "29bd0233137d72f4dfcc10b3e7f397f6dbd38e65",
+ "date": "2026-01-20",
+ "pr": null,
+ "title": "Add PayPal checkout",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1981 later commits"
+}

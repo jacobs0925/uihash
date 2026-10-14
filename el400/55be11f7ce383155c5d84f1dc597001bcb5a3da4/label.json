@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "55be11f7ce383155c5d84f1dc597001bcb5a3da4",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Make LEDs glow brighter",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 624 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "693ff5b79705dd6045efc8c809bb5a41d8cba1c3",
+ "parent": "e4124761aa8086bfefeac225d654653c9e474004",
+ "date": "2025-12-07",
+ "subject": "Refine top edge shape",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HousingEdge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 7,
+ "ms": 17962
+}

@@ -1,0 +1,33 @@
+{
+ "repo": "el400",
+ "sha": "39660ba03e8242e6151924fdac4763c6c110e010",
+ "parent": "9a719ea9859f7689277935a5a596d331f7a6783c",
+ "date": "2026-05-31",
+ "subject": "feat(US-012): Datum Recall (Machine Reference) (#218)",
+ "pr": "218",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/03-data-management/US-012-datum-recall.spec.ts",
+  "e2e/helpers/dro-page.ts",
+  "src/components/Axis.tsx",
+  "src/components/MultiAxisSection.tsx",
+  "src/components/PrimaryFunctionSection.test.tsx",
+  "src/components/PrimaryFunctionSection.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/reference.integration.test.tsx",
+  "src/stores/dro/features/reference.test.ts",
+  "src/stores/dro/features/reference.ts",
+  "src/stores/dro/index.ts",
+  "src/stores/dro/reducer.ts",
+  "src/stores/droStore.ts",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 23102
+}

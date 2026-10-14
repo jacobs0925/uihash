@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "57b4dff570c9acaf14d5c429f19b8dfa91a458f9",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Center logo in housing edge",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 566 later commits"
+}

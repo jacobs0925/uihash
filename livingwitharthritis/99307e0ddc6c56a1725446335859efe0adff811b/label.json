@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "99307e0ddc6c56a1725446335859efe0adff811b",
+ "date": "2026-01-16",
+ "pr": null,
+ "title": "Add Zoho Invoice section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1989 later commits"
+}

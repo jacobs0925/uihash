@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "99307e0ddc6c56a1725446335859efe0adff811b",
+ "parent": "d087b899337426bc8ef24033c208887f5bd8d7a9",
+ "date": "2026-01-16",
+ "subject": "Add Zoho Invoice section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/ZohoInvoiceSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 46301
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "c3ff5006fb388bca92323db7b67a935dacaba0de",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Center brand logo right edge",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 90a0a78c, which restored fdae262e (5 commits discarded)"
+}

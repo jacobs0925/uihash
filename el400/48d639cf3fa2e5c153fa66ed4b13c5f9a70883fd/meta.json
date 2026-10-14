@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "48d639cf3fa2e5c153fa66ed4b13c5f9a70883fd",
+ "parent": "0d370768be08efcde08c9096b39e7d44ed4561bb",
+ "date": "2025-12-08",
+ "subject": "Fine tune keypad square only",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DROButton.tsx",
+  "src/components/NumericKeypad.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 18396
+}

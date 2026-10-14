@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "683e89c0f92322a5d635ccda712d39c183fecefa",
+ "parent": "5047e88bd049f5fffef3b4600569fe4fb16528bf",
+ "date": "2025-12-08",
+ "subject": "Increase secondary buttons padding to p-4",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SecondaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9575
+}

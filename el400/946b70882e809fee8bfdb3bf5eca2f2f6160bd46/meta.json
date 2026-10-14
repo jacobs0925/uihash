@@ -1,0 +1,35 @@
+{
+ "repo": "el400",
+ "sha": "946b70882e809fee8bfdb3bf5eca2f2f6160bd46",
+ "parent": "659101b450ac537ab13c1bb827dc30f01eb9d3cd",
+ "date": "2025-12-14",
+ "subject": "Extract MachineStateContext from VolatileMemoryContext",
+ "components": [
+  "App.tsx",
+  "context"
+ ],
+ "files": [
+  "ARCHITECTURE.md",
+  "src/App.tsx",
+  "src/adapters/CncjsAdapter.ts",
+  "src/adapters/MachineConnection.ts",
+  "src/adapters/MockAdapter.ts",
+  "src/adapters/__tests__/MockAdapter.test.ts",
+  "src/context/MachineStateContext.tsx",
+  "src/context/VolatileMemoryContext.test.tsx",
+  "src/context/VolatileMemoryContext.tsx",
+  "src/hooks/useDataSourceConfig.ts",
+  "src/stories/DataSourceDemo.stories.tsx",
+  "src/stories/MachineState.stories.tsx",
+  "src/tests/helpers/integration-test-utils.tsx",
+  "src/tests/helpers/render-utils.tsx",
+  "src/types/machineState.ts",
+  "src/types/volatileMemory.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8053
+}

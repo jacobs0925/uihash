@@ -1,0 +1,27 @@
+{
+ "repo": "el400",
+ "sha": "5d9d31c34762afeceb6e6ecf5bab3d3672e8ab88",
+ "parent": "8f29edfb6af5f9d0e35d91ee9b345fe28278f22a",
+ "date": "2025-12-15",
+ "subject": "Implement complete center finding feature with state, UI, and tests",
+ "components": [
+  "components",
+  "context"
+ ],
+ "files": [
+  "e2e/02-core-operations/US-007-center-finding.spec.ts",
+  "e2e/helpers/dro-page.ts",
+  "src/components/EL400Simulator.tsx",
+  "src/components/KeypadSection.tsx",
+  "src/components/MultiAxisSection.tsx",
+  "src/components/SecondaryFunctionSection.tsx",
+  "src/context/VolatileMemoryContext.tsx",
+  "src/types/volatileMemory.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 20012
+}

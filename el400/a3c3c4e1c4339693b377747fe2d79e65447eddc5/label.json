@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "a3c3c4e1c4339693b377747fe2d79e65447eddc5",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Refactor indicator layout",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "row-gap: 8px → normal undone by d0e61589 \"Add beveled frame polish\"; row-gap: 8px → normal undone by d0e61589 \"Add beveled frame polish\"; row-gap: 8px → normal undone by d0e61589 \"Add beveled frame polish\""
+}

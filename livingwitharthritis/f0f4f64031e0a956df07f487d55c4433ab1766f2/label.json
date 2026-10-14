@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "f0f4f64031e0a956df07f487d55c4433ab1766f2",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Update donation tier amount",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 4f8d0c00, which restored 9f423e1d (1 commit discarded)"
+}

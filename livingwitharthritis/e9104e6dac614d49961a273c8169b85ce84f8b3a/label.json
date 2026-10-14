@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "e9104e6dac614d49961a273c8169b85ce84f8b3a",
+ "date": "2026-02-06",
+ "pr": null,
+ "title": "Inline resources moved to backend",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1965 later commits"
+}

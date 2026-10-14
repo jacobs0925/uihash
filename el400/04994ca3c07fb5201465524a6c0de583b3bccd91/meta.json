@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "04994ca3c07fb5201465524a6c0de583b3bccd91",
+ "parent": "4acf736595e8b6cde53a5960119c5a6ff2f1eb96",
+ "date": "2025-12-22",
+ "subject": "fix: use BASE_URL for brand logo asset path",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BrandLogo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 13154
+}

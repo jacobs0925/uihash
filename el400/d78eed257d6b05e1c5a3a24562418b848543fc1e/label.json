@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "d78eed257d6b05e1c5a3a24562418b848543fc1e",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Make indicator text bold",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 621 later commits"
+}

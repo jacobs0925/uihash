@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "d13bf28e5a1efd9c09678148115f81ef1c5cb5dd",
+ "date": "2025-12-12",
+ "pr": null,
+ "title": "Add arrow direction hints to keypad number labels",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 353 later commits"
+}

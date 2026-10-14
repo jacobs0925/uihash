@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "c8830bbfb4c05192279232100965bc312d502188",
+ "parent": "c3ff5006fb388bca92323db7b67a935dacaba0de",
+ "date": "2025-12-08",
+ "subject": "Center BrandLogo right housing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HousingEdge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9523
+}

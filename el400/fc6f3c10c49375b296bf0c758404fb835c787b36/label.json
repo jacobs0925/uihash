@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "fc6f3c10c49375b296bf0c758404fb835c787b36",
+ "date": "2025-12-17",
+ "pr": null,
+ "title": "Implement basic calculator functionality (US-013)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 184 later commits"
+}

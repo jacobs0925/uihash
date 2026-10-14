@@ -1,0 +1,28 @@
+{
+ "repo": "el400",
+ "sha": "c1501e04a1b6c9ef0208cff381ac02ea4ec5931f",
+ "parent": "8ae929a6f46822b6fa554d9d8633671869fa0761",
+ "date": "2025-12-09",
+ "subject": "Back to Tailwind v3 (#55)",
+ "pr": "55",
+ "components": [
+  "App.tsx",
+  "index.css"
+ ],
+ "files": [
+  "index.html",
+  "package-lock.json",
+  "package.json",
+  "postcss.config.js",
+  "src/App.tsx",
+  "src/index.css",
+  "src/tests/helpers/render-utils.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 25,
+ "ms": 37820
+}

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "fc235943a824fe83e325c735173c69db62b8a6c2",
+ "date": "2025-12-17",
+ "pr": null,
+ "title": "Animate motion lines",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1999 later commits"
+}

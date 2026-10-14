@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "c51f23d6b1d55392897678b2cdfc0d3ff5ef2475",
+ "parent": "e742f2f141af0701e5ee475bf086689744ebaaa0",
+ "date": "2025-12-08",
+ "subject": "Revert primary width fix",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PrimaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9359
+}

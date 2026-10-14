@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "f4cf28258715dbfe4ff8e9678d396cd4e82cd118",
+ "date": "2025-12-12",
+ "pr": null,
+ "title": "Add data interface layer with machine adapters and state management",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 380 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "cbfc29ee370fc8d39e960aa91328740a6b9f459d",
+ "parent": "b6cd0474499d4128725f77ee0922dc6acc35f7e5",
+ "date": "2025-12-12",
+ "subject": "Use legend instead of role=radiogroup on fieldset",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisDisplaySection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 11436
+}

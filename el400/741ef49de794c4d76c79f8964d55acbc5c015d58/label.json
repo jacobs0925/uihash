@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "741ef49de794c4d76c79f8964d55acbc5c015d58",
+ "date": "2025-12-12",
+ "pr": null,
+ "title": "Inline SVG icons for proper forced-colors ButtonText support",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 388 later commits"
+}

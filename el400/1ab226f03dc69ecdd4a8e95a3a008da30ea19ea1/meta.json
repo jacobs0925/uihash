@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "1ab226f03dc69ecdd4a8e95a3a008da30ea19ea1",
+ "parent": "b63108af239875618bcbb2971f7a8b455d731412",
+ "date": "2025-12-07",
+ "subject": "Adjust axis button widths",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 18106
+}

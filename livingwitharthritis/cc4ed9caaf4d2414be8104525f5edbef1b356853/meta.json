@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "cc4ed9caaf4d2414be8104525f5edbef1b356853",
+ "parent": "76962eb69970ec41ab01106aef4ebbab588b7727",
+ "date": "2025-10-24",
+ "subject": "Fix: Resolve React Query useEffect error",
+ "components": [
+  "main.tsx"
+ ],
+ "files": [
+  "src/main.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 14544
+}

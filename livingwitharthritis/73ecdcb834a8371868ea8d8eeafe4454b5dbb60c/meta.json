@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "73ecdcb834a8371868ea8d8eeafe4454b5dbb60c",
+ "parent": "fd9ab75a57eae535f5511e57c36cf3a6627275a5",
+ "date": "2026-02-07",
+ "subject": "Open About Arthritis in header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 59065
+}

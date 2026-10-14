@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "76828c6868d622c0d048e058d266f02fe3a1f448",
+ "parent": "487e9abb6df7e03d856a4f88e40d33547e39f7cd",
+ "date": "2025-12-08",
+ "subject": "Move brand logo slightly left",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HousingEdge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9643
+}

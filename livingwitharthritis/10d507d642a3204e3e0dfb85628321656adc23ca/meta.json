@@ -1,0 +1,27 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "10d507d642a3204e3e0dfb85628321656adc23ca",
+ "parent": "9a81e0ff527898fcb8920b29052dfab34f22d5c7",
+ "date": "2026-01-21",
+ "subject": "Integrate CMS data to UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/ConditionsSection.tsx",
+  "src/components/DonationTiersSection.tsx",
+  "src/components/FundraisingSection.tsx",
+  "src/components/ServicesGrid.tsx",
+  "src/components/VirtualPhysioSection.tsx",
+  "src/hooks/useCmsContent.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260121210451_3b8fdfca-e434-4765-b018-c7bb6f8f2acb.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 183930
+}

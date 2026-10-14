@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "74d42123d5299ba7e051f19a931842f85ba7f8b3",
+ "date": "2025-12-19",
+ "pr": null,
+ "title": "Fix empty function lint error in App.tsx",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 150 later commits"
+}

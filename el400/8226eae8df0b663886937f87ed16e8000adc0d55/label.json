@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "8226eae8df0b663886937f87ed16e8000adc0d55",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Move logo 5px left",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by d8c577f0, which restored 0ee2d328 (1 commit discarded)"
+}

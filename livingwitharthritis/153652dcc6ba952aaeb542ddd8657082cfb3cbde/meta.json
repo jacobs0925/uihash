@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "153652dcc6ba952aaeb542ddd8657082cfb3cbde",
+ "parent": "5318e17ce2ed97fee575871e10d1ff2056bd5aec",
+ "date": "2025-12-17",
+ "subject": "Remove cyclist from hero",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 8,
+ "ms": 37080
+}

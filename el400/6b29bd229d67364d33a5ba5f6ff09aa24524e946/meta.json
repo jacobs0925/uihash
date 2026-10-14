@@ -1,0 +1,37 @@
+{
+ "repo": "el400",
+ "sha": "6b29bd229d67364d33a5ba5f6ff09aa24524e946",
+ "parent": "248805233acabea8517ea97ee57a5d2becc7dfc3",
+ "date": "2025-12-23",
+ "subject": "Merge branch 'main' of https://github.com/pedropaulovc/el400",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "AGENTS.md",
+  "debug-panel-test.mjs",
+  "package-lock.json",
+  "package.json",
+  "screenshot.mjs",
+  "src/App.tsx",
+  "src/adapters/DebugMillAdapter.ts",
+  "src/components/debug/DebugControlPanel.integration.test.tsx",
+  "src/components/debug/DebugControlPanel.tsx",
+  "src/components/debug/DebugEventLog.tsx",
+  "src/components/debug/DebugProbeControl.tsx",
+  "src/debug/DebugServer.test.ts",
+  "src/debug/DebugServer.ts",
+  "src/hooks/useDataSourceConfig.ts",
+  "src/pages/Index.tsx",
+  "src/types/millState.ts",
+  "take-screenshot.mjs"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 22791
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "1c7b453548ff386dcb35b63755512e569869bb3c",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Position power LED overlap",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: block → flex undone by 3c9ed62e \"Reverted to commit 25021431426ad0d536c93fb437b7dbad62f54a6a\"; display: block → flex undone by 3c9ed62e \"Reverted to commit 25021431426ad0d536c93fb437b7dbad62f54a6a\"; display: block → flex undone by 3c9ed62e \"Reverted to commit 25021431426ad0d536c93fb437b7dbad62f54a6a\""
+}

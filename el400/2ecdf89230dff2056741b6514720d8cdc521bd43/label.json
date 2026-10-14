@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "2ecdf89230dff2056741b6514720d8cdc521bd43",
+ "date": "2025-12-19",
+ "pr": null,
+ "title": "Make title prop mandatory and add to all DROButton instances",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 165 later commits"
+}

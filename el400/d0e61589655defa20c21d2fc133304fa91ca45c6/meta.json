@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "d0e61589655defa20c21d2fc133304fa91ca45c6",
+ "parent": "d78eed257d6b05e1c5a3a24562418b848543fc1e",
+ "date": "2025-12-07",
+ "subject": "Add beveled frame polish",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 21,
+ "ms": 17517
+}

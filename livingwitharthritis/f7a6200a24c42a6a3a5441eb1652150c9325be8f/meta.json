@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f7a6200a24c42a6a3a5441eb1652150c9325be8f",
+ "parent": "548a8d89b8b6c5c055c321981743c4df68c91d39",
+ "date": "2025-10-23",
+ "subject": "Add donation notification feature",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DonationNotification.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 13958
+}

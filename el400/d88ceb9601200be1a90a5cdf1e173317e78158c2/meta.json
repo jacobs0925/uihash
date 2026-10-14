@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "d88ceb9601200be1a90a5cdf1e173317e78158c2",
+ "parent": "ee6430d787327ce21be4e2cf1e8411713c57d7f7",
+ "date": "2025-12-12",
+ "subject": "Replace axis display live regions with accessible table",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/helpers/dro-page.ts",
+  "src/components/AxisDisplaySection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 8,
+ "ms": 15469
+}

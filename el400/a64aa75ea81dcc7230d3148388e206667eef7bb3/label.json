@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "a64aa75ea81dcc7230d3148388e206667eef7bb3",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Recenter the logo",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 520 later commits"
+}

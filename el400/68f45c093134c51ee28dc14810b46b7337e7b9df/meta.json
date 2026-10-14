@@ -1,0 +1,24 @@
+{
+ "repo": "el400",
+ "sha": "68f45c093134c51ee28dc14810b46b7337e7b9df",
+ "parent": "7c9579a1f3d37ad0cb8113d9fc5c27ef0d5cfa2d",
+ "date": "2025-12-13",
+ "subject": "Refactor SevenSegmentDigit from SVG to pure CSS (#85)",
+ "pr": "85",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/08-accessibility/US-034-forced-colors-mode.spec.ts",
+  "src/components/SevenSegmentDigit.css",
+  "src/components/SevenSegmentDigit.stories.tsx",
+  "src/components/SevenSegmentDigit.test.tsx",
+  "src/components/SevenSegmentDigit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 15767
+}

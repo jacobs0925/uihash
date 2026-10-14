@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "8f90777b3bcf741d823f982e6d076072fb8ee98d",
+ "parent": "cc4ed9caaf4d2414be8104525f5edbef1b356853",
+ "date": "2025-10-24",
+ "subject": "Refactor: Decrease font size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationImpactSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 29377
+}

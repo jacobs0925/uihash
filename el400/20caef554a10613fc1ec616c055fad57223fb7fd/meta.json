@@ -1,0 +1,34 @@
+{
+ "repo": "el400",
+ "sha": "20caef554a10613fc1ec616c055fad57223fb7fd",
+ "parent": "5d682ba7db32b8ad39c6a6a6cff7bfa8caebe25c",
+ "date": "2025-12-20",
+ "subject": "Address PR #142 review comments",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/FunctionMenu.integration.test.tsx",
+  "src/components/PrimaryFunctionSection.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/boot.ts",
+  "src/stores/dro/features/center-finding.test.ts",
+  "src/stores/dro/features/idle.test.ts",
+  "src/stores/dro/features/idle.ts",
+  "src/stores/dro/features/inch-mm.test.ts",
+  "src/stores/dro/features/inch-mm.ts",
+  "src/stores/dro/features/menu.test.ts",
+  "src/stores/dro/features/menu.ts",
+  "src/stores/dro/reducer.ts",
+  "src/stores/dro/type-guards.test.ts",
+  "src/tests/helpers/integration-test-utils.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 12822
+}

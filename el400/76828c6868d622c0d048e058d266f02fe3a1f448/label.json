@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "76828c6868d622c0d048e058d266f02fe3a1f448",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Move brand logo slightly left",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 516 later commits"
+}

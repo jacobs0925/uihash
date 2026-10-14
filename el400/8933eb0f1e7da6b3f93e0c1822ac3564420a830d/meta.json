@@ -1,0 +1,24 @@
+{
+ "repo": "el400",
+ "sha": "8933eb0f1e7da6b3f93e0c1822ac3564420a830d",
+ "parent": "d56ffbdbec7cce357dd008b7472be33392a1bed1",
+ "date": "2025-12-20",
+ "subject": "Add inch-mm.ts reducer to handle BTN_INCH_MM",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PrimaryFunctionSection.tsx",
+  "src/stores/dro/features/idle.test.ts",
+  "src/stores/dro/features/idle.ts",
+  "src/stores/dro/features/inch-mm.test.ts",
+  "src/stores/dro/features/inch-mm.ts",
+  "src/stores/dro/reducer.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 12977
+}

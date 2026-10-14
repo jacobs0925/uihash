@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "c97cba295c4a49f6ec5a555dd913a491600f8e23",
+ "parent": "cdb7bec4b1e811e879b019fba25b6d8795bf7a64",
+ "date": "2025-12-15",
+ "subject": "Convert HousingEdge top SVG to CSS-only implementation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HousingEdge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 15783
+}

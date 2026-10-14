@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "4f8d0c0012cbab775103f4f699ea494299c63434",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Reverted to commit 9f423e1d2225bc7daf41ff7bf4706575212d368b",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Donation of␟£150,000\" → \"Donation of␟£250+\" undone by f0f4f640 \"Update donation tier amount\"; text: \"Donation of␟£150,000\" → \"Donation of␟£250+\" undone by f0f4f640 \"Update donation tier amount\"; text: \"Donation of␟£150,000\" → \"Donation of␟£250+\" undone by f0f4f640 \"Update donation tier amount\""
+}

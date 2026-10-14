@@ -1,0 +1,28 @@
+{
+ "repo": "el400",
+ "sha": "6c28af4b5a835749f252ae48822961642ea03940",
+ "parent": "ea2f9327395107f3b65bb021faf4f3d23cd11595",
+ "date": "2025-12-19",
+ "subject": "Refactor reducer architecture: decouple keypad and calculator, remove component state awareness",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisSelectionSection.tsx",
+  "src/dro-state-machine/droStateMachine.ts",
+  "src/dro-state-machine/features/axis-operations.ts",
+  "src/dro-state-machine/features/buffer-utils.ts",
+  "src/dro-state-machine/features/calculator.integration.test.tsx",
+  "src/dro-state-machine/features/calculator.test.ts",
+  "src/dro-state-machine/features/calculator.ts",
+  "src/dro-state-machine/features/keypad.test.ts",
+  "src/dro-state-machine/features/keypad.ts",
+  "src/dro-state-machine/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 12348
+}

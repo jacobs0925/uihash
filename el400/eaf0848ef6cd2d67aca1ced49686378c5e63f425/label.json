@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "eaf0848ef6cd2d67aca1ced49686378c5e63f425",
+ "date": "2025-12-08",
+ "pr": "5",
+ "title": "Remove toast notifications and improve Storybook stories (#5)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 465 later commits"
+}

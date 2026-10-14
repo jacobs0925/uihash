@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "95e299dab98efde008b56ed68a613668bdc424da",
+ "parent": "fed224fc1ad46c3db72ad51b948288083192ccac",
+ "date": "2025-12-08",
+ "subject": "Increase logo text size without changing container",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BrandLogo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 18485
+}

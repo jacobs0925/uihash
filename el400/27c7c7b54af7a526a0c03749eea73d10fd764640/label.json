@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "27c7c7b54af7a526a0c03749eea73d10fd764640",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Spread option buttons space",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 843de99c, which restored fb8bffdb (1 commit discarded)"
+}

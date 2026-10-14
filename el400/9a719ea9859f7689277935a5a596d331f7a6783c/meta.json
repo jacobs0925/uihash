@@ -1,0 +1,38 @@
+{
+ "repo": "el400",
+ "sha": "9a719ea9859f7689277935a5a596d331f7a6783c",
+ "parent": "d7876a38a195896d9640402f13bf21f969581dde",
+ "date": "2026-05-31",
+ "subject": "feat(US-045): Taper Calculation Function (#219)",
+ "pr": "219",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "e2e/04-calculations/US-045-taper-calculation.spec.ts",
+  "e2e/helpers/dro-page.ts",
+  "project/user-stories/04-calculations/US-045-taper-calculation.md",
+  "src/App.tsx",
+  "src/stores/dro/context.test.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/menu.test.ts",
+  "src/stores/dro/features/menu.ts",
+  "src/stores/dro/features/setup-parameters.test.ts",
+  "src/stores/dro/features/setup-parameters.ts",
+  "src/stores/dro/features/setup.integration.test.tsx",
+  "src/stores/dro/features/taper.integration.test.tsx",
+  "src/stores/dro/features/taper.test.ts",
+  "src/stores/dro/features/taper.ts",
+  "src/stores/dro/reducer.ts",
+  "src/stories/DataSourceDemo.stories.tsx",
+  "src/tests/helpers/integration-test-utils.tsx",
+  "src/tests/helpers/render-utils.tsx",
+  "src/types/nonVolatileMemory.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 15087
+}

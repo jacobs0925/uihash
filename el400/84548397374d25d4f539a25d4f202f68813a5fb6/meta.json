@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "84548397374d25d4f539a25d4f202f68813a5fb6",
+ "parent": "ef2d4cbab4ab389679a010cf8552f3db25f06683",
+ "date": "2025-12-08",
+ "subject": "Reverted to commit 35648c6b5de81c4239b153e7dc50a75cba300fcd",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FunctionButtons.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9269
+}

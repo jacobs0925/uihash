@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "ed84206e9b0c3532df1b866ce2d4c88c513bc19d",
+ "parent": "12809244664bbe72ba2d625cd1e9348e08fbc4bb",
+ "date": "2025-12-07",
+ "subject": "Reverted to commit 5f13700d1bfe5df85e2358b4ed1b8370f41b5970",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisDisplay.tsx",
+  "src/components/SevenSegmentDigit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 13,
+ "ms": 17342
+}

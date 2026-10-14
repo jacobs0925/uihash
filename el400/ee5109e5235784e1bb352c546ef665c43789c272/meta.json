@@ -1,0 +1,37 @@
+{
+ "repo": "el400",
+ "sha": "ee5109e5235784e1bb352c546ef665c43789c272",
+ "parent": "fa5becc42e7363927079f56a22eef4bbb210a7b2",
+ "date": "2025-12-15",
+ "subject": "Rename MachineConnection to MillConnection and adapters to connections",
+ "components": [
+  "App.tsx",
+  "context"
+ ],
+ "files": [
+  "AGENTS.md",
+  "ARCHITECTURE.md",
+  "src/App.tsx",
+  "src/adapters/CncjsAdapter.ts",
+  "src/adapters/CncjsMillConnection.ts",
+  "src/adapters/MachineConnection.ts",
+  "src/adapters/MillConnection.ts",
+  "src/adapters/MockAdapter.ts",
+  "src/adapters/MockMillConnection.ts",
+  "src/adapters/__tests__/CncjsAdapter.test.ts",
+  "src/adapters/__tests__/CncjsMillConnection.test.ts",
+  "src/adapters/__tests__/MockAdapter.test.ts",
+  "src/adapters/__tests__/MockMillConnection.test.ts",
+  "src/context/MachineStateContext.test.tsx",
+  "src/context/MachineStateContext.tsx",
+  "src/context/VolatileMemoryContext.test.tsx",
+  "src/stories/DataSourceDemo.stories.tsx",
+  "src/stories/MachineState.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8028
+}

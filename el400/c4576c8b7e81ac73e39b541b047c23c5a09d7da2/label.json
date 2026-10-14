@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "c4576c8b7e81ac73e39b541b047c23c5a09d7da2",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Reverted to commit 95e299dab98efde008b56ed68a613668bdc424da",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "transform: matrix(1, 0, 0, 1, 0, -14) → matrix(1, 0, 0, 1, 0, -12) undone by fed224fc \"Increase logo text size\"; transform: matrix(1, 0, 0, 1, 0, -14) → matrix(1, 0, 0, 1, 0, -12) undone by fed224fc \"Increase logo text size\"; transform: matrix(1, 0, 0, 1, 0, -14) → matrix(1, 0, 0, 1, 0, -12) undone by fed224fc \"Increase logo text size\""
+}

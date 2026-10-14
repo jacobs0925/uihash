@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "c097b110a2db5f36432636894d01975c8d8bf1e5",
+ "date": "2025-12-12",
+ "pr": null,
+ "title": "Remove redundant alt prop from Icon component",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 354 later commits"
+}

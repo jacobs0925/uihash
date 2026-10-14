@@ -1,0 +1,21 @@
+{
+ "repo": "el400",
+ "sha": "1835bc24277e479a80c109d7425e1aa559f62159",
+ "parent": "19968c7212719b5b2a4efa6d88094532c60dc455",
+ "date": "2025-12-08",
+ "subject": "Replace button click sound with uploaded WAV",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/sounds/button-click.m4a",
+  "public/sounds/button-click.wav",
+  "src/components/DROButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8462
+}

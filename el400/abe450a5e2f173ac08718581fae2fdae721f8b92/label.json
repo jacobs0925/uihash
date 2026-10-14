@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "abe450a5e2f173ac08718581fae2fdae721f8b92",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Align buttons to display panel",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 590 later commits"
+}

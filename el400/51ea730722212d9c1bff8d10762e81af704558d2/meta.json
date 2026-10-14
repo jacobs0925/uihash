@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "51ea730722212d9c1bff8d10762e81af704558d2",
+ "parent": "6b2ba272c6c2c90fa3e5f05bf03cb56f89b1240b",
+ "date": "2025-12-08",
+ "subject": "Increase seven-seg height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SevenSegmentDigit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 10292
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "bdf45895245263323ada9cdaa7354ecc427d22a9",
+ "date": "2025-12-12",
+ "pr": null,
+ "title": "Reorder keypad buttons for natural tab order",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 349 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "51fb67e2fae54071232d7e1f4db8756e16e72c65",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Increase keypad spacing",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by f4a259cc, which restored 48d639cf (1 commit discarded)"
+}

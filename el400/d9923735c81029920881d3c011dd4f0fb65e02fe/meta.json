@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "d9923735c81029920881d3c011dd4f0fb65e02fe",
+ "parent": "0e8849b48646f2d31ecc438c58ccc46a317c9432",
+ "date": "2025-12-07",
+ "subject": "Reposition power LED",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 4,
+ "ms": 17876
+}

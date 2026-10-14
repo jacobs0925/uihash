@@ -1,0 +1,26 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "64ce904bea2968881ff724062c6db39253a1a38e",
+ "parent": "8e63249c66bb35359d6db213df84f5298e12b576",
+ "date": "2026-02-07",
+ "subject": "Editorialize remaining sections",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/ConditionsSection.tsx",
+  "src/components/DonationTiersSection.tsx",
+  "src/components/Footer.tsx",
+  "src/components/FundraisingSection.tsx",
+  "src/components/NutritionArticleSection.tsx",
+  "src/components/ServicesGrid.tsx",
+  "src/components/VirtualPhysioSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 18,
+ "ms": 168589
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "05d3d278290376123042a44f631b3c9eb58a9234",
+ "parent": "843de99c73da8c2cb12399dee6f0783c34117b68",
+ "date": "2025-12-07",
+ "subject": "Align EL400 option width fix",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 9487
+}

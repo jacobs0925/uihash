@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "e5d96df75a02a076aa72678b949289db2f24ff2c",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Shorten secondary buttons height",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "height: 40px → 36px undone by b970fac9 \"refactor: update button sizes with proper aspect ratios\"; height: 40px → 36px undone by b970fac9 \"refactor: update button sizes with proper aspect ratios\"; height: 40px → 36px undone by b970fac9 \"refactor: update button sizes with proper aspect ratios\""
+}

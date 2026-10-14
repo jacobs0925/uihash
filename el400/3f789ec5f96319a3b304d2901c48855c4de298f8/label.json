@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "3f789ec5f96319a3b304d2901c48855c4de298f8",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Improve accessibility for LEDs",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "margin-left: 0px → 8px undone by a3c3c4e1 \"Refactor indicator layout\"; margin-left: 0px → 8px undone by a3c3c4e1 \"Refactor indicator layout\"; margin-left: 0px → 8px undone by a3c3c4e1 \"Refactor indicator layout\""
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "0887118e1dbf719877995dbd9d0bf485340e91a7",
+ "date": "2025-12-12",
+ "pr": null,
+ "title": "Make LED indicators non-interactive radio buttons in groups",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 352 later commits"
+}

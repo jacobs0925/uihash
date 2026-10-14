@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "76962eb69970ec41ab01106aef4ebbab588b7727",
+ "parent": "c21bb8212c038d283cac005f47859b2757d82e97",
+ "date": "2025-10-24",
+ "subject": "Add donation impact section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DonationImpactSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 28307
+}

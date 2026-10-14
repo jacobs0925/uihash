@@ -1,0 +1,31 @@
+{
+ "repo": "el400",
+ "sha": "b6fc59e03bd7c82f2863908f26d3161168d901be",
+ "parent": "e14dfe88bd759816e37faaa5d5a7c16da9e2a9b3",
+ "date": "2026-06-08",
+ "subject": "Embed EL400 DRO as a CNCjs custom widget (#272)",
+ "pr": "272",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "README.md",
+  "e2e/mock-cncjs-server.ts",
+  "package-lock.json",
+  "package.json",
+  "src/App.tsx",
+  "src/adapters/CncjsMillAdapter.test.ts",
+  "src/adapters/CncjsMillAdapter.ts",
+  "src/adapters/cncjsSocket.test.ts",
+  "src/adapters/cncjsSocket.ts",
+  "src/hooks/useDataSourceConfig.ts",
+  "src/types/millState.ts",
+  "src/types/socket-io-client-v2.d.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 32085
+}

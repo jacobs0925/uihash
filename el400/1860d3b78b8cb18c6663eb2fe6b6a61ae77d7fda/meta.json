@@ -1,0 +1,21 @@
+{
+ "repo": "el400",
+ "sha": "1860d3b78b8cb18c6663eb2fe6b6a61ae77d7fda",
+ "parent": "91185c52d9cc1466e2df22fb9f91a372714ae3c6",
+ "date": "2025-12-20",
+ "subject": "fix: add 'o' character to seven-segment display, use 'hoLES' text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/05-pattern-generation/US-016-bolt-hole-circle.spec.ts",
+  "src/components/SevenSegmentDigit.tsx",
+  "src/stores/dro/features/bolt-hole.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 13303
+}

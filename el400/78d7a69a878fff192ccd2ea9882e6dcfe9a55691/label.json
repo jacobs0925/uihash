@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "78d7a69a878fff192ccd2ea9882e6dcfe9a55691",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Move red LED under wrench button",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "width: 24px → auto undone by 87aafdfa \"Reverted to commit c263013c956f1e59b47095b930c2223a6700ef87\"; height: 24px → auto undone by 87aafdfa \"Reverted to commit c263013c956f1e59b47095b930c2223a6700ef87\"; width: 24px → auto undone by 87aafdfa \"Reverted to commit c263013c956f1e59b47095b930c2223a6700ef87\""
+}

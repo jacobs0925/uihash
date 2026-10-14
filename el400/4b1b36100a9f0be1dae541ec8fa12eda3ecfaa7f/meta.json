@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "4b1b36100a9f0be1dae541ec8fa12eda3ecfaa7f",
+ "parent": "d7c700622688360c078c5f1bfc23d50e0d656d4e",
+ "date": "2025-12-08",
+ "subject": "Make digits taller",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SevenSegmentDigit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 9714
+}

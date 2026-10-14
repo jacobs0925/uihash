@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "fe92125a830e204aabd25c0466437bcf85677226",
+ "date": "2025-12-11",
+ "pr": "58",
+ "title": "Widen bezel section (#58)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 414 later commits"
+}

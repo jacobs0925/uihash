@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "fc23c19e904bd9e7f3d157721f3a16ff13937067",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Undo last viewBox edit",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 481 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "c8ddebe7b5f9c27497de83ce1df9731d3f362c61",
+ "parent": "a9e8413427a5f47e2bf832ceb43b08b99fbe5d81",
+ "date": "2025-12-08",
+ "subject": "Make logo text 95% height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BrandLogo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 7,
+ "ms": 18436
+}

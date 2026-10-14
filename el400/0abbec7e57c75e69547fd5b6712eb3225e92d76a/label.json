@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "0abbec7e57c75e69547fd5b6712eb3225e92d76a",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Move brand logo further right",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 518 later commits"
+}

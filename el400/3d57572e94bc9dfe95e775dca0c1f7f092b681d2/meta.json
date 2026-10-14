@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "3d57572e94bc9dfe95e775dca0c1f7f092b681d2",
+ "parent": "5d9d31c34762afeceb6e6ecf5bab3d3672e8ab88",
+ "date": "2025-12-15",
+ "subject": "Fix navigation logic and remove unused import per code review",
+ "components": [
+  "context"
+ ],
+ "files": [
+  "src/context/VolatileMemoryContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7759
+}

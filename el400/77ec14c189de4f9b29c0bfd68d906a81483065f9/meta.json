@@ -1,0 +1,21 @@
+{
+ "repo": "el400",
+ "sha": "77ec14c189de4f9b29c0bfd68d906a81483065f9",
+ "parent": "b8ab3dd12c8bdaa9b2d2e67b233f6ca7181f34b7",
+ "date": "2025-12-16",
+ "subject": "fix: use NoOpMillConnection default instead of undefined for MillStateProvider",
+ "components": [
+  "context"
+ ],
+ "files": [
+  "src/context/MillStateContext.tsx",
+  "src/stories/DataSourceDemo.stories.tsx",
+  "src/stories/MillState.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 12306
+}

@@ -1,0 +1,26 @@
+{
+ "repo": "el400",
+ "sha": "2ecdf89230dff2056741b6514720d8cdc521bd43",
+ "parent": "58faaa7795ef1aad9eaef3a153d39b39a6292ef8",
+ "date": "2025-12-19",
+ "subject": "Make title prop mandatory and add to all DROButton instances",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisSelectionSection.tsx",
+  "src/components/DROButton.forced-colors.stories.tsx",
+  "src/components/DROButton.stories.tsx",
+  "src/components/DROButton.tsx",
+  "src/components/Icon.stories.tsx",
+  "src/components/KeypadSection.tsx",
+  "src/components/PrimaryFunctionSection.tsx",
+  "src/components/SecondaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 13162
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "48d639cf3fa2e5c153fa66ed4b13c5f9a70883fd",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Fine tune keypad square only",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "height: 40px → 36px undone by b970fac9 \"refactor: update button sizes with proper aspect ratios\"; width: 40px → 44px undone by b970fac9 \"refactor: update button sizes with proper aspect ratios\"; height: 40px → 36px undone by b970fac9 \"refactor: update button sizes with proper aspect ratios\""
+}

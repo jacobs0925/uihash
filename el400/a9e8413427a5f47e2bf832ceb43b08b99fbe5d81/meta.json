@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "a9e8413427a5f47e2bf832ceb43b08b99fbe5d81",
+ "parent": "11662e895fc9554d005806e44a2a2adbe84bece4",
+ "date": "2025-12-08",
+ "subject": "Reverted to commit 25021431426ad0d536c93fb437b7dbad62f54a6a",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DisplayPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 18413
+}

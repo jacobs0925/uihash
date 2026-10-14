@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "1b357ad95123595c2a7888021d35c953d3e8f0cc",
+ "parent": "78d7a69a878fff192ccd2ea9882e6dcfe9a55691",
+ "date": "2025-12-07",
+ "subject": "Align frame width with digits area",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9569
+}

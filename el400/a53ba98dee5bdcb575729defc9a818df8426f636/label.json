@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "a53ba98dee5bdcb575729defc9a818df8426f636",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Increase brand logo width",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "transform: matrix(1, 0, 0, 1, 0, -12) → matrix(1, 0, 0, 1, 0, -14) undone by c4576c8b \"Reverted to commit 95e299dab98efde008b56ed68a613668bdc424da\"; transform: matrix(1, 0, 0, 1, 0, -12) → matrix(1, 0, 0, 1, 0, -14) undone by c4576c8b \"Reverted to commit 95e299dab98efde008b56ed68a613668bdc424da\"; transform: matrix(1, 0, 0, 1, 0, -12) → matrix(1, 0, 0, 1, 0, -14) undone by c4576c8b \"Reverted to commit 95e299dab98efde008b56ed68a613668bdc424da\""
+}

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "64ce904bea2968881ff724062c6db39253a1a38e",
+ "date": "2026-02-07",
+ "pr": null,
+ "title": "Editorialize remaining sections",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1958 later commits"
+}

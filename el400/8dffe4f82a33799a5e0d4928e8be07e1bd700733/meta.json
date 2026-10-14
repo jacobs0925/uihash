@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "8dffe4f82a33799a5e0d4928e8be07e1bd700733",
+ "parent": "e0d2ddbdc1242a1e1e3478e1a59487ac0a96d9f7",
+ "date": "2025-12-07",
+ "subject": "Align secondary buttons bottom",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 6,
+ "ms": 10019
+}

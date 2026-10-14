@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "be725934d1cb129b40a801387b327219e1a5cfb3",
+ "parent": "a50626ec2725bca5617a9f1c492af30132fe90a7",
+ "date": "2025-12-08",
+ "subject": "Center housing edge logo",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HousingEdge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9440
+}

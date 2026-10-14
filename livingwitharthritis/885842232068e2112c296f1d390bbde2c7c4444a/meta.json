@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "885842232068e2112c296f1d390bbde2c7c4444a",
+ "parent": "6d79383e321f32eb4d01cd38ce83c7342b25e6e7",
+ "date": "2025-12-15",
+ "subject": "Add video background to hero",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/videos/hero-background.mp4",
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 30619
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "d7c700622688360c078c5f1bfc23d50e0d656d4e",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Increase 7-seg height",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 6b2ba272, which restored 95e299da (7 commits discarded)"
+}

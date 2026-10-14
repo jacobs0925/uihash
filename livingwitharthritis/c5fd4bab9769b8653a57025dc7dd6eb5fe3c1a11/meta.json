@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "c5fd4bab9769b8653a57025dc7dd6eb5fe3c1a11",
+ "parent": "9368937daeea96c185f570150fac1059c2a3c58b",
+ "date": "2025-12-25",
+ "subject": "Add floating chat button",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/ChatBot.tsx",
+  "src/components/FloatingChatButton.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 29301
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "el400",
+ "sha": "037738d6e75c1da65a2088b8da0234e73060c031",
+ "parent": "d15108f44ce59fdd89f28860e5691b6af2680c3b",
+ "date": "2025-12-18",
+ "subject": "Move display logic to useDisplayValues hook",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx",
+  "src/components/MultiAxisSection.tsx",
+  "src/hooks/useDisplayValues.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 12467
+}

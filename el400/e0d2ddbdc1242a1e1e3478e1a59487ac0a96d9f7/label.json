@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "e0d2ddbdc1242a1e1e3478e1a59487ac0a96d9f7",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Adjust axis panel sizing",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 639 later commits"
+}

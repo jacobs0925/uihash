@@ -1,0 +1,21 @@
+{
+ "repo": "el400",
+ "sha": "d79af2a5cd8ec7680ef1a8066c501b979fde3c5a",
+ "parent": "e720cdcbfee5b77765b87cff4658ea0b9f573629",
+ "date": "2025-12-20",
+ "subject": "Add precision validation to getAxisDisplayPureNumberValue",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MultiAxisSection.tsx",
+  "src/tests/helpers/integration-test-utils.test.tsx",
+  "src/tests/helpers/integration-test-utils.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 13014
+}

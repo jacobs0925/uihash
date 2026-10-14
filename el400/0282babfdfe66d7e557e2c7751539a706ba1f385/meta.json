@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "0282babfdfe66d7e557e2c7751539a706ba1f385",
+ "parent": "e27b3e7e9d6cd40d43dba78f0a53c832c1239cae",
+ "date": "2025-12-07",
+ "subject": "Adjust LED spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 17194
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "el400",
+ "sha": "0887118e1dbf719877995dbd9d0bf485340e91a7",
+ "parent": "d13bf28e5a1efd9c09678148115f81ef1c5cb5dd",
+ "date": "2025-12-12",
+ "subject": "Make LED indicators non-interactive radio buttons in groups",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisDisplaySection.test.tsx",
+  "src/components/AxisDisplaySection.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/LEDIndicator.test.tsx",
+  "src/components/LEDIndicator.tsx",
+  "src/components/PrimaryFunctionSection.integration.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 11,
+ "ms": 16005
+}

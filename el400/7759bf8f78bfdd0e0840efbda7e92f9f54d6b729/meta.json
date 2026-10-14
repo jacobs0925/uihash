@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "7759bf8f78bfdd0e0840efbda7e92f9f54d6b729",
+ "parent": "d0e61589655defa20c21d2fc133304fa91ca45c6",
+ "date": "2025-12-07",
+ "subject": "Align panels to equal height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 6,
+ "ms": 9798
+}

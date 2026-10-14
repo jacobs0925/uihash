@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "275315e4ec68094b5c8f19adca3c0269cf30d5d6",
+ "parent": "8e33d3d6a02f767b6812865ed0e1fef19af268f4",
+ "date": "2025-12-08",
+ "subject": "Adjust seven-seg SVG height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SevenSegmentDigit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 10265
+}

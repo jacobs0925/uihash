@@ -1,0 +1,23 @@
+{
+ "repo": "el400",
+ "sha": "1cfabcbff700bbce7f678a4b3a25259eed3f334c",
+ "parent": "c08bfa5910e6383684ee8b13503bb0f35a0f895d",
+ "date": "2025-12-12",
+ "subject": "Split FunctionButtons into Primary/Secondary files",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FunctionButtons.tsx",
+  "src/components/PrimaryFunctionButtons.tsx",
+  "src/components/PrimaryFunctionSection.tsx",
+  "src/components/SecondaryFunctionButtons.tsx",
+  "src/components/SecondaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8089
+}

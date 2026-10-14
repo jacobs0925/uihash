@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "1a183f138d4f26cd6e1bb614cdd896d7167c8ef2",
+ "date": "2025-12-11",
+ "pr": null,
+ "title": "new ratios",
+ "label": 1,
+ "source": "revert",
+ "confidence": 0.9,
+ "evidence": "reverted by ddb81365 \"Revert \"new ratios\"\""
+}

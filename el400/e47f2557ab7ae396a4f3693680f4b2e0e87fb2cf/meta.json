@@ -1,0 +1,21 @@
+{
+ "repo": "el400",
+ "sha": "e47f2557ab7ae396a4f3693680f4b2e0e87fb2cf",
+ "parent": "9e7558930e666ff12873fa86420e1f201621738a",
+ "date": "2025-12-15",
+ "subject": "Handle 'center' menuOption in cycling and ENT key",
+ "components": [
+  "components",
+  "context"
+ ],
+ "files": [
+  "src/components/KeypadSection.tsx",
+  "src/context/CenterFindingContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7838
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "1bb992ded7fdf0a39620b433e7630f508adde1a8",
+ "date": "2025-12-12",
+ "pr": null,
+ "title": "Wire ABS/INC button to toggle absolute/incremental mode",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 371 later commits"
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "9f423e1d2225bc7daf41ff7bf4706575212d368b",
+ "parent": "5b1af25d0e1206e2b92061ea299e89fe77cfc7f2",
+ "date": "2025-10-28",
+ "subject": "Refactor for exclusivity and cleanliness",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/Header.tsx",
+  "src/components/HeroSection.tsx",
+  "src/index.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 80,
+ "ms": 48494
+}

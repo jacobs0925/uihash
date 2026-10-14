@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "238aa4dda9285f841bcf03cd055789a5ca362109",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Enhance 7-seg with decimals",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: flex → block undone by 7759bf8f \"Align panels to equal height\"; height: 100% → auto undone by 7759bf8f \"Align panels to equal height\"; display: flex → block undone by 7759bf8f \"Align panels to equal height\""
+}

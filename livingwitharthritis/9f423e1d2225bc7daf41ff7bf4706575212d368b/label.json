@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "9f423e1d2225bc7daf41ff7bf4706575212d368b",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Refactor for exclusivity and cleanliness",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by 03600acf, which restored 5b1af25d (3 commits discarded)"
+}

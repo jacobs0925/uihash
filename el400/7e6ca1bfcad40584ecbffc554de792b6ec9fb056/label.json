@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "7e6ca1bfcad40584ecbffc554de792b6ec9fb056",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Refine secondary area width",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "flex-grow: 1 → ∅ undone by a9e84134 \"Reverted to commit 25021431426ad0d536c93fb437b7dbad62f54a6a\"; flex-basis: 0% → ∅ undone by a9e84134 \"Reverted to commit 25021431426ad0d536c93fb437b7dbad62f54a6a\"; flex-grow: 1 → ∅ undone by a9e84134 \"Reverted to commit 25021431426ad0d536c93fb437b7dbad62f54a6a\""
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "ad18212a39c32311b4c3da1a0b6ab9431da8d066",
+ "date": "2026-05-31",
+ "pr": "224",
+ "title": "fix(Icon): correct malformed SVG path in Cancel (C) icon (#224)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 57 later commits"
+}

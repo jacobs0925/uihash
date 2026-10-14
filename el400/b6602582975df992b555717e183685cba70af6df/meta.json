@@ -1,0 +1,28 @@
+{
+ "repo": "el400",
+ "sha": "b6602582975df992b555717e183685cba70af6df",
+ "parent": "d88ceb9601200be1a90a5cdf1e173317e78158c2",
+ "date": "2025-12-12",
+ "subject": "Add sr-only text and headings for button accessibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisDisplaySection.test.tsx",
+  "src/components/AxisDisplaySection.tsx",
+  "src/components/AxisSelectionSection.test.tsx",
+  "src/components/AxisSelectionSection.tsx",
+  "src/components/NumericKeypad.test.tsx",
+  "src/components/NumericKeypad.tsx",
+  "src/components/PrimaryFunctionSection.test.tsx",
+  "src/components/PrimaryFunctionSection.tsx",
+  "src/components/SecondaryFunctionSection.test.tsx",
+  "src/components/SecondaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 5,
+ "ms": 10779
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "el400",
+ "sha": "c1342e38f799267372dd8825076e9bffeecdb70b",
+ "parent": "cd789cb64ab18bc620c2adfc6b33ea9791ccc7e0",
+ "date": "2025-12-14",
+ "subject": "Return nvMem from useNonVolatileMemoryContext",
+ "components": [
+  "components",
+  "context"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx",
+  "src/context/NonVolatileMemoryContext.tsx",
+  "src/context/VolatileMemoryContext.tsx",
+  "src/hooks/useNonVolatileMemory.ts",
+  "src/stories/DataSourceDemo.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7533
+}

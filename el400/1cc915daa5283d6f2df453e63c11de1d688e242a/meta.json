@@ -1,0 +1,25 @@
+{
+ "repo": "el400",
+ "sha": "1cc915daa5283d6f2df453e63c11de1d688e242a",
+ "parent": "e5759fdeefd769a700fc507382267b637a94e04f",
+ "date": "2025-12-14",
+ "subject": "Merge NumericKeypad into NumericKeypadSection",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx",
+  "src/components/KeypadSection.tsx",
+  "src/components/NumericKeypad.test.tsx",
+  "src/components/NumericKeypad.tsx",
+  "src/components/NumericKeypadSection.test.tsx",
+  "src/components/NumericKeypadSection.tsx",
+  "src/hooks/useInputBuffer.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7846
+}

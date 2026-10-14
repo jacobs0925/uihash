@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "fe85a46b3bf07a717b0936afe7bbd8a31644d730",
+ "date": "2026-05-31",
+ "pr": "230",
+ "title": "feat(US-032): Touch Probe (#230)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 51 later commits"
+}

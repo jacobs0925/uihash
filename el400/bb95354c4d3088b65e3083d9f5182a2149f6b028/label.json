@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "bb95354c4d3088b65e3083d9f5182a2149f6b028",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Spread option buttons width",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 87aafdfa, which restored c263013c (2 commits discarded)"
+}

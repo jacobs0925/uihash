@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "ad1b6ef9c79ac97985611aff09408360bc798348",
+ "parent": "e36f23b0a1e121d6acc0c9ada9ce2e6a75364846",
+ "date": "2026-02-07",
+ "subject": "Remove donation causes section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationBanner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 123397
+}

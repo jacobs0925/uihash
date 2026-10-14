@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4af65ef46a427256bf6834ffce2f38a9fc3c8a49",
+ "parent": "22cc7ba9eed03e3f3a88a0c62159215ad43e7a07",
+ "date": "2026-01-18",
+ "subject": "simplify site and backend links",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx",
+  "src/components/Header.tsx",
+  "src/components/ServicesGrid.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 187641
+}

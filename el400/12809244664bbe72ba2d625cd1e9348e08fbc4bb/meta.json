@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "12809244664bbe72ba2d625cd1e9348e08fbc4bb",
+ "parent": "5f13700d1bfe5df85e2358b4ed1b8370f41b5970",
+ "date": "2025-12-07",
+ "subject": "Improve 7-seg display visuals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisDisplay.tsx",
+  "src/components/SevenSegmentDigit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 13,
+ "ms": 17199
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "5f13700d1bfe5df85e2358b4ed1b8370f41b5970",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Fix axis panel layout",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 631 later commits"
+}

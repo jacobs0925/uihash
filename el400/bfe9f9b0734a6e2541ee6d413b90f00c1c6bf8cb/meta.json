@@ -1,0 +1,43 @@
+{
+ "repo": "el400",
+ "sha": "bfe9f9b0734a6e2541ee6d413b90f00c1c6bf8cb",
+ "parent": "60eef387af8c69b8dea2152dbff062c3f4d86a3e",
+ "date": "2025-12-08",
+ "subject": "feat: Comprehensive testing infrastructure with Vitest, Playwright, and Storybook (#9)",
+ "pr": "9",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".gemini/settings.json",
+  ".github/workflows/storybook-tests.yml",
+  ".github/workflows/test-suite.yml",
+  ".gitignore",
+  "AGENTS.md",
+  "CLAUDE.md",
+  "GEMINI.md",
+  "e2e/01-foundation/US-001-first-use.spec.ts",
+  "e2e/helpers/assertions.ts",
+  "e2e/helpers/dro-page.ts",
+  "e2e/helpers/fixtures.ts",
+  "package-lock.json",
+  "package.json",
+  "playwright.config.ts",
+  "src/components/AxisDisplay.tsx",
+  "src/components/DisplayPanel.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/LEDIndicator.stories.tsx",
+  "src/components/LEDIndicator.test.tsx",
+  "src/tests/README.md",
+  "src/tests/helpers/render-utils.tsx",
+  "src/tests/helpers/test-utils.ts",
+  "src/tests/setup.ts",
+  "vitest.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 4,
+ "ms": 25980
+}

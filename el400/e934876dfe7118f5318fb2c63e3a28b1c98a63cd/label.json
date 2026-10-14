@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "e934876dfe7118f5318fb2c63e3a28b1c98a63cd",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Align logo width to keypad",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by a489bb38, which restored 7e8c2438 (1 commit discarded)"
+}

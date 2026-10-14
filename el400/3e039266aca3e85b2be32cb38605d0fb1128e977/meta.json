@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "3e039266aca3e85b2be32cb38605d0fb1128e977",
+ "parent": "4369c92c74d83c257814b123c090e53f4651da10",
+ "date": "2025-12-08",
+ "subject": "Don’t change container size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BrandLogo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 18504
+}

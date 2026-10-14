@@ -1,0 +1,40 @@
+{
+ "repo": "el400",
+ "sha": "05213f74005b73a9d535e85d738d0bb45f14e376",
+ "parent": "a489bb38f1340bab90ed1866707f87f0ff3b6869",
+ "date": "2025-12-08",
+ "subject": "Create v2 page with grid layout",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/v2/AxisDisplayV2.tsx",
+  "src/components/v2/AxisPanelSectionV2.tsx",
+  "src/components/v2/AxisPanelV2.tsx",
+  "src/components/v2/BeveledFrameV2.tsx",
+  "src/components/v2/BrandLogoV2.tsx",
+  "src/components/v2/DROButtonV2.tsx",
+  "src/components/v2/DisplayPanelV2.tsx",
+  "src/components/v2/EL400SimulatorV2.tsx",
+  "src/components/v2/FunctionButtonsV2.tsx",
+  "src/components/v2/HousingEdgeV2.tsx",
+  "src/components/v2/InputBufferDisplayV2.tsx",
+  "src/components/v2/KeypadSectionV2.tsx",
+  "src/components/v2/LEDIndicatorV2.tsx",
+  "src/components/v2/NumericKeypadV2.tsx",
+  "src/components/v2/PowerLEDV2.tsx",
+  "src/components/v2/PrimaryFunctionSectionV2.tsx",
+  "src/components/v2/SecondaryFunctionSectionV2.tsx",
+  "src/components/v2/SevenSegmentDigitV2.tsx",
+  "src/pages/IndexV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8572
+}

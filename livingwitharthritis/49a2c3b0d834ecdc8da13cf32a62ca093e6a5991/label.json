@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "49a2c3b0d834ecdc8da13cf32a62ca093e6a5991",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Reverted to commit 9f423e1d2225bc7daf41ff7bf4706575212d368b",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-color: rgb(255, 255, 255) → rgb(252, 252, 252) undone by 56c826c3 \"Revert design changes\"; background-color: rgb(255, 255, 255) → rgb(252, 252, 252) undone by 56c826c3 \"Revert design changes\"; background-color: rgb(52, 66, 86) → rgb(31, 44, 71) undone by 56c826c3 \"Revert design changes\""
+}

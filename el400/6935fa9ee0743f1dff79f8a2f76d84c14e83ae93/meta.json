@@ -1,0 +1,37 @@
+{
+ "repo": "el400",
+ "sha": "6935fa9ee0743f1dff79f8a2f76d84c14e83ae93",
+ "parent": "e48d0d6cbb06f55eaa5e55b2c25f0e8ad6831e8b",
+ "date": "2025-12-15",
+ "subject": "Refactor state machine into feature-based modules",
+ "components": [
+  "App.tsx",
+  "components",
+  "context",
+  "state-machine"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/KeypadSection.tsx",
+  "src/components/MultiAxisSection.tsx",
+  "src/components/SecondaryFunctionSection.tsx",
+  "src/context/OperationStateContext.test.tsx",
+  "src/context/OperationStateContext.tsx",
+  "src/state-machine/context.tsx",
+  "src/state-machine/features/boot.ts",
+  "src/state-machine/features/center-finding.ts",
+  "src/state-machine/features/menu.ts",
+  "src/state-machine/index.ts",
+  "src/state-machine/reducer.ts",
+  "src/state-machine/types.ts",
+  "src/tests/helpers/integration-test-utils.tsx",
+  "src/tests/helpers/render-utils.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 6,
+ "ms": 16330
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "el400",
+ "sha": "212c556da9858c512de5a4584d1da6f073060996",
+ "parent": "7910a278cf8282887fd70cb9c98c6297c1404371",
+ "date": "2025-12-15",
+ "subject": "Rename navigation key events for clarity",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/KeypadSection.tsx",
+  "src/dro-mode/features/boot.test.ts",
+  "src/dro-mode/features/center-finding.test.ts",
+  "src/dro-mode/features/menu.test.ts",
+  "src/dro-mode/features/menu.ts",
+  "src/dro-mode/reducer.test.ts",
+  "src/types/droMode.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7587
+}

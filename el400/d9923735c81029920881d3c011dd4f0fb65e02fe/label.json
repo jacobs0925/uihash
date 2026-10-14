@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "d9923735c81029920881d3c011dd4f0fb65e02fe",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Reposition power LED",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 65012094, which restored 0e8849b4 (5 commits discarded)"
+}

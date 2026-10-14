@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "0340b010365950e3d1f18ef6d5a6ca209d8f9ead",
+ "parent": "390936d6054e32314eff86a230acde09d8698ced",
+ "date": "2025-12-17",
+ "subject": "Enhance hero with motion lines",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 39260
+}

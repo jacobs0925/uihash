@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "55bb15b12b1ce847aefc2ed65d9b14091316b2b5",
+ "date": "2025-12-12",
+ "pr": null,
+ "title": "Fix seven-segment display borders in forced-colors mode",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 387 later commits"
+}

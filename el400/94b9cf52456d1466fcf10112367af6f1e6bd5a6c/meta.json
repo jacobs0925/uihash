@@ -1,0 +1,25 @@
+{
+ "repo": "el400",
+ "sha": "94b9cf52456d1466fcf10112367af6f1e6bd5a6c",
+ "parent": "1cb6f6e822e7157eb4be0740265a2d1fe454059f",
+ "date": "2025-12-14",
+ "subject": "Add URL param support for boot message skip and refactor E2E test helpers",
+ "components": [
+  "context"
+ ],
+ "files": [
+  "e2e/01-foundation/US-001-first-use.spec.ts",
+  "e2e/02-core-operations/US-004-inch-metric.spec.ts",
+  "e2e/09-integration/US-036-settings-persistence.spec.ts",
+  "e2e/helpers/dro-page.ts",
+  "package.json",
+  "src/context/VolatileMemoryContext.test.tsx",
+  "src/context/VolatileMemoryContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7965
+}

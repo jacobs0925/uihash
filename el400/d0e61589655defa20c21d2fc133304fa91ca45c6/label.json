@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "d0e61589655defa20c21d2fc133304fa91ca45c6",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Add beveled frame polish",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: flex → block undone by e4124761 \"Add raised edges top/bottom\"; align-items: normal → center undone by e4124761 \"Add raised edges top/bottom\"; position: ∅ → absolute undone by e4124761 \"Add raised edges top/bottom\""
+}

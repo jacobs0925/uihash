@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "a45abf785deeef4abe48990bc662a7da517abd08",
+ "parent": "90a0a78ca84af25344fef9a304ee8cdb120fdcf7",
+ "date": "2025-12-08",
+ "subject": "Center logo on thick edge",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HousingEdge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 18271
+}

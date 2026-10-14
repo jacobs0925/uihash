@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "f9c6e33ac9db19436cde76c6e5bc97df34e4c134",
+ "parent": "3af0dbb1e2272b812ed810cd07047acdba14871f",
+ "date": "2025-12-08",
+ "subject": "Fine tune primary width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PrimaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9268
+}

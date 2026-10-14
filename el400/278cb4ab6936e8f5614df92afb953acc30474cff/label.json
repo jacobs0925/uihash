@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "278cb4ab6936e8f5614df92afb953acc30474cff",
+ "date": "2025-12-08",
+ "pr": "11",
+ "title": "Remove non EL400 features (#11)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "user-select: ∅ → none undone by 54d86b43 \"feat: replace Lucide icons with custom SVG illustrations\"; color: ∅ → rgb(26, 26, 26) undone by 54d86b43 \"feat: replace Lucide icons with custom SVG illustrations\"; font-family: ∅ → Orbitron, sans-serif undone by 54d86b43 \"feat: replace Lucide icons with custom SVG illustrations\""
+}

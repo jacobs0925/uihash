@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "e742f2f141af0701e5ee475bf086689744ebaaa0",
+ "parent": "b272b3f6909e4d9ba16fda43e1af01cde6acc147",
+ "date": "2025-12-08",
+ "subject": "Align primary buttons width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PrimaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9569
+}

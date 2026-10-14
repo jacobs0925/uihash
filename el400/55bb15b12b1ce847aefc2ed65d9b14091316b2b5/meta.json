@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "55bb15b12b1ce847aefc2ed65d9b14091316b2b5",
+ "parent": "741ef49de794c4d76c79f8964d55acbc5c015d58",
+ "date": "2025-12-12",
+ "subject": "Fix seven-segment display borders in forced-colors mode",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 5,
+ "ms": 15904
+}

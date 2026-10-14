@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "d88ceb9601200be1a90a5cdf1e173317e78158c2",
+ "date": "2025-12-12",
+ "pr": null,
+ "title": "Replace axis display live regions with accessible table",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 357 later commits"
+}

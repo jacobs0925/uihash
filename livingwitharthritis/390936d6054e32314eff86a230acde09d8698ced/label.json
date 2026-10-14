@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "390936d6054e32314eff86a230acde09d8698ced",
+ "date": "2025-12-17",
+ "pr": null,
+ "title": "Add cyclist hero banner",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 0px → 96px undone by d07f6aa2 \"Premium landing redesign 1080p\"; padding-top: 0px → 96px undone by d07f6aa2 \"Premium landing redesign 1080p\"; padding-top: 0px → 96px undone by ddc5409c \"Elevate landing visuals\""
+}

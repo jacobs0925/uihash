@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "0282babfdfe66d7e557e2c7751539a706ba1f385",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Adjust LED spacing",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 625 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "153652dcc6ba952aaeb542ddd8657082cfb3cbde",
+ "date": "2025-12-17",
+ "pr": null,
+ "title": "Remove cyclist from hero",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "max-width: 512px → ∅ undone by 390936d6 \"Add cyclist hero banner\"; max-width: 512px → ∅ undone by 390936d6 \"Add cyclist hero banner\"; max-width: 512px → ∅ undone by 390936d6 \"Add cyclist hero banner\""
+}

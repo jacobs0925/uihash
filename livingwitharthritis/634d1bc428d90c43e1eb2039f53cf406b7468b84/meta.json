@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "634d1bc428d90c43e1eb2039f53cf406b7468b84",
+ "parent": "c7f0a54769dc27263c0a61565706cbed22484962",
+ "date": "2026-02-06",
+ "subject": "Add nutrition CMS table",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NutritionArticleSection.tsx",
+  "src/hooks/useCmsContent.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260206094005_ec0d4e79-ace6-47f6-8670-8070e616632a.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 164018
+}

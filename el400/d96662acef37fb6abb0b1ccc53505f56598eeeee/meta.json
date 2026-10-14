@@ -1,0 +1,29 @@
+{
+ "repo": "el400",
+ "sha": "d96662acef37fb6abb0b1ccc53505f56598eeeee",
+ "parent": "29de828a0709304c0441c93e54538b965bf3b8e2",
+ "date": "2026-05-31",
+ "subject": "feat(US-018): Arc Contouring (Step Drilling) (#216)",
+ "pr": "216",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/05-pattern-generation/US-018-arc-contouring.spec.ts",
+  "src/components/MultiAxisSection.tsx",
+  "src/components/SecondaryFunctionSection.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/arc-contour.integration.test.tsx",
+  "src/stores/dro/features/arc-contour.test.ts",
+  "src/stores/dro/features/arc-contour.ts",
+  "src/stores/dro/features/idle.ts",
+  "src/stores/dro/index.ts",
+  "src/stores/dro/reducer.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 14924
+}

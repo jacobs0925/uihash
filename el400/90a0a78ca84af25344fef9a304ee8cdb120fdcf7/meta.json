@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "90a0a78ca84af25344fef9a304ee8cdb120fdcf7",
+ "parent": "1cfddec219756a9217ca5a788a96258e327c347e",
+ "date": "2025-12-08",
+ "subject": "Reverted to commit fdae262ed97dfbf10e9b955c57eb7584a65988ca",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HousingEdge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 17715
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "el400",
+ "sha": "3bb2843046a2e3c03e631148b198b6aab7cdb473",
+ "parent": "b30d947dde631125f6fc0c450b2ad6946ddf2954",
+ "date": "2025-12-15",
+ "subject": "Fix menu navigation and e2e test workflow",
+ "components": [
+  "components",
+  "context"
+ ],
+ "files": [
+  "e2e/02-core-operations/US-007-center-finding.spec.ts",
+  "src/components/KeypadSection.tsx",
+  "src/context/CenterFindingContext.test.tsx",
+  "src/context/CenterFindingContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8049
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "bc165360f736ab5fae1b6ee36b228ab5b5cfaee0",
+ "parent": "c3ec8399b7d191e7c309ae998a9c0e3dec5aae22",
+ "date": "2025-12-12",
+ "subject": "Suppress react-refresh lint warnings for context hook exports",
+ "components": [
+  "context"
+ ],
+ "files": [
+  "src/context/MachineStateContext.tsx",
+  "src/context/SettingsContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8581
+}

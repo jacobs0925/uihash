@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "fed224fc1ad46c3db72ad51b948288083192ccac",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Increase logo text size",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 494 later commits"
+}

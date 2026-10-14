@@ -1,0 +1,25 @@
+{
+ "repo": "el400",
+ "sha": "07bff2133603ebde61727bfe004de81f6235b955",
+ "parent": "d8dd4751825419f7cab0cbe1e23b9c7101395cee",
+ "date": "2025-12-14",
+ "subject": "feat: implement power-on display sequence",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/01-foundation/US-001-first-use.spec.ts",
+  "e2e/helpers/dro-page.ts",
+  "power-on-message.png",
+  "src/components/AxisDisplaySection.tsx",
+  "src/components/EL400Simulator.power-on.test.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/tests/helpers/integration-test-utils.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 7,
+ "ms": 11483
+}

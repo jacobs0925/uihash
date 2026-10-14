@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "54d86b43b4d9865ae28f96b93e967e33353c51b3",
+ "date": "2025-12-11",
+ "pr": null,
+ "title": "feat: replace Lucide icons with custom SVG illustrations",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "height: 32px → 36px undone by b970fac9 \"refactor: update button sizes with proper aspect ratios\"; height: 32px → 36px undone by b970fac9 \"refactor: update button sizes with proper aspect ratios\"; height: 32px → 36px undone by b970fac9 \"refactor: update button sizes with proper aspect ratios\""
+}

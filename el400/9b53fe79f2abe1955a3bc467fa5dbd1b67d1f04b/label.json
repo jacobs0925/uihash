@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "9b53fe79f2abe1955a3bc467fa5dbd1b67d1f04b",
+ "date": "2025-12-11",
+ "pr": null,
+ "title": "feat: optimize SVG illustrations and complete icon migration",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 409 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "1cfddec219756a9217ca5a788a96258e327c347e",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Move logo left on housing edge",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 90a0a78c, which restored fdae262e (5 commits discarded)"
+}

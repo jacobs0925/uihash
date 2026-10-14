@@ -1,0 +1,25 @@
+{
+ "repo": "el400",
+ "sha": "7c9579a1f3d37ad0cb8113d9fc5c27ef0d5cfa2d",
+ "parent": "e32a5fc14afeb8313f5f4e2efb3fac419547b529",
+ "date": "2025-12-13",
+ "subject": "Implement simulateEncoderMove for E2E encoder movement tests (#81)",
+ "pr": "81",
+ "components": [
+  "App.tsx",
+  "context"
+ ],
+ "files": [
+  "e2e/02-core-operations/US-003-abs-inc-mode.spec.ts",
+  "e2e/helpers/dro-page.ts",
+  "e2e/helpers/fixtures.ts",
+  "src/App.tsx",
+  "src/context/MachineStateContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8032
+}

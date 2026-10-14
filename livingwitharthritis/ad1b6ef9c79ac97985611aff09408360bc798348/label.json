@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "ad1b6ef9c79ac97985611aff09408360bc798348",
+ "date": "2026-02-07",
+ "pr": null,
+ "title": "Remove donation causes section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1952 later commits"
+}

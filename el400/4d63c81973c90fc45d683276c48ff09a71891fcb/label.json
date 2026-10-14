@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "4d63c81973c90fc45d683276c48ff09a71891fcb",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Refactor adjust housing edge",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 581 later commits"
+}

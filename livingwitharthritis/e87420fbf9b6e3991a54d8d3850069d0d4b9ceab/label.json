@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "e87420fbf9b6e3991a54d8d3850069d0d4b9ceab",
+ "date": "2026-01-20",
+ "pr": null,
+ "title": "Integrate PayPal donate flow",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1980 later commits"
+}

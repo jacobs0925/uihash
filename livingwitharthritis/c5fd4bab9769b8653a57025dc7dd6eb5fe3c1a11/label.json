@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "c5fd4bab9769b8653a57025dc7dd6eb5fe3c1a11",
+ "date": "2025-12-25",
+ "pr": null,
+ "title": "Add floating chat button",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1994 later commits"
+}

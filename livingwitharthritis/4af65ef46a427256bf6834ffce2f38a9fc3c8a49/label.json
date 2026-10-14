@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "4af65ef46a427256bf6834ffce2f38a9fc3c8a49",
+ "date": "2026-01-18",
+ "pr": null,
+ "title": "simplify site and backend links",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1983 later commits"
+}

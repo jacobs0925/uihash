@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "cbfc29ee370fc8d39e960aa91328740a6b9f459d",
+ "date": "2025-12-12",
+ "pr": null,
+ "title": "Use legend instead of role=radiogroup on fieldset",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 347 later commits"
+}

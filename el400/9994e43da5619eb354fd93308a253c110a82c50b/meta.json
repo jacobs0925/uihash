@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "9994e43da5619eb354fd93308a253c110a82c50b",
+ "parent": "25021431426ad0d536c93fb437b7dbad62f54a6a",
+ "date": "2025-12-08",
+ "subject": "Reduce spacing in display layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DisplayPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 18216
+}

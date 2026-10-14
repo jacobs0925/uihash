@@ -1,0 +1,31 @@
+{
+ "repo": "el400",
+ "sha": "91185c52d9cc1466e2df22fb9f91a372714ae3c6",
+ "parent": "6a5635bbf2b57e3a4f8a58eab0257107a079826c",
+ "date": "2025-12-20",
+ "subject": "feat(US-016): implement bolt hole circle pattern generation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/05-pattern-generation/US-016-bolt-hole-circle.spec.ts",
+  "e2e/helpers/dro-page.ts",
+  "e2e/mock-cncjs-server.ts",
+  "src/components/MultiAxisSection.tsx",
+  "src/components/SecondaryFunctionSection.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/bolt-hole.integration.test.tsx",
+  "src/stores/dro/features/bolt-hole.test.ts",
+  "src/stores/dro/features/bolt-hole.ts",
+  "src/stores/dro/features/buffer-utils.ts",
+  "src/stores/dro/features/idle.ts",
+  "src/stores/dro/index.ts",
+  "src/stores/dro/reducer.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 13530
+}

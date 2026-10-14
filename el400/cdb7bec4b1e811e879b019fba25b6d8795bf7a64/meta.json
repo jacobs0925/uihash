@@ -1,0 +1,28 @@
+{
+ "repo": "el400",
+ "sha": "cdb7bec4b1e811e879b019fba25b6d8795bf7a64",
+ "parent": "5f380e17853d106c07aacf1bf9f4b5f9e12ae1d9",
+ "date": "2025-12-15",
+ "subject": "Add NoOpMillConnection for simplified connection resolution",
+ "components": [
+  "App.tsx",
+  "context"
+ ],
+ "files": [
+  "ARCHITECTURE.md",
+  "src/App.tsx",
+  "src/adapters/NoOpMillConnection.ts",
+  "src/context/MillStateContext.test.tsx",
+  "src/context/MillStateContext.tsx",
+  "src/hooks/useDataSourceConfig.ts",
+  "src/stories/DataSourceDemo.stories.tsx",
+  "src/stories/MillState.stories.tsx",
+  "src/types/millState.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7977
+}

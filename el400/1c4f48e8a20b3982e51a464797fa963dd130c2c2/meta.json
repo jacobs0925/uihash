@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "1c4f48e8a20b3982e51a464797fa963dd130c2c2",
+ "parent": "e0d528b2bc0cd7133ff3da2c3190fa4c1c44adce",
+ "date": "2025-12-08",
+ "subject": "Reverted to commit 1c7b453548ff386dcb35b63755512e569869bb3c",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SevenSegmentDigit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 10124
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "6cef7276d5422826b3bc1899fb997363eaad3baf",
+ "parent": "0500eb2a75334fe6af348123bf79a15030d9f28f",
+ "date": "2025-12-08",
+ "subject": "Adjust v2 axis buttons sizing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/v2/AxisPanelV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8310
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "d78eed257d6b05e1c5a3a24562418b848543fc1e",
+ "parent": "fbeec230870d0de776b4c1531c960bf9c9cc6f65",
+ "date": "2025-12-07",
+ "subject": "Make indicator text bold",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LEDIndicator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 17140
+}

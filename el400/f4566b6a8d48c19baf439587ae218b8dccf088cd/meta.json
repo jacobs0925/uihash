@@ -1,0 +1,31 @@
+{
+ "repo": "el400",
+ "sha": "f4566b6a8d48c19baf439587ae218b8dccf088cd",
+ "parent": "e6e98f482de8a19f5c7a73307886baa7286aac93",
+ "date": "2025-12-22",
+ "subject": "fix(US-008): implement additional distance-to-go requirements",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/03-data-management/US-008-distance-to-go.spec.ts",
+  "project/user-stories/03-data-management/US-008-distance-to-go.md",
+  "src/components/Axis.tsx",
+  "src/components/PrimaryFunctionSection.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/distance-to-go.integration.test.tsx",
+  "src/stores/dro/features/distance-to-go.test.ts",
+  "src/stores/dro/features/distance-to-go.ts",
+  "src/stores/dro/features/preset.integration.test.tsx",
+  "src/stores/dro/features/preset.test.ts",
+  "src/stores/dro/features/preset.ts",
+  "src/stores/dro/reducer.ts",
+  "src/stories/DataSourceDemo.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 13987
+}

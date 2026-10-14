@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "0102b610a7e77ac088d6d48d0fb9ae824c9f3a90",
+ "parent": "70acf6f80f955869e893395f947239d080e843e2",
+ "date": "2026-02-03",
+ "subject": "Removed cost calculator and updated contact number",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationBanner.tsx",
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 69708
+}

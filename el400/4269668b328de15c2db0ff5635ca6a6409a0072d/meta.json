@@ -1,0 +1,21 @@
+{
+ "repo": "el400",
+ "sha": "4269668b328de15c2db0ff5635ca6a6409a0072d",
+ "parent": "8dffe4f82a33799a5e0d4928e8be07e1bd700733",
+ "date": "2025-12-07",
+ "subject": "Fix axis panel and keypad layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisPanel.tsx",
+  "src/components/LEDIndicator.tsx",
+  "src/components/NumericKeypad.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 15,
+ "ms": 17507
+}

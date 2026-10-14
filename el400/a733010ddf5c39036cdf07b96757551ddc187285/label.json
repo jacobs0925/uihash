@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "a733010ddf5c39036cdf07b96757551ddc187285",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Reverted to commit 354d8f095a89251a85832dd9ae80c517c5f1be7f",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "user-select: none → ∅ undone by c15c5dd5 \"Fix keypad layout (Phase 1)\"; color: rgb(26, 26, 26) → ∅ undone by c15c5dd5 \"Fix keypad layout (Phase 1)\"; font-family: Orbitron, sans-serif → ∅ undone by c15c5dd5 \"Fix keypad layout (Phase 1)\""
+}

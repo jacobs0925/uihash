@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "4c23950eaf8b9798c6dfe013796084e728e23282",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Add rounded corners",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 7bfa328e, which restored 7e8c2438 (12 commits discarded)"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "015282c86e1ab7234e0be311748c2a309b0551d2",
+ "parent": "1c4f48e8a20b3982e51a464797fa963dd130c2c2",
+ "date": "2025-12-08",
+ "subject": "Slant 7-segment digits",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SevenSegmentDigit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 4,
+ "ms": 10253
+}

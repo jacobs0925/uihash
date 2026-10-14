@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "e48d0d6cbb06f55eaa5e55b2c25f0e8ad6831e8b",
+ "parent": "e8896487c83de4be715082b78110bba50fd78e93",
+ "date": "2025-12-15",
+ "subject": "Update src/context/OperationStateContext.tsx",
+ "components": [
+  "context"
+ ],
+ "files": [
+  "src/context/OperationStateContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7728
+}

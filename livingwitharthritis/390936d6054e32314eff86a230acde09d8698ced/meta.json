@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "390936d6054e32314eff86a230acde09d8698ced",
+ "parent": "d65933ab3e4bc5f5cbdde6f939a425efeab94ab1",
+ "date": "2025-12-17",
+ "subject": "Add cyclist hero banner",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/cyclist-illustration.png",
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 9,
+ "ms": 36315
+}

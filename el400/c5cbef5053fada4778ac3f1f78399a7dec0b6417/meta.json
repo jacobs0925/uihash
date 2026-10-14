@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "c5cbef5053fada4778ac3f1f78399a7dec0b6417",
+ "parent": "fc6f3c10c49375b296bf0c758404fb835c787b36",
+ "date": "2025-12-17",
+ "subject": "Fix calculator mode unit conversion bug",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MultiAxisSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 12288
+}

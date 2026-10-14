@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "b5df8d6a1b60d257da424f1b64cb5ec7be197d9a",
+ "parent": "22f0abae03742bf91fff400e9a1f299b12558cbe",
+ "date": "2025-12-08",
+ "subject": "Reverted to commit 05213f74005b73a9d535e85d738d0bb45f14e376",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/v2/AxisPanelV2.tsx",
+  "src/components/v2/NumericKeypadV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8105
+}

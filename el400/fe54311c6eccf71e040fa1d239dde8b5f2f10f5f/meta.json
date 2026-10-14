@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "fe54311c6eccf71e040fa1d239dde8b5f2f10f5f",
+ "parent": "4d63c81973c90fc45d683276c48ff09a71891fcb",
+ "date": "2025-12-07",
+ "subject": "Increase top gap above keypad",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9600
+}

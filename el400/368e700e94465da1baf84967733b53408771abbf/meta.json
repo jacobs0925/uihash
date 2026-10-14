@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "368e700e94465da1baf84967733b53408771abbf",
+ "parent": "e35570d46ed4f771c63c6adc2e964ddbcef7a29f",
+ "date": "2025-12-08",
+ "subject": "Expand secondary to axis center",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FunctionButtons.tsx",
+  "src/components/SecondaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 4,
+ "ms": 10124
+}

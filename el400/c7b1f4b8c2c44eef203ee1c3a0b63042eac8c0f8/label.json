@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "c7b1f4b8c2c44eef203ee1c3a0b63042eac8c0f8",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Widen logo horizontally",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "transform: matrix(1, 0, 0, 1, 0, -14) → matrix(1, 0, 0, 1, 0, -12) undone by fed224fc \"Increase logo text size\"; transform: matrix(1, 0, 0, 1, 0, -14) → matrix(1, 0, 0, 1, 0, -12) undone by fed224fc \"Increase logo text size\"; transform: matrix(1, 0, 0, 1, 0, -14) → matrix(1, 0, 0, 1, 0, -12) undone by fed224fc \"Increase logo text size\""
+}

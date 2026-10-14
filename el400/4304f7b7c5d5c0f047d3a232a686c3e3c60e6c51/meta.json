@@ -1,0 +1,25 @@
+{
+ "repo": "el400",
+ "sha": "4304f7b7c5d5c0f047d3a232a686c3e3c60e6c51",
+ "parent": "7eba7cac6c7b304764189bf731bda045cafc6cf4",
+ "date": "2025-12-19",
+ "subject": "Address PR review comments",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisSelectionSection.tsx",
+  "src/components/MultiAxisSection.tsx",
+  "src/components/PrimaryFunctionSection.tsx",
+  "src/hooks/useDisplayValues.ts",
+  "src/tests/helpers/ProfiledEL400Simulator.tsx",
+  "src/tests/helpers/render-profiler.tsx",
+  "src/tests/render-performance.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 12753
+}

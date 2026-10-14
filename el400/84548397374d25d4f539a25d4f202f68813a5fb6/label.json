@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "84548397374d25d4f539a25d4f202f68813a5fb6",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Reverted to commit 35648c6b5de81c4239b153e7dc50a75cba300fcd",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "row-gap: normal → 12px undone by ef2d4cba \"Increase gaps to 4.5\"; column-gap: normal → 12px undone by ef2d4cba \"Increase gaps to 4.5\"; row-gap: normal → 12px undone by ef2d4cba \"Increase gaps to 4.5\""
+}

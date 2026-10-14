@@ -1,0 +1,22 @@
+{
+ "repo": "el400",
+ "sha": "a733010ddf5c39036cdf07b96757551ddc187285",
+ "parent": "cf811ec47b39f16f377c06221c529afd6240f8b9",
+ "date": "2025-12-07",
+ "subject": "Reverted to commit 354d8f095a89251a85832dd9ae80c517c5f1be7f",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisDisplay.tsx",
+  "src/components/AxisPanel.tsx",
+  "src/components/NumericKeypad.tsx",
+  "src/components/SevenSegmentDigit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 19,
+ "ms": 17164
+}

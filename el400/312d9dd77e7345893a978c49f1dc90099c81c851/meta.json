@@ -1,0 +1,21 @@
+{
+ "repo": "el400",
+ "sha": "312d9dd77e7345893a978c49f1dc90099c81c851",
+ "parent": "56d1be48aebe91498f4ae589c72dc3471b31758c",
+ "date": "2025-12-16",
+ "subject": "fix: maintain module boundary pattern for boot feature exports",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx",
+  "src/dro-state-machine/features/boot.integration.test.tsx",
+  "src/dro-state-machine/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 6,
+ "ms": 15654
+}

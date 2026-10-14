@@ -1,0 +1,29 @@
+{
+ "repo": "el400",
+ "sha": "8e2681059bf577f67b2e55027875eff92a9d228b",
+ "parent": "dadc4bcb165a6a671ef09309112809826285404d",
+ "date": "2026-05-30",
+ "subject": "feat(US-039): Setup Menu Navigation and Axis Selection (#210)",
+ "pr": "210",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "AGENTS.md",
+  "e2e/06-configuration/US-039-setup-navigation.spec.ts",
+  "src/components/PrimaryFunctionSection.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/setup-parameters.test.ts",
+  "src/stores/dro/features/setup-parameters.ts",
+  "src/stores/dro/features/setup.integration.test.tsx",
+  "src/stores/dro/features/setup.test.ts",
+  "src/stores/dro/features/setup.ts",
+  "src/stores/dro/reducer.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 24234
+}

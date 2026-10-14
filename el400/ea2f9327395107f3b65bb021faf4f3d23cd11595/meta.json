@@ -1,0 +1,31 @@
+{
+ "repo": "el400",
+ "sha": "ea2f9327395107f3b65bb021faf4f3d23cd11595",
+ "parent": "2e2fbcc665c613c60bc58a70b8eee89a0c1b3758",
+ "date": "2025-12-19",
+ "subject": "Add MILL_STATE_CHANGED event dispatching from MillConnection to droReducer",
+ "components": [
+  "dro-state-machine"
+ ],
+ "files": [
+  "src/adapters/CncjsMillConnection.test.ts",
+  "src/adapters/CncjsMillConnection.ts",
+  "src/adapters/MillConnection.ts",
+  "src/adapters/MockMillConnection.test.ts",
+  "src/adapters/MockMillConnection.ts",
+  "src/adapters/NoOpMillConnection.ts",
+  "src/dro-state-machine/context.tsx",
+  "src/dro-state-machine/droStateMachine.ts",
+  "src/dro-state-machine/features/idle.test.ts",
+  "src/dro-state-machine/features/idle.ts",
+  "src/dro-state-machine/features/millStateChanged.test.ts",
+  "src/dro-state-machine/features/millStateChanged.ts",
+  "src/dro-state-machine/reducer.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 12524
+}

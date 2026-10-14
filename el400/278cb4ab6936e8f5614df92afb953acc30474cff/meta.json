@@ -1,0 +1,28 @@
+{
+ "repo": "el400",
+ "sha": "278cb4ab6936e8f5614df92afb953acc30474cff",
+ "parent": "bfe9f9b0734a6e2541ee6d413b90f00c1c6bf8cb",
+ "date": "2025-12-08",
+ "subject": "Remove non EL400 features (#11)",
+ "pr": "11",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/helpers/fixtures.ts",
+  "package-lock.json",
+  "src/components/EL400Simulator.tsx",
+  "src/components/InputBufferDisplay.tsx",
+  "src/components/KeypadSection.tsx",
+  "src/components/LEDIndicator.stories.tsx",
+  "src/components/NumericKeypad.tsx",
+  "src/tests/helpers/render-utils.tsx",
+  "src/tests/helpers/test-utils.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 25141
+}

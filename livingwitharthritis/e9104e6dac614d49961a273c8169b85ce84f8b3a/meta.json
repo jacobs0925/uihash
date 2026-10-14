@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "e9104e6dac614d49961a273c8169b85ce84f8b3a",
+ "parent": "fea6c32fd03a818d81cc4342167c3b522fced962",
+ "date": "2026-02-06",
+ "subject": "Inline resources moved to backend",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/ResourcesModal.tsx",
+  "src/components/ResourcesSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 161417
+}

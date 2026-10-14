@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "01ed9445b7a98e80a32342ebbe00b8dcd916e73e",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Widen primary buttons area",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "width: auto → 348px undone by 3af0dbb1 \"Fix display after adjustments\"; min-width: 340px → ∅ undone by 3af0dbb1 \"Fix display after adjustments\"; width: auto → 348px undone by 3af0dbb1 \"Fix display after adjustments\""
+}

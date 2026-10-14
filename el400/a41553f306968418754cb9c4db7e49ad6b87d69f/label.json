@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "a41553f306968418754cb9c4db7e49ad6b87d69f",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Improve screen reader readouts",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 643 later commits"
+}

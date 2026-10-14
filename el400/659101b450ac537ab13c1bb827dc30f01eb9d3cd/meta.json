@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "659101b450ac537ab13c1bb827dc30f01eb9d3cd",
+ "parent": "18fcb359408a6e6f2fbecd05c07746745059bb0b",
+ "date": "2025-12-14",
+ "subject": "Remove unused window.__el400Adapter exposure",
+ "components": [
+  "context"
+ ],
+ "files": [
+  "src/context/VolatileMemoryContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7851
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "7759bf8f78bfdd0e0840efbda7e92f9f54d6b729",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Align panels to equal height",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "flex-grow: ∅ → 1 undone by 86ab546d \"Increase spacing between buttons\"; flex-basis: ∅ → 0% undone by 86ab546d \"Increase spacing between buttons\"; flex-grow: ∅ → 1 undone by 86ab546d \"Increase spacing between buttons\""
+}

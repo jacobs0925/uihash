@@ -1,0 +1,28 @@
+{
+ "repo": "el400",
+ "sha": "54d86b43b4d9865ae28f96b93e967e33353c51b3",
+ "parent": "f7b1c783fdc559da79d906df835cf9a260cfebd1",
+ "date": "2025-12-11",
+ "subject": "feat: replace Lucide icons with custom SVG illustrations",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "public/illustrations/dot.svg",
+  "public/illustrations/illustration-3.svg",
+  "public/illustrations/illustration-4.svg",
+  "src/components/DROButton.tsx",
+  "src/components/FunctionButtons.tsx",
+  "src/components/Icon.tsx",
+  "src/components/NumericKeypad.tsx",
+  "src/components/ui/toast.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 8,
+ "ms": 26058
+}

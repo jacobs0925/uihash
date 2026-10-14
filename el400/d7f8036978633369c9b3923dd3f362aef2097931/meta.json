@@ -1,0 +1,21 @@
+{
+ "repo": "el400",
+ "sha": "d7f8036978633369c9b3923dd3f362aef2097931",
+ "parent": "eaa80c81aa3fd7fa07a40b7ee130116ac4ad1519",
+ "date": "2025-12-12",
+ "subject": "Improve forced-colors mode support for icons and buttons",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/Icon.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8359
+}

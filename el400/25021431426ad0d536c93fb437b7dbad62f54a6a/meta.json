@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "25021431426ad0d536c93fb437b7dbad62f54a6a",
+ "parent": "f9c6e33ac9db19436cde76c6e5bc97df34e4c134",
+ "date": "2025-12-08",
+ "subject": "Increase primary buttons width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PrimaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9603
+}

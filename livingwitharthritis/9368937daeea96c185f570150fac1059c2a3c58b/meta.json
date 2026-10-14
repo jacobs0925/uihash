@@ -1,0 +1,26 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "9368937daeea96c185f570150fac1059c2a3c58b",
+ "parent": "97336e2f04ca6e47d61e717c514d960c15ecad9c",
+ "date": "2025-12-24",
+ "subject": "Add chat streaming chat",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/ChatBot.tsx",
+  "src/hooks/useStreamingChat.ts",
+  "src/pages/Chat.tsx",
+  "supabase/config.toml",
+  "supabase/functions/chat/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 21945
+}

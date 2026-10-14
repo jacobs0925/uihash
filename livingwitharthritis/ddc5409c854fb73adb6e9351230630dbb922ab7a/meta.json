@@ -1,0 +1,30 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "ddc5409c854fb73adb6e9351230630dbb922ab7a",
+ "parent": "da1dc7fbaa444993d0502da86d108841e2c2895e",
+ "date": "2026-01-16",
+ "subject": "Elevate landing visuals",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/AboutSection.tsx",
+  "src/components/ConditionsSection.tsx",
+  "src/components/Footer.tsx",
+  "src/components/Header.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/ServicesGrid.tsx",
+  "src/components/VirtualPhysioSection.tsx",
+  "src/index.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 79,
+ "ms": 62778
+}

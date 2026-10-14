@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "19968c7212719b5b2a4efa6d88094532c60dc455",
+ "parent": "335162955930c05faabcb23b2232421841f41594",
+ "date": "2025-12-08",
+ "subject": "Add button click audio",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/sounds/button-click.m4a",
+  "src/components/DROButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8537
+}

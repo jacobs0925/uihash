@@ -1,0 +1,28 @@
+{
+ "repo": "el400",
+ "sha": "c1b7f24564bef5a4879cb5d06c8d47ae525f505c",
+ "parent": "6bfe97e35ae9a1a737d0e604c4e1335796a4eeb5",
+ "date": "2025-12-14",
+ "subject": "Internalize callbacks in child components from EL400Simulator",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisDisplaySection.test.tsx",
+  "src/components/AxisDisplaySection.tsx",
+  "src/components/AxisSelectionSection.test.tsx",
+  "src/components/AxisSelectionSection.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/PrimaryFunctionSection.test.tsx",
+  "src/components/PrimaryFunctionSection.tsx",
+  "src/components/SecondaryFunctionSection.test.tsx",
+  "src/components/SecondaryFunctionSection.tsx",
+  "src/tests/helpers/render-utils.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7644
+}

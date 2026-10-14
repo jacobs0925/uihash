@@ -1,0 +1,38 @@
+{
+ "repo": "el400",
+ "sha": "ef14b5acc32c485be1ed1f91c1407345a9d1a8ff",
+ "parent": "0a9848de728dae18832440e076446f877ab579c9",
+ "date": "2026-06-01",
+ "subject": "US-048: Screen Reader Support + accessibility retest (#255)",
+ "pr": "255",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".gitignore",
+  "ACCESSIBILITY.md",
+  "e2e/08-accessibility/US-048-screen-reader-support.spec.ts",
+  "project/plans/us-048-accessibility-retest.md",
+  "project/user-stories/08-accessibility/US-048-screen-reader-support.md",
+  "project/user-stories/README.md",
+  "spec/demo/us-048-screen-reader-support/03-full-app.png",
+  "spec/demo/us-048-screen-reader-support/README.md",
+  "spec/demo/us-048-screen-reader-support/accessibility-tree-after-absinc.txt",
+  "spec/demo/us-048-screen-reader-support/accessibility-tree-after-preset-5.txt",
+  "spec/demo/us-048-screen-reader-support/accessibility-tree-after-select-x.txt",
+  "spec/demo/us-048-screen-reader-support/accessibility-tree-after-zero-x.txt",
+  "spec/demo/us-048-screen-reader-support/accessibility-tree.txt",
+  "src/components/HousingEdge.integration.test.tsx",
+  "src/components/HousingEdge.test.tsx",
+  "src/components/HousingEdge.tsx",
+  "src/components/PowerLED.test.tsx",
+  "src/components/PowerLED.tsx",
+  "src/components/screen-reader.integration.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 16309
+}

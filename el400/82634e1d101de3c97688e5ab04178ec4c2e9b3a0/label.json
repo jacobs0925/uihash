@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "82634e1d101de3c97688e5ab04178ec4c2e9b3a0",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Increase logo text size",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by c4576c8b, which restored 95e299da (5 commits discarded)"
+}

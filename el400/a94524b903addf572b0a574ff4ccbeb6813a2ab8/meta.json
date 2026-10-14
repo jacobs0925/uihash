@@ -1,0 +1,21 @@
+{
+ "repo": "el400",
+ "sha": "a94524b903addf572b0a574ff4ccbeb6813a2ab8",
+ "parent": "baaa39fb79fdb402f848e609d2d4402bee07581e",
+ "date": "2025-12-11",
+ "subject": "chore: remove unused toast components",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/toast.tsx",
+  "src/components/ui/toaster.tsx",
+  "src/hooks/use-toast.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7968
+}

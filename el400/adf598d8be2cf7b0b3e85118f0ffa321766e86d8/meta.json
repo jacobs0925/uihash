@@ -1,0 +1,25 @@
+{
+ "repo": "el400",
+ "sha": "adf598d8be2cf7b0b3e85118f0ffa321766e86d8",
+ "parent": "38ec054c88d3b79821a9d00803e3e58faf70cad7",
+ "date": "2025-12-18",
+ "subject": "Remove dead code: VolatileMemoryContext, unused utilities, and test helpers",
+ "components": [
+  "context"
+ ],
+ "files": [
+  "src/context/VolatileMemoryContext.test.tsx",
+  "src/context/VolatileMemoryContext.tsx",
+  "src/tests/helpers/integration-test-utils.tsx",
+  "src/utils/centerFinding.test.ts",
+  "src/utils/centerFinding.ts",
+  "src/utils/unitConversion.test.ts",
+  "src/utils/unitConversion.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 12546
+}

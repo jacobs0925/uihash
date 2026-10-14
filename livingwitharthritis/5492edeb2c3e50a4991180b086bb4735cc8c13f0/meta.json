@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "5492edeb2c3e50a4991180b086bb4735cc8c13f0",
+ "parent": "93af4473b9b17c31be79d19fdb10c2dd010fd602",
+ "date": "2025-10-24",
+ "subject": "Reverted to commit a3f217c08ad9bf2d19fd9e881fabdd73cd6ed679",
+ "components": [
+  "components",
+  "main.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/components/DonationTiersSection.tsx",
+  "src/main.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 29914
+}

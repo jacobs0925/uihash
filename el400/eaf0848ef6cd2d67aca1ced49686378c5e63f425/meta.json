@@ -1,0 +1,27 @@
+{
+ "repo": "el400",
+ "sha": "eaf0848ef6cd2d67aca1ced49686378c5e63f425",
+ "parent": "061d3ad1482447c18d8b3d7b13d65b9dc9096751",
+ "date": "2025-12-08",
+ "subject": "Remove toast notifications and improve Storybook stories (#5)",
+ "pr": "5",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/App.tsx",
+  "src/components/DROButton.stories.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/LEDIndicator.stories.tsx",
+  "src/components/SevenSegmentDigit.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 18836
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "487e9abb6df7e03d856a4f88e40d33547e39f7cd",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "adjust brandlogo offset",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 517 later commits"
+}

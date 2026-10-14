@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "10d507d642a3204e3e0dfb85628321656adc23ca",
+ "date": "2026-01-21",
+ "pr": null,
+ "title": "Integrate CMS data to UI",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1978 later commits"
+}

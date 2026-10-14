@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "478171e85fb7d20510aea0da8c4ad7c23214bdd0",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Center logo to keypad position",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by b07e8f33, which restored 76828c68 (1 commit discarded)"
+}

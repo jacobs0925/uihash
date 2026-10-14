@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "084c64ee9a78a59679750a5b70c86d2a908f1518",
+ "date": "2025-12-11",
+ "pr": "57",
+ "title": "Adjust bezel thickness, remove logo, fix audio (#57)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 415 later commits"
+}

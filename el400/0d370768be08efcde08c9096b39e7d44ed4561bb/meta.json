@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "0d370768be08efcde08c9096b39e7d44ed4561bb",
+ "parent": "d8c577f02b93af2a10297a3fcb2838a8fb670bbe",
+ "date": "2025-12-08",
+ "subject": "Make keypad buttons square",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DROButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 18452
+}

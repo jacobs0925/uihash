@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "074481785f57b68381b77b83a9c034b77abcdca4",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Enhance 7-segment display",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "row-gap: 2px → normal undone by 354d8f09 \"Reverted to commit 8dffe4f82a33799a5e0d4928e8be07e1bd700733\"; column-gap: 2px → normal undone by 354d8f09 \"Reverted to commit 8dffe4f82a33799a5e0d4928e8be07e1bd700733\"; width: 32px → 40px undone by 354d8f09 \"Reverted to commit 8dffe4f82a33799a5e0d4928e8be07e1bd700733\""
+}

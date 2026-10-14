@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "d7742c2a416396b01a8e74eb2c61591f3e3c8aba",
+ "parent": "1ad82d0e7767a34081f53b584e525ac9df2a6629",
+ "date": "2025-12-12",
+ "subject": "Remove unnecessary !important from forced-colors CSS rules",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7991
+}

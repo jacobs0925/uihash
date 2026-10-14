@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "364aef1b242096bc610d85aea965b13b0238c37f",
+ "parent": "e24b1725c01c66893eb8b2f8cbf26e3ef527c44d",
+ "date": "2025-11-25",
+ "subject": "Remove activity illustration",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 35731
+}

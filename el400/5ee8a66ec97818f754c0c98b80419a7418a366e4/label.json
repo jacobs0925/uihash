@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "5ee8a66ec97818f754c0c98b80419a7418a366e4",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Increase axis label size",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "font-size: 14px → 18px undone by b3ab5979 \"Adjust BrandLogo padding to restore container size while enlarging text\"; line-height: 20px → 28px undone by b3ab5979 \"Adjust BrandLogo padding to restore container size while enlarging text\"; font-size: 14px → 18px undone by b3ab5979 \"Adjust BrandLogo padding to restore container size while enlarging text\""
+}

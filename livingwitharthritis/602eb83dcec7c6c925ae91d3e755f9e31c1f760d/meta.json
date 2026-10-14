@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "602eb83dcec7c6c925ae91d3e755f9e31c1f760d",
+ "parent": "10d507d642a3204e3e0dfb85628321656adc23ca",
+ "date": "2026-01-22",
+ "subject": "Add nutrition article section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/NutritionArticleSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 177013
+}

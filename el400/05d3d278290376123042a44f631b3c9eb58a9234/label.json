@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "05d3d278290376123042a44f631b3c9eb58a9234",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Align EL400 option width fix",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 65012094, which restored 0e8849b4 (5 commits discarded)"
+}

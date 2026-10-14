@@ -1,0 +1,24 @@
+{
+ "repo": "el400",
+ "sha": "eae8a1f5658f17515cf898be38a5a6dca71305e4",
+ "parent": "3cc305a7cd660ef9d8c81bc358357d958f06d895",
+ "date": "2025-12-09",
+ "subject": "Bump tailwindcss from 3.4.18 to 4.1.17 (#39)",
+ "pr": "39",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "postcss.config.js",
+  "src/index.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 24,
+ "ms": 43348
+}

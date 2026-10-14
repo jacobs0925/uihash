@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "27c7c7b54af7a526a0c03749eea73d10fd764640",
+ "parent": "fb8bffdbbc055eccc43c4f7f5b7e61d60b51c1e8",
+ "date": "2025-12-07",
+ "subject": "Spread option buttons space",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx",
+  "src/components/FunctionButtons.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 10286
+}

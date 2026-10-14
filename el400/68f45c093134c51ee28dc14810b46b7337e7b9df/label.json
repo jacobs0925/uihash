@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "68f45c093134c51ee28dc14810b46b7337e7b9df",
+ "date": "2025-12-13",
+ "pr": "85",
+ "title": "Refactor SevenSegmentDigit from SVG to pure CSS (#85)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 306 later commits"
+}

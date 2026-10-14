@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "fb8bffdbbc055eccc43c4f7f5b7e61d60b51c1e8",
+ "parent": "d9923735c81029920881d3c011dd4f0fb65e02fe",
+ "date": "2025-12-07",
+ "subject": "Align option buttons width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9525
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "da1dc7fbaa444993d0502da86d108841e2c2895e",
+ "parent": "99307e0ddc6c56a1725446335859efe0adff811b",
+ "date": "2026-01-16",
+ "subject": "Remove Zoho invoice section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/ZohoInvoiceSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 43094
+}

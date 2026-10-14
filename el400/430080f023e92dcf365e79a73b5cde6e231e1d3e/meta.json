@@ -1,0 +1,23 @@
+{
+ "repo": "el400",
+ "sha": "430080f023e92dcf365e79a73b5cde6e231e1d3e",
+ "parent": "247454029fa00aedc8a223b123843d775b387bd7",
+ "date": "2025-12-12",
+ "subject": "Implement forced colors mode (Windows High Contrast) support",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "e2e/01-foundation/US-034-forced-colors-mode.spec.ts",
+  "e2e/01-foundation/forced-colors.spec.ts",
+  "src/components/LEDIndicator.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8112
+}

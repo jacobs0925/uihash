@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "8acc1d95d0958df26ba4776d201c4dc94aaf583e",
+ "parent": "05d3d278290376123042a44f631b3c9eb58a9234",
+ "date": "2025-12-07",
+ "subject": "Align width of option group",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 9549
+}

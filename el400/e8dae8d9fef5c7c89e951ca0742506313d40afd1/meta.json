@@ -1,0 +1,38 @@
+{
+ "repo": "el400",
+ "sha": "e8dae8d9fef5c7c89e951ca0742506313d40afd1",
+ "parent": "46ec8a6e4ed083c2a3261ea051c27df6689571bb",
+ "date": "2026-05-31",
+ "subject": "feat(US-024): Zero-Approach Warning (#235)",
+ "pr": "235",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/06-configuration/US-024-zero-approach.spec.ts",
+  "e2e/helpers/dro-page.ts",
+  "src/components/Axis.tsx",
+  "src/components/MultiAxisSection.tsx",
+  "src/hooks/useZeroApproachWarning.ts",
+  "src/stores/dro/context.test.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/setup-parameters.test.ts",
+  "src/stores/dro/features/setup-parameters.ts",
+  "src/stores/dro/features/zero-approach.integration.test.tsx",
+  "src/stores/dro/utils/zeroApproach.test.ts",
+  "src/stores/dro/utils/zeroApproach.ts",
+  "src/stores/droStore.ts",
+  "src/stories/DataSourceDemo.stories.tsx",
+  "src/tests/helpers/integration-test-utils.tsx",
+  "src/tests/helpers/render-utils.tsx",
+  "src/tests/setup.ts",
+  "src/types/nonVolatileMemory.ts",
+  "src/utils/audio.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 16120
+}

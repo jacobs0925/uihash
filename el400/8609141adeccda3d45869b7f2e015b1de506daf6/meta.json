@@ -1,0 +1,28 @@
+{
+ "repo": "el400",
+ "sha": "8609141adeccda3d45869b7f2e015b1de506daf6",
+ "parent": "eaa820789f6fe447922dac141b0c6b59b4a276a9",
+ "date": "2025-12-07",
+ "subject": "Modularize EL400 simulator",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisPanelSection.tsx",
+  "src/components/BeveledFrame.tsx",
+  "src/components/BrandLogo.tsx",
+  "src/components/DisplayPanel.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/InputBufferDisplay.tsx",
+  "src/components/KeypadSection.tsx",
+  "src/components/PowerLED.tsx",
+  "src/components/PrimaryFunctionSection.tsx",
+  "src/components/SecondaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 8368
+}

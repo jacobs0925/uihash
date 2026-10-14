@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "460282bfb411046991696012b0f1088e822d51e3",
+ "parent": "87ea6d0b24d5711125fa1766b8d6f0d6e0b90769",
+ "date": "2025-11-06",
+ "subject": "Update arthritis information",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 32894
+}

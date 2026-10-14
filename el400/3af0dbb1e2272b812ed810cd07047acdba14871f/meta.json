@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "3af0dbb1e2272b812ed810cd07047acdba14871f",
+ "parent": "01ed9445b7a98e80a32342ebbe00b8dcd916e73e",
+ "date": "2025-12-08",
+ "subject": "Fix display after adjustments",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DisplayPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9346
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "ad18212a39c32311b4c3da1a0b6ab9431da8d066",
+ "parent": "5928ae17fe051fcdef0f6c2f4c286a85f4d28644",
+ "date": "2026-05-31",
+ "subject": "fix(Icon): correct malformed SVG path in Cancel (C) icon (#224)",
+ "pr": "224",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Icon.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 16511
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "07bff2133603ebde61727bfe004de81f6235b955",
+ "date": "2025-12-14",
+ "pr": null,
+ "title": "feat: implement power-on display sequence",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "fill: rgb(0, 41, 0) → rgb(0, 255, 0) undone by 811a7ce7 \"fix: address power-on review comments\"; filter: ∅ → url(\"#glow\") undone by 811a7ce7 \"fix: address power-on review comments\"; fill: rgb(0, 41, 0) → rgb(0, 255, 0) undone by 811a7ce7 \"fix: address power-on review comments\""
+}

@@ -1,0 +1,33 @@
+{
+ "repo": "el400",
+ "sha": "b8ab3dd12c8bdaa9b2d2e67b233f6ca7181f34b7",
+ "parent": "d95e6b8fd38a1fdc1b898ccceeaf32d6fcf62693",
+ "date": "2025-12-16",
+ "subject": "feat: enable additional strict TypeScript compiler options",
+ "components": [
+  "components",
+  "context",
+  "dro-state-machine"
+ ],
+ "files": [
+  "src/adapters/CncjsMillConnection.ts",
+  "src/adapters/MockMillConnection.test.ts",
+  "src/components/Axis.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/KeypadSection.test.tsx",
+  "src/components/SevenSegmentDigit.tsx",
+  "src/context/MillStateContext.tsx",
+  "src/dro-state-machine/context.tsx",
+  "src/dro-state-machine/features/center-finding.ts",
+  "src/dro-state-machine/features/menu.ts",
+  "src/tests/contrast-utils.ts",
+  "src/types/millState.ts",
+  "tsconfig.app.json"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 12085
+}

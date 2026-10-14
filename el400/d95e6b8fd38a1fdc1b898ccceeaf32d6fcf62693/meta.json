@@ -1,0 +1,29 @@
+{
+ "repo": "el400",
+ "sha": "d95e6b8fd38a1fdc1b898ccceeaf32d6fcf62693",
+ "parent": "0fa19d96777610df51bc1b052aef8c57d87417a5",
+ "date": "2025-12-16",
+ "subject": "feat: enforce strict TypeScript and add vite type checking",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/adapters/CncjsMillConnection.ts",
+  "src/components/KeypadSection.test.tsx",
+  "src/components/LEDIndicator.forced-colors.stories.tsx",
+  "src/components/PowerLED.tsx",
+  "src/dro-state-machine/droStateMachine.ts",
+  "src/dro-state-machine/features/center-finding.ts",
+  "src/tests/helpers/integration-test-utils.test.tsx",
+  "tsconfig.app.json",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 25977
+}

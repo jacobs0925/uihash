@@ -1,0 +1,22 @@
+{
+ "repo": "el400",
+ "sha": "e21ddf9fe6017877c8e511b5d42850ffb783209c",
+ "parent": "56223b9c19c5b141557bcb138dbbc2cbdf730f04",
+ "date": "2025-12-15",
+ "subject": "Extract boot message timeout as named constant BOOT_MESSAGE_DURATION_MS",
+ "components": [
+  "context"
+ ],
+ "files": [
+  "package-lock.json",
+  "src/components/EL400Simulator.power-on.test.tsx",
+  "src/context/VolatileMemoryContext.test.tsx",
+  "src/context/VolatileMemoryContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 16445
+}

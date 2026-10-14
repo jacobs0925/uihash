@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "c21bb8212c038d283cac005f47859b2757d82e97",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Remove body map diagnosis",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2031 later commits"
+}

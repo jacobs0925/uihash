@@ -1,0 +1,24 @@
+{
+ "repo": "el400",
+ "sha": "46c6cb3463de292a5aa132d1c579f1dfdaecf8f8",
+ "parent": "1cc915daa5283d6f2df453e63c11de1d688e242a",
+ "date": "2025-12-14",
+ "subject": "Rename NumericKeypadSection to KeypadSection",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx",
+  "src/components/KeypadSection.test.tsx",
+  "src/components/KeypadSection.tsx",
+  "src/components/NumericKeypadSection.test.tsx",
+  "src/components/NumericKeypadSection.tsx",
+  "src/hooks/useInputBuffer.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7645
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "a64aa75ea81dcc7230d3148388e206667eef7bb3",
+ "parent": "c7b1f4b8c2c44eef203ee1c3a0b63042eac8c0f8",
+ "date": "2025-12-08",
+ "subject": "Recenter the logo",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BrandLogo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 10097
+}

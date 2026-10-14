@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "3af0dbb1e2272b812ed810cd07047acdba14871f",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Fix display after adjustments",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 502 later commits"
+}

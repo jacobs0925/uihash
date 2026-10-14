@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "65012094e93d1f8a966347c5170c91f08a48f72f",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Reverted to commit 0e8849b48646f2d31ecc438c58ccc46a317c9432",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-bottom: 0px → 8px undone by 693ff5b7 \"Refine top edge shape\"; margin-bottom: 0px → 8px undone by 693ff5b7 \"Refine top edge shape\"; margin-bottom: 0px → 8px undone by 693ff5b7 \"Refine top edge shape\""
+}

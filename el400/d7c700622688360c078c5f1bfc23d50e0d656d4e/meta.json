@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "d7c700622688360c078c5f1bfc23d50e0d656d4e",
+ "parent": "c4576c8b7e81ac73e39b541b047c23c5a09d7da2",
+ "date": "2025-12-08",
+ "subject": "Increase 7-seg height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisDisplay.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 20249
+}

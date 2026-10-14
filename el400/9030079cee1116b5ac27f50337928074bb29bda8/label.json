@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "9030079cee1116b5ac27f50337928074bb29bda8",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Increase 7-seg digits size and reduce spacing",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 523 later commits"
+}

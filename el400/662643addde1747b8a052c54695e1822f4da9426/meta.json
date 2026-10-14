@@ -1,0 +1,29 @@
+{
+ "repo": "el400",
+ "sha": "662643addde1747b8a052c54695e1822f4da9426",
+ "parent": "a47311bca37883c9dc4d5b72d5a17b951aeb961a",
+ "date": "2026-05-31",
+ "subject": "feat(US-020): Grid Drilling Pattern (#213)",
+ "pr": "213",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/05-pattern-generation/US-020-grid-drilling.spec.ts",
+  "src/components/MultiAxisSection.tsx",
+  "src/components/SecondaryFunctionSection.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/grid.integration.test.tsx",
+  "src/stores/dro/features/grid.test.ts",
+  "src/stores/dro/features/grid.ts",
+  "src/stores/dro/features/idle.ts",
+  "src/stores/dro/index.ts",
+  "src/stores/dro/reducer.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 14428
+}

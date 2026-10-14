@@ -1,0 +1,27 @@
+{
+ "repo": "el400",
+ "sha": "e35570d46ed4f771c63c6adc2e964ddbcef7a29f",
+ "parent": "7bfa328ed2adfe18cebaea59cc4c3390537b43bb",
+ "date": "2025-12-08",
+ "subject": "Enhance with rounded corners",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AxisPanel.tsx",
+  "src/components/BeveledFrame.tsx",
+  "src/components/DROButton.tsx",
+  "src/components/DisplayPanel.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/HousingEdge.tsx",
+  "src/components/KeypadSection.tsx",
+  "src/components/PrimaryFunctionSection.tsx",
+  "src/components/SecondaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 4,
+ "ms": 18182
+}

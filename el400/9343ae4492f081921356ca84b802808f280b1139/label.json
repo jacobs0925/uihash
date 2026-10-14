@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "9343ae4492f081921356ca84b802808f280b1139",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Reverted to commit 28ac94bb0f49fa4454f23a6b09d1a50b283c3724",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "width: 40px → 48px undone by c9e260f6 \"Shorten secondary buttons area\"; height: 32px → 44px undone by c9e260f6 \"Shorten secondary buttons area\"; line-height: 16px → 24px undone by c9e260f6 \"Shorten secondary buttons area\""
+}

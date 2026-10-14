@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "ef2d4cbab4ab389679a010cf8552f3db25f06683",
+ "parent": "35648c6b5de81c4239b153e7dc50a75cba300fcd",
+ "date": "2025-12-08",
+ "subject": "Increase gaps to 4.5",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FunctionButtons.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 9507
+}

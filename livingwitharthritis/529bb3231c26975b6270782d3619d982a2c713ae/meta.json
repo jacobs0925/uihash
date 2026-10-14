@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "529bb3231c26975b6270782d3619d982a2c713ae",
+ "parent": "8f90777b3bcf741d823f982e6d076072fb8ee98d",
+ "date": "2025-10-24",
+ "subject": "Revert font size changes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationImpactSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 27759
+}

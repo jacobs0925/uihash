@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "eaa820789f6fe447922dac141b0c6b59b4a276a9",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Fine tune EL400 alignment",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 589 later commits"
+}

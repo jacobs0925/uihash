@@ -1,0 +1,21 @@
+{
+ "repo": "el400",
+ "sha": "e4124761aa8086bfefeac225d654653c9e474004",
+ "parent": "b8a65cac95d7d7a7872df3489d004ce5b6dd7207",
+ "date": "2025-12-07",
+ "subject": "Add raised edges top/bottom",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BrandLogo.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/HousingEdge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 13,
+ "ms": 18142
+}

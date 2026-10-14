@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "fbeec230870d0de776b4c1531c960bf9c9cc6f65",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Increase indicator font size",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 622 later commits"
+}

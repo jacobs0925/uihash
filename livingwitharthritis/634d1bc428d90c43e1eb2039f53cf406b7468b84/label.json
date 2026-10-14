@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "634d1bc428d90c43e1eb2039f53cf406b7468b84",
+ "date": "2026-02-06",
+ "pr": null,
+ "title": "Add nutrition CMS table",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1967 later commits"
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "el400",
+ "sha": "cd789cb64ab18bc620c2adfc6b33ea9791ccc7e0",
+ "parent": "e3581c4a1a1ee1d1f44cd784e04aa4f1792d0cde",
+ "date": "2025-12-14",
+ "subject": "Rename vm to vMem and memory to nvMem",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx",
+  "src/components/KeypadSection.tsx",
+  "src/stories/DataSourceDemo.stories.tsx",
+  "src/stories/MachineState.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7698
+}

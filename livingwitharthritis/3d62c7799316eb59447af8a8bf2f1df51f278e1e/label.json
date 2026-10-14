@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "3d62c7799316eb59447af8a8bf2f1df51f278e1e",
+ "date": "2025-11-07",
+ "pr": null,
+ "title": "Revert crypto donation form",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2007 later commits"
+}

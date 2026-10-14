@@ -1,0 +1,26 @@
+{
+ "repo": "el400",
+ "sha": "d65fbcbfcc889c9ab143a514126cb6682ef32846",
+ "parent": "9b3e3dc9d98d269d618d982f9d8e8886613e9ef8",
+ "date": "2025-12-20",
+ "subject": "refactor(US-016): implement PR review feedback for bolt hole circle",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/05-pattern-generation/US-016-bolt-hole-circle.spec.ts",
+  "src/components/MultiAxisSection.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/bolt-hole.integration.test.tsx",
+  "src/stores/dro/features/bolt-hole.test.ts",
+  "src/stores/dro/features/bolt-hole.ts",
+  "src/stores/dro/features/idle.ts",
+  "src/stores/dro/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 13843
+}

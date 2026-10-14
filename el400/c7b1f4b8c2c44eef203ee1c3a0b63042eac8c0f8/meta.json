@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "c7b1f4b8c2c44eef203ee1c3a0b63042eac8c0f8",
+ "parent": "a53ba98dee5bdcb575729defc9a818df8426f636",
+ "date": "2025-12-08",
+ "subject": "Widen logo horizontally",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BrandLogo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 18383
+}

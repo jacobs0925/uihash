@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "5318e17ce2ed97fee575871e10d1ff2056bd5aec",
+ "date": "2025-12-17",
+ "pr": null,
+ "title": "Add subtle cycler float",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1998 later commits"
+}

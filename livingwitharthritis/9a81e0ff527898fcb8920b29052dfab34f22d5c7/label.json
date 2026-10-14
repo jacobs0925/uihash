@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "9a81e0ff527898fcb8920b29052dfab34f22d5c7",
+ "date": "2026-01-21",
+ "pr": null,
+ "title": "Add admin dashboard",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1979 later commits"
+}

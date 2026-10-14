@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "818dfaa6874e7d2abb6c9c9c7956f04d41f22127",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Slant 7-segment digits",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 1c4f48e8, which restored 1c7b4535 (2 commits discarded)"
+}

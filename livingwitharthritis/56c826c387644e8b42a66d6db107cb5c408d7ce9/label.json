@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "56c826c387644e8b42a66d6db107cb5c408d7ce9",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Revert design changes",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 49a2c3b0, which restored 9f423e1d (2 commits discarded)"
+}

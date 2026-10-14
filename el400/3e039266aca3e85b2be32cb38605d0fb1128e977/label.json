@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "3e039266aca3e85b2be32cb38605d0fb1128e977",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Don’t change container size",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by c4576c8b, which restored 95e299da (5 commits discarded)"
+}

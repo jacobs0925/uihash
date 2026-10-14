@@ -1,0 +1,23 @@
+{
+ "repo": "el400",
+ "sha": "1bb992ded7fdf0a39620b433e7630f508adde1a8",
+ "parent": "551e56c514c0af57898e36ee6864b43b1e7190b6",
+ "date": "2025-12-12",
+ "subject": "Wire ABS/INC button to toggle absolute/incremental mode",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/helpers/dro-page.ts",
+  "eslint.config.js",
+  "src/components/EL400Simulator.tsx",
+  "src/components/FunctionButtons.tsx",
+  "src/components/PrimaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 19875
+}

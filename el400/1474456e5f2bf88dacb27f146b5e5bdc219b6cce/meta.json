@@ -1,0 +1,30 @@
+{
+ "repo": "el400",
+ "sha": "1474456e5f2bf88dacb27f146b5e5bdc219b6cce",
+ "parent": "f85f41ccafc5c3abed8b2fb140a5d97a1146ad3b",
+ "date": "2025-12-08",
+ "subject": "Enable JavaScript testing in Storybook (#2)",
+ "pr": "2",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  ".github/workflows/storybook-tests.yml",
+  ".gitignore",
+  ".storybook/main.ts",
+  ".storybook/preview.ts",
+  "eslint.config.js",
+  "package-lock.json",
+  "package.json",
+  "src/components/DROButton.stories.tsx",
+  "src/components/LEDIndicator.stories.tsx",
+  "src/components/SevenSegmentDigit.stories.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 18105
+}

@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "c51f23d6b1d55392897678b2cdfc0d3ff5ef2475",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Revert primary width fix",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "width: 372px → 380px undone by e742f2f1 \"Align primary buttons width\"; width: 372px → 380px undone by e742f2f1 \"Align primary buttons width\"; width: 372px → 380px undone by e742f2f1 \"Align primary buttons width\""
+}

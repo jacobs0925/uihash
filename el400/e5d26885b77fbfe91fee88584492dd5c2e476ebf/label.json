@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "e5d26885b77fbfe91fee88584492dd5c2e476ebf",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "polish axis labels and spacing",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 613 later commits"
+}

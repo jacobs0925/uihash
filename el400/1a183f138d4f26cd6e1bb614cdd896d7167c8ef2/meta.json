@@ -1,0 +1,21 @@
+{
+ "repo": "el400",
+ "sha": "1a183f138d4f26cd6e1bb614cdd896d7167c8ef2",
+ "parent": "0d7b9d858c34a8b45dc2ac3f57af9ee826d9248b",
+ "date": "2025-12-11",
+ "subject": "new ratios",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DROButton.tsx",
+  "src/components/FunctionButtons.tsx",
+  "src/components/Icon.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 15788
+}

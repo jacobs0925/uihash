@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "a45abf785deeef4abe48990bc662a7da517abd08",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Center logo on thick edge",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 567 later commits"
+}

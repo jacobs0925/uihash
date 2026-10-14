@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "a3c3c4e1c4339693b377747fe2d79e65447eddc5",
+ "parent": "55be11f7ce383155c5d84f1dc597001bcb5a3da4",
+ "date": "2025-12-07",
+ "subject": "Refactor indicator layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx",
+  "src/components/LEDIndicator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 9,
+ "ms": 20048
+}

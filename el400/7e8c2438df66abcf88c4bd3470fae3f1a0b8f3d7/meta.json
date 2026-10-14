@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "7e8c2438df66abcf88c4bd3470fae3f1a0b8f3d7",
+ "parent": "57b4dff570c9acaf14d5c429f19b8dfa91a458f9",
+ "date": "2025-12-08",
+ "subject": "Align logo with keypad center",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HousingEdge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 17949
+}

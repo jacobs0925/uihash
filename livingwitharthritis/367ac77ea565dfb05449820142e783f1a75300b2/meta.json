@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "367ac77ea565dfb05449820142e783f1a75300b2",
+ "parent": "d559f261e746c211368e443e90df6e790a430923",
+ "date": "2026-01-12",
+ "subject": "Add Virtual Physio Myths section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/assets/physio-myth-1.jpg",
+  "src/assets/physio-myth-2.jpg",
+  "src/assets/physio-myth-3.jpg",
+  "src/assets/physio-myth-4.jpg",
+  "src/components/VirtualPhysioSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 44898
+}

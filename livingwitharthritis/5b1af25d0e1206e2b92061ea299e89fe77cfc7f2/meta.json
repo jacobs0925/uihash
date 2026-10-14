@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "5b1af25d0e1206e2b92061ea299e89fe77cfc7f2",
+ "parent": "366185e42aa6d8d8a0b88f094cba60628f3db5a6",
+ "date": "2025-10-28",
+ "subject": "Update page title",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 21565
+}

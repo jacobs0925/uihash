@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "7e6ca1bfcad40584ecbffc554de792b6ec9fb056",
+ "parent": "368e700e94465da1baf84967733b53408771abbf",
+ "date": "2025-12-08",
+ "subject": "Refine secondary area width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx",
+  "src/components/SecondaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 10197
+}

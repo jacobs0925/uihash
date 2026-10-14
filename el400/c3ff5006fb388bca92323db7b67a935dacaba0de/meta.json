@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "c3ff5006fb388bca92323db7b67a935dacaba0de",
+ "parent": "fdae262ed97dfbf10e9b955c57eb7584a65988ca",
+ "date": "2025-12-08",
+ "subject": "Center brand logo right edge",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HousingEdge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 18651
+}

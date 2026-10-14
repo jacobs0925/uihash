@@ -1,0 +1,22 @@
+{
+ "repo": "el400",
+ "sha": "b63bef8bb8d9cc9bb775a3ab9a1e5531e670a396",
+ "parent": "e09eb628e38c50f8b3edc8c4941fa9f6f25cef3a",
+ "date": "2025-12-07",
+ "subject": "Add top/bottom bezels",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BottomBezel.tsx",
+  "src/components/BrandLogo.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/components/TopBezel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 14,
+ "ms": 18519
+}

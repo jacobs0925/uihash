@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "5dfa133bc3fc9cb080536d271edd7acefc389b04",
+ "parent": "51871c1a9a03a16c5453015c485c6d58953fd2a7",
+ "date": "2025-12-12",
+ "subject": "Add comments explaining transparent borders are for forced-colors mode",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BeveledFrame.tsx",
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 7965
+}

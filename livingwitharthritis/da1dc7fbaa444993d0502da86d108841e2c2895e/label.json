@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "da1dc7fbaa444993d0502da86d108841e2c2895e",
+ "date": "2026-01-16",
+ "pr": null,
+ "title": "Remove Zoho invoice section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1988 later commits"
+}

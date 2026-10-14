@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "1590ae77b025785042dbef0c39ca7f6bc2e433da",
+ "date": "2026-08-17",
+ "pr": "106",
+ "title": "Softer category tiles, drawn type marks, and brand-logo fixes (#106)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "outline-style: auto → ∅ undone by b2e9ecde \"Stop paying for TRY_HARDER on every frame (#112)\"; outline-width: 1px → ∅ undone by b2e9ecde \"Stop paying for TRY_HARDER on every frame (#112)\"; outline-color: rgb(16, 16, 16) → ∅ undone by b2e9ecde \"Stop paying for TRY_HARDER on every frame (#112)\""
+}

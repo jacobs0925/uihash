@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "eaf6f31b12c4c8470e24b1a883ec55ecfda54c96",
+ "parent": "b106c8e68aec99c79f8ba991137d8da8c1505baf",
+ "date": "2026-03-23",
+ "subject": "Set hero stats bg to f8fafc",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/TrustIndicators.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 55982
+}

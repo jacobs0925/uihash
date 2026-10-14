@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "6eefd1b9a2ca87a2e43b1c0372579a7b6a6fefe5",
+ "date": "2026-10-10",
+ "pr": "289",
+ "title": "Stop recovery codes outliving their authenticator (#289)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 6 later commits"
+}

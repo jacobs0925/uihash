@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "f1081ab86836782002944f6fe7c69cf98a0ab648",
+ "date": "2026-03-23",
+ "pr": null,
+ "title": "Update home chips to filters",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 252 later commits"
+}

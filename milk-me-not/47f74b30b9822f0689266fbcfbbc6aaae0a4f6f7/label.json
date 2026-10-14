@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "47f74b30b9822f0689266fbcfbbc6aaae0a4f6f7",
+ "date": "2026-03-23",
+ "pr": null,
+ "title": "feat: Introduce CSS design tokens for light/dark themes and update documented color palette values.",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 261 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "2d21f19138415709abd6fe7f29f27b69b64ed767",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Show products on home stats",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 349 later commits"
+}

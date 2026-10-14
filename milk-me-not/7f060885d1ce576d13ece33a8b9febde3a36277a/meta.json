@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "7f060885d1ce576d13ece33a8b9febde3a36277a",
+ "parent": "07fe1a1093961829eb2222f856d6724bd33a80d1",
+ "date": "2026-03-23",
+ "subject": "Improve mobile home layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".env",
+  "src/components/home/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 44390
+}

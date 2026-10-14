@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9a7e09ea6961b50bdaa1d3bd76c6f5f4ccb56ba9",
+ "parent": "7fa6036d01e49fa779d4c19062ded4cabd428f16",
+ "date": "2026-03-02",
+ "subject": "Widen liked-by popover",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedEngagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40411
+}

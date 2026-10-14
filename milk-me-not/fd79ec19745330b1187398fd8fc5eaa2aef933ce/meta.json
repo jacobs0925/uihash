@@ -1,0 +1,39 @@
+{
+ "repo": "milk-me-not",
+ "sha": "fd79ec19745330b1187398fd8fc5eaa2aef933ce",
+ "parent": "c3cf0fbb85c3387a6440be41621002a0ec2ae164",
+ "date": "2026-05-15",
+ "subject": "Added SEO to pages and data",
+ "components": [
+  "components",
+  "main.tsx",
+  "pages"
+ ],
+ "files": [
+  "bun.lock",
+  "index.html",
+  "package.json",
+  "public/llms.txt",
+  "public/robots.txt",
+  "public/sitemap.xml",
+  "scripts/generate-sitemap.ts",
+  "src/components/Seo.tsx",
+  "src/main.tsx",
+  "src/pages/About.tsx",
+  "src/pages/Contact.tsx",
+  "src/pages/FAQ.tsx",
+  "src/pages/Feed.tsx",
+  "src/pages/Home.tsx",
+  "src/pages/InstallGuide.tsx",
+  "src/pages/MobileApp.tsx",
+  "src/pages/ProductDetails.tsx",
+  "src/pages/Results.tsx",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 15,
+ "ms": 42744
+}

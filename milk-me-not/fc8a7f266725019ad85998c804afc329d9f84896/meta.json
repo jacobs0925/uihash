@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "fc8a7f266725019ad85998c804afc329d9f84896",
+ "parent": "9a1db182ab46060a9dc97afd65a4446dc961b811",
+ "date": "2026-08-27",
+ "subject": "Fly the pigeons a size bigger (#209)",
+ "pr": "209",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/contact/FlyingBird.tsx",
+  "src/components/contact/birdFlight.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 8,
+ "ms": 30693
+}

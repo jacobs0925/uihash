@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2a8f7a5fb8f64ef208c0df9d33b81979a13447c9",
+ "parent": "d880d6701681aa773e60cafecc5d62a3eaecdc54",
+ "date": "2026-03-30",
+ "subject": "Redesigned mobile CTA pair",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BackgroundPattern.tsx",
+  "src/components/home/HeroSection.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 24,
+ "ms": 68521
+}

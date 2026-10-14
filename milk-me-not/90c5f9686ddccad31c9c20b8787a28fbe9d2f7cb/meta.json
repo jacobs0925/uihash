@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "90c5f9686ddccad31c9c20b8787a28fbe9d2f7cb",
+ "parent": "84a6172823c193d0f6220d3911f882d0ebf1db4b",
+ "date": "2026-08-23",
+ "subject": "Serve the security headers instead of asking the page to add them (#145)",
+ "pr": "145",
+ "components": [
+  "main.tsx"
+ ],
+ "files": [
+  "index.html",
+  "public/_headers",
+  "src/lib/securityHeaders.ts",
+  "src/main.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 12,
+ "ms": 40073
+}

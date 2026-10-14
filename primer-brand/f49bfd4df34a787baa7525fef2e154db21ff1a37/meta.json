@@ -1,0 +1,27 @@
+{
+ "repo": "primer-brand",
+ "sha": "f49bfd4df34a787baa7525fef2e154db21ff1a37",
+ "parent": "fe48f728ce33019dfdcd6fc8d4ab19fe48acf095",
+ "date": "2025-10-16",
+ "subject": "Replace usage of logical `end` with `flex-end` (#1178)",
+ "pr": "1178",
+ "components": [
+  "Bento",
+  "SubNav",
+  "forms",
+  "river"
+ ],
+ "files": [
+  ".changeset/tidy-terms-act.md",
+  "packages/react/src/Bento/Bento.module.css",
+  "packages/react/src/SubNav/SubNav.module.css",
+  "packages/react/src/forms/Select/Select.module.css",
+  "packages/react/src/river/river-shared.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react-brand': minor\n---\n\nReplaced `end` values with `flex-end` across multiple components to resolve downstream compilation issues with older browserslist configs.\n\nThis change affects the following components:\n\n- `Bento`\n- `SubNav`\n- `Select`\n- `RiverBreakout`\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 182423
+}

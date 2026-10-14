@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3d51a0aff24e7ddbc16b5fcae0214b1b274c9c96",
+ "parent": "8f55764b4e7a8442d001b36d0b6f0280e4bfc79b",
+ "date": "2026-04-23",
+ "subject": "Fixed carousel type imports",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/carousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40242
+}

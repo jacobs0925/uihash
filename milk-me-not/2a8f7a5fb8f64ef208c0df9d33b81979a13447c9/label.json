@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "2a8f7a5fb8f64ef208c0df9d33b81979a13447c9",
+ "date": "2026-03-30",
+ "pr": null,
+ "title": "Redesigned mobile CTA pair",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by a70ed308, which restored 51a5545d (8 commits discarded)"
+}

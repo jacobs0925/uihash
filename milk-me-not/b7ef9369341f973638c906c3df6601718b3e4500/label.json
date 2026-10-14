@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "b7ef9369341f973638c906c3df6601718b3e4500",
+ "date": "2026-03-23",
+ "pr": null,
+ "title": "Wrap milks sentence to two lines",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgba(31, 64, 255, 0.9) → rgb(31, 64, 255) undone by eaf6f31b \"Set hero stats bg to f8fafc\"; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px undone by eaf6f31b \"Set hero stats bg to f8fafc\"; transform: matrix(1, 0, 0, 1, 0, -4) → ∅ undone by eaf6f31b \"Set hero stats bg to f8fafc\""
+}

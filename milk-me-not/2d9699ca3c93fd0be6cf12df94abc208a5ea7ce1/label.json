@@ -7,6 +7,6 @@
  "title": "Increase settings icon size",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "background-color: rgb(66, 95, 255) → rgba(66, 95, 255, 0.9) undone by 87db52d6 \"Refined profile UI typography\"; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px undone by 87db52d6 \"Refined profile UI typography\"; transform: ∅ → matrix(1, 0, 0, 1, 0, -4) undone by 87db52d6 \"Refined profile UI typography\""
 }

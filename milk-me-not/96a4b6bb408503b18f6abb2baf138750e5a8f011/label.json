@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "96a4b6bb408503b18f6abb2baf138750e5a8f011",
+ "date": "2026-08-28",
+ "pr": "232",
+ "title": "Stop the radius comment claiming a bug it never fixed (#232)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 54 later commits"
+}

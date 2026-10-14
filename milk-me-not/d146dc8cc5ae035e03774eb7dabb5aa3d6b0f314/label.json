@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "d146dc8cc5ae035e03774eb7dabb5aa3d6b0f314",
+ "date": "2026-09-11",
+ "pr": "266",
+ "title": "Stop telling Google to skip a product page while it loads (#266)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 22 later commits"
+}

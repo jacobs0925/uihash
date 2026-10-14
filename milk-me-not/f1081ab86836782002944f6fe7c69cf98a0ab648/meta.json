@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f1081ab86836782002944f6fe7c69cf98a0ab648",
+ "parent": "2ce0a59074b06da1dccbf7a868b7688e024b99ab",
+ "date": "2026-03-23",
+ "subject": "Update home chips to filters",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 44264
+}

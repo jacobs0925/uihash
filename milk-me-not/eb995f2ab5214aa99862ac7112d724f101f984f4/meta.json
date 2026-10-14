@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "eb995f2ab5214aa99862ac7112d724f101f984f4",
+ "parent": "f0fc3add7fadd6d39aa5084a9e8fc1d9f1210fbc",
+ "date": "2026-08-27",
+ "subject": "Make the pigeons fly like pigeons (#207)",
+ "pr": "207",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/contact/FlyingBird.tsx",
+  "src/components/contact/birdFlight.test.ts",
+  "src/components/contact/birdFlight.ts",
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 17,
+ "ms": 58754
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "f386e34d99615b81dbed5405de04b91225f9de45",
+ "date": "2026-09-06",
+ "pr": "263",
+ "title": "Call the board the Scoreboard, in the navigation too (#263)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 24 later commits"
+}

@@ -1,0 +1,31 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f386e34d99615b81dbed5405de04b91225f9de45",
+ "parent": "105e7758b1fc235734221f37025ec18751070f76",
+ "date": "2026-09-06",
+ "subject": "Call the board the Scoreboard, in the navigation too (#263)",
+ "pr": "263",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/feed/FeedHero.tsx",
+  "src/components/results/ResultsHero.tsx",
+  "src/components/results/ResultsViewSwitcher.tsx",
+  "src/components/story/StoryAppBar.tsx",
+  "src/components/story/StoryFooter.test.tsx",
+  "src/components/story/StoryFooter.tsx",
+  "src/components/story/StoryHeader.tsx",
+  "src/pages/Auth.tsx",
+  "src/pages/Brands.tsx",
+  "src/pages/FAQ.tsx",
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 9,
+ "ms": 51307
+}

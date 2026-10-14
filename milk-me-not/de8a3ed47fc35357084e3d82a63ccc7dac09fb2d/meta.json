@@ -1,0 +1,25 @@
+{
+ "repo": "milk-me-not",
+ "sha": "de8a3ed47fc35357084e3d82a63ccc7dac09fb2d",
+ "parent": "a23376a8910f17570c74c9a99e973d6f577ae140",
+ "date": "2026-08-28",
+ "subject": "Add a privacy policy page (#230)",
+ "pr": "230",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/story/StoryFooter.tsx",
+  "src/components/story/memberNav.ts",
+  "src/pages/Privacy.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 8,
+ "ms": 58416
+}

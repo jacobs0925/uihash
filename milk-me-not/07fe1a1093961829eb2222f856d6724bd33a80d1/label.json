@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "07fe1a1093961829eb2222f856d6724bd33a80d1",
+ "date": "2026-03-23",
+ "pr": null,
+ "title": "feat: Implement the new homepage with hero and trust indicator components, and update Tailwind color definitions to support alpha values.",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-color: rgba(31, 64, 255, 0.9) → rgb(31, 64, 255) undone by 3bc26de2 \"Update badge colors to e6fff3\"; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px undone by 3bc26de2 \"Update badge colors to e6fff3\"; transform: matrix(1, 0, 0, 1, 0, -4) → ∅ undone by 3bc26de2 \"Update badge colors to e6fff3\""
+}

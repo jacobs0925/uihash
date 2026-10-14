@@ -1,0 +1,28 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f0fc3add7fadd6d39aa5084a9e8fc1d9f1210fbc",
+ "parent": "e24416c5bef9fab617945f6bb699dccc8aab4467",
+ "date": "2026-08-27",
+ "subject": "Give buttons their cursor back, and the carton rail a way through it (#206)",
+ "pr": "206",
+ "components": [
+  "components",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/components/about/PhotoRail.test.tsx",
+  "src/components/about/PhotoRail.tsx",
+  "src/components/contact/ContactCard.tsx",
+  "src/components/milk-test/ImageModal.tsx",
+  "src/components/ui/dialog.tsx",
+  "src/pages/About.tsx",
+  "src/styles/story.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 44332
+}

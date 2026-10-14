@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5fe8f8b6ac1cc2d7fdb1e753928986ca27433c0f",
+ "parent": "14a087bcee0abd41d47d6e5abafe1273d0e4ec3f",
+ "date": "2026-08-21",
+ "subject": "Scan a carton and land on that carton (#115)",
+ "pr": "115",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/story/ScanFlow.tsx",
+  "src/lib/createScannedProduct.ts",
+  "supabase/migrations/20260820120000_remember_product_barcodes.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 16,
+ "ms": 39727
+}

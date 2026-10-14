@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "27a66575431a3905323452bbee57b16542197630",
+ "parent": "33d9149f55401927a104ab063f3c225c56e402e5",
+ "date": "2026-03-19",
+ "subject": "Align shop edit row layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/shop/ShopSuggestions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 40159
+}

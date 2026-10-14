@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8ba60786e8e1934f635c47f8668f22bfb2c9f8cf",
+ "parent": "483965e10fb7b8d7233cee8e51602eeaaf94d86d",
+ "date": "2026-08-30",
+ "subject": "Record what checking for more discontinued brands actually turned up (#253)",
+ "pr": "253",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/lib/brandFacts.test.ts",
+  "src/lib/brandFacts.ts",
+  "src/pages/BrandDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 7,
+ "ms": 54010
+}

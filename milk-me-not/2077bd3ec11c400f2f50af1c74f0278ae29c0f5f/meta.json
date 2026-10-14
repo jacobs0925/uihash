@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2077bd3ec11c400f2f50af1c74f0278ae29c0f5f",
+ "parent": "b6ab78b2db73bea6bcda24ef172ee1d6afa42dbc",
+ "date": "2026-03-02",
+ "subject": "Align liked-by text size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedEngagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39919
+}

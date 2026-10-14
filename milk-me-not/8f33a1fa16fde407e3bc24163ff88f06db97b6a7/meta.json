@@ -1,0 +1,26 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8f33a1fa16fde407e3bc24163ff88f06db97b6a7",
+ "parent": "7ae61867787b83b86e8464f1349e27e5124332d3",
+ "date": "2026-10-06",
+ "subject": "Offer admins optional two-step sign-in (#282)",
+ "pr": "282",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/auth/TwoFactorGate.test.tsx",
+  "src/components/auth/TwoFactorGate.tsx",
+  "src/components/settings/TwoFactorSettings.tsx",
+  "src/pages/Account.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 8,
+ "ms": 48971
+}

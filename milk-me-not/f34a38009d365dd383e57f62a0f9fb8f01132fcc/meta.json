@@ -1,0 +1,35 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f34a38009d365dd383e57f62a0f9fb8f01132fcc",
+ "parent": "7929ae31aacf3d20bf3235f2dfd73c8d1162e33c",
+ "date": "2026-05-07",
+ "subject": "Fix ESLint 10 warnings: ignore .claude dir and suppress pre-existing issues",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "eslint.config.js",
+  "src/components/MapboxWorldMap.tsx",
+  "src/components/milk-test/BrandSelect.tsx",
+  "src/components/milk-test/ProductInformation.tsx",
+  "src/components/milk-test/camera/DesktopCameraModal.tsx",
+  "src/components/milk-test/registration-ui/ProductRegistrationContext.tsx",
+  "src/components/ui/button.tsx",
+  "src/components/ui/form.tsx",
+  "src/components/ui/navigation-menu.tsx",
+  "src/components/ui/sidebar.tsx",
+  "src/components/ui/toggle.tsx",
+  "src/components/ui/typography.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/contexts/NotificationContext.tsx",
+  "src/contexts/VersionContext.tsx",
+  "src/hooks/useResultsState.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 7,
+ "ms": 26027
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3e0e39c41522a96464990195804ffc7e40a0ab60",
+ "parent": "eaf6f31b12c4c8470e24b1a883ec55ecfda54c96",
+ "date": "2026-03-23",
+ "subject": "Softened mobile icons color",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MobileFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41673
+}

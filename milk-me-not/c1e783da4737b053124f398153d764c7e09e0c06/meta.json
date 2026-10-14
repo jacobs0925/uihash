@@ -1,0 +1,34 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c1e783da4737b053124f398153d764c7e09e0c06",
+ "parent": "6d10a0738033251ae032d4d39cc7cedf22da5280",
+ "date": "2026-03-09",
+ "subject": "Lint and code cleanup fixes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/LoginPrompt.tsx",
+  "src/components/contact/FAQSection.tsx",
+  "src/components/feed/FeedEngagement.tsx",
+  "src/components/milk-test/BarcodeScanner.tsx",
+  "src/components/milk-test/MobileFilterBar.tsx",
+  "src/components/milk-test/MyResultsGrid.tsx",
+  "src/components/milk-test/PictureCapture.tsx",
+  "src/components/milk-test/ProductInformation.tsx",
+  "src/components/milk-test/SearchIcon.tsx",
+  "src/components/milk-test/TestDetailsAccordion.tsx",
+  "src/components/milk-test/TestDetailsTable.tsx",
+  "src/components/milk-test/product-search/ProductResultItem.tsx",
+  "src/components/milk-test/registration-ui/ProductRegistrationContext.tsx",
+  "src/hooks/auth/useAuthOperations.ts",
+  "src/hooks/use-toast.ts",
+  "src/lib/fileValidation.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 45209
+}

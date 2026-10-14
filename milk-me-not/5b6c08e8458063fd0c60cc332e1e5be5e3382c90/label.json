@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "5b6c08e8458063fd0c60cc332e1e5be5e3382c90",
+ "date": "2026-08-24",
+ "pr": "168",
+ "title": "Let the build tell readers it has moved on, rather than a table nobody updates (#168)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "outline-style: auto → ∅ undone by 627028bf \"Keep the shop the reader typed (#199)\"; outline-width: 1px → ∅ undone by 627028bf \"Keep the shop the reader typed (#199)\"; outline-color: rgb(16, 16, 16) → ∅ undone by 627028bf \"Keep the shop the reader typed (#199)\""
+}

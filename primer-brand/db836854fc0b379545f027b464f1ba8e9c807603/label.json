@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "db836854fc0b379545f027b464f1ba8e9c807603",
+ "date": "2025-11-07",
+ "pr": "1190",
+ "title": "Add FlexTemplate and examples (#1190)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "24 visual-test baselines updated"
+}

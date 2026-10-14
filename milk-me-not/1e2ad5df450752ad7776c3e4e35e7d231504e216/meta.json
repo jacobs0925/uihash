@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1e2ad5df450752ad7776c3e4e35e7d231504e216",
+ "parent": "20523d800d0c00c1ee3aed949951eee1a8e5f726",
+ "date": "2026-08-27",
+ "subject": "Hide the desktop header's Log in link once signed in (#221)",
+ "pr": "221",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/story/StoryHeader.test.tsx",
+  "src/components/story/StoryHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 31060
+}

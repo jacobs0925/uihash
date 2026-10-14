@@ -1,0 +1,25 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6364d1fc16f5ccb8c19b29cc5ea2fd71d5374be7",
+ "parent": "60c813bf730fda0a5317c7fdb8ceabe7f6fae0b3",
+ "date": "2026-10-09",
+ "subject": "Add recovery codes for two-step sign-in (#286)",
+ "pr": "286",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/TwoFactorGate.test.tsx",
+  "src/components/auth/TwoFactorGate.tsx",
+  "src/components/settings/TwoFactorSettings.tsx",
+  "src/lib/recoveryCodes.ts",
+  "supabase/functions/mfa-recover/index.ts",
+  "supabase/migrations/20261006220000_mfa_recovery_codes.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 20,
+ "ms": 62631
+}

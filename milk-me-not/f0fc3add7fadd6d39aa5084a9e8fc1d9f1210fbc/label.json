@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "f0fc3add7fadd6d39aa5084a9e8fc1d9f1210fbc",
+ "date": "2026-08-27",
+ "pr": "206",
+ "title": "Give buttons their cursor back, and the carton rail a way through it (#206)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 79 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a7e86014c01ce9e8a34a61e56d93ee30913d1e31",
+ "parent": "f14f7708d97c4d0ae3aa37ae3ce5b50c972c8b41",
+ "date": "2026-03-01",
+ "subject": "Update NotFound colors to tokens",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/NotFound.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 52595
+}

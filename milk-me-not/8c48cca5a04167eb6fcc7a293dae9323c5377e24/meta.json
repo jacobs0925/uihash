@@ -1,0 +1,41 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8c48cca5a04167eb6fcc7a293dae9323c5377e24",
+ "parent": "800b17c05264f7cfbbdd1bb3f9dea24d0004f387",
+ "date": "2026-08-26",
+ "subject": "Give the headline its green back, and let barista sit down (#190)",
+ "pr": "190",
+ "components": [
+  "components",
+  "index.css",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/components/feed/FeedHero.tsx",
+  "src/components/notifications/NotificationList.tsx",
+  "src/components/profile/PublicProfile.tsx",
+  "src/components/story/ProductIdentity.test.tsx",
+  "src/components/story/ProductIdentity.tsx",
+  "src/components/story/StoryAppLayout.tsx",
+  "src/components/story/tiers.contrast.test.ts",
+  "src/index.css",
+  "src/pages/About.tsx",
+  "src/pages/Auth.tsx",
+  "src/pages/Contact.tsx",
+  "src/pages/FAQ.tsx",
+  "src/pages/Home.tsx",
+  "src/pages/InstallGuide.tsx",
+  "src/pages/MobileApp.tsx",
+  "src/pages/NotFound.tsx",
+  "src/pages/ProductDetails.tsx",
+  "src/pages/ResetPassword.tsx",
+  "src/styles/story.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 18,
+ "ms": 89118
+}

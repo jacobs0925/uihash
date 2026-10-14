@@ -1,0 +1,27 @@
+{
+ "repo": "milk-me-not",
+ "sha": "d98e8db4f130a46ff4669beb5ca7fdd9c0340886",
+ "parent": "7438ca7423e1470726c5654bd4a428810960baad",
+ "date": "2026-08-30",
+ "subject": "Replace Allos with Oddlygood and Kaufland, holding 80% (#247)",
+ "pr": "247",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/brand-logos/README.md",
+  "src/assets/brand-logos/allos.png",
+  "src/assets/brand-logos/kaufland.svg",
+  "src/assets/brand-logos/oddly-good.svg",
+  "src/components/story/BrandMark.test.tsx",
+  "src/components/story/BrandMark.tsx",
+  "src/components/story/brandInitials.ts",
+  "src/lib/brandLogo.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 7,
+ "ms": 27404
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "39f642b23602fa2c530178bf758bf976bc936828",
+ "date": "2026-08-22",
+ "pr": "121",
+ "title": "Bring the signed-in app onto the story design system (#121)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 173 later commits"
+}

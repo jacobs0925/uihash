@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "013bf5c21ab2c5b496dc5c68ca5ac74ae7cec4bd",
+ "date": "2026-08-27",
+ "pr": "210",
+ "title": "Give the scale its real colours back by moving the words off the bars (#210)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 75 later commits"
+}

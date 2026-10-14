@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c876c854d00a611a7824ceb90ea6081a2c9e20ae",
+ "parent": "1c3600b8cfec8e7e711c1bac99f5269c2cd44bd6",
+ "date": "2026-03-23",
+ "subject": "Show feed on 12 reviews click",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40991
+}

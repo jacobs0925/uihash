@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1c3600b8cfec8e7e711c1bac99f5269c2cd44bd6",
+ "parent": "3e0e39c41522a96464990195804ffc7e40a0ab60",
+ "date": "2026-03-23",
+ "subject": "Keep bottom bar background",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MobileFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 49591
+}

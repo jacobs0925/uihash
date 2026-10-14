@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "80787497ed8d3a0e8e51ce6a7a499005185547f7",
+ "parent": "2d21f19138415709abd6fe7f29f27b69b64ed767",
+ "date": "2026-03-08",
+ "subject": "Change trust indicator colors",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 44056
+}

@@ -1,0 +1,49 @@
+{
+ "repo": "primer-brand",
+ "sha": "66742111b3d8b6481a0f9a07cf1aa62d3372934d",
+ "parent": "bb230733a4d69cc580b190c300e7852add366058",
+ "date": "2025-10-07",
+ "subject": "Reduce feature list font size in 4 item PricingOptions (#1168)",
+ "pr": "1168",
+ "components": [
+  "PricingOptions",
+  "list"
+ ],
+ "files": [
+  ".changeset/khaki-wasps-obey.md",
+  "packages/react/src/PricingOptions/PricingOptions.module.css",
+  "packages/react/src/PricingOptions/PricingOptions.module.css.d.ts",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Cards-Variant-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Cards-Variant-de-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Cards-Variant-es-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Cards-Variant-fr-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Cards-Variant-ja-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Cards-Variant-pt-BR-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Four-Options-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Four-Options-de-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Four-Options-es-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Four-Options-fr-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Four-Options-ja-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Four-Options-pt-BR-1-linux.png",
+  "packages/react/src/list/ListItem/ListItem.module.css"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Cards-Variant-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Cards-Variant-de-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Cards-Variant-es-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Cards-Variant-fr-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Cards-Variant-ja-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Cards-Variant-pt-BR-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Four-Options-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Four-Options-de-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Four-Options-es-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Four-Options-fr-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Four-Options-ja-1-linux.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Four-Options-pt-BR-1-linux.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nMakes `PricingOptions` feature list text size smaller when there are 4 items\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 26,
+ "ms": 264254
+}

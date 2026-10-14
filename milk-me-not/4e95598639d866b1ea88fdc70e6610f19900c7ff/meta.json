@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4e95598639d866b1ea88fdc70e6610f19900c7ff",
+ "parent": "31fac22ef85dc02d2214ba41ee50b1815d9e5615",
+ "date": "2026-03-08",
+ "subject": "Improve photo actions feedback",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/camera/CameraOptions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 42210
+}

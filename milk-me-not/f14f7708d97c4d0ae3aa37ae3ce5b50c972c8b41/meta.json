@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f14f7708d97c4d0ae3aa37ae3ce5b50c972c8b41",
+ "parent": "5d9b9fb2d549e1c7915f8310940a5188aa2bdd69",
+ "date": "2026-03-01",
+ "subject": "Fix profile route 404",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 42589
+}

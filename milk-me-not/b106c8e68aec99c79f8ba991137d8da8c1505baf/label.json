@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "b106c8e68aec99c79f8ba991137d8da8c1505baf",
+ "date": "2026-03-23",
+ "pr": null,
+ "title": "Remove header on mobile home",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 258 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "1c3600b8cfec8e7e711c1bac99f5269c2cd44bd6",
+ "date": "2026-03-23",
+ "pr": null,
+ "title": "Keep bottom bar background",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 255 later commits"
+}

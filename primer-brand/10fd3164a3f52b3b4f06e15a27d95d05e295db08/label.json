@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "10fd3164a3f52b3b4f06e15a27d95d05e295db08",
+ "date": "2025-10-06",
+ "pr": "1163",
+ "title": "Add FlexSection component (#1163)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "6 visual-test baselines updated"
+}

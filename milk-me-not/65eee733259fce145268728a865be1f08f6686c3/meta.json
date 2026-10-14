@@ -1,0 +1,25 @@
+{
+ "repo": "milk-me-not",
+ "sha": "65eee733259fce145268728a865be1f08f6686c3",
+ "parent": "601cc400edef03bca7a6446eb8e45af730f07661",
+ "date": "2026-08-24",
+ "subject": "Watch the backups instead of reminding someone to look at them (#160)",
+ "pr": "160",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "scripts/check-backup-health.ps1",
+  "scripts/register-backup-task.ps1",
+  "src/components/story/ScanFlow.tsx",
+  "src/lib/createScannedProduct.ts",
+  "src/lib/rememberBarcode.test.ts",
+  "src/lib/rememberBarcode.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 12,
+ "ms": 29009
+}

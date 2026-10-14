@@ -1,0 +1,32 @@
+{
+ "repo": "milk-me-not",
+ "sha": "89f87515d5b7a132db85d892d60ce20f8b0a8374",
+ "parent": "4718e6c7758886ef49f80b05b30ec45cf95272af",
+ "date": "2026-03-08",
+ "subject": "Cleaned unused imports/vars",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/milk-test/TestDetailsTable.tsx",
+  "src/components/milk-test/edit/EditMilkTestForm.tsx",
+  "src/components/milk-test/product-search/ProductResultItem.tsx",
+  "src/components/milk-test/product-search/search-utils/selectedProductQuery.ts",
+  "src/components/milk-test/product-search/useProductSearch.ts",
+  "src/components/milk-test/registration-ui/FormSections.tsx",
+  "src/components/milk-test/registration-ui/ProductRegistrationDialog.tsx",
+  "src/components/notifications/NotificationBadge.tsx",
+  "src/components/settings/CountrySettings.tsx",
+  "src/components/settings/SettingsLayout.tsx",
+  "src/hooks/useAggregatedResults.ts",
+  "src/hooks/useMilkTestForm.ts",
+  "src/pages/AddProduct.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 45816
+}

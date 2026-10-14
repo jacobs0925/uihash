@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "89df599deada19c73cb058e20ee9aac100595ed0",
+ "parent": "92a1634601fda724283f5cc4375758c98f03d2b4",
+ "date": "2026-08-25",
+ "subject": "Mark barista milk as its own kind of fact (#170)",
+ "pr": "170",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/story/ProductIdentity.test.tsx",
+  "src/components/story/ProductIdentity.tsx",
+  "src/components/story/motifs.tsx",
+  "src/pages/ProductDetails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 25717
+}

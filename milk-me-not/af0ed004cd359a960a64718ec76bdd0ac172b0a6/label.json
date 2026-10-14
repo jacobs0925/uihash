@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "af0ed004cd359a960a64718ec76bdd0ac172b0a6",
+ "date": "2026-09-03",
+ "pr": "255",
+ "title": "Say whether you can still buy it, instead of \"Not checked\" (#255)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "outline-style: auto → ∅ undone by 6364d1fc \"Add recovery codes for two-step sign-in (#286)\"; outline-width: 1px → ∅ undone by 6364d1fc \"Add recovery codes for two-step sign-in (#286)\"; outline-color: rgb(16, 16, 16) → ∅ undone by 6364d1fc \"Add recovery codes for two-step sign-in (#286)\""
+}

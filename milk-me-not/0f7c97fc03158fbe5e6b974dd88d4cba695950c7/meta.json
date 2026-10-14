@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0f7c97fc03158fbe5e6b974dd88d4cba695950c7",
+ "parent": "ee2107f9f9d1fc4878c309d11d0ef62bc6619aa0",
+ "date": "2026-08-27",
+ "subject": "Hang the feed card's byline and score off one line (#202)",
+ "pr": "202",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedHeader.tsx",
+  "src/components/feed/FeedItem.test.tsx",
+  "src/components/feed/FeedItem.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 16,
+ "ms": 30688
+}

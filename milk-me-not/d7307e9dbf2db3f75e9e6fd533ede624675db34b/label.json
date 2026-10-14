@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "d7307e9dbf2db3f75e9e6fd533ede624675db34b",
+ "date": "2026-08-25",
+ "pr": "187",
+ "title": "Make the palette legible, measured page by page rather than grepped (#187)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgb(216, 69, 58) → rgb(179, 44, 34) undone by 013bf5c2 \"Give the scale its real colours back by moving the words off the bars (#210)\"; background-color: rgb(216, 69, 58) → rgb(179, 44, 34) undone by 013bf5c2 \"Give the scale its real colours back by moving the words off the bars (#210)\"; background-color: rgb(216, 69, 58) → rgb(179, 44, 34) undone by 013bf5c2 \"Give the scale its real colours back by moving the words off the bars (#210)\""
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "302bfeace7e530f21b23e5e36fb599e15e6f35de",
+ "parent": "470b5d1e9825a0a782dd38a35ce2f4ce996e3e4e",
+ "date": "2026-08-20",
+ "subject": "Read barcodes that are not lying the right way round (#111)",
+ "pr": "111",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "CLAUDE.md",
+  "src/components/milk-test/BarcodeScanner.tsx",
+  "supabase/migrations/20260819210000_countries_table_and_read_policy.sql",
+  "supabase/migrations/20260819213000_seed_countries_and_constrain_country_codes.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 35440
+}

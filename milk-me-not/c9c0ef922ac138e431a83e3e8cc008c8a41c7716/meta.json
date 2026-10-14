@@ -1,0 +1,37 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c9c0ef922ac138e431a83e3e8cc008c8a41c7716",
+ "parent": "a26ca400fc6b94b579781c0e8e644603376ff175",
+ "date": "2026-10-11",
+ "subject": "Give nine fixed routes their own head in the file a crawler is served (#291)",
+ "pr": "291",
+ "components": [
+  "components",
+  "main.tsx",
+  "pages"
+ ],
+ "files": [
+  "CLAUDE.md",
+  "e2e/route-heads.spec.ts",
+  "src/components/Seo.tsx",
+  "src/lib/staticSeo.test.ts",
+  "src/lib/staticSeo.ts",
+  "src/main.tsx",
+  "src/pages/About.tsx",
+  "src/pages/Brands.tsx",
+  "src/pages/Contact.tsx",
+  "src/pages/FAQ.tsx",
+  "src/pages/Feed.tsx",
+  "src/pages/InstallGuide.tsx",
+  "src/pages/MobileApp.tsx",
+  "src/pages/Privacy.tsx",
+  "src/pages/Results.tsx",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 9,
+ "ms": 40451
+}

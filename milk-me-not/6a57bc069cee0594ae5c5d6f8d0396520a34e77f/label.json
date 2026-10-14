@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "6a57bc069cee0594ae5c5d6f8d0396520a34e77f",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Use semantic color tokens",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 347 later commits"
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "d146dc8cc5ae035e03774eb7dabb5aa3d6b0f314",
+ "parent": "5dabdf4cce4f930efaf5b6e02299ac975f7457a6",
+ "date": "2026-09-11",
+ "subject": "Stop telling Google to skip a product page while it loads (#266)",
+ "pr": "266",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/ProductDetails.test.tsx",
+  "src/pages/ProductDetails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 11,
+ "ms": 29160
+}

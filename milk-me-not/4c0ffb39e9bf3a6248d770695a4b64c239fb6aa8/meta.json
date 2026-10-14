@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4c0ffb39e9bf3a6248d770695a4b64c239fb6aa8",
+ "parent": "03a6d4c86593922bf5fec17f1d4f0196f1bcb363",
+ "date": "2026-02-23",
+ "subject": "Improve MenuBar initial render",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 50177
+}

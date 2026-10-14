@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "c06053cbf39fab4fc2f72e3eed399fd2603f7970",
+ "date": "2026-03-30",
+ "pr": null,
+ "title": "Reverted font, lightened buttons",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by a70ed308, which restored 51a5545d (8 commits discarded)"
+}

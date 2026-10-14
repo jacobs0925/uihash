@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "bc9cb955b159e61be39978692786d1ead55c199d",
+ "parent": "abc7c41b94fea74548ebeb85847b6756e61ecd23",
+ "date": "2026-02-23",
+ "subject": "Add aria labels to mobile footer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MobileFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 36338
+}

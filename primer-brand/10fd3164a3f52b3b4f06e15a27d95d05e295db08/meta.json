@@ -1,0 +1,47 @@
+{
+ "repo": "primer-brand",
+ "sha": "10fd3164a3f52b3b4f06e15a27d95d05e295db08",
+ "parent": "610e85e57da280d23c94c8dbd3aa38e9d8d8be7a",
+ "date": "2025-10-06",
+ "subject": "Add FlexSection component (#1163)",
+ "pr": "1163",
+ "components": [
+  "recipes"
+ ],
+ "files": [
+  "package-lock.json",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.module.css",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.module.css.d.ts",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.stories.tsx",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.tsx",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.visual.spec.ts",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.visual.spec.ts-snapshots/Visual-Comparison-FlexSection-FlexSection-Default-1-linux.png",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.visual.spec.ts-snapshots/Visual-Comparison-FlexSection-FlexSection-Default-de-1-linux.png",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.visual.spec.ts-snapshots/Visual-Comparison-FlexSection-FlexSection-Default-es-1-linux.png",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.visual.spec.ts-snapshots/Visual-Comparison-FlexSection-FlexSection-Default-fr-1-linux.png",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.visual.spec.ts-snapshots/Visual-Comparison-FlexSection-FlexSection-Default-ja-1-linux.png",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.visual.spec.ts-snapshots/Visual-Comparison-FlexSection-FlexSection-Default-pt-BR-1-linux.png",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/components/ContentfulRiver.tsx",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/components/ContentfulRiverAccordion.tsx",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/components/ContentfulRiverBreakout.tsx",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/components/ContentfulTestimonialContent.tsx",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/components/ContentfulTestimonials.tsx",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/components/FlexSectionTestimonials.tsx",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/components/index.ts",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/index.ts",
+  "packages/react/src/recipes/FlexTemplate/fixtures/content.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.visual.spec.ts-snapshots/Visual-Comparison-FlexSection-FlexSection-Default-1-linux.png",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.visual.spec.ts-snapshots/Visual-Comparison-FlexSection-FlexSection-Default-de-1-linux.png",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.visual.spec.ts-snapshots/Visual-Comparison-FlexSection-FlexSection-Default-es-1-linux.png",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.visual.spec.ts-snapshots/Visual-Comparison-FlexSection-FlexSection-Default-fr-1-linux.png",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.visual.spec.ts-snapshots/Visual-Comparison-FlexSection-FlexSection-Default-ja-1-linux.png",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.visual.spec.ts-snapshots/Visual-Comparison-FlexSection-FlexSection-Default-pt-BR-1-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 11,
+ "ms": 507857
+}

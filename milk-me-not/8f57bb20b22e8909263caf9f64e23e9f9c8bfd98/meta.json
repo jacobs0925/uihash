@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8f57bb20b22e8909263caf9f64e23e9f9c8bfd98",
+ "parent": "2a8f7a5fb8f64ef208c0df9d33b81979a13447c9",
+ "date": "2026-03-30",
+ "subject": "Fix mobile CTAs icons imports",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 13,
+ "ms": 57982
+}

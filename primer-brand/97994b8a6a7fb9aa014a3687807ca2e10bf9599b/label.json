@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "97994b8a6a7fb9aa014a3687807ca2e10bf9599b",
+ "date": "2025-10-08",
+ "pr": "1170",
+ "title": "Fix Statistic children rendering (#1170)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "6 visual-test baselines updated"
+}

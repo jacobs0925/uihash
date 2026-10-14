@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "7e349e621a4ae606734a4755ea2aefacad642ad4",
+ "date": "2026-03-30",
+ "pr": null,
+ "title": "Promoted Droplet prominence",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by a70ed308, which restored 51a5545d (8 commits discarded)"
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "514f6b40f0ff00f9d893f83918b66313ebe06f00",
+ "parent": "90c5f9686ddccad31c9c20b8787a28fbe9d2f7cb",
+ "date": "2026-08-23",
+ "subject": "Time the map's silence, not its total load (#146)",
+ "pr": "146",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 12,
+ "ms": 36611
+}

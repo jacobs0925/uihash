@@ -1,0 +1,30 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e86fb3847124f2d4214538c8623c43e0f801c591",
+ "parent": "2e71af64e5bde1b535cb3c741fd18b458a083c4e",
+ "date": "2026-08-23",
+ "subject": "Turn the React Compiler rules on (#128)",
+ "pr": "128",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "eslint.config.js",
+  "src/components/MapboxWorldMap.tsx",
+  "src/components/milk-test/BarcodeScanner.tsx",
+  "src/components/milk-test/camera/DesktopCameraModal.tsx",
+  "src/components/milk-test/hooks/useProductRegistrationForm.ts",
+  "src/components/milk-test/registration-ui/ProductRegistrationContext.tsx",
+  "src/components/ui/carousel.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/hooks/useMilkTestForm.ts",
+  "src/hooks/useResultsState.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 15,
+ "ms": 33588
+}

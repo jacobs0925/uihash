@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f57830dc0e228e7463ccd1bb2d5b59098fbdf1fb",
+ "parent": "8dc1d3b79ed3bd1f173670b80beabaac5b25edc9",
+ "date": "2026-03-23",
+ "subject": "Improve mobile homepage visuals",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "index.html",
+  "src/components/home/HeroSection.tsx",
+  "src/index.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 53219
+}

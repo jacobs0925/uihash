@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "00fc8cfe931c7f3b096dd02d49c21c1b825f591c",
+ "parent": "6a57bc069cee0594ae5c5d6f8d0396520a34e77f",
+ "date": "2026-03-08",
+ "subject": "Update badge colors for filters",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/BaristaToggle.tsx",
+  "src/components/milk-test/FlavorSelector.tsx",
+  "src/components/milk-test/ProductOptions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 38136
+}

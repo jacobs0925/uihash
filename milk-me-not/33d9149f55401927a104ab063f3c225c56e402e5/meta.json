@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "33d9149f55401927a104ab063f3c225c56e402e5",
+ "parent": "ca4d0667e71f8accf39015ddd420629f9e5fec4a",
+ "date": "2026-03-19",
+ "subject": "Align controls in inline edit",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/shop/ShopSuggestions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39515
+}

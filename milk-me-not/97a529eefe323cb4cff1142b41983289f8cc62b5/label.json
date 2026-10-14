@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "97a529eefe323cb4cff1142b41983289f8cc62b5",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Resolve CodeQL unused code",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "outline-style: ∅ → auto undone by 66d1b586 \"Fix delete popup race condition\"; outline-width: ∅ → 1px undone by 66d1b586 \"Fix delete popup race condition\"; outline-color: ∅ → rgb(16, 16, 16) undone by 66d1b586 \"Fix delete popup race condition\""
+}

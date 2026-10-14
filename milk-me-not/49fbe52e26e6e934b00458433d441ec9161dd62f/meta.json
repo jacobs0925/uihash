@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "49fbe52e26e6e934b00458433d441ec9161dd62f",
+ "parent": "380a6fdbe5a9b02e0a0cba33cfc1307b6c87c1d4",
+ "date": "2026-02-23",
+ "subject": "Restore routes in App.tsx",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 12,
+ "ms": 39210
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "31861b6db6e9f47519b5ac57fa8b49982fc3e58c",
+ "date": "2026-02-23",
+ "pr": null,
+ "title": "Adjusted logo fit to contain",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 377 later commits"
+}

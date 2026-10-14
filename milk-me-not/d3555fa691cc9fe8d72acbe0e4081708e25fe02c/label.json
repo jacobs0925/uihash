@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "d3555fa691cc9fe8d72acbe0e4081708e25fe02c",
+ "date": "2026-08-23",
+ "pr": "125",
+ "title": "Compute derived state instead of setting it in an effect (#125)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Loading the shelf…\" → \"0 products, 0 ratings, 0 brands — ranked\" undone by d7307e9d \"Make the palette legible, measured page by page rather than grepped (#187)\"; text: \"—\" → \"0\" undone by d7307e9d \"Make the palette legible, measured page by page rather than grepped (#187)\""
+}

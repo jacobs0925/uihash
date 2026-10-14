@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "d880d6701681aa773e60cafecc5d62a3eaecdc54",
+ "parent": "51a5545dce98881395dd44820b9f9265c3fc7a26",
+ "date": "2026-03-30",
+ "subject": "Redesigned mobile homepage UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 10,
+ "ms": 56672
+}

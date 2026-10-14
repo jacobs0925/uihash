@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "b7ef9369341f973638c906c3df6601718b3e4500",
+ "parent": "29cd3c6c3ba76ed568e514fc9dd04d7fc9a1a2b6",
+ "date": "2026-03-23",
+ "subject": "Wrap milks sentence to two lines",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 42686
+}

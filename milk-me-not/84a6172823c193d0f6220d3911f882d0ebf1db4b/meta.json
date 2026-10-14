@@ -1,0 +1,28 @@
+{
+ "repo": "milk-me-not",
+ "sha": "84a6172823c193d0f6220d3911f882d0ebf1db4b",
+ "parent": "9716a91ccc9c03950b96fa4cea882d07ec0f3702",
+ "date": "2026-08-23",
+ "subject": "Stand the feed photos up, and give members a bell instead of a drawer (#144)",
+ "pr": "144",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/feed/FeedEngagement.tsx",
+  "src/components/feed/FeedImage.tsx",
+  "src/components/feed/FeedMobileCard.tsx",
+  "src/components/profile/ProfileContent.tsx",
+  "src/components/story/ProductIdentity.tsx",
+  "src/components/story/StoryHeader.tsx",
+  "src/components/story/memberNav.ts",
+  "src/pages/Account.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 8,
+ "ms": 44342
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "a1097ef9a66a3545803825e0128b7bd4f45ad91e",
+ "date": "2026-08-25",
+ "pr": "183",
+ "title": "Let the row decide where its badges go, and give the coloured one a reason (#183)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 101 later commits"
+}

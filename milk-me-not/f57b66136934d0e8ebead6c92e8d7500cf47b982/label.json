@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "f57b66136934d0e8ebead6c92e8d7500cf47b982",
+ "date": "2026-08-24",
+ "pr": "161",
+ "title": "Say why the camera would not open, rather than blaming the site permission (#161)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 124 later commits"
+}

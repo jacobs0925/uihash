@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "77e7e27853bfb64d6f043bf0f993b0636e0776c5",
+ "date": "2026-08-25",
+ "pr": "177",
+ "title": "Let the carton and the picture of the carton be one thing (#177)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 107 later commits"
+}

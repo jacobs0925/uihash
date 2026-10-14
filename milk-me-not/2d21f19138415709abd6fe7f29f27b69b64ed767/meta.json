@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2d21f19138415709abd6fe7f29f27b69b64ed767",
+ "parent": "b9000ad3d5afe1ce6ea91a96a41260c9c9bd8b7e",
+ "date": "2026-03-08",
+ "subject": "Show products on home stats",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/components/home/useHomeStats.ts",
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 39052
+}

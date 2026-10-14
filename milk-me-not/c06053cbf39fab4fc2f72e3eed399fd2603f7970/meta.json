@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c06053cbf39fab4fc2f72e3eed399fd2603f7970",
+ "parent": "8f57bb20b22e8909263caf9f64e23e9f9c8bfd98",
+ "date": "2026-03-30",
+ "subject": "Reverted font, lightened buttons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 51890
+}

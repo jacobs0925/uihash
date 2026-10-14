@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8e3da305dc191e34884e62c67a4639c4713a7d1a",
+ "parent": "b7ef9369341f973638c906c3df6601718b3e4500",
+ "date": "2026-03-23",
+ "subject": "Fast Visual Edit",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 46610
+}

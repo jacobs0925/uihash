@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "2e8dffc24e2bdb8a033f9ed8cb3ef5cf2680adfd",
+ "date": "2026-08-24",
+ "pr": "167",
+ "title": "Say why the map would not load, and stop blaming a blocked tracker (#167)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 120 later commits"
+}

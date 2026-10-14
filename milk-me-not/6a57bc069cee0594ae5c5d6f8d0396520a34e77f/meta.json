@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6a57bc069cee0594ae5c5d6f8d0396520a34e77f",
+ "parent": "80787497ed8d3a0e8e51ce6a7a499005185547f7",
+ "date": "2026-03-08",
+ "subject": "Use semantic color tokens",
+ "components": [
+  "index.css",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/index.css",
+  "src/pages/Home.tsx",
+  "src/styles/design-tokens.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 44109
+}

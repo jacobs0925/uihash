@@ -1,0 +1,27 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5b6c08e8458063fd0c60cc332e1e5be5e3382c90",
+ "parent": "dc9f7124434b5b1af9746ef1d68604b1d3a08720",
+ "date": "2026-08-24",
+ "subject": "Let the build tell readers it has moved on, rather than a table nobody updates (#168)",
+ "pr": "168",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "CLAUDE.md",
+  "src/components/version/UpdateBanner.test.tsx",
+  "src/components/version/UpdateBanner.tsx",
+  "src/hooks/useVersionCheck.ts",
+  "src/lib/appVersion.ts",
+  "src/lib/deployedBuild.test.ts",
+  "src/lib/deployedBuild.ts",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 18,
+ "ms": 41504
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e81b328814817c3d3e0f897c6bc915387d4cfd8c",
+ "parent": "befd90f6d6c0257a00f7fd25fa6139a642097e5f",
+ "date": "2026-08-26",
+ "subject": "Stop the feed hero being the only one that goes dark (#194)",
+ "pr": "194",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedHero.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22949
+}

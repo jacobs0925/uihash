@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "665e5fd60f1f491de4595fa27f6757fa653c29cb",
+ "parent": "49fbe52e26e6e934b00458433d441ec9161dd62f",
+ "date": "2026-02-28",
+ "subject": "Fix scroll flicker on results",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ResultsContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 42122
+}

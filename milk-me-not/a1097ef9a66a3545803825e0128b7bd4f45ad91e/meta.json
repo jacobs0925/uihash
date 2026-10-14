@@ -1,0 +1,30 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a1097ef9a66a3545803825e0128b7bd4f45ad91e",
+ "parent": "5c337bc8e2415778a2d79f1c2b8986c4254b1962",
+ "date": "2026-08-25",
+ "subject": "Let the row decide where its badges go, and give the coloured one a reason (#183)",
+ "pr": "183",
+ "components": [
+  "components",
+  "index.css",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/components/feed/FeedImage.tsx",
+  "src/components/results/ResultsCardList.tsx",
+  "src/components/story/ProductIdentity.test.tsx",
+  "src/components/story/ProductIdentity.tsx",
+  "src/components/story/ScanFlow.test.tsx",
+  "src/index.css",
+  "src/pages/ProductDetails.tsx",
+  "src/styles/story.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 42790
+}

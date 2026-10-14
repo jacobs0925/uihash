@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "f57830dc0e228e7463ccd1bb2d5b59098fbdf1fb",
+ "date": "2026-03-23",
+ "pr": null,
+ "title": "Improve mobile homepage visuals",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "outline-style: ∅ → auto undone by 8f57bb20 \"Fix mobile CTAs icons imports\"; outline-width: ∅ → 1px undone by 8f57bb20 \"Fix mobile CTAs icons imports\"; outline-color: ∅ → rgb(16, 16, 16) undone by 8f57bb20 \"Fix mobile CTAs icons imports\""
+}

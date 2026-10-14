@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "e110ba154477228ae853e11176e2313f5b2b4cb1",
+ "date": "2026-08-30",
+ "pr": "250",
+ "title": "Make the brand index a table you can sort, filter and read a kind off (#250)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 35 later commits"
+}

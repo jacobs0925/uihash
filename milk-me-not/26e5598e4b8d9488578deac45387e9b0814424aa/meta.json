@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "26e5598e4b8d9488578deac45387e9b0814424aa",
+ "parent": "4c0ffb39e9bf3a6248d770695a4b64c239fb6aa8",
+ "date": "2026-02-23",
+ "subject": "Lazy-load Home and heavy components",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/AuthButton.tsx",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 42829
+}

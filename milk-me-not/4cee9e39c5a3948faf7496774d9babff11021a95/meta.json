@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4cee9e39c5a3948faf7496774d9babff11021a95",
+ "parent": "633e06532162c2d1e2893d4f35c71c8968132fec",
+ "date": "2026-08-20",
+ "subject": "Fixed Tailwind base layer order",
+ "components": [
+  "styles"
+ ],
+ "files": [
+  "src/styles/story.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 29102
+}

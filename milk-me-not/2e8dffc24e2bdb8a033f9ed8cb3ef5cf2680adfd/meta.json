@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2e8dffc24e2bdb8a033f9ed8cb3ef5cf2680adfd",
+ "parent": "ea5d298af16ba9c0baf757eee4e9549c375e5ed8",
+ "date": "2026-08-24",
+ "subject": "Say why the map would not load, and stop blaming a blocked tracker (#167)",
+ "pr": "167",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 25084
+}

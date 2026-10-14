@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2ce0a59074b06da1dccbf7a868b7688e024b99ab",
+ "parent": "c876c854d00a611a7824ceb90ea6081a2c9e20ae",
+ "date": "2026-03-23",
+ "subject": "Hide bottom bar on non-home",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MobileFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42156
+}

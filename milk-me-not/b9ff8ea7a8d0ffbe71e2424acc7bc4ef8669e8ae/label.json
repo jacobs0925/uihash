@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "b9ff8ea7a8d0ffbe71e2424acc7bc4ef8669e8ae",
+ "date": "2026-03-30",
+ "pr": null,
+ "title": "Fix dynamic import by adjusting HeroSection imports",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by a70ed308, which restored 51a5545d (8 commits discarded)"
+}

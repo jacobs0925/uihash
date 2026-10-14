@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "dc8d58a991580622c63cb67dff6f223351cbf1ab",
+ "parent": "3bc26de2678892ac7a65c914900a4ecf44d3abd1",
+ "date": "2026-03-23",
+ "subject": "Show recent reviews in badge",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx",
+  "src/components/home/useHomeStats.ts",
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 41550
+}

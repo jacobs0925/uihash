@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "361ce879b239e52ff597dcf520b856a7e133d161",
+ "date": "2026-08-24",
+ "pr": "165",
+ "title": "Show the badges that say which Alpro carton this actually is (#165)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: oklab(0.246195 -0.0132923 0.00166346 / 0.05) → ∅ undone by 65eee733 \"Watch the backups instead of reminding someone to look at them (#160)\"; border-top-left-radius: 3.35544e+07px → ∅ undone by 65eee733 \"Watch the backups instead of reminding someone to look at them (#160)\"; border-top-right-radius: 3.35544e+07px → ∅ undone by 65eee733 \"Watch the backups instead of reminding someone to look at them (#160)\""
+}

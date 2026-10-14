@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ebec0458f4d7e82f30e2dd1e6dc74fdd1cdda1e0",
+ "parent": "7e349e621a4ae606734a4755ea2aefacad642ad4",
+ "date": "2026-03-30",
+ "subject": "Refined MilkDrop visuals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 57897
+}

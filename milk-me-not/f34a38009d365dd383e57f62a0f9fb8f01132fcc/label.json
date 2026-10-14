@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "f34a38009d365dd383e57f62a0f9fb8f01132fcc",
+ "date": "2026-05-07",
+ "pr": null,
+ "title": "Fix ESLint 10 warnings: ignore .claude dir and suppress pre-existing issues",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 202 later commits"
+}

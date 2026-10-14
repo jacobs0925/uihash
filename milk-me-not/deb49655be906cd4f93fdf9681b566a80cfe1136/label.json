@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "deb49655be906cd4f93fdf9681b566a80cfe1136",
+ "date": "2026-08-28",
+ "pr": "229",
+ "title": "Give pills a radius a float can actually divide (#229)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 57 later commits"
+}

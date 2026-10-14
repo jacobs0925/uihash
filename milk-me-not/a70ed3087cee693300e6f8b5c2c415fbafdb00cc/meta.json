@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a70ed3087cee693300e6f8b5c2c415fbafdb00cc",
+ "parent": "b9ff8ea7a8d0ffbe71e2424acc7bc4ef8669e8ae",
+ "date": "2026-03-30",
+ "subject": "Reverted to commit 51a5545dce98881395dd44820b9f9265c3fc7a26",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx",
+  "src/pages/Home.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 16,
+ "ms": 59392
+}

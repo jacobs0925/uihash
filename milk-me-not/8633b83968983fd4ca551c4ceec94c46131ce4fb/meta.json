@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8633b83968983fd4ca551c4ceec94c46131ce4fb",
+ "parent": "375469eec64a951845575f816764b2e52cc5aa4c",
+ "date": "2026-03-23",
+ "subject": "Align trust indicators radius",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/MobileFooter.tsx",
+  "src/components/home/HeroSection.tsx",
+  "src/components/home/TrustIndicators.tsx",
+  "src/index.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 46810
+}

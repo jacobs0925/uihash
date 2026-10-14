@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f57b66136934d0e8ebead6c92e8d7500cf47b982",
+ "parent": "65eee733259fce145268728a865be1f08f6686c3",
+ "date": "2026-08-24",
+ "subject": "Say why the camera would not open, rather than blaming the site permission (#161)",
+ "pr": "161",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/BarcodeScanner.tsx",
+  "src/lib/cameraError.test.ts",
+  "src/lib/cameraError.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 24890
+}

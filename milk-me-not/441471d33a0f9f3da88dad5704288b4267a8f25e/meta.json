@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "441471d33a0f9f3da88dad5704288b4267a8f25e",
+ "parent": "bb6ffd01ac37d6fd0e6859589e8af88172830efb",
+ "date": "2026-03-19",
+ "subject": "Fix inline shop rename dropdown",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ShopSelect.tsx",
+  "src/components/milk-test/shop/ShopSuggestions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 42967
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "45c87c397f3ed2f0f0d0f31621ee0692ea0aa7d2",
+ "parent": "a70ed3087cee693300e6f8b5c2c415fbafdb00cc",
+ "date": "2026-03-30",
+ "subject": "Reorganized mobile hero layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 54676
+}

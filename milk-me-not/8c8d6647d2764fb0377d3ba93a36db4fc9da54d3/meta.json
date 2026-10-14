@@ -1,0 +1,28 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8c8d6647d2764fb0377d3ba93a36db4fc9da54d3",
+ "parent": "4c763195b07f6d04c22fdb925b8cd23d5ecc1b8b",
+ "date": "2026-08-23",
+ "subject": "Derive search matches, and clear the last of the non-effect findings (#126)",
+ "pr": "126",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/milk-test/NameSelect.tsx",
+  "src/components/milk-test/ProductInformation.tsx",
+  "src/components/milk-test/product-search/useProductSearch.ts",
+  "src/components/story/StoryHeader.tsx",
+  "src/components/ui/sidebar.tsx",
+  "src/hooks/useBrandData.ts",
+  "src/hooks/useProfileStats.ts",
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 31211
+}

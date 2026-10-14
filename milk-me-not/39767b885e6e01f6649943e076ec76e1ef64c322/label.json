@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "39767b885e6e01f6649943e076ec76e1ef64c322",
+ "date": "2026-03-30",
+ "pr": null,
+ "title": "Make background whiter",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by a70ed308, which restored 51a5545d (8 commits discarded)"
+}

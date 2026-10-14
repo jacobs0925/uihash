@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5c337bc8e2415778a2d79f1c2b8986c4254b1962",
+ "parent": "576d2413ed58d40fbf61a69cf2b530747c8b1749",
+ "date": "2026-08-25",
+ "subject": "Say who makes the carton, rather than labelling a section with their name (#180)",
+ "pr": "180",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/ProductDetails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 7,
+ "ms": 27158
+}

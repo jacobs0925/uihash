@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "8c48cca5a04167eb6fcc7a293dae9323c5377e24",
+ "date": "2026-08-26",
+ "pr": "190",
+ "title": "Give the headline its green back, and let barista sit down (#190)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "outline-style: auto → ∅ undone by 627028bf \"Keep the shop the reader typed (#199)\"; outline-width: 1px → ∅ undone by 627028bf \"Keep the shop the reader typed (#199)\"; outline-color: rgb(16, 16, 16) → ∅ undone by 627028bf \"Keep the shop the reader typed (#199)\""
+}

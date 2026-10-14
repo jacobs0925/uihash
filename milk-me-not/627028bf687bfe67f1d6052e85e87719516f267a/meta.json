@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "627028bf687bfe67f1d6052e85e87719516f267a",
+ "parent": "cfd849c0321a369e8d2e0ee18160c772b6617b0a",
+ "date": "2026-08-27",
+ "subject": "Keep the shop the reader typed (#199)",
+ "pr": "199",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/rating.spec.ts",
+  "src/components/milk-test/ShopSelect.test.tsx",
+  "src/components/milk-test/ShopSelect.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 13,
+ "ms": 26263
+}

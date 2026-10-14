@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "8f33a1fa16fde407e3bc24163ff88f06db97b6a7",
+ "date": "2026-10-06",
+ "pr": "282",
+ "title": "Offer admins optional two-step sign-in (#282)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: ∅ → oklab(0.246195 -0.0132923 0.00166346 / 0.05) undone by 6eefd1b9 \"Stop recovery codes outliving their authenticator (#289)\"; border-top-left-radius: ∅ → 9999px undone by 6eefd1b9 \"Stop recovery codes outliving their authenticator (#289)\"; border-top-right-radius: ∅ → 9999px undone by 6eefd1b9 \"Stop recovery codes outliving their authenticator (#289)\""
+}

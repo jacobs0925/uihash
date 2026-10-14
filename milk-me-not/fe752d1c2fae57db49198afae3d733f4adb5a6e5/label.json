@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "fe752d1c2fae57db49198afae3d733f4adb5a6e5",
+ "date": "2026-03-23",
+ "pr": null,
+ "title": "Update trust indicators colors",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-color: rgb(31, 64, 255) → rgba(31, 64, 255, 0.9) undone by 7e349e62 \"Promoted Droplet prominence\"; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px undone by 7e349e62 \"Promoted Droplet prominence\"; transform: ∅ → matrix(1, 0, 0, 1, 0, -4) undone by 7e349e62 \"Promoted Droplet prominence\""
+}

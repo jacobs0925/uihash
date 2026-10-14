@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "7e349e621a4ae606734a4755ea2aefacad642ad4",
+ "parent": "39767b885e6e01f6649943e076ec76e1ef64c322",
+ "date": "2026-03-30",
+ "subject": "Promoted Droplet prominence",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 57383
+}

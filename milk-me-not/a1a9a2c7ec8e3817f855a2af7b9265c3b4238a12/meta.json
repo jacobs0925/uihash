@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a1a9a2c7ec8e3817f855a2af7b9265c3b4238a12",
+ "parent": "19cd6fad7223b7ca4419c8b6c07757190106ad58",
+ "date": "2026-08-18",
+ "subject": "Created Mapbox connector",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 13,
+ "ms": 39665
+}

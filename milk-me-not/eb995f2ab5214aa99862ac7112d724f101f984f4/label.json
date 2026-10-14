@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "eb995f2ab5214aa99862ac7112d724f101f984f4",
+ "date": "2026-08-27",
+ "pr": "207",
+ "title": "Make the pigeons fly like pigeons (#207)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 78 later commits"
+}

@@ -1,0 +1,28 @@
+{
+ "repo": "milk-me-not",
+ "sha": "92a1634601fda724283f5cc4375758c98f03d2b4",
+ "parent": "361ce879b239e52ff597dcf520b856a7e133d161",
+ "date": "2026-08-24",
+ "subject": "Arrive at the registration form knowing what the barcode said (#163)",
+ "pr": "163",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/BarcodeScanner.tsx",
+  "src/components/milk-test/BrandSelect.tsx",
+  "src/components/milk-test/registration-ui/FormSections.tsx",
+  "src/components/story/ScanFlow.tsx",
+  "src/lib/createScannedProduct.ts",
+  "src/lib/openFoodFacts.test.ts",
+  "src/lib/openFoodFacts.ts",
+  "src/lib/scanSuggestions.test.ts",
+  "src/lib/scanSuggestions.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23195
+}

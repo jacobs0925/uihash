@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "65eee733259fce145268728a865be1f08f6686c3",
+ "date": "2026-08-24",
+ "pr": "160",
+ "title": "Watch the backups instead of reminding someone to look at them (#160)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: ∅ → oklab(0.246195 -0.0132923 0.00166346 / 0.05) undone by 77e7e278 \"Let the carton and the picture of the carton be one thing (#177)\"; border-top-left-radius: ∅ → 3.35544e+07px undone by 77e7e278 \"Let the carton and the picture of the carton be one thing (#177)\"; border-top-right-radius: ∅ → 3.35544e+07px undone by 77e7e278 \"Let the carton and the picture of the carton be one thing (#177)\""
+}

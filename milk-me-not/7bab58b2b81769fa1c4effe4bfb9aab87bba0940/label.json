@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "7bab58b2b81769fa1c4effe4bfb9aab87bba0940",
+ "date": "2026-03-09",
+ "pr": null,
+ "title": "Downgraded Tailwind to v3",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by da703261, which restored 2725cd4e (12 commits discarded)"
+}

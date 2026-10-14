@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6eefd1b9a2ca87a2e43b1c0372579a7b6a6fefe5",
+ "parent": "30220ce785073448c51619ad5871a8ae6fa5d986",
+ "date": "2026-10-10",
+ "subject": "Stop recovery codes outliving their authenticator (#289)",
+ "pr": "289",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/settings/TwoFactorSettings.tsx",
+  "src/lib/recoveryCodes.ts",
+  "supabase/migrations/20261010090000_clear_leftover_recovery_codes.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 15,
+ "ms": 28700
+}

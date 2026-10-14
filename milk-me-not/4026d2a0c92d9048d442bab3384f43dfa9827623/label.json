@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "4026d2a0c92d9048d442bab3384f43dfa9827623",
+ "date": "2026-08-27",
+ "pr": "225",
+ "title": "Serve the feed a thumbnail instead of a 3MB phone photo (#225)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 60 later commits"
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a4696fce4da25936130811cb5cf02496d9125b81",
+ "parent": "3bccf6b62e86f639546edc8d65b1deeb6a840d2f",
+ "date": "2026-03-06",
+ "subject": "Patch camera flow for APK",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "bun.lock",
+  "src/components/milk-test/PictureCapture.tsx",
+  "src/hooks/useCameraOperations.ts",
+  "tsconfig.json"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41154
+}

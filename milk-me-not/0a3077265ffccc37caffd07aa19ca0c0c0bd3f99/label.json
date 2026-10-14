@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "0a3077265ffccc37caffd07aa19ca0c0c0bd3f99",
+ "date": "2026-08-23",
+ "pr": "149",
+ "title": "Fit the globe to its card, and give its edge back (#149)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "outline-style: ∅ → auto undone by 514f6b40 \"Time the map's silence, not its total load (#146)\"; outline-width: ∅ → 1px undone by 514f6b40 \"Time the map's silence, not its total load (#146)\"; outline-color: ∅ → rgb(16, 16, 16) undone by 514f6b40 \"Time the map's silence, not its total load (#146)\""
+}

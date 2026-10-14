@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "19cd6fad7223b7ca4419c8b6c07757190106ad58",
+ "date": "2026-08-18",
+ "pr": "107",
+ "title": "Charts and map views, signed-in pages, and a type check that runs (#107)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "outline-style: auto → ∅ undone by 0a307726 \"Fit the globe to its card, and give its edge back (#149)\"; outline-width: 1px → ∅ undone by 0a307726 \"Fit the globe to its card, and give its edge back (#149)\"; outline-color: rgb(16, 16, 16) → ∅ undone by 0a307726 \"Fit the globe to its card, and give its edge back (#149)\""
+}

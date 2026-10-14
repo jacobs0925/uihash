@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "d880d6701681aa773e60cafecc5d62a3eaecdc54",
+ "date": "2026-03-30",
+ "pr": null,
+ "title": "Redesigned mobile homepage UI",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by a70ed308, which restored 51a5545d (8 commits discarded)"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "fddf20773f3bb99fc51a37abd284915fb6cda51d",
+ "date": "2026-08-27",
+ "pr": "223",
+ "title": "Give Google its own loading state, separate from the password form (#223)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: ∅ → oklab(0.246195 -0.0132923 0.00166346 / 0.05) undone by 6eefd1b9 \"Stop recovery codes outliving their authenticator (#289)\"; filter: ∅ → brightness(1.07) undone by 6eefd1b9 \"Stop recovery codes outliving their authenticator (#289)\"; background-color: ∅ → oklab(0.246195 -0.0132923 0.00166346 / 0.05) undone by 6eefd1b9 \"Stop recovery codes outliving their authenticator (#289)\""
+}

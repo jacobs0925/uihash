@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "39767b885e6e01f6649943e076ec76e1ef64c322",
+ "parent": "c06053cbf39fab4fc2f72e3eed399fd2603f7970",
+ "date": "2026-03-30",
+ "subject": "Make background whiter",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BackgroundPattern.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 54898
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8fbc839913c941b71d98ba39c3baa563edf628fe",
+ "parent": "37df1785090b2550af8e0bf44f170a0e7561611c",
+ "date": "2026-03-08",
+ "subject": "Potential fix for code scanning alert no. 88: Useless conditional (#50)",
+ "pr": "50",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ProductSelect.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42020
+}

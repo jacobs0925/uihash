@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ea4791744ee1b75d9bb3a9b4b5f615961263a749",
+ "parent": "514f6b40f0ff00f9d893f83918b66313ebe06f00",
+ "date": "2026-08-23",
+ "subject": "Say \"Germany\" on the map, and let the popup close button have its own space (#147)",
+ "pr": "147",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 16,
+ "ms": 54766
+}

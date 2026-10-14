@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "c10a1987323d0e77544acf0996b7e16eae73faee",
+ "date": "2026-08-19",
+ "pr": "109",
+ "title": "Fix the black camera preview, and finish the dialogs (#109)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 188 later commits"
+}

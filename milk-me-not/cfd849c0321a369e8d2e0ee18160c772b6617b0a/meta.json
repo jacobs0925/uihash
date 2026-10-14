@@ -1,0 +1,37 @@
+{
+ "repo": "milk-me-not",
+ "sha": "cfd849c0321a369e8d2e0ee18160c772b6617b0a",
+ "parent": "b95f082950effa2a4f256158239777631195b6de",
+ "date": "2026-08-27",
+ "subject": "Put white back on the green buttons (#198)",
+ "pr": "198",
+ "components": [
+  "components",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/components/auth/AuthForm.tsx",
+  "src/components/contact/ContactCard.tsx",
+  "src/components/feed/FeedComments.tsx",
+  "src/components/milk-test/DrinkPreference.tsx",
+  "src/components/profile/ProfileContent.tsx",
+  "src/components/results/ResultsEmptyState.tsx",
+  "src/components/results/ResultsFilterPanel.tsx",
+  "src/components/results/ResultsSortList.tsx",
+  "src/components/results/ResultsToolbar.tsx",
+  "src/components/results/ResultsViewSwitcher.tsx",
+  "src/components/story/ProductIdentity.tsx",
+  "src/components/story/primitives.tsx",
+  "src/pages/Contact.tsx",
+  "src/pages/InstallGuide.tsx",
+  "src/pages/MobileApp.tsx",
+  "src/styles/story.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 25,
+ "ms": 61810
+}

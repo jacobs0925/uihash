@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5d9b9fb2d549e1c7915f8310940a5188aa2bdd69",
+ "parent": "d47364bfbe927a2e0851e2212b0fc4026ffc52ec",
+ "date": "2026-03-01",
+ "subject": "Highlight search term in badges",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ProductPropertyBadges.tsx",
+  "src/components/milk-test/product-search/ProductResultItem.tsx",
+  "src/components/milk-test/product-search/SearchResults.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40014
+}

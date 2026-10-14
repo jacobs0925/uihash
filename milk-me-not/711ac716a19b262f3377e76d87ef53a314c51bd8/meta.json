@@ -1,0 +1,37 @@
+{
+ "repo": "milk-me-not",
+ "sha": "711ac716a19b262f3377e76d87ef53a314c51bd8",
+ "parent": "8c48cca5a04167eb6fcc7a293dae9323c5377e24",
+ "date": "2026-08-26",
+ "subject": "Put the brand green back in the headline, and write down that it is a choice (#191)",
+ "pr": "191",
+ "components": [
+  "components",
+  "index.css",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/components/feed/FeedHero.tsx",
+  "src/components/profile/PublicProfile.tsx",
+  "src/components/story/StoryAppLayout.tsx",
+  "src/components/story/tiers.contrast.test.ts",
+  "src/index.css",
+  "src/pages/About.tsx",
+  "src/pages/Auth.tsx",
+  "src/pages/Contact.tsx",
+  "src/pages/FAQ.tsx",
+  "src/pages/Home.tsx",
+  "src/pages/InstallGuide.tsx",
+  "src/pages/MobileApp.tsx",
+  "src/pages/NotFound.tsx",
+  "src/pages/ResetPassword.tsx",
+  "src/styles/story.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 17,
+ "ms": 92395
+}

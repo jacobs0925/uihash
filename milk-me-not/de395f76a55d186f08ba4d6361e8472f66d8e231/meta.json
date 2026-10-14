@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "de395f76a55d186f08ba4d6361e8472f66d8e231",
+ "parent": "8e3da305dc191e34884e62c67a4639c4713a7d1a",
+ "date": "2026-03-23",
+ "subject": "Widen hero subtitle box",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 54881
+}

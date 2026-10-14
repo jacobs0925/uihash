@@ -1,0 +1,30 @@
+{
+ "repo": "milk-me-not",
+ "sha": "da703261f9f3775e644059e8a803bc7e7f12ffcf",
+ "parent": "55a4acb3cbb8ad234fdcb008b1431323e99beb5e",
+ "date": "2026-03-09",
+ "subject": "Reverted to commit 2725cd4e8dee49bab7115aecf3992d524eece864",
+ "components": [
+  "components",
+  "index.css",
+  "styles"
+ ],
+ "files": [
+  "bun.lock",
+  "components.json",
+  "package-lock.json",
+  "package.json",
+  "postcss.config.js",
+  "src/components/ui/calendar.tsx",
+  "src/index.css",
+  "src/styles/colors.css",
+  "src/styles/design-tokens.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 50762
+}

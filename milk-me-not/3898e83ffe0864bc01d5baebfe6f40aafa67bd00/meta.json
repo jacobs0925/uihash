@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3898e83ffe0864bc01d5baebfe6f40aafa67bd00",
+ "parent": "5491021ec53562a7cb11e44c0c3163c6ec7d0e08",
+ "date": "2026-08-28",
+ "subject": "Open the enlarge dialog on the thumbnail instead of on nothing (#234)",
+ "pr": "234",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedImage.test.tsx",
+  "src/components/feed/FeedImage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 48210
+}

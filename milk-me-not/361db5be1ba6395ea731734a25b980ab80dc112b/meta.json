@@ -1,0 +1,27 @@
+{
+ "repo": "milk-me-not",
+ "sha": "361db5be1ba6395ea731734a25b980ab80dc112b",
+ "parent": "7f8e569a6e132573c8f4b2bd2d7640c957f36339",
+ "date": "2026-08-27",
+ "subject": "Make the brand token the brand colour (#196)",
+ "pr": "196",
+ "components": [
+  "components",
+  "index.css",
+  "styles"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx",
+  "src/components/story/tiers.contrast.test.ts",
+  "src/components/version/UpdateBanner.test.tsx",
+  "src/components/version/UpdateBanner.tsx",
+  "src/index.css",
+  "src/styles/story.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 26,
+ "ms": 74614
+}

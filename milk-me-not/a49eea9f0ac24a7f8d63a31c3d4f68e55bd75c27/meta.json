@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a49eea9f0ac24a7f8d63a31c3d4f68e55bd75c27",
+ "parent": "116a123d0b0fbfa95cad8e1fd47f208956e52583",
+ "date": "2026-03-23",
+ "subject": "Adopted semantic design tokens",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 43384
+}

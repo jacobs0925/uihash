@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e356eca734ce564140bbbffdfc19a10f28aaef67",
+ "parent": "c1e2226f16a0f5516c62376f6302d93bfc42c92e",
+ "date": "2026-03-02",
+ "subject": "Enable viewing likes on own posts",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedEngagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 43294
+}

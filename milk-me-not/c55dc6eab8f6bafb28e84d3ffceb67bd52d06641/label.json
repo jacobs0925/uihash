@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "c55dc6eab8f6bafb28e84d3ffceb67bd52d06641",
+ "date": "2026-03-09",
+ "pr": null,
+ "title": "Deduplicated design tokens",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by da703261, which restored 2725cd4e (12 commits discarded)"
+}

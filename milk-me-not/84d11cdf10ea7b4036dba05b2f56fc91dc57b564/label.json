@@ -7,6 +7,6 @@
  "title": "Remove photo prompt in empty state",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "box-shadow: rgb(255, 255, 255) 0px 0px 0px 2px, rgb(191, 191, 191) 0px 0px 0px 4px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px undone by 4078f559 \"Center feed cards on mobile\"; outline-style: solid → ∅ undone by 4078f559 \"Center feed cards on mobile\"; outline-width: 2px → ∅ undone by 4078f559 \"Center feed cards on mobile\""
 }

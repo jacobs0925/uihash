@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "17e801443372aca7449dc92e67d0d1c3933d0bfd",
+ "date": "2026-03-19",
+ "pr": null,
+ "title": "Hide add-new option during editing",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "outline-style: ∅ → solid undone by 39767b88 \"Make background whiter\"; outline-width: ∅ → 2px undone by 39767b88 \"Make background whiter\"; outline-color: ∅ → rgba(0, 0, 0, 0) undone by 39767b88 \"Make background whiter\""
+}

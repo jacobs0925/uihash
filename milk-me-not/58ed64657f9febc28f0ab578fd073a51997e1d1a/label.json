@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "58ed64657f9febc28f0ab578fd073a51997e1d1a",
+ "date": "2026-03-23",
+ "pr": null,
+ "title": "Refined design docs and radii",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "border-top-left-radius: 8px → 6px undone by 7f731691 \"Design system redesign — Plus Jakarta Sans, new palette, full token migration (#77)\"; border-top-right-radius: 8px → 6px undone by 7f731691 \"Design system redesign — Plus Jakarta Sans, new palette, full token migration (#77)\"; border-bottom-right-radius: 8px → 6px undone by 7f731691 \"Design system redesign — Plus Jakarta Sans, new palette, full token migration (#77)\""
+}

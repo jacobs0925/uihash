@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "eb9b6cacca1ebd263aedcbb2c8a9d22862157e8c",
+ "parent": "da74272c296248301b0b4d4370936268e721c995",
+ "date": "2026-03-08",
+ "subject": "Fix password update button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/PasswordResetForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 45452
+}

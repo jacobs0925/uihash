@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "deb49655be906cd4f93fdf9681b566a80cfe1136",
+ "parent": "7a3181572d5ee537ec61217672145a7b93469f7d",
+ "date": "2026-08-28",
+ "subject": "Give pills a radius a float can actually divide (#229)",
+ "pr": "229",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 9,
+ "ms": 57593
+}

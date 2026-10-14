@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "60c813bf730fda0a5317c7fdb8ceabe7f6fae0b3",
+ "parent": "b97e2eb9e74fb031b57b175c444ee559f34e78c6",
+ "date": "2026-10-09",
+ "subject": "Make the database honour admin two-step sign-in (#284)",
+ "pr": "284",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/TwoFactorGate.tsx",
+  "supabase/migrations/20261006210000_admin_two_step_sign_in.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 8,
+ "ms": 28593
+}

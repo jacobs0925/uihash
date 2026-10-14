@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "66ee6c6ae9f58bc1917fbdd8113d5ebb0da885de",
+ "parent": "f57830dc0e228e7463ccd1bb2d5b59098fbdf1fb",
+ "date": "2026-03-24",
+ "subject": "Align desktop to mobile design",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "bun.lock",
+  "src/components/home/HeroSection.tsx",
+  "src/components/home/TrustIndicators.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 18,
+ "ms": 54320
+}

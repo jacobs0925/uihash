@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "470b5d1e9825a0a782dd38a35ce2f4ce996e3e4e",
+ "parent": "4cee9e39c5a3948faf7496774d9babff11021a95",
+ "date": "2026-08-20",
+ "subject": "Moved @import to top of CSS",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 115,
+ "ms": 114160
+}

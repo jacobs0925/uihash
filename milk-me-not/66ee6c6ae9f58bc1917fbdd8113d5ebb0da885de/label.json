@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "66ee6c6ae9f58bc1917fbdd8113d5ebb0da885de",
+ "date": "2026-03-24",
+ "pr": null,
+ "title": "Align desktop to mobile design",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: flex → block undone by 2a8f7a5f \"Redesigned mobile CTA pair\"; background-color: rgb(255, 255, 255) → rgba(0, 189, 97, 0.06) undone by 2a8f7a5f \"Redesigned mobile CTA pair\"; display: flex → block undone by 2a8f7a5f \"Redesigned mobile CTA pair\""
+}

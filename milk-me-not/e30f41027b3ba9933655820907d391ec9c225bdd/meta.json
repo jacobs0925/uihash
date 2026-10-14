@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e30f41027b3ba9933655820907d391ec9c225bdd",
+ "parent": "f84f34b9638a1cb92ae1584f0ec7265d48921d10",
+ "date": "2026-03-13",
+ "subject": "Add rate limit edge function",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/ResetPasswordDialog.tsx",
+  "src/hooks/auth/useAuthOperations.ts",
+  "src/lib/rateLimitCheck.ts",
+  "supabase/config.toml",
+  "supabase/functions/check-rate-limit/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 45482
+}

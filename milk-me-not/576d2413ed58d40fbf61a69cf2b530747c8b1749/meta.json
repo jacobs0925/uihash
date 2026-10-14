@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "576d2413ed58d40fbf61a69cf2b530747c8b1749",
+ "parent": "e14760fc4e5947bfe57edbc4c2227dd62090d472",
+ "date": "2026-08-25",
+ "subject": "Give the update notice the palette and the space the rest of the app uses (#175)",
+ "pr": "175",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/version/ReleaseNotes.tsx",
+  "src/components/version/UpdateBanner.test.tsx",
+  "src/components/version/UpdateBanner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 26663
+}

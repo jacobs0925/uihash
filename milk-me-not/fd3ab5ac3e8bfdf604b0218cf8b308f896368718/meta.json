@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "fd3ab5ac3e8bfdf604b0218cf8b308f896368718",
+ "parent": "b3d29a676651b30be35a48033575887c37260f1e",
+ "date": "2026-08-27",
+ "subject": "Let the wordmark go home, and hide the pitch rather than the page (#216)",
+ "pr": "216",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/story/StoryHeader.tsx",
+  "src/pages/Home.test.tsx",
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 21,
+ "ms": 36046
+}

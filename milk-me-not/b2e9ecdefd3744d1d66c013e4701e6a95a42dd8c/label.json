@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "b2e9ecdefd3744d1d66c013e4701e6a95a42dd8c",
+ "date": "2026-08-20",
+ "pr": "112",
+ "title": "Stop paying for TRY_HARDER on every frame (#112)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "outline-style: ∅ → auto undone by 5fe8f8b6 \"Scan a carton and land on that carton (#115)\"; outline-width: ∅ → 1px undone by 5fe8f8b6 \"Scan a carton and land on that carton (#115)\"; outline-color: ∅ → rgb(16, 16, 16) undone by 5fe8f8b6 \"Scan a carton and land on that carton (#115)\""
+}

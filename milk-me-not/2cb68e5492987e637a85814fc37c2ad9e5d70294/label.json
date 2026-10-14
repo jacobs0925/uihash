@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "2cb68e5492987e637a85814fc37c2ad9e5d70294",
+ "date": "2026-08-27",
+ "pr": "219",
+ "title": "Add Google sign-in for the web (#219)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 66 later commits"
+}

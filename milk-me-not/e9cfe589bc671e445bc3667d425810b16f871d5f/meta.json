@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e9cfe589bc671e445bc3667d425810b16f871d5f",
+ "parent": "eb7d1bfb6e9cb5a6eb03f5692332fcdd4ab3cea9",
+ "date": "2026-08-23",
+ "subject": "Drop the unused calendar, and with it the last peer conflict (#123)",
+ "pr": "123",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".github/workflows/ci.yml",
+  "bun.lock",
+  "package-lock.json",
+  "package.json",
+  "src/components/ui/calendar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 14,
+ "ms": 62731
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "19e79e178e49bc56726dce6a0a84c0d2adb13343",
+ "date": "2026-08-17",
+ "pr": "105",
+ "title": "Story-first redesign of every public page (#105)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-color: ∅ → rgb(245, 250, 246) undone by 633e0653 \"Fixed CSS import order\"; background-clip: ∅ → border-box undone by 633e0653 \"Fixed CSS import order\"; background-color: ∅ → rgb(245, 250, 246) undone by 633e0653 \"Fixed CSS import order\""
+}

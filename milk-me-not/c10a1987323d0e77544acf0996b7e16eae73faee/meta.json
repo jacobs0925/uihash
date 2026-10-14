@@ -1,0 +1,35 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c10a1987323d0e77544acf0996b7e16eae73faee",
+ "parent": "13933971b23e50d4fd09e50f7d9cbafa9f1c315e",
+ "date": "2026-08-19",
+ "subject": "Fix the black camera preview, and finish the dialogs (#109)",
+ "pr": "109",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "bun.lock",
+  "package-lock.json",
+  "package.json",
+  "src/components/MapboxWorldMap.tsx",
+  "src/components/auth/ResetPasswordDialog.tsx",
+  "src/components/milk-test/BarcodeScanner.tsx",
+  "src/components/milk-test/PictureCapture.tsx",
+  "src/components/milk-test/ProductRegistrationHeader.tsx",
+  "src/components/milk-test/camera/DesktopCameraModal.tsx",
+  "src/components/milk-test/registration-ui/ProductRegistrationDialog.tsx",
+  "src/components/milk-test/shop/DeleteShopDialog.tsx",
+  "src/components/profile/ProfileEditDialog.tsx",
+  "src/components/story/StoryDialog.tsx",
+  "src/components/version/UpdateModal.tsx",
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 11,
+ "ms": 52454
+}

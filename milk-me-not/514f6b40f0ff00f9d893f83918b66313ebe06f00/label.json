@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "514f6b40f0ff00f9d893f83918b66313ebe06f00",
+ "date": "2026-08-23",
+ "pr": "146",
+ "title": "Time the map's silence, not its total load (#146)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: oklab(0.246195 -0.0132923 0.00166346 / 0.05) → ∅ undone by b7de6661 \"Move to Tailwind 4 (#139)\"; border-top-left-radius: 3.35544e+07px → ∅ undone by b7de6661 \"Move to Tailwind 4 (#139)\"; border-top-right-radius: 3.35544e+07px → ∅ undone by b7de6661 \"Move to Tailwind 4 (#139)\""
+}

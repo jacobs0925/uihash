@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "84a6172823c193d0f6220d3911f882d0ebf1db4b",
+ "date": "2026-08-23",
+ "pr": "144",
+ "title": "Stand the feed photos up, and give members a bell instead of a drawer (#144)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "outline-style: auto → ∅ undone by 627028bf \"Keep the shop the reader typed (#199)\"; outline-width: 1px → ∅ undone by 627028bf \"Keep the shop the reader typed (#199)\"; outline-color: rgb(16, 16, 16) → ∅ undone by 627028bf \"Keep the shop the reader typed (#199)\""
+}

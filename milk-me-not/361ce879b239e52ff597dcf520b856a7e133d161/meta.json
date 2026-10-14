@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "361ce879b239e52ff597dcf520b856a7e133d161",
+ "parent": "5b6c08e8458063fd0c60cc332e1e5be5e3382c90",
+ "date": "2026-08-24",
+ "subject": "Show the badges that say which Alpro carton this actually is (#165)",
+ "pr": "165",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/story/ScanFlow.test.tsx",
+  "src/components/story/ScanFlow.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 21,
+ "ms": 37745
+}

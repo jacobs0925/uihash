@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c825b3323e0f773c757232fa1e404d7b6938d41a",
+ "parent": "b2e9ecdefd3744d1d66c013e4701e6a95a42dd8c",
+ "date": "2026-08-20",
+ "subject": "Give the scanner focus, light, and something to report (#113)",
+ "pr": "113",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/BarcodeScanner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 28196
+}

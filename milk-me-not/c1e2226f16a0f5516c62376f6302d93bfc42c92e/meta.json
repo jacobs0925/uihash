@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c1e2226f16a0f5516c62376f6302d93bfc42c92e",
+ "parent": "d9883856ab419aacd8a173bd283c0c19951f27bf",
+ "date": "2026-03-01",
+ "subject": "Align badges inline on add test",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/product-search/ProductResultItem.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 43580
+}

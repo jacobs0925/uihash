@@ -5,8 +5,8 @@
  "date": "2026-01-30",
  "pr": null,
  "title": "Make hero responsive and center banner",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 499 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: block → flex undone by 66ee6c6a \"Align desktop to mobile design\"; width: 100% → auto undone by 66ee6c6a \"Align desktop to mobile design\"; margin-right: auto → 0px undone by 66ee6c6a \"Align desktop to mobile design\""
 }

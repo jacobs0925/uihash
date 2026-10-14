@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "af0ed004cd359a960a64718ec76bdd0ac172b0a6",
+ "parent": "5e1fc68f385a40e602e3b438f54af59a24324191",
+ "date": "2026-09-03",
+ "subject": "Say whether you can still buy it, instead of \"Not checked\" (#255)",
+ "pr": "255",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "e2e/brands.spec.ts",
+  "src/components/brand/BrandStatusChip.tsx",
+  "src/pages/BrandDetail.tsx",
+  "src/pages/Brands.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 8,
+ "ms": 31961
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6460349fb0400926e94b06a6d0da0dd89991702a",
+ "parent": "fe752d1c2fae57db49198afae3d733f4adb5a6e5",
+ "date": "2026-03-23",
+ "subject": "Update trust indicators colors to semantic classes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/TrustIndicators.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40784
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "33e1c6cf5ddb83d666611f7abc4738248d96ac77",
+ "date": "2026-03-23",
+ "pr": null,
+ "title": "Implement Digital Greenhouse design system",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "color: rgb(0, 189, 97) → rgb(0, 112, 58) undone by 47f74b30 \"feat: Introduce CSS design tokens for light/dark themes and update documented color palette values.\"; color: rgb(0, 189, 97) → rgb(0, 112, 58) undone by 47f74b30 \"feat: Introduce CSS design tokens for light/dark themes and update documented color palette values.\"; color: rgb(0, 189, 97) → rgb(0, 112, 58) undone by 47f74b30 \"feat: Introduce CSS design tokens for light/dark themes and update documented color palette values.\""
+}

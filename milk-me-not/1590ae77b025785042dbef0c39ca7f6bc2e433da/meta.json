@@ -1,0 +1,26 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1590ae77b025785042dbef0c39ca7f6bc2e433da",
+ "parent": "19e79e178e49bc56726dce6a0a84c0d2adb13343",
+ "date": "2026-08-17",
+ "subject": "Softer category tiles, drawn type marks, and brand-logo fixes (#106)",
+ "pr": "106",
+ "components": [
+  "components",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/components/story/motifs.tsx",
+  "src/pages/Home.tsx",
+  "src/styles/story.css",
+  "tailwind.config.ts",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 19,
+ "ms": 65592
+}

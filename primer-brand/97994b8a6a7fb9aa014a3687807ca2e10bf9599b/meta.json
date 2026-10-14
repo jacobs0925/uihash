@@ -1,0 +1,38 @@
+{
+ "repo": "primer-brand",
+ "sha": "97994b8a6a7fb9aa014a3687807ca2e10bf9599b",
+ "parent": "66742111b3d8b6481a0f9a07cf1aa62d3372934d",
+ "date": "2025-10-08",
+ "subject": "Fix Statistic children rendering (#1170)",
+ "pr": "1170",
+ "components": [
+  "Statistic"
+ ],
+ "files": [
+  ".changeset/orange-mails-give.md",
+  "packages/react/src/Statistic/Statistic.features.stories.tsx",
+  "packages/react/src/Statistic/Statistic.module.css",
+  "packages/react/src/Statistic/Statistic.test.tsx",
+  "packages/react/src/Statistic/Statistic.tsx",
+  "packages/react/src/Statistic/Statistic.visual.spec.ts",
+  "packages/react/src/Statistic/Statistic.visual.spec.ts-snapshots/Visual-Comparison-Statistic-Statistic-With-Footnote-1-linux.png",
+  "packages/react/src/Statistic/Statistic.visual.spec.ts-snapshots/Visual-Comparison-Statistic-Statistic-With-Footnote-de-1-linux.png",
+  "packages/react/src/Statistic/Statistic.visual.spec.ts-snapshots/Visual-Comparison-Statistic-Statistic-With-Footnote-es-1-linux.png",
+  "packages/react/src/Statistic/Statistic.visual.spec.ts-snapshots/Visual-Comparison-Statistic-Statistic-With-Footnote-fr-1-linux.png",
+  "packages/react/src/Statistic/Statistic.visual.spec.ts-snapshots/Visual-Comparison-Statistic-Statistic-With-Footnote-ja-1-linux.png",
+  "packages/react/src/Statistic/Statistic.visual.spec.ts-snapshots/Visual-Comparison-Statistic-Statistic-With-Footnote-pt-BR-1-linux.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/Statistic/Statistic.visual.spec.ts-snapshots/Visual-Comparison-Statistic-Statistic-With-Footnote-1-linux.png",
+  "packages/react/src/Statistic/Statistic.visual.spec.ts-snapshots/Visual-Comparison-Statistic-Statistic-With-Footnote-de-1-linux.png",
+  "packages/react/src/Statistic/Statistic.visual.spec.ts-snapshots/Visual-Comparison-Statistic-Statistic-With-Footnote-es-1-linux.png",
+  "packages/react/src/Statistic/Statistic.visual.spec.ts-snapshots/Visual-Comparison-Statistic-Statistic-With-Footnote-fr-1-linux.png",
+  "packages/react/src/Statistic/Statistic.visual.spec.ts-snapshots/Visual-Comparison-Statistic-Statistic-With-Footnote-ja-1-linux.png",
+  "packages/react/src/Statistic/Statistic.visual.spec.ts-snapshots/Visual-Comparison-Statistic-Statistic-With-Footnote-pt-BR-1-linux.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nImproved footnote support to the `Statistic` component.\n\nAlso fixes rendering of more complex `children` in both `Statistic.Heading` and `Statistic.Description`, where it would previously render `[object Object]`.\n",
+ "recipe": 1,
+ "stories": 30,
+ "findings": 7,
+ "ms": 97995
+}

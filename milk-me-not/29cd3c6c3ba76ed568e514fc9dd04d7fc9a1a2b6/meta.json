@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "29cd3c6c3ba76ed568e514fc9dd04d7fc9a1a2b6",
+ "parent": "8633b83968983fd4ca551c4ceec94c46131ce4fb",
+ "date": "2026-03-23",
+ "subject": "Align stats background to token",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/home/TrustIndicators.tsx",
+  "src/index.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42290
+}

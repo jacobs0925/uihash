@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "22d16668720af01938814cedad7988a3f6f35c77",
+ "parent": "3f5453e2a6625b4f692a8a923705cbc204909983",
+ "date": "2026-08-27",
+ "subject": "Put the silhouette back and keep the flight (#213)",
+ "pr": "213",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/contact/FlyingBird.tsx",
+  "src/components/contact/birdFlight.test.ts",
+  "src/components/contact/birdFlight.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 35196
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "07fe1a1093961829eb2222f856d6724bd33a80d1",
+ "parent": "47f74b30b9822f0689266fbcfbbc6aaae0a4f6f7",
+ "date": "2026-03-23",
+ "subject": "feat: Implement the new homepage with hero and trust indicator components, and update Tailwind color definitions to support alpha values.",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx",
+  "src/components/home/TrustIndicators.tsx",
+  "src/pages/Home.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 15,
+ "ms": 59871
+}

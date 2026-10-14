@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "de395f76a55d186f08ba4d6361e8472f66d8e231",
+ "date": "2026-03-23",
+ "pr": null,
+ "title": "Widen hero subtitle box",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 237 later commits"
+}

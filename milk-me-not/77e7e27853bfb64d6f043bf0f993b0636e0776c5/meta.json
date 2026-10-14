@@ -1,0 +1,27 @@
+{
+ "repo": "milk-me-not",
+ "sha": "77e7e27853bfb64d6f043bf0f993b0636e0776c5",
+ "parent": "cdfbd5b0cffcd7b9c836bc9b67b21dbe34871cac",
+ "date": "2026-08-25",
+ "subject": "Let the carton and the picture of the carton be one thing (#177)",
+ "pr": "177",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/feed/FeedImage.tsx",
+  "src/components/feed/FeedItem.test.tsx",
+  "src/components/feed/FeedItem.tsx",
+  "src/components/feed/FeedProductInfo.tsx",
+  "src/components/story/ProductIdentity.test.tsx",
+  "src/components/story/ProductIdentity.tsx",
+  "src/styles/story.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 42580
+}

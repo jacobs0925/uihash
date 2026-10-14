@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "b7de6661bb68aaf042ec9c891fe232d6e53ba416",
+ "date": "2026-08-23",
+ "pr": "139",
+ "title": "Move to Tailwind 4 (#139)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "text-decoration-line: ∅ → underline undone by e86fb384 \"Turn the React Compiler rules on (#128)\"; text-decoration-style: ∅ → solid undone by e86fb384 \"Turn the React Compiler rules on (#128)\"; text-decoration-color: ∅ → rgb(204, 245, 220) undone by e86fb384 \"Turn the React Compiler rules on (#128)\""
+}

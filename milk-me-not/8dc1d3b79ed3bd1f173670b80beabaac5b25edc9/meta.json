@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8dc1d3b79ed3bd1f173670b80beabaac5b25edc9",
+ "parent": "20314b47ddb6e8b1aa3ccf05d0be854246680732",
+ "date": "2026-03-23",
+ "subject": "Fix hero line break spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 44737
+}

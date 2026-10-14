@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "ca4d0667e71f8accf39015ddd420629f9e5fec4a",
+ "date": "2026-03-19",
+ "pr": null,
+ "title": "Make admin controls always visible on mobile",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 266 later commits"
+}

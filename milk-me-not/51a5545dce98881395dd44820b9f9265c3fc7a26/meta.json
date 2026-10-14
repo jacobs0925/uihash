@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "51a5545dce98881395dd44820b9f9265c3fc7a26",
+ "parent": "f520516c15e39c013213c27973798305fcd58b41",
+ "date": "2026-03-24",
+ "subject": "Make Taste Journey button green",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 43531
+}

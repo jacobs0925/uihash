@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "302bfeace7e530f21b23e5e36fb599e15e6f35de",
+ "date": "2026-08-20",
+ "pr": "111",
+ "title": "Read barcodes that are not lying the right way round (#111)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 183 later commits"
+}

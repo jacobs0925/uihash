@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f3e7f61fad79bea078b6b85859844c0ef2e3df49",
+ "parent": "f1ebebb7fec4b9f1334943eb1a0b79530c874689",
+ "date": "2026-08-23",
+ "subject": "Let the countries be brighter than the edge around them (#151)",
+ "pr": "151",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 9,
+ "ms": 38090
+}

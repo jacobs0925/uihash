@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "5fe8f8b6ac1cc2d7fdb1e753928986ca27433c0f",
+ "date": "2026-08-21",
+ "pr": "115",
+ "title": "Scan a carton and land on that carton (#115)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "filter: brightness(1.07) → ∅ undone by 361ce879 \"Show the badges that say which Alpro carton this actually is (#165)\"; background-clip: border-box → ∅ undone by 361ce879 \"Show the badges that say which Alpro carton this actually is (#165)\"; text-decoration-line: underline → ∅ undone by 361ce879 \"Show the badges that say which Alpro carton this actually is (#165)\""
+}

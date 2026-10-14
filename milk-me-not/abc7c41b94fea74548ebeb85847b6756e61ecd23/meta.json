@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "abc7c41b94fea74548ebeb85847b6756e61ecd23",
+ "parent": "eaf10a172f53254d71a65cd802c50cb48cccd768",
+ "date": "2026-02-23",
+ "subject": "Wrap routes in main landmark",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 11,
+ "ms": 43132
+}

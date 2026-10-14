@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "fddf20773f3bb99fc51a37abd284915fb6cda51d",
+ "parent": "1e2ad5df450752ad7776c3e4e35e7d231504e216",
+ "date": "2026-08-27",
+ "subject": "Give Google its own loading state, separate from the password form (#223)",
+ "pr": "223",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/AuthForm.test.tsx",
+  "src/components/auth/AuthForm.tsx",
+  "src/components/auth/AuthFormButtons.tsx",
+  "src/components/auth/GoogleSignInButton.tsx",
+  "src/hooks/auth/useAuthOperations.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 16,
+ "ms": 28131
+}

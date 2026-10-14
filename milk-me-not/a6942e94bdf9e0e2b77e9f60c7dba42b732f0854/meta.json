@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a6942e94bdf9e0e2b77e9f60c7dba42b732f0854",
+ "parent": "dc8d58a991580622c63cb67dff6f223351cbf1ab",
+ "date": "2026-03-23",
+ "subject": "Improve hero stats styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/home/TrustIndicators.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42442
+}

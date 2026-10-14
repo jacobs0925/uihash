@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "942c78744b38c73dce9af454316279e30a9f8773",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Codebase cleanup and fixes",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 306 later commits"
+}

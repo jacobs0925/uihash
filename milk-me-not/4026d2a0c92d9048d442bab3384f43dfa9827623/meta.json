@@ -1,0 +1,32 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4026d2a0c92d9048d442bab3384f43dfa9827623",
+ "parent": "e6e61fad72f800329912a7080e07536e6db18555",
+ "date": "2026-08-27",
+ "subject": "Serve the feed a thumbnail instead of a 3MB phone photo (#225)",
+ "pr": "225",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".gitignore",
+  "CLAUDE.md",
+  "bun.lock",
+  "package.json",
+  "scripts/backfill-image-thumbnails.ts",
+  "src/components/feed/FeedImage.test.tsx",
+  "src/components/feed/FeedImage.tsx",
+  "src/hooks/useCameraOperations.ts",
+  "src/hooks/useMilkTestForm.ts",
+  "src/lib/imageCompression.test.ts",
+  "src/lib/imageCompression.ts",
+  "src/pages/Feed.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 7,
+ "ms": 40457
+}

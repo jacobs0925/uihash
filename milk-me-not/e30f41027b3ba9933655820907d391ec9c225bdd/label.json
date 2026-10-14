@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "e30f41027b3ba9933655820907d391ec9c225bdd",
+ "date": "2026-03-13",
+ "pr": null,
+ "title": "Add rate limit edge function",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px undone by 07fe1a10 \"feat: Implement the new homepage with hero and trust indicator components, and update Tailwind color definitions to support alpha values.\"; transform: ∅ → matrix(1, 0, 0, 1, 0, -4) undone by 07fe1a10 \"feat: Implement the new homepage with hero and trust indicator components, and update Tailwind color definitions to support alpha values.\"; transform: ∅ → matrix(0.978148, 0.207912, -0.207912, 0.978148, 0, 0) undone by 07fe1a10 \"feat: Implement the new homepage with hero and trust indicator components, and update Tailwind color definitions to support alpha values.\""
+}

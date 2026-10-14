@@ -1,0 +1,26 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e110ba154477228ae853e11176e2313f5b2b4cb1",
+ "parent": "5a3d33e5920b9ea0cca3f406d412bb0836052d67",
+ "date": "2026-08-30",
+ "subject": "Make the brand index a table you can sort, filter and read a kind off (#250)",
+ "pr": "250",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/brand/BrandTable.tsx",
+  "src/components/brand/brandSummary.ts",
+  "src/components/brand/brandTableState.test.ts",
+  "src/components/brand/brandTableState.ts",
+  "src/pages/Brands.test.tsx",
+  "src/pages/Brands.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 11,
+ "ms": 45910
+}

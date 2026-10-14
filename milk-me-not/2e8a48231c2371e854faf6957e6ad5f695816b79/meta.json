@@ -1,0 +1,31 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2e8a48231c2371e854faf6957e6ad5f695816b79",
+ "parent": "fddf20773f3bb99fc51a37abd284915fb6cda51d",
+ "date": "2026-08-27",
+ "subject": "Notice when the app breaks in somebody else's browser (#222)",
+ "pr": "222",
+ "components": [
+  "components",
+  "main.tsx"
+ ],
+ "files": [
+  ".env.example",
+  "CLAUDE.md",
+  "bun.lock",
+  "package.json",
+  "public/_headers",
+  "src/components/common/ErrorBoundary.test.tsx",
+  "src/components/common/ErrorBoundary.tsx",
+  "src/lib/errorReporting.test.ts",
+  "src/lib/errorReporting.ts",
+  "src/main.tsx",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25028
+}

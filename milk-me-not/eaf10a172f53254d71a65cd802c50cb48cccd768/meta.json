@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "eaf10a172f53254d71a65cd802c50cb48cccd768",
+ "parent": "26e5598e4b8d9488578deac45387e9b0814424aa",
+ "date": "2026-02-23",
+ "subject": "Use local logo asset",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/logo-96.png",
+  "src/components/menu/Logo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 43585
+}

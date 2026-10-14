@@ -1,0 +1,30 @@
+{
+ "repo": "milk-me-not",
+ "sha": "33e1c6cf5ddb83d666611f7abc4738248d96ac77",
+ "parent": "4a10d53157f579bd56c2702fad84bc41bd840674",
+ "date": "2026-03-23",
+ "subject": "Implement Digital Greenhouse design system",
+ "components": [
+  "components",
+  "index.css",
+  "styles"
+ ],
+ "files": [
+  ".env",
+  "CLAUDE.md",
+  "DESIGN.md",
+  "index.html",
+  "src/components/ui/button.tsx",
+  "src/components/ui/card.tsx",
+  "src/components/ui/input.tsx",
+  "src/index.css",
+  "src/styles/design-tokens.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 28,
+ "ms": 65194
+}

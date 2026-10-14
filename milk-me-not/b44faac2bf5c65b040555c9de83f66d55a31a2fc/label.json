@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "b44faac2bf5c65b040555c9de83f66d55a31a2fc",
+ "date": "2026-02-23",
+ "pr": null,
+ "title": "Improve mobile performance plan",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 378 later commits"
+}

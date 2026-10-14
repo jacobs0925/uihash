@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "3b207f2f65201d7823a9d196380b6f5c0b9913f4",
+ "date": "2026-09-04",
+ "pr": "9875",
+ "title": "EuiHeaderLogo new logoType prop (#9875)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "10 visual-test baselines updated"
+}

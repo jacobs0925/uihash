@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "24623ef2e9b175051e41b46df1cb0a966e6ec5f5",
+ "date": "2026-02-23",
+ "pr": "1254",
+ "title": "CTABanner component updates (#1254)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "41 visual-test baselines updated"
+}

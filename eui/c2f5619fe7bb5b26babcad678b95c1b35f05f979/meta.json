@@ -1,0 +1,24 @@
+{
+ "repo": "eui",
+ "sha": "c2f5619fe7bb5b26babcad678b95c1b35f05f979",
+ "parent": "b2a776e3369c9adff79d6a492c7b4d5a2e4b0b00",
+ "date": "2026-09-16",
+ "subject": "[EuiToolTip] Close tooltip on hover out of aria-disabled elements (#10008)",
+ "pr": "10008",
+ "components": [
+  "tool_tip"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/10008.md",
+  "packages/eui/src/components/date_picker/super_date_picker/super_date_picker.test.tsx",
+  "packages/eui/src/components/tool_tip/tool_tip.spec.tsx",
+  "packages/eui/src/components/tool_tip/tool_tip.stories.tsx",
+  "packages/eui/src/components/tool_tip/tool_tip.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 9,
+ "findings": 0,
+ "ms": 107263
+}

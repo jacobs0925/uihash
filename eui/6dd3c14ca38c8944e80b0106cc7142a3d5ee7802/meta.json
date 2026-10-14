@@ -1,0 +1,52 @@
+{
+ "repo": "eui",
+ "sha": "6dd3c14ca38c8944e80b0106cc7142a3d5ee7802",
+ "parent": "e8f430799270244f5de2c8e4aedb13c6e713235f",
+ "date": "2026-10-13",
+ "subject": "fix: [EuiToast] Update the top highlight to a straight bar (#10197)",
+ "pr": "10197",
+ "components": [
+  "toast"
+ ],
+ "files": [
+  "packages/eui/.vrt/reference/display-euitoast--kitchen-sink-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--kitchen-sink-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast--on-dismiss-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--on-dismiss-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast--playground-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--playground-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast--with-actions-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--with-actions-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast--with-animation-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--with-animation-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlist--playground-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlist--playground-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlistitem--playground-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlistitem--playground-mobile.png",
+  "packages/eui/changelogs/upcoming/10197.md",
+  "packages/eui/src/components/toast/__snapshots__/global_toast_list.test.tsx.snap",
+  "packages/eui/src/components/toast/__snapshots__/toast.test.tsx.snap",
+  "packages/eui/src/components/toast/toast.styles.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/eui/.vrt/reference/display-euitoast--kitchen-sink-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--kitchen-sink-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast--on-dismiss-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--on-dismiss-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast--playground-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--playground-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast--with-actions-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--with-actions-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast--with-animation-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--with-animation-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlist--playground-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlist--playground-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlistitem--playground-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlistitem--playground-mobile.png"
+ ],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 12,
+ "findings": 4,
+ "ms": 126718
+}

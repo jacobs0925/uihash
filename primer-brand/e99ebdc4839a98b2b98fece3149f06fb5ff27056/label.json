@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "e99ebdc4839a98b2b98fece3149f06fb5ff27056",
+ "date": "2026-02-24",
+ "pr": "1262",
+ "title": "Add duo tone highlighting to Hero.Heading (#1262)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "1 visual-test baselines updated"
+}

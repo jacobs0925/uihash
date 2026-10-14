@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "91b89db932cdf3f6b0bbf5560b97de49558ff8ac",
+ "date": "2026-02-24",
+ "pr": "1265",
+ "title": "Hotfix to SubNav (#1265)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "14 visual-test baselines updated"
+}

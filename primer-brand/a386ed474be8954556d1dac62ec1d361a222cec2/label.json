@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "a386ed474be8954556d1dac62ec1d361a222cec2",
+ "date": "2026-03-31",
+ "pr": "1272",
+ "title": "Color system updates (#1272)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "3 visual-test baselines updated"
+}

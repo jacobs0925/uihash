@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "9b201fd5079ef05f1cf776c7ee763f4a1525a43b",
+ "date": "2026-02-21",
+ "pr": "1239",
+ "title": "[Brand Refactor] LogoSuite component updates (#1239)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "34 visual-test baselines updated"
+}

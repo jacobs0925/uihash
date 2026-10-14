@@ -1,0 +1,53 @@
+{
+ "repo": "primer-brand",
+ "sha": "a386ed474be8954556d1dac62ec1d361a222cec2",
+ "parent": "90eab72189f960dfbf1f685cdae23f56afd8a340",
+ "date": "2026-03-31",
+ "subject": "Color system updates (#1272)",
+ "pr": "1272",
+ "components": [
+  "IDE",
+  "forms",
+  "recipes",
+  "river"
+ ],
+ "files": [
+  ".changeset/swift-crystal-meadow.md",
+  "packages/design-tokens/src/tokens/base/colors/dark.json",
+  "packages/design-tokens/src/tokens/base/colors/light.json",
+  "packages/design-tokens/src/tokens/functional/colors/global.json",
+  "packages/design-tokens/src/tokens/functional/components/accordion/colors.js",
+  "packages/design-tokens/src/tokens/functional/components/button/colors.js",
+  "packages/design-tokens/src/tokens/functional/components/cta-banner/colors.js",
+  "packages/design-tokens/src/tokens/functional/components/eyebrow-banner/colors.js",
+  "packages/design-tokens/src/tokens/functional/components/icon/colors.json",
+  "packages/design-tokens/src/tokens/functional/components/inline-link/colors.json",
+  "packages/design-tokens/src/tokens/functional/components/label/colors.json",
+  "packages/design-tokens/src/tokens/functional/components/link/colors.json",
+  "packages/design-tokens/src/tokens/functional/components/pillar/colors.json",
+  "packages/design-tokens/src/tokens/functional/components/tabs/colors.json",
+  "packages/design-tokens/src/tokens/functional/components/testimonial/colors.json",
+  "packages/e2e/playwright.config.js",
+  "packages/react/src/Accordion/Accordion.visual.spec.ts-snapshots/Visual-Comparison-Accordion-Accordion-Toggle-Colors-1-linux.png",
+  "packages/react/src/Footnotes/Footnotes.visual.spec.ts-snapshots/Visual-Comparison-Footnotes-Footnotes-Rivers-With-Citations-1-linux.png",
+  "packages/react/src/IDE/IDE.module.css",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-d89c8-av-Variant-SubNav-Narrow-Anchor-Nav-Variant-1-linux.png",
+  "packages/react/src/forms/ControlGroup/ControlGroup.module.css",
+  "packages/react/src/forms/FormControl/FormControl.module.css",
+  "packages/react/src/forms/Select/Select.module.css",
+  "packages/react/src/forms/TextInput/TextInput.module.css",
+  "packages/react/src/forms/Textarea/Textarea.module.css",
+  "packages/react/src/recipes/FlexTemplate/FlexSection/FlexSection.module.css",
+  "packages/react/src/river/river-shared.module.css"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/Accordion/Accordion.visual.spec.ts-snapshots/Visual-Comparison-Accordion-Accordion-Toggle-Colors-1-linux.png",
+  "packages/react/src/Footnotes/Footnotes.visual.spec.ts-snapshots/Visual-Comparison-Footnotes-Footnotes-Rivers-With-Citations-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-d89c8-av-Variant-SubNav-Narrow-Anchor-Nav-Variant-1-linux.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': minor\n'@primer/brand-primitives': minor\n---\n\nUpdated all base color scales and functional tokens.\n\n#### Design token updates\n\n- Updated all 13 base color scale palettes (`gray`, `blue`, `green`, `yellow`, `orange`, `red`, `purple`, `pink`, `coral`, `lemon`, `lime`, `teal`, `indigo`) in both light and dark modes\n- Updated `black-0` from `#1f2328` to `#000000` in both light and dark modes\n- Updated functional design tokens: `--brand-color-text-default`, `--brand-color-text-muted`, `--brand-color-border-default`, `--brand-color-border-subtle`, `--brand-color-border-muted`, `--brand-color-success-fg`, `--brand-color-success-emphasis`, `--brand-color-accent-primary`, and all hardcoded alpha tokens (`--brand-color-success-muted`, `--brand-color-error-muted`, `--brand-color-neutral-muted`, `--brand-color-neutral-subtle`)\n- Added new functional design tokens: `--brand-color-text-emphasized`, `--brand-color-text-link-rest`, `--brand-color-text-link-pressed`, `--brand-color-text-danger`, `--brand-color-danger-fg`, `--brand-color-danger-emphasis`, `--brand-color-danger-muted`, `--brand-color-danger-subtle`, `--brand-color-canvas-muted`\n- ⚠️ Deprecated `--brand-color-error-*` and `--brand-color-text-error` tokens, which are now aliased to the new `--brand-color-danger-*` and `--brand-color-text-danger` equivalents and will be removed in the future\n- ⚠️ Deprecated `--brand-color-text-subtle`, which is now remapped to the same value as `--brand-color-text-muted` and will be removed in the future\n- Updated `--brand-InlineLink-color-rest` and `--brand-InlineLink-color-pressed` to reference the new `--brand-color-text-link-rest` and `--brand-color-text-link-pressed` functional tokens\n- Updated `--brand-Link-color-accent` to reference the new `--brand-color-text-link-rest` functional token\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 213,
+ "ms": 1027666
+}

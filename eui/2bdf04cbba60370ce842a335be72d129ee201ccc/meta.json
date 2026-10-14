@@ -1,0 +1,24 @@
+{
+ "repo": "eui",
+ "sha": "2bdf04cbba60370ce842a335be72d129ee201ccc",
+ "parent": "6dd3c14ca38c8944e80b0106cc7142a3d5ee7802",
+ "date": "2026-10-13",
+ "subject": "[EuiBadge] Show pointer cursor over the whole clickable badge (#10205)",
+ "pr": "10205",
+ "components": [
+  "badge"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/10205.md",
+  "packages/eui/src/components/badge/__snapshots__/badge.test.tsx.snap",
+  "packages/eui/src/components/badge/badge.styles.ts",
+  "packages/eui/src/components/badge/badge.tsx",
+  "packages/release-cli/kibana-prep-commits"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 15,
+ "findings": 1,
+ "ms": 157558
+}

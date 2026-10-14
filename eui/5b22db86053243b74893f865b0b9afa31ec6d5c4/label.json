@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "5b22db86053243b74893f865b0b9afa31ec6d5c4",
+ "date": "2026-09-03",
+ "pr": "9961",
+ "title": "[EuiFilterGroup][EuiFilterButton] Implement redesign (#9961)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "22 visual-test baselines updated"
+}

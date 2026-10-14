@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "e8a500d130dabeaeefc858af6cce48afa0a97564",
+ "date": "2026-09-17",
+ "pr": "10037",
+ "title": "[EuiFlyout] Tie banner padding to paddingSize (#10037)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "10 visual-test baselines updated"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "58145633b446524e0030c8214d7ef64910d2bf4e",
+ "date": "2026-02-21",
+ "pr": "1256",
+ "title": "Social proof - cards+statistic (#1256)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "21 visual-test baselines updated"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "f8817856b20280b7cf73de5ef45bf75090e1a4ee",
+ "date": "2026-02-23",
+ "pr": "1257",
+ "title": "FAQ and FAQGroup component updates (#1257)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "60 visual-test baselines updated"
+}

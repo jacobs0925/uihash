@@ -1,0 +1,35 @@
+{
+ "repo": "eui",
+ "sha": "4c3f02adc16ec01f0bb4ba7986de1d79cd3dc04e",
+ "parent": "0ccb214aac5793dac240e1adc36c3de7ab569e6b",
+ "date": "2026-09-21",
+ "subject": "Fix description list compressed text style (#10036)",
+ "pr": "10036",
+ "components": [
+  "description_list"
+ ],
+ "files": [
+  "packages/eui/.vrt/reference/tabular-content-euidatagrid-toolbarvisibility-prop--keyboard-shortcuts-desktop.png",
+  "packages/eui/.vrt/reference/tabular-content-euidatagrid-toolbarvisibility-prop--keyboard-shortcuts-mobile.png",
+  "packages/eui/changelogs/upcoming/10036.md",
+  "packages/eui/src/components/datagrid/controls/__snapshots__/keyboard_shortcuts.test.tsx.snap",
+  "packages/eui/src/components/description_list/__snapshots__/description_list_description.test.tsx.snap",
+  "packages/eui/src/components/description_list/__snapshots__/description_list_title.test.tsx.snap",
+  "packages/eui/src/components/description_list/description_list_description.styles.ts",
+  "packages/eui/src/components/description_list/description_list_description.test.tsx",
+  "packages/eui/src/components/description_list/description_list_description.tsx",
+  "packages/eui/src/components/description_list/description_list_title.styles.ts",
+  "packages/eui/src/components/description_list/description_list_title.test.tsx",
+  "packages/eui/src/components/description_list/description_list_title.tsx",
+  "packages/release-cli/kibana-prep-commits"
+ ],
+ "snapshotsUpdated": [
+  "packages/eui/.vrt/reference/tabular-content-euidatagrid-toolbarvisibility-prop--keyboard-shortcuts-desktop.png",
+  "packages/eui/.vrt/reference/tabular-content-euidatagrid-toolbarvisibility-prop--keyboard-shortcuts-mobile.png"
+ ],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 9,
+ "findings": 0,
+ "ms": 108372
+}

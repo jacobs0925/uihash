@@ -1,0 +1,42 @@
+{
+ "repo": "primer-brand",
+ "sha": "3c08fc16bd5302953b647f5e9903e1efa1ebfda7",
+ "parent": "afc6dd6249c4232d29dc9f40aefacc2df139d681",
+ "date": "2026-04-09",
+ "subject": "Update river breakout trailing component examples (#1306)",
+ "pr": "1306",
+ "components": [
+  "river"
+ ],
+ "files": [
+  ".changeset/mighty-glasses-carry.md",
+  "package-lock.json",
+  "packages/react/src/Statistic/Statistic.examples.stories.tsx",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.features.stories.tsx",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.gridline.stories.tsx",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.stories.tsx",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.visual.spec.ts",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakout-RiverBreakout-GridLine-variant-1-darwin.png",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakout-RiverBreakout-GridLine-variant-cards-trailing-component-1-darwin.png",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakout-RiverBreakout-GridLine-variant-statistics-trailing-component-1-darwin.png",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakout-RiverBreakout-GridLine-variant-testimonial-trailing-component-1-darwin.png",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakout-RiverBreakout-GridLine-variant-with-background-1-darwin.png",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakout-RiverBreakout-Highlighted-Portion-1-darwin.png",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakout-RiverBreakout-Without-Trailing-Component-1-darwin.png",
+  "packages/react/src/river/river-shared.module.css"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/river/RiverBreakout/RiverBreakout.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakout-RiverBreakout-GridLine-variant-1-darwin.png",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakout-RiverBreakout-GridLine-variant-cards-trailing-component-1-darwin.png",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakout-RiverBreakout-GridLine-variant-statistics-trailing-component-1-darwin.png",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakout-RiverBreakout-GridLine-variant-testimonial-trailing-component-1-darwin.png",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakout-RiverBreakout-GridLine-variant-with-background-1-darwin.png",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakout-RiverBreakout-Highlighted-Portion-1-darwin.png",
+  "packages/react/src/river/RiverBreakout/RiverBreakout.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakout-RiverBreakout-Without-Trailing-Component-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nUpdate `RiverBreakout.Visual` image to appear bottom-aligned when `hasBackground` is set.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 1,
+ "ms": 217421
+}

@@ -1,0 +1,43 @@
+{
+ "repo": "eui",
+ "sha": "e8a500d130dabeaeefc858af6cce48afa0a97564",
+ "parent": "5cffa2c328da7d15b3a97ee43ed21eeb243b8f53",
+ "date": "2026-09-17",
+ "subject": "[EuiFlyout] Tie banner padding to paddingSize (#10037)",
+ "pr": "10037",
+ "components": [
+  "flyout"
+ ],
+ "files": [
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--high-contrast-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--high-contrast-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-no-header-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-no-header-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-no-menu-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-no-menu-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutbody--playground-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutbody--playground-mobile.png",
+  "packages/eui/changelogs/upcoming/10037.md",
+  "packages/eui/src/components/flyout/flyout.stories.tsx",
+  "packages/eui/src/components/flyout/flyout_body.styles.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--high-contrast-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--high-contrast-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-no-header-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-no-header-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-no-menu-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-no-menu-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutbody--playground-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutbody--playground-mobile.png"
+ ],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 21,
+ "findings": 2,
+ "ms": 166166
+}

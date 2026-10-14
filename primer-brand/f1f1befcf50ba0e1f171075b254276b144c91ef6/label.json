@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "f1f1befcf50ba0e1f171075b254276b144c91ef6",
+ "date": "2026-03-12",
+ "pr": "1284",
+ "title": "SubNav spacing tweaks (#1284)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "3 visual-test baselines updated"
+}

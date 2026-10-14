@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "9e400b58364ed4177ab404bd8439e9cdcf383304",
+ "date": "2026-03-11",
+ "pr": "1278",
+ "title": "Add compact tiles icon animation (#1278)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Add subtle animation to `Tiles` component compact variant icons"
+}

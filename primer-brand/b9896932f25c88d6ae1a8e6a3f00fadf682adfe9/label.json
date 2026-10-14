@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "b9896932f25c88d6ae1a8e6a3f00fadf682adfe9",
+ "date": "2026-04-07",
+ "pr": "1291",
+ "title": "SectionIntroStacked component updates (#1291)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "16 visual-test baselines updated"
+}

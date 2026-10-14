@@ -1,0 +1,48 @@
+{
+ "repo": "primer-brand",
+ "sha": "b6966c835df36b23813ac4745b80f8cef2b75065",
+ "parent": "ff4c8d35db9bf311abfb40396bf039259512a34f",
+ "date": "2026-02-25",
+ "subject": "Add inline `<code>` support to Card, Rver and CTA banner components (#1266)",
+ "pr": "1266",
+ "components": [
+  "CTABanner",
+  "Card",
+  "river"
+ ],
+ "files": [
+  ".changeset/sharp-kiwis-sneeze.md",
+  "packages/react/src/CTABanner/CTABanner.features.stories.tsx",
+  "packages/react/src/CTABanner/CTABanner.module.css",
+  "packages/react/src/CTABanner/CTABanner.module.css.d.ts",
+  "packages/react/src/CTABanner/CTABanner.tsx",
+  "packages/react/src/CTABanner/CTABanner.visual.spec.ts",
+  "packages/react/src/CTABanner/CTABanner.visual.spec.ts-snapshots/Visual-Comparison-CTABanner-CTABanner-With-Inline-Code-Element-1-linux.png",
+  "packages/react/src/Card/Card.features.stories.tsx",
+  "packages/react/src/Card/Card.module.css",
+  "packages/react/src/Card/Card.visual.spec.ts",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-With-Inline-Code-Element-1-linux.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-With-inline-code-element-non-standard-size-overrides-1-linux.png",
+  "packages/react/src/Hero/Hero.visual.spec.ts-snapshots/Visual-Comparison-Hero-Hero-Image-carousel-1-linux.png",
+  "packages/react/src/river/River/River.features.stories.tsx",
+  "packages/react/src/river/River/River.tsx",
+  "packages/react/src/river/River/River.visual.spec.ts",
+  "packages/react/src/river/River/River.visual.spec.ts-snapshots/Visual-Comparison-River-River-With-Inline-Code-Element-Custom-Sizes-1-linux.png",
+  "packages/react/src/river/River/River.visual.spec.ts-snapshots/Visual-Comparison-River-River-With-inline-code-element-non-standard-size-overrides-1-linux.png",
+  "packages/react/src/river/river-shared.module.css",
+  "packages/react/src/river/river-shared.module.css.d.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/CTABanner/CTABanner.visual.spec.ts-snapshots/Visual-Comparison-CTABanner-CTABanner-With-Inline-Code-Element-1-linux.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-With-Inline-Code-Element-1-linux.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-With-inline-code-element-non-standard-size-overrides-1-linux.png",
+  "packages/react/src/Hero/Hero.visual.spec.ts-snapshots/Visual-Comparison-Hero-Hero-Image-carousel-1-linux.png",
+  "packages/react/src/river/River/River.visual.spec.ts-snapshots/Visual-Comparison-River-River-With-Inline-Code-Element-Custom-Sizes-1-linux.png",
+  "packages/react/src/river/River/River.visual.spec.ts-snapshots/Visual-Comparison-River-River-With-inline-code-element-non-standard-size-overrides-1-linux.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nImproved inline `<code>` support and appearance in `Card`, `River` and `CTABanner` components.\n\n```jsx\n<Card>\n  <Card.Heading>\n    Use any <code>/model</code> parallelize with <code>/fleet</code>\n  </Card.Heading>\n  <Card.Description>\n    Use <code>/model</code> to switch, then <code>/fleet</code> to execute in parallel.\n  </Card.Description>\n</Card>\n```\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 13,
+ "ms": 244188
+}

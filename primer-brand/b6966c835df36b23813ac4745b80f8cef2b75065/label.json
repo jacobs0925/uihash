@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "b6966c835df36b23813ac4745b80f8cef2b75065",
+ "date": "2026-02-25",
+ "pr": "1266",
+ "title": "Add inline `<code>` support to Card, Rver and CTA banner components (#1266)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "6 visual-test baselines updated"
+}

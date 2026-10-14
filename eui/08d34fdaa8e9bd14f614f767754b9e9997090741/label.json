@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "08d34fdaa8e9bd14f614f767754b9e9997090741",
+ "date": "2026-09-21",
+ "pr": "9996",
+ "title": "[Theme] Implement redesign changes (#9996)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "1147 visual-test baselines updated"
+}

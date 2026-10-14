@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "6dd3c14ca38c8944e80b0106cc7142a3d5ee7802",
+ "date": "2026-10-13",
+ "pr": "10197",
+ "title": "fix: [EuiToast] Update the top highlight to a straight bar (#10197)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "14 visual-test baselines updated"
+}

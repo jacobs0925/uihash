@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "3c08fc16bd5302953b647f5e9903e1efa1ebfda7",
+ "date": "2026-04-09",
+ "pr": "1306",
+ "title": "Update river breakout trailing component examples (#1306)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "7 visual-test baselines updated"
+}

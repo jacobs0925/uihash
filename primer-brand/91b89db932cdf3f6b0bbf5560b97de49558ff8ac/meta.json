@@ -1,0 +1,49 @@
+{
+ "repo": "primer-brand",
+ "sha": "91b89db932cdf3f6b0bbf5560b97de49558ff8ac",
+ "parent": "24623ef2e9b175051e41b46df1cb0a966e6ec5f5",
+ "date": "2026-02-24",
+ "subject": "Hotfix to SubNav (#1265)",
+ "pr": "1265",
+ "components": [
+  "SubNav"
+ ],
+ "files": [
+  "packages/react/src/SubNav/SubNav.module.css",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-0f54f--Narrow-Open-SubNav-Sub-Heading-Narrow-Open-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-6184a--SubNav-Narrow-Anchor-Nav-Variant-Menu-Open-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-e0f45-en-SubNav-Narrow-Dropdown-Variant-Menu-Open-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Active-Sub-Heading-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Anchor-Nav-Default-Link-Variant-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Default-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Dropdown-Variant-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Forwarded-Refs-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Full-Width-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Keyboard-Navigation-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Longer-Heading-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Sub-Heading-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-With-Shadow-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-With-no-aria-current-set-1-linux.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-0f54f--Narrow-Open-SubNav-Sub-Heading-Narrow-Open-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-6184a--SubNav-Narrow-Anchor-Nav-Variant-Menu-Open-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-e0f45-en-SubNav-Narrow-Dropdown-Variant-Menu-Open-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Active-Sub-Heading-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Anchor-Nav-Default-Link-Variant-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Default-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Dropdown-Variant-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Forwarded-Refs-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Full-Width-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Keyboard-Navigation-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Longer-Heading-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Sub-Heading-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-With-Shadow-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-With-no-aria-current-set-1-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 8,
+ "ms": 220066
+}

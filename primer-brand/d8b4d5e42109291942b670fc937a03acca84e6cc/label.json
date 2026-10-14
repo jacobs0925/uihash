@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "d8b4d5e42109291942b670fc937a03acca84e6cc",
+ "date": "2026-02-25",
+ "pr": "1231",
+ "title": "River component updates (#1231)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "81 visual-test baselines updated"
+}

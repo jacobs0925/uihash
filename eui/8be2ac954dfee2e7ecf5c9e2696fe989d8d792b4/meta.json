@@ -1,0 +1,35 @@
+{
+ "repo": "eui",
+ "sha": "8be2ac954dfee2e7ecf5c9e2696fe989d8d792b4",
+ "parent": "7d763f0f306ed7cc7f1cf8f4f346dc13fe7f5b5c",
+ "date": "2026-10-05",
+ "subject": "[EuiSelectable] Support `hasAriaDisabled` prop on options (#10090)",
+ "pr": "10090",
+ "components": [
+  "list_item_layout"
+ ],
+ "files": [
+  "packages/eui/.vrt/reference/forms-euiselectable--disabled-with-tooltip-desktop.png",
+  "packages/eui/.vrt/reference/forms-euiselectable--disabled-with-tooltip-mobile.png",
+  "packages/eui/changelogs/upcoming/10090.md",
+  "packages/eui/src/components/list_item_layout/_list_item_layout.styles.ts",
+  "packages/eui/src/components/list_item_layout/_list_item_layout.tsx",
+  "packages/eui/src/components/selectable/selectable.spec.tsx",
+  "packages/eui/src/components/selectable/selectable.stories.tsx",
+  "packages/eui/src/components/selectable/selectable.tsx",
+  "packages/eui/src/components/selectable/selectable_list/selectable_list.tsx",
+  "packages/eui/src/components/selectable/selectable_list/selectable_list_item.test.tsx",
+  "packages/eui/src/components/selectable/selectable_list/selectable_list_item.tsx",
+  "packages/eui/src/components/selectable/selectable_option.tsx",
+  "packages/website/docs/components/forms/selection/selectable.mdx"
+ ],
+ "snapshotsUpdated": [
+  "packages/eui/.vrt/reference/forms-euiselectable--disabled-with-tooltip-desktop.png",
+  "packages/eui/.vrt/reference/forms-euiselectable--disabled-with-tooltip-mobile.png"
+ ],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 30,
+ "findings": 0,
+ "ms": 144180
+}

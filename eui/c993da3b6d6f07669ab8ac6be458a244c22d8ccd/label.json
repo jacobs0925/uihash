@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "c993da3b6d6f07669ab8ac6be458a244c22d8ccd",
+ "date": "2026-10-05",
+ "pr": "10103",
+ "title": "Increase height to match Kibana AppHeader compact mode (#10103)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "14 visual-test baselines updated"
+}

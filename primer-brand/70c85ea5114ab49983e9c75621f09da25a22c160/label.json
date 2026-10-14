@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "70c85ea5114ab49983e9c75621f09da25a22c160",
+ "date": "2026-02-25",
+ "pr": "1268",
+ "title": "Updates to Hero, CTABanner and Logosuite (#1268)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "93 visual-test baselines updated"
+}

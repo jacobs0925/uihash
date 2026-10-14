@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "661ae42ed4f95338615d03927aa0f6c9fadbe78d",
+ "date": "2026-02-05",
+ "pr": "1220",
+ "title": "Hero component updates (#1220)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "108 visual-test baselines updated"
+}

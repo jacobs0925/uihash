@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "9783702380855bcb2af2984a4c6972e89db0779b",
+ "date": "2026-04-15",
+ "pr": "1314",
+ "title": "[Brand Refactor] Pricing options update (#1314)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "34 visual-test baselines updated"
+}

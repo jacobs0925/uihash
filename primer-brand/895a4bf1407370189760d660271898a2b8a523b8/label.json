@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "895a4bf1407370189760d660271898a2b8a523b8",
+ "date": "2026-01-15",
+ "pr": "1223",
+ "title": "Fix incorrect text-wrapping in the SubNav.SubHeading component on Safari (#1223)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "3 visual-test baselines updated"
+}

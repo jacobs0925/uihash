@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "3930164519d04a80f33f2b174daf5ab5c070180f",
+ "date": "2026-01-13",
+ "pr": "1214",
+ "title": "[A11Y] Increase line number contrast in IDE (#1214)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Increase `IDE` component line numbers contrast"
+}

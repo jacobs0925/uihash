@@ -1,0 +1,50 @@
+{
+ "repo": "eui",
+ "sha": "c993da3b6d6f07669ab8ac6be458a244c22d8ccd",
+ "parent": "5b3a13f3392590c20a3e515de3ab5c1d164ba735",
+ "date": "2026-10-05",
+ "subject": "Increase height to match Kibana AppHeader compact mode (#10103)",
+ "pr": "10103",
+ "components": [
+  "flyout"
+ ],
+ "files": [
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--playground-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--playground-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--push-flyouts-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--push-flyouts-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-no-header-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-no-header-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--action-states-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--action-states-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--pagination-example-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--pagination-example-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--playground-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--playground-mobile.png",
+  "packages/eui/changelogs/upcoming/10103.md",
+  "packages/eui/src/components/flyout/flyout_menu/flyout_menu.styles.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--playground-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--playground-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--push-flyouts-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--push-flyouts-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-no-header-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--with-banner-no-header-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--action-states-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--action-states-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--pagination-example-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--pagination-example-mobile.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--playground-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--playground-mobile.png"
+ ],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 30,
+ "findings": 3,
+ "ms": 204578
+}

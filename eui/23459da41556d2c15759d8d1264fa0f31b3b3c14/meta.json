@@ -1,0 +1,28 @@
+{
+ "repo": "eui",
+ "sha": "23459da41556d2c15759d8d1264fa0f31b3b3c14",
+ "parent": "e68a39fe7273fd732063bcd22f06697eac4661fe",
+ "date": "2026-10-07",
+ "subject": "[Perf] Memoize EuiProgress, EuiToken and EuiCard styles (#10183)",
+ "pr": "10183",
+ "components": [
+  "card",
+  "progress",
+  "token"
+ ],
+ "files": [
+  "packages/eui/src/components/card/card.styles.ts",
+  "packages/eui/src/components/card/card.tsx",
+  "packages/eui/src/components/code/utils.tsx",
+  "packages/eui/src/components/progress/progress.styles.ts",
+  "packages/eui/src/components/progress/progress.tsx",
+  "packages/eui/src/components/token/token.styles.ts",
+  "packages/eui/src/components/token/token.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 21,
+ "findings": 0,
+ "ms": 125340
+}

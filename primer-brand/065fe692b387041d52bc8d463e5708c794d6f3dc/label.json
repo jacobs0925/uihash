@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "065fe692b387041d52bc8d463e5708c794d6f3dc",
+ "date": "2025-12-17",
+ "pr": "1192",
+ "title": "[Brand Refactor] Type scale updates (#1192)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "3669 visual-test baselines updated"
+}

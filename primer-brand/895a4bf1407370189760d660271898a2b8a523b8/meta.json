@@ -1,0 +1,29 @@
+{
+ "repo": "primer-brand",
+ "sha": "895a4bf1407370189760d660271898a2b8a523b8",
+ "parent": "7a69d04a5133647675ead3cc67f713e3f78a47b3",
+ "date": "2026-01-15",
+ "subject": "Fix incorrect text-wrapping in the SubNav.SubHeading component on Safari (#1223)",
+ "pr": "1223",
+ "components": [
+  "SubNav"
+ ],
+ "files": [
+  ".changeset/tasty-trees-complain.md",
+  "packages/react/src/SubNav/SubNav.features.stories.tsx",
+  "packages/react/src/SubNav/SubNav.module.css",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-0f54f--Narrow-Open-SubNav-Sub-Heading-Narrow-Open-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-for-Sub-Heading-Narrow-SubNav-Sub-Heading-Narrow-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Sub-Heading-1-linux.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-0f54f--Narrow-Open-SubNav-Sub-Heading-Narrow-Open-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-for-Sub-Heading-Narrow-SubNav-Sub-Heading-Narrow-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-SubNav-Sub-Heading-1-linux.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nFixed incorrect text wrapping bug in `SubNav.SubHeading` on Safari browsers.\n",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 5,
+ "ms": 216838
+}

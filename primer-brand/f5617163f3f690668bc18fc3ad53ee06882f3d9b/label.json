@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "f5617163f3f690668bc18fc3ad53ee06882f3d9b",
+ "date": "2026-04-06",
+ "pr": "1301",
+ "title": "Upgrade VRT - run natively on Mac OS (#1301)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "1396 visual-test baselines updated"
+}

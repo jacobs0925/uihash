@@ -1,0 +1,38 @@
+{
+ "repo": "eui",
+ "sha": "6d7ca1de82cc7e4be62586c9f8390643791ad293",
+ "parent": "9213f218f9f4f7ed77cb45624a89f2cd02291e2b",
+ "date": "2026-10-05",
+ "subject": "Form row label append default text style (#10067)",
+ "pr": "10067",
+ "components": [
+  "form"
+ ],
+ "files": [
+  "packages/eui/.vrt/reference/forms-euiform-euiformrow-subcomponents-euiformlabelappend--custom-content-desktop.png",
+  "packages/eui/.vrt/reference/forms-euiform-euiformrow-subcomponents-euiformlabelappend--custom-content-mobile.png",
+  "packages/eui/.vrt/reference/forms-euiform-euiformrow-subcomponents-euiformlabelappend--playground-desktop.png",
+  "packages/eui/.vrt/reference/forms-euiform-euiformrow-subcomponents-euiformlabelappend--playground-mobile.png",
+  "packages/eui/changelogs/upcoming/10067.md",
+  "packages/eui/src/components/form/form_label_append/__snapshots__/form_label_append.test.tsx.snap",
+  "packages/eui/src/components/form/form_label_append/form_label_append.stories.tsx",
+  "packages/eui/src/components/form/form_label_append/form_label_append.styles.ts",
+  "packages/eui/src/components/form/form_label_append/form_label_append.test.tsx",
+  "packages/eui/src/components/form/form_label_append/form_label_append.tsx",
+  "packages/eui/src/components/form/form_label_append/index.ts",
+  "packages/eui/src/components/form/form_row/__snapshots__/form_row.test.tsx.snap",
+  "packages/eui/src/components/form/form_row/form_row.tsx",
+  "packages/website/docs/components/forms/layouts/row.mdx"
+ ],
+ "snapshotsUpdated": [
+  "packages/eui/.vrt/reference/forms-euiform-euiformrow-subcomponents-euiformlabelappend--custom-content-desktop.png",
+  "packages/eui/.vrt/reference/forms-euiform-euiformrow-subcomponents-euiformlabelappend--custom-content-mobile.png",
+  "packages/eui/.vrt/reference/forms-euiform-euiformrow-subcomponents-euiformlabelappend--playground-desktop.png",
+  "packages/eui/.vrt/reference/forms-euiform-euiformrow-subcomponents-euiformlabelappend--playground-mobile.png"
+ ],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 72,
+ "findings": 0,
+ "ms": 202369
+}

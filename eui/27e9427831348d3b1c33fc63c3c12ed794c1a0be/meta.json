@@ -1,0 +1,37 @@
+{
+ "repo": "eui",
+ "sha": "27e9427831348d3b1c33fc63c3c12ed794c1a0be",
+ "parent": "a9cce92c54551221c23f6bac8e97956ce261f866",
+ "date": "2026-09-08",
+ "subject": "[EuiDataGrid] Fix copy/paste column alignment with control columns (#9954)",
+ "pr": "9954",
+ "components": [
+  "datagrid"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9954.md",
+  "packages/eui/cypress/support/copy/select_and_copy.tsx",
+  "packages/eui/cypress/support/index.d.ts",
+  "packages/eui/src/components/datagrid/__snapshots__/data_grid.test.tsx.snap",
+  "packages/eui/src/components/datagrid/body/cell/data_grid_cell.styles.ts",
+  "packages/eui/src/components/datagrid/body/cell/data_grid_cell.tsx",
+  "packages/eui/src/components/datagrid/body/cell/data_grid_cell_wrapper.tsx",
+  "packages/eui/src/components/datagrid/body/footer/data_grid_footer_row.tsx",
+  "packages/eui/src/components/datagrid/body/header/data_grid_control_header_cell.test.tsx",
+  "packages/eui/src/components/datagrid/body/header/data_grid_control_header_cell.tsx",
+  "packages/eui/src/components/datagrid/body/header/data_grid_header_cell.test.tsx",
+  "packages/eui/src/components/datagrid/body/header/data_grid_header_cell.tsx",
+  "packages/eui/src/components/datagrid/body/header/data_grid_header_cell_wrapper.styles.ts",
+  "packages/eui/src/components/datagrid/body/header/data_grid_header_cell_wrapper.test.tsx",
+  "packages/eui/src/components/datagrid/body/header/data_grid_header_cell_wrapper.tsx",
+  "packages/eui/src/components/datagrid/data_grid.spec.tsx",
+  "packages/eui/src/components/datagrid/data_grid_copy.test.tsx",
+  "packages/eui/src/components/datagrid/data_grid_types.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 72,
+ "findings": 11,
+ "ms": 310331
+}

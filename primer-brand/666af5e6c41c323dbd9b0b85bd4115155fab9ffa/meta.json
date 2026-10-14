@@ -1,0 +1,26 @@
+{
+ "repo": "primer-brand",
+ "sha": "666af5e6c41c323dbd9b0b85bd4115155fab9ffa",
+ "parent": "32d8b4da95bb8d1d698396a0f205e7885d7bb2a2",
+ "date": "2026-02-17",
+ "subject": "Add custom Hero example (#1253)",
+ "pr": "1253",
+ "components": [
+  "Hero"
+ ],
+ "files": [
+  "packages/react/src/Hero/Hero.examples.stories.tsx",
+  "packages/react/src/Hero/Hero.stories.module.css",
+  "packages/react/src/Hero/Hero.stories.module.css.d.ts",
+  "packages/react/src/Hero/Hero.visual.spec.ts",
+  "packages/react/src/Hero/Hero.visual.spec.ts-snapshots/Visual-Comparison-Hero-Hero-With-a-custom-input-1-linux.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/Hero/Hero.visual.spec.ts-snapshots/Visual-Comparison-Hero-Hero-With-a-custom-input-1-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 0,
+ "ms": 198629
+}

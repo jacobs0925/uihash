@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "fe2589d560a43e88b9fd528fb703eca5ede86258",
+ "date": "2026-04-12",
+ "pr": "1311",
+ "title": "Brand Refactor of section intro component (#1311)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "18 visual-test baselines updated"
+}

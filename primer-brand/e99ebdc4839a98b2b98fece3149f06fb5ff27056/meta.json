@@ -1,0 +1,26 @@
+{
+ "repo": "primer-brand",
+ "sha": "e99ebdc4839a98b2b98fece3149f06fb5ff27056",
+ "parent": "91b89db932cdf3f6b0bbf5560b97de49558ff8ac",
+ "date": "2026-02-24",
+ "subject": "Add duo tone highlighting to Hero.Heading (#1262)",
+ "pr": "1262",
+ "components": [
+  "Hero"
+ ],
+ "files": [
+  ".changeset/sour-rockets-drum.md",
+  "packages/react/src/Hero/Hero.examples.stories.tsx",
+  "packages/react/src/Hero/Hero.module.css",
+  "packages/react/src/Hero/Hero.test.tsx",
+  "packages/react/src/Hero/Hero.visual.spec.ts-snapshots/Visual-Comparison-Hero-Hero-Image-carousel-1-linux.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/Hero/Hero.visual.spec.ts-snapshots/Visual-Comparison-Hero-Hero-Image-carousel-1-linux.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nAdd duo tone support to `Hero.Heading`. Highlighted text now defaults to using the `--brand-color-accent-primary` color and normalizes the browsers default typography styles.\n\n```jsx\n<Hero>\n  <Hero.Heading>\n    Project planning <b>for developers</b>\n  </Hero.Heading>\n</Hero>\n```\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 2,
+ "ms": 169547
+}

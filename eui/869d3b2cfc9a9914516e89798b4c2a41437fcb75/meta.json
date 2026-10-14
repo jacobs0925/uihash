@@ -1,0 +1,21 @@
+{
+ "repo": "eui",
+ "sha": "869d3b2cfc9a9914516e89798b4c2a41437fcb75",
+ "parent": "c2f5619fe7bb5b26babcad678b95c1b35f05f979",
+ "date": "2026-09-17",
+ "subject": "[EuiToolTip] Follow-up fix for the disabled selector (#10043)",
+ "pr": "10043",
+ "components": [
+  "tool_tip"
+ ],
+ "files": [
+  "packages/eui/src/components/tool_tip/tool_tip.styles.ts",
+  "packages/release-cli/kibana-prep-commits"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 12,
+ "findings": 0,
+ "ms": 110016
+}

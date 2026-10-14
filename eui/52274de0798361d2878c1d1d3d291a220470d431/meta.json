@@ -1,0 +1,40 @@
+{
+ "repo": "eui",
+ "sha": "52274de0798361d2878c1d1d3d291a220470d431",
+ "parent": "f6bb0e1f34db235c9c644e1487a047cb5d8156c2",
+ "date": "2026-09-03",
+ "subject": "[EuiSplitButton] Update disabled style (#9986)",
+ "pr": "9986",
+ "components": [
+  "button"
+ ],
+ "files": [
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--dark-mode-desktop.png",
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--dark-mode-mobile.png",
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--high-contrast-mode-dark-desktop.png",
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--high-contrast-mode-dark-mobile.png",
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--high-contrast-mode-desktop.png",
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--high-contrast-mode-mobile.png",
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--kitchen-sink-desktop.png",
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--kitchen-sink-mobile.png",
+  "packages/eui/changelogs/upcoming/9986.md",
+  "packages/eui/src/components/button/split_button/__snapshots__/split_button.test.tsx.snap",
+  "packages/eui/src/components/button/split_button/split_button.styles.ts",
+  "packages/release-cli/kibana-prep-commits"
+ ],
+ "snapshotsUpdated": [
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--dark-mode-desktop.png",
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--dark-mode-mobile.png",
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--high-contrast-mode-dark-desktop.png",
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--high-contrast-mode-dark-mobile.png",
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--high-contrast-mode-desktop.png",
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--high-contrast-mode-mobile.png",
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--kitchen-sink-desktop.png",
+  "packages/eui/.vrt/reference/navigation-euisplitbutton--kitchen-sink-mobile.png"
+ ],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 72,
+ "findings": 0,
+ "ms": 207488
+}

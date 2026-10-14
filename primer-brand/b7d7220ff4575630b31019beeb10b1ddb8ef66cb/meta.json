@@ -1,0 +1,24 @@
+{
+ "repo": "primer-brand",
+ "sha": "b7d7220ff4575630b31019beeb10b1ddb8ef66cb",
+ "parent": "8facc01d047288ff21c2d2add5b757501545f136",
+ "date": "2026-02-19",
+ "subject": "Fix subdomain nav bar docs accessibility issue (#1259)",
+ "pr": "1259",
+ "components": [
+  "SubdomainNavBar"
+ ],
+ "files": [
+  ".changeset/light-shirts-begin.md",
+  "apps/next-docs/content/components/SubdomainNavBar/index.mdx",
+  "package-lock.json",
+  "package.json",
+  "packages/react/src/SubdomainNavBar/SubdomainNavBar.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\n- Remove 100vw width from `SubdomainNavBar.Search` component, as it was causing visual overflow on narrow viewports.\n\n- Applies `position: relative` to non-fixed `SubdomainNavBar` container to properly contain `absolute` children.\n",
+ "recipe": 1,
+ "stories": 57,
+ "findings": 19,
+ "ms": 325076
+}

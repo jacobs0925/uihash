@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "39772c1de0efcdbb18a1253511591f83531a5862",
+ "date": "2026-02-23",
+ "pr": "1248",
+ "title": "SubNav refactor (#1248)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "top: ∅ → 1px undone by 91b89db9 \"Hotfix to SubNav (#1265)\"; top: ∅ → 1px undone by 91b89db9 \"Hotfix to SubNav (#1265)\"; top: ∅ → 1px undone by 91b89db9 \"Hotfix to SubNav (#1265)\""
+}

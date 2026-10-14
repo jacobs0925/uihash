@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "b7d7220ff4575630b31019beeb10b1ddb8ef66cb",
+ "date": "2026-02-19",
+ "pr": "1259",
+ "title": "Fix subdomain nav bar docs accessibility issue (#1259)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "- Remove 100vw width from `SubdomainNavBar.Search` component, as it was causing visual overflow on narrow viewports.\n\n- Applies `position: relative` to non-fixed `SubdomainNavBar` container to properly contain `absolute` children."
+}

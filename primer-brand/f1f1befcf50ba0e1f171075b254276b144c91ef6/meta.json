@@ -1,0 +1,28 @@
+{
+ "repo": "primer-brand",
+ "sha": "f1f1befcf50ba0e1f171075b254276b144c91ef6",
+ "parent": "7e95e595a761287279307bc0c28e43c7b31c0c47",
+ "date": "2026-03-12",
+ "subject": "SubNav spacing tweaks (#1284)",
+ "pr": "1284",
+ "components": [
+  "SubNav"
+ ],
+ "files": [
+  ".changeset/fuzzy-trains-walk.md",
+  "packages/react/src/SubNav/SubNav.module.css",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-0f54f--Narrow-Open-SubNav-Sub-Heading-Narrow-Open-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-for-Sub-Heading-Narrow-SubNav-Sub-Heading-Narrow-1-linux.png",
+  "packages/react/src/recipes/FlexTemplate/examples/examples.visual.spec.ts-snapshots/Visual-Comparison-examples-examples-Agents-1-linux.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-0f54f--Narrow-Open-SubNav-Sub-Heading-Narrow-Open-1-linux.png",
+  "packages/react/src/SubNav/SubNav.visual.spec.ts-snapshots/Visual-Comparison-SubNav-Mobile-viewport-test-for-Sub-Heading-Narrow-SubNav-Sub-Heading-Narrow-1-linux.png",
+  "packages/react/src/recipes/FlexTemplate/examples/examples.visual.spec.ts-snapshots/Visual-Comparison-examples-examples-Agents-1-linux.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nAdjusted `SubNav` item spacing\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 14,
+ "ms": 266866
+}

@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "b5e10f6e50708865535e4430014d7ef0ca7b01aa",
+ "date": "2026-07-14",
+ "pr": "9803",
+ "title": "[EuiFlyout] Reduce outer border width for push flyouts (#9803)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "2 visual-test baselines updated"
+}

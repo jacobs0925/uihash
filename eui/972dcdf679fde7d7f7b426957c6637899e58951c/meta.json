@@ -1,0 +1,25 @@
+{
+ "repo": "eui",
+ "sha": "972dcdf679fde7d7f7b426957c6637899e58951c",
+ "parent": "7c8fcb40967e5e289e3f1d5cc48cb70b2141da46",
+ "date": "2026-06-01",
+ "subject": "[EuiSplitPanel.Outer] Fix `direction='row'` not applying for clickable panels (#9693)",
+ "pr": "9693",
+ "components": [
+  "panel"
+ ],
+ "files": [
+  "packages/eui/.loki/reference/chrome_desktop_Layout_EuiSplitPanel_Split_Panel_Outer_Clickable.png",
+  "packages/eui/.loki/reference/chrome_mobile_Layout_EuiSplitPanel_Split_Panel_Outer_Clickable.png",
+  "packages/eui/.storybook/utils.ts",
+  "packages/eui/changelogs/upcoming/9693.md",
+  "packages/eui/src/components/panel/split_panel/split_panel.styles.ts",
+  "packages/eui/src/components/panel/split_panel/split_panel_outer.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 24,
+ "findings": 0,
+ "ms": 206194
+}

@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "85af70f25f90d8d6d39e2834b3a41d22f1c9e8df",
+ "date": "2026-06-26",
+ "pr": "9758",
+ "title": "Vector db logo addition (#9758)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "3 visual-test baselines updated"
+}

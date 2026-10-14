@@ -1,0 +1,38 @@
+{
+ "repo": "eui",
+ "sha": "1e58e7623b15c607c9ff2bf5f191ac5f8b2434ac",
+ "parent": "b3412723cc50ad1649de1266b39ca76a9d3f50a1",
+ "date": "2026-06-05",
+ "subject": "[EuiBasicTable/EuiInMemoryTable] Add `panelled` prop and layout (#9717)",
+ "pr": "9717",
+ "components": [
+  "basic_table"
+ ],
+ "files": [
+  "packages/eui/.loki/reference/chrome_desktop_Tabular_Content_EuiBasicTable_Panelled.png",
+  "packages/eui/.loki/reference/chrome_desktop_Tabular_Content_EuiInMemoryTable_Panelled.png",
+  "packages/eui/.loki/reference/chrome_mobile_Tabular_Content_EuiBasicTable_Panelled.png",
+  "packages/eui/.loki/reference/chrome_mobile_Tabular_Content_EuiInMemoryTable_Panelled.png",
+  "packages/eui/changelogs/upcoming/9717.md",
+  "packages/eui/src/components/basic_table/__snapshots__/basic_table.test.tsx.snap",
+  "packages/eui/src/components/basic_table/__snapshots__/pagination_bar.test.tsx.snap",
+  "packages/eui/src/components/basic_table/basic_table.stories.tsx",
+  "packages/eui/src/components/basic_table/basic_table.styles.ts",
+  "packages/eui/src/components/basic_table/basic_table.test.tsx",
+  "packages/eui/src/components/basic_table/basic_table.tsx",
+  "packages/eui/src/components/basic_table/in_memory_table.stories.tsx",
+  "packages/eui/src/components/basic_table/index.ts",
+  "packages/eui/src/components/basic_table/pagination_bar.styles.ts",
+  "packages/eui/src/components/basic_table/pagination_bar.test.tsx",
+  "packages/eui/src/components/basic_table/pagination_bar.tsx",
+  "packages/eui/src/components/basic_table/panel.styles.ts",
+  "packages/eui/src/components/basic_table/use_panel_props.ts",
+  "packages/website/docs/components/tables/in-memory.mdx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 30,
+ "findings": 16,
+ "ms": 399956
+}

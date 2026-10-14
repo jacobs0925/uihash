@@ -1,0 +1,48 @@
+{
+ "repo": "eui",
+ "sha": "6f4c0d96c8ece733ddd8b3eeb62e0c2b39678b41",
+ "parent": "faa15abaaa43d032a852bf73f7fc7b68ceeda412",
+ "date": "2026-07-09",
+ "subject": "[EuiToast] Update overflow behavior to prevent content being cut off (#9791)",
+ "pr": "9791",
+ "components": [
+  "toast"
+ ],
+ "files": [
+  "packages/eui/.vrt/reference/display-euitoast--kitchen-sink-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--kitchen-sink-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast--on-dismiss-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--on-dismiss-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast--playground-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--playground-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast--with-actions-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--with-actions-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlist--playground-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlist--playground-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlistitem--playground-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlistitem--playground-mobile.png",
+  "packages/eui/changelogs/upcoming/9791.md",
+  "packages/eui/src/components/toast/__snapshots__/global_toast_list.test.tsx.snap",
+  "packages/eui/src/components/toast/__snapshots__/toast.test.tsx.snap",
+  "packages/eui/src/components/toast/toast.styles.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/eui/.vrt/reference/display-euitoast--kitchen-sink-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--kitchen-sink-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast--on-dismiss-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--on-dismiss-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast--playground-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--playground-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast--with-actions-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast--with-actions-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlist--playground-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlist--playground-mobile.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlistitem--playground-desktop.png",
+  "packages/eui/.vrt/reference/display-euitoast-euiglobaltoastlist-euiglobaltoastlistitem--playground-mobile.png"
+ ],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 12,
+ "findings": 5,
+ "ms": 237674
+}

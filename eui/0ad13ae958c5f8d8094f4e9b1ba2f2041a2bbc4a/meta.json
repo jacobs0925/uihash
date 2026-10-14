@@ -1,0 +1,30 @@
+{
+ "repo": "eui",
+ "sha": "0ad13ae958c5f8d8094f4e9b1ba2f2041a2bbc4a",
+ "parent": "f073792fb786008b0e8338b9aa7a0a45498252fa",
+ "date": "2026-06-01",
+ "subject": "[EuiAvatar] Ensure tooltip wrapper has correct border-radius (#9697)",
+ "pr": "9697",
+ "components": [
+  "avatar"
+ ],
+ "files": [
+  "packages/eui/.loki/reference/chrome_desktop_Display_EuiComment_EuiCommentList_High_Contrast.png",
+  "packages/eui/.loki/reference/chrome_mobile_Display_EuiComment_EuiCommentList_High_Contrast.png",
+  "packages/eui/changelogs/upcoming/9697.md",
+  "packages/eui/src/components/avatar/__snapshots__/avatar.test.tsx.snap",
+  "packages/eui/src/components/avatar/avatar.styles.ts",
+  "packages/eui/src/components/avatar/avatar.tsx",
+  "packages/eui/src/components/card/__snapshots__/card.test.tsx.snap",
+  "packages/eui/src/components/comment_list/__snapshots__/comment_event.test.tsx.snap",
+  "packages/eui/src/components/comment_list/__snapshots__/comment_timeline.test.tsx.snap",
+  "packages/eui/src/components/timeline/__snapshots__/timeline.test.tsx.snap",
+  "packages/eui/src/components/timeline/__snapshots__/timeline_item.test.tsx.snap"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 0,
+ "findings": 0,
+ "ms": 178858
+}

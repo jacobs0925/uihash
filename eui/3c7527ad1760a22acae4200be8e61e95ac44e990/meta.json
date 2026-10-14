@@ -1,0 +1,21 @@
+{
+ "repo": "eui",
+ "sha": "3c7527ad1760a22acae4200be8e61e95ac44e990",
+ "parent": "c8cc7f1ef21356ef5d46cbd20b3893d52368718c",
+ "date": "2026-08-14",
+ "subject": "[EuiSplitButton] Fix inline-size behavior (#9917)",
+ "pr": "9917",
+ "components": [
+  "button"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9917.md",
+  "packages/eui/src/components/button/split_button/split_button.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 54,
+ "findings": 1,
+ "ms": 295115
+}

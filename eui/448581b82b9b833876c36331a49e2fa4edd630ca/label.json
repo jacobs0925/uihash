@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "448581b82b9b833876c36331a49e2fa4edd630ca",
+ "date": "2026-08-10",
+ "pr": "9865",
+ "title": "[EuiSplitButton] Implement redesign (#9865)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "18 visual-test baselines updated"
+}

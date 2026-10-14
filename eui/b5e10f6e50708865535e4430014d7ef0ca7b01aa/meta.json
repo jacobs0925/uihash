@@ -1,0 +1,27 @@
+{
+ "repo": "eui",
+ "sha": "b5e10f6e50708865535e4430014d7ef0ca7b01aa",
+ "parent": "2a3fc34e532accc769f9b68ef9f031ba8b614d20",
+ "date": "2026-07-14",
+ "subject": "[EuiFlyout] Reduce outer border width for push flyouts (#9803)",
+ "pr": "9803",
+ "components": [
+  "flyout"
+ ],
+ "files": [
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--push-flyouts-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--push-flyouts-mobile.png",
+  "packages/eui/changelogs/upcoming/9803.md",
+  "packages/eui/src/components/flyout/_flyout_resize_button.styles.ts",
+  "packages/eui/src/components/flyout/flyout.styles.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--push-flyouts-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyout--push-flyouts-mobile.png"
+ ],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 30,
+ "findings": 1,
+ "ms": 323704
+}

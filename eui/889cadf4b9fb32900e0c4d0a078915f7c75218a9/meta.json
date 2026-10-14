@@ -1,0 +1,28 @@
+{
+ "repo": "eui",
+ "sha": "889cadf4b9fb32900e0c4d0a078915f7c75218a9",
+ "parent": "7e49cb25efbeeeef116c0ae46f1dd7d6522d0c40",
+ "date": "2026-06-03",
+ "subject": "[EuiBanner] Adjust additional content spacing (#9700)",
+ "pr": "9700",
+ "components": [
+  "banner"
+ ],
+ "files": [
+  "packages/eui/.loki/reference/chrome_desktop_Display_EuiBanner_Kitchen_Sink_Custom_Children.png",
+  "packages/eui/.loki/reference/chrome_desktop_Display_EuiBanner_With_Children.png",
+  "packages/eui/.loki/reference/chrome_mobile_Display_EuiBanner_Kitchen_Sink_Custom_Children.png",
+  "packages/eui/.loki/reference/chrome_mobile_Display_EuiBanner_With_Children.png",
+  "packages/eui/changelogs/upcoming/9700.md",
+  "packages/eui/src/components/banner/__snapshots__/banner.test.tsx.snap",
+  "packages/eui/src/components/banner/banner.stories.tsx",
+  "packages/eui/src/components/banner/banner.styles.ts",
+  "packages/eui/src/components/banner/banner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 12,
+ "findings": 1,
+ "ms": 196566
+}

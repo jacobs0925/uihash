@@ -1,0 +1,30 @@
+{
+ "repo": "eui",
+ "sha": "a2932148b36e2f7d925b3f1ed9743e868ff05ea2",
+ "parent": "f348e1edacd8a0ab57c02e918e1445652ff9db63",
+ "date": "2026-06-25",
+ "subject": "Revert \"[EuiValidatableControl] Stop calling `setCustomValidity` for `isInvalid`\" (#9752)",
+ "pr": "9752",
+ "components": [
+  "form"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9690.md",
+  "packages/eui/src/components/date_picker/date_picker.tsx",
+  "packages/eui/src/components/form/field_number/field_number.spec.tsx",
+  "packages/eui/src/components/form/field_password/field_password.styles.ts",
+  "packages/eui/src/components/form/field_search/field_search.styles.ts",
+  "packages/eui/src/components/form/form.styles.test.tsx",
+  "packages/eui/src/components/form/form.styles.ts",
+  "packages/eui/src/components/form/select/select.styles.ts",
+  "packages/eui/src/components/form/text_area/text_area.styles.ts",
+  "packages/eui/src/components/form/validatable_control/validatable_control.test.tsx",
+  "packages/eui/src/components/form/validatable_control/validatable_control.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 72,
+ "findings": 0,
+ "ms": 292078
+}

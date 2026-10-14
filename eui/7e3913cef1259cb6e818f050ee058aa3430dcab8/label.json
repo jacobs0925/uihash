@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "7e3913cef1259cb6e818f050ee058aa3430dcab8",
+ "date": "2026-07-10",
+ "pr": "9789",
+ "title": "[EuiCallOut] Implement UI enhancements (#9789)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "34 visual-test baselines updated"
+}

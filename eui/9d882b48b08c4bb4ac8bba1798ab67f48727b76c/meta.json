@@ -1,0 +1,26 @@
+{
+ "repo": "eui",
+ "sha": "9d882b48b08c4bb4ac8bba1798ab67f48727b76c",
+ "parent": "92e74318b92bd4d61a33ef22071645cce968bfb5",
+ "date": "2026-05-26",
+ "subject": "[EuiListItemLayout][EuiSelectableTemplateSitewide] Fix text content alignment (#9669)",
+ "pr": "9669",
+ "components": [
+  "list_item_layout"
+ ],
+ "files": [
+  "packages/eui/.loki/reference/chrome_desktop_Internal_EuiListItemLayout_Custom_Content.png",
+  "packages/eui/.loki/reference/chrome_desktop_Internal_EuiListItemLayout_Kitchen_Sink.png",
+  "packages/eui/.loki/reference/chrome_mobile_Internal_EuiListItemLayout_Custom_Content.png",
+  "packages/eui/.loki/reference/chrome_mobile_Internal_EuiListItemLayout_Kitchen_Sink.png",
+  "packages/eui/changelogs/upcoming/9669.md",
+  "packages/eui/src/components/list_item_layout/_list_item_layout.stories.tsx",
+  "packages/eui/src/components/list_item_layout/_list_item_layout.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 27,
+ "findings": 2,
+ "ms": 260934
+}

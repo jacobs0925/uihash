@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "52e07fa3967be67b82844f2565cb07a89efb4224",
+ "date": "2026-08-05",
+ "pr": "9856",
+ "title": "[Flyouts] Enhancements for Flyout Menu actions (#9856)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "8 visual-test baselines updated"
+}

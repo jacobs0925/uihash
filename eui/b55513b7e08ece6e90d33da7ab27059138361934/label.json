@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "b55513b7e08ece6e90d33da7ab27059138361934",
+ "date": "2026-08-25",
+ "pr": "9929",
+ "title": "[EuiButtonGroup] Implement redesign #3 - Selection variant (#9929)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "10 visual-test baselines updated"
+}

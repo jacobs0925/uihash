@@ -1,0 +1,35 @@
+{
+ "repo": "eui",
+ "sha": "ba2c877cb17160302d82f901daa24aae701f8297",
+ "parent": "23acf4d44d8d528c796a052250782f167a6244bc",
+ "date": "2026-05-22",
+ "subject": "[EuiTable/EuiBasicTable/EuiInMemoryTable] Add always-visible sticky scrollbar (#9674)",
+ "pr": "9674",
+ "components": [
+  "table"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9674.md",
+  "packages/eui/src/components/basic_table/basic_table.stories.tsx",
+  "packages/eui/src/components/basic_table/basic_table.tsx",
+  "packages/eui/src/components/provider/component_defaults/component_defaults.tsx",
+  "packages/eui/src/components/table/sticky_scrollbar/index.ts",
+  "packages/eui/src/components/table/sticky_scrollbar/sticky_scrollbar.styles.ts",
+  "packages/eui/src/components/table/sticky_scrollbar/sticky_scrollbar.test.tsx",
+  "packages/eui/src/components/table/sticky_scrollbar/sticky_scrollbar.tsx",
+  "packages/eui/src/components/table/table.tsx",
+  "packages/eui/src/test/internal/index.ts",
+  "packages/eui/src/test/internal/intersection_observer_mock.test.ts",
+  "packages/eui/src/test/internal/intersection_observer_mock.ts",
+  "packages/eui/src/test/internal/resize_observer_mock.test.ts",
+  "packages/eui/src/test/internal/resize_observer_mock.ts",
+  "packages/website/docs/components/tables/basic.mdx",
+  "packages/website/docs/components/tables/custom.mdx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 12,
+ "findings": 0,
+ "ms": 211595
+}

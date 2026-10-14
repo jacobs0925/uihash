@@ -1,0 +1,21 @@
+{
+ "repo": "eui",
+ "sha": "16d27dd2ef93912af7374b3f1894589999249359",
+ "parent": "6fd40620e17e27be0e6d88f5701d960e534d4abf",
+ "date": "2026-08-11",
+ "subject": "[EuiFilePicker] Migrate from class to function component (#9879)",
+ "pr": "9879",
+ "components": [
+  "form"
+ ],
+ "files": [
+  "packages/eui/src/components/form/file_picker/file_picker.styles.ts",
+  "packages/eui/src/components/form/file_picker/file_picker.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 72,
+ "findings": 0,
+ "ms": 291949
+}

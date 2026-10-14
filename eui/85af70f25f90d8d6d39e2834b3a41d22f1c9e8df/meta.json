@@ -1,0 +1,33 @@
+{
+ "repo": "eui",
+ "sha": "85af70f25f90d8d6d39e2834b3a41d22f1c9e8df",
+ "parent": "30ad749533b6cd645aa2b4997b217c5697acf9cb",
+ "date": "2026-06-26",
+ "subject": "Vector db logo addition (#9758)",
+ "pr": "9758",
+ "components": [
+  "icon"
+ ],
+ "files": [
+  "packages/eui/.vrt/reference/display-euiicon--all-icons-desktop.png",
+  "packages/eui/.vrt/reference/layout-euipopover-euipopover--playground-desktop.png",
+  "packages/eui/.vrt/reference/tabular-content-euidatagrid-toolbarvisibility-prop--render-custom-toolbar-desktop.png",
+  "packages/eui/changelogs/upcoming/9758.md",
+  "packages/eui/src/components/icon/__snapshots__/icon.test.tsx.snap",
+  "packages/eui/src/components/icon/assets/logo_vector_db.tsx",
+  "packages/eui/src/components/icon/icon.styles.ts",
+  "packages/eui/src/components/icon/icon_map.ts",
+  "packages/eui/src/components/icon/svgs/logo_vector_db.svg",
+  "packages/website/docs/components/display/icons/icon_types_logos.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/eui/.vrt/reference/display-euiicon--all-icons-desktop.png",
+  "packages/eui/.vrt/reference/layout-euipopover-euipopover--playground-desktop.png",
+  "packages/eui/.vrt/reference/tabular-content-euidatagrid-toolbarvisibility-prop--render-custom-toolbar-desktop.png"
+ ],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 3,
+ "findings": 15,
+ "ms": 231147
+}

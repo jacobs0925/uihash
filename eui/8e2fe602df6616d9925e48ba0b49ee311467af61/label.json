@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "8e2fe602df6616d9925e48ba0b49ee311467af61",
+ "date": "2026-08-21",
+ "pr": "9862",
+ "title": "[EuiButtonGroup] Implement redesign #2 - Segmented variant (#9862)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "16 visual-test baselines updated"
+}

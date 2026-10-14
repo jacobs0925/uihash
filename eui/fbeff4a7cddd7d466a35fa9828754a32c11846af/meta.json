@@ -1,0 +1,25 @@
+{
+ "repo": "eui",
+ "sha": "fbeff4a7cddd7d466a35fa9828754a32c11846af",
+ "parent": "3886a10b1c9f3f9d168db0be28420080ab5c17f8",
+ "date": "2026-05-28",
+ "subject": "[EuiSelectable][EuiComboBox] Fix group label append not being clickable (#9678)",
+ "pr": "9678",
+ "components": [
+  "selectable"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9678.md",
+  "packages/eui/src/components/combo_box/combo_box.stories.tsx",
+  "packages/eui/src/components/selectable/selectable.stories.tsx",
+  "packages/eui/src/components/selectable/selectable_list/__snapshots__/selectable_list.test.tsx.snap",
+  "packages/eui/src/components/selectable/selectable_list/selectable_list.stories.tsx",
+  "packages/eui/src/components/selectable/selectable_list/selectable_list.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 48,
+ "findings": 5,
+ "ms": 273289
+}

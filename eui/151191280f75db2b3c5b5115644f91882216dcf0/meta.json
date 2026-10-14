@@ -1,0 +1,28 @@
+{
+ "repo": "eui",
+ "sha": "151191280f75db2b3c5b5115644f91882216dcf0",
+ "parent": "d85fbf96dfc975959598ca8464e056ce405b5af3",
+ "date": "2026-09-02",
+ "subject": "[EuiFlyout] Keep body accessible at short viewport heights (#9944)",
+ "pr": "9944",
+ "components": [
+  "flyout"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9944.md",
+  "packages/eui/src/components/collapsible_nav/__snapshots__/collapsible_nav.test.tsx.snap",
+  "packages/eui/src/components/flyout/__snapshots__/flyout.test.tsx.snap",
+  "packages/eui/src/components/flyout/flyout.component.tsx",
+  "packages/eui/src/components/flyout/flyout.spec.tsx",
+  "packages/eui/src/components/flyout/flyout.styles.ts",
+  "packages/eui/src/components/flyout/flyout_body.styles.ts",
+  "packages/eui/src/components/flyout/flyout_footer.styles.ts",
+  "packages/eui/src/components/flyout/flyout_header.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 27,
+ "findings": 18,
+ "ms": 222011
+}

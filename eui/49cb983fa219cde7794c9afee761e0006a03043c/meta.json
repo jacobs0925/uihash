@@ -1,0 +1,24 @@
+{
+ "repo": "eui",
+ "sha": "49cb983fa219cde7794c9afee761e0006a03043c",
+ "parent": "94dd17ec85286573fb93dfe040ff1fb10ba8a928",
+ "date": "2026-05-12",
+ "subject": "[EuiDataGrid] Fix cell popover hidden behind sibling/nested flyouts (#9630)",
+ "pr": "9630",
+ "components": [
+  "datagrid"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9630.md",
+  "packages/eui/src/components/datagrid/body/cell/data_grid_cell_popover.spec.tsx",
+  "packages/eui/src/components/datagrid/body/cell/data_grid_cell_popover.test.tsx",
+  "packages/eui/src/components/datagrid/body/cell/data_grid_cell_popover.tsx",
+  "packages/eui/src/components/datagrid/data_grid.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 72,
+ "findings": 3,
+ "ms": 514481
+}

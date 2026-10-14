@@ -1,0 +1,40 @@
+{
+ "repo": "eui",
+ "sha": "36e169aea7f4c9deb860be0474152ce88e913176",
+ "parent": "972dcdf679fde7d7f7b426957c6637899e58951c",
+ "date": "2026-06-01",
+ "subject": "[EuiTable/EuiBasicTable/EuiInMemoryTable] Add sticky table headers (#9682)",
+ "pr": "9682",
+ "components": [
+  "table"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9682.md",
+  "packages/eui/src/components/basic_table/basic_table.stories.tsx",
+  "packages/eui/src/components/basic_table/basic_table.tsx",
+  "packages/eui/src/components/provider/component_defaults/component_defaults.tsx",
+  "packages/eui/src/components/table/sticky_header/context.tsx",
+  "packages/eui/src/components/table/sticky_header/index.ts",
+  "packages/eui/src/components/table/sticky_header/sticky_header.styles.ts",
+  "packages/eui/src/components/table/sticky_header/sticky_header.test.tsx",
+  "packages/eui/src/components/table/sticky_header/sticky_header.tsx",
+  "packages/eui/src/components/table/store/provider.tsx",
+  "packages/eui/src/components/table/store/store.test.ts",
+  "packages/eui/src/components/table/store/store.ts",
+  "packages/eui/src/components/table/table.styles.ts",
+  "packages/eui/src/components/table/table.test.tsx",
+  "packages/eui/src/components/table/table.tsx",
+  "packages/eui/src/components/table/table_header_cell.test.tsx",
+  "packages/eui/src/components/table/table_header_cell.tsx",
+  "packages/eui/src/components/table/table_header_cell_checkbox.test.tsx",
+  "packages/eui/src/components/table/table_header_cell_checkbox.tsx",
+  "packages/eui/src/utils/publisher.ts",
+  "packages/website/docs/components/tables/custom.mdx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 12,
+ "findings": 0,
+ "ms": 199541
+}

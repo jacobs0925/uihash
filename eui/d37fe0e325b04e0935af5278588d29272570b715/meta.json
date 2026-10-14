@@ -1,0 +1,41 @@
+{
+ "repo": "eui",
+ "sha": "d37fe0e325b04e0935af5278588d29272570b715",
+ "parent": "43626b752c67e62d5551bcfbd82f8dc496f4ce81",
+ "date": "2026-06-18",
+ "subject": "[EuiFlyoutMenu] Add pagination controls with previous/next buttons and counter V2 (#9726)",
+ "pr": "9726",
+ "components": [
+  "flyout"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9726.md",
+  "packages/eui/src/components/flyout/flyout_menu.stories.tsx",
+  "packages/eui/src/components/flyout/flyout_menu.styles.ts",
+  "packages/eui/src/components/flyout/flyout_menu.test.tsx",
+  "packages/eui/src/components/flyout/flyout_menu.tsx",
+  "packages/eui/src/components/flyout/index.ts",
+  "packages/eui/src/components/flyout/manager/__mocks__/index.ts",
+  "packages/eui/src/components/flyout/manager/actions.ts",
+  "packages/eui/src/components/flyout/manager/flyout_managed.test.tsx",
+  "packages/eui/src/components/flyout/manager/flyout_managed.tsx",
+  "packages/eui/src/components/flyout/manager/flyout_sessions.stories.tsx",
+  "packages/eui/src/components/flyout/manager/hooks.ts",
+  "packages/eui/src/components/flyout/manager/index.ts",
+  "packages/eui/src/components/flyout/manager/reducer.test.ts",
+  "packages/eui/src/components/flyout/manager/reducer.ts",
+  "packages/eui/src/components/flyout/manager/selectors.ts",
+  "packages/eui/src/components/flyout/manager/store.test.ts",
+  "packages/eui/src/components/flyout/manager/store.ts",
+  "packages/eui/src/components/flyout/manager/types.ts",
+  "packages/eui/src/components/flyout/use_flyout_menu.ts",
+  "packages/website/docs/components/containers/flyout/_flyout_menu.mdx",
+  "packages/website/docs/components/containers/flyout/_flyout_menu_pagination.mdx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 24,
+ "findings": 0,
+ "ms": 330647
+}

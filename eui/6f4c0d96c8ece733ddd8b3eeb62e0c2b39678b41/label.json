@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "6f4c0d96c8ece733ddd8b3eeb62e0c2b39678b41",
+ "date": "2026-07-09",
+ "pr": "9791",
+ "title": "[EuiToast] Update overflow behavior to prevent content being cut off (#9791)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "12 visual-test baselines updated"
+}

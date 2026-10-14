@@ -1,0 +1,22 @@
+{
+ "repo": "eui",
+ "sha": "eb0a83a594019f5e0f09bf23592a341e40447ee4",
+ "parent": "93d03ff56dfbc10a62df683e7209e9a957aa25cc",
+ "date": "2026-07-13",
+ "subject": "[EuiPanel] Remove animation on EuiPanel hover (#9702)",
+ "pr": "9702",
+ "components": [
+  "panel"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9702.md",
+  "packages/eui/src/components/panel/panel.styles.ts",
+  "packages/eui/src/components/panel/split_panel/split_panel.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 27,
+ "findings": 3,
+ "ms": 244836
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "eui",
+ "sha": "f494fd1c230789f3d290cdacaa73497868b164fc",
+ "parent": "5f02bfb0209746249a3a29643093503b16141fbc",
+ "date": "2026-05-26",
+ "subject": "fix(EuiDataGrid): don't apply icon color to disabled cell action buttons  (#9672)",
+ "pr": "9672",
+ "components": [
+  "datagrid"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9672.md",
+  "packages/eui/src/components/datagrid/body/cell/data_grid_cell_actions.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 72,
+ "findings": 1,
+ "ms": 500262
+}

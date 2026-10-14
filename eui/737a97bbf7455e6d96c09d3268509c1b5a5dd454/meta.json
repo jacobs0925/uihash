@@ -1,0 +1,31 @@
+{
+ "repo": "eui",
+ "sha": "737a97bbf7455e6d96c09d3268509c1b5a5dd454",
+ "parent": "fa26c813917a5096b0991edae084dd11a9c12ddf",
+ "date": "2026-06-01",
+ "subject": "[EuiPanel] Ensure consistent `line-height` for interactive and non-interactive panels (#9694)",
+ "pr": "9694",
+ "components": [
+  "panel"
+ ],
+ "files": [
+  "packages/eui/.loki/reference/chrome_desktop_Layout_EuiPanel_Kitchensink.png",
+  "packages/eui/.loki/reference/chrome_desktop_Layout_EuiPanel_Kitchensink_Dark.png",
+  "packages/eui/.loki/reference/chrome_desktop_Layout_EuiPanel_Overlapping_Panels.png",
+  "packages/eui/.loki/reference/chrome_desktop_Layout_EuiPanel_Playground.png",
+  "packages/eui/.loki/reference/chrome_desktop_Layout_EuiSplitPanel_Split_Panel_Outer_Clickable.png",
+  "packages/eui/.loki/reference/chrome_mobile_Layout_EuiPanel_Kitchensink.png",
+  "packages/eui/.loki/reference/chrome_mobile_Layout_EuiPanel_Kitchensink_Dark.png",
+  "packages/eui/.loki/reference/chrome_mobile_Layout_EuiPanel_Overlapping_Panels.png",
+  "packages/eui/.loki/reference/chrome_mobile_Layout_EuiPanel_Playground.png",
+  "packages/eui/.loki/reference/chrome_mobile_Layout_EuiSplitPanel_Split_Panel_Outer_Clickable.png",
+  "packages/eui/changelogs/upcoming/9694.md",
+  "packages/eui/src/components/panel/panel.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 27,
+ "findings": 4,
+ "ms": 222570
+}

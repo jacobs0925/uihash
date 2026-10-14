@@ -7,6 +7,6 @@
  "title": "Reverted to commit c5fd4bab9769b8653a57025dc7dd6eb5fe3c1a11",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "z-index: 50 → ∅ undone by ddc5409c \"Elevate landing visuals\"; width: 100% → auto undone by ddc5409c \"Elevate landing visuals\"; margin-right: auto → 0px undone by ddc5409c \"Elevate landing visuals\""
 }

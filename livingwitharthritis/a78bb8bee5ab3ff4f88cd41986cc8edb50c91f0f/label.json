@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "a78bb8bee5ab3ff4f88cd41986cc8edb50c91f0f",
+ "date": "2026-02-10",
+ "pr": null,
+ "title": "Polished UI and layout overhaul",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "row-gap: 6px → 4px undone by ef4491b7 \"Elevated site to premium look\"; column-gap: 6px → 4px undone by ef4491b7 \"Elevated site to premium look\"; padding-right: 12px → 10px undone by ef4491b7 \"Elevated site to premium look\""
+}

@@ -1,0 +1,35 @@
+{
+ "repo": "eui",
+ "sha": "8703e43bbb2961c73611e4d65bfa31cfb123e89b",
+ "parent": "4c42f593530cc95f6f1d7ef191f598eeb07a3a92",
+ "date": "2026-03-05",
+ "subject": "[EuiTable] Add horizontal scrolling support via a new `scrollableInline` prop (#9416)",
+ "pr": "9416",
+ "components": [
+  "table"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9416.md",
+  "packages/eui/src/components/basic_table/__snapshots__/basic_table.test.tsx.snap",
+  "packages/eui/src/components/basic_table/__snapshots__/in_memory_table.test.tsx.snap",
+  "packages/eui/src/components/basic_table/basic_table.stories.tsx",
+  "packages/eui/src/components/basic_table/basic_table.test.tsx",
+  "packages/eui/src/components/basic_table/basic_table.tsx",
+  "packages/eui/src/components/basic_table/in_memory_table.stories.tsx",
+  "packages/eui/src/components/basic_table/in_memory_table.test.tsx",
+  "packages/eui/src/components/provider/component_defaults/component_defaults.tsx",
+  "packages/eui/src/components/table/__snapshots__/table.test.tsx.snap",
+  "packages/eui/src/components/table/mobile/responsive_context.ts",
+  "packages/eui/src/components/table/mobile/table_header_mobile.tsx",
+  "packages/eui/src/components/table/table.styles.ts",
+  "packages/eui/src/components/table/table.test.tsx",
+  "packages/eui/src/components/table/table.tsx",
+  "packages/website/docs/components/tables/basic.mdx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 12,
+ "findings": 0,
+ "ms": 197787
+}

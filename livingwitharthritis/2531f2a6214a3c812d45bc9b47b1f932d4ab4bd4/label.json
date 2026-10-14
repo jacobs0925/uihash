@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "2531f2a6214a3c812d45bc9b47b1f932d4ab4bd4",
+ "date": "2026-02-12",
+ "pr": null,
+ "title": "Improve hotspot visibility",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1904 later commits"
+}

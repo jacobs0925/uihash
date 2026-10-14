@@ -1,0 +1,24 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "daff4977a6691e74805baa17dbb473ddecfea472",
+ "parent": "688a4c70708d7976c6953cb16859983398302719",
+ "date": "2026-02-07",
+ "subject": "Wire newsletter backend",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationTiersSection.tsx",
+  "src/components/Footer.tsx",
+  "src/components/FundraisingSection.tsx",
+  "src/components/VirtualPhysioSection.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260207223056_6fd61c47-a101-4df4-9059-40c64647cb65.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 43267
+}

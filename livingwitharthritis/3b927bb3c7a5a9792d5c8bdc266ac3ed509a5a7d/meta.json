@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "3b927bb3c7a5a9792d5c8bdc266ac3ed509a5a7d",
+ "parent": "e5468ad0ddf10681ab0c7188c270d7e7ddab8f15",
+ "date": "2026-02-14",
+ "subject": "Move hero image public asset",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "index.html",
+  "public/images/hero-community.jpg",
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 39001
+}

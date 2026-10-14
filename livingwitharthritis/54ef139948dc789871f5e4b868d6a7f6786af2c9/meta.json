@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "54ef139948dc789871f5e4b868d6a7f6786af2c9",
+ "parent": "d26c67169b54e49e4c76c1e8fa4c88f39071c8a8",
+ "date": "2026-02-19",
+ "subject": "Remove ImpactBanner lazy load",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 37430
+}

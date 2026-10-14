@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "27b813e05649715ae9f6fc1f3786e4df2ead7f3e",
+ "date": "2026-02-07",
+ "pr": null,
+ "title": "Mobile menu slide-in built",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1934 later commits"
+}

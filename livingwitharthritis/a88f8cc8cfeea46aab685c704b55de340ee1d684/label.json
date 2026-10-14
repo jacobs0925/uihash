@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "a88f8cc8cfeea46aab685c704b55de340ee1d684",
+ "date": "2026-02-08",
+ "pr": null,
+ "title": "Enhance joint diagram visuals",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1928 later commits"
+}

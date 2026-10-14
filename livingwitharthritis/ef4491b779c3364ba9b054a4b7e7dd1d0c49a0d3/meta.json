@@ -1,0 +1,32 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "ef4491b779c3364ba9b054a4b7e7dd1d0c49a0d3",
+ "parent": "c7e1c10760ef63c88a38eb440ed842685a8634e0",
+ "date": "2026-02-16",
+ "subject": "Elevated site to premium look",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/ConditionsSection.tsx",
+  "src/components/DonationBanner.tsx",
+  "src/components/Footer.tsx",
+  "src/components/FundraisingSection.tsx",
+  "src/components/Header.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/ServicesGrid.tsx",
+  "src/components/TestimonialsSection.tsx",
+  "src/components/VirtualPhysioSection.tsx",
+  "src/index.css",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 97,
+ "ms": 51981
+}

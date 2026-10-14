@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "7ae5db229837fdd75dd73ce1779c7faa18734f89",
+ "date": "2025-10-01",
+ "pr": "6729",
+ "title": "Remove support for `sx` and `Box` usage from the `Text` component (#6729)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Update Text component to no longer support sx."
+}

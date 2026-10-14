@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "678b0b7c9501655cb98fa16fdeb1176418310928",
+ "date": "2026-02-16",
+ "pr": null,
+ "title": "Added building banner on header",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1878 later commits"
+}

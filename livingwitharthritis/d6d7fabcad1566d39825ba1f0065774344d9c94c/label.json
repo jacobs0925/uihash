@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "d6d7fabcad1566d39825ba1f0065774344d9c94c",
+ "date": "2026-02-19",
+ "pr": null,
+ "title": "Fix motion h1 p in Auth",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 6933cc22, which restored ee23846f (16 commits discarded)"
+}

@@ -1,0 +1,30 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "bfe767515374220f3df193dd63b3971274238095",
+ "parent": "fff4258d88b39c4af929f6198b1f487d9f6c2e61",
+ "date": "2026-02-18",
+ "subject": "Launch UK blog system",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "public/sitemap.xml",
+  "src/App.tsx",
+  "src/components/BlogTeaserSection.tsx",
+  "src/components/Footer.tsx",
+  "src/data/articles.ts",
+  "src/pages/ArticlePage.tsx",
+  "src/pages/Blog.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 56194
+}

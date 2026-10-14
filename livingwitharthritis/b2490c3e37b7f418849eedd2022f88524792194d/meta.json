@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "b2490c3e37b7f418849eedd2022f88524792194d",
+ "parent": "14454807abff55e7778fe7d2125f7315c663afd9",
+ "date": "2026-02-12",
+ "subject": "Adjust hotspot positions for male mannequin",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/body-mannequin.png",
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 34802
+}

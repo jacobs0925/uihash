@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "5a8a51044bd6faaa7ad429539a12ef905f6faf19",
+ "parent": "cbe6287b4b5cf4b3ea1518915747325b3b08f98e",
+ "date": "2026-02-09",
+ "subject": "Changed color to glowing red",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 32,
+ "ms": 76579
+}

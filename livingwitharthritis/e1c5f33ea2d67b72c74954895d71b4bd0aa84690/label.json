@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "e1c5f33ea2d67b72c74954895d71b4bd0aa84690",
+ "date": "2026-02-19",
+ "pr": null,
+ "title": "Replace header with div in header",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 6933cc22, which restored ee23846f (16 commits discarded)"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "20e501464fa99c3a140f3e04f0ae1d4ac4b3eab2",
+ "parent": "44e62713682407cef3d8850b0884a77c9be1fe43",
+ "date": "2026-02-15",
+ "subject": "Open Our Mission modal in footer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 29836
+}

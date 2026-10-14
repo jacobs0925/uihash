@@ -1,0 +1,27 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "ffb6ac03f2b229c592289e1d63ccfd4211bc4acf",
+ "parent": "eefe2e1b019eac3723a00f0f44af81dd437d039f",
+ "date": "2026-02-15",
+ "subject": "Integrate nutrition backend data",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/images/nutrition-berries.jpg",
+  "public/images/nutrition-grilled-mackerel.jpg",
+  "public/images/nutrition-mediterranean.jpg",
+  "public/images/nutrition-nuts-seeds.jpg",
+  "public/images/nutrition-salmon-kale.jpg",
+  "src/components/NutritionArticleSection.tsx",
+  "src/hooks/useCmsContent.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260215203559_4910b289-cce7-4027-8799-c21dcd3c9af8.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 25884
+}

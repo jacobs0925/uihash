@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "008b879d525c979dcd87f3016ba7b5e2bbe5c0b7",
+ "date": "2026-02-07",
+ "pr": null,
+ "title": "Remove video background and add gradient backdrop",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-image: ∅ → linear-gradient(to right bottom, rgb(34, 101, 195), rgba(34, 101, 195, 0.95), rgba(29, 134, 96, 0.2)) undone by 2ff96b20 \"Redesign with warm charity look\"; background-size: ∅ → auto undone by 2ff96b20 \"Redesign with warm charity look\"; background-position: ∅ → 0% 0% undone by 2ff96b20 \"Redesign with warm charity look\""
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "008b879d525c979dcd87f3016ba7b5e2bbe5c0b7",
+ "parent": "58faea6bc152c106b9ec10de370532a674ff8790",
+ "date": "2026-02-07",
+ "subject": "Remove video background and add gradient backdrop",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/videos/hero-background.mp4",
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 7,
+ "ms": 58248
+}

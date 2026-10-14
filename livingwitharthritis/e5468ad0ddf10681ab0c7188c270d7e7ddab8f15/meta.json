@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "e5468ad0ddf10681ab0c7188c270d7e7ddab8f15",
+ "parent": "8d83ac82a2b1bf51947cf2d85cd64c031fa4fe23",
+ "date": "2026-02-14",
+ "subject": "Add image dimensions",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/HeroSection.tsx",
+  "src/components/JointExerciseSection.tsx",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 47555
+}

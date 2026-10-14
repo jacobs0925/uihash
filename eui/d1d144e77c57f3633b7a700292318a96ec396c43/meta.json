@@ -1,0 +1,24 @@
+{
+ "repo": "eui",
+ "sha": "d1d144e77c57f3633b7a700292318a96ec396c43",
+ "parent": "fcfbc9efb330f2622e63bab6739636eaf137ad0a",
+ "date": "2026-03-31",
+ "subject": "[EuiFlyout] Reduce slide-out animations (#9514)",
+ "pr": "9514",
+ "components": [
+  "flyout"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9514.md",
+  "packages/eui/src/components/flyout/manager/activity_stage.test.tsx",
+  "packages/eui/src/components/flyout/manager/activity_stage.ts",
+  "packages/eui/src/components/flyout/manager/flyout_managed.styles.ts",
+  "packages/eui/src/components/flyout/manager/flyout_managed.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 24,
+ "findings": 0,
+ "ms": 353220
+}

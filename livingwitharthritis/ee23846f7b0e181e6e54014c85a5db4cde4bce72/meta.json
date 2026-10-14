@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "ee23846f7b0e181e6e54014c85a5db4cde4bce72",
+ "parent": "227830c95c5ad3201e4e4104d1cd0af0f40dad52",
+ "date": "2026-02-19",
+ "subject": "Integrate Stripe donations",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DonationBanner.tsx",
+  "src/components/DonationTiersSection.tsx",
+  "src/hooks/useStripeDonation.ts",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 29499
+}

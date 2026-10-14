@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "8151aec1c8a1c15aec344054b23e8dabb20419b3",
+ "parent": "ef4491b779c3364ba9b054a4b7e7dd1d0c49a0d3",
+ "date": "2026-02-16",
+ "subject": "Add parallax scroll effects",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/ImpactBanner.tsx",
+  "src/components/ServicesGrid.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 33732
+}

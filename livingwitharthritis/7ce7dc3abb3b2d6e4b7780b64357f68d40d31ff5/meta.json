@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "7ce7dc3abb3b2d6e4b7780b64357f68d40d31ff5",
+ "parent": "67990f0d3eaaab3b77fa343c4b4ba44d3e1b1f6e",
+ "date": "2026-02-18",
+ "subject": "Add cross-article links",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/data/articles.ts",
+  "src/pages/ArticlePage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 29108
+}

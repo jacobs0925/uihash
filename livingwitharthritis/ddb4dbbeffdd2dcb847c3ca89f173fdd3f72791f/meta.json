@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "ddb4dbbeffdd2dcb847c3ca89f173fdd3f72791f",
+ "parent": "e1c5f33ea2d67b72c74954895d71b4bd0aa84690",
+ "date": "2026-02-19",
+ "subject": "Remove hero image parallax",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 8,
+ "ms": 51588
+}

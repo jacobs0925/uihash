@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "964073a91de5ccb7db314002492825669c994616",
+ "parent": "87b2d5e55b5a1c6531c8847cb27b459df437c29b",
+ "date": "2026-02-19",
+ "subject": "Remove banner component usage",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 49522
+}

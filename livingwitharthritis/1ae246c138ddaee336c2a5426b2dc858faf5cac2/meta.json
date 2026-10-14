@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "1ae246c138ddaee336c2a5426b2dc858faf5cac2",
+ "parent": "20e501464fa99c3a140f3e04f0ae1d4ac4b3eab2",
+ "date": "2026-02-15",
+ "subject": "Make donation cards compact",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationTiersSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 25115
+}

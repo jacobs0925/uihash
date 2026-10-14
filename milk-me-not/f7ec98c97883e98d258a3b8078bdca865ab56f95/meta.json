@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f7ec98c97883e98d258a3b8078bdca865ab56f95",
+ "parent": "c6fa9f0af0c0523094c424b6148a4ddb96c25f05",
+ "date": "2025-10-12",
+ "subject": "Add mobile app install information",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/MenuBar.tsx",
+  "src/pages/MobileApp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 53605
+}

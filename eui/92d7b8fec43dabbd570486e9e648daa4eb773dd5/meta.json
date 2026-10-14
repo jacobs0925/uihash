@@ -1,0 +1,34 @@
+{
+ "repo": "eui",
+ "sha": "92d7b8fec43dabbd570486e9e648daa4eb773dd5",
+ "parent": "b2f01b4ef731f1f7875ac9820371b6d9b2b25a77",
+ "date": "2026-03-03",
+ "subject": "[EuiTable] reduce gap between action buttons to `xs` (`4px`) (#9423)",
+ "pr": "9423",
+ "components": [
+  "table"
+ ],
+ "files": [
+  "packages/eui/.loki/reference/chrome_desktop_Tabular_Content_EuiBasicTable_Dark_Mode.png",
+  "packages/eui/.loki/reference/chrome_desktop_Tabular_Content_EuiBasicTable_High_Contrast_Mobile.png",
+  "packages/eui/.loki/reference/chrome_mobile_Tabular_Content_EuiBasicTable_Dark_Mode.png",
+  "packages/eui/.loki/reference/chrome_mobile_Tabular_Content_EuiBasicTable_Expanded_Nested_Table.png",
+  "packages/eui/.loki/reference/chrome_mobile_Tabular_Content_EuiBasicTable_Expanded_Nested_Table_Without_Background.png",
+  "packages/eui/.loki/reference/chrome_mobile_Tabular_Content_EuiBasicTable_Expanded_Row.png",
+  "packages/eui/.loki/reference/chrome_mobile_Tabular_Content_EuiBasicTable_High_Contrast_Mobile.png",
+  "packages/eui/.loki/reference/chrome_mobile_Tabular_Content_EuiBasicTable_Large_Expanded_Row.png",
+  "packages/eui/.loki/reference/chrome_mobile_Tabular_Content_EuiBasicTable_Marked_Row.png",
+  "packages/eui/.loki/reference/chrome_mobile_Tabular_Content_EuiBasicTable_Playground.png",
+  "packages/eui/.loki/reference/chrome_mobile_Tabular_Content_EuiInMemoryTable_Kitchen_Sink.png",
+  "packages/eui/changelogs/upcoming/9423.md",
+  "packages/eui/src/components/basic_table/__snapshots__/basic_table.test.tsx.snap",
+  "packages/eui/src/components/table/_table_cell_content.styles.ts",
+  "packages/eui/src/components/table/_table_cell_content.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 12,
+ "findings": 1,
+ "ms": 199268
+}

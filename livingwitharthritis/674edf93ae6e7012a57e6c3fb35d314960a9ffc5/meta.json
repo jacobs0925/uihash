@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "674edf93ae6e7012a57e6c3fb35d314960a9ffc5",
+ "parent": "08125dec0761c32eabd736383be1a0a98ff4ed52",
+ "date": "2026-02-12",
+ "subject": "Migrate Resources to static data",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ResourcesSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 36231
+}

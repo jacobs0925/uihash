@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "1f88429ce3de1be3a9345b4fe1120511f7fe13a5",
+ "parent": "3dbe4fa41ee061828461fc3e144b0188e3477528",
+ "date": "2026-02-19",
+ "subject": "Integrate Gift Aid and webhook",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationBanner.tsx",
+  "src/hooks/useStripeDonation.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/config.toml",
+  "supabase/functions/create-donation-checkout/index.ts",
+  "supabase/functions/stripe-webhook/index.ts",
+  "supabase/migrations/20260219105837_6ee9b2ab-644e-4499-9c98-8be00313ab0f.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 49186
+}

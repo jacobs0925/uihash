@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "d6d7fabcad1566d39825ba1f0065774344d9c94c",
+ "parent": "1a147a9fecfeaf859073d5576effcbd1e8ae639d",
+ "date": "2026-02-19",
+ "subject": "Fix motion h1 p in Auth",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 45680
+}

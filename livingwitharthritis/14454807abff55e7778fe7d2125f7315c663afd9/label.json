@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "14454807abff55e7778fe7d2125f7315c663afd9",
+ "date": "2026-02-12",
+ "pr": null,
+ "title": "Remove free helpline from header",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1908 later commits"
+}

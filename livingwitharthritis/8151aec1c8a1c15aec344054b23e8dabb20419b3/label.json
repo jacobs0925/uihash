@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "8151aec1c8a1c15aec344054b23e8dabb20419b3",
+ "date": "2026-02-16",
+ "pr": null,
+ "title": "Add parallax scroll effects",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1880 later commits"
+}

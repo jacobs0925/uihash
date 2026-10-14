@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "56e1e84e1f63efc2fa22b256d488f57432ea0f8e",
+ "parent": "412fcee600ce3c2b4c5f1bbaed4e0405636ffd70",
+ "date": "2026-02-09",
+ "subject": "Shorten donation popup duration",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationNotification.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 34693
+}

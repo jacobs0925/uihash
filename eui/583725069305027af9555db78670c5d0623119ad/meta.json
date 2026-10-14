@@ -1,0 +1,21 @@
+{
+ "repo": "eui",
+ "sha": "583725069305027af9555db78670c5d0623119ad",
+ "parent": "5ff6c078a5675c89567b4b0c9a379132b4a2f0c2",
+ "date": "2026-03-17",
+ "subject": "[EuiTreeView] Fix visible children overflow (#9510)",
+ "pr": "9510",
+ "components": [
+  "tree_view"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9510.md",
+  "packages/eui/src/components/tree_view/tree_view_item.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 0,
+ "findings": 0,
+ "ms": 163696
+}

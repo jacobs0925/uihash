@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "27b813e05649715ae9f6fc1f3786e4df2ead7f3e",
+ "parent": "daff4977a6691e74805baa17dbb473ddecfea472",
+ "date": "2026-02-07",
+ "subject": "Mobile menu slide-in built",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 68014
+}

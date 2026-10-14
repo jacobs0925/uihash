@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "17dda3069626c9bda2647213a69d0b094e550350",
+ "parent": "c2e10045589cf20d3af519102fb00f1869799677",
+ "date": "2026-02-07",
+ "subject": "Replace hero video with 1080p video and remove animations",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/videos/hero-background.mp4",
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 113797
+}

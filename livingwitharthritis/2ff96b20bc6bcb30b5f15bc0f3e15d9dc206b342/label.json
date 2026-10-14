@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "2ff96b20bc6bcb30b5f15bc0f3e15d9dc206b342",
+ "date": "2026-02-08",
+ "pr": null,
+ "title": "Redesign with warm charity look",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "margin-right: 0px → auto undone by a6e37d83 \"Redesigned mobile UI and SEO\"; margin-left: 0px → auto undone by a6e37d83 \"Redesigned mobile UI and SEO\"; margin-right: 0px → auto undone by a6e37d83 \"Redesigned mobile UI and SEO\""
+}

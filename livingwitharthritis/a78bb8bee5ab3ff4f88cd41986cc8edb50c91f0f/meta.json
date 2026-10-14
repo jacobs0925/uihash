@@ -1,0 +1,32 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a78bb8bee5ab3ff4f88cd41986cc8edb50c91f0f",
+ "parent": "2da6c70a8a6f075b658872a217ccdb478a04434e",
+ "date": "2026-02-10",
+ "subject": "Polished UI and layout overhaul",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/ConditionsSection.tsx",
+  "src/components/DonationBanner.tsx",
+  "src/components/DonationTiersSection.tsx",
+  "src/components/Footer.tsx",
+  "src/components/FundraisingSection.tsx",
+  "src/components/Header.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/NutritionArticleSection.tsx",
+  "src/components/ServicesGrid.tsx",
+  "src/components/TestimonialsSection.tsx",
+  "src/components/VirtualPhysioSection.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 126,
+ "ms": 91137
+}

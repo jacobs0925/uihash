@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "c452609b1bfafbfddf235326e18c6772dcaf6516",
+ "parent": "3b927bb3c7a5a9792d5c8bdc266ac3ed509a5a7d",
+ "date": "2026-02-14",
+ "subject": "Removed footer copyright text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 39134
+}

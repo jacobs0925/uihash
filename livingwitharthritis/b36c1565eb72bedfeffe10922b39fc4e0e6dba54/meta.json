@@ -1,0 +1,28 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "b36c1565eb72bedfeffe10922b39fc4e0e6dba54",
+ "parent": "6710d254e0063044caa219f67ae414ef8df47c4e",
+ "date": "2026-02-14",
+ "subject": "Improve security and resilience",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/App.tsx",
+  "src/hooks/useAppointment.ts",
+  "src/hooks/useContact.ts",
+  "src/hooks/useRateLimit.ts",
+  "src/lib/sanitize.ts",
+  "src/pages/AdminAppointments.tsx",
+  "src/pages/AdminDashboard.tsx",
+  "supabase/functions/send-patient-email/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 47820
+}

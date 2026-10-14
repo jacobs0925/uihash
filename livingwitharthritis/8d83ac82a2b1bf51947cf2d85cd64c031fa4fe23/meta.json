@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "8d83ac82a2b1bf51947cf2d85cd64c031fa4fe23",
+ "parent": "08b3b3395f8df8449d4a07dadefd9e51f33f7c54",
+ "date": "2026-02-14",
+ "subject": "Load fonts asynchronously",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "index.html",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 54590
+}

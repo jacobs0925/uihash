@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "56e1e84e1f63efc2fa22b256d488f57432ea0f8e",
+ "date": "2026-02-09",
+ "pr": null,
+ "title": "Shorten donation popup duration",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1917 later commits"
+}

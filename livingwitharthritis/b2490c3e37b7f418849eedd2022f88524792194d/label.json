@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "b2490c3e37b7f418849eedd2022f88524792194d",
+ "date": "2026-02-12",
+ "pr": null,
+ "title": "Adjust hotspot positions for male mannequin",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1907 later commits"
+}

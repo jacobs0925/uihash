@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "08125dec0761c32eabd736383be1a0a98ff4ed52",
+ "parent": "a78bb8bee5ab3ff4f88cd41986cc8edb50c91f0f",
+ "date": "2026-02-10",
+ "subject": "Fix virtual physio module export",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/VirtualPhysioSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 28301
+}

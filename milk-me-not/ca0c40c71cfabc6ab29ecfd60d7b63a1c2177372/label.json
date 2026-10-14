@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "ca0c40c71cfabc6ab29ecfd60d7b63a1c2177372",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Refactor mobile app installation page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1140 later commits"
+}

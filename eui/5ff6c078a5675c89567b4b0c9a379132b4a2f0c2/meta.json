@@ -1,0 +1,32 @@
+{
+ "repo": "eui",
+ "sha": "5ff6c078a5675c89567b4b0c9a379132b4a2f0c2",
+ "parent": "e4eaf000a14a229bb4e8e500eebe17b25dfad4cf",
+ "date": "2026-03-17",
+ "subject": "[EuiFlyout] Support `hasAnimation=false` for overlay flyouts (#9428)",
+ "pr": "9428",
+ "components": [
+  "flyout"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9428.md",
+  "packages/eui/src/components/collapsible_nav/collapsible_nav.stories.tsx",
+  "packages/eui/src/components/collapsible_nav/collapsible_nav.test.tsx",
+  "packages/eui/src/components/flyout/flyout.component.tsx",
+  "packages/eui/src/components/flyout/flyout.stories.tsx",
+  "packages/eui/src/components/flyout/flyout.styles.ts",
+  "packages/eui/src/components/flyout/flyout.test.tsx",
+  "packages/eui/src/components/flyout/flyout_resizable.stories.tsx",
+  "packages/eui/src/components/flyout/manager/flyout_manager.stories.tsx",
+  "packages/eui/src/components/flyout/manager/flyout_sessions.stories.tsx",
+  "packages/eui/src/components/overlay_mask/overlay_mask.stories.tsx",
+  "packages/eui/src/components/overlay_mask/overlay_mask.test.tsx",
+  "packages/eui/src/components/overlay_mask/overlay_mask.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 24,
+ "findings": 0,
+ "ms": 350029
+}

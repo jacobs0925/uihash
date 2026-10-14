@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "71367e9496ea349a39086e22bc36130b0233965f",
+ "parent": "dd3119249fd614d32d44c22b0b434bb7e8a6f5a0",
+ "date": "2026-02-09",
+ "subject": "Fix ResourcesSection colors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ResourcesSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 28311
+}

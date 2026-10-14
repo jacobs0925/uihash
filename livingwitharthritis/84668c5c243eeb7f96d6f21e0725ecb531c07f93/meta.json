@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "84668c5c243eeb7f96d6f21e0725ecb531c07f93",
+ "parent": "e1bb763c12de014ad58965e9d8b66ae156006533",
+ "date": "2026-02-07",
+ "subject": "Removed Conditions A-Z link",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 81319
+}

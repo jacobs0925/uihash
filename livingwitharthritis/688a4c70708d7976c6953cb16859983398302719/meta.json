@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "688a4c70708d7976c6953cb16859983398302719",
+ "parent": "8a9284c843d42f04c304b0e459fdc3c4653ea92f",
+ "date": "2026-02-07",
+ "subject": "Footer cleanup and accreditations removal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 43431
+}

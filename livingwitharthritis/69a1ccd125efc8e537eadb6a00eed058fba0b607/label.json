@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "69a1ccd125efc8e537eadb6a00eed058fba0b607",
+ "date": "2026-02-12",
+ "pr": null,
+ "title": "Remove explore resources button",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1910 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "b3cc4e8c8c667f1a089d2b873caee90c5626ff5d",
+ "parent": "fb6cfe95632ec78c337820c90343f53b11b9ee24",
+ "date": "2026-02-09",
+ "subject": "Add pulsing glow to CTA",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 28234
+}

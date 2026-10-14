@@ -1,0 +1,26 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "58faea6bc152c106b9ec10de370532a674ff8790",
+ "parent": "7e9a134aa5b0ff14070169335e666a307573522e",
+ "date": "2026-02-07",
+ "subject": "Add anchors and tweaks",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/ConditionsSection.tsx",
+  "src/components/DonationNotification.tsx",
+  "src/components/Footer.tsx",
+  "src/components/FundraisingSection.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/NutritionArticleSection.tsx",
+  "src/components/ServicesGrid.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 87500
+}

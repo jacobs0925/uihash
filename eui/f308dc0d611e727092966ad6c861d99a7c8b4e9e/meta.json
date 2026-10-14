@@ -1,0 +1,27 @@
+{
+ "repo": "eui",
+ "sha": "f308dc0d611e727092966ad6c861d99a7c8b4e9e",
+ "parent": "7b725a11805d3cf4448308009c171e1780914d0a",
+ "date": "2026-03-16",
+ "subject": "feat(basic_table): Support `color` on `DefaultItemAction` in collapsed overflow menu (#9448)",
+ "pr": "9448",
+ "components": [
+  "context_menu"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9448.md",
+  "packages/eui/src/components/basic_table/__snapshots__/collapsed_item_actions.test.tsx.snap",
+  "packages/eui/src/components/basic_table/collapsed_item_actions.test.tsx",
+  "packages/eui/src/components/basic_table/collapsed_item_actions.tsx",
+  "packages/eui/src/components/context_menu/__snapshots__/context_menu_item.test.tsx.snap",
+  "packages/eui/src/components/context_menu/context_menu_item.styles.ts",
+  "packages/eui/src/components/context_menu/context_menu_item.test.tsx",
+  "packages/eui/src/components/context_menu/context_menu_item.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 6,
+ "findings": 0,
+ "ms": 173942
+}

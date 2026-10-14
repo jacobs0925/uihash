@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "688a4c70708d7976c6953cb16859983398302719",
+ "date": "2026-02-07",
+ "pr": null,
+ "title": "Footer cleanup and accreditations removal",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1936 later commits"
+}

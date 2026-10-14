@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "14454807abff55e7778fe7d2125f7315c663afd9",
+ "parent": "b97f8006968de50f9319ed87abb14a22a86eb2db",
+ "date": "2026-02-12",
+ "subject": "Remove free helpline from header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 68114
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "eui",
+ "sha": "0e1a3c969e9fdb51747bd01114f6985d87133ac5",
+ "parent": "4770339e24ef2035e86028b5f84f4472923934cc",
+ "date": "2026-05-06",
+ "subject": "[EuiToolTip] Prevent intercepting pointer events, do not show when content or title empty (#9636)",
+ "pr": "9636",
+ "components": [
+  "tool_tip"
+ ],
+ "files": [
+  "packages/eui/src/components/tool_tip/tool_tip.spec.tsx",
+  "packages/eui/src/components/tool_tip/tool_tip.stories.tsx",
+  "packages/eui/src/components/tool_tip/tool_tip.styles.ts",
+  "packages/eui/src/components/tool_tip/tool_tip.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 6,
+ "findings": 2,
+ "ms": 178299
+}

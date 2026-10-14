@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "de960087a02caba1639064a8909858e9aaae52b8",
+ "parent": "b3cc4e8c8c667f1a089d2b873caee90c5626ff5d",
+ "date": "2026-02-09",
+ "subject": "Diversified donation demo data",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationNotification.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 27393
+}

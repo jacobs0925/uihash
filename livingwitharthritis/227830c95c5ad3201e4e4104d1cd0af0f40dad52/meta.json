@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "227830c95c5ad3201e4e4104d1cd0af0f40dad52",
+ "parent": "2f59af3edfa137c14243338376a50ce4b836c9cf",
+ "date": "2026-02-18",
+ "subject": "Remove AI image button in hero",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 48306
+}

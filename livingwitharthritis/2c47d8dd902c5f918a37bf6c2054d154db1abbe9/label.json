@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "2c47d8dd902c5f918a37bf6c2054d154db1abbe9",
+ "date": "2026-02-07",
+ "pr": null,
+ "title": "Delete Common Types grid",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1948 later commits"
+}

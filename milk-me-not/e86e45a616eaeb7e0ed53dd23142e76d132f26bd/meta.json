@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e86e45a616eaeb7e0ed53dd23142e76d132f26bd",
+ "parent": "f7ec98c97883e98d258a3b8078bdca865ab56f95",
+ "date": "2025-10-12",
+ "subject": "Refactor mobile app banner",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 45811
+}

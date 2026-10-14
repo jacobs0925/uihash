@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "0b6f5a731e1414594cb1dba7d32a09a98435679f",
+ "parent": "1ae246c138ddaee336c2a5426b2dc858faf5cac2",
+ "date": "2026-02-15",
+ "subject": "Remove Donation Tiers Section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 25154
+}

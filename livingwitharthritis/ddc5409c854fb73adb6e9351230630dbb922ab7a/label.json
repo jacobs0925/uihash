@@ -5,8 +5,8 @@
  "date": "2026-01-16",
  "pr": null,
  "title": "Elevate landing visuals",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1987 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "width: auto → 100% undone by 2ff96b20 \"Redesign with warm charity look\"; margin-right: 0px → auto undone by 2ff96b20 \"Redesign with warm charity look\"; margin-left: 0px → auto undone by 2ff96b20 \"Redesign with warm charity look\""
 }

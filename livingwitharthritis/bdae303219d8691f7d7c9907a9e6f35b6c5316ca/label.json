@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "bdae303219d8691f7d7c9907a9e6f35b6c5316ca",
+ "date": "2026-02-18",
+ "pr": null,
+ "title": "Add booking CTA across UI",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 86d4b6dd, which restored d3e15b26 (35 commits discarded)"
+}

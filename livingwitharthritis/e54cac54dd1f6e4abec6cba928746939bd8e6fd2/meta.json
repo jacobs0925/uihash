@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "e54cac54dd1f6e4abec6cba928746939bd8e6fd2",
+ "parent": "7ce7dc3abb3b2d6e4b7780b64357f68d40d31ff5",
+ "date": "2026-02-18",
+ "subject": "Removed AI chat widget",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 35845
+}

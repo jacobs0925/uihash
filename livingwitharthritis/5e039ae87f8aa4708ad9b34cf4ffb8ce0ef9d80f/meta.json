@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "5e039ae87f8aa4708ad9b34cf4ffb8ce0ef9d80f",
+ "parent": "a718a9a5a27e201dd970bb0db9bca8bdf402cdc0",
+ "date": "2026-02-07",
+ "subject": "Remove Conditions heading A–Z",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConditionsSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 68174
+}

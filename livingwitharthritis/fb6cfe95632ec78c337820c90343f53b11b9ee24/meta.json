@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "fb6cfe95632ec78c337820c90343f53b11b9ee24",
+ "parent": "673f72f59134cb29c22f388e2c68f1de4633ea18",
+ "date": "2026-02-09",
+ "subject": "Intensified red glow shadows",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 57408
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "e1c5f33ea2d67b72c74954895d71b4bd0aa84690",
+ "parent": "7432dc165f7eac671281a90109a7a89cbbfc00a6",
+ "date": "2026-02-19",
+ "subject": "Replace header with div in header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 36538
+}

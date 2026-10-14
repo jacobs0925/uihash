@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "69a1ccd125efc8e537eadb6a00eed058fba0b607",
+ "parent": "2e88a6d325f812c952dce597bbfcebcdea6a7d0d",
+ "date": "2026-02-12",
+ "subject": "Remove explore resources button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 83483
+}

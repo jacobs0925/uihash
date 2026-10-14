@@ -1,0 +1,32 @@
+{
+ "repo": "eui",
+ "sha": "877de18b92f59401bed5324c01460abb27d38a80",
+ "parent": "5d0fffa6075a84fe2373fa497ee3ef7153748269",
+ "date": "2026-04-13",
+ "subject": "[EuiFormControlButton] Fix alignment for icons when no label is passed (#9588)",
+ "pr": "9588",
+ "components": [
+  "form"
+ ],
+ "files": [
+  "packages/eui/.loki/reference/chrome_desktop_Forms_EuiForm_EuiFormControlButton_High_Contrast.png",
+  "packages/eui/.loki/reference/chrome_desktop_Forms_EuiForm_EuiFormControlButton_High_Contrast_Dark_Mode.png",
+  "packages/eui/.loki/reference/chrome_desktop_Forms_EuiForm_EuiFormControlButton_Kitchensink.png",
+  "packages/eui/.loki/reference/chrome_desktop_Forms_EuiForm_EuiFormControlButton_Kitchensink_Dark_Mode.png",
+  "packages/eui/.loki/reference/chrome_mobile_Forms_EuiForm_EuiFormControlButton_High_Contrast.png",
+  "packages/eui/.loki/reference/chrome_mobile_Forms_EuiForm_EuiFormControlButton_High_Contrast_Dark_Mode.png",
+  "packages/eui/.loki/reference/chrome_mobile_Forms_EuiForm_EuiFormControlButton_Kitchensink.png",
+  "packages/eui/.loki/reference/chrome_mobile_Forms_EuiForm_EuiFormControlButton_Kitchensink_Dark_Mode.png",
+  "packages/eui/changelogs/upcoming/9588.md",
+  "packages/eui/src/components/form/form_control_button/form_control_button.stories.tsx",
+  "packages/eui/src/components/form/form_control_button/form_control_button.styles.ts",
+  "packages/eui/src/components/form/form_control_button/form_control_button.test.tsx",
+  "packages/eui/src/components/form/form_control_button/form_control_button.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 72,
+ "findings": 2,
+ "ms": 334988
+}

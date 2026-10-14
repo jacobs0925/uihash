@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "ddb4dbbeffdd2dcb847c3ca89f173fdd3f72791f",
+ "date": "2026-02-19",
+ "pr": null,
+ "title": "Remove hero image parallax",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 6933cc22, which restored ee23846f (16 commits discarded)"
+}

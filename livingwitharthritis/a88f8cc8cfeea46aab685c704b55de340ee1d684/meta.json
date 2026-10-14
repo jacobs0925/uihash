@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a88f8cc8cfeea46aab685c704b55de340ee1d684",
+ "parent": "4a3b41af0561abb1b5eee79d6d55fb99e9a9c27d",
+ "date": "2026-02-08",
+ "subject": "Enhance joint diagram visuals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/body-mannequin.png",
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 53514
+}

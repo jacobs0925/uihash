@@ -1,0 +1,22 @@
+{
+ "repo": "eui",
+ "sha": "6cc61841b6816296caa24272539767fdd9eac46a",
+ "parent": "7f2df0d88148c5dc009526a1af82c8a38560e8a6",
+ "date": "2025-10-01",
+ "subject": "[EuiComboBox] Break long strings properly when `rowHeight=\"auto\"` (#9063)",
+ "pr": "9063",
+ "components": [
+  "combo_box"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/9063.md",
+  "packages/eui/src/components/combo_box/combo_box.stories.tsx",
+  "packages/eui/src/components/combo_box/combo_box_options_list/combo_box_options_list.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 21,
+ "findings": 4,
+ "ms": 337883
+}

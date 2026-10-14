@@ -1,0 +1,37 @@
+{
+ "repo": "eui",
+ "sha": "35793c06d79d83a83ee2e6182631f996d2eeaa6b",
+ "parent": "d3f5b756f291b1976c56ea9f900d389d04b7c937",
+ "date": "2026-05-04",
+ "subject": "[EuiToolTip] Update the default font size (#9627)",
+ "pr": "9627",
+ "components": [
+  "tool_tip"
+ ],
+ "files": [
+  "packages/eui/.loki/reference/chrome_desktop_Display_EuiIconTip_Playground.png",
+  "packages/eui/.loki/reference/chrome_desktop_Display_EuiToolTip_Dark_Mode.png",
+  "packages/eui/.loki/reference/chrome_desktop_Display_EuiToolTip_High_Contrast_Mode.png",
+  "packages/eui/.loki/reference/chrome_desktop_Display_EuiToolTip_Playground.png",
+  "packages/eui/.loki/reference/chrome_desktop_Forms_EuiColorPicker_EuiColorPickerSwatch_Color_Label_Tooltip.png",
+  "packages/eui/.loki/reference/chrome_desktop_Navigation_EuiButtonGroup_Disabled_With_Tooltips.png",
+  "packages/eui/.loki/reference/chrome_desktop_Navigation_EuiButtonGroup_With_Tooltips.png",
+  "packages/eui/.loki/reference/chrome_desktop_Navigation_EuiSplitButton_With_Tooltip.png",
+  "packages/eui/.loki/reference/chrome_mobile_Display_EuiIconTip_Playground.png",
+  "packages/eui/.loki/reference/chrome_mobile_Display_EuiToolTip_Dark_Mode.png",
+  "packages/eui/.loki/reference/chrome_mobile_Display_EuiToolTip_High_Contrast_Mode.png",
+  "packages/eui/.loki/reference/chrome_mobile_Display_EuiToolTip_Playground.png",
+  "packages/eui/.loki/reference/chrome_mobile_Forms_EuiColorPicker_EuiColorPickerSwatch_Color_Label_Tooltip.png",
+  "packages/eui/.loki/reference/chrome_mobile_Navigation_EuiButtonGroup_Disabled_With_Tooltips.png",
+  "packages/eui/.loki/reference/chrome_mobile_Navigation_EuiButtonGroup_With_Tooltips.png",
+  "packages/eui/.loki/reference/chrome_mobile_Navigation_EuiSplitButton_With_Tooltip.png",
+  "packages/eui/changelogs/upcoming/9627.md",
+  "packages/eui/src/components/tool_tip/tool_tip.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 6,
+ "findings": 7,
+ "ms": 216697
+}

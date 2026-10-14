@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "90edf5da709debc0d6c2d247e55dc8e62e34c8b1",
+ "date": "2026-02-13",
+ "pr": null,
+ "title": "Cleaned up hero section",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-bottom: 24px → 32px undone by ef4491b7 \"Elevated site to premium look\"; margin-bottom: 24px → 32px undone by ef4491b7 \"Elevated site to premium look\"; margin-bottom: 24px → 32px undone by ef4491b7 \"Elevated site to premium look\""
+}

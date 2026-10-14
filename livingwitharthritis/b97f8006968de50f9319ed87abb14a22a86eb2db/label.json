@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "b97f8006968de50f9319ed87abb14a22a86eb2db",
+ "date": "2026-02-12",
+ "pr": null,
+ "title": "Remove backend explore resources",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1909 later commits"
+}

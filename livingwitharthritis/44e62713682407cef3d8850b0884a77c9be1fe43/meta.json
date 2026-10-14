@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "44e62713682407cef3d8850b0884a77c9be1fe43",
+ "parent": "2d3f90bdf37a12bf1933d4d2866ffe3ca3a9bd97",
+ "date": "2026-02-15",
+ "subject": "Refined footer links",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 29668
+}

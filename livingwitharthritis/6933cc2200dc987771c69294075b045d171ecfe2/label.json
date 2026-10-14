@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "6933cc2200dc987771c69294075b045d171ecfe2",
+ "date": "2026-02-19",
+ "pr": null,
+ "title": "Reverted to commit ee23846f7b0e181e6e54014c85a5db4cde4bce72",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "position: ∅ → relative undone by 964073a9 \"Remove banner component usage\"; background-color: ∅ → rgb(16, 24, 40) undone by 964073a9 \"Remove banner component usage\"; position: ∅ → relative undone by 964073a9 \"Remove banner component usage\""
+}

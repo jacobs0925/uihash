@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "af27d03a65d89beaad75d0c52a1e47e1ac151203",
+ "parent": "5e039ae87f8aa4708ad9b34cf4ffb8ce0ef9d80f",
+ "date": "2026-02-07",
+ "subject": "Removed Conditions intro text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConditionsSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 81982
+}

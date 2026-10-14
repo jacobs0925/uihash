@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "17dda3069626c9bda2647213a69d0b094e550350",
+ "date": "2026-02-07",
+ "pr": null,
+ "title": "Replace hero video with 1080p video and remove animations",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1949 later commits"
+}

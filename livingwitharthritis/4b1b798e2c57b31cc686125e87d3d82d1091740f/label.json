@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "4b1b798e2c57b31cc686125e87d3d82d1091740f",
+ "date": "2026-02-13",
+ "pr": null,
+ "title": "Add admin booking diary",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1901 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "e1bb763c12de014ad58965e9d8b66ae156006533",
+ "parent": "af27d03a65d89beaad75d0c52a1e47e1ac151203",
+ "date": "2026-02-07",
+ "subject": "Remove Medical Resources caption",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConditionsSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 97510
+}

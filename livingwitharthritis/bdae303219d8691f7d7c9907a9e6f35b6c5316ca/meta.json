@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "bdae303219d8691f7d7c9907a9e6f35b6c5316ca",
+ "parent": "4604c85c44237610dabae9f9b6fee2338c65f142",
+ "date": "2026-02-18",
+ "subject": "Add booking CTA across UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/Header.tsx",
+  "src/components/HeroSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 17,
+ "ms": 45195
+}

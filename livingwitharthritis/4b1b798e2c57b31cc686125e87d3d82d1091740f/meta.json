@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4b1b798e2c57b31cc686125e87d3d82d1091740f",
+ "parent": "90edf5da709debc0d6c2d247e55dc8e62e34c8b1",
+ "date": "2026-02-13",
+ "subject": "Add admin booking diary",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/BookingDiary.tsx",
+  "src/hooks/useAdminAppointments.ts",
+  "src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 106321
+}

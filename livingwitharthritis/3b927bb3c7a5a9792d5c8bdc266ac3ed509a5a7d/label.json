@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "3b927bb3c7a5a9792d5c8bdc266ac3ed509a5a7d",
+ "date": "2026-02-14",
+ "pr": null,
+ "title": "Move hero image public asset",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1897 later commits"
+}

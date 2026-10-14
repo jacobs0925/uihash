@@ -1,0 +1,24 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "eefe2e1b019eac3723a00f0f44af81dd437d039f",
+ "parent": "fb5de2c6a6a93656a93afef6eacf83cdd4440c70",
+ "date": "2026-02-15",
+ "subject": "Add nutrition image gallery",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/nutrition-berries.jpg",
+  "src/assets/nutrition-grilled-mackerel.jpg",
+  "src/assets/nutrition-mediterranean.jpg",
+  "src/assets/nutrition-nuts-seeds.jpg",
+  "src/assets/nutrition-salmon-kale.jpg",
+  "src/components/NutritionArticleSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 25993
+}

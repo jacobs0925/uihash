@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "20e501464fa99c3a140f3e04f0ae1d4ac4b3eab2",
+ "date": "2026-02-15",
+ "pr": null,
+ "title": "Open Our Mission modal in footer",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 0px → ∅ undone by 4604c85c \"Improve accessibility across UI\"; padding-bottom: 0px → ∅ undone by 4604c85c \"Improve accessibility across UI\""
+}

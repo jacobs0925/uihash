@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "673f72f59134cb29c22f388e2c68f1de4633ea18",
+ "parent": "78d7175bf598a59d9538e95c621088fcc9c61a84",
+ "date": "2026-02-09",
+ "subject": "Visual edit in Lovable",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 34330
+}

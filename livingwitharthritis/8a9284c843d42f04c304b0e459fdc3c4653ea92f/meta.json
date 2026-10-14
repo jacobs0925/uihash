@@ -1,0 +1,28 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "8a9284c843d42f04c304b0e459fdc3c4653ea92f",
+ "parent": "008b879d525c979dcd87f3016ba7b5e2bbe5c0b7",
+ "date": "2026-02-07",
+ "subject": "Enhance site with premium impact",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/components/Footer.tsx",
+  "src/components/Header.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/ImpactBanner.tsx",
+  "src/components/TestimonialsSection.tsx",
+  "src/index.css",
+  "src/pages/Index.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 16,
+ "ms": 44120
+}

@@ -1,0 +1,31 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "5c8a207eba802aa89b95f7e08ec4ee59595c9cac",
+ "parent": "13e4944ba33150072aa5d3bb505d2822a859a260",
+ "date": "2026-02-19",
+ "subject": "Reverted to commit ee23846f7b0e181e6e54014c85a5db4cde4bce72",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/DonationBanner.tsx",
+  "src/components/HeroSection.tsx",
+  "src/hooks/useStripeDonation.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Index.tsx",
+  "supabase/config.toml",
+  "supabase/functions/create-donation-checkout/index.ts",
+  "supabase/functions/stripe-webhook/index.ts",
+  "supabase/migrations/20260219105837_6ee9b2ab-644e-4499-9c98-8be00313ab0f.sql",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 65207
+}

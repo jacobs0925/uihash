@@ -1,0 +1,30 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a6e37d83e2a0f4a220af90005581ceafda15abcc",
+ "parent": "2ff96b20bc6bcb30b5f15bc0f3e15d9dc206b342",
+ "date": "2026-02-08",
+ "subject": "Redesigned mobile UI and SEO",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "index.html",
+  "src/components/AboutSection.tsx",
+  "src/components/ConditionsSection.tsx",
+  "src/components/DonationTiersSection.tsx",
+  "src/components/FundraisingSection.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/ImpactBanner.tsx",
+  "src/components/NutritionArticleSection.tsx",
+  "src/components/ServicesGrid.tsx",
+  "src/components/TestimonialsSection.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 17,
+ "ms": 55349
+}

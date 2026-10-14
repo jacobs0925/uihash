@@ -1,0 +1,24 @@
+{
+ "repo": "eui",
+ "sha": "5766252d780d223f95759bfeddb932a2d23b50c8",
+ "parent": "877de18b92f59401bed5324c01460abb27d38a80",
+ "date": "2026-04-13",
+ "subject": "[EuiCheckableCard] Fix checked border (#9589)",
+ "pr": "9589",
+ "components": [
+  "card"
+ ],
+ "files": [
+  "packages/eui/.loki/reference/chrome_desktop_Display_EuiCheckableCard_Checked.png",
+  "packages/eui/.loki/reference/chrome_mobile_Display_EuiCheckableCard_Checked.png",
+  "packages/eui/changelogs/upcoming/9589.md",
+  "packages/eui/src/components/card/checkable_card/checkable_card.stories.tsx",
+  "packages/eui/src/components/card/checkable_card/checkable_card.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 6,
+ "findings": 0,
+ "ms": 193177
+}

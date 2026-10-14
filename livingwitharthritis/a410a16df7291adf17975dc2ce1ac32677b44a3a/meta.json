@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a410a16df7291adf17975dc2ce1ac32677b44a3a",
+ "parent": "ffb6ac03f2b229c592289e1d63ccfd4211bc4acf",
+ "date": "2026-02-15",
+ "subject": "Clean nutrition backend button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx",
+  "src/components/NutritionArticleSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 38447
+}

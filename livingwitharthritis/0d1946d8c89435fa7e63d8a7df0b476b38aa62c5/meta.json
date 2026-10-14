@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "0d1946d8c89435fa7e63d8a7df0b476b38aa62c5",
+ "parent": "45c481fb7daad49b985732e31d4e2acf06231f5e",
+ "date": "2026-02-18",
+ "subject": "Enhance hero image delivery",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "index.html",
+  "public/images/hero-community.webp",
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 34607
+}

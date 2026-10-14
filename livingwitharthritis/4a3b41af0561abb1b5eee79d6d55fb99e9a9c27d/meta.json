@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4a3b41af0561abb1b5eee79d6d55fb99e9a9c27d",
+ "parent": "1636d0286e712fede80ddb7a85fc5f7e6c0b2b6b",
+ "date": "2026-02-08",
+ "subject": "Revamp joint exercise diagram",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 56161
+}

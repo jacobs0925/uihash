@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "b97f8006968de50f9319ed87abb14a22a86eb2db",
+ "parent": "69a1ccd125efc8e537eadb6a00eed058fba0b607",
+ "date": "2026-02-12",
+ "subject": "Remove backend explore resources",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ResourcesSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 54060
+}

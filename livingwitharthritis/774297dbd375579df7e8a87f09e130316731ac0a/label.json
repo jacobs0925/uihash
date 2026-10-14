@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "774297dbd375579df7e8a87f09e130316731ac0a",
+ "date": "2026-02-12",
+ "pr": null,
+ "title": "Regenerated front-facing mannequin",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1906 later commits"
+}

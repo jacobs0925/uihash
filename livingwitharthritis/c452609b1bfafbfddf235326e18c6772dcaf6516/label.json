@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "c452609b1bfafbfddf235326e18c6772dcaf6516",
+ "date": "2026-02-14",
+ "pr": null,
+ "title": "Removed footer copyright text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1896 later commits"
+}

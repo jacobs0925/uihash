@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "678b0b7c9501655cb98fa16fdeb1176418310928",
+ "parent": "34b808b5c24ccacaab559e61199ac6339e75651e",
+ "date": "2026-02-16",
+ "subject": "Added building banner on header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 43278
+}

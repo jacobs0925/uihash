@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "34b808b5c24ccacaab559e61199ac6339e75651e",
+ "parent": "8151aec1c8a1c15aec344054b23e8dabb20419b3",
+ "date": "2026-02-16",
+ "subject": "Add parallax to sections",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConditionsSection.tsx",
+  "src/components/VirtualPhysioSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 27194
+}

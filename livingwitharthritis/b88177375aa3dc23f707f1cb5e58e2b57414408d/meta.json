@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "b88177375aa3dc23f707f1cb5e58e2b57414408d",
+ "parent": "c926df15851b2326c71ffbf6272c13a472647e4f",
+ "date": "2026-02-17",
+ "subject": "Clean up appointment modal calls",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AppointmentModal.tsx",
+  "supabase/config.toml"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 27502
+}

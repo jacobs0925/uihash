@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "a410a16df7291adf17975dc2ce1ac32677b44a3a",
+ "date": "2026-02-15",
+ "pr": null,
+ "title": "Clean nutrition backend button",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1890 later commits"
+}

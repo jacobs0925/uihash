@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "2531f2a6214a3c812d45bc9b47b1f932d4ab4bd4",
+ "parent": "e9452492446be38c595f404b0b829d8216851309",
+ "date": "2026-02-12",
+ "subject": "Improve hotspot visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 33358
+}

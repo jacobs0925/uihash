@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "703baad04801b3eee89f96791bab0f3ebcf7d696",
+ "parent": "56e1e84e1f63efc2fa22b256d488f57432ea0f8e",
+ "date": "2026-02-09",
+ "subject": "Update donation popup behavior and data",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationNotification.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 53429
+}

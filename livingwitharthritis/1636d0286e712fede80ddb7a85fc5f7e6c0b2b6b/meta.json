@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "1636d0286e712fede80ddb7a85fc5f7e6c0b2b6b",
+ "parent": "a6e37d83e2a0f4a220af90005581ceafda15abcc",
+ "date": "2026-02-08",
+ "subject": "Add interactive joint diagram",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/assets/joint-diagram-ref.png",
+  "src/components/JointExerciseSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 53066
+}

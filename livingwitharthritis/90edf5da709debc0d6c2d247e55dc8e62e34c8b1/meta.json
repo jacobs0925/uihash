@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "90edf5da709debc0d6c2d247e55dc8e62e34c8b1",
+ "parent": "904aebbd516ff73b4aaf68c0a316deae1ae4795d",
+ "date": "2026-02-13",
+ "subject": "Cleaned up hero section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 10,
+ "ms": 64384
+}

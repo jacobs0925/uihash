@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "904aebbd516ff73b4aaf68c0a316deae1ae4795d",
+ "parent": "2531f2a6214a3c812d45bc9b47b1f932d4ab4bd4",
+ "date": "2026-02-12",
+ "subject": "Revise joint exercises UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/body-mannequin.png",
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 65721
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "c926df15851b2326c71ffbf6272c13a472647e4f",
+ "parent": "d59bb4ecf0af15b8c40b039a72513a272adc1aab",
+ "date": "2026-02-17",
+ "subject": "Enhance appointment flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AppointmentModal.tsx",
+  "src/hooks/useAdminAppointments.ts",
+  "supabase/functions/book-appointment/index.ts",
+  "supabase/functions/notify-patient-status/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 27459
+}

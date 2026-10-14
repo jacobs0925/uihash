@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "93aa72e5b4e3e840866498161cd06172e1719f44",
+ "parent": "261eb285b8dea0e6e28444e6923d41c4d986125d",
+ "date": "2026-01-26",
+ "subject": "Harden MapboxWorldMap loading",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30234
+}

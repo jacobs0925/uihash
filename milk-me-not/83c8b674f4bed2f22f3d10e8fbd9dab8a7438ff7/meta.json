@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "83c8b674f4bed2f22f3d10e8fbd9dab8a7438ff7",
+ "parent": "49bfd42ece559ebfc34471249c8ee2e62329f8b2",
+ "date": "2026-01-03",
+ "subject": "Make delete buttons solid red",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AddMilkTest.tsx",
+  "src/components/milk-test/UserResultsContainer.tsx",
+  "src/components/milk-test/edit/EditMilkTestForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 34855
+}

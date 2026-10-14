@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "897e5b3be2c139b000c80234c3f5e6a6b4982ec7",
+ "parent": "ce13467e6ac072f9a21bb6e9ff12adcc2987a272",
+ "date": "2026-01-10",
+ "subject": "Enhance mobile filter icons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30686
+}

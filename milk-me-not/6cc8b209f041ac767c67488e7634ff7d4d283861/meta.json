@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6cc8b209f041ac767c67488e7634ff7d4d283861",
+ "parent": "897e5b3be2c139b000c80234c3f5e6a6b4982ec7",
+ "date": "2026-01-10",
+ "subject": "Add icons to feed badges",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedProductInfo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30308
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "440e858a608fcec85f8cf652cdc07716927e6577",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Restore subtle background timeline in About page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 758 later commits"
+}

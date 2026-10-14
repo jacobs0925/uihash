@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "87db52d6bb0957c765027b8ac0406734b6235c45",
+ "parent": "25621093b5fb185adaf03f57d42f52e3f507844a",
+ "date": "2026-02-13",
+ "subject": "Refined profile UI typography",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/ProfileContent.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 34969
+}

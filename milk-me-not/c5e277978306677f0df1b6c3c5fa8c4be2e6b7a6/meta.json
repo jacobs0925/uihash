@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c5e277978306677f0df1b6c3c5fa8c4be2e6b7a6",
+ "parent": "c6c02856187c7cdf080a84eb6d4d9d9c3fe4d401",
+ "date": "2026-01-30",
+ "subject": "Remove country from edit shop and enable inline rename",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/shop/EditShopDialog.tsx",
+  "src/components/milk-test/shop/ShopSuggestions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30024
+}

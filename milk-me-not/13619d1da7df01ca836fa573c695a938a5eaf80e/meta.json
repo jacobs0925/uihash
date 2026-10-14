@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "13619d1da7df01ca836fa573c695a938a5eaf80e",
+ "parent": "c59be4025d919147f9e8f91f6675833a5d96117e",
+ "date": "2026-01-11",
+ "subject": "Make mobile filter collapsible",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ResultsContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 40220
+}

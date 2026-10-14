@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0c04e56cd9a25620dbc79b1f61e983fcd9404459",
+ "parent": "267341b88c0c317f17643cefc71d477d7834476f",
+ "date": "2026-01-30",
+ "subject": "Disable auto focus in edit mode",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/BrandSelect.tsx",
+  "src/components/milk-test/registration-ui/FormSections.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30613
+}

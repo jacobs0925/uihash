@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "fc10f2c5bb5ad6e69083c7991cce497557b527f4",
+ "parent": "cd658151cbb08d8a0daf5a62a7f042633240aaa2",
+ "date": "2026-01-30",
+ "subject": "Replace hardcoded color with design token",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/ResetPassword.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 47395
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "6d612f9c20c63f601ec22f6bacfd4de7fac87a44",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Disable hover on touch devices",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 697 later commits"
+}

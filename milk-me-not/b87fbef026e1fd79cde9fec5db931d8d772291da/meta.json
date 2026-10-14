@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "b87fbef026e1fd79cde9fec5db931d8d772291da",
+ "parent": "3b07bffdd99a484fb430d98281a557eb3f72c899",
+ "date": "2025-12-27",
+ "subject": "Add Coming Soon for Google Play",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/MobileApp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 29028
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "814cb1c2250eeb02b8044b316aaba1aa60a8aa40",
+ "parent": "dcaebccc48a849a6e4dcc633d46b90a133451c2b",
+ "date": "2025-12-27",
+ "subject": "Unify AddMilkTest sections",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AddMilkTest.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21881
+}

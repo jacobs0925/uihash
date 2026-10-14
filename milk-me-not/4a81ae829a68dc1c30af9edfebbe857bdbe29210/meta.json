@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4a81ae829a68dc1c30af9edfebbe857bdbe29210",
+ "parent": "85f7d1112b835550034d072e87ed15d9f09f79e1",
+ "date": "2026-02-22",
+ "subject": "Conditional realtime subscription on auth",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/NotificationContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 32548
+}

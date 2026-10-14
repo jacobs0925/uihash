@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f7e4dda4ab5bf7d242f0581735c39e5a660503ce",
+ "parent": "c1e36615930ed7e85af7b258393c605883760397",
+ "date": "2025-12-28",
+ "subject": "Add mobile logo to auth page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 35717
+}

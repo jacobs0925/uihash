@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "dacfcf9455c0734578395973bf3f6eb2b8ace879",
+ "parent": "5a9805020b8ddbe34df9d307547ecb645418e449",
+ "date": "2026-02-06",
+ "subject": "Unify profile access flow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/account/MobileSettingsMenu.tsx",
+  "src/pages/Account.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 34796
+}

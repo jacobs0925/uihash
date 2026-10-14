@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f785556ee0652546011ca2434de47a8443175549",
+ "parent": "afd7c0ceb69720f1c2cec579f2afdda72cb2667a",
+ "date": "2025-12-27",
+ "subject": "Add design system docs page",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/DesignSystem.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22082
+}

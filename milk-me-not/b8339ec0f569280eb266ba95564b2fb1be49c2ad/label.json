@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "b8339ec0f569280eb266ba95564b2fb1be49c2ad",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Hide Add Test on mobile",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 755 later commits"
+}

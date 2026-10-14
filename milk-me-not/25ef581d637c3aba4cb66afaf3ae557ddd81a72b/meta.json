@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "25ef581d637c3aba4cb66afaf3ae557ddd81a72b",
+ "parent": "115a5808a3c7518bb31aaafbb9d33ef3c5f38a1a",
+ "date": "2026-01-28",
+ "subject": "Semantic tokens in Home.tsx",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 41434
+}

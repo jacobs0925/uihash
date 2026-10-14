@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5686d5163c56c948198e99b7eee67a6495a60866",
+ "parent": "fc3cfba4c52c5d257b699eeee03682cfc81cba55",
+ "date": "2025-12-28",
+ "subject": "Fix banner on tablets",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 34290
+}

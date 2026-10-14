@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e51534ca431a1bc936704bd58303a552aa6a8071",
+ "parent": "42aa782c8b06e36fec76f672e4758513a3660e1a",
+ "date": "2025-11-24",
+ "subject": "Remove about timeline line",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 34279
+}

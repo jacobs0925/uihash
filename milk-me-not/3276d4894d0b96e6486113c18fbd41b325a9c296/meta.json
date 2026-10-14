@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3276d4894d0b96e6486113c18fbd41b325a9c296",
+ "parent": "3e03098ff303f4a48e1fced52b2e733455a5ab37",
+ "date": "2026-01-11",
+ "subject": "Enhance mobile sort UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 40479
+}

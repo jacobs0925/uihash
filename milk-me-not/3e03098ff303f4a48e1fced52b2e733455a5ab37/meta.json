@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3e03098ff303f4a48e1fced52b2e733455a5ab37",
+ "parent": "1262dea65586c18c7c2600fd6f903d02e0c0ecc3",
+ "date": "2026-01-11",
+ "subject": "Make sort mobile single tap",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 29992
+}

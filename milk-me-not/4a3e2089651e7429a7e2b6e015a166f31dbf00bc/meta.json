@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4a3e2089651e7429a7e2b6e015a166f31dbf00bc",
+ "parent": "34e2e824aba4623bf730052736603eacfa47b273",
+ "date": "2025-12-29",
+ "subject": "Add animated discovery counter",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 29918
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4e7ddfbf36a9515b36392f8eaca51ea4e67ded03",
+ "parent": "4078f55935ff2118a97b6884684e1e3553735e41",
+ "date": "2026-02-04",
+ "subject": "Centered sort label on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 31415
+}

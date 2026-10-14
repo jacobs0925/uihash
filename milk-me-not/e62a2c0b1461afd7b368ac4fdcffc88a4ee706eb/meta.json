@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e62a2c0b1461afd7b368ac4fdcffc88a4ee706eb",
+ "parent": "b06fa068c343f1b4442c7cff65928e79e9bb116d",
+ "date": "2026-02-17",
+ "subject": "Improve milk tests pagination",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useProductTests.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Feed.tsx",
+  "supabase/migrations/20260217213421_71d7602e-89ee-435c-b86c-98c60ac9990b.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34523
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "d94ee13f713cd9b9bbfdf65314df6272388953dd",
+ "date": "2025-12-23",
+ "pr": null,
+ "title": "Consolidate design tokens",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 733 later commits"
+}

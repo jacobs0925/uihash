@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "33c069469cec99c709f37a32931c49860528451a",
+ "parent": "c5e277978306677f0df1b6c3c5fa8c4be2e6b7a6",
+ "date": "2026-01-30",
+ "subject": "Removed EditShopDialog.tsx",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/shop/EditShopDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 33903
+}

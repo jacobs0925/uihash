@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "57ebcd10f56bcd2796f1c4a8b4355923e8402562",
+ "parent": "5760a56e18d882657567fd28d64081c350780d64",
+ "date": "2026-01-30",
+ "subject": "Introduce shared hooks for profile stats and feed highlight",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useHighlightScroll.ts",
+  "src/hooks/useProfileStats.ts",
+  "src/pages/Feed.tsx",
+  "src/pages/Profile.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 36039
+}

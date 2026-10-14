@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "1542d8ba784235c5842b0cde9e378927f503b7ff",
+ "date": "2026-01-30",
+ "pr": null,
+ "title": "Fix password reset flow",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 488 later commits"
+}

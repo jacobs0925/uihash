@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "dbcaa62c7e1286136a9228c7b1c288d2ccd8f777",
+ "parent": "59bd224844f8e5dabe8519d2f2c033b70fc09e4b",
+ "date": "2025-12-29",
+ "subject": "Code edited in Lovable Code Editor",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 30270
+}

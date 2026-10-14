@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c94d91b29c7cc4e352ccf79714ce3046049ec0fe",
+ "parent": "85d0b3ef768c02d25c5741fbf95a792d7cf7c910",
+ "date": "2025-12-28",
+ "subject": "Fix mobile filter bar sizing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22262
+}

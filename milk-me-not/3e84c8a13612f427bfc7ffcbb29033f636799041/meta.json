@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3e84c8a13612f427bfc7ffcbb29033f636799041",
+ "parent": "85843a29762f033800ea307089c4bf9c5a6d9ea4",
+ "date": "2025-11-24",
+ "subject": "Reflow contact to two columns",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 33399
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "95fcd9ccce1c517fad7ed51ff44dcc09a7e4236e",
+ "parent": "981bd69175a387381a48a9a3beffc05f1cf873aa",
+ "date": "2026-02-09",
+ "subject": "Refined rating icon colors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/ProfileContent.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 34989
+}

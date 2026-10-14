@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "3e84c8a13612f427bfc7ffcbb29033f636799041",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Reflow contact to two columns",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 766 later commits"
+}

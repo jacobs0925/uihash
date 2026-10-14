@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "783d87ebe148704a611f4984ad94bd354c915f79",
+ "parent": "60f1b373af6dd9ee79f225c37c2984405790221c",
+ "date": "2025-12-28",
+ "subject": "Align delete button outline",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/edit/EditMilkTestForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 26012
+}

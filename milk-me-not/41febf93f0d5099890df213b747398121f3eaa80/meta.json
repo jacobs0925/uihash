@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "41febf93f0d5099890df213b747398121f3eaa80",
+ "parent": "29e2a870dd110f8cd853fb5307a0e598cd62bff1",
+ "date": "2025-11-24",
+ "subject": "Make FAQ smaller on mobile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 28414
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "70cd1992af0dfce946c6002fcfd8640e1b55fef3",
+ "parent": "5a47dc3b2f2d130baf22a63cdfdceec2224df61b",
+ "date": "2025-12-27",
+ "subject": "Hide QR code on tablet",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx",
+  "src/pages/MobileApp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 28045
+}

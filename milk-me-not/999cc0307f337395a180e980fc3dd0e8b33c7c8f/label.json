@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "999cc0307f337395a180e980fc3dd0e8b33c7c8f",
+ "date": "2026-01-03",
+ "pr": null,
+ "title": "Update delete dialog title",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 616 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c21cdd038dfc2b0cacfb5b6d4b12177babb3ad4c",
+ "parent": "7768078e64d6c15dab9457947a6cb5183eeb9bd1",
+ "date": "2026-01-11",
+ "subject": "Shorten mobile sort labels",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30566
+}

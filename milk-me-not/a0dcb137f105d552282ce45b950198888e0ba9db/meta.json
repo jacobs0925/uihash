@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a0dcb137f105d552282ce45b950198888e0ba9db",
+ "parent": "ac3623580434acd9ce49f6a7a8849dffb6b69a41",
+ "date": "2026-01-28",
+ "subject": "Potential fix for code scanning alert no. 5: Incomplete multi-character sanitization (#28)",
+ "pr": "28",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 31799
+}

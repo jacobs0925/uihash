@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "c881907711cc654df4b588c1109ba686a4e7a017",
+ "date": "2025-12-24",
+ "pr": null,
+ "title": "Migrate color tokens in pages",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 731 later commits"
+}

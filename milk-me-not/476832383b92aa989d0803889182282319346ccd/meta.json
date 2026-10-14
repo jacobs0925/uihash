@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "476832383b92aa989d0803889182282319346ccd",
+ "parent": "99a0306b3c087da2e9250d904482b3cb374f7816",
+ "date": "2026-01-11",
+ "subject": "Fix extra space after filter bar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30385
+}

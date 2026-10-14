@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3368711c2178cae38f4e44f999eb422b4d0fef07",
+ "parent": "87db52d6bb0957c765027b8ac0406734b6235c45",
+ "date": "2026-02-13",
+ "subject": "Increase member joined text size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/ProfileContent.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 34632
+}

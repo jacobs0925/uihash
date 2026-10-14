@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "4c6bd3b45f67822a2ba58f71b59f662ec604e814",
+ "date": "2026-02-17",
+ "pr": null,
+ "title": "Match add button to badge shape",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 413 later commits"
+}

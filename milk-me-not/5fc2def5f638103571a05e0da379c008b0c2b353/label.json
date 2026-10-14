@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "5fc2def5f638103571a05e0da379c008b0c2b353",
+ "date": "2026-01-30",
+ "pr": null,
+ "title": "Cleanup unused imports and streamline responsive logic",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 493 later commits"
+}

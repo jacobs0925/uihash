@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "234d2e185e116cc96e4e16151753db45acc1cd76",
+ "parent": "80e83da439324a11794a73fcfb0aba3a9aa707e5",
+ "date": "2026-02-02",
+ "subject": "Fix pigeon click on contact page",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/contact/ContactCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 33624
+}

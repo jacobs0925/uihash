@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "53f27385d9f67ba9c8c6e6b0f0616b2720ebe1cc",
+ "parent": "0565c589b501c4b0fd9cfbe8621a929c83989779",
+ "date": "2026-02-17",
+ "subject": "Increase like button tap target",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedEngagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 44104
+}

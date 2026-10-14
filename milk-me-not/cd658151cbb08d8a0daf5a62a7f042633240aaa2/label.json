@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "cd658151cbb08d8a0daf5a62a7f042633240aaa2",
+ "date": "2026-01-30",
+ "pr": null,
+ "title": "Fix show Password Updated state",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 484 later commits"
+}

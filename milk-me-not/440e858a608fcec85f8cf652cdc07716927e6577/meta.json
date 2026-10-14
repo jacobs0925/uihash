@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "440e858a608fcec85f8cf652cdc07716927e6577",
+ "parent": "e51534ca431a1bc936704bd58303a552aa6a8071",
+ "date": "2025-11-24",
+ "subject": "Restore subtle background timeline in About page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 32712
+}

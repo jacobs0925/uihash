@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "46d1f4ff00074eafd548df91d163c5a2b3edc5ec",
+ "parent": "dbe5b5fd1650ae246973054ad7ceba14547c715e",
+ "date": "2026-01-03",
+ "subject": "Preserve results state in navigation",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx",
+  "src/components/MobileFooter.tsx",
+  "src/pages/ProductDetails.tsx",
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 33703
+}

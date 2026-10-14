@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "2e3f1834a773233ddcd5313a3694e36eb3bc9cfe",
+ "date": "2025-11-29",
+ "pr": null,
+ "title": "Persist search term in URL",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 745 later commits"
+}

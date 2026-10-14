@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "80c5987b67b7f134f65dc2a5bbc90cc12856f6ed",
+ "parent": "ea54af793aa704c92f088e8388fde89a44831711",
+ "date": "2026-02-10",
+ "subject": "Redesigned profile actions grid",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/ProfileContent.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 34128
+}

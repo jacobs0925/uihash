@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a10b2d7c8da9d4ace167854e00d0ccb5386a2199",
+ "parent": "6e6bf2e45050aad033b2d942951cd6e72ccbf38a",
+ "date": "2026-01-30",
+ "subject": "Refactor About page components",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/about/CommunityCarousel.tsx",
+  "src/components/about/TimelineContainer.tsx",
+  "src/components/about/TimelineImages.tsx",
+  "src/components/about/TimelineItem.tsx",
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 34343
+}

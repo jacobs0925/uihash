@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "99308c72c5c1246f230380a923eaf7e42c9ac759",
+ "parent": "8ff5743b2d7d7c31c0b38c937ab5f09b0a306a56",
+ "date": "2025-12-29",
+ "subject": "Make ranking text black",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30356
+}

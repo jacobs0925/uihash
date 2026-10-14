@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c6c02856187c7cdf080a84eb6d4d9d9c3fe4d401",
+ "parent": "993090b289a1d494ef4f9ad94a15b0f36ca14c33",
+ "date": "2026-01-30",
+ "subject": "Align barista badge height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/BaristaToggle.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 31315
+}

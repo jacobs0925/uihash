@@ -1,0 +1,25 @@
+{
+ "repo": "milk-me-not",
+ "sha": "bafdb1bf44cf339ac658654723892a68ca0e75ef",
+ "parent": "0d3c075ca6c89ee89f4252a1950784ed261668ee",
+ "date": "2025-12-23",
+ "subject": "Design system phase 1 and 2",
+ "components": [
+  "components",
+  "index.css",
+  "styles"
+ ],
+ "files": [
+  "src/components/ui/badge.tsx",
+  "src/components/ui/typography.tsx",
+  "src/index.css",
+  "src/styles/design-tokens.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 23087
+}

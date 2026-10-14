@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "dd1de926e0672f379729d97db0ade362429b0c35",
+ "parent": "ba52cf3103add894eb116cc4238109d4e42d0f16",
+ "date": "2025-11-24",
+ "subject": "Remove wishlist menu item",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthButton.tsx",
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 25771
+}

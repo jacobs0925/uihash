@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "65e619f01abdf75380203f3f5eb1b5a22769f6e8",
+ "parent": "476832383b92aa989d0803889182282319346ccd",
+ "date": "2026-01-11",
+ "subject": "Improve mobile results spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ResultsContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 29980
+}

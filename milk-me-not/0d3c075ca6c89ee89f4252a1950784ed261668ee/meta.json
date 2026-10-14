@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0d3c075ca6c89ee89f4252a1950784ed261668ee",
+ "parent": "894218ff75949611575eb8b5e536392eafa5f3e3",
+ "date": "2025-12-21",
+ "subject": "Add fetchpriority high to logos",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22424
+}

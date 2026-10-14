@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3ac53efe074b0bba2548e2dfb88e0d43f9392fc9",
+ "parent": "69fea3f7a7b9273fd668f0ec845672e4d17b4a12",
+ "date": "2025-11-30",
+ "subject": "Align shop input to product search",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/shop/ShopSearchInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21718
+}

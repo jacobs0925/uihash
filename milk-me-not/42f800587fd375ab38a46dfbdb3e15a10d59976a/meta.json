@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "42f800587fd375ab38a46dfbdb3e15a10d59976a",
+ "parent": "70cd1992af0dfce946c6002fcfd8640e1b55fef3",
+ "date": "2025-12-27",
+ "subject": "Set Android logo to brand green",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/MobileApp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 29441
+}

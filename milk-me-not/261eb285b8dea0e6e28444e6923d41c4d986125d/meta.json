@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "261eb285b8dea0e6e28444e6923d41c4d986125d",
+ "parent": "ef4bef5e1b958567329f52b28de0875ea3983656",
+ "date": "2026-01-25",
+ "subject": "Enhance Mapbox initialization",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30887
+}

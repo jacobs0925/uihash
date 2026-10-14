@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c1de1453c686eef6847098d363eeaba2e89b7661",
+ "parent": "93aa72e5b4e3e840866498161cd06172e1719f44",
+ "date": "2026-01-28",
+ "subject": "Improve Mapbox init flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30739
+}

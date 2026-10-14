@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "d16c0c566fcd31320043afc0f034e96b1dcf9802",
+ "parent": "fdc96496f913721898ce787fd2db33e31a4688fe",
+ "date": "2026-02-08",
+ "subject": "Increase settings icon size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/menu/MenuActions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 44065
+}

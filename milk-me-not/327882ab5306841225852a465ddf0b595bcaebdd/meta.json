@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "327882ab5306841225852a465ddf0b595bcaebdd",
+ "parent": "d37b5cf7d754a79e513010a2a744d47e529683af",
+ "date": "2026-01-28",
+ "subject": "Improve likes popup on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedEngagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30439
+}

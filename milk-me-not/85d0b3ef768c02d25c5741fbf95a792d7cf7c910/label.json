@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "85d0b3ef768c02d25c5741fbf95a792d7cf7c910",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Fix mobile filter bar overflow",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 702 later commits"
+}

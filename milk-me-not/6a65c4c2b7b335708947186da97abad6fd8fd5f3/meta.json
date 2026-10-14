@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6a65c4c2b7b335708947186da97abad6fd8fd5f3",
+ "parent": "ede261f42a30498a27d78a9976a33c0c215335db",
+ "date": "2025-12-28",
+ "subject": "Restore My Results button size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23143
+}

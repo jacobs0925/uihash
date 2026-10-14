@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a509a24fa9598740db40006364804e26bfc48c9d",
+ "parent": "59f58b6e855ef6a1e4a10856d3950847c78005ab",
+ "date": "2025-12-27",
+ "subject": "Hide mobile-app route in APK",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 22795
+}

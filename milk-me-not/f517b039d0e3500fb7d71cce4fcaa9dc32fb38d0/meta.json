@@ -1,0 +1,25 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f517b039d0e3500fb7d71cce4fcaa9dc32fb38d0",
+ "parent": "c3732315b4d79d50e6df9d45c255000548d3e39f",
+ "date": "2026-01-30",
+ "subject": "Add fluid typography to headings",
+ "components": [
+  "components",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx",
+  "src/components/ui/typography.tsx",
+  "src/pages/About.tsx",
+  "src/pages/Contact.tsx",
+  "src/styles/design-tokens.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 49248
+}

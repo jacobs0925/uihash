@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "eb4842eb81280d565aa70128771f69285c99c294",
+ "parent": "2e078e40bf19522c87c178b3ed873033f7ade9fd",
+ "date": "2026-02-22",
+ "subject": "Disable like on own posts",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedEngagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 31064
+}

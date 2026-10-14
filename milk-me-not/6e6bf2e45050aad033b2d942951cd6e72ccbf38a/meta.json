@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6e6bf2e45050aad033b2d942951cd6e72ccbf38a",
+ "parent": "52fe2e842cbca0ff6aa167990c0c8999c6a21900",
+ "date": "2026-01-30",
+ "subject": "Refactored results page",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/results/ChartComingSoon.tsx",
+  "src/components/results/MapLoginOverlay.tsx",
+  "src/components/results/ResultsViewSwitcher.tsx",
+  "src/hooks/useResultsState.ts",
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 37926
+}

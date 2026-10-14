@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "2154dc9fa3e8f624e400cea71c9dabc4f15b169f",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Match world map overlay style",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgb(66, 95, 255) → rgba(66, 95, 255, 0.9) undone by f7e4dda4 \"Add mobile logo to auth page\"; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px undone by f7e4dda4 \"Add mobile logo to auth page\"; transform: ∅ → matrix(1, 0, 0, 1, 0, -4) undone by f7e4dda4 \"Add mobile logo to auth page\""
+}

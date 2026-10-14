@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6d612f9c20c63f601ec22f6bacfd4de7fac87a44",
+ "parent": "1187b779dbb230b77cc9bb06b8f4ff64168832c4",
+ "date": "2025-12-28",
+ "subject": "Disable hover on touch devices",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 31909
+}

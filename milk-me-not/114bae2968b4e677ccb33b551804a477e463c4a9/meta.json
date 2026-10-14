@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "114bae2968b4e677ccb33b551804a477e463c4a9",
+ "parent": "d16c0c566fcd31320043afc0f034e96b1dcf9802",
+ "date": "2026-02-08",
+ "subject": "Shrink settings icon on profile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/menu/MenuActions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 31286
+}

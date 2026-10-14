@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "35c6dc924a30974a8674b4e9af51916cabe0d7d2",
+ "date": "2026-01-28",
+ "pr": null,
+ "title": "Prevent FOUC on load",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 534 later commits"
+}

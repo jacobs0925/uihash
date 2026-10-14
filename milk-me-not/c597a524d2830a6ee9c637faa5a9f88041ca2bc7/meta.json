@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c597a524d2830a6ee9c637faa5a9f88041ca2bc7",
+ "parent": "c21cdd038dfc2b0cacfb5b6d4b12177babb3ad4c",
+ "date": "2026-01-11",
+ "subject": "Add dividers to sort rows",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 29921
+}

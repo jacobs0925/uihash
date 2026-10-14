@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "56a39dd3e1c0fcb1c87cce53e8ecb82faf616b33",
+ "parent": "e92dd0ceb63a3f286a4f6b59938ae55c0e90c59f",
+ "date": "2025-12-30",
+ "subject": "Fix map attribution duplicates",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 35114
+}

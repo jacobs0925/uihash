@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9668b03bacf49a31e455fd1034935a32b7f046e0",
+ "parent": "4c6bd3b45f67822a2ba58f71b59f662ec604e814",
+ "date": "2026-02-17",
+ "subject": "Increase account mobile padding",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Account.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 34823
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "562202c3665768c6e0c822aa681cf62f06e757db",
+ "parent": "99e081f13810ffa275e15ff5f9cd4e76ebbefb36",
+ "date": "2026-01-10",
+ "subject": "Add badge icons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ProductPropertyBadges.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 31641
+}

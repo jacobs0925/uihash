@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3105d39d817dea7736434c03f426250f76f3c5ee",
+ "parent": "de378d58d803a6823e2fd10749c89d85dbe9b79c",
+ "date": "2026-01-25",
+ "subject": "Increase bottom padding on Feed",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Feed.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 33021
+}

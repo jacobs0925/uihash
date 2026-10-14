@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e3a038bb9aefef19517fd51a7bea0ddb900c09a7",
+ "parent": "225f82a4d6a3ebf5854408c0c7831d9f0e30d780",
+ "date": "2025-12-31",
+ "subject": "Add delete confirmation prompts",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AddMilkTest.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 31325
+}

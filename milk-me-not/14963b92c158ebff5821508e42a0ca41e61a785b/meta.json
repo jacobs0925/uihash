@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "14963b92c158ebff5821508e42a0ca41e61a785b",
+ "parent": "d9eab260e197edc8e56d812e897f9dbba27f1f2e",
+ "date": "2026-01-08",
+ "subject": "Proactively update charts types",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/ui/chart.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 7,
+ "ms": 39448
+}

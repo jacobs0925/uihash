@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0c1cc216e12b398d883ff11c170fbb8731a01e4c",
+ "parent": "73f8dbbba7d238f8484c97e9a1f0cd2231f33880",
+ "date": "2025-12-29",
+ "subject": "Separate delete and submit state",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AddMilkTest.tsx",
+  "src/hooks/useMilkTestForm.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 33018
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a28cfa53ec91bc962baa322c1e87a5639461ea05",
+ "parent": "b9b6ba13c44cc5873ebc6c96d0472004fda2bc38",
+ "date": "2026-01-30",
+ "subject": "Use design tokens in SelectedProduct",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/product-search/SelectedProduct.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30943
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "06b8cbd2dc6ed254a56eb6a0bf7ed3ef3c5738ad",
+ "parent": "87c45ac83bce6c8035ff1f03a7c76c7c547f4c6a",
+ "date": "2026-01-30",
+ "subject": "Migrate form labels to tokens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/registration-ui/FormSections.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30617
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "dbcaa62c7e1286136a9228c7b1c288d2ccd8f777",
+ "date": "2025-12-29",
+ "pr": null,
+ "title": "Code edited in Lovable Code Editor",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 6273a038, which restored 59bd2248 (1 commit discarded)"
+}

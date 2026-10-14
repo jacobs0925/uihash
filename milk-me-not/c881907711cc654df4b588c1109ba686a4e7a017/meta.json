@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c881907711cc654df4b588c1109ba686a4e7a017",
+ "parent": "9f64c633ba7ab3e724522f5a782086f3c27b8891",
+ "date": "2025-12-24",
+ "subject": "Migrate color tokens in pages",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 12,
+ "ms": 33849
+}

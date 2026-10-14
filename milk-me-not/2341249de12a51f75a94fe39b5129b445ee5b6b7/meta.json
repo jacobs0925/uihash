@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2341249de12a51f75a94fe39b5129b445ee5b6b7",
+ "parent": "6273a038f9f5ea6c77938fed6a35f5c0330b701c",
+ "date": "2025-12-29",
+ "subject": "Change heatmap to green scale",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30083
+}

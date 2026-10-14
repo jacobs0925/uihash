@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "34e2e824aba4623bf730052736603eacfa47b273",
+ "date": "2025-12-29",
+ "pr": null,
+ "title": "Add mapping emoji at end",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 644 later commits"
+}

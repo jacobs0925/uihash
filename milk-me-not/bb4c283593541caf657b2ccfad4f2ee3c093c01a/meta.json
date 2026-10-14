@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "bb4c283593541caf657b2ccfad4f2ee3c093c01a",
+ "parent": "9681fc0db8550da5398ee89294cdb66a4a174b7e",
+ "date": "2025-12-27",
+ "subject": "Scroll to top on route change",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/common/ScrollToTop.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 26068
+}

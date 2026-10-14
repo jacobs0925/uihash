@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6273a038f9f5ea6c77938fed6a35f5c0330b701c",
+ "parent": "dbcaa62c7e1286136a9228c7b1c288d2ccd8f777",
+ "date": "2025-12-29",
+ "subject": "Reverted to commit 59bd224844f8e5dabe8519d2f2c033b70fc09e4b",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30494
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "c26d8affb9b26dcfc539e10fdb0be589b42a52df",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Improve map colors visibility",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 661 later commits"
+}

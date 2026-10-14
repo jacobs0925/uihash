@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "637f56f45c4f94e0eb0b66b431b11e50e9c62f9e",
+ "parent": "5cc06165079a499aa77519b54b77fa7b89dcea26",
+ "date": "2026-01-03",
+ "subject": "Improve native app detection",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/hooks/useCameraCapabilities.ts",
+  "src/lib/platformDetection.ts",
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30983
+}

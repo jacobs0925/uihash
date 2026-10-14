@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a8c429aa977ddbcd0b46c68973b7ef9800d468fc",
+ "parent": "80c25cc79c709279ae67e9fc1144f2d7a09a2e38",
+ "date": "2026-02-01",
+ "subject": "Update badge colors to semantic tokens",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx",
+  "src/index.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30118
+}

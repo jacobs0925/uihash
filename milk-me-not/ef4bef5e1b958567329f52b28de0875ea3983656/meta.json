@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ef4bef5e1b958567329f52b28de0875ea3983656",
+ "parent": "aaba3021094269407ed1974cf35b4ef178e44d8e",
+ "date": "2026-01-25",
+ "subject": "Preserved notes quotes in feed",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedItem.tsx",
+  "src/lib/security.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30351
+}

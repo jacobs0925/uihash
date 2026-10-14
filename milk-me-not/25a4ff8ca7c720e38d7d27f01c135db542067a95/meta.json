@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "25a4ff8ca7c720e38d7d27f01c135db542067a95",
+ "parent": "a509a24fa9598740db40006364804e26bfc48c9d",
+ "date": "2025-12-27",
+ "subject": "Add native APK splash screen",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/NativeSplashScreen.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22253
+}

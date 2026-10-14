@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "324c989fea6b2b99fd397e07d7fce03c7b21e333",
+ "parent": "f432718c524373fc058af19d15075cdea8ffd61f",
+ "date": "2025-12-28",
+ "subject": "Improve map load resilience",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30518
+}

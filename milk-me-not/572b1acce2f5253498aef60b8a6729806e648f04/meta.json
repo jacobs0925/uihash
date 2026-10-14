@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "572b1acce2f5253498aef60b8a6729806e648f04",
+ "parent": "890564ea6ba00aeac550d7b7d7d69869b70d9a86",
+ "date": "2026-02-13",
+ "subject": "Start Top on Contact and FAQ",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx",
+  "src/pages/FAQ.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 35347
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "9668b03bacf49a31e455fd1034935a32b7f046e0",
+ "date": "2026-02-17",
+ "pr": null,
+ "title": "Increase account mobile padding",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 412 later commits"
+}

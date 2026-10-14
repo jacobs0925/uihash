@@ -1,0 +1,34 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9bffd670349485f7d16713ee87b023bc5ab64d48",
+ "parent": "8887c54367ca0195edd04ed64f9f13497d2ae6f9",
+ "date": "2026-01-10",
+ "subject": "Refactor no-explicit-any",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx",
+  "src/components/MilkCharts.tsx",
+  "src/components/auth/ResetPasswordDialog.tsx",
+  "src/components/milk-test/hooks/types.ts",
+  "src/components/profile/ProfileEditDialog.tsx",
+  "src/components/settings/CountrySettings.tsx",
+  "src/components/settings/ProfileSettings.tsx",
+  "src/components/settings/SecuritySettings.tsx",
+  "src/contexts/NotificationContext.tsx",
+  "src/hooks/queries/useAppQueries.ts",
+  "src/hooks/useAuthFlow.ts",
+  "src/hooks/useAuthForm.ts",
+  "src/hooks/useEditMilkTest.ts",
+  "src/hooks/useMilkTestForm.ts",
+  "src/lib/security.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30684
+}

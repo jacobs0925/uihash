@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "aa5e5bbc062d5909bf4634b70afa0a124014e39e",
+ "parent": "6cc8b209f041ac767c67488e7634ff7d4d283861",
+ "date": "2026-01-10",
+ "subject": "Make mobile cards more compact",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/MobileResultsCards.tsx",
+  "src/components/milk-test/table/ResultCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30140
+}

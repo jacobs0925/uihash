@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "69fea3f7a7b9273fd668f0ec845672e4d17b4a12",
+ "parent": "26725e6ab7d6896c1c8df0ec153167781d3e6e39",
+ "date": "2025-11-30",
+ "subject": "Align shop input text left",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/shop/ShopSearchInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21703
+}

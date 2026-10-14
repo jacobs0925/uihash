@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "ac7ef6545dcf61eb21e4ab256e3593484f8a1e9e",
+ "date": "2026-02-22",
+ "pr": null,
+ "title": "Fix logo aspect ratio",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 390 later commits"
+}

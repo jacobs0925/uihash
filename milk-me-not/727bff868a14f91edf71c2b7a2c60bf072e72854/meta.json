@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "727bff868a14f91edf71c2b7a2c60bf072e72854",
+ "parent": "324c989fea6b2b99fd397e07d7fce03c7b21e333",
+ "date": "2025-12-28",
+ "subject": "Redesign country rankings UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30075
+}

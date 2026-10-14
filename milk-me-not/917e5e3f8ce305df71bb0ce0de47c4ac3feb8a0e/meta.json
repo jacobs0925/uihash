@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "917e5e3f8ce305df71bb0ce0de47c4ac3feb8a0e",
+ "parent": "506ba9af08834b66bd01b76c5f2aebb669aceff7",
+ "date": "2026-02-06",
+ "subject": "Hide chevron on dialogs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/account/MobileSettingsMenu.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 31720
+}

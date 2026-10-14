@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "99a0306b3c087da2e9250d904482b3cb374f7816",
+ "parent": "3c31e35734e7b7b099b958fde267ac92cda1fe88",
+ "date": "2026-01-11",
+ "subject": "Hide active filter badges on mobile bar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30751
+}

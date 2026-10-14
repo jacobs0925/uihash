@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "afd7c0ceb69720f1c2cec579f2afdda72cb2667a",
+ "parent": "c881907711cc654df4b588c1109ba686a4e7a017",
+ "date": "2025-12-26",
+ "subject": "Fix design tokens integration",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 11,
+ "ms": 35127
+}

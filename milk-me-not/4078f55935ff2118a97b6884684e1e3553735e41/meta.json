@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4078f55935ff2118a97b6884684e1e3553735e41",
+ "parent": "93e1f3baf38ba082c06818520b31ec0a11e6ba36",
+ "date": "2026-02-04",
+ "subject": "Center feed cards on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedContent.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 34813
+}

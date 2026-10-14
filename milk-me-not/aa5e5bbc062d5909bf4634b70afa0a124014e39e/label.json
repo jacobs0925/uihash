@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "aa5e5bbc062d5909bf4634b70afa0a124014e39e",
+ "date": "2026-01-10",
+ "pr": null,
+ "title": "Make mobile cards more compact",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 578 later commits"
+}

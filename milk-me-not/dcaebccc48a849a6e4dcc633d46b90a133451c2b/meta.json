@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "dcaebccc48a849a6e4dcc633d46b90a133451c2b",
+ "parent": "42f800587fd375ab38a46dfbdb3e15a10d59976a",
+ "date": "2025-12-27",
+ "subject": "Fix android logo hue",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 10,
+ "ms": 34296
+}

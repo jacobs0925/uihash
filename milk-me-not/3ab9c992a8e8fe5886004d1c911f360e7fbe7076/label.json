@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "3ab9c992a8e8fe5886004d1c911f360e7fbe7076",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Simplify mobile actions",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by e8b48e1f, which restored 1fab87c0 (1 commit discarded)"
+}

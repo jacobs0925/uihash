@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "25621093b5fb185adaf03f57d42f52e3f507844a",
+ "parent": "06db55a1733fe60c0f67f93c9c91d5216ac104c5",
+ "date": "2026-02-13",
+ "subject": "Reverted to commit 80c5987b67b7f134f65dc2a5bbc90cc12856f6ed",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/ProfileContent.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 31314
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4029b07dddb5791413e4dc026fded00c20d09ea3",
+ "parent": "0f15f2b51c123a49a371fd0ba842a9b9ba222a4b",
+ "date": "2026-01-11",
+ "subject": "Place badges on second line",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/ResultCard.tsx",
+  "src/components/milk-test/table/ResultTableRow.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30798
+}

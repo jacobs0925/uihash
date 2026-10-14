@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c919c266c5cae4983b892efc8df3ed34705bbb96",
+ "parent": "6cf89095c852a18b84e7fc41c9c00dce7bf970f6",
+ "date": "2026-01-30",
+ "subject": "Componentized Contact page",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/contact/ContactCard.tsx",
+  "src/components/contact/FAQSection.tsx",
+  "src/components/contact/FlyingBird.tsx",
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 37844
+}

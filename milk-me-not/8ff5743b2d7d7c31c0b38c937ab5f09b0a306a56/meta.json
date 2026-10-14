@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8ff5743b2d7d7c31c0b38c937ab5f09b0a306a56",
+ "parent": "2154dc9fa3e8f624e400cea71c9dabc4f15b169f",
+ "date": "2025-12-28",
+ "subject": "Enhance heatmap colors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30075
+}

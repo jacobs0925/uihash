@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c1e4592abef61fa98726778a8a44fb8a1685f046",
+ "parent": "76362309f84a907f2e666c954f74b42830eec87f",
+ "date": "2025-12-28",
+ "subject": "Widen mobile banner",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 22248
+}

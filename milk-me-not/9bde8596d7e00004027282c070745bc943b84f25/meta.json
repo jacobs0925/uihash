@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9bde8596d7e00004027282c070745bc943b84f25",
+ "parent": "5826fa2de4de8485e3821d5e0abbd790be697d21",
+ "date": "2026-01-30",
+ "subject": "Refactored Home into components",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/home/HeroSection.tsx",
+  "src/components/home/MobileAppBanner.tsx",
+  "src/components/home/TrustIndicators.tsx",
+  "src/components/home/useHomeStats.ts",
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 8,
+ "ms": 33393
+}

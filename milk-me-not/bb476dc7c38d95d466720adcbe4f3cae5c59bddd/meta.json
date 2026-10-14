@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "bb476dc7c38d95d466720adcbe4f3cae5c59bddd",
+ "parent": "ede37ca08892ee16e4f48b32257ced6dfd5c3885",
+ "date": "2026-02-08",
+ "subject": "Fix mobile feed centering",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedContent.tsx",
+  "src/components/feed/FeedGrid.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 35555
+}

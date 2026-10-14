@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ac7ef6545dcf61eb21e4ab256e3593484f8a1e9e",
+ "parent": "18f564d72f9cd1de75a00b829276108da5283c22",
+ "date": "2026-02-22",
+ "subject": "Fix logo aspect ratio",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/menu/Logo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 34876
+}

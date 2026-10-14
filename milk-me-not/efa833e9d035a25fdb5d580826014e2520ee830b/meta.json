@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "efa833e9d035a25fdb5d580826014e2520ee830b",
+ "parent": "aabdb78697a152a39b88a74f2ce5f0455287c004",
+ "date": "2026-01-11",
+ "subject": "Increase tablet brand width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/DesktopResultsTable.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 40076
+}

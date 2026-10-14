@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "4f35a0269c7a27907769776ec135925ae76ca730",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Align contact header style with About page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 761 later commits"
+}

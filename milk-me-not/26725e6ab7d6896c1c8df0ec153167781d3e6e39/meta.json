@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "26725e6ab7d6896c1c8df0ec153167781d3e6e39",
+ "parent": "c34550871e9dbfcaf2f5727d5f98e1b64cf841aa",
+ "date": "2025-11-30",
+ "subject": "Make ShopSearchInput full width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/shop/ShopSearchInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21871
+}

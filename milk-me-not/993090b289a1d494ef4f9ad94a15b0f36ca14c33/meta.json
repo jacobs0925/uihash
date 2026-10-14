@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "993090b289a1d494ef4f9ad94a15b0f36ca14c33",
+ "parent": "abd3483d4b24cf236bd0f2286035c0210baed248",
+ "date": "2026-01-30",
+ "subject": "Add icons to form headers",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/registration-ui/FormSections.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30224
+}

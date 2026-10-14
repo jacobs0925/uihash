@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "b8339ec0f569280eb266ba95564b2fb1be49c2ad",
+ "parent": "41febf93f0d5099890df213b747398121f3eaa80",
+ "date": "2025-11-24",
+ "subject": "Hide Add Test on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AddMilkTest.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 22465
+}

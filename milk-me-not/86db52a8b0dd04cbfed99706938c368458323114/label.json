@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "86db52a8b0dd04cbfed99706938c368458323114",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Adjust banner text fit",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 43fd0ea1, which restored c1e4592a (1 commit discarded)"
+}

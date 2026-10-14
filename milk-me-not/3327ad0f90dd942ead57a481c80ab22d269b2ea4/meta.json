@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3327ad0f90dd942ead57a481c80ab22d269b2ea4",
+ "parent": "13619d1da7df01ca836fa573c695a938a5eaf80e",
+ "date": "2026-01-11",
+ "subject": "Add floating toggle button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ResultsContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 42402
+}

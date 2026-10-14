@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5ccf4b39573522158792818a3124829d1a153b7c",
+ "parent": "33c069469cec99c709f37a32931c49860528451a",
+ "date": "2026-01-31",
+ "subject": "Cleanup orphaned brand and name on delete",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/registration-ui/ProductRegistrationDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 34241
+}

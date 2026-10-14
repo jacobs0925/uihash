@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3b07bffdd99a484fb430d98281a557eb3f72c899",
+ "parent": "b9ea4346484593e1447e25f0d2787bae9a3daaf6",
+ "date": "2025-12-27",
+ "subject": "Add install guide illustrations",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/assets/install-guide/step-1-download.png",
+  "src/assets/install-guide/step-2-settings.png",
+  "src/assets/install-guide/step-3-open.png",
+  "src/assets/install-guide/step-4-install.png",
+  "src/assets/install-guide/step-5-success.png",
+  "src/pages/InstallGuide.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 11,
+ "ms": 36356
+}

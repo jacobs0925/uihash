@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "60f1b373af6dd9ee79f225c37c2984405790221c",
+ "parent": "44b8a9395a15fb1ff8f713f7abee08d9be94a4a2",
+ "date": "2025-12-28",
+ "subject": "Hide labels on tablet too",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedEngagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21938
+}

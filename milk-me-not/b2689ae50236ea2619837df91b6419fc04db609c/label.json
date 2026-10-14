@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "b2689ae50236ea2619837df91b6419fc04db609c",
+ "date": "2026-01-10",
+ "pr": null,
+ "title": "Add badge legend header",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-color: rgb(66, 95, 255) → rgba(66, 95, 255, 0.9) undone by 0f15f2b5 \"Reverted to commit 13619d1da7df01ca836fa573c695a938a5eaf80e\"; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px undone by 0f15f2b5 \"Reverted to commit 13619d1da7df01ca836fa573c695a938a5eaf80e\"; transform: ∅ → matrix(1, 0, 0, 1, 0, -4) undone by 0f15f2b5 \"Reverted to commit 13619d1da7df01ca836fa573c695a938a5eaf80e\""
+}

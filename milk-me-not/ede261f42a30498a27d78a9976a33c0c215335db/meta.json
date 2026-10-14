@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ede261f42a30498a27d78a9976a33c0c215335db",
+ "parent": "c94d91b29c7cc4e352ccf79714ce3046049ec0fe",
+ "date": "2025-12-28",
+ "subject": "Show filter count in header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 23161
+}

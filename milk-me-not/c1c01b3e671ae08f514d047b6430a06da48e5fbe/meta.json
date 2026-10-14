@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c1c01b3e671ae08f514d047b6430a06da48e5fbe",
+ "parent": "46d1f4ff00074eafd548df91d163c5a2b3edc5ec",
+ "date": "2026-01-03",
+ "subject": "Fix back navigation stale UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx",
+  "src/pages/ProductDetails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30001
+}

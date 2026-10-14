@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "fd0a572a3e3e090035fb37066e7634ba7834e0b8",
+ "parent": "ba52fe3ffc351b8f7bec81e841c0c479779ae78c",
+ "date": "2026-02-08",
+ "subject": "Harmonized profile colors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/ProfileContent.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 31674
+}

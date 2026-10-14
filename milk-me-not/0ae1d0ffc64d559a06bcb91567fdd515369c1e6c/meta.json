@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0ae1d0ffc64d559a06bcb91567fdd515369c1e6c",
+ "parent": "f785556ee0652546011ca2434de47a8443175549",
+ "date": "2025-12-27",
+ "subject": "Adjust web copy for Android only",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/MobileApp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 20,
+ "ms": 30421
+}

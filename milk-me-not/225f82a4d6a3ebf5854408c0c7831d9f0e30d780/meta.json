@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "225f82a4d6a3ebf5854408c0c7831d9f0e30d780",
+ "parent": "a6fd9c3ca9aadf0fbf7eb558db65f80fa693ec30",
+ "date": "2025-12-31",
+ "subject": "Add delete confirmation to edit form",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/edit/EditMilkTestForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 41789
+}

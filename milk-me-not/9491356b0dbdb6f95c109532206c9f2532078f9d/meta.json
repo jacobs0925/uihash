@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9491356b0dbdb6f95c109532206c9f2532078f9d",
+ "parent": "bc7e86d8f28ddc2add6947f3dc07ddcca870d508",
+ "date": "2025-12-01",
+ "subject": "Fix CLS by sizing logo",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 24771
+}

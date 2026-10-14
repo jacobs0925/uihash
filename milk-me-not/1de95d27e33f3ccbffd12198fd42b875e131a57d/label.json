@@ -8,5 +8,5 @@
  "label": 1,
  "source": "undo",
  "confidence": 0.85,
- "evidence": "transform: matrix(0.978148, 0.207912, -0.207912, 0.978148, 0, 0) → ∅ undone by 34e221b7 \"Fix login button styling\"; transform: matrix(0.978148, 0.207912, -0.207912, 0.978148, 0, 0) → ∅ undone by 34e221b7 \"Fix login button styling\""
+ "evidence": "transform: matrix(0.978148, 0.207912, -0.207912, 0.978148, 0, 0) → ∅ undone by 34e221b7 \"Fix login button styling\"; transform: matrix(0.978148, 0.207912, -0.207912, 0.978148, 0, 0) → ∅ undone by 34e221b7 \"Fix login button styling\"; transform: matrix(0.978148, 0.207912, -0.207912, 0.978148, 0, 0) → ∅ undone by 41febf93 \"Make FAQ smaller on mobile\""
 }

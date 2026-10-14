@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "516738c334dbfa749c92a1b38718a3c0cfe449aa",
+ "parent": "8e66242f2e4badb05d06618cdfc7553036a7fba0",
+ "date": "2026-01-11",
+ "subject": "Align search placeholder left",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30598
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "52fe2e842cbca0ff6aa167990c0c8999c6a21900",
+ "date": "2026-01-30",
+ "pr": null,
+ "title": "Refactor account page UI",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 508 later commits"
+}

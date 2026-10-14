@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "0c1cc216e12b398d883ff11c170fbb8731a01e4c",
+ "date": "2025-12-29",
+ "pr": null,
+ "title": "Separate delete and submit state",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 641 later commits"
+}

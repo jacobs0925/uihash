@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "abd3483d4b24cf236bd0f2286035c0210baed248",
+ "parent": "f1c851e8a0be3b41e38dacad0bbb9aa576d12e9e",
+ "date": "2026-01-30",
+ "subject": "Align badge height for products",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ProductOptions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 34348
+}

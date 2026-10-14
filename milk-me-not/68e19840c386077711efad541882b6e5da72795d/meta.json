@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "68e19840c386077711efad541882b6e5da72795d",
+ "parent": "1dcb8736d5db3ab48bed41c8a35c3c122557a6c5",
+ "date": "2025-12-28",
+ "subject": "Reverted to commit 883c6d63bfcfee13e45badc17437d34e60f86785",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AddMilkTest.tsx",
+  "src/hooks/useMilkTestForm.ts",
+  "src/integrations/supabase/types.ts",
+  "src/types/milk-test.ts",
+  "supabase/migrations/20251228184811_e210d17a-4e2e-434d-aece-d1f2b161c29f.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22440
+}

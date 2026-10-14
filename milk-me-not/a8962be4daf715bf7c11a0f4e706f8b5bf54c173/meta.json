@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a8962be4daf715bf7c11a0f4e706f8b5bf54c173",
+ "parent": "ae3595d1e7419f3b311418a0056c1a40ec38592a",
+ "date": "2025-12-29",
+ "subject": "Widen gradient legend",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30048
+}

@@ -1,0 +1,30 @@
+{
+ "repo": "milk-me-not",
+ "sha": "b4f01a03f4326b6e819ad7670719bd485af8e747",
+ "parent": "41e9fd755c37ec4e9d4145fbd2d04ffed6cd8426",
+ "date": "2026-01-15",
+ "subject": "Integrate version system",
+ "components": [
+  "App.tsx",
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/version/ReleaseNotes.tsx",
+  "src/components/version/UpdateBanner.tsx",
+  "src/components/version/UpdateModal.tsx",
+  "src/components/version/VersionCheck.tsx",
+  "src/contexts/VersionContext.tsx",
+  "src/hooks/useVersionCheck.ts",
+  "src/integrations/supabase/types.ts",
+  "src/lib/appVersion.ts",
+  "supabase/migrations/20260115202610_1d946a61-73df-4c94-82aa-36bb8e271861.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30782
+}

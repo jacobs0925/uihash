@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9f8a6e5ce0486b763349920dcc2dfe3176c8bb7b",
+ "parent": "2e3f1834a773233ddcd5313a3694e36eb3bc9cfe",
+ "date": "2025-11-30",
+ "subject": "Fix preview connectivity issue",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 24119
+}

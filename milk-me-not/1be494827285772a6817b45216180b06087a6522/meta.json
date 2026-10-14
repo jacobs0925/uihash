@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1be494827285772a6817b45216180b06087a6522",
+ "parent": "a44b80f0f3c516da9dc2462e4b56e9f3eefd3937",
+ "date": "2026-01-11",
+ "subject": "Fix filter hover text color",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 41741
+}

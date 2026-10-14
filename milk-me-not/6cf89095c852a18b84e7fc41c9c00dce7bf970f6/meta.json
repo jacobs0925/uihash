@@ -1,0 +1,27 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6cf89095c852a18b84e7fc41c9c00dce7bf970f6",
+ "parent": "a10b2d7c8da9d4ace167854e00d0ccb5386a2199",
+ "date": "2026-01-30",
+ "subject": "Refactored UI colors to tokens",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/account/DesktopAccountTabs.tsx",
+  "src/components/auth/LoginPrompt.tsx",
+  "src/components/feed/FeedLoginPrompt.tsx",
+  "src/components/milk-test/DrinkPreference.tsx",
+  "src/components/milk-test/MobileFilterBar.tsx",
+  "src/components/milk-test/edit/EditMilkTestForm.tsx",
+  "src/components/notifications/MobileNotificationList.tsx",
+  "src/pages/Account.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 42187
+}

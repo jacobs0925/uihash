@@ -1,0 +1,27 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9f64c633ba7ab3e724522f5a782086f3c27b8891",
+ "parent": "d94ee13f713cd9b9bbfdf65314df6272388953dd",
+ "date": "2025-12-23",
+ "subject": "Replace hex colors with tokens",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx",
+  "src/components/MenuBar.tsx",
+  "src/components/MilkCard.tsx",
+  "src/components/MilkCharts.tsx",
+  "src/components/MobileFooter.tsx",
+  "src/components/StatsOverview.tsx",
+  "src/styles/design-tokens.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22438
+}

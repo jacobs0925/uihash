@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "89b72383e3a1c4756bed70911e2f9b23ad26c212",
+ "parent": "c597a524d2830a6ee9c637faa5a9f88041ca2bc7",
+ "date": "2026-01-11",
+ "subject": "Reverted to commit c21cdd038dfc2b0cacfb5b6d4b12177babb3ad4c",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 30533
+}

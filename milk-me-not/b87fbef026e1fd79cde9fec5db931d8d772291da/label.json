@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "b87fbef026e1fd79cde9fec5db931d8d772291da",
+ "date": "2025-12-27",
+ "pr": null,
+ "title": "Add Coming Soon for Google Play",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 725 later commits"
+}

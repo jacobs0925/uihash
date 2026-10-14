@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2e078e40bf19522c87c178b3ed873033f7ade9fd",
+ "parent": "ff68a05e1e8762971c6eb4a877edbfef471c54e4",
+ "date": "2026-02-22",
+ "subject": "Compact mobile settings UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/account/MobileSettingsMenu.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 31794
+}

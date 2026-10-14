@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "fb918fe4d44ccba761ab922f68ce25650e3194b2",
+ "parent": "e637cd0c6ab0588e27248545476a327dd6bd2b99",
+ "date": "2026-02-18",
+ "subject": "Switch Mapbox token to env key",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx",
+  "supabase/config.toml",
+  "supabase/functions/get-mapbox-token/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 34264
+}

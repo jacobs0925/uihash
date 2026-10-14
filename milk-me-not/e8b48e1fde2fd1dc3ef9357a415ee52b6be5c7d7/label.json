@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "e8b48e1fde2fd1dc3ef9357a415ee52b6be5c7d7",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Reverted to commit 1fab87c06e0aabea814aba96b85dfafb3a77c203",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-color: rgb(66, 95, 255) → rgba(66, 95, 255, 0.9) undone by ecae15ea \"Increase mobile logo text size\"; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px undone by ecae15ea \"Increase mobile logo text size\"; transform: ∅ → matrix(1, 0, 0, 1, 0, -4) undone by ecae15ea \"Increase mobile logo text size\""
+}

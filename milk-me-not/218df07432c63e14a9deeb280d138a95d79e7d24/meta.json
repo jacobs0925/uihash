@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "218df07432c63e14a9deeb280d138a95d79e7d24",
+ "parent": "337317930cb5e769bde138598a3970550c612c3f",
+ "date": "2025-12-28",
+ "subject": "Add unauth preview banner",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 17,
+ "ms": 39506
+}

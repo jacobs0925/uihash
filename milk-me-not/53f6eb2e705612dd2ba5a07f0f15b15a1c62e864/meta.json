@@ -1,0 +1,26 @@
+{
+ "repo": "milk-me-not",
+ "sha": "53f6eb2e705612dd2ba5a07f0f15b15a1c62e864",
+ "parent": "10304708233796e012ddc04ce4ecd7834e78ca5e",
+ "date": "2026-02-16",
+ "subject": "Refined naming normalization",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/BrandSelect.tsx",
+  "src/components/milk-test/BrandSuggestions.tsx",
+  "src/components/milk-test/NameSelect.tsx",
+  "src/components/milk-test/ProductSelect.tsx",
+  "src/components/milk-test/hooks/product-registration/nameResolver.ts",
+  "src/hooks/useBrandData.ts",
+  "src/lib/nameNormalization.test.ts",
+  "src/lib/nameNormalization.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 44496
+}

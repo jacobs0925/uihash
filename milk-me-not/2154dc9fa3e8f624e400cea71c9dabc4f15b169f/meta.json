@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2154dc9fa3e8f624e400cea71c9dabc4f15b169f",
+ "parent": "991b359586dd44a8719ff99196a355418b680d56",
+ "date": "2025-12-28",
+ "subject": "Match world map overlay style",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 44115
+}

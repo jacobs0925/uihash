@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "337317930cb5e769bde138598a3970550c612c3f",
+ "parent": "c26d8affb9b26dcfc539e10fdb0be589b42a52df",
+ "date": "2025-12-28",
+ "subject": "Hide map page behind login",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 33651
+}

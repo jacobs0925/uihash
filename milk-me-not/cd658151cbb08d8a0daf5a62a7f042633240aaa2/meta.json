@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "cd658151cbb08d8a0daf5a62a7f042633240aaa2",
+ "parent": "b25db0046395f5da1cf7ef9d3e3f99776a49177f",
+ "date": "2026-01-30",
+ "subject": "Fix show Password Updated state",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useAuthFlow.ts",
+  "src/pages/ResetPassword.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 37229
+}

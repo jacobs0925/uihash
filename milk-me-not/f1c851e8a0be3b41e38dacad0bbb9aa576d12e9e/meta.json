@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f1c851e8a0be3b41e38dacad0bbb9aa576d12e9e",
+ "parent": "06b8cbd2dc6ed254a56eb6a0bf7ed3ef3c5738ad",
+ "date": "2026-01-30",
+ "subject": "Prevent autoFocus on edit mode",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/NameSelect.tsx",
+  "src/components/milk-test/registration-ui/ProductRegistrationDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 29919
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a8885a34569e8217a8639e49b071c8bb2c3c5406",
+ "parent": "f3ecb5d0878e3869341176bb7f47c4965963abbf",
+ "date": "2026-01-24",
+ "subject": "Two-column feed on tablet",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Feed.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 38604
+}

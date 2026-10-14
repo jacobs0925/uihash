@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "784991375bbf63fd32637bc28d0e9fe06c54c0fd",
+ "parent": "ccac9424c8a03814e05151850b8218b60d6455c9",
+ "date": "2026-01-30",
+ "subject": "Improve feed like UI visuals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedEngagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 33386
+}

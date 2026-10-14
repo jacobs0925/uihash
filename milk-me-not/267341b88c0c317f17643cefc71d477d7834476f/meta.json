@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "267341b88c0c317f17643cefc71d477d7834476f",
+ "parent": "a28cfa53ec91bc962baa322c1e87a5639461ea05",
+ "date": "2026-01-30",
+ "subject": "Remove undo note in delete warning",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/registration-ui/ProductRegistrationDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30930
+}

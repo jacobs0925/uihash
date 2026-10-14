@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2fbae52245e8e37f49e61f1330d2ed3e7e187704",
+ "parent": "75f6d81003bc2aaa8fb6033a1333a0a1436c1979",
+ "date": "2025-11-24",
+ "subject": "Make mobile cards denser",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 25067
+}

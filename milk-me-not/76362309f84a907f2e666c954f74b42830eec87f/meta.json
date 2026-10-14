@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "76362309f84a907f2e666c954f74b42830eec87f",
+ "parent": "ecae15ea852c505293ddb7c4420e9fed7cc63f3f",
+ "date": "2025-12-28",
+ "subject": "Shorten Android text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 23971
+}

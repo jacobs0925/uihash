@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5fc2def5f638103571a05e0da379c008b0c2b353",
+ "parent": "eb81826dbb208c648e5256eb56d7f62c4b75af0f",
+ "date": "2026-01-30",
+ "subject": "Cleanup unused imports and streamline responsive logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/PriceInput.tsx",
+  "src/components/milk-test/SearchIcon.tsx",
+  "src/components/milk-test/SortButton.tsx",
+  "src/components/milk-test/product-search/SearchBox.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30767
+}

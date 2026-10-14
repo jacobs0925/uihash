@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "02a0f6370d593d8e45f74d34bcf582805a5bf0ab",
+ "parent": "3529686e5f6fa366732c2a1971a10498e7ed287e",
+ "date": "2025-12-28",
+ "subject": "Add auth page logo",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 22986
+}

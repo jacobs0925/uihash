@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6c5021478b0837aaa8e8db04f59d6742b6bd23b2",
+ "parent": "ea77529653a378ee86a997b75561cd0ddeef1d95",
+ "date": "2025-11-24",
+ "subject": "Make lines solid in AddMilkTest",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AddMilkTest.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22104
+}

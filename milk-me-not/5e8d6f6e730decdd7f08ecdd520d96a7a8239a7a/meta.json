@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5e8d6f6e730decdd7f08ecdd520d96a7a8239a7a",
+ "parent": "dd1de926e0672f379729d97db0ade362429b0c35",
+ "date": "2025-11-24",
+ "subject": "Set MyResults color to blue",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21939
+}

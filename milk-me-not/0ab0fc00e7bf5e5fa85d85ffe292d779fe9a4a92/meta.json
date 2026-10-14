@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0ab0fc00e7bf5e5fa85d85ffe292d779fe9a4a92",
+ "parent": "83c8b674f4bed2f22f3d10e8fbd9dab8a7438ff7",
+ "date": "2026-01-03",
+ "subject": "Align undo text on one line",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AddMilkTest.tsx",
+  "src/components/milk-test/edit/EditMilkTestForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 35293
+}

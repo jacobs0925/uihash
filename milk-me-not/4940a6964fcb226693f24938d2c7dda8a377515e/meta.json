@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4940a6964fcb226693f24938d2c7dda8a377515e",
+ "parent": "86dab031657259b52daacedaf36b25a3342c4f5f",
+ "date": "2026-01-08",
+ "subject": "Fix android splash flash",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "index.html",
+  "src/components/NativeSplashScreen.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 31618
+}

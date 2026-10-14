@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "87acc343efbf7c94cb313315af3cecf9b2f22194",
+ "parent": "1bde7a10e06280b5163f3a5db3024ddefa4d15c2",
+ "date": "2025-12-28",
+ "subject": "Simplify leaderboard colors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30754
+}

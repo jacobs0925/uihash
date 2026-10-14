@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ce13467e6ac072f9a21bb6e9ff12adcc2987a272",
+ "parent": "b2689ae50236ea2619837df91b6419fc04db609c",
+ "date": "2026-01-10",
+ "subject": "Remove badge legend from header",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/milk-test/BadgeLegend.tsx",
+  "src/components/milk-test/ResultsFilter.tsx",
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 33416
+}

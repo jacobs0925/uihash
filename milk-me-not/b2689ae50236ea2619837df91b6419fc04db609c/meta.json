@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "b2689ae50236ea2619837df91b6419fc04db609c",
+ "parent": "562202c3665768c6e0c822aa681cf62f06e757db",
+ "date": "2026-01-10",
+ "subject": "Add badge legend header",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/milk-test/BadgeLegend.tsx",
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 36697
+}

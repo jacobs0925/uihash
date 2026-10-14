@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f3edf5f5af702d87d719e77a57aa7e2a836393cf",
+ "parent": "23d59838439f032317e0249b9b39af3916c23025",
+ "date": "2026-01-05",
+ "subject": "Adjust header sizing for small screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 36484
+}

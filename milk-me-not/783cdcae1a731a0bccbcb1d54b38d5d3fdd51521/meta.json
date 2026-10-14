@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "783cdcae1a731a0bccbcb1d54b38d5d3fdd51521",
+ "parent": "1d9bfd9317a46995ab669642fc1ba442604f3bf9",
+ "date": "2026-01-30",
+ "subject": "Enhanged shop admin controls",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/shop/DeleteShopDialog.tsx",
+  "src/components/milk-test/shop/EditShopDialog.tsx",
+  "src/components/milk-test/shop/ShopSuggestions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 34204
+}

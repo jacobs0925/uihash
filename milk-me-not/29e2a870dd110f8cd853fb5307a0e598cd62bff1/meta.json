@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "29e2a870dd110f8cd853fb5307a0e598cd62bff1",
+ "parent": "440e858a608fcec85f8cf652cdc07716927e6577",
+ "date": "2025-11-24",
+ "subject": "Move Get in Touch to header",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx",
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 24686
+}

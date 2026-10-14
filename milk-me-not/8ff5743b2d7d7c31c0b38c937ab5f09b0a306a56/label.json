@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "8ff5743b2d7d7c31c0b38c937ab5f09b0a306a56",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Enhance heatmap colors",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 655 later commits"
+}

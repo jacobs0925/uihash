@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c26d8affb9b26dcfc539e10fdb0be589b42a52df",
+ "parent": "8af13abd03fca92c7a0aa59815c9b592cef23025",
+ "date": "2025-12-28",
+ "subject": "Improve map colors visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30439
+}

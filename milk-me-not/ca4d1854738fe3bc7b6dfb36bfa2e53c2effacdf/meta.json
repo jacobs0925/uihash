@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ca4d1854738fe3bc7b6dfb36bfa2e53c2effacdf",
+ "parent": "35c6dc924a30974a8674b4e9af51916cabe0d7d2",
+ "date": "2026-01-28",
+ "subject": "Pass auth token to edge function",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 33571
+}

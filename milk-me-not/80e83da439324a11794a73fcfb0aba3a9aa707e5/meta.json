@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "80e83da439324a11794a73fcfb0aba3a9aa707e5",
+ "parent": "a8c429aa977ddbcd0b46c68973b7ef9800d468fc",
+ "date": "2026-02-01",
+ "subject": "Update badges to semantic tokens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ProductPropertyBadges.tsx",
+  "src/components/milk-test/ResultsFilter.tsx",
+  "src/components/milk-test/registration-ui/FormSections.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 42043
+}

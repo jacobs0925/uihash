@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5760a56e18d882657567fd28d64081c350780d64",
+ "parent": "9bde8596d7e00004027282c070745bc943b84f25",
+ "date": "2026-01-30",
+ "subject": "Add mobile detection hook shared",
+ "components": [
+  "hooks",
+  "pages"
+ ],
+ "files": [
+  "src/hooks/use-mobile.tsx",
+  "src/pages/Feed.tsx",
+  "src/pages/Profile.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 37297
+}

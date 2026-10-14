@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e26dcca154ff4588692387ffef5ffed7ddf4b1a1",
+ "parent": "f15d98f6bf1d9b4a21e8bcd8de7f755c256e3189",
+ "date": "2026-01-30",
+ "subject": "Refactor profile page layouts",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/profile/ProfileActions.tsx",
+  "src/components/profile/ProfileContent.tsx",
+  "src/components/profile/ProfileHeader.tsx",
+  "src/components/profile/ProfileStats.tsx",
+  "src/pages/Profile.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 33854
+}

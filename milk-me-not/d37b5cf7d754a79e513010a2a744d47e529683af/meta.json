@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "d37b5cf7d754a79e513010a2a744d47e529683af",
+ "parent": "e1b21e505b114e47ec2c642b3930e5acb9b910a3",
+ "date": "2026-01-28",
+ "subject": "Improve like popover styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedEngagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30840
+}

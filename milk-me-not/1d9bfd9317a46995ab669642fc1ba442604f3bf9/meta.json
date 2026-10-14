@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1d9bfd9317a46995ab669642fc1ba442604f3bf9",
+ "parent": "88990ce3b2e76d8dca5560040ab785bb8f2d622a",
+ "date": "2026-01-30",
+ "subject": "Fix search input handling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/product-search/SearchBox.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 34810
+}

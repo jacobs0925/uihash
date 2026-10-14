@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "bc7e86d8f28ddc2add6947f3dc07ddcca870d508",
+ "parent": "91d447282554e8198c6ed07b3e144d9ad1c2a0e2",
+ "date": "2025-11-30",
+ "subject": "Unify theme on add page",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/BaristaToggle.tsx",
+  "src/components/milk-test/FlavorSelector.tsx",
+  "src/components/milk-test/ProductOptions.tsx",
+  "src/components/ui/badge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 22176
+}

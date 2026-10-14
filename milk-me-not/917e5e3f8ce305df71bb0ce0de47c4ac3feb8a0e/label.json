@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "917e5e3f8ce305df71bb0ce0de47c4ac3feb8a0e",
+ "date": "2026-02-06",
+ "pr": null,
+ "title": "Hide chevron on dialogs",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 440 later commits"
+}

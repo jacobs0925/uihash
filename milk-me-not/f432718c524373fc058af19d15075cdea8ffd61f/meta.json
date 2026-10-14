@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f432718c524373fc058af19d15075cdea8ffd61f",
+ "parent": "310f2ca8e56a50041cbd2e578958ff4fd85ed7fe",
+ "date": "2025-12-28",
+ "subject": "Show full country names",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30407
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9c7897cf8527d567f188d06e9e447fd793507017",
+ "parent": "1542d8ba784235c5842b0cde9e378927f503b7ff",
+ "date": "2026-01-30",
+ "subject": "Hide like count on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedEngagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30584
+}

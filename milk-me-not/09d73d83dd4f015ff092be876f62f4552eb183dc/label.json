@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "09d73d83dd4f015ff092be876f62f4552eb183dc",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Rename filter header text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 695 later commits"
+}

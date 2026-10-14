@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1bde7a10e06280b5163f3a5db3024ddefa4d15c2",
+ "parent": "aa696c089ded9b1c70898c8903613e4bfb3001f1",
+ "date": "2025-12-28",
+ "subject": "Improve map with token and error handling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30456
+}

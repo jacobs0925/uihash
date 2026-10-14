@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9681fc0db8550da5398ee89294cdb66a4a174b7e",
+ "parent": "b87fbef026e1fd79cde9fec5db931d8d772291da",
+ "date": "2025-12-27",
+ "subject": "Adjust home banner text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 8,
+ "ms": 26066
+}

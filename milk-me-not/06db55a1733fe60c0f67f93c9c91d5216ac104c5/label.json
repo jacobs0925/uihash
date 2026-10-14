@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "06db55a1733fe60c0f67f93c9c91d5216ac104c5",
+ "date": "2026-02-13",
+ "pr": null,
+ "title": "Adjust profile stats text weight",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 25621093, which restored 80c5987b (1 commit discarded)"
+}

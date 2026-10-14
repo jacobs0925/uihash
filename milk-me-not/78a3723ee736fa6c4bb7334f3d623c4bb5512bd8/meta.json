@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "78a3723ee736fa6c4bb7334f3d623c4bb5512bd8",
+ "parent": "6e5a3c63eac2d0335b6e2db3d3855f41ab05c300",
+ "date": "2025-12-28",
+ "subject": "Update Android banner text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 25872
+}

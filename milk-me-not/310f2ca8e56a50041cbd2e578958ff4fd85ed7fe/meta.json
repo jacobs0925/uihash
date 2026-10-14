@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "310f2ca8e56a50041cbd2e578958ff4fd85ed7fe",
+ "parent": "87acc343efbf7c94cb313315af3cecf9b2f22194",
+ "date": "2025-12-28",
+ "subject": "Add trophy icons for top 3",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30215
+}

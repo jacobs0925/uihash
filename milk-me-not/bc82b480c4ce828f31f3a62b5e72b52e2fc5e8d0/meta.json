@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "bc82b480c4ce828f31f3a62b5e72b52e2fc5e8d0",
+ "parent": "814cb1c2250eeb02b8044b316aaba1aa60a8aa40",
+ "date": "2025-12-27",
+ "subject": "Reduce QR size on desktop",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/MobileApp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 27997
+}

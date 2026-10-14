@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "87c45ac83bce6c8035ff1f03a7c76c7c547f4c6a",
+ "parent": "5356170b16c75be8d40da1f1e636534675d237a1",
+ "date": "2026-01-30",
+ "subject": "Fix cancel propagation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/edit/EditMilkTestForm.tsx",
+  "src/components/milk-test/registration-ui/FormSections.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30442
+}

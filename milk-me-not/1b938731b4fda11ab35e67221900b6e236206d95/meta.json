@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1b938731b4fda11ab35e67221900b6e236206d95",
+ "parent": "4a81ae829a68dc1c30af9edfebbe857bdbe29210",
+ "date": "2026-02-22",
+ "subject": "Mobile performance improvements",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/BackgroundPattern.tsx",
+  "src/components/MenuBar.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/lib/securityHeaders.ts",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 31556
+}

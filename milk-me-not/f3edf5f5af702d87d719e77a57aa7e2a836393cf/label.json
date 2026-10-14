@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "f3edf5f5af702d87d719e77a57aa7e2a836393cf",
+ "date": "2026-01-05",
+ "pr": null,
+ "title": "Adjust header sizing for small screens",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 3328e40f, which restored 91e9ff6f (2 commits discarded)"
+}

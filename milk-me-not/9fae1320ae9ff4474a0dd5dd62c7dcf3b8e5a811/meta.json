@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9fae1320ae9ff4474a0dd5dd62c7dcf3b8e5a811",
+ "parent": "a8885a34569e8217a8639e49b071c8bb2c3c5406",
+ "date": "2026-01-25",
+ "subject": "Adjust feed columns layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Feed.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 33354
+}

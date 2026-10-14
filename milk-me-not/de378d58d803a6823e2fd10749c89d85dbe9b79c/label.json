@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "de378d58d803a6823e2fd10749c89d85dbe9b79c",
+ "date": "2026-01-25",
+ "pr": null,
+ "title": "Show 6 previews web",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgb(66, 95, 255) → rgba(66, 95, 255, 0.9) undone by 57ebcd10 \"Introduce shared hooks for profile stats and feed highlight\"; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px undone by 57ebcd10 \"Introduce shared hooks for profile stats and feed highlight\"; transform: ∅ → matrix(1, 0, 0, 1, 0, -4) undone by 57ebcd10 \"Introduce shared hooks for profile stats and feed highlight\""
+}

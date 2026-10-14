@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1795cd856fa596b486ee6ab64b52a3d9dfdac12a",
+ "parent": "efa833e9d035a25fdb5d580826014e2520ee830b",
+ "date": "2026-01-13",
+ "subject": "Truncate brand names on tablet",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/ResultTableRow.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 30694
+}

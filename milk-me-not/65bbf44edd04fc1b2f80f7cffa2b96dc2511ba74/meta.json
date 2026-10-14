@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "65bbf44edd04fc1b2f80f7cffa2b96dc2511ba74",
+ "parent": "0c1cc216e12b398d883ff11c170fbb8731a01e4c",
+ "date": "2025-12-29",
+ "subject": "Remove Improve this map link",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 29638
+}

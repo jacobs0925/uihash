@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "b9b6ba13c44cc5873ebc6c96d0472004fda2bc38",
+ "parent": "af1ea85953cc3c396b63a07e0b2400b64a3fb04e",
+ "date": "2026-01-30",
+ "subject": "Prevent edit button propagation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/product-search/SelectedProduct.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30414
+}

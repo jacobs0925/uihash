@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e1b21e505b114e47ec2c642b3930e5acb9b910a3",
+ "parent": "0482723e3e9fecb54762f6b48bc9b53e312b44ef",
+ "date": "2026-01-28",
+ "subject": "Change map title to new text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 33640
+}

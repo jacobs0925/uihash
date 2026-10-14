@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ba52cf3103add894eb116cc4238109d4e42d0f16",
+ "parent": "bc99f2649b73536c4b311099c2bc44168a927ed8",
+ "date": "2025-11-24",
+ "subject": "Left-align shop search placeholder",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/shop/ShopSearchInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21970
+}

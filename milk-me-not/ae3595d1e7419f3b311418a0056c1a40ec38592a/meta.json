@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ae3595d1e7419f3b311418a0056c1a40ec38592a",
+ "parent": "1e80dd761a5000fbe1d4fb38a3999dc979a3bcfc",
+ "date": "2025-12-29",
+ "subject": "Highlight first place in black",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 29933
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ea54af793aa704c92f088e8388fde89a44831711",
+ "parent": "95fcd9ccce1c517fad7ed51ff44dcc09a7e4236e",
+ "date": "2026-02-10",
+ "subject": "Redesigned mobile stats grid",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/profile/ProfileContent.tsx",
+  "src/hooks/useProfileStats.ts",
+  "src/pages/Profile.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30522
+}

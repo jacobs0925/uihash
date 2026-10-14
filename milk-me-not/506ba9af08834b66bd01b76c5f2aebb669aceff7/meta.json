@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "506ba9af08834b66bd01b76c5f2aebb669aceff7",
+ "parent": "dacfcf9455c0734578395973bf3f6eb2b8ace879",
+ "date": "2026-02-06",
+ "subject": "Make mobile settings use dialogs",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/settings/CountryDialog.tsx",
+  "src/components/settings/NotificationDialog.tsx",
+  "src/components/settings/SecurityDialog.tsx",
+  "src/pages/Account.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 35080
+}

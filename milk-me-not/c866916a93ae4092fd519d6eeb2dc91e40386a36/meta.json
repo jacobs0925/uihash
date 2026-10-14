@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c866916a93ae4092fd519d6eeb2dc91e40386a36",
+ "parent": "3078bc3dbef5ba8dba3fc724d4075ddec376722d",
+ "date": "2026-01-11",
+ "subject": "Adjust header spacing to 12px",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ResultsContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 40397
+}

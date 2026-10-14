@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0973d3bca6025cda06b50d73e78c487a8f004046",
+ "parent": "4029b07dddb5791413e4dc026fded00c20d09ea3",
+ "date": "2026-01-11",
+ "subject": "Place badges closer to name",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/ResultCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30733
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6e5a3c63eac2d0335b6e2db3d3855f41ab05c300",
+ "parent": "43fd0ea1b81c2d458efd912a94232c32ee222996",
+ "date": "2025-12-28",
+ "subject": "Remove mobile banner padding",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 22248
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "4078f55935ff2118a97b6884684e1e3553735e41",
+ "date": "2026-02-04",
+ "pr": null,
+ "title": "Center feed cards on mobile",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px → rgb(255, 255, 255) 0px 0px 0px 2px, rgb(191, 191, 191) 0px 0px 0px 4px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px undone by 6cccbd16 \"Feed images loaded eagerly\"; outline-style: ∅ → solid undone by 6cccbd16 \"Feed images loaded eagerly\"; outline-width: ∅ → 2px undone by 6cccbd16 \"Feed images loaded eagerly\""
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "af1ea85953cc3c396b63a07e0b2400b64a3fb04e",
+ "parent": "784991375bbf63fd32637bc28d0e9fe06c54c0fd",
+ "date": "2026-01-30",
+ "subject": "Cascade delete product tests",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/registration-ui/ProductRegistrationDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30862
+}

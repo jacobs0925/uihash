@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8ac376da2ba5b0bbadb6c41b00cc19c14f3e8435",
+ "parent": "579da3faed1fb7a15f84d6241a30bedb0e88d5c4",
+ "date": "2025-12-31",
+ "subject": "Hide mobile banner on native",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30798
+}

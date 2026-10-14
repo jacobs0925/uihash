@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "839e936e46fbf60e26854a9f9c9c3cdbdd953a52",
+ "parent": "4c953793e86d5836e5774d7a5bd88ffb8e888bfd",
+ "date": "2026-01-28",
+ "subject": "Refactor MenuBar component",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx",
+  "src/components/menu/DesktopNav.tsx",
+  "src/components/menu/Logo.tsx",
+  "src/components/menu/MenuActions.tsx",
+  "src/components/menu/PageTitle.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 32994
+}

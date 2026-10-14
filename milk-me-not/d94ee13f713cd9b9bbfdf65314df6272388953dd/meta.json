@@ -1,0 +1,38 @@
+{
+ "repo": "milk-me-not",
+ "sha": "d94ee13f713cd9b9bbfdf65314df6272388953dd",
+ "parent": "bafdb1bf44cf339ac658654723892a68ca0e75ef",
+ "date": "2025-12-23",
+ "subject": "Consolidate design tokens",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AuthButton.tsx",
+  "src/components/MenuBar.tsx",
+  "src/components/auth/AuthForm.tsx",
+  "src/components/auth/AuthFormButtons.tsx",
+  "src/components/auth/EmailConfirmationPending.tsx",
+  "src/components/auth/LoginPrompt.tsx",
+  "src/components/auth/PasswordResetForm.tsx",
+  "src/components/milk-test/DrinkPreference.tsx",
+  "src/components/milk-test/MobileFilterBar.tsx",
+  "src/components/milk-test/PriceInput.tsx",
+  "src/components/milk-test/RatingSelect.tsx",
+  "src/components/milk-test/ResultsFilter.tsx",
+  "src/components/milk-test/SearchIcon.tsx",
+  "src/components/milk-test/SortButton.tsx",
+  "src/components/milk-test/SortableColumnHeader.tsx",
+  "src/components/notifications/MobileNotificationList.tsx",
+  "src/components/settings/ProfileSettings.tsx",
+  "src/pages/Home.tsx",
+  "src/pages/Notifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 9,
+ "ms": 29426
+}

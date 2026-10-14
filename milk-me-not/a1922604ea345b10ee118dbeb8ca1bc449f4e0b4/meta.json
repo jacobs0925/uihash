@@ -1,0 +1,31 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a1922604ea345b10ee118dbeb8ca1bc449f4e0b4",
+ "parent": "0be643ab31dde224925d1777558e0cf166fb5d36",
+ "date": "2026-01-30",
+ "subject": "Remove clearDismissedVersions",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AnimatedBirds.tsx",
+  "src/components/CircularStats.tsx",
+  "src/components/FeaturesSection.tsx",
+  "src/components/HowItWorks.tsx",
+  "src/components/MilkCard.tsx",
+  "src/components/MilkCharts.tsx",
+  "src/components/StatsOverview.tsx",
+  "src/components/TestimonialsSection.tsx",
+  "src/components/UserStatsOverview.tsx",
+  "src/components/milk-test/UserResultsContainer.tsx",
+  "src/lib/appVersion.ts",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 41232
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "602092e5210799bbee6a252d22867070e54191f0",
+ "parent": "bc82b480c4ce828f31f3a62b5e72b52e2fc5e8d0",
+ "date": "2025-12-27",
+ "subject": "Move QR code to side of buttons",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/MobileApp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 9,
+ "ms": 30503
+}

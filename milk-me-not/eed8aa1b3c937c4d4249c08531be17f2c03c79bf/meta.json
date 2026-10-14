@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "eed8aa1b3c937c4d4249c08531be17f2c03c79bf",
+ "parent": "4efde19e2682b62cf02f0cf7595ceac2a8483113",
+ "date": "2025-12-29",
+ "subject": "Change test label to results",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 33861
+}

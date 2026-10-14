@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8af13abd03fca92c7a0aa59815c9b592cef23025",
+ "parent": "6a0cfa14f41156f0bdbdbe3360c10b0671c64c53",
+ "date": "2025-12-28",
+ "subject": "Make progress bar green",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 40011
+}

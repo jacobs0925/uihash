@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "c597a524d2830a6ee9c637faa5a9f88041ca2bc7",
+ "date": "2026-01-11",
+ "pr": null,
+ "title": "Add dividers to sort rows",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 89b72383, which restored c21cdd03 (1 commit discarded)"
+}

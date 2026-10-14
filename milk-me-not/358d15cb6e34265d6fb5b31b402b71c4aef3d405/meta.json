@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "358d15cb6e34265d6fb5b31b402b71c4aef3d405",
+ "parent": "218df07432c63e14a9deeb280d138a95d79e7d24",
+ "date": "2025-12-28",
+ "subject": "Improve map tooltip UI",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 29994
+}

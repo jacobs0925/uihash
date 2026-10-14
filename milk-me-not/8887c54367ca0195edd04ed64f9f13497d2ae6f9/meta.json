@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8887c54367ca0195edd04ed64f9f13497d2ae6f9",
+ "parent": "4940a6964fcb226693f24938d2c7dda8a377515e",
+ "date": "2026-01-10",
+ "subject": "Fix embla types in carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/carousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 34980
+}

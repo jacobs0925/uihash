@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1e80dd761a5000fbe1d4fb38a3999dc979a3bcfc",
+ "parent": "a79a65e89e6dfa4dc0fcdc1fbbda405439220548",
+ "date": "2025-12-29",
+ "subject": "Show percentage next to count",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 29829
+}

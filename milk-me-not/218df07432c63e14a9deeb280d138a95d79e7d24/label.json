@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "218df07432c63e14a9deeb280d138a95d79e7d24",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Add unauth preview banner",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 659 later commits"
+}

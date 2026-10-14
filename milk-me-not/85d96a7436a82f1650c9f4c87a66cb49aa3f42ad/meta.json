@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "85d96a7436a82f1650c9f4c87a66cb49aa3f42ad",
+ "parent": "4aceaa89e278a9681776a0cad6530479f5321fd4",
+ "date": "2026-02-13",
+ "subject": "Enhance FAQ header icons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/menu/PageTitle.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 34860
+}

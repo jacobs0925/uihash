@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "52fe2e842cbca0ff6aa167990c0c8999c6a21900",
+ "parent": "e26dcca154ff4588692387ffef5ffed7ddf4b1a1",
+ "date": "2026-01-30",
+ "subject": "Refactor account page UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/account/DesktopAccountTabs.tsx",
+  "src/components/account/MobileSettingsMenu.tsx",
+  "src/components/account/accountMenuConfig.ts",
+  "src/pages/Account.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30642
+}

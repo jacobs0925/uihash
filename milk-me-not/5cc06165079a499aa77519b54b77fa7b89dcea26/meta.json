@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5cc06165079a499aa77519b54b77fa7b89dcea26",
+ "parent": "046dd9e735f3b66178ad198ac11d385c8c13f794",
+ "date": "2026-01-01",
+ "subject": "Prevent header text truncation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/SortableColumnHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 34788
+}

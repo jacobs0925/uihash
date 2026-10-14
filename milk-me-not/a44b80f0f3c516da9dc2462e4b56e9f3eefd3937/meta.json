@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a44b80f0f3c516da9dc2462e4b56e9f3eefd3937",
+ "parent": "edc700eb2cef9e2b18a58358d004f24db34ad4ac",
+ "date": "2026-01-11",
+ "subject": "Remove filter header extras",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30334
+}

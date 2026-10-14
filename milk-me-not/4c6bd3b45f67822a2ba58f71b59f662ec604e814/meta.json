@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4c6bd3b45f67822a2ba58f71b59f662ec604e814",
+ "parent": "e49d0fbcca74a0d462e3b99551062285302c0dfe",
+ "date": "2026-02-17",
+ "subject": "Match add button to badge shape",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/FlavorSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 35428
+}

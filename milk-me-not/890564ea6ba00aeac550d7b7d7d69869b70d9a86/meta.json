@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "890564ea6ba00aeac550d7b7d7d69869b70d9a86",
+ "parent": "85d96a7436a82f1650c9f4c87a66cb49aa3f42ad",
+ "date": "2026-02-13",
+ "subject": "Add FAQ back button support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/menu/MenuActions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 31785
+}

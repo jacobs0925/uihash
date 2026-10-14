@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "999cc0307f337395a180e980fc3dd0e8b33c7c8f",
+ "parent": "0ab0fc00e7bf5e5fa85d85ffe292d779fe9a4a92",
+ "date": "2026-01-03",
+ "subject": "Update delete dialog title",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/TestDetailsAccordion.tsx",
+  "src/components/milk-test/TestDetailsTable.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30849
+}

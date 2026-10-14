@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "58244ec766dfccab4a61a28fc78fba8403e9046b",
+ "parent": "9bffd670349485f7d16713ee87b023bc5ab64d48",
+ "date": "2026-01-10",
+ "subject": "Fix notification context guard",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/NotificationContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30883
+}

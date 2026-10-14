@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "83057ec9b27fd6ae04cf0ab41753c683abc3edde",
+ "parent": "96c1065704e43da7fd9b612f897227f27e8fab42",
+ "date": "2026-01-31",
+ "subject": "Keep delete dialog mounted",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/shop/ShopSuggestions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 33799
+}

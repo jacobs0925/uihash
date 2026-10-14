@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "981bd69175a387381a48a9a3beffc05f1cf873aa",
+ "parent": "9efbeda81cff774f55f4d31fe134ea5b1a6e07f0",
+ "date": "2026-02-09",
+ "subject": "Change Average Rating icon",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/ProfileContent.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 31525
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "34e2e824aba4623bf730052736603eacfa47b273",
+ "parent": "36581f39489c0dadd0884aa1710267f9edf002e2",
+ "date": "2025-12-29",
+ "subject": "Add mapping emoji at end",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MapboxWorldMap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 30832
+}

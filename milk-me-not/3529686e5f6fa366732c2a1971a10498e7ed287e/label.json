@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "3529686e5f6fa366732c2a1971a10498e7ed287e",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Reverted to commit c1e36615930ed7e85af7b258393c605883760397",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "flex-direction: column → row undone by f7e4dda4 \"Add mobile logo to auth page\"; flex-direction: column → row undone by f7e4dda4 \"Add mobile logo to auth page\"; flex-direction: column → row undone by f7e4dda4 \"Add mobile logo to auth page\""
+}

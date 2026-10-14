@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "3327ad0f90dd942ead57a481c80ab22d269b2ea4",
+ "date": "2026-01-11",
+ "pr": null,
+ "title": "Add floating toggle button",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 0f15f2b5, which restored 13619d1d (1 commit discarded)"
+}

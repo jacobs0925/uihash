@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5356170b16c75be8d40da1f1e636534675d237a1",
+ "parent": "0c04e56cd9a25620dbc79b1f61e983fcd9404459",
+ "date": "2026-01-30",
+ "subject": "Align flavor badges height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/FlavorSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30284
+}

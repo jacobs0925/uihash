@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9befc18fcf6156ee1664c0d4cd4be1e5dcb7e070",
+ "parent": "f6f3baa8b7b14cda18e752c05775874c75421fa5",
+ "date": "2026-01-03",
+ "subject": "Persist sort in URL",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 39003
+}

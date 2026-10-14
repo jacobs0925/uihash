@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f3ecb5d0878e3869341176bb7f47c4965963abbf",
+ "parent": "bd2f1142f86820f925ba2d1bfe023e653e4f5e27",
+ "date": "2026-01-23",
+ "subject": "Persist filters on back nav",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 37854
+}

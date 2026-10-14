@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "f7e4dda4ab5bf7d242f0581735c39e5a660503ce",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Add mobile logo to auth page",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 3529686e, which restored c1e36615 (1 commit discarded)"
+}

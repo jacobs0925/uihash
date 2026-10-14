@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "76362309f84a907f2e666c954f74b42830eec87f",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Shorten Android text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 684 later commits"
+}

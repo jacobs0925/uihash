@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "fb918fe4d44ccba761ab922f68ce25650e3194b2",
+ "date": "2026-02-18",
+ "pr": null,
+ "title": "Switch Mapbox token to env key",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 403 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "42aa782c8b06e36fec76f672e4758513a3660e1a",
+ "parent": "4f35a0269c7a27907769776ec135925ae76ca730",
+ "date": "2025-11-24",
+ "subject": "Show add test in mobile menu",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 22909
+}

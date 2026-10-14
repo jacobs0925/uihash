@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "09d24d8c5d32920a37ebdbe9fe3a359628f91fae",
+ "parent": "a0dcb137f105d552282ce45b950198888e0ba9db",
+ "date": "2026-01-28",
+ "subject": "Remove fetchPriority prop from MenuBar images",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 33531
+}

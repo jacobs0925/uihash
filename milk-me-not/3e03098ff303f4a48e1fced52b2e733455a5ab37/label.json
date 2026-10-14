@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "3e03098ff303f4a48e1fced52b2e733455a5ab37",
+ "date": "2026-01-11",
+ "pr": null,
+ "title": "Make sort mobile single tap",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 576 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "fc3cfba4c52c5d257b699eeee03682cfc81cba55",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Improve mobile banner visibility",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-right: 0px → 16px undone by 115a5808 \"Hide mobile banner on mobile\"; padding-left: 0px → 16px undone by 115a5808 \"Hide mobile banner on mobile\"; position: ∅ → relative undone by 115a5808 \"Hide mobile banner on mobile\""
+}

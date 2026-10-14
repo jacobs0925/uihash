@@ -575,7 +575,7 @@ licensed repositories are as rare, and Replit apps are mostly Express servers th
     of each repository's labelled commits held out. A commit is held out when a hash of its name says
     so (`dataset.js --split`), so it stays held out as the data grows. The held-out commits form a set
     named `<repo>-held-out`. `weekly.js` trains its three candidates on the other commits, real
-    commits only, picks the best on the held-out sets, and runs the promotion gate against
+    commits only, picks the best on unseen repositories (below), and runs the promotion gate against
     `learn/model.json`. Synthetic PRs are left out of training unless `SYNTH` names a set: the
     candidates have to beat the shipped model, which was trained on synthetic PRs, on real commits
     alone. Then `report.js` decides:
@@ -583,8 +583,31 @@ licensed repositories are as rare, and Replit apps are mostly Express servers th
     | decision | when |
     |---|---|
     | wait | no candidate yet, or fewer than 10 held-out regressions or 10 held-out intended changes |
-    | propose | there is no current model, or the gate passed and the candidate raises the mean held-out AUROC by 0.005 or more |
+    | propose | there is no current model, or the gate passed and the candidate raises the mean held-out AUROC, or the mean AUROC on unseen repositories (against the one `model.json` recorded), by 0.005 or more |
     | keep | otherwise |
+
+    **The goal: AUROC 0.935 on every repository the model has never seen.** `train.py` scores each
+    repository with a model of the candidate's kind trained on all the other repositories' commits. The
+    PR-level AUROC ranks regressions and mistake sides against intended commits and deliberate sides,
+    as the gate does. Each candidate's table, mean and lowest go to `latest.md` and `history.jsonl`. A
+    repository counts once it has 5 or more of each. That is the bar a model has to clear before it is
+    trusted on someone else's app. Measured on round 17's data (el400, livingwitharthritis, milk-me-not,
+    primer-react):
+
+    | | mean | lowest |
+    |---|---|---|
+    | as trained until round 17 | 0.737 | 0.657 |
+    | restore labels weighted 0.1 in training, `no_pixel_change` left out | 0.774 | 0.742 |
+    | the same, scored on labels other than restores | 0.803 | 0.743 |
+    | trained on 80 % of the repository itself as well (an upper bound for these labels) | 0.80 | 0.75 |
+
+    Restore labels are the noisy ones. A restore throws whole commits away, often for something off
+    the checked routes or not visual at all. In milk-me-not a model separates "undo" regressions from
+    kept commits at 0.98 but restore regressions at 0.68. They stay in evaluation and weigh a tenth in
+    training. Model kinds, per-repository normalisation and balancing the repositories moved the scores
+    by 0.02 or less. The bound in the last row shows that the labels and features, not the model, hold
+    the score near 0.8. Getting to 0.935 needs findings that show why a commit was thrown away (more
+    routes, an intent judge on the commit subject) and more repositories of different kinds.
 
     The gate only asks that a candidate be no worse. Rounds that follow one another also ask that it be
     better; otherwise every round would propose a model.

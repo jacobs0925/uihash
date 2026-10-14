@@ -1,11 +1,12 @@
 // The end of a round (round.sh train): what the round found, and whether to propose its model. weekly.js
-// has trained the candidates, picked the best on the held-out commits and run the promotion gate (gate.js)
-// against the current model. The gate asks that a candidate be no worse; a round every two hours also
+// has trained the candidates, picked the best on unseen repositories and run the promotion gate (gate.js)
+// against the current model. The gate asks that a candidate be no worse; a round every three hours also
 // asks that it be better, or every round would propose a model, and that the held-out sets be big enough
 // for either to mean something:
 //   wait     no candidate, or fewer than MIN_EVAL held-out regressions or intended changes so far
 //   propose  there is no current model yet, or the gate passed and the candidate raises the mean held-out
-//            AUROC by MARGIN (default 0.005) or more
+//            AUROC, or the mean AUROC on unseen repositories (the current model's as it recorded it; CURRENT_MODEL),
+//            by MARGIN (default 0.005) or more
 //   keep     otherwise
 // Writes <modelDir>/decision.json and <modelDir>/summary.md (the round as markdown: GitHub's job summary
 // and the model PR's description) and appends a line to <dataDir>/history.jsonl.
@@ -54,6 +55,10 @@ const pos = n.regression + n.mixed, neg = n.deliberate + n.mixed;
 // mean AUROC of the current model and of the candidate over the sets the gate scored both on
 const both = result.gate.sets.filter((s) => s.aurocCurrent !== null && s.aurocCandidate !== null);
 const mean = (k) => both.reduce((a, s) => a + s[k], 0) / both.length;
+// the unseen-repository score of the candidate, and the one the current model recorded when it was trained
+const unseen = metrics.loro_mean === undefined ? null : metrics.loro_mean;
+const current = process.env.CURRENT_MODEL && fs.existsSync(process.env.CURRENT_MODEL) ? read(process.env.CURRENT_MODEL) : null;
+const curUnseen = current && current.unseen && current.unseen.loro_mean !== undefined ? current.unseen.loro_mean : null;
 let decision, reason;
 if (!result.best) {
   decision = 'wait'; reason = 'no held-out set has both regressions and intended changes yet';
@@ -65,6 +70,10 @@ if (!result.best) {
   decision = 'keep'; reason = `${result.best} did not pass the promotion gate: ${result.gate.sets.filter((s) => !s.pass).map((s) => `${s.set}: ${s.why.join('; ')}`).join(' / ')}`;
 } else if (both.length && mean('aurocCandidate') >= mean('aurocCurrent') + MARGIN) {
   decision = 'propose'; reason = `${result.best} passed the promotion gate and raises the mean held-out AUROC from ${mean('aurocCurrent').toFixed(3)} to ${mean('aurocCandidate').toFixed(3)}`;
+} else if (unseen !== null && (curUnseen === null || unseen >= curUnseen + MARGIN)) {
+  // the goal is repositories a model has never seen: a candidate that passed the gate and ranks those better
+  // is proposed too (a model from before this score was recorded has none to compare)
+  decision = 'propose'; reason = `${result.best} passed the promotion gate and raises the mean AUROC on unseen repositories from ${curUnseen === null ? 'unmeasured' : curUnseen.toFixed(3)} to ${unseen.toFixed(3)}`;
 } else {
   decision = 'keep'; reason = `${result.best} passed the promotion gate but does not beat the current model by ${MARGIN} (mean held-out AUROC ${both.length ? `${mean('aurocCandidate').toFixed(3)} against ${mean('aurocCurrent').toFixed(3)}` : 'not comparable'})`;
 }
@@ -82,9 +91,14 @@ const md = [
   `Held out of training and judged on: ${n.regression} regressions, ${n.deliberate} intended changes, ${n.mixed} mixed.` +
     (!metrics.train_prs ? '' : synthetic ? ` Trained on ${metrics.train_prs} PRs (${synthetic} synthetic, ${metrics.train_prs - synthetic} labelled).`
       : ` Trained on ${metrics.train_prs} labelled commits, no synthetic PRs.`), '',
-  `Candidates (mean PR-level AUROC on the held-out commits): ${result.candidates.map((c) => `${c.name} ${f3(c.auroc)}${c.name === result.best ? ' (chosen)' : ''}`).join(', ')}.`, '',
+  `Candidates (mean PR-level AUROC on the held-out commits, and on unseen repositories): ${result.candidates.map((c) => `${c.name} ${f3(c.auroc)}, unseen ${f3(c.unseen)}${c.name === result.best ? ' (chosen)' : ''}`).join('; ')}.`, '',
   ...(result.gate.sets.length ? [markdown(result.gate).replace(/^# /, '#### ')] : []),
   ...(metrics.cv_auc_trees ? [`Cross-validation on the training data (variant ${metrics.variant}; whole operators or repositories held out): AUROC ${f3(metrics.cv_auc_logistic)} (logistic), ${f3(metrics.cv_auc_trees)} (trees).`, ''] : []),
+  // the goal: a model trained without a repository ranks that repository's commits at metrics.loro_goal or better
+  ...(metrics.loro ? [`#### Unseen repositories (${result.best}, trained on the other repositories; goal ${metrics.loro_goal} on each)`, '',
+    '| repository | regressions | intended | AUROC |', '|---|---|---|---|',
+    ...Object.entries(metrics.loro).map(([r, [auc, p, q]]) => `| ${r} | ${p} | ${q} | ${f3(auc)} |`), '',
+    metrics.loro_scored ? `Mean ${f3(metrics.loro_mean)}, lowest ${f3(metrics.loro_min)}: ${metrics.loro_at_goal} of ${metrics.loro_scored} repositories with 5 or more of each are at the goal.` : 'No repository has 5 or more of each yet.', ''] : []),
   `**${{ wait: 'Collecting', propose: 'Proposing this model', keep: 'Keeping the current model' }[decision]}**: ${reason}.`, '',
 ];
 fs.writeFileSync(path.join(M, 'summary.md'), md.join('\n'));

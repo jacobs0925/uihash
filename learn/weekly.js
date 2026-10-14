@@ -9,7 +9,8 @@
 //   --split   sets that are both: a fixed share of each, chosen by hash, is held out (dataset.js --split;
 //             the public repositories of learn/public/round.sh)
 // The candidate is whichever of logistic, logistic --variant local and trees has the best mean PR-level
-// AUROC over the evaluation sets; it replaces --current only if the gate passes. Agents never merge:
+// AUROC on unseen repositories (train.py: each app scored by a model trained on the other apps), or over the
+// evaluation sets when a candidate has no such score; it replaces --current only if the gate passes. Agents never merge:
 // --pr opens a pull request, a person merges it. Python: $PYTHON, else .venv's.
 const fs = require('fs');
 const path = require('path');
@@ -81,12 +82,15 @@ function weekly(o) {
   const cands = CANDIDATES.map(([kind, variant]) => {
     const name = `${kind}-${variant}`, file = path.join(out, `${name}.json`);
     run(PY, [path.join(__dirname, 'train.py'), rowsFile, file, path.join(out, `${name}.md`), '--kind', kind, '--variant', variant]);
-    const m = loadModel(file);
-    return { name, file, m, auroc: meanAuroc(rows, m) };
+    const m = loadModel(file), metrics = file.replace(/\.json$/, '.metrics.json');
+    const unseen = fs.existsSync(metrics) ? JSON.parse(fs.readFileSync(metrics, 'utf8')).loro_mean : undefined;
+    return { name, file, m, auroc: meanAuroc(rows, m), unseen: unseen === undefined ? null : unseen };
   });
-  const best = cands.filter((c) => c.auroc !== null).sort((a, b) => b.auroc - a.auroc)[0] || null;
-  const L = [`# Weekly triage model: ${date}`, '', '## Candidates (mean PR-level AUROC over the evaluation sets)', '',
-    ...cands.map((c) => `- ${c.name}: ${c.auroc === null ? 'no evaluation PRs' : c.auroc.toFixed(3)}${c === best ? ' (chosen)' : ''}`), ''];
+  // the goal is repositories the model has never seen, so their mean AUROC chooses when every candidate has one
+  const byUnseen = cands.every((c) => c.unseen !== null);
+  const best = cands.filter((c) => c.auroc !== null).sort((a, b) => (byUnseen ? b.unseen - a.unseen : b.auroc - a.auroc))[0] || null;
+  const L = [`# Weekly triage model: ${date}`, '', `## Candidates (mean PR-level AUROC over the evaluation sets; on unseen repositories${byUnseen ? ', which chooses' : ''})`, '',
+    ...cands.map((c) => `- ${c.name}: ${c.auroc === null ? 'no evaluation PRs' : c.auroc.toFixed(3)}; unseen ${c.unseen === null ? 'n/a' : c.unseen.toFixed(3)}${c === best ? ' (chosen)' : ''}`), ''];
   let g = { pass: false, sets: [] };
   if (!best) L.push('No evaluation sets with both kinds of PR: nothing to choose or gate on, no promotion.');
   else if (!o.current || !fs.existsSync(o.current)) { g = { pass: true, sets: [] }; L.push(`No current model: the candidate is the first one (a person reviews it before it ships).`); }
@@ -98,7 +102,7 @@ function weekly(o) {
   fs.writeFileSync(path.join(out, 'manifest.json'), JSON.stringify(man, null, 1));
   fs.writeFileSync(path.join(out, 'weekly.md'), L.join('\n') + '\n');
   fs.writeFileSync(path.join(out, 'result.json'), JSON.stringify({ date, best: best && best.name, pass: g.pass,
-    candidates: cands.map((c) => ({ name: c.name, auroc: c.auroc })), gate: g }, null, 1));
+    candidates: cands.map((c) => ({ name: c.name, auroc: c.auroc, unseen: c.unseen })), gate: g }, null, 1));
   if (best) fs.copyFileSync(best.file, path.join(out, 'model.json'));
   let pr = null;
   if (o.pr && best && g.pass) pr = openPR(out, best, date, L.join('\n'));

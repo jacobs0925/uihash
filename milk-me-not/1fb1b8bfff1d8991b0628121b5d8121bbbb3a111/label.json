@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "1fb1b8bfff1d8991b0628121b5d8121bbbb3a111",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Reverted to commit b47744156218c9451582891599b4195c60a2eba5",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "width: 100% → auto undone by 60e685e5 \"Add text next to icons\"; width: 100% → auto undone by 60e685e5 \"Add text next to icons\"; width: 100% → auto undone by 60e685e5 \"Add text next to icons\""
+}

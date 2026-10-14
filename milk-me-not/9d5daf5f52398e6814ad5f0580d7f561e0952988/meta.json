@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9d5daf5f52398e6814ad5f0580d7f561e0952988",
+ "parent": "264f1e84f19ef2055c7f8c3122ab626cf5cda5c8",
+ "date": "2025-11-08",
+ "subject": "Convert popovers to bottom sheets",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20673
+}

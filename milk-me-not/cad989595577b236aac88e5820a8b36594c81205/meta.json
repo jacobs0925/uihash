@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "cad989595577b236aac88e5820a8b36594c81205",
+ "parent": "35396f8171cdbdc83ba63fba72631803edc467fb",
+ "date": "2025-11-24",
+ "subject": "Add carousel arrows",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 38280
+}

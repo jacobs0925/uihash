@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "21f4f93c91f4c0fc1a2f3805169ee8e5b16e93c3",
+ "parent": "fa05ca037fb91a7decd3fd1f6a59bc168b28bb4e",
+ "date": "2025-10-12",
+ "subject": "Add logo and name to auth pages",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/AuthForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20696
+}

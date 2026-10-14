@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "db4be9a11d0beef3fc0122591c13c76677c7866a",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Fix login button color",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1093 later commits"
+}

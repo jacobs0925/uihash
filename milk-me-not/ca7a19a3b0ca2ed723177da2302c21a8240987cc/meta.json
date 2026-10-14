@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ca7a19a3b0ca2ed723177da2302c21a8240987cc",
+ "parent": "067b98d1852d314ab0ae068024465856098d9599",
+ "date": "2025-10-12",
+ "subject": "Remove hover animation from store links",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/MobileApp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 28232
+}

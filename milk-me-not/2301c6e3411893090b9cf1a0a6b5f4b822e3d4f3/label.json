@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "2301c6e3411893090b9cf1a0a6b5f4b822e3d4f3",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Redesign mobile settings page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 853 later commits"
+}

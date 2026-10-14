@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "0597772d802cdb9c317b2ea80ba2aa8ca04d6505",
+ "date": "2025-11-22",
+ "pr": null,
+ "title": "Standardize test menu to Test",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 812 later commits"
+}

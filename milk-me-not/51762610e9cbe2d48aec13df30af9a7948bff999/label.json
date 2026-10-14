@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "51762610e9cbe2d48aec13df30af9a7948bff999",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Reverted to commit 3b404b1cddcf1171454acf2025de109117efe14d",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgb(245, 245, 245) → rgb(255, 255, 255) undone by b6397bf5 \"Applied theme Test\"; background-color: rgb(245, 245, 245) → rgb(255, 255, 255) undone by b6397bf5 \"Applied theme Test\"; font-family: \"Work Sans\", ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\" → ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\" undone by b6397bf5 \"Applied theme Test\""
+}

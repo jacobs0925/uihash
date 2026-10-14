@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "68f4b051e820b8e7085e1b93557e3959e11927a6",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Remove login arrow",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1091 later commits"
+}

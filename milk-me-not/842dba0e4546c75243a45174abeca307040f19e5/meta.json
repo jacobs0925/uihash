@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "842dba0e4546c75243a45174abeca307040f19e5",
+ "parent": "95c86e3800537cb5132c60ea67668627dd2cb8d5",
+ "date": "2025-11-23",
+ "subject": "Add captions to About images",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 46392
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8d3386f8bf84258b32f7b61dc4e2ae8a55a156b8",
+ "parent": "014e08a76394f7bbf4820705ce91613d23d2921b",
+ "date": "2025-11-23",
+ "subject": "Reorder timeline item layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 7,
+ "ms": 84177
+}

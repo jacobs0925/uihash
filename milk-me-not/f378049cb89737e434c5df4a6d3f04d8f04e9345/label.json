@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "f378049cb89737e434c5df4a6d3f04d8f04e9345",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Use full screen for notifications",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1068 later commits"
+}

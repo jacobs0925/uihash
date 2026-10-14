@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "799a43ce969546965f5a6c1cd4ee675b5d3f61e6",
+ "parent": "5496850feb57d965217b52d74ff4fbf456ca4db4",
+ "date": "2025-11-10",
+ "subject": "Keep sort drawer open after select",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20479
+}

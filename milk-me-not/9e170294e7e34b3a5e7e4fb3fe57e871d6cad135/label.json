@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "9e170294e7e34b3a5e7e4fb3fe57e871d6cad135",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Add timeline animations",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 855 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "a0e195ae1911cd653a149319810307ad471f21f2",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Remove green background element",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1125 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4428b81f18fad6a0732e19eac499f0e530512cbe",
+ "parent": "c1009b2b3b82d8df3e9458f228cc8c3106529e06",
+ "date": "2025-11-02",
+ "subject": "Update result detail card styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/ProductDetails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20728
+}

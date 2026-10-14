@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "c0adc7b105252f3769f1f67f8f3a70105ce7bf4d",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Revert contact page changes",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 1fb1b8bf, which restored b4774415 (1 commit discarded)"
+}

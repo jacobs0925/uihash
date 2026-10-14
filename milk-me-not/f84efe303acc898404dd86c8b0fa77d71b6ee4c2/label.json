@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "f84efe303acc898404dd86c8b0fa77d71b6ee4c2",
+ "date": "2025-11-23",
+ "pr": null,
+ "title": "Replace start with two photos",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 799 later commits"
+}

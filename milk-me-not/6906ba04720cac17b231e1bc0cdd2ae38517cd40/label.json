@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "6906ba04720cac17b231e1bc0cdd2ae38517cd40",
+ "date": "2025-10-26",
+ "pr": null,
+ "title": "Fix: Remove plus signs",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 966 later commits"
+}

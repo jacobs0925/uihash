@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "273cc589882dfbe9b06e700fc18ab7ae70b7ee33",
+ "date": "2025-11-23",
+ "pr": null,
+ "title": "Add about page image to story",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 811 later commits"
+}

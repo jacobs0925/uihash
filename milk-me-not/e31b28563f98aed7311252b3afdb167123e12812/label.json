@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "e31b28563f98aed7311252b3afdb167123e12812",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Fix whitespace on notification page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1046 later commits"
+}

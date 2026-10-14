@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "014e08a76394f7bbf4820705ce91613d23d2921b",
+ "parent": "842dba0e4546c75243a45174abeca307040f19e5",
+ "date": "2025-11-23",
+ "subject": "Add third timeline photos",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/assets/community-platform.jpg",
+  "src/assets/milk-testing-session.jpg",
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 46597
+}

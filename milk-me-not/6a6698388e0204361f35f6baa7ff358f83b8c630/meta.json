@@ -1,0 +1,26 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6a6698388e0204361f35f6baa7ff358f83b8c630",
+ "parent": "3ba5df82a481294a3d1d520d9c0c8a686a17f944",
+ "date": "2025-11-19",
+ "subject": "Remove My Results page",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/AuthButton.tsx",
+  "src/components/MenuBar.tsx",
+  "src/hooks/auth/useAuthOperations.ts",
+  "src/hooks/useAuthForm.ts",
+  "src/pages/MyResults.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20644
+}

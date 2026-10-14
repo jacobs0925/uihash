@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2d8840354a1c16da328a9e3d79523dee5e8fd19d",
+ "parent": "19fecdadff683adc2ea3bbbac04cc8fe4593914c",
+ "date": "2025-10-12",
+ "subject": "Update menu bar icon",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20398
+}

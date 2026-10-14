@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9a424db28ec6b5ca332aabc364cde343b80f3d6d",
+ "parent": "dd91c4d99d242823a02958f55cd9b9d41415e852",
+ "date": "2025-10-14",
+ "subject": "Fix feed layout gaps",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Feed.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 23079
+}

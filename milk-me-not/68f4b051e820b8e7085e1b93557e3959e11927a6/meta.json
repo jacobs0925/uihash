@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "68f4b051e820b8e7085e1b93557e3959e11927a6",
+ "parent": "34e221b7d0c90eb707f660d5976053eddbb4ae1c",
+ "date": "2025-10-12",
+ "subject": "Remove login arrow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 22117
+}

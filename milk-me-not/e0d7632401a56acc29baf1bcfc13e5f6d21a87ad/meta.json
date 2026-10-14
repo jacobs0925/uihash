@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e0d7632401a56acc29baf1bcfc13e5f6d21a87ad",
+ "parent": "30a644d73b4d04df93657bea3e1d56e28db9204b",
+ "date": "2025-10-12",
+ "subject": "Visual edit in Lovable",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MobileFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 20923
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3601702bce6fc2c263eeed1567cb8af17031d2b0",
+ "parent": "c6c9cf133d227634847b6b811c593d2f9e65d0df",
+ "date": "2025-10-12",
+ "subject": "Refactor: Replace save button with edit",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedItem.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20615
+}

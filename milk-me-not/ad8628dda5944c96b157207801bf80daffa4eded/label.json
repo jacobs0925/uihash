@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "ad8628dda5944c96b157207801bf80daffa4eded",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Add security header for mobile",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 835 later commits"
+}

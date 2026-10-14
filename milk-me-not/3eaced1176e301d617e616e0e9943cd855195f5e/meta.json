@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3eaced1176e301d617e616e0e9943cd855195f5e",
+ "parent": "5e62cb84e85817a77ec251e2a99ca337878fefa5",
+ "date": "2025-10-12",
+ "subject": "Fix mobile footer on tablets",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MobileFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20016
+}

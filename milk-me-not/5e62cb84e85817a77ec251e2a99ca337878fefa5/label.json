@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "5e62cb84e85817a77ec251e2a99ca337878fefa5",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Remove element for tablets",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1085 later commits"
+}

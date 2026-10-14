@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0bddfaced43e95040509630f442b94351f956f13",
+ "parent": "f2f9bf2054b6e34022ea674cbeecb2aef459ac51",
+ "date": "2025-11-21",
+ "subject": "Hide mobile overall score",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/milk-test/TestDetailsAccordion.tsx",
+  "src/pages/ProductDetails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 36458
+}

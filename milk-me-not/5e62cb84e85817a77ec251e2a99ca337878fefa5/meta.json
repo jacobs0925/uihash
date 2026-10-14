@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5e62cb84e85817a77ec251e2a99ca337878fefa5",
+ "parent": "2b8af14ec9e75e026f1acd308488b003d77e671d",
+ "date": "2025-10-12",
+ "subject": "Remove element for tablets",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 19983
+}

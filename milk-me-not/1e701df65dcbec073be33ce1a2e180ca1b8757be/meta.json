@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1e701df65dcbec073be33ce1a2e180ca1b8757be",
+ "parent": "d000571abcfae599c4b42f3471442ec678034ae3",
+ "date": "2025-10-12",
+ "subject": "Fix notification text on tablet",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MobileFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 19867
+}

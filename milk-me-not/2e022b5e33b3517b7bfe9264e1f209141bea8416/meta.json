@@ -1,0 +1,29 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2e022b5e33b3517b7bfe9264e1f209141bea8416",
+ "parent": "9de5cf9d51a3c0aa1a20d137def2920aaab3b6e2",
+ "date": "2025-11-24",
+ "subject": "Create photo collage for About",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/assets/community/abbot-kinney-amandel.jpg",
+  "src/assets/community/alpro-not-milk.jpg",
+  "src/assets/community/brose-oat.jpg",
+  "src/assets/community/campina-haver.jpg",
+  "src/assets/community/erwten-drink.jpg",
+  "src/assets/community/gut-bio-barista.jpg",
+  "src/assets/community/lupine-drink.jpg",
+  "src/assets/community/milsa-soja.jpg",
+  "src/assets/community/rude-health-potato.jpg",
+  "src/assets/community/sproud-milk.jpg",
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 34950
+}

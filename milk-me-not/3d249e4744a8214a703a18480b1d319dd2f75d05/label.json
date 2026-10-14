@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "3d249e4744a8214a703a18480b1d319dd2f75d05",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Refactor product card selection",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1007 later commits"
+}

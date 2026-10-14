@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0597772d802cdb9c317b2ea80ba2aa8ca04d6505",
+ "parent": "d8deb732c619940b9fec9fc7802d644d2d3bc586",
+ "date": "2025-11-22",
+ "subject": "Standardize test menu to Test",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AddMilkTest.tsx",
+  "src/components/MenuBar.tsx",
+  "src/hooks/useMilkTestForm.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 38092
+}

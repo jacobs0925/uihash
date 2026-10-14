@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "49550aa4210ac99aa8bb2787159933ea1a321de5",
+ "parent": "60e685e5f8b2e1fa84fc88cc16c8bf38343f4772",
+ "date": "2025-10-12",
+ "subject": "Fix: Set product card width to 490px",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/ResultCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 20830
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2301c6e3411893090b9cf1a0a6b5f4b822e3d4f3",
+ "parent": "20eaef469f5ff30475ca7ba2d751747746197cee",
+ "date": "2025-11-21",
+ "subject": "Redesign mobile settings page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Account.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 70578
+}

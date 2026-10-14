@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "51762610e9cbe2d48aec13df30af9a7948bff999",
+ "parent": "e809ec7cb335aefd14429c572ea5eb145d97836e",
+ "date": "2025-11-24",
+ "subject": "Reverted to commit 3b404b1cddcf1171454acf2025de109117efe14d",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 24,
+ "ms": 50330
+}

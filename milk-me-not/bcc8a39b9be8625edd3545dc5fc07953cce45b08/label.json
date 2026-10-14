@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "bcc8a39b9be8625edd3545dc5fc07953cce45b08",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Align contact icons colors",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 849 later commits"
+}

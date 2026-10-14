@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "b15b7b5bbf582d293afe1a4880f9532cfd8a11c3",
+ "parent": "45b57e01b2687fc30021057c067e67ba8a44142a",
+ "date": "2025-11-21",
+ "subject": "Adjust mobile Settings header",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx",
+  "src/pages/Account.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 72300
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "7a951e5f924d824d93d5d35dd6d5d2dbe59e4ec0",
+ "parent": "cad989595577b236aac88e5820a8b36594c81205",
+ "date": "2025-11-24",
+ "subject": "Change about text now",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 31657
+}

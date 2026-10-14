@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "913e3c34eedb5836705bc33b80352087560f14fa",
+ "parent": "05838b146e8669a32bde5552c5495d7131b121b8",
+ "date": "2025-11-20",
+ "subject": "Add mobile settings button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20286
+}

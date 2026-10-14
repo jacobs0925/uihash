@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "bcc8a39b9be8625edd3545dc5fc07953cce45b08",
+ "parent": "6126575b713d8450b1621892ddd7458dd114862f",
+ "date": "2025-11-21",
+ "subject": "Align contact icons colors",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 38317
+}

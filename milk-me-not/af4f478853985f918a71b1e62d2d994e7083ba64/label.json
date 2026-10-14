@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "af4f478853985f918a71b1e62d2d994e7083ba64",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Manually updated project theme",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 784 later commits"
+}

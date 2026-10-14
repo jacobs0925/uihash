@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "c526d71fb3e0bc566cbee6b6e8482f755259f52e",
+ "date": "2025-11-02",
+ "pr": null,
+ "title": "Change \"Back to results\" to \"Back\"",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by a32da2b1, which restored 63ca0ee7 (1 commit discarded)"
+}

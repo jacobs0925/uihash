@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ddb1a605ce67f2f8eeafbd36e4adc3456c49a032",
+ "parent": "d049bce1fc971074fbe7ac3ff49b5ed90badb46e",
+ "date": "2025-11-02",
+ "subject": "Widen mobile result cards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/MobileResultsCards.tsx",
+  "src/components/milk-test/table/ResultCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20324
+}

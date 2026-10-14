@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "7aef22e4bb397dc400808e2730834cc269435fe2",
+ "parent": "48967ef12f48f62b7f1948660778276bd3c6cec3",
+ "date": "2025-10-12",
+ "subject": "Revert product card styling changes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/AuthForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20537
+}

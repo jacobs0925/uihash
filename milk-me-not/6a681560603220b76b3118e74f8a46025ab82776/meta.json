@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6a681560603220b76b3118e74f8a46025ab82776",
+ "parent": "11bd23a35e2b706e677549c5d80d905e24a48e12",
+ "date": "2025-11-24",
+ "subject": "Add postduif contact option",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 8,
+ "ms": 45838
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c0adc7b105252f3769f1f67f8f3a70105ce7bf4d",
+ "parent": "b47744156218c9451582891599b4195c60a2eba5",
+ "date": "2025-10-12",
+ "subject": "Revert contact page changes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 12,
+ "ms": 28646
+}

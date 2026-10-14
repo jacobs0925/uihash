@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "58162a15ff70bc0d8d1d3b2c2fd25c56e091ba5a",
+ "parent": "2c7f45dad484c10ab8f25e13b94fecadcc36ce8b",
+ "date": "2025-11-02",
+ "subject": "Add score input functionality",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/RatingSelect.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20558
+}

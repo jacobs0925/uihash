@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "014e08a76394f7bbf4820705ce91613d23d2921b",
+ "date": "2025-11-23",
+ "pr": null,
+ "title": "Add third timeline photos",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 806 later commits"
+}

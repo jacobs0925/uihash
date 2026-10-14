@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5c206c5390725b1d29d101057a8d24663907c93c",
+ "parent": "a93f383f28d4054e4f74a5e90911203246d2b59c",
+ "date": "2025-10-12",
+ "subject": "Style login button for mobile and tablet",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/AuthFormButtons.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20147
+}

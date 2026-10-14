@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "716eccff462c3c26fad51175d2ecf36d5c0d9e00",
+ "parent": "fac3f330c6b8a86a351b70903f6f8a0c27d22b08",
+ "date": "2025-11-24",
+ "subject": "Place close button inside image and add rounded corners",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ImageModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27470
+}

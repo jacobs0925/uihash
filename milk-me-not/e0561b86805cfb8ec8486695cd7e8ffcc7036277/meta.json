@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e0561b86805cfb8ec8486695cd7e8ffcc7036277",
+ "parent": "f3ce877677a930131244c7915c378546c657403d",
+ "date": "2025-10-14",
+ "subject": "Refactor: Adjust card width",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 23187
+}

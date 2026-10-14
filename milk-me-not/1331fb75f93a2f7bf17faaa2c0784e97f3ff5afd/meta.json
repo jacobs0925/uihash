@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1331fb75f93a2f7bf17faaa2c0784e97f3ff5afd",
+ "parent": "5f0dadac26eb9a3d0baa5ad0c5a8d2b64f5f5e47",
+ "date": "2025-10-19",
+ "subject": "Refactor: Update header color scheme",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AddMilkTest.tsx",
+  "src/components/milk-test/ProductInformation.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20681
+}

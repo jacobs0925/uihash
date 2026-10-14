@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "36429f52b6a9bc59f39505769aa2e55fc7350910",
+ "parent": "91d570101e22b2981d8d326e5ecd69d7786bddf8",
+ "date": "2025-11-24",
+ "subject": "Add contact buttons and FAQ",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 9,
+ "ms": 36326
+}

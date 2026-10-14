@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "a05684ebd6c53f5d6bf0f27ebb3ea640b2f9bd92",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Standardize settings headings",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 820 later commits"
+}

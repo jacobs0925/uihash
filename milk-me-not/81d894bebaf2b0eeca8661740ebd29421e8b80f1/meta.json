@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "81d894bebaf2b0eeca8661740ebd29421e8b80f1",
+ "parent": "69aedd012e08be1186b170e2efbf05e00d2832af",
+ "date": "2025-11-24",
+ "subject": "Remove click-to-enlarge from carousel images",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26886
+}

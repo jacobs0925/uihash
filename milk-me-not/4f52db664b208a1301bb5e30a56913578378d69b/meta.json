@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4f52db664b208a1301bb5e30a56913578378d69b",
+ "parent": "555fbac10118977179b9b87d4f0398c2b1264543",
+ "date": "2025-11-09",
+ "subject": "Remove whitespace above \"Last Week\" section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Notifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20540
+}

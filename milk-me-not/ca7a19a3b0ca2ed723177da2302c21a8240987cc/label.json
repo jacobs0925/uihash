@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "ca7a19a3b0ca2ed723177da2302c21a8240987cc",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Remove hover animation from store links",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1130 later commits"
+}

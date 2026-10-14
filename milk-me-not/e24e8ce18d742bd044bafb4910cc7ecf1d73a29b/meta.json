@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e24e8ce18d742bd044bafb4910cc7ecf1d73a29b",
+ "parent": "e31b28563f98aed7311252b3afdb167123e12812",
+ "date": "2025-10-12",
+ "subject": "Refactor notification header",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx",
+  "src/pages/Notifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20200
+}

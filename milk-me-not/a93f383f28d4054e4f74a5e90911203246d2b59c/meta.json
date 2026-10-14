@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a93f383f28d4054e4f74a5e90911203246d2b59c",
+ "parent": "f8b1df73f21202c803ec2b15d1750bf084670308",
+ "date": "2025-10-12",
+ "subject": "Remove logout success message",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20109
+}

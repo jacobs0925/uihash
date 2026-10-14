@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "68ae5f0483db8115ccd7d75ec1b2d614ce6adb61",
+ "parent": "16e1aaa4c76e187afeb90b2e5f5c34c35b87cee7",
+ "date": "2025-11-18",
+ "subject": "Adjust My Results hover",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21372
+}

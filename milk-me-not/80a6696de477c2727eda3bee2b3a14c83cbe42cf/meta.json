@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "80a6696de477c2727eda3bee2b3a14c83cbe42cf",
+ "parent": "2d8d8ffe491825ea56f386d593906b2a979e5456",
+ "date": "2025-10-12",
+ "subject": "Revert web changes for notifications",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/notifications/MobileNotificationList.tsx",
+  "src/components/notifications/NotificationList.tsx",
+  "src/pages/Notifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20147
+}

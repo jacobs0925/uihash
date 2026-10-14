@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0ce99620c7fe2834a42f658e94015d0ecba7265d",
+ "parent": "25c29f07212ee1c3748a911220560ba5e4ec5fe7",
+ "date": "2025-11-21",
+ "subject": "Fix mobile notifications layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/settings/SettingsLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 72258
+}

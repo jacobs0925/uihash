@@ -1,0 +1,25 @@
+{
+ "repo": "milk-me-not",
+ "sha": "870162520ae5e7df15140fec3b324905a6651982",
+ "parent": "ec5c010d95541eff4793027221cd4e90d0c43633",
+ "date": "2025-10-19",
+ "subject": "Refactor: Open register product on new page",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/milk-test/ProductInformation.tsx",
+  "src/components/milk-test/hooks/product-registration/formState.ts",
+  "src/components/milk-test/hooks/types.ts",
+  "src/pages/AddProduct.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20374
+}

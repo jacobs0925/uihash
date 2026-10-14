@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ec301b4cd8a8a0fedffa47c6d41bc6f3a4201edb",
+ "parent": "f00b9ead390a50336a8965bc4b88b616d8f4129d",
+ "date": "2025-10-12",
+ "subject": "Refactor header for mobile navigation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/settings/SettingsLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 20464
+}

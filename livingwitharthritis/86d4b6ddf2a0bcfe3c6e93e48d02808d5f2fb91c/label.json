@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "86d4b6ddf2a0bcfe3c6e93e48d02808d5f2fb91c",
+ "date": "2026-02-19",
+ "pr": null,
+ "title": "Reverted to commit d3e15b267742bd268837d585c0d316124719223d",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: flex → block undone by ddb4dbbe \"Remove hero image parallax\"; display: flex → block undone by ddb4dbbe \"Remove hero image parallax\"; display: flex → block undone by ddb4dbbe \"Remove hero image parallax\""
+}

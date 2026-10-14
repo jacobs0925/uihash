@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "d571683f425d0a155b720394f14c1829dfaf4db3",
+ "parent": "28c39d581147533b950c99d00aabec663c53733c",
+ "date": "2025-11-02",
+ "subject": "Refactor image modal styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ImageModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20914
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1de95d27e33f3ccbffd12198fd42b875e131a57d",
+ "parent": "ca11cf1065c4b914c73ef79ca289642f2bfe17fd",
+ "date": "2025-10-12",
+ "subject": "Remove icon animations from buttons",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AuthButton.tsx",
+  "src/components/auth/LoginPrompt.tsx",
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 26413
+}

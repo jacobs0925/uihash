@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c1842ef018fbe66a88384bee8d0fe363ccbd3ba3",
+ "parent": "7a12694cdefa860a79ccb8e8734ffd094146fb40",
+ "date": "2025-10-19",
+ "subject": "Refactor: Move header to new location",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20442
+}

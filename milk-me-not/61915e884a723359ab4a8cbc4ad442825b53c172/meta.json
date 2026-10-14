@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "61915e884a723359ab4a8cbc4ad442825b53c172",
+ "parent": "280841d15ebc0651821cf116f001b04fff94a729",
+ "date": "2025-10-12",
+ "subject": "Add '+' button to menu bar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20702
+}

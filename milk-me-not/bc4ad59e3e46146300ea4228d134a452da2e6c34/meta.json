@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "bc4ad59e3e46146300ea4228d134a452da2e6c34",
+ "parent": "e7d42d1e7908e7d85f4671974e1d37635c514325",
+ "date": "2025-11-21",
+ "subject": "Add timeline About page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 23,
+ "ms": 27672
+}

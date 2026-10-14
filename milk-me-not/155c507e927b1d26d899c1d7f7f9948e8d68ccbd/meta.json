@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "155c507e927b1d26d899c1d7f7f9948e8d68ccbd",
+ "parent": "1de95d27e33f3ccbffd12198fd42b875e131a57d",
+ "date": "2025-10-12",
+ "subject": "Re-enable icon animations on web",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AuthButton.tsx",
+  "src/components/auth/LoginPrompt.tsx",
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 26319
+}

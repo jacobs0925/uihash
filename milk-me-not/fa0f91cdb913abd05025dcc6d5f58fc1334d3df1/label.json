@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "fa0f91cdb913abd05025dcc6d5f58fc1334d3df1",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Refactor: Make feed two columns",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1135 later commits"
+}

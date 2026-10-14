@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c5b034468a8e7ba11e496d5d12f463557e418ed7",
+ "parent": "58162a15ff70bc0d8d1d3b2c2fd25c56e091ba5a",
+ "date": "2025-11-02",
+ "subject": "Refactor score input box",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/RatingSelect.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20819
+}

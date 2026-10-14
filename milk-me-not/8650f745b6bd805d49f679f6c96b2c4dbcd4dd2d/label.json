@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "8650f745b6bd805d49f679f6c96b2c4dbcd4dd2d",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Refactor: Use homepage colors for stats",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1096 later commits"
+}

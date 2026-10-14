@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "03c32f32fdd35798f41c38109427e96fc1056a61",
+ "parent": "d06ce21706588479e956e3267cd0b4d8399d5915",
+ "date": "2025-10-12",
+ "subject": "Fix card width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/ResultCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 20758
+}

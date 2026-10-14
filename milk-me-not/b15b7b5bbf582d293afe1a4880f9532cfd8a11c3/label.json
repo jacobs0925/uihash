@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "b15b7b5bbf582d293afe1a4880f9532cfd8a11c3",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Adjust mobile Settings header",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 846 later commits"
+}

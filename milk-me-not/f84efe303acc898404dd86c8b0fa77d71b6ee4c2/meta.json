@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f84efe303acc898404dd86c8b0fa77d71b6ee4c2",
+ "parent": "5c1184f58769265fca45777cce34c99c4082545d",
+ "date": "2025-11-23",
+ "subject": "Replace start with two photos",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/assets/milk-soy-sauce-photo.jpg",
+  "src/assets/soy-sauce-milk-photo.jpg",
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 34492
+}

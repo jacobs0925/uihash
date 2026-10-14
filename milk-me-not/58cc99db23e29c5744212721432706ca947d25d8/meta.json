@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "58cc99db23e29c5744212721432706ca947d25d8",
+ "parent": "a86599e3792eb688544c839b97a0558b34a816b0",
+ "date": "2025-11-02",
+ "subject": "Fix result detail page layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/ProductDetails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20952
+}

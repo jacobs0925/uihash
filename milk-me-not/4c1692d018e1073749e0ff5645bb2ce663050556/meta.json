@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4c1692d018e1073749e0ff5645bb2ce663050556",
+ "parent": "6e53954cce60e01fcd6a2c8751ce7efc4201d89e",
+ "date": "2025-11-02",
+ "subject": "Remove extra padding when no filters are active",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ResultsContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20860
+}

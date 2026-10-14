@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2c7f45dad484c10ab8f25e13b94fecadcc36ce8b",
+ "parent": "5887d12ce90419679fa752f69fd8dad681d4d165",
+ "date": "2025-11-02",
+ "subject": "Add text labels to icons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/PriceInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21251
+}

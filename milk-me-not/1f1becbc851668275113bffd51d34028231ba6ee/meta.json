@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1f1becbc851668275113bffd51d34028231ba6ee",
+ "parent": "6906ba04720cac17b231e1bc0cdd2ae38517cd40",
+ "date": "2025-10-26",
+ "subject": "Refactor: Sort results by score",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 23615
+}

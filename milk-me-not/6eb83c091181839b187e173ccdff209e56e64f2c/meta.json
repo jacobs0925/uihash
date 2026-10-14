@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6eb83c091181839b187e173ccdff209e56e64f2c",
+ "parent": "23eb84da36e16f631aba382b20c88a68e2e13b08",
+ "date": "2025-11-02",
+ "subject": "Update notification page styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/notifications/MobileNotificationList.tsx",
+  "src/components/notifications/NotificationList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21206
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0d972ee409c7368849380a87b4ff7463fa03f537",
+ "parent": "0fb033e544de987a34dbce6a3bf592a36fa3ab98",
+ "date": "2025-10-12",
+ "subject": "Move back button to right",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx",
+  "src/pages/ProductDetails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20879
+}

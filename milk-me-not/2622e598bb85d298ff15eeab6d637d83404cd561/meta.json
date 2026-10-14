@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2622e598bb85d298ff15eeab6d637d83404cd561",
+ "parent": "317f9c6837fb245b8b1941209c2ad222ff40245d",
+ "date": "2025-10-12",
+ "subject": "Improve mobile header visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 25482
+}

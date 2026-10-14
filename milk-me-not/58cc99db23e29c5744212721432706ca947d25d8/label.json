@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "58cc99db23e29c5744212721432706ca947d25d8",
+ "date": "2025-11-02",
+ "pr": null,
+ "title": "Fix result detail page layout",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 4cd8f04f, which restored a86599e3 (1 commit discarded)"
+}

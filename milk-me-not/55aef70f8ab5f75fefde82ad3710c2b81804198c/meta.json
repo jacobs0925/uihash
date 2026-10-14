@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "55aef70f8ab5f75fefde82ad3710c2b81804198c",
+ "parent": "36429f52b6a9bc59f39505769aa2e55fc7350910",
+ "date": "2025-11-24",
+ "subject": "Align badges to right on contact cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 33776
+}

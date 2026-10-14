@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "ae819b5f8287ed2890517720878ebbd54220efb4",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Move carousel arrows outward",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 778 later commits"
+}

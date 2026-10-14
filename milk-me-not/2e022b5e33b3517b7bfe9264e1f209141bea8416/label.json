@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "2e022b5e33b3517b7bfe9264e1f209141bea8416",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Create photo collage for About",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 795 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3f65c4000f41e93194738fff93e275961b48c3a0",
+ "parent": "a1e26cf33f4de620ceef75617af6bb17f7346cbf",
+ "date": "2025-10-12",
+ "subject": "Add brand, product, and badges",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedItem.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20733
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "155c507e927b1d26d899c1d7f7f9948e8d68ccbd",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Re-enable icon animations on web",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "transform: ∅ → matrix(0.978148, 0.207912, -0.207912, 0.978148, 0, 0) undone by 1de95d27 \"Remove icon animations from buttons\"; transform: ∅ → matrix(1, 0, 0, 1, 4, 0) undone by 1de95d27 \"Remove icon animations from buttons\"; transform: ∅ → matrix(0.978148, 0.207912, -0.207912, 0.978148, 0, 0) undone by 1de95d27 \"Remove icon animations from buttons\""
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f457de8dc92676162eefcdbdbdb4003e4f99aaea",
+ "parent": "8cdbe03dc988bc4b4038057c1ccb3b2dc608bdfa",
+ "date": "2025-11-02",
+ "subject": "Reverted to commit 41cc8d5912b95b735790da2cdc351f94340ba784",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/ProductDetails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20721
+}

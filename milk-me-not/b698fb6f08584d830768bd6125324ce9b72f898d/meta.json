@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "b698fb6f08584d830768bd6125324ce9b72f898d",
+ "parent": "0397be7e32fecd832381c59e2414de7837f2c625",
+ "date": "2025-11-21",
+ "subject": "Limit profile to username",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/settings/ProfileSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 39035
+}

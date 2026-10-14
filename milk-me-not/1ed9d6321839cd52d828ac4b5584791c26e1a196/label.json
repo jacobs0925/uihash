@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "1ed9d6321839cd52d828ac4b5584791c26e1a196",
+ "date": "2025-11-23",
+ "pr": null,
+ "title": "Improve modal close visibility",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 801 later commits"
+}

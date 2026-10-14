@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "42eefa002591e1652ceef1820c817819ba5b4b31",
+ "parent": "1e1c2d29fd41f2e01bf32d17cf3dd290493ec2a1",
+ "date": "2025-10-12",
+ "subject": "Update notification page header",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Notifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20577
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8a0ffef539d57501ff1df2c9de5b9270682a9b32",
+ "parent": "2e022b5e33b3517b7bfe9264e1f209141bea8416",
+ "date": "2025-11-24",
+ "subject": "Make collage a carousel",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 43912
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "95347c5018dddc40159593825141e3707d63f30f",
+ "parent": "2dd546c2b7fa548e9a1e8bcbb5cd0248bfea0312",
+ "date": "2025-11-02",
+ "subject": "Fix filter visibility on results page",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ResultsContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 21409
+}

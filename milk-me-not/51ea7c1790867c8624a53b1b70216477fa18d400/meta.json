@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "51ea7c1790867c8624a53b1b70216477fa18d400",
+ "parent": "a88d56c81ffcc1f2aeb31ee210e43750de6fe68a",
+ "date": "2025-11-09",
+ "subject": "Fix DrawerDescription component",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/drawer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20100
+}

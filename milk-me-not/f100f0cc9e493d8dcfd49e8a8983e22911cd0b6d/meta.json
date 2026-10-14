@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f100f0cc9e493d8dcfd49e8a8983e22911cd0b6d",
+ "parent": "8650f745b6bd805d49f679f6c96b2c4dbcd4dd2d",
+ "date": "2025-10-12",
+ "subject": "Refactor: Update page colors",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx",
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 27854
+}

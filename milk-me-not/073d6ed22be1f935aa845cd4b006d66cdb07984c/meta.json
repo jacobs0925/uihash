@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "073d6ed22be1f935aa845cd4b006d66cdb07984c",
+ "parent": "5e533f060734146d1443dfa79606f361bfcadffe",
+ "date": "2025-11-02",
+ "subject": "Hide \"Individual Tests\" on mobile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/ProductDetails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 20325
+}

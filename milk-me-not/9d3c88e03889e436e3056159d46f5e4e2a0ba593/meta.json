@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9d3c88e03889e436e3056159d46f5e4e2a0ba593",
+ "parent": "11c3346d13c657226431e2d0ea5adac6339655fb",
+ "date": "2025-10-14",
+ "subject": "Use feed user icon on notifications",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/notifications/MobileNotificationList.tsx",
+  "src/components/notifications/NotificationList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20894
+}

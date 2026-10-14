@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c526d71fb3e0bc566cbee6b6e8482f755259f52e",
+ "parent": "63ca0ee7859f8704a84870151c0149aa2d620432",
+ "date": "2025-11-02",
+ "subject": "Change \"Back to results\" to \"Back\"",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/ProductDetails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20601
+}

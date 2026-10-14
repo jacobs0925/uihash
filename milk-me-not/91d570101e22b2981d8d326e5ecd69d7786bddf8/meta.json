@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "91d570101e22b2981d8d326e5ecd69d7786bddf8",
+ "parent": "5aa0e80e50c705378eb3696872e28ac33506d2e7",
+ "date": "2025-11-24",
+ "subject": "Overlay close button on image",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ImageModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27705
+}

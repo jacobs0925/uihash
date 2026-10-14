@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "7b2fc3d5485d8c51abb800ad8d5dc78cc23c675c",
+ "parent": "4c1692d018e1073749e0ff5645bb2ce663050556",
+ "date": "2025-11-02",
+ "subject": "Align score badges and collapse indicator",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/TestDetailsAccordion.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20991
+}

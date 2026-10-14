@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "e11d30b59519007a1b3db54af9391ce224447c42",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Arrange filters in grid columns",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 818 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0599ac8d63b7b228d86b607f622b1bad151d9d23",
+ "parent": "05f89d5ff32d01b862a887ba571c8898854c37d1",
+ "date": "2025-10-12",
+ "subject": "Make div sticky",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ResultsContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20399
+}

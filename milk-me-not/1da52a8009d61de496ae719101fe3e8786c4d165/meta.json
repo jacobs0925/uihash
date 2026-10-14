@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1da52a8009d61de496ae719101fe3e8786c4d165",
+ "parent": "9dced55d9b84a6575d2131ab83094f90f23ca4a6",
+ "date": "2025-11-08",
+ "subject": "Make filter buttons equal width and add text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20150
+}

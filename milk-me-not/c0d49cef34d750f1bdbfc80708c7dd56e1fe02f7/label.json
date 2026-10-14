@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "c0d49cef34d750f1bdbfc80708c7dd56e1fe02f7",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Match filter badges to results",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 816 later commits"
+}

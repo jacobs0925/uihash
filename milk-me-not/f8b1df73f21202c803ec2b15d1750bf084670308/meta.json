@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f8b1df73f21202c803ec2b15d1750bf084670308",
+ "parent": "85f589d9a41713f8ed173df6fa57fbaa4ad42745",
+ "date": "2025-10-12",
+ "subject": "Add checkbox for own results",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx",
+  "src/components/milk-test/ResultsContainer.tsx",
+  "src/components/milk-test/ResultsFilter.tsx",
+  "src/components/milk-test/table/types.ts",
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 22314
+}

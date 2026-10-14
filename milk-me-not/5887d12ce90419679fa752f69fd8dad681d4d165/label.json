@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "5887d12ce90419679fa752f69fd8dad681d4d165",
+ "date": "2025-11-02",
+ "pr": null,
+ "title": "Fix scrolling on mobile/tablet",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 906 later commits"
+}

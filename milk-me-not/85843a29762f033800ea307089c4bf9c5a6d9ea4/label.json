@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "85843a29762f033800ea307089c4bf9c5a6d9ea4",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Increase bird speed animation",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 767 later commits"
+}

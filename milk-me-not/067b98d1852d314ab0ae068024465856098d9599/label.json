@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "067b98d1852d314ab0ae068024465856098d9599",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Fix scrollbar shifting issue",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1131 later commits"
+}

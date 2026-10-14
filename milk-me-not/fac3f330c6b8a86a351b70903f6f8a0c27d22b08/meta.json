@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "fac3f330c6b8a86a351b70903f6f8a0c27d22b08",
+ "parent": "ae819b5f8287ed2890517720878ebbd54220efb4",
+ "date": "2025-11-24",
+ "subject": "Remove black modal border",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ImageModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 27678
+}

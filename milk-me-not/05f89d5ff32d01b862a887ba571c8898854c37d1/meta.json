@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "05f89d5ff32d01b862a887ba571c8898854c37d1",
+ "parent": "30ad11a41832e5c4595b0978271ab78f07d24d84",
+ "date": "2025-10-12",
+ "subject": "Fix button widths in mobile filter bar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20663
+}

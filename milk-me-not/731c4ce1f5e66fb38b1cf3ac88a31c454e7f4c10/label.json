@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "731c4ce1f5e66fb38b1cf3ac88a31c454e7f4c10",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Refactor test results display",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1014 later commits"
+}

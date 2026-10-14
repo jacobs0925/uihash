@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0397be7e32fecd832381c59e2414de7837f2c625",
+ "parent": "8d9f20ad64cd2ac72e7bc5b4a27dec73cc402fbf",
+ "date": "2025-11-21",
+ "subject": "Improve account profile route",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/MenuBar.tsx",
+  "src/pages/AccountProfile.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 38481
+}

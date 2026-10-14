@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ae819b5f8287ed2890517720878ebbd54220efb4",
+ "parent": "8afde03af44642197b97bb46cd1b61a6536a478d",
+ "date": "2025-11-24",
+ "subject": "Move carousel arrows outward",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 39011
+}

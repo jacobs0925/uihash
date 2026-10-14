@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "dc13c6bab19f668e7ff8aad21844351a001e3fce",
+ "parent": "81d894bebaf2b0eeca8661740ebd29421e8b80f1",
+ "date": "2025-11-24",
+ "subject": "Improve close button visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ImageModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 37002
+}

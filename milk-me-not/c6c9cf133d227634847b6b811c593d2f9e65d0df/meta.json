@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c6c9cf133d227634847b6b811c593d2f9e65d0df",
+ "parent": "3f65c4000f41e93194738fff93e275961b48c3a0",
+ "date": "2025-10-12",
+ "subject": "Refactor: Reorder badges in FeedItem",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedItem.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20412
+}

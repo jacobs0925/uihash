@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "cf823669aebf64ce919b5dc5678986533475c11c",
+ "parent": "a32da2b18ad5d0bc48a34ef97943d8f3cafacc0e",
+ "date": "2025-11-02",
+ "subject": "Refactor \"Back to results\" text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20524
+}

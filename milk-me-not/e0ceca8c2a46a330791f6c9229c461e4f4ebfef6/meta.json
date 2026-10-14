@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e0ceca8c2a46a330791f6c9229c461e4f4ebfef6",
+ "parent": "d571683f425d0a155b720394f14c1829dfaf4db3",
+ "date": "2025-11-02",
+ "subject": "Remove button on web/tablet",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ResultsContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20728
+}

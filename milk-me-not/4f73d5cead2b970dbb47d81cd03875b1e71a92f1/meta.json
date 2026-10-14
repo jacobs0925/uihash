@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4f73d5cead2b970dbb47d81cd03875b1e71a92f1",
+ "parent": "870162520ae5e7df15140fec3b324905a6651982",
+ "date": "2025-10-19",
+ "subject": "Refactor: Add shop from search bar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ShopSelect.tsx",
+  "src/components/milk-test/shop/ShopSearchInput.tsx",
+  "src/components/milk-test/shop/ShopSuggestions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20383
+}

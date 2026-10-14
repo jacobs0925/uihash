@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a86599e3792eb688544c839b97a0558b34a816b0",
+ "parent": "2d1fbf62adc7b97fc4a4c3af6e5e8092d8faeca3",
+ "date": "2025-11-02",
+ "subject": "Fix close button and image display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedImage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20578
+}

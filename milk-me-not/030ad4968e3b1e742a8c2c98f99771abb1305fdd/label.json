@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "030ad4968e3b1e742a8c2c98f99771abb1305fdd",
+ "date": "2025-11-19",
+ "pr": null,
+ "title": "Improve profile mobile UI",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 868 later commits"
+}

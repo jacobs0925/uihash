@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ebc918d818d02f456f28e1e3bc654a085f8b2ca8",
+ "parent": "5e566a8a50686ef9a3b33dfec11ca56559d265c6",
+ "date": "2025-10-12",
+ "subject": "Remove whitespace below menu bar",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Notifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20624
+}

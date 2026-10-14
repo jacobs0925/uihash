@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "0512afad18b21e8cc176222d37ec3f72fbf5dbd8",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "feat: Display feed in grid on web",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1018 later commits"
+}

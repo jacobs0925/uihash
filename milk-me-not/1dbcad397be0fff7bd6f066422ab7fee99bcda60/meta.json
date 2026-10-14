@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1dbcad397be0fff7bd6f066422ab7fee99bcda60",
+ "parent": "c0d49cef34d750f1bdbfc80708c7dd56e1fe02f7",
+ "date": "2025-11-21",
+ "subject": "Fix filter badge colors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 38317
+}

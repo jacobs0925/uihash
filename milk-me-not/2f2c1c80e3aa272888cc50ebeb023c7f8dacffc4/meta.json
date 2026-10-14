@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2f2c1c80e3aa272888cc50ebeb023c7f8dacffc4",
+ "parent": "ca7a19a3b0ca2ed723177da2302c21a8240987cc",
+ "date": "2025-10-12",
+ "subject": "Update login modal style",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/LoginPrompt.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20843
+}

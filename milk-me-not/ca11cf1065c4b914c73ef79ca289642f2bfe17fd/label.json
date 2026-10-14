@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "ca11cf1065c4b914c73ef79ca289642f2bfe17fd",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Remove button hover animation",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1090 later commits"
+}

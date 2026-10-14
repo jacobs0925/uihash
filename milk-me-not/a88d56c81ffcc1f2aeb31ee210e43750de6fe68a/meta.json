@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a88d56c81ffcc1f2aeb31ee210e43750de6fe68a",
+ "parent": "cc6e50017d5b25a822bd61101706d81a7c4f6833",
+ "date": "2025-11-09",
+ "subject": "Remove clear buttons from filter categories",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20687
+}

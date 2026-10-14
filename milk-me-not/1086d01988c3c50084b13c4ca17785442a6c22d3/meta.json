@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1086d01988c3c50084b13c4ca17785442a6c22d3",
+ "parent": "1f1becbc851668275113bffd51d34028231ba6ee",
+ "date": "2025-10-26",
+ "subject": "Fix: Remove blue dot from notifications",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/notifications/MobileNotificationList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 21117
+}

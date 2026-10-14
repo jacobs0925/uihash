@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "b5acaaa1c350712adf4e28710ae32bb600e1b6e5",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Move header to MenuBar",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 836 later commits"
+}

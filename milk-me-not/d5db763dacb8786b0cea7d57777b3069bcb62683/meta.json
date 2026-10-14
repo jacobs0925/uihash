@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "d5db763dacb8786b0cea7d57777b3069bcb62683",
+ "parent": "e2544269f955bea59a3381fd7b5b8c39feb65afc",
+ "date": "2025-10-12",
+ "subject": "Refactor: Optimize feed item layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedComments.tsx",
+  "src/components/feed/FeedEngagement.tsx",
+  "src/components/feed/FeedHeader.tsx",
+  "src/components/feed/FeedImage.tsx",
+  "src/components/feed/FeedItem.tsx",
+  "src/components/feed/FeedProductInfo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20326
+}

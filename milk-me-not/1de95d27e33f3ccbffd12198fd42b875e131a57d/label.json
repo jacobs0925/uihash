@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "1de95d27e33f3ccbffd12198fd42b875e131a57d",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Remove icon animations from buttons",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "transform: matrix(0.978148, 0.207912, -0.207912, 0.978148, 0, 0) → ∅ undone by 34e221b7 \"Fix login button styling\"; transform: matrix(0.978148, 0.207912, -0.207912, 0.978148, 0, 0) → ∅ undone by 34e221b7 \"Fix login button styling\""
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c3a415dc5a7a7146ea7b68d50eaf473040697d7d",
+ "parent": "e731d7092c928943568109fd0a0b0ee87a9f5baa",
+ "date": "2025-11-02",
+ "subject": "Adjust badge width on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/badge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20030
+}

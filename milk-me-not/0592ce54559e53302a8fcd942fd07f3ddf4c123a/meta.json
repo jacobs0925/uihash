@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0592ce54559e53302a8fcd942fd07f3ddf4c123a",
+ "parent": "a48e5d80707aeb83781a0148dbb506b451c1ca4a",
+ "date": "2025-10-12",
+ "subject": "Refactor header for mobile/tablet",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 20177
+}

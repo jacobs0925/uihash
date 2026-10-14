@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e34724b4c090fd38716b497e48324ef416de01e6",
+ "parent": "ce6f7fd451f011b564ab545ea73ed573c8568987",
+ "date": "2025-11-02",
+ "subject": "Refactor mobile filter and search",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20075
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "87280db0e25f1057bd9b07971c6391104e7102ec",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Improve mobile settings UI",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by e7d42d1e, which restored e55ef53a (1 commit discarded)"
+}

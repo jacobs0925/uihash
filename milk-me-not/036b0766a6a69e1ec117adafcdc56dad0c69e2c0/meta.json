@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "036b0766a6a69e1ec117adafcdc56dad0c69e2c0",
+ "parent": "c1842ef018fbe66a88384bee8d0fe363ccbd3ba3",
+ "date": "2025-10-19",
+ "subject": "Fix mobile add test page",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AddMilkTest.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20601
+}

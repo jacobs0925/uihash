@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "d5aff94359ceb52eef3dc3380c6adc15e8b78ca7",
+ "parent": "2bbf7377e3edc88c908cfd9420cfc4e2383fb21b",
+ "date": "2025-11-02",
+ "subject": "Add collapse functionality to tests",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/TestDetailsAccordion.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20645
+}

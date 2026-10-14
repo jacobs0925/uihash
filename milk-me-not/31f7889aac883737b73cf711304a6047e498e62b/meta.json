@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "31f7889aac883737b73cf711304a6047e498e62b",
+ "parent": "dc13c6bab19f668e7ff8aad21844351a001e3fce",
+ "date": "2025-11-24",
+ "subject": "Integrate circular close button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ImageModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 26943
+}

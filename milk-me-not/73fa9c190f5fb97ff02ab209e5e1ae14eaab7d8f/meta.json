@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "73fa9c190f5fb97ff02ab209e5e1ae14eaab7d8f",
+ "parent": "6fef0d9b8cb6931805b682f130efab08c20421d4",
+ "date": "2025-11-21",
+ "subject": "Add colors to account page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Account.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 70647
+}

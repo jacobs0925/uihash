@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6b78a82db5eeface3e7c31acb2219ba58e12a717",
+ "parent": "e6187e320069f314845283af412c4b3a47710944",
+ "date": "2025-10-12",
+ "subject": "Refactor: Adjust text size on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/AuthForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20405
+}

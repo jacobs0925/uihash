@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "9d458d1ad0f50bb1863560fbb744c6659f6381cf",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Add back button to contact and about",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 830 later commits"
+}

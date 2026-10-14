@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e16e7a78e8f2beebe69ded54d38640004dc8eeb7",
+ "parent": "f52ccc9fdedf22a8f1772f6fcd64d71179c9fd64",
+ "date": "2025-10-12",
+ "subject": "Refactor product selection behavior",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/ProductDetails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20680
+}

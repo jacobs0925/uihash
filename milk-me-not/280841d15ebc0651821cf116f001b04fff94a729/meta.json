@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "280841d15ebc0651821cf116f001b04fff94a729",
+ "parent": "c40d099fedf9a282b39ca4b00de13c1b41b5ad12",
+ "date": "2025-10-12",
+ "subject": "Refactor product card display",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/ProductDetails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20690
+}

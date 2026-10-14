@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9d458d1ad0f50bb1863560fbb744c6659f6381cf",
+ "parent": "e68c37cf8d5aefe9522efedbaebd53602be61434",
+ "date": "2025-11-21",
+ "subject": "Add back button to contact and about",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 36425
+}

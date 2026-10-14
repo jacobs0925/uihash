@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "cc48f3c968304765f896ba918180c22a923ad7bb",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Sync logout button style",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 828 later commits"
+}

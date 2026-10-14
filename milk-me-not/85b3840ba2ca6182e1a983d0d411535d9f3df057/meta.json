@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "85b3840ba2ca6182e1a983d0d411535d9f3df057",
+ "parent": "012f6fd74c11228dfe8886dc371d7fa5ff112074",
+ "date": "2025-10-12",
+ "subject": "Add in-progress indicator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41385
+}

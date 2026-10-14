@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6bcca7951ab3b5e55ac7195e9acac9f7c66a7fe0",
+ "parent": "93c176b2fb6e25dbe87bced7c2fdbcbd58971a36",
+ "date": "2025-11-02",
+ "subject": "Refactor result card layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/ResultCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20740
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "85843a29762f033800ea307089c4bf9c5a6d9ea4",
+ "parent": "d581199e8dd53c417b98ff1d5f5f69891a7973e6",
+ "date": "2025-11-24",
+ "subject": "Increase bird speed animation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AnimatedBirds.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 31920
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5e566a8a50686ef9a3b33dfec11ca56559d265c6",
+ "parent": "0512afad18b21e8cc176222d37ec3f72fbf5dbd8",
+ "date": "2025-10-12",
+ "subject": "Refactor feed layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Feed.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 23023
+}

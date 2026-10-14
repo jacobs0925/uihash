@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "012f6fd74c11228dfe8886dc371d7fa5ff112074",
+ "parent": "fa0f91cdb913abd05025dcc6d5f58fc1334d3df1",
+ "date": "2025-10-12",
+ "subject": "Update feed preview to 4 cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Feed.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 43883
+}

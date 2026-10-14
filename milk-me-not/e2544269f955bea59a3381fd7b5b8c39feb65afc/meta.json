@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e2544269f955bea59a3381fd7b5b8c39feb65afc",
+ "parent": "3601702bce6fc2c263eeed1567cb8af17031d2b0",
+ "date": "2025-10-12",
+ "subject": "Add horizontal line above product name",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedItem.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20598
+}

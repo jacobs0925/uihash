@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "34ac459933dc87d5e0bfa8d731e6e3691afbdb30",
+ "parent": "0bddfaced43e95040509630f442b94351f956f13",
+ "date": "2025-11-21",
+ "subject": "Restore individual test scores on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/TestDetailsAccordion.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 39412
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "2f2c1c80e3aa272888cc50ebeb023c7f8dacffc4",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Update login modal style",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1129 later commits"
+}

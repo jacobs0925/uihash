@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "067b98d1852d314ab0ae068024465856098d9599",
+ "parent": "dcbae78b80b9b7bed8b5659fea89c623da645a47",
+ "date": "2025-10-12",
+ "subject": "Fix scrollbar shifting issue",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 26803
+}

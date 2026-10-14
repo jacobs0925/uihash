@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c0d49cef34d750f1bdbfc80708c7dd56e1fe02f7",
+ "parent": "40dc4fecd39b5b9248cd48c268c1e0ab06bb4494",
+ "date": "2025-11-21",
+ "subject": "Match filter badges to results",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 73228
+}

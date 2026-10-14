@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "1dbcad397be0fff7bd6f066422ab7fee99bcda60",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Fix filter badge colors",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 815 later commits"
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "d581199e8dd53c417b98ff1d5f5f69891a7973e6",
+ "parent": "6a681560603220b76b3118e74f8a46025ab82776",
+ "date": "2025-11-24",
+ "subject": "Add animated birds",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AnimatedBirds.tsx",
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 60468
+}

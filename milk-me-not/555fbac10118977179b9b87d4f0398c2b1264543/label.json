@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "555fbac10118977179b9b87d4f0398c2b1264543",
+ "date": "2025-11-09",
+ "pr": null,
+ "title": "Update sort drawer and active colors",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 878 later commits"
+}

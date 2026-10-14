@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5c1184f58769265fca45777cce34c99c4082545d",
+ "parent": "1ed9d6321839cd52d828ac4b5584791c26e1a196",
+ "date": "2025-11-23",
+ "subject": "Remove timeline animation on About page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 32810
+}

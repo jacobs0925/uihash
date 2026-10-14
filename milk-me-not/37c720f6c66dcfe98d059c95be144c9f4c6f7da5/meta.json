@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "37c720f6c66dcfe98d059c95be144c9f4c6f7da5",
+ "parent": "8c0ce68b645f0e9a8d6597ac0d76780044866f66",
+ "date": "2025-10-19",
+ "subject": "Refactor: Add new flavors inline",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/FlavorSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20397
+}

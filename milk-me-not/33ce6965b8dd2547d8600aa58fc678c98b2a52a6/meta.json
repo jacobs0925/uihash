@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "33ce6965b8dd2547d8600aa58fc678c98b2a52a6",
+ "parent": "53a49fa379fe0cda8e98e858f764bf93a73792c8",
+ "date": "2025-10-12",
+ "subject": "Remove red dot from mobile header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20496
+}

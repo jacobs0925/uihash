@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f2f9bf2054b6e34022ea674cbeecb2aef459ac51",
+ "parent": "b15b7b5bbf582d293afe1a4880f9532cfd8a11c3",
+ "date": "2025-11-21",
+ "subject": "Add settings button top-right",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 39452
+}

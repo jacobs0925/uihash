@@ -1,0 +1,26 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ca11cf1065c4b914c73ef79ca289642f2bfe17fd",
+ "parent": "68f4b051e820b8e7085e1b93557e3959e11927a6",
+ "date": "2025-10-12",
+ "subject": "Remove button hover animation",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AuthButton.tsx",
+  "src/components/FeaturesSection.tsx",
+  "src/components/HowItWorks.tsx",
+  "src/components/StatsOverview.tsx",
+  "src/components/TestimonialsSection.tsx",
+  "src/components/auth/LoginPrompt.tsx",
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20267
+}

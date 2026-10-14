@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e4dc5263b2335a54b844ee436d62d4c1785ab885",
+ "parent": "d5db763dacb8786b0cea7d57777b3069bcb62683",
+ "date": "2025-10-12",
+ "subject": "Refactor: Remove \"about\" from timestamp",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedComments.tsx",
+  "src/components/feed/FeedHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20956
+}

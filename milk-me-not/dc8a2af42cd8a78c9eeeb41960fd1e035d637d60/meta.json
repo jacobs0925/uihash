@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "dc8a2af42cd8a78c9eeeb41960fd1e035d637d60",
+ "parent": "529f1ddde3fc4ba38bec18a50b96014ba966f6d8",
+ "date": "2025-10-12",
+ "subject": "Fix login button flashing",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/AuthButton.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 19771
+}

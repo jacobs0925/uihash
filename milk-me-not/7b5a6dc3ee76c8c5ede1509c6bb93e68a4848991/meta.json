@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "7b5a6dc3ee76c8c5ede1509c6bb93e68a4848991",
+ "parent": "5c5bf78cb78905a4634fffb8b90a807e05bee936",
+ "date": "2025-11-02",
+ "subject": "Add border animation on click",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/ResultCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20749
+}

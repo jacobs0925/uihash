@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "030ad4968e3b1e742a8c2c98f99771abb1305fdd",
+ "parent": "652b0d10c9c3f882e621550a33d6d88a7081c0ab",
+ "date": "2025-11-19",
+ "subject": "Improve profile mobile UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useUserProfile.ts",
+  "src/pages/Profile.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 21421
+}

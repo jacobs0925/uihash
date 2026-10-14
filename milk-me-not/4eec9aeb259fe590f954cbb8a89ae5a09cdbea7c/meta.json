@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4eec9aeb259fe590f954cbb8a89ae5a09cdbea7c",
+ "parent": "913e3c34eedb5836705bc33b80352087560f14fa",
+ "date": "2025-11-21",
+ "subject": "Remove profile settings section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Profile.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20808
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "93c176b2fb6e25dbe87bced7c2fdbcbd58971a36",
+ "date": "2025-11-02",
+ "pr": null,
+ "title": "Reorder product details on cards",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 923 later commits"
+}

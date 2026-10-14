@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "5496850feb57d965217b52d74ff4fbf456ca4db4",
+ "date": "2025-11-09",
+ "pr": null,
+ "title": "Update \"Show Results\" button color",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 873 later commits"
+}

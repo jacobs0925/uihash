@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "11d31b0275855539ffe2822258e902476355594d",
+ "parent": "2f2c1c80e3aa272888cc50ebeb023c7f8dacffc4",
+ "date": "2025-10-12",
+ "subject": "Refactor: Style sign up button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/LoginPrompt.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20634
+}

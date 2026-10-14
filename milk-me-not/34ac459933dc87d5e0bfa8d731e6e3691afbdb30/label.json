@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "34ac459933dc87d5e0bfa8d731e6e3691afbdb30",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Restore individual test scores on mobile",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 843 later commits"
+}

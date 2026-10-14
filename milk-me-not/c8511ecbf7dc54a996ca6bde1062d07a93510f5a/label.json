@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "c8511ecbf7dc54a996ca6bde1062d07a93510f5a",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Fix feed page styling",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1037 later commits"
+}

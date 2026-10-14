@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "cc48f3c968304765f896ba918180c22a923ad7bb",
+ "parent": "3ee2c6e41db5c0db3dea65863c7680ae9d85fdc4",
+ "date": "2025-11-21",
+ "subject": "Sync logout button style",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Account.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 73761
+}

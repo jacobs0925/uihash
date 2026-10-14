@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "73a95259daa6603dea85445392d58d05dfbd370e",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Adjust text size on mobile",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1080 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e11d30b59519007a1b3db54af9391ce224447c42",
+ "parent": "906a6da8cf8dfbc14c5babd48902f07b62c8bc2e",
+ "date": "2025-11-21",
+ "subject": "Arrange filters in grid columns",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 70403
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "0ce99620c7fe2834a42f658e94015d0ecba7265d",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Fix mobile notifications layout",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 838 later commits"
+}

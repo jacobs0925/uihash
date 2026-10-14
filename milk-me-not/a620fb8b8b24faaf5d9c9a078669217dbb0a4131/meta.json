@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a620fb8b8b24faaf5d9c9a078669217dbb0a4131",
+ "parent": "31f7889aac883737b73cf711304a6047e498e62b",
+ "date": "2025-11-24",
+ "subject": "Add add images to carousel",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/assets/community/berief-barista.jpg",
+  "src/assets/community/sproud-milk-2.jpg",
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 31224
+}

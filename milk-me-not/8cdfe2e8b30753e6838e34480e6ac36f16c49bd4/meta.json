@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8cdfe2e8b30753e6838e34480e6ac36f16c49bd4",
+ "parent": "2336e7504aad790fb883e75846e73192f0d2b41e",
+ "date": "2025-10-12",
+ "subject": "Fix whitespace below header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/notifications/MobileNotificationList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20558
+}

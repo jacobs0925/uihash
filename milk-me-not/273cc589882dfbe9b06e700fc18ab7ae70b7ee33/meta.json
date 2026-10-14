@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "273cc589882dfbe9b06e700fc18ab7ae70b7ee33",
+ "parent": "0597772d802cdb9c317b2ea80ba2aa8ca04d6505",
+ "date": "2025-11-23",
+ "subject": "Add about page image to story",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/assets/milk-tests-spreadsheet.png",
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 39968
+}

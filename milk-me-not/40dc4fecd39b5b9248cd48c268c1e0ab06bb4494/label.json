@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "40dc4fecd39b5b9248cd48c268c1e0ab06bb4494",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Adapt filter cards to text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 817 later commits"
+}

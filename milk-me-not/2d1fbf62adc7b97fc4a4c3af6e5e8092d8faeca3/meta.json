@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2d1fbf62adc7b97fc4a4c3af6e5e8092d8faeca3",
+ "parent": "22465752a4dc2ff3b9ee15c97defeb5a00194505",
+ "date": "2025-11-02",
+ "subject": "Refactor feed to 3 columns",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Feed.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 23162
+}

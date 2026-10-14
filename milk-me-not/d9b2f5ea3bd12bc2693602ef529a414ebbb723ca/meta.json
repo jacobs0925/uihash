@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "d9b2f5ea3bd12bc2693602ef529a414ebbb723ca",
+ "parent": "041f15e92d1b5b80cbca3166c7ce5cbb1f88dd5d",
+ "date": "2025-11-02",
+ "subject": "Fix duplicate close buttons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ImageModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20523
+}

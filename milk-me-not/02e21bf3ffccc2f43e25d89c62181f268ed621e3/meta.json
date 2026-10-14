@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "02e21bf3ffccc2f43e25d89c62181f268ed621e3",
+ "parent": "408caf89e8a20ac6d00ab70887ebf2a0a147b9b7",
+ "date": "2025-10-12",
+ "subject": "Make product cards wider",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/ResultCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20361
+}

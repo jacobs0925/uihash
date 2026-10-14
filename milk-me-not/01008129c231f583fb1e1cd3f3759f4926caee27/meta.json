@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "01008129c231f583fb1e1cd3f3759f4926caee27",
+ "parent": "f5be7fa3c4b5ddabc7f4130bebfad414f6e4d060",
+ "date": "2025-11-21",
+ "subject": "Add top spacing in Notifications",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/settings/NotificationSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 38061
+}

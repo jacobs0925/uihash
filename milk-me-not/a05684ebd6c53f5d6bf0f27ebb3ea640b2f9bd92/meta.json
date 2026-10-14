@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a05684ebd6c53f5d6bf0f27ebb3ea640b2f9bd92",
+ "parent": "29691106def668f6250e60311a2e1bf2d887b254",
+ "date": "2025-11-21",
+ "subject": "Standardize settings headings",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/settings/ProfileSettings.tsx",
+  "src/components/settings/SecuritySettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 40556
+}

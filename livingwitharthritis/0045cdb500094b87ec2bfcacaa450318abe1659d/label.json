@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "0045cdb500094b87ec2bfcacaa450318abe1659d",
+ "date": "2026-02-19",
+ "pr": null,
+ "title": "Reverted to commit 5c57ec4608093bd6e51f5c2a0eb448e3e5ceedae",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-color: rgba(239, 238, 235, 0.2) → ∅ undone by 517cccf4 \"Reverted to commit 7e7e9389efeef137d1423068021c15f18f07941d\"; min-height: 720px → 640px undone by 517cccf4 \"Reverted to commit 7e7e9389efeef137d1423068021c15f18f07941d\"; background-clip: border-box → ∅ undone by 517cccf4 \"Reverted to commit 7e7e9389efeef137d1423068021c15f18f07941d\""
+}

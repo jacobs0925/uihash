@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "41cc8d5912b95b735790da2cdc351f94340ba784",
+ "parent": "8f85dce1384ea06154a31634fc4b1b7ff4ce8b9f",
+ "date": "2025-11-02",
+ "subject": "Refactor notification state management",
+ "components": [
+  "App.tsx",
+  "contexts"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/contexts/NotificationContext.tsx",
+  "src/hooks/useNotifications.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21217
+}

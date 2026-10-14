@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "b677a630ba61ac819adbb187482d99ec7ba35ef0",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Fix: Match filter/sort button width to search bar",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1106 later commits"
+}

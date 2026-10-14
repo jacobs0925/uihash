@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "e809ec7cb335aefd14429c572ea5eb145d97836e",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Applied theme The Theme",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 51762610, which restored 3b404b1c (2 commits discarded)"
+}

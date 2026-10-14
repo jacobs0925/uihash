@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "60e685e5f8b2e1fa84fc88cc16c8bf38343f4772",
+ "parent": "b677a630ba61ac819adbb187482d99ec7ba35ef0",
+ "date": "2025-10-12",
+ "subject": "Add text next to icons",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx",
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 9,
+ "ms": 28882
+}

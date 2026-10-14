@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "a620fb8b8b24faaf5d9c9a078669217dbb0a4131",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Add add images to carousel",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 785 later commits"
+}

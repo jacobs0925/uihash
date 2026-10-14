@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "be8d31266661402fd27c574784e275ac70ca0a8a",
+ "parent": "cb83e891ad9ddda2ff782b933ded6d42da010cd6",
+ "date": "2025-11-02",
+ "subject": "Fix card size on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/ResultCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 19905
+}

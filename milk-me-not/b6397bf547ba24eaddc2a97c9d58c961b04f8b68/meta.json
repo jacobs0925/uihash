@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "b6397bf547ba24eaddc2a97c9d58c961b04f8b68",
+ "parent": "3b404b1cddcf1171454acf2025de109117efe14d",
+ "date": "2025-11-24",
+ "subject": "Applied theme Test",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 24,
+ "ms": 33752
+}

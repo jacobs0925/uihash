@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "22465752a4dc2ff3b9ee15c97defeb5a00194505",
+ "parent": "d9b2f5ea3bd12bc2693602ef529a414ebbb723ca",
+ "date": "2025-11-02",
+ "subject": "Fix close buttons on feed and detail pages",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedImage.tsx",
+  "src/components/milk-test/ImageModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20615
+}

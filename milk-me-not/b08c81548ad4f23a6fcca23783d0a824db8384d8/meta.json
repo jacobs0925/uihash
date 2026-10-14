@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "b08c81548ad4f23a6fcca23783d0a824db8384d8",
+ "parent": "e0561b86805cfb8ec8486695cd7e8ffcc7036277",
+ "date": "2025-10-14",
+ "subject": "Refactor mobile results to table format",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/MobileResultsCards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20906
+}

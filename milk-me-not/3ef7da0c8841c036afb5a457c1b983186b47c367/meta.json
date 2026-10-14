@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3ef7da0c8841c036afb5a457c1b983186b47c367",
+ "parent": "be8d31266661402fd27c574784e275ac70ca0a8a",
+ "date": "2025-11-02",
+ "subject": "Fix results page card width",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 22937
+}

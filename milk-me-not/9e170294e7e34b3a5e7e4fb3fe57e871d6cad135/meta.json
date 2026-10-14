@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9e170294e7e34b3a5e7e4fb3fe57e871d6cad135",
+ "parent": "bc4ad59e3e46146300ea4228d134a452da2e6c34",
+ "date": "2025-11-21",
+ "subject": "Add timeline animations",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 23510
+}

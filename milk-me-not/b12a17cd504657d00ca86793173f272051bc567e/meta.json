@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "b12a17cd504657d00ca86793173f272051bc567e",
+ "parent": "031e6660cb93e43045805fc285bf769951d523af",
+ "date": "2025-10-19",
+ "subject": "feat: Open add test form on new page",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20880
+}

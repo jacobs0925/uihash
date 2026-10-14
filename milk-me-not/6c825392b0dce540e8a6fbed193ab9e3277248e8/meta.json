@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6c825392b0dce540e8a6fbed193ab9e3277248e8",
+ "parent": "7aef22e4bb397dc400808e2730834cc269435fe2",
+ "date": "2025-10-14",
+ "subject": "Sort feed chronologically",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Feed.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 23022
+}

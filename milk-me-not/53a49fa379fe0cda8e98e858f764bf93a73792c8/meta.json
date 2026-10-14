@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "53a49fa379fe0cda8e98e858f764bf93a73792c8",
+ "parent": "d142683013f063b385cb0b6f8744d6cb1822b719",
+ "date": "2025-10-12",
+ "subject": "Replace header on notifications page",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx",
+  "src/pages/Notifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20709
+}

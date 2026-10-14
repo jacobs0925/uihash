@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "249477c255ab6d52c6a17d1fc39d359d104c824e",
+ "parent": "2de79a0cbd84cd78530c683d29f413c76e1316dc",
+ "date": "2025-11-19",
+ "subject": "Enhance profile mobile edit",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/profile/ProfileEditDialog.tsx",
+  "src/hooks/useUserProfile.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Profile.tsx",
+  "supabase/migrations/20251119203306_919587f7-c6f6-407e-b619-9f247b07da61.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20328
+}

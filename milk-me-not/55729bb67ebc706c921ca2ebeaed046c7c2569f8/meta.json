@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "55729bb67ebc706c921ca2ebeaed046c7c2569f8",
+ "parent": "155c507e927b1d26d899c1d7f7f9948e8d68ccbd",
+ "date": "2025-10-12",
+ "subject": "Center div on mobile/tablet",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 19965
+}

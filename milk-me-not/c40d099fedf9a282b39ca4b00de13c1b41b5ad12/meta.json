@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c40d099fedf9a282b39ca4b00de13c1b41b5ad12",
+ "parent": "0d972ee409c7368849380a87b4ff7463fa03f537",
+ "date": "2025-10-12",
+ "subject": "Refactor test details accordion",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/TestDetailsAccordion.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20366
+}

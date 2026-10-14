@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4d5ff5f66f4b643ae6568da84e2f953200097d28",
+ "parent": "33f201456efea8786f92b01bca20d3db0ce66eb6",
+ "date": "2025-10-12",
+ "subject": "feat: Enlarge image on click",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedImage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20715
+}

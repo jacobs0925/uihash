@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "529f1ddde3fc4ba38bec18a50b96014ba966f6d8",
+ "parent": "73a95259daa6603dea85445392d58d05dfbd370e",
+ "date": "2025-10-12",
+ "subject": "Fix flashing logo and button on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20093
+}

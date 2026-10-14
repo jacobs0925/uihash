@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "95c86e3800537cb5132c60ea67668627dd2cb8d5",
+ "parent": "71407a8c35ed40eaeb2f171bffeafdbd20ac9162",
+ "date": "2025-11-23",
+ "subject": "Remove large close button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ImageModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 34666
+}

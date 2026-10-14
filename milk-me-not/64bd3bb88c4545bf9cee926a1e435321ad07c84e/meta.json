@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "64bd3bb88c4545bf9cee926a1e435321ad07c84e",
+ "parent": "e0d7632401a56acc29baf1bcfc13e5f6d21a87ad",
+ "date": "2025-10-12",
+ "subject": "Reverted to commit 0592ce54559e53302a8fcd942fd07f3ddf4c123a",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MobileFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20634
+}

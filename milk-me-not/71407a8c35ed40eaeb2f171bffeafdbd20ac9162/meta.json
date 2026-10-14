@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "71407a8c35ed40eaeb2f171bffeafdbd20ac9162",
+ "parent": "18a0b14a645923d278ecdfc433f8b12b8149ac0f",
+ "date": "2025-11-23",
+ "subject": "Add lightbox for About images",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 44336
+}

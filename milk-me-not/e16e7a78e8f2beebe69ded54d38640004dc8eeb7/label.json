@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "e16e7a78e8f2beebe69ded54d38640004dc8eeb7",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Refactor product selection behavior",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by dc8fdd93, which restored f52ccc9f (3 commits discarded)"
+}

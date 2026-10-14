@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "906a6da8cf8dfbc14c5babd48902f07b62c8bc2e",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Sort results style to filter",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 819 later commits"
+}

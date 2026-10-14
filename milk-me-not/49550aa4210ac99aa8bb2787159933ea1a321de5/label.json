@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "49550aa4210ac99aa8bb2787159933ea1a321de5",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Fix: Set product card width to 490px",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1104 later commits"
+}

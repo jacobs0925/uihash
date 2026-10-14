@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "842dba0e4546c75243a45174abeca307040f19e5",
+ "date": "2025-11-23",
+ "pr": null,
+ "title": "Add captions to About images",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 807 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6fe27fc545174a2bdd043176f3f6fe5387eb480e",
+ "parent": "42a4f6e7e66d80a52485a9cfc355c0b916a6b0c7",
+ "date": "2025-11-02",
+ "subject": "Refactor notification click handling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/notifications/MobileNotificationList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20486
+}

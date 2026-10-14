@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "26f537ce6e1f79e850da528ec852d489c03893e7",
+ "parent": "6eb83c091181839b187e173ccdff209e56e64f2c",
+ "date": "2025-11-02",
+ "subject": "Remove toaster notification",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/NotificationContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20937
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "ec301b4cd8a8a0fedffa47c6d41bc6f3a4201edb",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Refactor header for mobile navigation",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1123 later commits"
+}

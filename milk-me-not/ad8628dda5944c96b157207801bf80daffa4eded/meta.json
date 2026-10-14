@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "ad8628dda5944c96b157207801bf80daffa4eded",
+ "parent": "b5acaaa1c350712adf4e28710ae32bb600e1b6e5",
+ "date": "2025-11-21",
+ "subject": "Add security header for mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 40309
+}

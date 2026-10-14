@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "54c9a61d6af7d2db3f4d6eda8ce321c0da1d3cdc",
+ "parent": "2622e598bb85d298ff15eeab6d637d83404cd561",
+ "date": "2025-10-12",
+ "subject": "Refactor: Make contact and about pages compact",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx",
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 22783
+}

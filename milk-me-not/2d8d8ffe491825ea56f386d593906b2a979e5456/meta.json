@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2d8d8ffe491825ea56f386d593906b2a979e5456",
+ "parent": "2aa2d8cd3b06c3cd460362a42691b622f27d4184",
+ "date": "2025-10-12",
+ "subject": "Add icons to notification page",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/notifications/NotificationList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 19947
+}

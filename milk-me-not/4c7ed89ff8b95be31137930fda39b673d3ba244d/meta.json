@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "4c7ed89ff8b95be31137930fda39b673d3ba244d",
+ "parent": "00dc90137e4b10ae0e8e04fed537725fe26ec854",
+ "date": "2025-11-23",
+ "subject": "Add parallax background",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BackgroundPattern.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25316
+}

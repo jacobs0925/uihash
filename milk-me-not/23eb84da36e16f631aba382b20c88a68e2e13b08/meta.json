@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "23eb84da36e16f631aba382b20c88a68e2e13b08",
+ "parent": "7b2fc3d5485d8c51abb800ad8d5dc78cc23c675c",
+ "date": "2025-11-02",
+ "subject": "Make brand and product bold",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedProductInfo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20862
+}

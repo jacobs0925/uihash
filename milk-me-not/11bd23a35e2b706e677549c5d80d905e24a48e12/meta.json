@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "11bd23a35e2b706e677549c5d80d905e24a48e12",
+ "parent": "b99d0e31c397c95f1c601cd3312f8af105c23bcd",
+ "date": "2025-11-24",
+ "subject": "Adjust contact grid on tablet",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 30766
+}

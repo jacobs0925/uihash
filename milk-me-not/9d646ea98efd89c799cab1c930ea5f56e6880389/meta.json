@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9d646ea98efd89c799cab1c930ea5f56e6880389",
+ "parent": "9a424db28ec6b5ca332aabc364cde343b80f3d6d",
+ "date": "2025-10-14",
+ "subject": "Fix feed page layout",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/feed/FeedItem.tsx",
+  "src/pages/Feed.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 22909
+}

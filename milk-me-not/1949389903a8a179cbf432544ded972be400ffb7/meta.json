@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1949389903a8a179cbf432544ded972be400ffb7",
+ "parent": "d5aff94359ceb52eef3dc3380c6adc15e8b78ca7",
+ "date": "2025-11-02",
+ "subject": "Fix style icon color",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/TestDetailsAccordion.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20887
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "310a4c3d13e290ce9de70fdbd1d40d5cc3e330c2",
+ "parent": "9d3c88e03889e436e3056159d46f5e4e2a0ba593",
+ "date": "2025-10-14",
+ "subject": "Fix notification message format",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/notifications/MobileNotificationList.tsx",
+  "src/components/notifications/NotificationList.tsx",
+  "supabase/migrations/20251014203447_746f7872-d436-4871-9990-d120dd7d69ad.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20856
+}

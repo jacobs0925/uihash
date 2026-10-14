@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "6a038b14118ba0d7e5efd528c409b8b0d9ed2823",
+ "parent": "2d53f9090ec76884386e3288d4f1ededa40a140f",
+ "date": "2025-10-12",
+ "subject": "Fix: Adjust Recent section spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/notifications/MobileNotificationList.tsx",
+  "src/components/notifications/NotificationList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20672
+}

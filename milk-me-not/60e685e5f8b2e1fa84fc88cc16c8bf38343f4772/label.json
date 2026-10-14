@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "60e685e5f8b2e1fa84fc88cc16c8bf38343f4772",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Add text next to icons",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "width: auto → 100% undone by b4774415 \"Center contact page blocks\"; width: auto → 100% undone by b4774415 \"Center contact page blocks\"; width: auto → 100% undone by b4774415 \"Center contact page blocks\""
+}

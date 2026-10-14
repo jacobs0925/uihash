@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "490a216180747c75f4777c97df67a2b99e4234ea",
+ "parent": "030ad4968e3b1e742a8c2c98f99771abb1305fdd",
+ "date": "2025-11-19",
+ "subject": "Restore web layout for profile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Profile.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21096
+}

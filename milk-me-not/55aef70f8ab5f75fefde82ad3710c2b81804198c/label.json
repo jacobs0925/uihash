@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "55aef70f8ab5f75fefde82ad3710c2b81804198c",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Align badges to right on contact cards",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 772 later commits"
+}

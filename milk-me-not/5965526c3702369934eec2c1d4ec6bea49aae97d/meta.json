@@ -1,0 +1,29 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5965526c3702369934eec2c1d4ec6bea49aae97d",
+ "parent": "ce199cdf7f20640ef25ab819b1c0dda8dafc345f",
+ "date": "2025-11-02",
+ "subject": "Reverted to commit 41cc8d5912b95b735790da2cdc351f94340ba784",
+ "components": [
+  "App.tsx",
+  "components",
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/milk-test/ResultsContainer.tsx",
+  "src/components/milk-test/table/MobileResultsCards.tsx",
+  "src/components/milk-test/table/ResultCard.tsx",
+  "src/components/ui/badge.tsx",
+  "src/contexts/NotificationContext.tsx",
+  "src/hooks/useNotifications.ts",
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 23491
+}

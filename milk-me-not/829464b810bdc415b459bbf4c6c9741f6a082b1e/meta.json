@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "829464b810bdc415b459bbf4c6c9741f6a082b1e",
+ "parent": "1362f3401ceebd21db535c073439a6b204ba1a1b",
+ "date": "2025-10-12",
+ "subject": "Add notification dot indicator",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/notifications/NotificationBadge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20012
+}

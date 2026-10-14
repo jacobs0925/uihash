@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "b698fb6f08584d830768bd6125324ce9b72f898d",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Limit profile to username",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 824 later commits"
+}

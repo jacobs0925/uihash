@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "73a95259daa6603dea85445392d58d05dfbd370e",
+ "parent": "e8768cd348014c2a9f47e926c465b08fcdbbac7a",
+ "date": "2025-10-12",
+ "subject": "Adjust text size on mobile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20364
+}

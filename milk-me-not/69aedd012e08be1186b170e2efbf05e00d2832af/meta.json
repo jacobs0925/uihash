@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "69aedd012e08be1186b170e2efbf05e00d2832af",
+ "parent": "51762610e9cbe2d48aec13df30af9a7948bff999",
+ "date": "2025-11-24",
+ "subject": "Remove sproudMilk from carousel",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 31673
+}

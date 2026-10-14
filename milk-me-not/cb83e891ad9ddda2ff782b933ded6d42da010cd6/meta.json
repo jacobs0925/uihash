@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "cb83e891ad9ddda2ff782b933ded6d42da010cd6",
+ "parent": "ddb1a605ce67f2f8eeafbd36e4adc3456c49a032",
+ "date": "2025-11-02",
+ "subject": "Revert card width changes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/MobileResultsCards.tsx",
+  "src/components/milk-test/table/ResultCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20274
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "d70b0b2161d07b4829e2d95e5af9b1324260ef7a",
+ "parent": "f100f0cc9e493d8dcfd49e8a8983e22911cd0b6d",
+ "date": "2025-10-12",
+ "subject": "feat: Style login button like start journey button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/LoginPrompt.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20148
+}

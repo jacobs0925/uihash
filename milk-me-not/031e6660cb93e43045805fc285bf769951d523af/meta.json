@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "031e6660cb93e43045805fc285bf769951d523af",
+ "parent": "7c0bcffeaca57e955ef22a169e657e7b9bd132a3",
+ "date": "2025-10-19",
+ "subject": "Fix: Add flavor button not working",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/FlavorSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20728
+}

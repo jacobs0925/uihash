@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3e7eb7482cafb92709e627008ccb677301a5f0f3",
+ "parent": "0ce99620c7fe2834a42f658e94015d0ecba7265d",
+ "date": "2025-11-21",
+ "subject": "Add header back arrow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/settings/NotificationSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 38936
+}

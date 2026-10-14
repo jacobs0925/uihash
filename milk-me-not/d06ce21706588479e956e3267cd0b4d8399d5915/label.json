@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "d06ce21706588479e956e3267cd0b4d8399d5915",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Fix card centering",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1103 later commits"
+}

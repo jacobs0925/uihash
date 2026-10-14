@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9b3a0c68bf39221f7a30d59ff0b64115650b612a",
+ "parent": "390d5e1dcc0febc3718caa659535d2a875f4f7e1",
+ "date": "2025-11-02",
+ "subject": "Fix footer refresh on page load",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/NotificationContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21049
+}

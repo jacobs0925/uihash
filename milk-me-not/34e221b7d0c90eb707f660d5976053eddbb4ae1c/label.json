@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "34e221b7d0c90eb707f660d5976053eddbb4ae1c",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Fix login button styling",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1092 later commits"
+}

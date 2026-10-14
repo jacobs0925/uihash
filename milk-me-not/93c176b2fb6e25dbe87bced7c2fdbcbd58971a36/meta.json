@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "93c176b2fb6e25dbe87bced7c2fdbcbd58971a36",
+ "parent": "31d29c39638a4b7a7f7cd2aa9b2781a57d7cdbc0",
+ "date": "2025-11-02",
+ "subject": "Reorder product details on cards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/ResultCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20523
+}

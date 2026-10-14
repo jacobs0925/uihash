@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1ed9d6321839cd52d828ac4b5584791c26e1a196",
+ "parent": "9b865970142845e30ec0bacdc3b8aa7899ab5139",
+ "date": "2025-11-23",
+ "subject": "Improve modal close visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ImageModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 78369
+}

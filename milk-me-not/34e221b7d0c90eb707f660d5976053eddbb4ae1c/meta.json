@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "34e221b7d0c90eb707f660d5976053eddbb4ae1c",
+ "parent": "db4be9a11d0beef3fc0122591c13c76677c7866a",
+ "date": "2025-10-12",
+ "subject": "Fix login button styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 23062
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "d27cdef75b55bb2eff9295a08c5aed1b3b28ab1a",
+ "parent": "263917213865b37dcfe36d35345d84f38f82a023",
+ "date": "2025-10-12",
+ "subject": "Refactor: Adjust padding",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/ResultCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20356
+}

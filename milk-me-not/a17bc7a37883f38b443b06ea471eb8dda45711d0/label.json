@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "a17bc7a37883f38b443b06ea471eb8dda45711d0",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Add country option in account",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 834 later commits"
+}

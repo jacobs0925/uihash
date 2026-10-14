@@ -1,0 +1,29 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2de79a0cbd84cd78530c683d29f413c76e1316dc",
+ "parent": "490a216180747c75f4777c97df67a2b99e4234ea",
+ "date": "2025-11-19",
+ "subject": "Remove wishlist files",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/WishlistButton.tsx",
+  "src/components/WishlistGrid.tsx",
+  "src/components/wishlist/ImageCarousel.tsx",
+  "src/hooks/useWishlist.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Profile.tsx",
+  "src/pages/Wishlist.tsx",
+  "supabase/migrations/20251119202705_08ceae9f-e61f-4380-b1db-85575a1fc8b8.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21018
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5496850feb57d965217b52d74ff4fbf456ca4db4",
+ "parent": "51ea7c1790867c8624a53b1b70216477fa18d400",
+ "date": "2025-11-09",
+ "subject": "Update \"Show Results\" button color",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 26028
+}

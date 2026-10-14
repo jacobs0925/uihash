@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "45b57e01b2687fc30021057c067e67ba8a44142a",
+ "parent": "b5d08e43084ee7cd020eb8642c7df62c2476ce65",
+ "date": "2025-11-21",
+ "subject": "Add profile icon on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 33923
+}

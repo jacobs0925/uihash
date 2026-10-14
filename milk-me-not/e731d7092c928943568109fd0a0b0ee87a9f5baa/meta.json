@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e731d7092c928943568109fd0a0b0ee87a9f5baa",
+ "parent": "6fe27fc545174a2bdd043176f3f6fe5387eb480e",
+ "date": "2025-11-02",
+ "subject": "Fix alignment on web/tablet",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ResultsContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20534
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c97364683f21fb5206c1aa6012170c0b93c2643d",
+ "parent": "11d31b0275855539ffe2822258e902476355594d",
+ "date": "2025-10-12",
+ "subject": "Fix button hover background",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/LoginPrompt.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20761
+}

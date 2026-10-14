@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5dda83097621c3099cdb4e713bff6451808cebbc",
+ "parent": "7b4d5ac380151a5a0f813e4a7cdc7a002ee9d093",
+ "date": "2025-10-12",
+ "subject": "Remove unnecessary div",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/MobileResultsCards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20269
+}

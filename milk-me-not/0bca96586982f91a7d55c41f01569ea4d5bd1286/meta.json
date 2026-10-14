@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0bca96586982f91a7d55c41f01569ea4d5bd1286",
+ "parent": "cc48f3c968304765f896ba918180c22a923ad7bb",
+ "date": "2025-11-21",
+ "subject": "Make logout red",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Account.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 37455
+}

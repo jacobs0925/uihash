@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "63ca0ee7859f8704a84870151c0149aa2d620432",
+ "parent": "073d6ed22be1f935aa845cd4b006d66cdb07984c",
+ "date": "2025-11-02",
+ "subject": "Refactor product search section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx",
+  "src/components/milk-test/ResultsContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 20325
+}

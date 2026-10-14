@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a903642ccc68bcd979d9bf83ac5fc16b3580f5cb",
+ "parent": "784444455971362a78dc9ded819c222c440c8e23",
+ "date": "2025-11-02",
+ "subject": "Reverted to commit 5e697845878a25ef9849a6253e975bc9ff820eea",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/table/ResultCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20809
+}

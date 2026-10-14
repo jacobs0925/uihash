@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "5887d12ce90419679fa752f69fd8dad681d4d165",
+ "parent": "c7946cf71c00363d89d0265d66daddd216935739",
+ "date": "2025-11-02",
+ "subject": "Fix scrolling on mobile/tablet",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AddMilkTest.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 21132
+}

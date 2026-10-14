@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "05838b146e8669a32bde5552c5495d7131b121b8",
+ "parent": "6a6698388e0204361f35f6baa7ff358f83b8c630",
+ "date": "2025-11-19",
+ "subject": "Hide mobile top-right menu",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20320
+}

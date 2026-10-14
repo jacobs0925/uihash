@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "95347c5018dddc40159593825141e3707d63f30f",
+ "date": "2025-11-02",
+ "pr": null,
+ "title": "Fix filter visibility on results page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 917 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "f5be7fa3c4b5ddabc7f4130bebfad414f6e4d060",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Adjust notification labels",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 823 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "11c3346d13c657226431e2d0ea5adac6339655fb",
+ "parent": "85f40ffdf4541d1275080bd45a947de37d06c5ae",
+ "date": "2025-10-14",
+ "subject": "Update feed layout for tablets",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Feed.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 23099
+}

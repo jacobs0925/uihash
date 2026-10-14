@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "cca3621f781ea9afa9d9b1114d29c5df8cafb895",
+ "parent": "5c206c5390725b1d29d101057a8d24663907c93c",
+ "date": "2025-10-12",
+ "subject": "Remove hover animations on touch devices",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthButton.tsx",
+  "src/components/MenuBar.tsx",
+  "src/components/MobileFooter.tsx",
+  "src/components/auth/AuthFormButtons.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 19994
+}

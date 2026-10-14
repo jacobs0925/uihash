@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "33f201456efea8786f92b01bca20d3db0ce66eb6",
+ "parent": "b785b351f2992d5b9f998b64cc3ba1adf685745c",
+ "date": "2025-10-12",
+ "subject": "Refactor: Make feed more compact",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/feed/FeedHeader.tsx",
+  "src/components/feed/FeedItem.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 20645
+}

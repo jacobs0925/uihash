@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "b99d0e31c397c95f1c601cd3312f8af105c23bcd",
+ "parent": "55aef70f8ab5f75fefde82ad3710c2b81804198c",
+ "date": "2025-11-24",
+ "subject": "Fix tablet card grid",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 32376
+}

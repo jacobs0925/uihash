@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "b880c3c31c5318f5ad27da5be145cb4110ba9c16",
+ "parent": "1dbcad397be0fff7bd6f066422ab7fee99bcda60",
+ "date": "2025-11-21",
+ "subject": "Fill selected badges solid",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/MobileFilterBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 40507
+}

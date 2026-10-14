@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "952d8173b5ba3d546619ba5d02ffb73654b59642",
+ "parent": "de6773f5725516a702ec09c8c2bbd6a8dc5fd353",
+ "date": "2025-11-02",
+ "subject": "Refactor notification grouping",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/notifications/MobileNotificationList.tsx",
+  "src/components/notifications/NotificationList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20945
+}

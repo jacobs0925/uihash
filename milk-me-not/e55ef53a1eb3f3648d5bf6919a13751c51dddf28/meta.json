@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "e55ef53a1eb3f3648d5bf6919a13751c51dddf28",
+ "parent": "4eec9aeb259fe590f954cbb8a89ae5a09cdbea7c",
+ "date": "2025-11-21",
+ "subject": "Hide settings on home page",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MenuBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 21078
+}

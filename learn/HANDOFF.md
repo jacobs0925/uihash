@@ -648,6 +648,22 @@ v0 and Bolt record no restores in git.
     on the commit subject, screenshots), labels for what is visible (not what was disliked), and more
     repositories of different kinds.
 
+    **Labels for what is visible: a visual judge, checked against a gold set.** `judge.js` shows a vision
+    model the commit subject and uihash's before/after crops of up to four findings (no repeats, coverage
+    or noise; those with a crop first), and asks for regression, intended or unsure, with a confidence
+    and a verdict per finding. Output is schema-bound, the commit text and crops are marked as data, and
+    nothing the model says is used except as a label. `walk.js --only <shas> --keep-images` walks
+    chosen commits again and keeps the crops for it.
+
+    Before the judge's labels train anything, a person labels a gold set of 140 commits from the same
+    crops: 15 history regressions and 15 history intended from each of el400, livingwitharthritis,
+    milk-me-not and loyal-spark, and 8 and 12 from primer-react. `gold-pack.py` packs them onto the
+    `learn-gold` branch, the `judge-gold` workflow (run by hand, with the `ANTHROPIC_API_KEY` secret)
+    adds a verdict file per model, and `gold.js` scores every labeller against the person: the history
+    labels and each model's verdicts, as agreement, recall on each side, AUROC (overall and per
+    repository) and dollars per 1000 commits. The labeller that comes closest replaces the history
+    labels in training, and the gold set becomes the number the 0.935 goal is measured on.
+
     The gate only asks that a candidate be no worse. Rounds that follow one another also ask that it be
     better; otherwise every round would propose a model.
   - Outputs: the chosen model and its reports go to `models/latest/` (or `$MODEL_OUT`), the round's

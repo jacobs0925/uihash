@@ -6,6 +6,7 @@
 // A library without a Storybook builds its own test app instead and names the pages to check ("pages", see pageList());
 // an app ("pages.routes", see appRoutes()) is built whole and checked on its routes.
 // Usage: node learn/public/walk.js <repo name in repos.json> <workDir> <dataDir> [--since 2026-01-01] [--max 20] [--minutes 40] [--newest-first]
+//                                  [--only <sha,sha>] [--keep-images]
 // --minutes: start no new commit after that long (the one in progress finishes). Resumable: commits that
 // already have a summary (summary.json, or summary.json.gz once round.sh has compacted it) are skipped.
 const fs = require('fs');
@@ -261,6 +262,8 @@ function memoryWatch(dir) {
   // a recipe's own "since" wins when later: the commits before it cannot be built with this recipe
   let list = commits([opt('since', '2026-01-01'), R.since].filter(Boolean).sort().pop()).filter((c) => c.parent && components(c).length && known(c.parent));
   if (process.argv.includes('--newest-first')) list.reverse();
+  // --only <sha,sha>: just these commits (prefixes are enough), e.g. to check them again with --keep-images
+  if (opt('only')) { const want = opt('only').split(','); list = list.filter((c) => want.some((w) => c.sha.startsWith(w))); }
   const max = +opt('max', 20), until = START + +opt('minutes', 1e6) * 60e3;
   let done = 0, failedInARow = 0;
   for (const c of list) {
@@ -291,7 +294,8 @@ function memoryWatch(dir) {
       const meta = { repo: NAME, sha: c.sha, parent: c.parent, date: c.date, subject: title ? `${title} (#${c.pr})` : c.subject, pr: c.pr, components: comps, files: c.files,
         snapshotsUpdated: c.files.filter((f) => SNAP.test(f)), changeset: changeset.slice(0, 4000) };
       const s = await check(c, comps);
-      for (const f of fs.existsSync(dir) ? fs.readdirSync(dir) : []) if (/\.(png|html)$/.test(f)) fs.unlinkSync(path.join(dir, f));
+      // the screenshots, crops and report are not kept (--keep-images: they are, for a person or a judge to look at)
+      if (!process.argv.includes('--keep-images')) for (const f of fs.existsSync(dir) ? fs.readdirSync(dir) : []) if (/\.(png|html)$/.test(f)) fs.unlinkSync(path.join(dir, f));
       const n = s ? s.pages.reduce((k, p) => k + p.findings.filter((f) => !f.sameAs).length, 0) : 0;
       fs.writeFileSync(path.join(dir, 'meta.json'), JSON.stringify({ ...meta, recipe: R.version || 1, stories: s ? s.pages.length : 0, findings: n, ms: Date.now() - t0 }, null, 1));
       if (!s) fs.writeFileSync(path.join(dir, 'summary.json'), JSON.stringify({ pages: [] }));

@@ -18,7 +18,7 @@
     "eval:scroller": "node experiments/scroller/eval.js",
     "eval:subtle": "node experiments/subtle/eval.js && node experiments/subtle/states-fp.js",
     "eval:assets": "node experiments/assets/eval.js",
-    "test:learn": "node learn/test-undo.js && node learn/test-flaky.js && node learn/test-model.js && node learn/test-feedback.js && node learn/test-label.js && node learn/test-intent.js && node learn/test-gate.js && node learn/test-link.js && node learn/public/test-restores.js",
+    "test:learn": "node learn/test-undo.js && node learn/test-flaky.js && node learn/test-model.js && node learn/test-feedback.js && node learn/test-label.js && node learn/test-intent.js && node learn/test-judge.js && node learn/test-gold.js && node learn/test-gate.js && node learn/test-link.js && node learn/public/test-restores.js",
     "test:demo-model": "node learn/test-demo.js"
   },
   "dependencies": {

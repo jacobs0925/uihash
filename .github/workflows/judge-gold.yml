@@ -1,0 +1,62 @@
+# The visual judge (learn/judge.js) on the gold set, so the judge's labels can be scored against a person's
+# (learn/gold.js) before any of them train the triage model. The learn-gold branch holds each gold commit's
+# summary, commit text, history label and the crops the judge is shown (learn/gold-pack.py); this workflow adds a
+# verdict file per model (judge-<model>.json) and saves them on that branch. Commits that already have a verdict
+# from the same model and prompt are skipped, so running it again only judges what is new.
+#
+# Run it by hand (Actions → judge-gold → Run workflow). It needs the ANTHROPIC_API_KEY repository secret, and it
+# costs money: for 140 commits about $6 with claude-opus-5-5, $3 with claude-sonnet-5-5 and under $0.50 with
+# claude-haiku-5-5. Nothing here runs code from the walked repositories: only uihash's own code reads their data.
+name: judge-gold
+
+on:
+  workflow_dispatch:
+    inputs:
+      models:
+        description: Models to judge the gold commits with, separated by spaces
+        type: string
+        default: claude-haiku-5-5 claude-sonnet-5-5 claude-opus-5-5
+
+concurrency:
+  group: judge-gold
+  cancel-in-progress: false
+
+permissions: {}
+
+jobs:
+  judge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    permissions:
+      contents: write                  # the verdicts go on the learn-gold branch
+    steps:
+      - uses: actions/checkout@v5
+        with: { persist-credentials: false }
+      - uses: actions/checkout@v5
+        with: { ref: learn-gold, path: gold }
+      - uses: actions/setup-node@v5
+        with: { node-version: 22 }
+      - name: Install the Anthropic SDK
+        run: npm install --no-audit --no-fund --ignore-scripts
+      - name: Judge the gold commits
+        env: { ANTHROPIC_API_KEY: '${{ secrets.ANTHROPIC_API_KEY }}', MODELS: '${{ inputs.models }}' }
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then echo "::error::Add the ANTHROPIC_API_KEY repository secret first"; exit 1; fi
+          for m in $MODELS; do
+            [[ $m =~ ^claude-[a-z0-9-]+$ ]] || { echo "::error::Not a model name: $m"; exit 1; }
+            for repo in gold/*/; do
+              echo "== $m: $repo"
+              node learn/judge.js "$repo" --model "$m" --file "judge-$m.json"
+            done
+          done
+      - name: Save the verdicts on the learn-gold branch
+        if: ${{ !cancelled() }}
+        env: { MODELS: '${{ inputs.models }}' }
+        run: |
+          cd gold
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -A
+          if git diff --cached --quiet; then echo "No new verdicts"; exit 0; fi
+          git commit --quiet -m "judge-gold: $MODELS"
+          git push --quiet origin HEAD:learn-gold

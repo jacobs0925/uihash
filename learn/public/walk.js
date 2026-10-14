@@ -73,7 +73,8 @@ function components(c) {
 }
 
 // ------------------------------------------------------------------ builds
-// what is installed in the worktree, kept across runs: a new walk reinstalls only when the lockfile changed
+// what is installed in the worktree, kept across runs: a new walk reinstalls only when package.json or a
+// lockfile changed
 const installed = path.join(WORK, NAME + '.installed');
 let installedLock = fs.existsSync(installed) ? fs.readFileSync(installed, 'utf8') : null;
 function build(sha, comps) {
@@ -81,9 +82,12 @@ function build(sha, comps) {
   const dir = path.join(builds, key);
   if (fs.existsSync(path.join(dir, R.pages ? 'built' : 'index.json'))) return dir;
   git(['checkout', '-q', '--detach', '--force', sha], tree);
-  // "lockfile" may list several, the first present counts (a repository that changed package manager)
-  const lockfile = [].concat(R.lockfile).find((f) => fs.existsSync(path.join(tree, f))) || [].concat(R.lockfile)[0];
-  const lock = crypto.createHash('sha1').update(fs.readFileSync(path.join(tree, lockfile))).digest('hex');
+  // all of them count, and package.json too: "lockfile" may list several (a repository that changed
+  // package manager), and a Lovable app adds a dependency to package.json and package-lock.json but leaves
+  // its bun.lockb as it was
+  const h = crypto.createHash('sha1');
+  for (const f of ['package.json', ...[].concat(R.lockfile)]) if (fs.existsSync(path.join(tree, f))) h.update(`${f}\0`).update(fs.readFileSync(path.join(tree, f)));
+  const lock = h.digest('hex');
   if (lock !== installedLock) {
     log(`  install (${sha.slice(0, 8)})`); fs.rmSync(installed, { force: true });
     sh(R.install, tree, nodeEnv()); installedLock = lock; fs.writeFileSync(installed, lock);

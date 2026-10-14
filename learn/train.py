@@ -44,8 +44,8 @@ test = [r for r in rows if r['split'] == 'eval']
 DROP = {'no_pixel_change'}
 for r in train + test: r['x'] = {k: v for k, v in r['x'].items() if k not in DROP and not (VARIANT == 'local' and k.startswith('pr_'))}
 # a restore throws a whole commit away, often for something off the checked routes or not visual: its labels
-# are kept for evaluation, but weigh a tenth in training (unseen-repository AUROC 0.737 -> 0.774, lowest
-# repository 0.657 -> 0.742, together with DROP)
+# are kept for evaluation, but weigh a tenth in training (unseen-repository AUROC on round 17's data, after
+# flaky.js: 0.688 -> 0.720 mean, 0.641 -> 0.689 lowest, together with DROP)
 RESTORE_W = 0.1
 def weights(rs):
     w = np.array([r['w'] * (RESTORE_W if r.get('source') == 'restore' else 1.0) for r in rs])
@@ -53,7 +53,7 @@ def weights(rs):
 vec = DictVectorizer(sparse=False)
 Xtr = vec.fit_transform([r['x'] for r in train]); ytr = np.array([r['y'] for r in train])
 names = vec.get_feature_names_out()
-wtr = weights(train)
+wtr = weights(train); PRtr = np.array([r['pr'] for r in train])
 rules_flag = lambda r: r['triage'] in ('breaks', 'check')
 METRICS = {'variant': VARIANT, 'train_prs': len({r['pr'] for r in train}), 'train_findings': len(train), 'eval_prs': len({r['pr'] for r in test}),
            'train_sources': {s: len({r['pr'] for r in train if r.get('source') == s}) for s in sorted({r.get('source', '') for r in train})}}
@@ -62,7 +62,23 @@ def model(kind):
     if kind == 'logistic': return LogisticRegression(C=0.5, class_weight='balanced', max_iter=4000)
     return GradientBoostingClassifier(n_estimators=250, max_depth=3, learning_rate=0.05, subsample=0.8, random_state=0)
 
-def fit(kind, X, y, w):
+# labels the rest of the training data contradicts: out-of-fold logistic scores on the training rows (folds by PR);
+# a row scored more than CLEAN away from its label weighs nothing. Only ever on the rows a model is fitted on
+# (unseen-repository AUROC on round 17's data, after flaky.js: +0.011 mean, +0.017 lowest)
+CLEAN = 0.7
+def cleaned(X, y, w, prs):
+    g = {p: i for i, p in enumerate(sorted(set(prs)))}
+    if len(g) < 2 or len(set(y)) < 2: return w
+    G = np.array([g[p] for p in prs]); oof = y.astype(float).copy()
+    for a, b in GroupKFold(n_splits=min(5, len(g))).split(X, y, G):
+        if len(set(y[a])) < 2: continue
+        sc = StandardScaler().fit(X[a]); m = LogisticRegression(C=0.5, class_weight='balanced', max_iter=4000).fit(sc.transform(X[a]), y[a], sample_weight=w[a])
+        oof[b] = m.predict_proba(sc.transform(X[b]))[:, 1]
+    w = np.where(np.abs(y - oof) > CLEAN, 0.0, w)
+    return w * len(w) / w.sum()
+
+def fit(kind, X, y, w, prs=None):
+    if prs is not None: w = cleaned(X, y, w, prs)
     if kind == 'logistic':
         sc = StandardScaler().fit(X); m = model(kind).fit(sc.transform(X), y, sample_weight=w)
         return (lambda Z: m.predict_proba(sc.transform(Z))[:, 1]), (m, sc)
@@ -104,7 +120,7 @@ OOF = {}
 for kind in ('logistic', 'trees'):
     oof = np.zeros(len(train))
     for tr, va in GroupKFold(n_splits=min(5, len(groups))).split(Xtr, ytr, G):
-        f, _ = fit(kind, Xtr[tr], ytr[tr], wtr[tr]); oof[va] = f(Xtr[va])
+        f, _ = fit(kind, Xtr[tr], ytr[tr], wtr[tr], PRtr[tr]); oof[va] = f(Xtr[va])
     OOF[kind] = oof
     res = per_pr(train, oof)
     single = [v for v in res.values() if v['kind'] != 'mixed']
@@ -133,7 +149,7 @@ for app in sorted({r['app'] for r in allrows}):
     rest = [r for r in allrows if r['app'] != app]; mine = [r for r in allrows if r['app'] == app]
     if len({r['y'] for r in rest}) < 2: continue
     v2 = DictVectorizer(sparse=False); X2 = v2.fit_transform([r['x'] for r in rest])
-    f2, _ = fit(KIND, X2, np.array([r['y'] for r in rest]), weights(rest))
+    f2, _ = fit(KIND, X2, np.array([r['y'] for r in rest]), weights(rest), [r['pr'] for r in rest])
     pos, neg = pairs(mine, f2(v2.transform([r['x'] for r in mine])))
     auc = roc_auc_score([1] * len(pos) + [0] * len(neg), pos + neg) if pos and neg else None
     LORO[app] = [None if auc is None else round(float(auc), 4), len(pos), len(neg)]
@@ -150,7 +166,7 @@ if scored: say(f"\nMean {np.mean(scored):.3f}, lowest {min(scored):.3f}; {sum(v 
 # ------------------------------------------------- final models; thresholds from the out-of-fold scores
 fitted, best = {}, None
 for kind in ('logistic', 'trees'):
-    f, m = fit(kind, Xtr, ytr, wtr); ptr = OOF[kind]
+    f, m = fit(kind, Xtr, ytr, wtr, PRtr); ptr = OOF[kind]
     tres = per_pr(train, ptr)
     dl = sorted(v['max'] for v in tres.values() if v['kind'] == 'deliberate')
     t_flag = dl[int(math.ceil(0.9 * len(dl))) - 1] + 1e-9 if dl else 0.5

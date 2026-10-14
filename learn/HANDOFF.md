@@ -590,24 +590,41 @@ licensed repositories are as rare, and Replit apps are mostly Express servers th
     repository with a model of the candidate's kind trained on all the other repositories' commits. The
     PR-level AUROC ranks regressions and mistake sides against intended commits and deliberate sides,
     as the gate does. Each candidate's table, mean and lowest go to `latest.md` and `history.jsonl`. A
-    repository counts once it has 5 or more of each. That is the bar a model has to clear before it is
-    trusted on someone else's app. Measured on round 17's data (el400, livingwitharthritis, milk-me-not,
+    repository counts once it has 5 or more of each.
+
+    **Noise made the earlier numbers look better than they were.** Findings that come back word for word
+    in many commits of a repository are noise, for example a forced hover state that depends on timing.
+    In milk-me-not one hover finding came back in 79 commits. Its flip-flops made 34 of the 40 "undo"
+    regressions, and 271 of the 534 commits with findings had nothing else. Models learned that noise
+    and scored it well: 0.98 for "undo" against kept commits, and 0.914 on milk-me-not's held-out commits
+    in round 17. `flaky.js` now leaves out any finding seen in 5 or more commits of a repository, in
+    labels (`label.js` writes `<repo>/flaky.json`) and in training rows (`dataset.js`). milk-me-not drops
+    to 66 regressions and 192 intended commits. el400 and livingwitharthritis lose a few, and the
+    libraries none.
+
+    Measured on round 17's data with noise left out (el400, livingwitharthritis, milk-me-not,
     primer-react):
 
-    | | mean | lowest |
+    | training | mean | lowest |
     |---|---|---|
-    | as trained until round 17 | 0.737 | 0.657 |
-    | restore labels weighted 0.1 in training, `no_pixel_change` left out | 0.774 | 0.742 |
-    | the same, scored on labels other than restores | 0.803 | 0.743 |
-    | trained on 80 % of the repository itself as well (an upper bound for these labels) | 0.80 | 0.75 |
+    | as until round 17 | 0.688 | 0.641 |
+    | restore labels weighted 0.1, `no_pixel_change` left out | 0.720 | 0.689 |
+    | and labels the rest of the data contradicts weighted 0 (`CLEAN`) | 0.731 | 0.706 |
+    | also trained on 80 % of the repository itself (an upper bound for these labels) | 0.750 | 0.718 |
 
-    Restore labels are the noisy ones. A restore throws whole commits away, often for something off
-    the checked routes or not visual at all. In milk-me-not a model separates "undo" regressions from
-    kept commits at 0.98 but restore regressions at 0.68. They stay in evaluation and weigh a tenth in
-    training. Model kinds, per-repository normalisation and balancing the repositories moved the scores
-    by 0.02 or less. The bound in the last row shows that the labels and features, not the model, hold
-    the score near 0.8. Getting to 0.935 needs findings that show why a commit was thrown away (more
-    routes, an intent judge on the commit subject) and more repositories of different kinds.
+    What these results show:
+    - **Restore labels are noisy.** A restore throws whole commits away, often for something off the
+      checked routes, not visual, or a matter of taste: a 5 px logo move, a margin from 4 to 0 px. They
+      stay in evaluation and weigh a tenth in training.
+    - **The model kind barely matters.** Logistic, trees, per-repository normalisation and balancing the
+      repositories move the score by 0.02 or less.
+    - **Neither do commit-subject features.** Concepts named in the subject matching the finding's
+      properties add 0.006.
+    - **The labels and features set the ceiling.** The upper bound in the last row is 0.75.
+
+    Getting to 0.935 needs findings that show why a commit was thrown away (more routes, an intent judge
+    on the commit subject, screenshots), labels for what is visible (not what was disliked), and more
+    repositories of different kinds.
 
     The gate only asks that a candidate be no worse. Rounds that follow one another also ask that it be
     better; otherwise every round would propose a model.

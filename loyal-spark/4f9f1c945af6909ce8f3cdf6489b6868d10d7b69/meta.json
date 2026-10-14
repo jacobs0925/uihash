@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4f9f1c945af6909ce8f3cdf6489b6868d10d7b69",
+ "parent": "e387c8cfc7cd5cfda73b2932a4537f8432cbe3c7",
+ "date": "2025-10-21",
+ "subject": "Fix: Display inactive programs and profile verification",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51233
+}

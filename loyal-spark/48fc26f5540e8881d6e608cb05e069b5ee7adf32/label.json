@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "48fc26f5540e8881d6e608cb05e069b5ee7adf32",
+ "date": "2025-10-22",
+ "pr": null,
+ "title": "Fix Farcaster UI overlaps",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 903 later commits"
+}

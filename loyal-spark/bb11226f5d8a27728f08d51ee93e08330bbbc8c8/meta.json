@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "bb11226f5d8a27728f08d51ee93e08330bbbc8c8",
+ "parent": "73ae145c6737221d616ce56507a6b87e6cbf584c",
+ "date": "2025-10-22",
+ "subject": "Update app flow",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/AppPage.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 72281
+}

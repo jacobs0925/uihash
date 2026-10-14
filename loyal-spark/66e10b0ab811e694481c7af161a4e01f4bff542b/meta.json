@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "66e10b0ab811e694481c7af161a4e01f4bff542b",
+ "parent": "616c65e8fbd69214a6a57883dd3cf9ec3c709094",
+ "date": "2025-10-21",
+ "subject": "Refactor burn all tokens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/hooks/useBurnAllTokens.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51337
+}

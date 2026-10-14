@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "96e89e09d2a1098d0b459ad17d9a27b9e1d48805",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Fix: Minting and token display issues",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1123 later commits"
+}

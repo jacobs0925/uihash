@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "94969d860cf54c2f6803a630215f984429b65e74",
+ "date": "2025-10-19",
+ "pr": null,
+ "title": "feat: Add filtering and sorting to issued tokens history",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1067 later commits"
+}

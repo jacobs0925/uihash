@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "81fc040bf78c0bd1e616147f0755328b1db66c39",
+ "parent": "dc8a0d9599dad4c597e3e6ec76a5e731ec19a9fc",
+ "date": "2025-10-21",
+ "subject": "Fix program status display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProgramStatusBadge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 52552
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "7ce4baaf9d68a2d20b84078fc2d9ed5a459add10",
+ "parent": "ca51c4710383c02428bdd289f542d881b0dbf67c",
+ "date": "2025-10-19",
+ "subject": "Fix: Handle voucher creation error",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48250
+}

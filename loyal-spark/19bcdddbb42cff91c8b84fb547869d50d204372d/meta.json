@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "19bcdddbb42cff91c8b84fb547869d50d204372d",
+ "parent": "df4aacdf8f1ffe0fff584d7cd4bad9dc27f23450",
+ "date": "2025-10-19",
+ "subject": "Fix approve button functionality",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 46939
+}

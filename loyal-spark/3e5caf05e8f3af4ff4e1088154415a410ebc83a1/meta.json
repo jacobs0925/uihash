@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3e5caf05e8f3af4ff4e1088154415a410ebc83a1",
+ "parent": "06adb12860f6ea8ee6ef6a102d00b3b9f4c9aaf5",
+ "date": "2025-10-21",
+ "subject": "Fix: Display inactive programs correctly",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProgramStatusBadge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 50964
+}

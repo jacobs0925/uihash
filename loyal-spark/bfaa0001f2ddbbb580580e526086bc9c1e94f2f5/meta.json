@@ -1,0 +1,29 @@
+{
+ "repo": "loyal-spark",
+ "sha": "bfaa0001f2ddbbb580580e526086bc9c1e94f2f5",
+ "parent": "e8f3f03b15ce1ff20290bc33f6a4ea6697a75469",
+ "date": "2025-10-17",
+ "subject": "feat: Enhance loyalty program features and UI",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/components/CreateLoyaltyProgram.tsx",
+  "src/components/CustomerPanel.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/components/TokenList.tsx",
+  "src/hooks/useDeployLoyaltyToken.ts",
+  "src/hooks/useMultiTokenBalance.ts",
+  "src/hooks/useTransferTokens.ts",
+  "src/index.css",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 30,
+ "ms": 53025
+}

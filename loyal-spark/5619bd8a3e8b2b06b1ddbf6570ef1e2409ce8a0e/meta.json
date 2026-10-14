@@ -1,0 +1,32 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5619bd8a3e8b2b06b1ddbf6570ef1e2409ce8a0e",
+ "parent": "4478e7fc430ced4aac6c63f9c4dcdb84c1b1bf36",
+ "date": "2025-10-17",
+ "subject": "Refine design to match Mobbin.com",
+ "components": [
+  "App.tsx",
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "package-lock.json",
+  "package.json",
+  "src/App.tsx",
+  "src/components/PageTransition.tsx",
+  "src/index.css",
+  "src/pages/CustomerPage.tsx",
+  "src/pages/Index.tsx",
+  "src/pages/MerchantPage.tsx",
+  "src/pages/NotFound.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 30,
+ "ms": 75334
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "46d83683bac60a58e165628fbbf937c088239b7f",
+ "parent": "3dd58f9d813a4040c2cf98b8c62c8ac4c7d5dad2",
+ "date": "2025-10-22",
+ "subject": "Refactor pitch deck based on Airbnb",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/pitch-deck/PitchDeck.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 66,
+ "ms": 91514
+}

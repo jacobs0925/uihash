@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "406c727c30fe03dcab172b7ed5293eaf690e372b",
+ "parent": "a2c67ad0c3e35b39871df353ee61b4b9f7740f78",
+ "date": "2025-10-19",
+ "subject": "Fix: Approve button not working",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 49163
+}

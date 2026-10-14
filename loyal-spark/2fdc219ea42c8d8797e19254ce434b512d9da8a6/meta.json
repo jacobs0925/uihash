@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "2fdc219ea42c8d8797e19254ce434b512d9da8a6",
+ "parent": "94d2185eeec25148ade6e6a277c0211ba8554e36",
+ "date": "2025-10-17",
+ "subject": "Refactor token exchange functionality",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DexIntegration.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41474
+}

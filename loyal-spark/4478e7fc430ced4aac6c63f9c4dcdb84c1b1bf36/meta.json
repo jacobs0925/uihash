@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4478e7fc430ced4aac6c63f9c4dcdb84c1b1bf36",
+ "parent": "08bc3d01b8849b0bd8ae998ad1a484ab810ac360",
+ "date": "2025-10-17",
+ "subject": "Refactor UI with animations",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/index.css",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 18,
+ "ms": 67549
+}

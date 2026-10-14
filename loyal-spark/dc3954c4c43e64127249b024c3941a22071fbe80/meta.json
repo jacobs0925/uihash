@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "dc3954c4c43e64127249b024c3941a22071fbe80",
+ "parent": "afc11d6768c41769df07f1d03ea4a8e0d5c79699",
+ "date": "2025-10-19",
+ "subject": "Fix: Resolve AuthContext error",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/rewards/MyVouchers.tsx",
+  "src/components/rewards/VouchersManagement.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51235
+}

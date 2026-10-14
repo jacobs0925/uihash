@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4bf1084a483afdbd1c1f19f683e9ea292f26a280",
+ "parent": "63e08c245e99acf1a8f52fee54e0898d1ccb4a81",
+ "date": "2025-10-19",
+ "subject": "Fix merchant loyalty program balances",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51698
+}

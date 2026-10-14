@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "94d2185eeec25148ade6e6a277c0211ba8554e36",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Refactor UI and add DEX integration",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(248, 249, 252)) → ∅ undone by bfaa0001 \"feat: Enhance loyalty program features and UI\"; background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(248, 249, 252)) → ∅ undone by bfaa0001 \"feat: Enhance loyalty program features and UI\"; background-image: linear-gradient(to right, rgb(255, 255, 255), rgb(248, 249, 252)) → ∅ undone by bfaa0001 \"feat: Enhance loyalty program features and UI\""
+}

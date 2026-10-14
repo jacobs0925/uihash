@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "2ebb436a94e188c09edc8b2e7a3a63ba2b60d700",
+ "parent": "bfeb59ee90f3127a5596cdaa8ab068b1a6763992",
+ "date": "2025-10-22",
+ "subject": "Fix: Disconnect button not working",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58606
+}

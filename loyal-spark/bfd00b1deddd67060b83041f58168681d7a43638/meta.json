@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "bfd00b1deddd67060b83041f58168681d7a43638",
+ "parent": "9e99b474fffbbe04831480851cdaa3d3760c217b",
+ "date": "2025-10-18",
+ "subject": "Fix: Address security warnings",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/hooks/useMintTokens.ts",
+  "src/lib/vouchers.ts",
+  "supabase/migrations/20251018210752_1cb1342c-d9e8-4715-8c5a-7cf4041ccfb6.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48524
+}

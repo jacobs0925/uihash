@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "41022f8b22a80d2437f164c886b521b8533eb0d9",
+ "parent": "167e83e8a6ef2920d7570c1a5b25ab945f0faae1",
+ "date": "2025-10-22",
+ "subject": "Fix: Resolve Farcaster app launch issue",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 63282
+}

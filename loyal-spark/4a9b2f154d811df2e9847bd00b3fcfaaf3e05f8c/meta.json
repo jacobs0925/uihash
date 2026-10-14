@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4a9b2f154d811df2e9847bd00b3fcfaaf3e05f8c",
+ "parent": "cd693e4630f3ee8fa327180c3111c1efe07b3518",
+ "date": "2025-10-19",
+ "subject": "Fix merchant token history loading",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 52228
+}

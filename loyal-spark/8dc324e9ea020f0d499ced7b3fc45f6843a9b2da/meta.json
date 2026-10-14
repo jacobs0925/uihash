@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "8dc324e9ea020f0d499ced7b3fc45f6843a9b2da",
+ "parent": "71ca369264aa2a76324464ad8bb25a9f66638223",
+ "date": "2025-10-17",
+ "subject": "Fix transaction fee display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47453
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "db38399fff2c485e2f9d57c2cd926bd24104da45",
+ "date": "2025-10-19",
+ "pr": null,
+ "title": "Fix customer window scrolling",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1042 later commits"
+}

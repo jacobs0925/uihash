@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e5a0f25a65a4d3dc1a03bdb47977cb8db8512e78",
+ "parent": "519d9b914880f67bc879dd5036c045c63c3e1a55",
+ "date": "2025-10-21",
+ "subject": "Fix reward creation for inactive programs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/rewards/CreateReward.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 50660
+}

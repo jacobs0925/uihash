@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b86be184045d5dad7ff1182440a60ec9e71ddbcd",
+ "parent": "3dc4646c349d47e26e972cbd593d574ea163864c",
+ "date": "2025-10-21",
+ "subject": "Fix: Rewards and vouchers remain active for inactive programs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/lib/vouchers.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 52084
+}

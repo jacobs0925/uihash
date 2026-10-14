@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5ca59aab76b6b8da0479ea14e4697ff2fe6229a1",
+ "parent": "dc3954c4c43e64127249b024c3941a22071fbe80",
+ "date": "2025-10-19",
+ "subject": "Fix voucher program name",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 52769
+}

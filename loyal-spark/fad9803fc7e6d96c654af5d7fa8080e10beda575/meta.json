@@ -1,0 +1,26 @@
+{
+ "repo": "loyal-spark",
+ "sha": "fad9803fc7e6d96c654af5d7fa8080e10beda575",
+ "parent": "06c0661db1605e4ae2417d5784af0f2753a49d8f",
+ "date": "2025-10-22",
+ "subject": "Reverted to commit 73ae145c6737221d616ce56507a6b87e6cbf584c",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/FarcasterSplash.tsx",
+  "src/components/LandingPage.tsx",
+  "src/pages/AppLaunch.tsx",
+  "src/pages/AppPage.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 13,
+ "ms": 72929
+}

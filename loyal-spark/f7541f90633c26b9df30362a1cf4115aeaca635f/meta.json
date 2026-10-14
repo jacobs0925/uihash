@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "f7541f90633c26b9df30362a1cf4115aeaca635f",
+ "parent": "7610c11f47ef24440bf82560a4f3da1f54d245d9",
+ "date": "2025-10-17",
+ "subject": "Add redeem functionality",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerPanel.tsx",
+  "src/hooks/useBurnTokens.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 47985
+}

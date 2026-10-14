@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "fa86e429e92fc50d63e32643d5e6640c438d933c",
+ "parent": "a4f1b5ea9f7b1df06c3e340ba5d5c461cc420fc9",
+ "date": "2025-10-17",
+ "subject": "Fix: Loyalty rewards not displaying",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 44120
+}

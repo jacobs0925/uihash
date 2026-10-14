@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "dedeb7f742ca230e7d1ed8d128ae27293e19b5fe",
+ "parent": "d42f5e439974cf210fdfabb57385a4a0c3457a1c",
+ "date": "2025-10-17",
+ "subject": "Fix: Analyze smart contracts and suggest corrections",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreateLoyaltyProgram.tsx",
+  "src/config/contracts.ts",
+  "src/hooks/useDeployLoyaltyToken.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 45770
+}

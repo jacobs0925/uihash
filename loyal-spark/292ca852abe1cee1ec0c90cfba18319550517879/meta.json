@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "292ca852abe1cee1ec0c90cfba18319550517879",
+ "parent": "4bf1084a483afdbd1c1f19f683e9ea292f26a280",
+ "date": "2025-10-19",
+ "subject": "Fix active vouchers display",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51420
+}

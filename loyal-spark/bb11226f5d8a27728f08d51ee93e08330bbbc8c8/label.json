@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "bb11226f5d8a27728f08d51ee93e08330bbbc8c8",
+ "date": "2025-10-22",
+ "pr": null,
+ "title": "Update app flow",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by fad9803f, which restored 73ae145c (3 commits discarded)"
+}

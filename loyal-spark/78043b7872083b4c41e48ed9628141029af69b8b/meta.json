@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "78043b7872083b4c41e48ed9628141029af69b8b",
+ "parent": "5619bd8a3e8b2b06b1ddbf6570ef1e2409ce8a0e",
+ "date": "2025-10-17",
+ "subject": "Fix: Add Connect Wallet button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 57968
+}

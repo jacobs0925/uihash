@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "1f6b47f011eb72f6f972ca095cca3dc81b2ab20d",
+ "parent": "29a7da068c79744a6a5b72f5eddb67a6f76b0e83",
+ "date": "2025-10-21",
+ "subject": "Fix: Real-time voucher updates for merchants",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/VouchersManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 61165
+}

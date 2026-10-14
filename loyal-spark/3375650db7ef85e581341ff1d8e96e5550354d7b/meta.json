@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3375650db7ef85e581341ff1d8e96e5550354d7b",
+ "parent": "e7da9279fc9204292a81679ad8f63553c36c0943",
+ "date": "2025-10-21",
+ "subject": "Fix: Automatically update program status",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57188
+}

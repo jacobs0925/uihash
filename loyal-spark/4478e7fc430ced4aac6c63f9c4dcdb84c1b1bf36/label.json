@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "4478e7fc430ced4aac6c63f9c4dcdb84c1b1bf36",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Refactor UI with animations",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: ∅ → rgb(244, 243, 252) undone by 5619bd8a \"Refine design to match Mobbin.com\"; background-color: ∅ → rgb(244, 243, 252) undone by 5619bd8a \"Refine design to match Mobbin.com\"; background-color: ∅ → rgb(244, 243, 252) undone by 5619bd8a \"Refine design to match Mobbin.com\""
+}

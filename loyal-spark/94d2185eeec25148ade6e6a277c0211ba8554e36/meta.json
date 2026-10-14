@@ -1,0 +1,28 @@
+{
+ "repo": "loyal-spark",
+ "sha": "94d2185eeec25148ade6e6a277c0211ba8554e36",
+ "parent": "43f77cf6a13175d99b722e2a5bdeb1cb20071224",
+ "date": "2025-10-17",
+ "subject": "Refactor UI and add DEX integration",
+ "components": [
+  "App.tsx",
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "public/media-kit/README.md",
+  "src/App.tsx",
+  "src/components/CustomerPanel.tsx",
+  "src/components/DexIntegration.tsx",
+  "src/config/wagmi.ts",
+  "src/index.css",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 17,
+ "ms": 57449
+}

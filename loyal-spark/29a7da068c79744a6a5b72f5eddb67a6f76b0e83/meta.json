@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "29a7da068c79744a6a5b72f5eddb67a6f76b0e83",
+ "parent": "31420eec82d6c96c61dfa47525215f3ebb5c08d1",
+ "date": "2025-10-21",
+ "subject": "Fix loyalty token display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 53348
+}

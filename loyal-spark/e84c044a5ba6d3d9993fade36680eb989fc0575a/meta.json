@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e84c044a5ba6d3d9993fade36680eb989fc0575a",
+ "parent": "bfd00b1deddd67060b83041f58168681d7a43638",
+ "date": "2025-10-19",
+ "subject": "Refactor token burning logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/hooks/useApproveTokens.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 49027
+}

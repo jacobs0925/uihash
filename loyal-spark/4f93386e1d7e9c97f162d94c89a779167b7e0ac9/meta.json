@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4f93386e1d7e9c97f162d94c89a779167b7e0ac9",
+ "parent": "031cab93302a13e957523880a2fd222c7ccb69b4",
+ "date": "2025-10-21",
+ "subject": "Fix delete program button spinning",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 52834
+}

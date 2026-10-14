@@ -1,0 +1,32 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e8f3f03b15ce1ff20290bc33f6a4ea6697a75469",
+ "parent": "8efacf1a8ded364765c79b6d9a0cc5c816bfe397",
+ "date": "2025-10-17",
+ "subject": "feat: Create contract interaction assembly",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/App.tsx",
+  "src/components/CustomerPanel.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/contracts.ts",
+  "src/config/wagmi.ts",
+  "src/hooks/useBurnTokens.ts",
+  "src/hooks/useMintTokens.ts",
+  "src/hooks/useTokenBalance.ts",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 46292
+}

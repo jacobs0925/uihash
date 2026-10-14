@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b6ed32399df33d76a1625a18913971479ff34a78",
+ "parent": "dedeb7f742ca230e7d1ed8d128ae27293e19b5fe",
+ "date": "2025-10-17",
+ "subject": "Fix: Merchant unable to issue tokens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/hooks/useMintTokens.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 45934
+}

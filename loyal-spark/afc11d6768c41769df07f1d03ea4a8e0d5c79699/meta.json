@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "afc11d6768c41769df07f1d03ea4a8e0d5c79699",
+ "parent": "7ce4baaf9d68a2d20b84078fc2d9ed5a459add10",
+ "date": "2025-10-19",
+ "subject": "Fix: Resolve wallet connection chainId error",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 49315
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "0b44925ade3b17e14f016f0d65a237978c22391e",
+ "parent": "48fc26f5540e8881d6e608cb05e069b5ee7adf32",
+ "date": "2025-10-22",
+ "subject": "Fix Farcaster UI overlaps and add scrolling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/TokenListItem.tsx",
+  "src/components/rewards/RewardsList.tsx",
+  "src/components/rewards/VouchersManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56481
+}

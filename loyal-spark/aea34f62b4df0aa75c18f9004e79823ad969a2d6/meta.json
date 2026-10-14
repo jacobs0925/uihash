@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "aea34f62b4df0aa75c18f9004e79823ad969a2d6",
+ "parent": "14322282c96db00988561c443d16d32e563f3504",
+ "date": "2025-10-19",
+ "subject": "Refactor: Hide loyalty programs with zero balance",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48466
+}

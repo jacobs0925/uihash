@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "c84765efae09b82f852adbe9373a8ae791d1dbc0",
+ "parent": "3e5caf05e8f3af4ff4e1088154415a410ebc83a1",
+ "date": "2025-10-21",
+ "subject": "Fix program status jumping",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/ProgramStatusBadge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51005
+}

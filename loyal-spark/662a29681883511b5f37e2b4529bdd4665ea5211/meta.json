@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "662a29681883511b5f37e2b4529bdd4665ea5211",
+ "parent": "e1ef895b809b1f6fb4dd43b5324062a4674ee7b8",
+ "date": "2025-10-19",
+ "subject": "Fix: Token transfer modal not opening",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47205
+}

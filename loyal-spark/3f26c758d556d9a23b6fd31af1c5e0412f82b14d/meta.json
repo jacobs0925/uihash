@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3f26c758d556d9a23b6fd31af1c5e0412f82b14d",
+ "parent": "6f3da28c32f3fc75cf463b06be181585a754cdf2",
+ "date": "2025-10-19",
+ "subject": "Fix: Vouchers not displaying in second browser",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 52594
+}

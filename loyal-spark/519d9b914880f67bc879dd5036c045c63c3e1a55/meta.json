@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "519d9b914880f67bc879dd5036c045c63c3e1a55",
+ "parent": "c4e7eb48c11c91ad723923ec50a140d04ff4609e",
+ "date": "2025-10-21",
+ "subject": "Fix rewards display issue",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251021180035_99868e51-a8c7-41c9-9afa-992e8cadec35.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 50616
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "fce152cc908e1de8f1498fcd070529b1f0c127bb",
+ "parent": "516191b560987c90ec45270d98c64f602ee5b99f",
+ "date": "2025-10-20",
+ "subject": "Add venture capital pitch deck",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/PitchDeck.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 69938
+}

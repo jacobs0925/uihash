@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "cf0027e946ff00602b852c6c994a7b33880f2630",
+ "parent": "62b5dac8449fd72395b251f7a335e9bdf5d947c4",
+ "date": "2025-10-19",
+ "subject": "Add loyalty program expiration",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreateLoyaltyProgram.tsx",
+  "src/components/CreatedPrograms.tsx",
+  "src/components/ProgramExpirationInfo.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/config.toml",
+  "supabase/functions/check-program-expiration/index.ts",
+  "supabase/migrations/20251019191740_ad89ed51-162a-46bc-9488-33d5693a2a9a.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48951
+}

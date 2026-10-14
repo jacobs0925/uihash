@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5d6d05e2fd7c6bcccf888f438511430b9eb0e12b",
+ "parent": "efebb19806a126a9681575b8d986acd6a8b20a6a",
+ "date": "2025-10-21",
+ "subject": "Fix reward display issues",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51094
+}

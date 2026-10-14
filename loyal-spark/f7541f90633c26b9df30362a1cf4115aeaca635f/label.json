@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "f7541f90633c26b9df30362a1cf4115aeaca635f",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Add redeem functionality",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1108 later commits"
+}

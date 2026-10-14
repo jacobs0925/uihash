@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "c39b94c25a3d2713ec5f64b3e2eb1e956bf471de",
+ "parent": "b3dcb32be0cca6880ddfbc0d228ed3299ed3056a",
+ "date": "2025-10-21",
+ "subject": "Fix: Update button states for closing loyalty program",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 52014
+}

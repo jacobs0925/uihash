@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3124f9aef54d5698acfcf9178a5c4aff1490a562",
+ "parent": "80cf384d87198c70cb45c7f1e59e1654272e3a31",
+ "date": "2025-10-20",
+ "subject": "Fix token history display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47582
+}

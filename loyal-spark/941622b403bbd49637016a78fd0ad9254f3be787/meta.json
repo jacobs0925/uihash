@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "941622b403bbd49637016a78fd0ad9254f3be787",
+ "parent": "f12a71aaf4c0a11c53741c4693a5e9f565a4ef84",
+ "date": "2025-10-17",
+ "subject": "Fix: Resolve RPC request failures",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 45272
+}

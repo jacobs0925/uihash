@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "08bc3d01b8849b0bd8ae998ad1a484ab810ac360",
+ "parent": "137a75c6428f2bcffc4d1ccc103554951ce2a922",
+ "date": "2025-10-17",
+ "subject": "Refine color palette and contrast",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 25,
+ "ms": 63572
+}

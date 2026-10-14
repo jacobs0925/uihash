@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "9c6618eb586bd6a4b14065d88a6a3fd02c00aea1",
+ "parent": "00dea44f991e56aa39ec207c8e368b9d240ee975",
+ "date": "2025-10-21",
+ "subject": "feat: Add separate READMEs and pause rewards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "README_LOYALTY_TOKEN_FACTORY.md",
+  "README_LOYAL_SPARK_ERC20.md",
+  "SMART_CONTRACTS_README.md",
+  "src/components/CreatedPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51270
+}

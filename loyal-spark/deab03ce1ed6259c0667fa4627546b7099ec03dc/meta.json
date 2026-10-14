@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "deab03ce1ed6259c0667fa4627546b7099ec03dc",
+ "parent": "168a74c84b9825ef8db821c18d0c92aeebb2c953",
+ "date": "2025-10-21",
+ "subject": "Add pitch deck folder",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/PitchDeck.tsx",
+  "src/pages/pitch-deck/PitchDeck.tsx",
+  "src/pages/pitch-deck/TOKENOMICS.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 64371
+}

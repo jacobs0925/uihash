@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "696e4753af8e606459cf51c3d6002f662b03ddd5",
+ "parent": "bb11226f5d8a27728f08d51ee93e08330bbbc8c8",
+ "date": "2025-10-22",
+ "subject": "Revert Farcaster frame changes",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/FarcasterSplash.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65537
+}

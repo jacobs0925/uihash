@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "1308649e842e5fe5ef3c119ab559ac2f54386f14",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "feat: Implement reward catalog and voucher system",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1100 later commits"
+}

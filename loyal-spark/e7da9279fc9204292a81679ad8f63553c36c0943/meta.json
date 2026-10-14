@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e7da9279fc9204292a81679ad8f63553c36c0943",
+ "parent": "14312256b0daad108ba890e021353e0a189922a0",
+ "date": "2025-10-21",
+ "subject": "Fix program status logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 53896
+}

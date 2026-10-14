@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3dd58f9d813a4040c2cf98b8c62c8ac4c7d5dad2",
+ "parent": "efaafc0916f1cadb21e163f751b7bfed7c9fd949",
+ "date": "2025-10-22",
+ "subject": "Update pitch deck with business plan",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/pitch-deck/PitchDeck.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 100527
+}

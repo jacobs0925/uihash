@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "22882943c7983bdd8b7eccc9545b03fbdbe6c913",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Fix: Buyer token display issue",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1120 later commits"
+}

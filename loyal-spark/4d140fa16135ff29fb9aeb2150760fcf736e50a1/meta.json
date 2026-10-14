@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4d140fa16135ff29fb9aeb2150760fcf736e50a1",
+ "parent": "2fdc219ea42c8d8797e19254ce434b512d9da8a6",
+ "date": "2025-10-17",
+ "subject": "Refine tab styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 52762
+}

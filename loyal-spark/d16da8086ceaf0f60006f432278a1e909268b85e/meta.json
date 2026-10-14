@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "d16da8086ceaf0f60006f432278a1e909268b85e",
+ "parent": "aa97c1c9aa930e542b2561801187552e67c315d9",
+ "date": "2025-10-21",
+ "subject": "Fix: High gas fee when activating old program",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProgramControlButtons.tsx",
+  "src/components/ProgramStatusBadge.tsx",
+  "src/hooks/useCheckProgramStatus.ts",
+  "src/hooks/useToggleProgramStatus.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 71736
+}

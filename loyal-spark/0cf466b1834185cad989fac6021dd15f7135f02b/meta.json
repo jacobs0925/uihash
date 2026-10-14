@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "0cf466b1834185cad989fac6021dd15f7135f02b",
+ "parent": "ffcec841db617a6ba6b5c142bed61f1429019204",
+ "date": "2025-10-21",
+ "subject": "Add voucher scrolling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/MyVouchers.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56717
+}

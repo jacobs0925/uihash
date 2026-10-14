@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "4516ab835b0057c504e863d8e38105498ac5cc58",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Fix: Rewards not displaying",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: block → flex undone by 14322282 \"Refactor merchant data migration\"; flex-direction: ∅ → row undone by 14322282 \"Refactor merchant data migration\"; flex-wrap: ∅ → nowrap undone by 14322282 \"Refactor merchant data migration\""
+}

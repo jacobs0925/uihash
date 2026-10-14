@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "35c4e5ada484fe9543de5ea91e34ec556a6e969a",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Refactor: Update contract logic and factory",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1010 later commits"
+}

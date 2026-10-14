@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a7ddacc3b7ae071442e3cdb442d3f13e875fbf98",
+ "parent": "a1b42056db0439da3c2bc71bbb306f85d5b7e077",
+ "date": "2025-10-17",
+ "subject": "Fix token display issue",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 45553
+}

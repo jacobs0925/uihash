@@ -1,0 +1,26 @@
+{
+ "repo": "loyal-spark",
+ "sha": "351c7cf8a5775bc6e4b8750d369a55bba7fde61a",
+ "parent": "02fdfd0be836d48c3598b4dcfbf82552b1ca48a1",
+ "date": "2025-10-17",
+ "subject": "Approve Lovable Cloud migration",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/CreateReward.tsx",
+  "src/components/rewards/MyVouchers.tsx",
+  "src/components/rewards/RewardsList.tsx",
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/components/rewards/VouchersManagement.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/lib/vouchers.ts",
+  "supabase/migrations/20251017185930_815bff13-b1ad-47b2-b9af-e16773e13640.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47792
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "fce152cc908e1de8f1498fcd070529b1f0c127bb",
+ "date": "2025-10-20",
+ "pr": null,
+ "title": "Add venture capital pitch deck",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: flex → block undone by 46d83683 \"Refactor pitch deck based on Airbnb\"; flex-direction: row → ∅ undone by 46d83683 \"Refactor pitch deck based on Airbnb\"; flex-wrap: nowrap → ∅ undone by 46d83683 \"Refactor pitch deck based on Airbnb\""
+}

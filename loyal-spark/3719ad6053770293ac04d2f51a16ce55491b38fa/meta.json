@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3719ad6053770293ac04d2f51a16ce55491b38fa",
+ "parent": "802c6d4410f9d822bb593a96ecb78b04b234e685",
+ "date": "2025-10-19",
+ "subject": "Remove unused token exchange block",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerPanel.tsx",
+  "src/components/DexIntegration.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48141
+}

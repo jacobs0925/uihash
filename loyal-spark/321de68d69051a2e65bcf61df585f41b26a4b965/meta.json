@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "321de68d69051a2e65bcf61df585f41b26a4b965",
+ "parent": "fce152cc908e1de8f1498fcd070529b1f0c127bb",
+ "date": "2025-10-21",
+ "subject": "Replace header icon with app logo",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CustomerPage.tsx",
+  "src/pages/Index.tsx",
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 4,
+ "ms": 68254
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "105ab03b29761c2bbe968201660a2a571c8d9d48",
+ "parent": "d04e162b6fe6f5cd5e0f96650ced6609296357f0",
+ "date": "2025-10-17",
+ "subject": "Fix: Display issued tokens on client side",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 45868
+}

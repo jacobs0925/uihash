@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "34fdb21908a86e88255311cdba51b25937def82e",
+ "parent": "c2a3ae81f77848929a0df3415964b85804293174",
+ "date": "2025-10-17",
+ "subject": "Revert to token burning",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/hooks/useBurnTokens.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48855
+}

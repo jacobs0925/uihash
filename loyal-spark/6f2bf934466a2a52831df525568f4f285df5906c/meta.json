@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "6f2bf934466a2a52831df525568f4f285df5906c",
+ "parent": "94969d860cf54c2f6803a630215f984429b65e74",
+ "date": "2025-10-19",
+ "subject": "Add customer panel",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/pages/CustomerPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 54198
+}

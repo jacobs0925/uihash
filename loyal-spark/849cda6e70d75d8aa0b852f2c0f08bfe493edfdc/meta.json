@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "849cda6e70d75d8aa0b852f2c0f08bfe493edfdc",
+ "parent": "b6ed32399df33d76a1625a18913971479ff34a78",
+ "date": "2025-10-17",
+ "subject": "Fix: Loyalty program selection not working",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 46202
+}

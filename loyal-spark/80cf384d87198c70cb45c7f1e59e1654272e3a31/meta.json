@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "80cf384d87198c70cb45c7f1e59e1654272e3a31",
+ "parent": "4a9b2f154d811df2e9847bd00b3fcfaaf3e05f8c",
+ "date": "2025-10-20",
+ "subject": "Fix token history disappearing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48820
+}

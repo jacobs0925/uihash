@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e01c144cf9661e79f9c8d99213cdb39a4d7560f6",
+ "parent": "0b44925ade3b17e14f016f0d65a237978c22391e",
+ "date": "2025-10-22",
+ "subject": "Fix Farcaster UI overlaps",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/ProgramControlButtons.tsx",
+  "src/components/ProgramStatusBadge.tsx",
+  "src/components/rewards/MyVouchers.tsx",
+  "src/components/rewards/VoucherCard.tsx",
+  "src/components/rewards/VouchersManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56633
+}

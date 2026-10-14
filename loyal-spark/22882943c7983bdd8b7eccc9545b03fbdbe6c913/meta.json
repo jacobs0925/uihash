@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "22882943c7983bdd8b7eccc9545b03fbdbe6c913",
+ "parent": "94df6737c381f317763f62e3f3c5f36156e849eb",
+ "date": "2025-10-17",
+ "subject": "Fix: Buyer token display issue",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx",
+  "src/hooks/useMultiTokenBalance.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 46820
+}

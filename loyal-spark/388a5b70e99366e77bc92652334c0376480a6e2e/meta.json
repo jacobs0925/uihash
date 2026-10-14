@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "388a5b70e99366e77bc92652334c0376480a6e2e",
+ "parent": "f7541f90633c26b9df30362a1cf4115aeaca635f",
+ "date": "2025-10-17",
+ "subject": "Fix loyalty programs unavailable message",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 44846
+}

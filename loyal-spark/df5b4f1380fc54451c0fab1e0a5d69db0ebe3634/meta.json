@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "df5b4f1380fc54451c0fab1e0a5d69db0ebe3634",
+ "parent": "03dd961bf9746d4a6d45d3fddd9b8d51b087b714",
+ "date": "2025-10-21",
+ "subject": "Fix: Loyalty program reappears after token top-up",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/components/MerchantPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56299
+}

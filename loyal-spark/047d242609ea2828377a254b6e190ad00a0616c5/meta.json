@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "047d242609ea2828377a254b6e190ad00a0616c5",
+ "parent": "147de76e03b0f40dddbbd5f5890715e336c03854",
+ "date": "2025-10-21",
+ "subject": "Fix: Customer view not showing inactive programs/tokens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51655
+}

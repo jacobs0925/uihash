@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "df4aacdf8f1ffe0fff584d7cd4bad9dc27f23450",
+ "parent": "8f067505ccc7bf0ff0892e87beb437511646e28e",
+ "date": "2025-10-19",
+ "subject": "Fix customer overflow and approve button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/components/rewards/VoucherCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47699
+}

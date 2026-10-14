@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "94969d860cf54c2f6803a630215f984429b65e74",
+ "parent": "82c715a1cdd8f1505d4fe2df604ac67874acfaf9",
+ "date": "2025-10-19",
+ "subject": "feat: Add filtering and sorting to issued tokens history",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 55991
+}

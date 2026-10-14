@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3dc4646c349d47e26e972cbd593d574ea163864c",
+ "parent": "5d6d05e2fd7c6bcccf888f438511430b9eb0e12b",
+ "date": "2025-10-21",
+ "subject": "Fix inactive reward status",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/lib/vouchers.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51256
+}

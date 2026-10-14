@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "8f067505ccc7bf0ff0892e87beb437511646e28e",
+ "parent": "d49a8022d3ea592835f9551acd5e7b875eef1e35",
+ "date": "2025-10-19",
+ "subject": "Fix merchant history display and add total tokens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/IssuedTokensHistory.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48107
+}

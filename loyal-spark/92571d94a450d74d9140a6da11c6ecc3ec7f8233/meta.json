@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "92571d94a450d74d9140a6da11c6ecc3ec7f8233",
+ "parent": "66e10b0ab811e694481c7af161a4e01f4bff542b",
+ "date": "2025-10-21",
+ "subject": "Fix: Customer portal not displaying",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx",
+  "src/components/TokenListItem.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 50902
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ee5a6f573ab360c99a2c8222dd591909e16ad380",
+ "parent": "90e8461942b1158a162b9d492b7e8343621de00f",
+ "date": "2025-10-21",
+ "subject": "Refactor program control buttons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/ProgramControlButtons.tsx",
+  "src/components/ProgramStatusBadge.tsx",
+  "src/hooks/useToggleProgramStatus.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51068
+}

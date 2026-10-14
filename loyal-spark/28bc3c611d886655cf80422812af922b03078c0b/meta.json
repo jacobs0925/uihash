@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "28bc3c611d886655cf80422812af922b03078c0b",
+ "parent": "ca5cc404fb95ff82170ca7cbee0e4c4c14e980af",
+ "date": "2025-10-19",
+ "subject": "Fix: Migrate wallet profile on sign in",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251019210900_2b1db19e-4dc6-4f94-aa12-4ea3b0c74d43.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 52382
+}

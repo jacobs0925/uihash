@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a4f1b5ea9f7b1df06c3e340ba5d5c461cc420fc9",
+ "parent": "45e3cc0d327b8c5e21f243e9cd64eed9f6518c45",
+ "date": "2025-10-17",
+ "subject": "Fix: Loyalty programs not displayed",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 45091
+}

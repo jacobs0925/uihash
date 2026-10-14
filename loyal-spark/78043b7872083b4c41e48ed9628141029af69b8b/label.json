@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "78043b7872083b4c41e48ed9628141029af69b8b",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Fix: Add Connect Wallet button",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1133 later commits"
+}

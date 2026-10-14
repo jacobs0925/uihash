@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "8c399120fa6d858d3680dbe32c5ee2311e3b0b66",
+ "parent": "8027cb5bf17ec56997f50d0d6f1d06a1d5b1919e",
+ "date": "2025-10-21",
+ "subject": "Fix: Resolve CORS and network errors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/components/rewards/CreateReward.tsx",
+  "src/lib/vouchers.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51138
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b8432a56183102225a2c0135180208c80ea2ffc3",
+ "parent": "bd77e4dcbb1dac62ae552996c215f022a739458d",
+ "date": "2025-10-17",
+ "subject": "Fix: Prevent balance clearing on empty tokens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 45364
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "802c6d4410f9d822bb593a96ecb78b04b234e685",
+ "parent": "cf0027e946ff00602b852c6c994a7b33880f2630",
+ "date": "2025-10-19",
+ "subject": "Add loyalty program expiration",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx",
+  "supabase/migrations/20251019192043_85627066-c72f-4100-a54b-08fa255aca64.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48578
+}

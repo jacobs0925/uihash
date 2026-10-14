@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3948ff3813b907717ed1fb34b7c2d98b60443266",
+ "parent": "f629a02191f97077e35323dac3bf23bdb0f701df",
+ "date": "2025-10-19",
+ "subject": "Refactor token approval logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/hooks/useBurnAllTokens.ts",
+  "supabase/functions/get-token-holders/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 50515
+}

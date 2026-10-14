@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "11ca0b7af9ad5f948ab2112f72dde393cefe96b3",
+ "parent": "ecad4cf98bbea034d241729dc2f090f131fce0f7",
+ "date": "2025-10-22",
+ "subject": "Update email address and clarify app location",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "FARCASTER_APP_README.md",
+  "README.md",
+  "README_FARCASTER_RU.md",
+  "public/media-kit/PRESS-RELEASE.md",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 73744
+}

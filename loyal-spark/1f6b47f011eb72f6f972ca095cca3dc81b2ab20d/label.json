@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "1f6b47f011eb72f6f972ca095cca3dc81b2ab20d",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Fix: Real-time voucher updates for merchants",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1004 later commits"
+}

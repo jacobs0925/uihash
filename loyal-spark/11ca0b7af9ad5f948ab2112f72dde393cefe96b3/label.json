@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "11ca0b7af9ad5f948ab2112f72dde393cefe96b3",
+ "date": "2025-10-22",
+ "pr": null,
+ "title": "Update email address and clarify app location",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 925 later commits"
+}

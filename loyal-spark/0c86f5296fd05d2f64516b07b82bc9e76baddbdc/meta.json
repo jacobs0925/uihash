@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "0c86f5296fd05d2f64516b07b82bc9e76baddbdc",
+ "parent": "92571d94a450d74d9140a6da11c6ecc3ec7f8233",
+ "date": "2025-10-21",
+ "subject": "Fix: Customer token balance display issue",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/components/TokenList.tsx",
+  "src/hooks/useCheckProgramStatus.ts",
+  "src/hooks/useMultiTokenBalance.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 50298
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "29a7da068c79744a6a5b72f5eddb67a6f76b0e83",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Fix loyalty token display",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1005 later commits"
+}

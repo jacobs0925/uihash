@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "862d654d54986ebcdf60e881ce6a4b7c15074588",
+ "parent": "941622b403bbd49637016a78fd0ad9254f3be787",
+ "date": "2025-10-17",
+ "subject": "Fix: Correct event signature for log retrieval",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 45547
+}

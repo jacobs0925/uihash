@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b011013a09266845d181c217ffc3212572adc103",
+ "parent": "bab09e1842865ff717684b2cd662d7235df2e8ce",
+ "date": "2025-10-17",
+ "subject": "Revert design and remove rocket",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 18,
+ "ms": 67736
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "6cc2becbe6a8bb735a20657689eedb08cd4b7497",
+ "parent": "1f6b47f011eb72f6f972ca095cca3dc81b2ab20d",
+ "date": "2025-10-21",
+ "subject": "Add loyalty program token status",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx",
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 50859
+}

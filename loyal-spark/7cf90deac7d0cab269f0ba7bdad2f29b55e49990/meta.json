@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "7cf90deac7d0cab269f0ba7bdad2f29b55e49990",
+ "parent": "1006a37d4b48252e586e871fdb078a52593f2ee3",
+ "date": "2025-10-23",
+ "subject": "Clean up comments in data migration logic",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59350
+}

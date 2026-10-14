@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "81d3683073c1671e5021de1bb4545fbf0cdedfd4",
+ "parent": "8b6e1b0800f41d66812252290be8b9971d7e0011",
+ "date": "2025-10-21",
+ "subject": "Fix: Vouchers disappear for merchant",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/VouchersManagement.tsx",
+  "src/lib/vouchers.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54994
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "08bc3d01b8849b0bd8ae998ad1a484ab810ac360",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Refine color palette and contrast",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1136 later commits"
+}

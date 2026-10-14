@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "35c4e5ada484fe9543de5ea91e34ec556a6e969a",
+ "parent": "e71985d47d707ec91218917d0e2ea8aa0766519a",
+ "date": "2025-10-21",
+ "subject": "Refactor: Update contract logic and factory",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/hooks/useDeployLoyaltyToken.ts",
+  "src/hooks/useToggleProgramStatus.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 53816
+}

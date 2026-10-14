@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "168a74c84b9825ef8db821c18d0c92aeebb2c953",
+ "parent": "3375650db7ef85e581341ff1d8e96e5550354d7b",
+ "date": "2025-10-21",
+ "subject": "Fix voucher display delay",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/components/rewards/VouchersManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57286
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "24b6b2e51fea5c34e8897f945a75da6acc348a11",
+ "parent": "35c4e5ada484fe9543de5ea91e34ec556a6e969a",
+ "date": "2025-10-21",
+ "subject": "Add warning for program activation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 55793
+}

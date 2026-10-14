@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "90e8461942b1158a162b9d492b7e8343621de00f",
+ "parent": "a97e68c0b361b476bd23c75991a586a58108add7",
+ "date": "2025-10-21",
+ "subject": "Refactor program management",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/ProgramControlButtons.tsx",
+  "src/components/ProgramStatusBadge.tsx",
+  "src/hooks/useDeployLoyaltyToken.ts",
+  "src/hooks/useMintTokens.ts",
+  "src/hooks/useToggleProgramStatus.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 53307
+}

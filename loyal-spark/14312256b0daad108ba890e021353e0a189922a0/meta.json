@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "14312256b0daad108ba890e021353e0a189922a0",
+ "parent": "d2b3df6132ccd141d19747b58c78e94f50cccf16",
+ "date": "2025-10-21",
+ "subject": "Refactor: Add status to rewards and vouchers",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/rewards/CreateReward.tsx",
+  "src/components/rewards/MyVouchers.tsx",
+  "src/components/rewards/RewardsList.tsx",
+  "src/components/rewards/VouchersManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58173
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "46d83683bac60a58e165628fbbf937c088239b7f",
+ "date": "2025-10-22",
+ "pr": null,
+ "title": "Refactor pitch deck based on Airbnb",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 934 later commits"
+}

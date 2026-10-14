@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "137a75c6428f2bcffc4d1ccc103554951ce2a922",
+ "parent": "ff9d833e980109e8d19d20ef7a743d7be41cac23",
+ "date": "2025-10-17",
+ "subject": "Fix: Resolve \"Coins is not defined\" error",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52585
+}

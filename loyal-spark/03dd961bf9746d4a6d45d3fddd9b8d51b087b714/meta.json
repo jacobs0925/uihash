@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "03dd961bf9746d4a6d45d3fddd9b8d51b087b714",
+ "parent": "0cf466b1834185cad989fac6021dd15f7135f02b",
+ "date": "2025-10-21",
+ "subject": "Fix merchant voucher display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/VouchersManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56237
+}

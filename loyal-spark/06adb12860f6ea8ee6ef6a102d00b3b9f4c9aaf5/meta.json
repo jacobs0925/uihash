@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "06adb12860f6ea8ee6ef6a102d00b3b9f4c9aaf5",
+ "parent": "d16da8086ceaf0f60006f432278a1e909268b85e",
+ "date": "2025-10-21",
+ "subject": "Fix program expiration logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProgramStatusBadge.tsx",
+  "supabase/EXPIRATION_SETUP.md",
+  "supabase/functions/check-program-expiration/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51055
+}

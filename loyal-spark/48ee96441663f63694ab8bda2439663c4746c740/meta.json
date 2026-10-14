@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "48ee96441663f63694ab8bda2439663c4746c740",
+ "parent": "81fc040bf78c0bd1e616147f0755328b1db66c39",
+ "date": "2025-10-21",
+ "subject": "Fix loyalty program deletion button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/ProgramStatusBadge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 52830
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "9c411f945eb73d64e43b2d893d42a9ef22274bb4",
+ "parent": "862d654d54986ebcdf60e881ce6a4b7c15074588",
+ "date": "2025-10-17",
+ "subject": "Fix: Improve RPC endpoint and error handling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 45523
+}

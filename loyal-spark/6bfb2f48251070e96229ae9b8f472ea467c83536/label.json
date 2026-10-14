@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "6bfb2f48251070e96229ae9b8f472ea467c83536",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Add search to Issued Tokens History",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 968 later commits"
+}

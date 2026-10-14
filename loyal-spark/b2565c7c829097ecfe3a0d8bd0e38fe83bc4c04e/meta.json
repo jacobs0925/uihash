@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b2565c7c829097ecfe3a0d8bd0e38fe83bc4c04e",
+ "parent": "849cda6e70d75d8aa0b852f2c0f08bfe493edfdc",
+ "date": "2025-10-17",
+ "subject": "Fix: Correct loyalty program status and selection",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreateLoyaltyProgram.tsx",
+  "src/components/CreatedPrograms.tsx",
+  "src/hooks/useDeployLoyaltyToken.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 46195
+}

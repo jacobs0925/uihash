@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e71985d47d707ec91218917d0e2ea8aa0766519a",
+ "parent": "ee5a6f573ab360c99a2c8222dd591909e16ad380",
+ "date": "2025-10-21",
+ "subject": "Fix program status and tooltips",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProgramControlButtons.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51274
+}

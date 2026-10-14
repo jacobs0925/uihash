@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "81c30af571e988011de6593e3ba1b8ebed585fca",
+ "parent": "662a29681883511b5f37e2b4529bdd4665ea5211",
+ "date": "2025-10-19",
+ "subject": "Fix: Display merchant and customer token balances",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/IssuedTokensHistory.tsx",
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 55747
+}

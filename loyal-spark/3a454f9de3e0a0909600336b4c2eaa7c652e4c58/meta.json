@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3a454f9de3e0a0909600336b4c2eaa7c652e4c58",
+ "parent": "96e89e09d2a1098d0b459ad17d9a27b9e1d48805",
+ "date": "2025-10-17",
+ "subject": "Fix minting freeze and token display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/components/TokenList.tsx",
+  "src/hooks/useMintTokens.ts",
+  "src/hooks/useMultiTokenBalance.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 45857
+}

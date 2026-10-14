@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "deab03ce1ed6259c0667fa4627546b7099ec03dc",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Add pitch deck folder",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 938 later commits"
+}

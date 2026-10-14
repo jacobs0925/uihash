@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "45e3cc0d327b8c5e21f243e9cd64eed9f6518c45",
+ "parent": "9e1ad3f63ae039d984a84b6ba3a825951800cae7",
+ "date": "2025-10-17",
+ "subject": "Fix: Customer rewards tab not updating",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 44787
+}

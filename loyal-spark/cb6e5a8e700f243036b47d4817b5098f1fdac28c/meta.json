@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "cb6e5a8e700f243036b47d4817b5098f1fdac28c",
+ "parent": "73453b62f96d4673a5106ae7a4db3bfd18a25526",
+ "date": "2025-10-19",
+ "subject": "Fix voucher status synchronization",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/MyVouchers.tsx",
+  "supabase/migrations/20251019190530_fffa34d6-55d0-4afe-96bc-bab9c307f7d6.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47754
+}

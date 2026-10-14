@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "fbfb49617870592bb1b64df95f1afe71080f3956",
+ "parent": "08375c2d5cf88bea730dc58c136b315f440bfc6a",
+ "date": "2025-10-21",
+ "subject": "Refactor customer loyalty programs tab",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51440
+}

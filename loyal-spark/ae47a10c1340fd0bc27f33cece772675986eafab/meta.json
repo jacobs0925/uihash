@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ae47a10c1340fd0bc27f33cece772675986eafab",
+ "parent": "67423ee3202f62c46b62fb9809ee2e98924425d0",
+ "date": "2025-10-23",
+ "subject": "Update Farcaster splash screen and links",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FarcasterSplash.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55589
+}

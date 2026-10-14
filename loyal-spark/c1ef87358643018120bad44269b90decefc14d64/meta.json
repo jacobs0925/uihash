@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "c1ef87358643018120bad44269b90decefc14d64",
+ "parent": "3cdf0de278c1a70cbbd3e056d75137f06557b17f",
+ "date": "2025-10-21",
+ "subject": "Fix: Loyalty program status not updating",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 50889
+}

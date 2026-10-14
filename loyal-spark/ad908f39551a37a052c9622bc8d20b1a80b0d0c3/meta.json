@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ad908f39551a37a052c9622bc8d20b1a80b0d0c3",
+ "parent": "c0f6e973a5e499ee6fd6fa3e3d6aa01264d64b22",
+ "date": "2025-10-21",
+ "subject": "Fix profile creation verification",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 50847
+}

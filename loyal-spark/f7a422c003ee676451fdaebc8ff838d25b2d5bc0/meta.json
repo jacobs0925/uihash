@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "f7a422c003ee676451fdaebc8ff838d25b2d5bc0",
+ "parent": "a333dee4f91a7e56e69ca74a0be4addb26846438",
+ "date": "2025-10-19",
+ "subject": "Filter expired tokens from balances",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47738
+}

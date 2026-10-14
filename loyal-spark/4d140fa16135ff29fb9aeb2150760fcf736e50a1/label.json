@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "4d140fa16135ff29fb9aeb2150760fcf736e50a1",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Refine tab styling",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1142 later commits"
+}

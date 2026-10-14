@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "6f3da28c32f3fc75cf463b06be181585a754cdf2",
+ "parent": "43ce2f1d126baa507e0ddeddaa569ce2bf80b2d3",
+ "date": "2025-10-19",
+ "subject": "Fix: Display active vouchers in second browser",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/rewards/VouchersManagement.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 52854
+}

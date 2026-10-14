@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ddea26affb6b6868dc0878efc3b308eeaa5e32ae",
+ "parent": "fbfb49617870592bb1b64df95f1afe71080f3956",
+ "date": "2025-10-21",
+ "subject": "Fix: Resolve loyalty program deployment failure",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/CreateLoyaltyProgram.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 50497
+}

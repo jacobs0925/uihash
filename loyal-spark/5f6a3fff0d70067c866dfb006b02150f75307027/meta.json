@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5f6a3fff0d70067c866dfb006b02150f75307027",
+ "parent": "f40c822071e6dc7c805e9f38d43a7a4e0fe81e94",
+ "date": "2025-10-19",
+ "subject": "Fix: Add delay for voucher loading",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 49410
+}

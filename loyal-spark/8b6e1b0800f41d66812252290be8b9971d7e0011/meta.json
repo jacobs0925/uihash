@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "8b6e1b0800f41d66812252290be8b9971d7e0011",
+ "parent": "b86be184045d5dad7ff1182440a60ec9e71ddbcd",
+ "date": "2025-10-21",
+ "subject": "Add scroll to active vouchers",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/VouchersManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51621
+}

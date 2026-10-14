@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "bab09e1842865ff717684b2cd662d7235df2e8ce",
+ "parent": "8a1b8b6ae42ef2fc0d375987640687098c277c70",
+ "date": "2025-10-17",
+ "subject": "Refine UI design",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/index.css",
+  "src/pages/CustomerPage.tsx",
+  "src/pages/Index.tsx",
+  "src/pages/MerchantPage.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 70,
+ "ms": 90227
+}

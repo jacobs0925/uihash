@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "479cdd20183264509299d618fa82d4525967bd6f",
+ "parent": "fad9803fc7e6d96c654af5d7fa8080e10beda575",
+ "date": "2025-10-22",
+ "subject": "Refactor Farcaster and web app launch",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/FarcasterSplash.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 68702
+}

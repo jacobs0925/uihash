@@ -9,7 +9,8 @@ const R = require('./repos.json');
 const [name, dir] = process.argv.slice(2);
 const since = process.argv.includes('--since') ? process.argv[process.argv.indexOf('--since') + 1] : '2025-10-01';
 const r = R[name];
-const from = [since, r && r.since].filter(Boolean).sort().pop();   // a recipe's own "since" wins when later, as in walk.js
+// a recipe's own "since" wins when later, as in walk.js; a bare date is midnight UTC, as there
+const from = [since, r && r.since].filter(Boolean).sort().pop().replace(/^(\d{4}-\d{2}-\d{2})$/, '$1T00:00:00Z');
 if (!r || !dir) { console.error('usage: node learn/public/check-recipe.js <repo name> <clone> [--since date]'); process.exit(2); }
 const git = (...a) => execFileSync('git', ['-C', dir, ...a], { encoding: 'utf8', maxBuffer: 1 << 28, stdio: ['ignore', 'pipe', 'pipe'] });
 const ref = `origin/${r.branch}`;

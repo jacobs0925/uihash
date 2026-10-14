@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "275315e4ec68094b5c8f19adca3c0269cf30d5d6",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Adjust seven-seg SVG height",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 476 later commits"
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4fa4a5e85d8f8f9529bc656a0155826982189a29",
+ "parent": "2da052f9f44aa279b4759b1f5322961839fa4c66",
+ "date": "2025-10-24",
+ "subject": "Add diagnosis feature",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/BodyMapSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 123986
+}

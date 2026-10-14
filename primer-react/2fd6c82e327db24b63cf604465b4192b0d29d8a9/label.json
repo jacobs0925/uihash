@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "2fd6c82e327db24b63cf604465b4192b0d29d8a9",
+ "date": "2025-10-16",
+ "pr": "7017",
+ "title": "Update `Token` close button sizing (#7017)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "81 visual-test baselines updated"
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "el400",
+ "sha": "9bea7d4dba184974c086efccd7857e4ba5af9213",
+ "parent": "7a0963098a1e51b934a52044f9dedb3134860f37",
+ "date": "2025-12-07",
+ "subject": "Reposition function buttons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx",
+  "src/components/FunctionButtons.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 5,
+ "ms": 81028
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "a3765c2e6c7d23972cdeeb8e206d802678f0d832",
+ "date": "2025-10-14",
+ "pr": "6984",
+ "title": "Vertically center Pagination prev/next chevron icons (#6984)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "20 visual-test baselines updated"
+}

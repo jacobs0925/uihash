@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "8641c7a778f88c9f65fa1f3d2c40994468651ae7",
+ "date": "2025-10-07",
+ "pr": "6935",
+ "title": "[Action Bar] Fix warning with menu items (#6935)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "10 visual-test baselines updated"
+}

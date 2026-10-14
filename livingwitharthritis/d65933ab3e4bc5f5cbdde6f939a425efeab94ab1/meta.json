@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "d65933ab3e4bc5f5cbdde6f939a425efeab94ab1",
+ "parent": "885842232068e2112c296f1d390bbde2c7c4444a",
+ "date": "2025-12-15",
+ "subject": "Remove hero background video",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 106168
+}

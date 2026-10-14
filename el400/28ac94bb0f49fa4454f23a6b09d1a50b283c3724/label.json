@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "28ac94bb0f49fa4454f23a6b09d1a50b283c3724",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Widen secondary buttons area",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 542 later commits"
+}

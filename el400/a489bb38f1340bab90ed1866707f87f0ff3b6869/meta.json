@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "a489bb38f1340bab90ed1866707f87f0ff3b6869",
+ "parent": "e934876dfe7118f5318fb2c63e3a28b1c98a63cd",
+ "date": "2025-12-08",
+ "subject": "Reverted to commit 7e8c2438df66abcf88c4bd3470fae3f1a0b8f3d7",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/BrandLogo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 73783
+}

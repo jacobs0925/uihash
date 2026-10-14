@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "8ce9aa965c40568979c0d730ce5514212325a4fd",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Reverted to commit c263013c956f1e59b47095b930c2223a6700ef87",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: block → flex undone by b63bef8b \"Add top/bottom bezels\"; display: block → flex undone by b63bef8b \"Add top/bottom bezels\"; display: block → flex undone by b63bef8b \"Add top/bottom bezels\""
+}

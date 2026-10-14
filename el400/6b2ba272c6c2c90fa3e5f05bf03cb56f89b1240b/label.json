@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "6b2ba272c6c2c90fa3e5f05bf03cb56f89b1240b",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Reverted to commit 95e299dab98efde008b56ed68a613668bdc424da",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "height: 96px → 80px undone by b4ae80a1 \"Increase seven-seg height\"; height: 96px → 80px undone by b4ae80a1 \"Increase seven-seg height\"; height: 96px → 80px undone by b4ae80a1 \"Increase seven-seg height\""
+}

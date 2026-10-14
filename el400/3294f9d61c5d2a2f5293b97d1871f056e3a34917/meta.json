@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "3294f9d61c5d2a2f5293b97d1871f056e3a34917",
+ "parent": "86ab546d2466bcd4d674d91ed48f8fdb147c1dc0",
+ "date": "2025-12-07",
+ "subject": "Make middle 7-seg G hexagonal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SevenSegmentDigit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 56289
+}

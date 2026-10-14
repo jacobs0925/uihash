@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "be725934d1cb129b40a801387b327219e1a5cfb3",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Center housing edge logo",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 90a0a78c, which restored fdae262e (5 commits discarded)"
+}

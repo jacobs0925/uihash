@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "87aafdfaa12a335dc8f07a90357ee874da960bc3",
+ "parent": "bb95354c4d3088b65e3083d9f5182a2149f6b028",
+ "date": "2025-12-07",
+ "subject": "Reverted to commit c263013c956f1e59b47095b930c2223a6700ef87",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 7,
+ "ms": 88348
+}

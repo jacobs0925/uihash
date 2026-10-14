@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "4fa4a5e85d8f8f9529bc656a0155826982189a29",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Add diagnosis feature",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2033 later commits"
+}

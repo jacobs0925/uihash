@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "487e9abb6df7e03d856a4f88e40d33547e39f7cd",
+ "parent": "0abbec7e57c75e69547fd5b6712eb3225e92d76a",
+ "date": "2025-12-08",
+ "subject": "adjust brandlogo offset",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HousingEdge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 81107
+}

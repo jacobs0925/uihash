@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "d9a0b9aca490173f7bed21f0ee228d4c8167b7be",
+ "parent": "3294f9d61c5d2a2f5293b97d1871f056e3a34917",
+ "date": "2025-12-07",
+ "subject": "Adjust keypad ent button width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NumericKeypad.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 92000
+}

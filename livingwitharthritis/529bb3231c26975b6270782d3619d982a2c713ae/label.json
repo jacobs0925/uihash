@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "529bb3231c26975b6270782d3619d982a2c713ae",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Revert font size changes",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "font-size: 24px → 36px undone by 8f90777b \"Refactor: Decrease font size\"; line-height: 32px → 40px undone by 8f90777b \"Refactor: Decrease font size\"; font-size: 16px → 18px undone by 8f90777b \"Refactor: Decrease font size\""
+}

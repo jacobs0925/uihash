@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "11662e895fc9554d005806e44a2a2adbe84bece4",
+ "parent": "9994e43da5619eb354fd93308a253c110a82c50b",
+ "date": "2025-12-08",
+ "subject": "Fix DisplayPanel spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DisplayPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 59066
+}

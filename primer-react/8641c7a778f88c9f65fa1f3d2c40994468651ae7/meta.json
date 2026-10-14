@@ -1,0 +1,45 @@
+{
+ "repo": "primer-react",
+ "sha": "8641c7a778f88c9f65fa1f3d2c40994468651ae7",
+ "parent": "c395547ae30bb51ea40388183f384848a397dc80",
+ "date": "2025-10-07",
+ "subject": "[Action Bar] Fix warning with menu items (#6935)",
+ "pr": "6935",
+ "components": [
+  "ActionBar"
+ ],
+ "files": [
+  ".changeset/smart-hornets-happen.md",
+  ".playwright/snapshots/components/IconButton.test.ts-snapshots/IconButton-Keybinding-Hint-light-tritanopia-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-dark-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-light-colorblind-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-light-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-light-tritanopia-linux.png",
+  "e2e/components/drafts/ActionBar.test.ts",
+  "packages/react/src/ActionBar/ActionBar.examples.stories.module.css",
+  "packages/react/src/ActionBar/ActionBar.examples.stories.tsx",
+  "packages/react/src/ActionBar/ActionBar.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/IconButton.test.ts-snapshots/IconButton-Keybinding-Hint-light-tritanopia-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-dark-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-light-colorblind-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-light-linux.png",
+  ".playwright/snapshots/components/drafts/ActionBar.test.ts-snapshots/drafts-ActionBar-CommentBox-light-tritanopia-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': patch\n---\n\nFix overflow calculations of more menu button in action bar\n",
+ "recipe": 1,
+ "stories": 27,
+ "findings": 6,
+ "ms": 712596
+}

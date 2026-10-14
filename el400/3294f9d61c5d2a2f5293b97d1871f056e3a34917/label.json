@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "3294f9d61c5d2a2f5293b97d1871f056e3a34917",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Make middle 7-seg G hexagonal",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 616 later commits"
+}

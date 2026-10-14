@@ -1,0 +1,22 @@
+{
+ "repo": "el400",
+ "sha": "c097b110a2db5f36432636894d01975c8d8bf1e5",
+ "parent": "cc9064aea53be03e3b49f97430fa67999e1fb735",
+ "date": "2025-12-12",
+ "subject": "Remove redundant alt prop from Icon component",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Icon.tsx",
+  "src/components/NumericKeypad.tsx",
+  "src/components/PrimaryFunctionSection.tsx",
+  "src/components/SecondaryFunctionSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 118072
+}

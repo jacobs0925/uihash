@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "87ea6d0b24d5711125fa1766b8d6f0d6e0b90769",
+ "date": "2025-11-06",
+ "pr": null,
+ "title": "Update arthritis type descriptions",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2012 later commits"
+}

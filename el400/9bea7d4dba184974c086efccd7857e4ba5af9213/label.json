@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "9bea7d4dba184974c086efccd7857e4ba5af9213",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Reposition function buttons",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "row-gap: normal → 8px undone by a3c3c4e1 \"Refactor indicator layout\"; column-gap: normal → 8px undone by a3c3c4e1 \"Refactor indicator layout\"; row-gap: normal → 8px undone by a3c3c4e1 \"Refactor indicator layout\""
+}

@@ -1,0 +1,27 @@
+{
+ "repo": "el400",
+ "sha": "811a7ce783997331e5ccf7e146998aba082aa37c",
+ "parent": "01e3f1f6ea137e93fd2e78a9f803f4a6dfc85548",
+ "date": "2025-12-14",
+ "subject": "fix: address power-on review comments",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/01-foundation/US-001-first-use.spec.ts",
+  "e2e/helpers/dro-page.ts",
+  "power-on-message.png",
+  "src/components/AxisDisplaySection.tsx",
+  "src/components/EL400Simulator.power-on.test.tsx",
+  "src/components/EL400Simulator.tsx",
+  "src/lib/patterns.ts",
+  "src/tests/helpers/integration-test-utils.tsx",
+  "src/tests/helpers/test-constants.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 95268
+}

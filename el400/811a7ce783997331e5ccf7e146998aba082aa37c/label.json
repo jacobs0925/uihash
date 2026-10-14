@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "811a7ce783997331e5ccf7e146998aba082aa37c",
+ "date": "2025-12-14",
+ "pr": null,
+ "title": "fix: address power-on review comments",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "user-select: none → ∅ undone by 6935fa9e \"Refactor state machine into feature-based modules\"; color: rgb(26, 26, 26) → ∅ undone by 6935fa9e \"Refactor state machine into feature-based modules\"; font-family: Orbitron, sans-serif → ∅ undone by 6935fa9e \"Refactor state machine into feature-based modules\""
+}

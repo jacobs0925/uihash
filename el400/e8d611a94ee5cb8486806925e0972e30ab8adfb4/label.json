@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "e8d611a94ee5cb8486806925e0972e30ab8adfb4",
+ "date": "2025-12-07",
+ "pr": null,
+ "title": "Align buttons to digits width",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "width: auto → 100% undone by ed84206e \"Reverted to commit 5f13700d1bfe5df85e2358b4ed1b8370f41b5970\"; width: auto → 100% undone by ed84206e \"Reverted to commit 5f13700d1bfe5df85e2358b4ed1b8370f41b5970\"; width: auto → 100% undone by ed84206e \"Reverted to commit 5f13700d1bfe5df85e2358b4ed1b8370f41b5970\""
+}

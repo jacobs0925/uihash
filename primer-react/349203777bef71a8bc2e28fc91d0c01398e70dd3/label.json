@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "349203777bef71a8bc2e28fc91d0c01398e70dd3",
+ "date": "2025-10-09",
+ "pr": "6972",
+ "title": "Add missing CSS for `KeybindingHint` (#6972)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "72 visual-test baselines updated"
+}

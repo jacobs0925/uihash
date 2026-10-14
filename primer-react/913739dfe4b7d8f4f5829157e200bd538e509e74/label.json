@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "913739dfe4b7d8f4f5829157e200bd538e509e74",
+ "date": "2025-10-01",
+ "pr": "6927",
+ "title": "Adjust text-decoration-offset for Link component (#6927)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "27 visual-test baselines updated"
+}

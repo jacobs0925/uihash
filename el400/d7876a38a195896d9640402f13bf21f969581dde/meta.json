@@ -1,0 +1,30 @@
+{
+ "repo": "el400",
+ "sha": "d7876a38a195896d9640402f13bf21f969581dde",
+ "parent": "ea1291df182259ef4cc215084a78182198efcaa5",
+ "date": "2026-05-31",
+ "subject": "feat(US-009): SDM Learn Mode (#220)",
+ "pr": "220",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "e2e/03-data-management/US-009-sdm-learn.spec.ts",
+  "project/user-stories/03-data-management/US-009-sdm-learn.md",
+  "src/components/MultiAxisSection.tsx",
+  "src/components/SecondaryFunctionSection.tsx",
+  "src/stores/dro/droStateMachine.ts",
+  "src/stores/dro/features/idle.ts",
+  "src/stores/dro/features/sdm.integration.test.tsx",
+  "src/stores/dro/features/sdm.test.ts",
+  "src/stores/dro/features/sdm.ts",
+  "src/stores/dro/index.ts",
+  "src/stores/dro/reducer.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 51031
+}

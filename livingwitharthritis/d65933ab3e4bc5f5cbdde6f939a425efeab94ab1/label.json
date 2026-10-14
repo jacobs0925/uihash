@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "d65933ab3e4bc5f5cbdde6f939a425efeab94ab1",
+ "date": "2025-12-15",
+ "pr": null,
+ "title": "Remove hero background video",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-image: ∅ → linear-gradient(135deg, rgb(76, 174, 79), rgb(110, 191, 112)) undone by d07f6aa2 \"Premium landing redesign 1080p\"; background-size: ∅ → auto undone by d07f6aa2 \"Premium landing redesign 1080p\"; width: auto → 100% undone by d07f6aa2 \"Premium landing redesign 1080p\""
+}

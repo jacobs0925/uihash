@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "11662e895fc9554d005806e44a2a2adbe84bece4",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Fix DisplayPanel spacing",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by a9e84134, which restored 25021431 (2 commits discarded)"
+}

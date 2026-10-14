@@ -1,0 +1,12 @@
+{
+ "app": "el400",
+ "group": "el400",
+ "sha": "d7876a38a195896d9640402f13bf21f969581dde",
+ "date": "2026-05-31",
+ "pr": "220",
+ "title": "feat(US-009): SDM Learn Mode (#220)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 61 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "el400",
+ "sha": "e8d611a94ee5cb8486806925e0972e30ab8adfb4",
+ "parent": "da9f224196af7e1d7cbf74a6bf56172d921e9a8a",
+ "date": "2025-12-07",
+ "subject": "Align buttons to digits width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/EL400Simulator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 63068
+}

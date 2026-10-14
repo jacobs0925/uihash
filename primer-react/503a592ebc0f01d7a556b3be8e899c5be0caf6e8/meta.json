@@ -1,0 +1,33 @@
+{
+ "repo": "primer-react",
+ "sha": "503a592ebc0f01d7a556b3be8e899c5be0caf6e8",
+ "parent": "24f4a41c8b79f45ecf8e3d819be6d56a5e80ac46",
+ "date": "2025-10-03",
+ "subject": "revert: Remove support for sx from FormControl component (#6681) (#6939)",
+ "pr": "6939",
+ "components": [
+  "FormControl"
+ ],
+ "files": [
+  ".changeset/grumpy-lobsters-obey.md",
+  "packages/react/src/FormControl/FormControl.docs.json",
+  "packages/react/src/FormControl/FormControl.tsx",
+  "packages/react/src/FormControl/FormControlCaption.tsx",
+  "packages/react/src/FormControl/FormControlLabel.tsx",
+  "packages/react/src/FormControl/FormControlLeadingVisual.module.css",
+  "packages/react/src/FormControl/FormControlLeadingVisual.tsx",
+  "packages/react/src/FormControl/index.ts",
+  "packages/react/src/__tests__/__snapshots__/exports.test.ts.snap",
+  "packages/react/src/experimental/SelectPanel2/SelectPanel.examples.stories.module.css",
+  "packages/react/src/experimental/SelectPanel2/SelectPanel.examples.stories.tsx",
+  "packages/react/src/index.ts",
+  "packages/styled-react/src/components/FormControl.tsx",
+  "packages/styled-react/src/index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 51,
+ "findings": 3,
+ "ms": 688813
+}

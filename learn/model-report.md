@@ -1,13 +1,68 @@
-# Triage model report (variant: all)
+# Triage model report (variant: local)
 
-Training rows: 4243 findings of 1718 PRs; evaluation rows: 0 findings of 0 PRs.
+Training rows: 5330 findings of 758 PRs; evaluation rows: 1153 findings of 211 PRs.
 
 ## Cross-validation on the training data (whole groups held out: unseen operators or apps)
 
-- logistic: PR-level AUROC 0.912 over 1427 single-change PRs (the rules as a 0/1 score: 0.764); finding-level AUROC 0.878
-- trees: PR-level AUROC 0.912 over 1427 single-change PRs (the rules as a 0/1 score: 0.764); finding-level AUROC 0.893
+- logistic: PR-level AUROC 0.719 over 583 single-change PRs (the rules as a 0/1 score: 0.318); finding-level AUROC 0.690
+- trees: PR-level AUROC 0.740 over 583 single-change PRs (the rules as a 0/1 score: 0.318); finding-level AUROC 0.717
+
+## Evaluation PRs (never fitted)
+
+### logistic
+
+thresholds from the training data: flag ≥ 0.835, obvious ≥ 0.999
+
+| set | good outcome | rules | model | rules or model |
+|---|---|---|---|---|
+| 44 regressions | a finding flagged | 16 | 26 | 35 |
+| 123 deliberate changes | nothing flagged | 22 | 110 | 20 |
+| 44 mixed PRs | mistake side flagged | 1 | 34 | 35 |
+| 44 mixed PRs | deliberate side not flagged | 4 | 34 | 3 |
+
+PR-level AUROC, regressions vs deliberate changes: **0.817**
+
+At the rules' false-alarm rate on the deliberate changes (101 of 123; threshold read off the evaluation set, so for comparison only): 44 of 44 regressions flagged (rules: 16).
+### trees
+
+thresholds from the training data: flag ≥ 0.531, obvious ≥ 0.999
+
+| set | good outcome | rules | model | rules or model |
+|---|---|---|---|---|
+| 44 regressions | a finding flagged | 16 | 30 | 39 |
+| 123 deliberate changes | nothing flagged | 22 | 103 | 15 |
+| 44 mixed PRs | mistake side flagged | 1 | 39 | 40 |
+| 44 mixed PRs | deliberate side not flagged | 4 | 33 | 3 |
+
+PR-level AUROC, regressions vs deliberate changes: **0.843**
+
+At the rules' false-alarm rate on the deliberate changes (101 of 123; threshold read off the evaluation set, so for comparison only): 44 of 44 regressions flagged (rules: 16).
+## Two-phase: model + a head fitted on the evaluation PRs of the other apps (leave one app out)
+
+### logistic + head
+
+| set | good outcome | rules | two-phase | rules or two-phase |
+|---|---|---|---|---|
+| 44 regressions | a finding flagged | 16 | 26 | 35 |
+| 123 deliberate changes | nothing flagged | 22 | 112 | 20 |
+| 44 mixed PRs | mistake side flagged | 1 | 32 | 33 |
+| 44 mixed PRs | deliberate side not flagged | 4 | 37 | 3 |
+
+PR-level AUROC, regressions vs deliberate changes: **0.805**
+
+### trees + head
+
+| set | good outcome | rules | two-phase | rules or two-phase |
+|---|---|---|---|---|
+| 44 regressions | a finding flagged | 16 | 30 | 39 |
+| 123 deliberate changes | nothing flagged | 22 | 106 | 15 |
+| 44 mixed PRs | mistake side flagged | 1 | 36 | 37 |
+| 44 mixed PRs | deliberate side not flagged | 4 | 35 | 3 |
+
+PR-level AUROC, regressions vs deliberate changes: **0.814**
+
 ## Strongest features (logistic model, standardized weights)
 
-`triage=yours` -1.86, `contrast_after` -1.85, `triage=check` +1.63, `dE` +1.48, `edit_shared_log` +1.41, `value_removed` +1.32, `pr_hot_share` +1.27, `prop=display` +1.19, `contrast_before` +1.18, `rel_size` +1.16, `text_typo_like` +1.06, `reach=token` -0.90, `reach=inside` +0.88, `triage=token` -0.85, `prop=position` +0.83, `text_numbers_only` +0.79, `pr_types` -0.73, `text_change` -0.70, `broken_value` +0.69, `triage=breaks` +0.67, `reach=elsewhere` -0.66, `prop=radius` -0.50, `struct=removed_child` +0.48, `type=loss` +0.47, `warning` -0.47, `forced_state` +0.47, `type=focus` +0.47, `kind=layout: text now truncated` -0.45, `kind=only some instances changed` -0.45, `type=drift` -0.43
+`contrast_after` -0.66, `prop=type` +0.47, `edit_shared_log` +0.46, `prop=size` +0.45, `prop=position` +0.44, `value_added` +0.43, `cause=all` -0.39, `kind=text contrast` +0.38, `type=contrast` +0.38, `reach=token` -0.38, `cause=none` +0.34, `struct=removed` -0.34, `type=focus` -0.33, `prop=spacing` +0.32, `contrast_before` -0.31, `prop=shadow` +0.31, `places_log` -0.29, `attr=@y` +0.28, `kind=layout: content now cut off` -0.26, `reach=inside` -0.25, `prop=border` +0.24, `attr=@height` -0.24, `triage=yours` -0.21, `prop=flex` +0.21, `reach=elsewhere` -0.20, `struct=added` -0.19, `triage=check` +0.18, `text_case_only` -0.18, `text_numbers_only` -0.18, `beats_important` +0.17
 
-Wrote the trees model to data/final/trees-all.json
+Wrote the logistic model to /home/runner/work/_temp/model.next/logistic-local.json; best on the evaluation PRs: trees (AUROC 0.843)

@@ -475,7 +475,8 @@ iterative tuning rather than regressions, so only restores give labels.
   content change as well as its style change, as with stories, and `meta.files` lists the pages it edited.
   Other fields Porsche needs:
   - `merges`: each merge commit is one PR. Its subject is the PR title, taken from the merge message.
-  - `lockfile` as a list: the first present counts, since Porsche moved from yarn to npm in April 2026.
+  - `lockfile` as a list, since Porsche moved from yarn to npm in April 2026. The walk reinstalls when
+    package.json or any of them changed.
   - `changelog`: the lines a PR added to a changelog file are its changeset text.
 
   An app gives `pages.routes`, the routes checked at every commit, and `pages.router`, the file whose
@@ -567,7 +568,7 @@ tail -f data/public/history.jsonl
 
 **Cost.** Per commit:
 
-- an install when the lockfile changed (50 s for Primer, 2.5 minutes for EUI);
+- an install when package.json or the lockfile changed (50 s for Primer, 2.5 minutes for EUI);
 - two narrowed builds (about a minute each for Primer, 4 for EUI);
 - the check (2–3 minutes).
 

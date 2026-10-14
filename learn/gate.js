@@ -6,8 +6,10 @@
 //      side): the candidate fails if the bootstrap 95 % interval of (candidate - current), resampling
 //      PRs, lies below 0;
 //   2. at each model's own flag threshold, combined with the rules as shipped (a finding is flagged when
-//      the rules or the model flag it): no set loses more than one PR on either side ("regression
-//      flagged", "deliberate left alone", and both sides of mixed PRs);
+//      the rules or the model flag it), no set loses more than its slack on either side: mistakes
+//      flagged (regressions, and the mistake side of mixed PRs) and intended changes left alone
+//      (deliberate PRs, and the deliberate side of mixed PRs). The slack is the larger of 1 and 5 % of
+//      the PRs that side counts, so a large set is not failed by a swing of two;
 //   3. --newest (the newest month, held out by time): its AUROC point estimate is not lower.
 // Exit code 0 when the candidate passes, 1 when it does not.
 const fs = require('fs');
@@ -80,8 +82,16 @@ function gate(rows, cur, cand, { newest = null, B = 1000 } = {}) {
       if (set === newest && aC < aA) why.push(`newest set: AUROC ${aC.toFixed(3)} < ${aA.toFixed(3)}`);
     }
     const ca = counts(A.values()), cc = counts(C.values());
-    const names = { reg: 'regressions flagged', dl: 'deliberate PRs left alone', mm: 'mixed: mistake side flagged', md: 'mixed: deliberate side left alone' };
-    for (const k of Object.keys(names)) if (ca[k] - cc[k] > 1) why.push(`${names[k]}: ${cc[k]} vs ${ca[k]}`);
+    const n = { regression: 0, deliberate: 0, mixed: 0 };
+    for (const v of A.values()) n[v.kind]++;
+    const sides = [
+      ['mistakes flagged', (c) => c.reg + c.mm, n.regression + n.mixed],
+      ['intended changes left alone', (c) => c.dl + c.md, n.deliberate + n.mixed],
+    ];
+    for (const [name, of, total] of sides) {
+      const slack = Math.max(1, Math.floor(0.05 * total));
+      if (of(ca) - of(cc) > slack) why.push(`${name}: ${of(cc)} vs ${of(ca)} of ${total} (at most ${slack} fewer)`);
+    }
     res.push({ set, prs: ids.length, aurocCurrent: aA, aurocCandidate: aC, lo, hi, current: ca, candidate: cc, pass: !why.length, why });
   }
   return { pass: res.length > 0 && res.every((x) => x.pass), sets: res };

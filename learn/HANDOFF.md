@@ -235,7 +235,7 @@ whole. Never mix evaluation PRs into a training set.
 | `intent.js` | the intent judge: a Claude call per PR that reads the PR text and calls each finding intended, unintended or unsure, with a quote (a weak labeler and a feature) |
 | `link-bugs.js` | bug reports back to the finding they name (the last PR to touch it before the report) |
 | `review.js` | the human queue and the weekly audit on the command line; the audit gives each label source's accuracy |
-| `gate.js` | the promotion gate: PR-clustered bootstrap AUROC per evaluation set, at most one PR lost per side |
+| `gate.js` | the promotion gate: PR-clustered bootstrap AUROC per evaluation set, mistakes flagged and intended changes left alone each within their slack |
 | `weekly.js` | the weekly retrain: three candidates, the best on the evaluation sets, the gate, a manifest, and with `--pr` a model PR |
 | `check-operator.js` | a new or changed operator against the acceptance bar; `--from <corpus>` audits every operator |
 | `test-*.js` | `npm run test:learn` (no browser) and `npm run test:demo-model` |
@@ -348,8 +348,14 @@ PRs feed new deliberate operators the same way.
 3. **Promotion gate.** The candidate replaces the current model only if:
    - its PR-level AUROC on every frozen set is at least the current model's, with bootstrap 95 %
      intervals clustered by PR;
-   - at the deployed threshold, no set loses more than one PR on either side ("regression flagged",
-     "deliberate left alone");
+   - at the deployed threshold, no set loses more than its slack on either side: mistakes flagged
+     (regressions, and the mistake side of mixed PRs) and intended changes left alone (deliberate PRs,
+     and the deliberate side of mixed PRs). The slack is the larger of 1 and 5 % of the PRs that side
+     counts. Regressions and mixed PRs count together because a mistake is a mistake: round 10's
+     candidate flagged 5 of el400's 12 held-out regressions where the current model flagged 2, and 3 of
+     its 8 mixed PRs' mistakes where the current model flagged 6, the same 8 in all, while leaving 11
+     intended changes alone instead of 8; the per-column rule (at most one PR fewer in each) kept a
+     model that ranks el400 worse than chance (AUROC 0.424 against 0.740);
    - the newest month is not worse.
 4. The trainer opens a PR with `model.json`, the report and the dataset manifest (which sets, how many
    PRs per source, label accuracy per source). **A person merges it.** Agents never merge, never change

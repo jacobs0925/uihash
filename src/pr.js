@@ -567,13 +567,55 @@ async function runPR({ baseUrl, headUrl, config, outDir, cacheDir, cacheKey, ima
       const { res, same, shift, pixSame } = checkTarget({ t, id, schema, ref, refPng, probe, snap: head.snap, png: head.png, cfg, results, log });
       results.push({ t, id, res, same, head, ref, refPng, shift, pixSame, schema, probe, status: res.pass ? 'same' : res.ok ? 'warnings' : 'changed' });
     }
+    // Rendering depends on timing (a forced :hover applied before the element mounted, a lazy chunk, a
+    // layout shift caught or not), on either side. A state that shows a change, or lost hover or focus
+    // feedback, is compared a second time: a new head render against the base's second render (the
+    // probe), and only what both comparisons show is reported (`confirm: false` turns this off). Without
+    // it one app's walk saw the same hover finding in 79 unrelated commits.
+    const lostIn = (r, snap, second) => {
+      const r0 = results.find((x) => x.res && x.t.state === 'default' && x.t.page === r.t.page && x.t.vp === r.t.vp);
+      if (!r0 || (r.t.force !== 'hover' && r.t.force !== 'focus')) return [];
+      const base = (x) => (second && x.probe ? x.probe.snap : x.ref);
+      return (r.t.force === 'hover' ? hoverLost : focusLost)(base(r0), base(r), r0.head.snap, snap);
+    };
+    if (cfg.confirm !== false) {
+      const suspect = results.filter((r) => r.res && (!r.res.pass || lostIn(r, r.head.snap).length));
+      if (suspect.length) {
+        const tc = Date.now(), sig = (f) => [f.type, f.path, ...(f.details || []).flatMap((d) => d.changes)].join('\u0001');
+        const again = await pool(suspect, cfg.concurrency, (r) => safe(render(browser, cfg, headUrl, r.t, 1, true)));
+        let dropped = 0;
+        suspect.forEach((r, k) => {
+          if (again[k].error) return;
+          r.head2 = again[k];
+          // the probe as the base, the first base render as its probe
+          const swapped = r.probe ? { ref: r.probe.snap, probe: { snap: r.ref, hash: sha1(r.refPng) } } : { ref: r.ref, probe: null };
+          const seen = new Set(checkTarget({ t: r.t, id: r.id, schema: r.schema, ...swapped, refPng: r.refPng, snap: r.head2.snap, png: r.head2.png, cfg, results }).res.findings.map(sig));
+          const keep = r.res.findings.filter((f) => seen.has(sig(f)));
+          if (keep.length === r.res.findings.length) return;
+          dropped += r.res.findings.length - keep.length;
+          r.res.findings = keep;
+          r.res.errors = keep.filter((f) => f.severity === 'error').length; r.res.warnings = keep.filter((f) => f.severity === 'warning').length;
+          r.res.ok = !r.res.errors; r.res.pass = !keep.length;
+          r.status = r.res.pass ? 'same' : r.res.ok ? 'warnings' : 'changed';
+        });
+        log(`confirm: ${suspect.length} state(s) compared a second time in ${((Date.now() - tc) / 1000).toFixed(1)}s; ${dropped} finding(s) did not come back`);
+      }
+    }
+    // feedback lost in the head render, and in the second comparison when there is one
+    const lostTwice = (r) => {
+      const lost = lostIn(r, r.head.snap);
+      if (!lost.length || !r.head2) return lost;
+      const again = new Set(lostIn(r, r.head2.snap, true).map((x) => x.key || x.label));
+      return lost.filter((x) => again.has(x.key || x.label));
+    };
+
     // focus indicators (WCAG 2.4.7): the page as loaded against its :focus-forced render, in the base
     // and in the head; a control that showed focus in the base and shows none in the head is reported
     // on the focus render, where the before/after crops show the indicator that went away
     for (const rf of results.filter((r) => r.res && r.t.force === 'focus')) {
       const r0 = results.find((r) => r.res && r.t.state === 'default' && r.t.page === rf.t.page && r.t.vp === rf.t.vp);
       if (!r0) continue;
-      const lost = focusLost(r0.ref, rf.ref, r0.head.snap, rf.head.snap);
+      const lost = lostTwice(rf);
       if (!lost.length) continue;
       const pad = (b) => b && [b[0] - 4, b[1] - 4, b[2] + 8, b[3] + 8];      // the ring is drawn around the box
       const names = [...new Set(lost.map((x) => x.label))];
@@ -587,7 +629,7 @@ async function runPR({ baseUrl, headUrl, config, outDir, cacheDir, cacheKey, ima
     for (const rh of results.filter((r) => r.res && r.t.force === 'hover')) {
       const r0 = results.find((r) => r.res && r.t.state === 'default' && r.t.page === rh.t.page && r.t.vp === rh.t.vp);
       if (!r0) continue;
-      const lost = hoverLost(r0.ref, rh.ref, r0.head.snap, rh.head.snap);
+      const lost = lostTwice(rh);
       if (!lost.length) continue;
       const names = [...new Set(lost.map((x) => x.label))];
       rh.res.findings.push({ type: 'loss', severity: 'error', path: 'hover feedback', paths: ['hover feedback'], atoms: null,

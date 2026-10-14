@@ -486,6 +486,28 @@ error on every route offline), vibing-arkanoid-qum (a canvas game: invisible to 
 with a `Replit-Restored-To:` trailer) and Dyad (`Reverted all changes back to version <sha>`), but their
 licensed repositories are as rare, and Replit apps are mostly Express servers that render little offline.
 
+**Replit apps (fifth assessment, October 2026).**
+- **Finding candidates:** GH Archive's hourly dumps (data.gharchive.org) were scanned. Push events carry commit messages up to 2025-10-08 (GitHub dropped them later). From 2025-08-12 to 2025-10-08 they name about 31,000 repositories with Lovable, Replit or Dyad commits, and 2,809 with 2 or more restores. 4,757 of these were screened from git. Licensed apps are about 1 % of the Lovable ones but most of the Replit ones: Replit's template puts `"license": "MIT"` in package.json.
+- **What passed:** two Replit apps build their `client/` with Vite, render offline, and check clean against themselves one page at a time. Replit restores are `Restored to '<sha>'` (older ones without the quotes), and 211 of 211 reproduce their target's tree exactly.
+
+| repository | what it is | commits since 2025-10 (with UI files) | restores | routes checked |
+|---|---|---|---|---|
+| primerates/PrimeRateLanding (MIT in package.json) | a mortgage lender's landing page and back office: a multi-tab client form, a theme library | 1,862 (1,709) | 101 | /, /admin/login, /admin/add-client, /admin/library |
+| nasreenawan04-tech/my-website (MIT in package.json) | DapsiWow: browser calculators with forms, result tables and charts | 3,215 (1,042) | 110 | six /tools/… calculators |
+
+primerate's admin pages render offline because its auth check only reads `response.ok`, and the walk's
+static server answers with the app's page. /admin/dashboard shows a personal email address, so it is not
+checked. The checked admin pages' history since 2025-10 holds only placeholder contacts (555 numbers,
+example.com). Both apps need `concurrency: 1`: their hover states are timing-dependent at 4.
+
+Left out:
+- a_dark_cave: 520 restores, but offline it is stuck on its start screen; walk.js would need to seed its saved game.
+- quiz-quest: an error toast prints the local server's port, which differs between the two builds.
+- DeliVerHero: a rotating ticker, and a lockfile pointing at Replit's internal registry.
+- Apps behind a login that parses JSON.
+
+v0 and Bolt record no restores in git.
+
 **Pipeline** (`learn/public/`):
 
 - `repos.json`: how to build each library, in the order the loop walks them: install command, the

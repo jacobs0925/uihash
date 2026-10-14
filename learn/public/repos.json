@@ -127,48 +127,6 @@
     "offline": true,
     "restores": "^Reverted to commit ([0-9a-f]{7,40})$"
   },
-  "heartlines": {
-    "url": "https://github.com/laurieai94/heartlines-ai",
-    "branch": "main",
-    "merges": true,
-    "lockfile": [
-      "bun.lock",
-      "package-lock.json"
-    ],
-    "install": "npx -y bun@1.2.23 install --ignore-scripts",
-    "build": "npx vite build --outDir {out} --emptyOutDir",
-    "pages": {
-      "routes": [
-        "/mission",
-        "/privacy-and-security",
-        "/plans",
-        "/terms"
-      ],
-      "router": "src/App.tsx",
-      "spa": "index.html",
-      "skip": [
-        "/",
-        "/showcase",
-        "/showcase/demo",
-        "/showcase/embed"
-      ]
-    },
-    "componentRoot": "src",
-    "skipDirs": [
-      "integrations",
-      "test",
-      "tests",
-      "__tests__",
-      "stories",
-      "types"
-    ],
-    "style": "(?<!\\.(test|spec|stories))\\.(tsx|jsx|css)$",
-    "snapshots": "(?!)",
-    "keys": "tag",
-    "offline": true,
-    "restores": "^Reverted to commit ([0-9a-f]{7,40})$",
-    "concurrency": 1
-  },
   "pronghorn": {
     "url": "https://github.com/RaiTech-Dev/pronghorn",
     "branch": "main",
@@ -237,6 +195,120 @@
     "keys": "tag",
     "offline": true,
     "restores": "^Reverted to commit ([0-9a-f]{7,40})$"
+  },
+  "primerate": {
+    "url": "https://github.com/primerates/PrimeRateLanding",
+    "branch": "main",
+    "merges": false,
+    "lockfile": [
+      "package-lock.json"
+    ],
+    "install": "npm ci --ignore-scripts --no-audit --no-fund --loglevel=error",
+    "build": "npx vite build --outDir {out} --emptyOutDir",
+    "pages": {
+      "routes": [
+        "/",
+        "/admin/login",
+        "/admin/add-client",
+        "/admin/library"
+      ],
+      "router": "client/src/App.tsx",
+      "spa": "index.html"
+    },
+    "componentRoot": "client/src",
+    "skipDirs": [
+      "integrations",
+      "test",
+      "tests",
+      "__tests__",
+      "stories",
+      "types"
+    ],
+    "style": "(?<!\\.(test|spec|stories))\\.(tsx|jsx|css)$",
+    "snapshots": "(?!)",
+    "keys": "tag",
+    "offline": true,
+    "restores": "^Restored to '?([0-9a-f]{7,40})'?$",
+    "concurrency": 1
+  },
+  "heartlines": {
+    "url": "https://github.com/laurieai94/heartlines-ai",
+    "branch": "main",
+    "merges": true,
+    "lockfile": [
+      "bun.lock",
+      "package-lock.json"
+    ],
+    "install": "npx -y bun@1.2.23 install --ignore-scripts",
+    "build": "npx vite build --outDir {out} --emptyOutDir",
+    "pages": {
+      "routes": [
+        "/mission",
+        "/privacy-and-security",
+        "/plans",
+        "/terms"
+      ],
+      "router": "src/App.tsx",
+      "spa": "index.html",
+      "skip": [
+        "/",
+        "/showcase",
+        "/showcase/demo",
+        "/showcase/embed"
+      ]
+    },
+    "componentRoot": "src",
+    "skipDirs": [
+      "integrations",
+      "test",
+      "tests",
+      "__tests__",
+      "stories",
+      "types"
+    ],
+    "style": "(?<!\\.(test|spec|stories))\\.(tsx|jsx|css)$",
+    "snapshots": "(?!)",
+    "keys": "tag",
+    "offline": true,
+    "restores": "^Reverted to commit ([0-9a-f]{7,40})$",
+    "concurrency": 1
+  },
+  "dapsiwow": {
+    "url": "https://github.com/nasreenawan04-tech/my-website",
+    "branch": "main",
+    "merges": false,
+    "lockfile": [
+      "package-lock.json"
+    ],
+    "install": "npm ci --ignore-scripts --no-audit --no-fund --loglevel=error",
+    "build": "npx vite build --outDir {out} --emptyOutDir",
+    "pages": {
+      "routes": [
+        "/tools/loan-calculator",
+        "/tools/mortgage-calculator",
+        "/tools/emi-calculator",
+        "/tools/compound-interest-calculator",
+        "/tools/business-loan-calculator",
+        "/tools/simple-interest-calculator"
+      ],
+      "router": "client/src/App.tsx",
+      "spa": "index.html"
+    },
+    "componentRoot": "client/src",
+    "skipDirs": [
+      "integrations",
+      "test",
+      "tests",
+      "__tests__",
+      "stories",
+      "types"
+    ],
+    "style": "(?<!\\.(test|spec|stories))\\.(tsx|jsx|css)$",
+    "snapshots": "(?!)",
+    "keys": "tag",
+    "offline": true,
+    "restores": "^Restored to '?([0-9a-f]{7,40})'?$",
+    "concurrency": 1
   },
   "primer-react": {
     "url": "https://github.com/primer/react",

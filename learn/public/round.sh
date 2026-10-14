@@ -76,7 +76,7 @@ elif [ "$PHASE" = train ]; then
   node "$HERE/learn/weekly.js" "${args[@]}" --out "$M" >> "$LOGS/weekly.log" 2>&1
   tail -1 "$LOGS/weekly.log"
   if [ ! -f "$M/result.json" ]; then tail -20 "$LOGS/weekly.log"; rm -rf "$M"; exit 1; fi
-  node "$HERE/learn/public/report.js" "$DATA" "$M" "${repos[@]}" || { rm -rf "$M"; exit 1; }
+  CURRENT_MODEL="$CURRENT" node "$HERE/learn/public/report.js" "$DATA" "$M" "${repos[@]}" || { rm -rf "$M"; exit 1; }
   # keep the chosen model and its report; the rows and the other candidates can be made again
   best=$(node -p "require(process.argv[1]).best || ''" "$M/result.json")
   if [ -n "$best" ]; then cp "$M/$best.md" "$M/model-report.md"; fi

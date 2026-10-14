@@ -16,6 +16,7 @@ const fs = require('fs');
 const path = require('path');
 const { undone } = require('../undo.js');
 const { hasSummary, summaryOf } = require('../dataset.js');
+const { flakySigs, withoutFlaky } = require('../flaky.js');
 
 const dir = process.argv[2];
 const WINDOW = +(process.argv.includes('--window') ? process.argv[process.argv.indexOf('--window') + 1] : 60);
@@ -26,7 +27,11 @@ const day = (d) => Date.parse(d) / 864e5;
 
 const all = fs.readdirSync(dir).filter((d) => fs.existsSync(path.join(dir, d, 'meta.json')) && hasSummary(path.join(dir, d)))
   .map((d) => ({ d: path.join(dir, d), meta: read(path.join(dir, d, 'meta.json')) })).sort((a, b) => a.meta.date.localeCompare(b.meta.date));
-const summary = (x) => x.s || (x.s = summaryOf(x.d));
+// findings that recur word for word in many commits are noise (flaky.js): left out of every summary, and listed
+// for dataset.js
+const flaky = flakySigs(all.map((x) => summaryOf(x.d)));
+fs.writeFileSync(path.join(dir, 'flaky.json'), JSON.stringify([...flaky].sort(), null, 1));
+const summary = (x) => x.s || (x.s = withoutFlaky(summaryOf(x.d), flaky));
 const findings = (x) => summary(x).pages.reduce((k, p) => k + p.findings.length, 0);
 
 // restores, in order: each throws away the commits between its target and itself; one whose target is a commit an
@@ -85,4 +90,4 @@ for (let i = 0; i < all.length; i++) {
     counts.intended++;
   } else counts.unlabelled++;
 }
-console.log(`${dir}: ${all.length} commits checked; ${counts.regression} labelled regression, ${counts.intended} labelled intended, ${counts.unlabelled} without evidence, ${counts.empty} with no findings`);
+console.log(`${dir}: ${all.length} commits checked; ${counts.regression} labelled regression, ${counts.intended} labelled intended, ${counts.unlabelled} without evidence, ${counts.empty} with no findings (${flaky.size} recurring findings left out as noise)`);

@@ -10,6 +10,7 @@
 //   <dir>/<pr>/meta.json      optional (real PRs): { title, body, ... } — the PR text features (a public
 //                             commit's meta.json from learn/public/walk.js has its subject instead of a title)
 //   <dir>/<pr>/intent.json    optional (real PRs): the intent judge's verdicts (learn/intent.js)
+//   <dir>/flaky.json          optional: signatures of findings that are noise, left out (learn/flaky.js)
 // Rows of --train dirs are fitted; rows of --eval dirs are only scored. --split dirs are divided: a PR is held
 // out for evaluation, in a set named <dir>-held-out, when a hash of its name falls in the --holdout share,
 // so the same PRs stay held out as a dir grows and no model trained on its other PRs ever sees them. A row:
@@ -19,6 +20,7 @@ const path = require('path');
 const zlib = require('zlib');
 const crypto = require('crypto');
 const { findingsOf } = require('../src/features.js');
+const { withoutFlaky } = require('./flaky.js');
 
 const sigOf = (p, f) => [p.page, p.state, p.vp, f.type, f.path, ...f.changes].join('|');
 const read = (f) => JSON.parse(fs.readFileSync(f, 'utf8'));
@@ -40,8 +42,10 @@ function* prsIn(dir) {
 // split: 'train', 'eval', or the share of PRs to hold out for evaluation (--split)
 function rowsOf(dir, split) {
   const name = path.basename(path.resolve(dir)), out = [];
+  // <dir>/flaky.json: findings label.js found recurring in many commits, noise to leave out (flaky.js)
+  const flaky = fs.existsSync(path.join(dir, 'flaky.json')) ? new Set(read(path.join(dir, 'flaky.json'))) : null;
   for (const [id, d] of prsIn(dir)) {
-    const L = read(path.join(d, 'label.json')), s = summaryOf(d);
+    const L = read(path.join(d, 'label.json')), s = withoutFlaky(summaryOf(d), flaky);
     const held = typeof split === 'number' && heldOut(`${name}/${id}`, split);
     const sp = typeof split === 'number' ? (held ? 'eval' : 'train') : split, set = held ? `${name}-held-out` : name;
     const sides = fs.existsSync(path.join(d, 'sides.json')) ? read(path.join(d, 'sides.json')) : null;

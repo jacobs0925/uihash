@@ -575,7 +575,7 @@ licensed repositories are as rare, and Replit apps are mostly Express servers th
     of each repository's labelled commits held out. A commit is held out when a hash of its name says
     so (`dataset.js --split`), so it stays held out as the data grows. The held-out commits form a set
     named `<repo>-held-out`. `weekly.js` trains its three candidates on the other commits, real
-    commits only, picks the best on the held-out sets, and runs the promotion gate against
+    commits only, picks the best on unseen repositories (below), and runs the promotion gate against
     `learn/model.json`. Synthetic PRs are left out of training unless `SYNTH` names a set: the
     candidates have to beat the shipped model, which was trained on synthetic PRs, on real commits
     alone. Then `report.js` decides:
@@ -583,8 +583,48 @@ licensed repositories are as rare, and Replit apps are mostly Express servers th
     | decision | when |
     |---|---|
     | wait | no candidate yet, or fewer than 10 held-out regressions or 10 held-out intended changes |
-    | propose | there is no current model, or the gate passed and the candidate raises the mean held-out AUROC by 0.005 or more |
+    | propose | there is no current model, or the gate passed and the candidate raises the mean held-out AUROC, or the mean AUROC on unseen repositories (against the one `model.json` recorded), by 0.005 or more |
     | keep | otherwise |
+
+    **The goal: AUROC 0.935 on every repository the model has never seen.** `train.py` scores each
+    repository with a model of the candidate's kind trained on all the other repositories' commits. The
+    PR-level AUROC ranks regressions and mistake sides against intended commits and deliberate sides,
+    as the gate does. Each candidate's table, mean and lowest go to `latest.md` and `history.jsonl`. A
+    repository counts once it has 5 or more of each.
+
+    **Noise made the earlier numbers look better than they were.** Findings that come back word for word
+    in many commits of a repository are noise, for example a forced hover state that depends on timing.
+    In milk-me-not one hover finding came back in 79 commits. Its flip-flops made 34 of the 40 "undo"
+    regressions, and 271 of the 534 commits with findings had nothing else. Models learned that noise
+    and scored it well: 0.98 for "undo" against kept commits, and 0.914 on milk-me-not's held-out commits
+    in round 17. `flaky.js` now leaves out any finding seen in 5 or more commits of a repository, in
+    labels (`label.js` writes `<repo>/flaky.json`) and in training rows (`dataset.js`). milk-me-not drops
+    to 66 regressions and 192 intended commits. el400 and livingwitharthritis lose a few, and the
+    libraries none.
+
+    Measured on round 17's data with noise left out (el400, livingwitharthritis, milk-me-not,
+    primer-react):
+
+    | training | mean | lowest |
+    |---|---|---|
+    | as until round 17 | 0.688 | 0.641 |
+    | restore labels weighted 0.1, `no_pixel_change` left out | 0.720 | 0.689 |
+    | and labels the rest of the data contradicts weighted 0 (`CLEAN`) | 0.731 | 0.706 |
+    | also trained on 80 % of the repository itself (an upper bound for these labels) | 0.750 | 0.718 |
+
+    What these results show:
+    - **Restore labels are noisy.** A restore throws whole commits away, often for something off the
+      checked routes, not visual, or a matter of taste: a 5 px logo move, a margin from 4 to 0 px. They
+      stay in evaluation and weigh a tenth in training.
+    - **The model kind barely matters.** Logistic, trees, per-repository normalisation and balancing the
+      repositories move the score by 0.02 or less.
+    - **Neither do commit-subject features.** Concepts named in the subject matching the finding's
+      properties add 0.006.
+    - **The labels and features set the ceiling.** The upper bound in the last row is 0.75.
+
+    Getting to 0.935 needs findings that show why a commit was thrown away (more routes, an intent judge
+    on the commit subject, screenshots), labels for what is visible (not what was disliked), and more
+    repositories of different kinds.
 
     The gate only asks that a candidate be no worse. Rounds that follow one another also ask that it be
     better; otherwise every round would propose a model.

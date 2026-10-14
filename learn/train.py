@@ -39,12 +39,21 @@ def say(*a): print(*a, file=report); report.flush()
 
 train = [r for r in rows if r['split'] == 'train']
 test = [r for r in rows if r['split'] == 'eval']
-if VARIANT == 'local':
-    for r in train + test: r['x'] = {k: v for k, v in r['x'].items() if not k.startswith('pr_')}
+# no_pixel_change: its base rate differs between apps (forced states, Storybook vs whole pages), and leaving it
+# out raised every repository's AUROC when unseen (learn-data round 17, leave one repository out)
+DROP = {'no_pixel_change'}
+for r in train + test: r['x'] = {k: v for k, v in r['x'].items() if k not in DROP and not (VARIANT == 'local' and k.startswith('pr_'))}
+# a restore throws a whole commit away, often for something off the checked routes or not visual: its labels
+# are kept for evaluation, but weigh a tenth in training (unseen-repository AUROC on round 17's data, after
+# flaky.js: 0.688 -> 0.720 mean, 0.641 -> 0.689 lowest, together with DROP)
+RESTORE_W = 0.1
+def weights(rs):
+    w = np.array([r['w'] * (RESTORE_W if r.get('source') == 'restore' else 1.0) for r in rs])
+    return w * len(w) / w.sum()
 vec = DictVectorizer(sparse=False)
 Xtr = vec.fit_transform([r['x'] for r in train]); ytr = np.array([r['y'] for r in train])
 names = vec.get_feature_names_out()
-wtr = np.array([r['w'] for r in train]); wtr *= len(wtr) / wtr.sum()
+wtr = weights(train); PRtr = np.array([r['pr'] for r in train])
 rules_flag = lambda r: r['triage'] in ('breaks', 'check')
 METRICS = {'variant': VARIANT, 'train_prs': len({r['pr'] for r in train}), 'train_findings': len(train), 'eval_prs': len({r['pr'] for r in test}),
            'train_sources': {s: len({r['pr'] for r in train if r.get('source') == s}) for s in sorted({r.get('source', '') for r in train})}}
@@ -53,7 +62,23 @@ def model(kind):
     if kind == 'logistic': return LogisticRegression(C=0.5, class_weight='balanced', max_iter=4000)
     return GradientBoostingClassifier(n_estimators=250, max_depth=3, learning_rate=0.05, subsample=0.8, random_state=0)
 
-def fit(kind, X, y, w):
+# labels the rest of the training data contradicts: out-of-fold logistic scores on the training rows (folds by PR);
+# a row scored more than CLEAN away from its label weighs nothing. Only ever on the rows a model is fitted on
+# (unseen-repository AUROC on round 17's data, after flaky.js: +0.011 mean, +0.017 lowest)
+CLEAN = 0.7
+def cleaned(X, y, w, prs):
+    g = {p: i for i, p in enumerate(sorted(set(prs)))}
+    if len(g) < 2 or len(set(y)) < 2: return w
+    G = np.array([g[p] for p in prs]); oof = y.astype(float).copy()
+    for a, b in GroupKFold(n_splits=min(5, len(g))).split(X, y, G):
+        if len(set(y[a])) < 2: continue
+        sc = StandardScaler().fit(X[a]); m = LogisticRegression(C=0.5, class_weight='balanced', max_iter=4000).fit(sc.transform(X[a]), y[a], sample_weight=w[a])
+        oof[b] = m.predict_proba(sc.transform(X[b]))[:, 1]
+    w = np.where(np.abs(y - oof) > CLEAN, 0.0, w)
+    return w * len(w) / w.sum()
+
+def fit(kind, X, y, w, prs=None):
+    if prs is not None: w = cleaned(X, y, w, prs)
     if kind == 'logistic':
         sc = StandardScaler().fit(X); m = model(kind).fit(sc.transform(X), y, sample_weight=w)
         return (lambda Z: m.predict_proba(sc.transform(Z))[:, 1]), (m, sc)
@@ -95,7 +120,7 @@ OOF = {}
 for kind in ('logistic', 'trees'):
     oof = np.zeros(len(train))
     for tr, va in GroupKFold(n_splits=min(5, len(groups))).split(Xtr, ytr, G):
-        f, _ = fit(kind, Xtr[tr], ytr[tr], wtr[tr]); oof[va] = f(Xtr[va])
+        f, _ = fit(kind, Xtr[tr], ytr[tr], wtr[tr], PRtr[tr]); oof[va] = f(Xtr[va])
     OOF[kind] = oof
     res = per_pr(train, oof)
     single = [v for v in res.values() if v['kind'] != 'mixed']
@@ -104,10 +129,44 @@ for kind in ('logistic', 'trees'):
     say(f"- {kind}: PR-level AUROC {roc_auc_score(ys, [v['max'] for v in single]):.3f} over {len(single)} single-change PRs "
         f"(the rules as a 0/1 score: {roc_auc_score(ys, [1 if v['rules'] else 0 for v in single]):.3f}); finding-level AUROC {roc_auc_score(ytr, oof):.3f}")
 
+# ------------------------------------------------- unseen repositories: the goal is 0.935 on every one
+# every other app's rows (training and held out) fit a model of this run's kind, which scores this app's rows,
+# ranked as learn/gate.js ranks them: regressions and mistake sides against deliberate PRs and deliberate sides
+GOAL, MIN_EACH = 0.935, 5
+def pairs(rs, scores):
+    d = {}
+    for r, v in zip(rs, scores):
+        e = d.setdefault(r['pr'], {'kind': r['kind'], 'max': 0.0, 'm': 0.0, 'd': 0.0})
+        e['max'] = max(e['max'], v)
+        if r['side'] == 'mistake': e['m'] = max(e['m'], v)
+        else: e['d'] = max(e['d'], v)
+    pos = [e['max'] for e in d.values() if e['kind'] == 'regression'] + [e['m'] for e in d.values() if e['kind'] == 'mixed']
+    neg = [e['max'] for e in d.values() if e['kind'] == 'deliberate'] + [e['d'] for e in d.values() if e['kind'] == 'mixed']
+    return pos, neg
+allrows = train + test
+LORO = {}
+for app in sorted({r['app'] for r in allrows}):
+    rest = [r for r in allrows if r['app'] != app]; mine = [r for r in allrows if r['app'] == app]
+    if len({r['y'] for r in rest}) < 2: continue
+    v2 = DictVectorizer(sparse=False); X2 = v2.fit_transform([r['x'] for r in rest])
+    f2, _ = fit(KIND, X2, np.array([r['y'] for r in rest]), weights(rest), [r['pr'] for r in rest])
+    pos, neg = pairs(mine, f2(v2.transform([r['x'] for r in mine])))
+    auc = roc_auc_score([1] * len(pos) + [0] * len(neg), pos + neg) if pos and neg else None
+    LORO[app] = [None if auc is None else round(float(auc), 4), len(pos), len(neg)]
+scored = [v[0] for v in LORO.values() if v[0] is not None and v[1] >= MIN_EACH and v[2] >= MIN_EACH]
+METRICS['loro'] = LORO; METRICS['loro_goal'] = GOAL
+if scored:
+    METRICS['loro_mean'] = round(float(np.mean(scored)), 4); METRICS['loro_min'] = round(float(min(scored)), 4)
+    METRICS['loro_at_goal'] = sum(v >= GOAL for v in scored); METRICS['loro_scored'] = len(scored)
+say(f'\n## Unseen repositories ({KIND}: trained on the other apps; goal {GOAL} on each with {MIN_EACH}+ of both)\n')
+say('| repository | regressions | intended | AUROC |'); say('|---|---|---|---|')
+for app, (auc, p_, n_) in LORO.items(): say(f"| {app} | {p_} | {n_} | {'n/a' if auc is None else f'{auc:.3f}'} |")
+if scored: say(f"\nMean {np.mean(scored):.3f}, lowest {min(scored):.3f}; {sum(v >= GOAL for v in scored)} of {len(scored)} repositories at the goal.\n")
+
 # ------------------------------------------------- final models; thresholds from the out-of-fold scores
 fitted, best = {}, None
 for kind in ('logistic', 'trees'):
-    f, m = fit(kind, Xtr, ytr, wtr); ptr = OOF[kind]
+    f, m = fit(kind, Xtr, ytr, wtr, PRtr); ptr = OOF[kind]
     tres = per_pr(train, ptr)
     dl = sorted(v['max'] for v in tres.values() if v['kind'] == 'deliberate')
     t_flag = dl[int(math.ceil(0.9 * len(dl))) - 1] + 1e-9 if dl else 0.5
@@ -173,7 +232,9 @@ say(', '.join(f'`{names[i]}` {lm.coef_[0][i]:+.2f}' for i in order[:30]))
 scale = np.where(sc.scale_ == 0, 1, sc.scale_)
 common = {'variant': VARIANT, 'features': list(names),
           'trained_on': {'prs': len({r['pr'] for r in train}), 'findings': len(train), 'sets': sorted({r['set'] for r in train})},
-          'best_on_eval': best[1] if best else None}
+          'best_on_eval': best[1] if best else None,
+          # its AUROC on each repository when trained without it (the goal: GOAL on every one); later rounds compare
+          'unseen': {k: METRICS[k] for k in ('loro_mean', 'loro_min', 'loro_at_goal', 'loro_scored') if k in METRICS}}
 if KIND == 'logistic':
     out = {'kind': 'logistic', **common, 'mean': list(sc.mean_), 'scale': list(scale), 'coef': list(lm.coef_[0]),
            'intercept': float(lm.intercept_[0]), 'thresholds': {'flag': t_flag, 'obvious': t_obv}}

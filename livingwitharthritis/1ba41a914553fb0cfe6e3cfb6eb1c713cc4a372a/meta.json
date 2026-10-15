@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "1ba41a914553fb0cfe6e3cfb6eb1c713cc4a372a",
+ "parent": "95b374457ea9f435f6f7bd51f18c11b5ce8e5490",
+ "date": "2026-02-22",
+ "subject": "Replace design tokens in Index",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 21,
+ "ms": 25152
+}

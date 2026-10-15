@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "03ef89222487443effdf100cb0c6ab72e9ac30e0",
+ "parent": "e8fc51b49d22bd8cf424a4b060fb576d13b75825",
+ "date": "2026-02-24",
+ "subject": "Improve video CTA interaction",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/VideoCTASection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 36862
+}

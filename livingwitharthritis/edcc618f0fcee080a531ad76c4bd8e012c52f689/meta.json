@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "edcc618f0fcee080a531ad76c4bd8e012c52f689",
+ "parent": "aa09070e72732bc237abad06fc97ed3ddeb6a59e",
+ "date": "2026-02-22",
+ "subject": "Reverted to commit 1fe5d46258b40c6430e66937f1bb285459ac6e4e",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 27,
+ "ms": 25878
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "e999f3c791c974d4f8213425581aa8cb189492f5",
+ "parent": "a593345b4b63ce52fa127505d8071b7e9ab5b8bf",
+ "date": "2026-02-26",
+ "subject": "Add blog pagination and filters",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/BlogIndex.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 8,
+ "ms": 59275
+}

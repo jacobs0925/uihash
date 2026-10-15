@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "8141d3fcdc035c50d6202a9f656efd8300fe3a36",
+ "date": "2026-02-22",
+ "pr": null,
+ "title": "Code edited in Lovable Code Editor",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by f718fb06, which restored 95b37445 (5 commits discarded)"
+}

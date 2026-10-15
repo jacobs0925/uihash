@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "1d4e9e4cb07dcc619bf6612040972fec0782a2e4",
+ "date": "2026-03-06",
+ "pr": null,
+ "title": "Imposed CSS stagger animation",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1650 later commits"
+}

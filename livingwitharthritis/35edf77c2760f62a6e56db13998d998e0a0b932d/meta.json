@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "35edf77c2760f62a6e56db13998d998e0a0b932d",
+ "parent": "f16bae8c3c64e0bda6d85db41946d1b6a9433003",
+ "date": "2026-02-24",
+ "subject": "Readded donation notification",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DonationNotification.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 26106
+}

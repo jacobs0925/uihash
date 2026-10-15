@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "b4a019902539fe0eb526a00da1f894a38b9d1f58",
+ "parent": "ca2de3880881ee7f6d09dfd2fc25cafc17531a3c",
+ "date": "2026-02-28",
+ "subject": "Delay feedback popup to 60s",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FeedbackPopup.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 56535
+}

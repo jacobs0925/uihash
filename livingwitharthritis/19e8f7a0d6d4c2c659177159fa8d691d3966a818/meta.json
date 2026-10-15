@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "19e8f7a0d6d4c2c659177159fa8d691d3966a818",
+ "parent": "8dcfc60392dbf0c38e4312fbf94289e05d339ef4",
+ "date": "2026-02-28",
+ "subject": "Improved joint humanoid SVG",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 75728
+}

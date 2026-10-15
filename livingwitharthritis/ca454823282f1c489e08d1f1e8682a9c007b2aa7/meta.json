@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "ca454823282f1c489e08d1f1e8682a9c007b2aa7",
+ "parent": "76bef2d8b3a115926120eb156eb84a10d9b0fbbf",
+ "date": "2026-03-02",
+ "subject": "Restore old mannequin with image",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 50128
+}

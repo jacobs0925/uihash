@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "59f0892df5ea2922180e5a0368e12fcc9ae22a79",
+ "parent": "d8e5c77406fc854641193e3ae68288dd93d6afff",
+ "date": "2026-02-20",
+ "subject": "Simplified articles fetch",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 25615
+}

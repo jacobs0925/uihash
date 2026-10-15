@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "83ed9c4b17ad230961bee4c5b5b37c121951b371",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Add scroll progress component",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1643 later commits"
+}

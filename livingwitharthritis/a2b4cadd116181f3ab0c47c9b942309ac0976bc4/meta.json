@@ -1,0 +1,39 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a2b4cadd116181f3ab0c47c9b942309ac0976bc4",
+ "parent": "a5a6ecefdc56a882b3e9a8b40b82567d246fd304",
+ "date": "2026-02-25",
+ "subject": "Reduce page spacing",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/ConditionsSection.tsx",
+  "src/components/JointExerciseSection.tsx",
+  "src/components/NutritionArticleSection.tsx",
+  "src/components/ServicesGrid.tsx",
+  "src/components/VirtualPhysioSection.tsx",
+  "src/components/landing/BlogPreviewSection.tsx",
+  "src/components/landing/CommunitySection.tsx",
+  "src/components/landing/DailyTipsSection.tsx",
+  "src/components/landing/FAQSection.tsx",
+  "src/components/landing/FinalCTASection.tsx",
+  "src/components/landing/FundraisingProgressSection.tsx",
+  "src/components/landing/GetInTouchSection.tsx",
+  "src/components/landing/HowItWorksSection.tsx",
+  "src/components/landing/ImpactBannerSection.tsx",
+  "src/components/landing/NewsletterSection.tsx",
+  "src/components/landing/PartnersSection.tsx",
+  "src/components/landing/TestimonialsSection.tsx",
+  "src/components/landing/VideoCTASection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 76279
+}

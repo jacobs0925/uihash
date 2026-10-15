@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "edcc618f0fcee080a531ad76c4bd8e012c52f689",
+ "date": "2026-02-22",
+ "pr": null,
+ "title": "Reverted to commit 1fe5d46258b40c6430e66937f1bb285459ac6e4e",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-size: ∅ → auto undone by 42a5116e \"Refactored arthritis site UI\"; background-position: ∅ → 0% 0% undone by 42a5116e \"Refactored arthritis site UI\"; background-size: ∅ → auto undone by 42a5116e \"Refactored arthritis site UI\""
+}

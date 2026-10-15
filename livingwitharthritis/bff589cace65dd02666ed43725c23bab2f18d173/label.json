@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "bff589cace65dd02666ed43725c23bab2f18d173",
+ "date": "2026-03-07",
+ "pr": null,
+ "title": "Redesigned sitemap page",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-clip: border-box → ∅ undone by f16d05fe \"Add colorful section tints\"; background-clip: border-box → ∅ undone by f16d05fe \"Add colorful section tints\"; background-clip: border-box → ∅ undone by f16d05fe \"Add colorful section tints\""
+}

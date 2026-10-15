@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "f16d05feff7fb908653d44bba34b77920f9eb344",
+ "date": "2026-03-07",
+ "pr": null,
+ "title": "Add colorful section tints",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1645 later commits"
+}

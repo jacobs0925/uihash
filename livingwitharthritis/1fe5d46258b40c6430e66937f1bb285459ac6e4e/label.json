@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "1fe5d46258b40c6430e66937f1bb285459ac6e4e",
+ "date": "2026-02-22",
+ "pr": null,
+ "title": "Silenced fetch fallback toast",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 5a220ef4, which restored 76ff1b50 (2 commits discarded)"
+}

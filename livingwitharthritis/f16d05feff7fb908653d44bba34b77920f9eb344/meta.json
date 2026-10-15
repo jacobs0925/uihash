@@ -1,0 +1,33 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f16d05feff7fb908653d44bba34b77920f9eb344",
+ "parent": "006f9ad0df5b643c73a186014a79a5c7dce8efac",
+ "date": "2026-03-07",
+ "subject": "Add colorful section tints",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/components/AboutSection.tsx",
+  "src/components/ServicesGrid.tsx",
+  "src/components/landing/BlogPreviewSection.tsx",
+  "src/components/landing/DailyTipsSection.tsx",
+  "src/components/landing/FAQSection.tsx",
+  "src/components/landing/FundraisingProgressSection.tsx",
+  "src/components/landing/GetInTouchSection.tsx",
+  "src/components/landing/HowItWorksSection.tsx",
+  "src/components/landing/TestimonialsSection.tsx",
+  "src/index.css",
+  "src/pages/Index.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 109827
+}

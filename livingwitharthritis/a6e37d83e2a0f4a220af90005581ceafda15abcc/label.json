@@ -7,6 +7,6 @@
  "title": "Redesigned mobile UI and SEO",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "padding-top: 112px → 96px undone by a78bb8be \"Polished UI and layout overhaul\"; padding-bottom: 112px → 96px undone by a78bb8be \"Polished UI and layout overhaul\"; padding-top: 112px → 96px undone by a78bb8be \"Polished UI and layout overhaul\""
 }

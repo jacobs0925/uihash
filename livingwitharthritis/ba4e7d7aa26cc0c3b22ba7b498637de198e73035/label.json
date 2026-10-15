@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "ba4e7d7aa26cc0c3b22ba7b498637de198e73035",
+ "date": "2026-03-02",
+ "pr": null,
+ "title": "Reorganized homepage with tabs",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "margin-right: auto → 0px undone by 169fe39e \"Improve UI with colored sections\"; margin-left: auto → 0px undone by 169fe39e \"Improve UI with colored sections\"; margin-right: auto → 0px undone by 169fe39e \"Improve UI with colored sections\""
+}

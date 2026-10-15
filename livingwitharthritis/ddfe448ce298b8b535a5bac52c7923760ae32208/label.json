@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "ddfe448ce298b8b535a5bac52c7923760ae32208",
+ "date": "2026-03-04",
+ "pr": null,
+ "title": "Add chat widget integration",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1662 later commits"
+}

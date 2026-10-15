@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "7d6b907bc8938b87cf9a6b945bd8b269c9cc7f01",
+ "parent": "2fe25f9ec6ee197aaa4f2782e8aff3c74058bd38",
+ "date": "2026-02-24",
+ "subject": "Add uk targeted json-ld",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 25799
+}

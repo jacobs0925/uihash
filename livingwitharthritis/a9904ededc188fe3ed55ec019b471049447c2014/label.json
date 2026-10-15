@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "a9904ededc188fe3ed55ec019b471049447c2014",
+ "date": "2026-03-06",
+ "pr": null,
+ "title": "Add quote section on main page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1651 later commits"
+}

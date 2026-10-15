@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "1eaf79a19cb2751b46e13109baeb9f32fe7b75d3",
+ "date": "2026-03-03",
+ "pr": null,
+ "title": "Revamped header footer styling",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 928e513d, which restored 25bba9d2 (2 commits discarded)"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "ecd4f2d5cf0937a32a2b950a746b281f697d0483",
+ "date": "2026-02-25",
+ "pr": null,
+ "title": "Removed Trust Bar block after hero",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1722 later commits"
+}

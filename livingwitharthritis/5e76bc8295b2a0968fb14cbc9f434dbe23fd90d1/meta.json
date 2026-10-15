@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "5e76bc8295b2a0968fb14cbc9f434dbe23fd90d1",
+ "parent": "c6b078ee9e34538d1cbaf0504711e891f65a9d5c",
+ "date": "2026-02-25",
+ "subject": "Add feedback DB support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FeedbackPopup.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260225154118_973d57b1-231a-4724-9014-82f8c5735dab.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 49634
+}

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "2b60ee46f713132aeb4cafd64905694b602d7afb",
+ "date": "2026-02-24",
+ "pr": null,
+ "title": "Polished hero and visuals",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "filter: blur(120px) → blur(140px) undone by 42a5116e \"Refactored arthritis site UI\"; filter: blur(120px) → blur(140px) undone by 42a5116e \"Refactored arthritis site UI\"; margin-bottom: 28px → 32px undone by 42a5116e \"Refactored arthritis site UI\""
+}

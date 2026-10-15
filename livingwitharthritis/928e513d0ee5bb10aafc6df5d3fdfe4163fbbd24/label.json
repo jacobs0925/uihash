@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "928e513d0ee5bb10aafc6df5d3fdfe4163fbbd24",
+ "date": "2026-03-04",
+ "pr": null,
+ "title": "Reverted to commit 25bba9d225e8efffba09b2f3413448836a5713cb",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "margin-right: 0px → auto undone by d97f69e7 \"Red and white UI overhaul\"; margin-left: 0px → auto undone by d97f69e7 \"Red and white UI overhaul\"; width: auto → 100% undone by d97f69e7 \"Red and white UI overhaul\""
+}

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "70c8c963cb30c5144f877444b72144ef5d333ee7",
+ "date": "2026-02-23",
+ "pr": null,
+ "title": "Make footer links crawlable",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1765 later commits"
+}

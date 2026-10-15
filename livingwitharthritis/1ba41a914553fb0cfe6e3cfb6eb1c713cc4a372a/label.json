@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "1ba41a914553fb0cfe6e3cfb6eb1c713cc4a372a",
+ "date": "2026-02-22",
+ "pr": null,
+ "title": "Replace design tokens in Index",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by f718fb06, which restored 95b37445 (5 commits discarded)"
+}

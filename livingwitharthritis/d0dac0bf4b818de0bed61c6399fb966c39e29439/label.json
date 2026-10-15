@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "d0dac0bf4b818de0bed61c6399fb966c39e29439",
+ "date": "2026-02-26",
+ "pr": null,
+ "title": "Add blog views and comments",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1703 later commits"
+}

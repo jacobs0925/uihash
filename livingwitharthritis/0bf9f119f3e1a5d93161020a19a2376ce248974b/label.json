@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "0bf9f119f3e1a5d93161020a19a2376ce248974b",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Premium frontend overhaul",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px → ∅ undone by 83ed9c4b \"Add scroll progress component\"; margin-right: auto → 0px undone by 83ed9c4b \"Add scroll progress component\"; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.05) 0px 1px 2px 0px → ∅ undone by 83ed9c4b \"Add scroll progress component\""
+}

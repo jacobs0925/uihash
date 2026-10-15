@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "285a1cb125449c61a8be968195f4dde4a9a2c841",
+ "parent": "3f2a03823cb4dfee960ee72ab763e1837d64c79c",
+ "date": "2026-03-01",
+ "subject": "Improved Physitrack mannequin",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 75523
+}

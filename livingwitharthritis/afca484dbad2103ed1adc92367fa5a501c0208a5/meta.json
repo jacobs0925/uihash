@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "afca484dbad2103ed1adc92367fa5a501c0208a5",
+ "parent": "2e8f64a74d6deaf3aaafe7acc33c55273fed9fe6",
+ "date": "2026-03-08",
+ "subject": "Imaged logo integrated",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/lwa-logo.png",
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 7,
+ "ms": 197408
+}

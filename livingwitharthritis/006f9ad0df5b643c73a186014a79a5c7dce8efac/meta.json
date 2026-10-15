@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "006f9ad0df5b643c73a186014a79a5c7dce8efac",
+ "parent": "bff589cace65dd02666ed43725c23bab2f18d173",
+ "date": "2026-03-07",
+ "subject": "Drop nutrition_food_gallery table",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NutritionArticleSection.tsx",
+  "src/hooks/useCmsContent.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260307130008_4465bd53-c28a-4599-8798-d275c19a105b.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 109948
+}

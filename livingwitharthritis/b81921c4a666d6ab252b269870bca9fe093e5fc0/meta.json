@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "b81921c4a666d6ab252b269870bca9fe093e5fc0",
+ "parent": "2b2f398fa4c28d4bb7ed3c9220f2f549baeb3228",
+ "date": "2026-02-24",
+ "subject": "Remove ExpertsSection component",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/ExpertsSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 38919
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "5c186eeabc6c5b5c8e4bd678da6f6ee1e44cd43b",
+ "parent": "c399b283243c51eabfaa70bf46e576543f0eecbf",
+ "date": "2026-02-22",
+ "subject": "Fix types in Index.tsx",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 19823
+}

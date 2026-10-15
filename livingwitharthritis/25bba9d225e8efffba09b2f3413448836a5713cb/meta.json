@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "25bba9d225e8efffba09b2f3413448836a5713cb",
+ "parent": "8601beb2a31307e48c2875a34c03fe3ed46a7759",
+ "date": "2026-03-03",
+ "subject": "Replicated Red Cross Palette",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 60,
+ "ms": 174524
+}

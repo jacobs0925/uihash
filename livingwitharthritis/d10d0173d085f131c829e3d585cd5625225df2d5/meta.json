@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "d10d0173d085f131c829e3d585cd5625225df2d5",
+ "parent": "c95885a696a8ef19d2d6d9f4c0611b4adb4b1639",
+ "date": "2026-02-24",
+ "subject": "Add trademark to logo text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx",
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 46444
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "c95885a696a8ef19d2d6d9f4c0611b4adb4b1639",
+ "parent": "7d6b907bc8938b87cf9a6b945bd8b269c9cc7f01",
+ "date": "2026-02-24",
+ "subject": "Create UK blog pages",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/Footer.tsx",
+  "src/data/blogArticles.ts",
+  "src/pages/BlogIndex.tsx",
+  "src/pages/BlogPost.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 46861
+}

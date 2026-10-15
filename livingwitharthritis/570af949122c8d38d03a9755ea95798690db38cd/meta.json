@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "570af949122c8d38d03a9755ea95798690db38cd",
+ "parent": "4b6e46416399504da2ed7dc5c842c59894e17e67",
+ "date": "2026-03-07",
+ "subject": "SEO UK optimizations implemented",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "public/sitemap.xml",
+  "src/pages/BlogIndex.tsx",
+  "src/pages/Chat.tsx",
+  "src/pages/SelfHelpTool.tsx",
+  "src/pages/Sitemap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 48019
+}

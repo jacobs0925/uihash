@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "76bef2d8b3a115926120eb156eb84a10d9b0fbbf",
+ "parent": "f5aafb1d0a5b89e6bc71d03aef4e98b1086f4d22",
+ "date": "2026-03-02",
+ "subject": "Add Self Help Tool nav link",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 55666
+}

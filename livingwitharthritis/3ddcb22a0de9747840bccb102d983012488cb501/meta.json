@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "3ddcb22a0de9747840bccb102d983012488cb501",
+ "parent": "5f5e68420332d95b5fe0509725c40955c048312e",
+ "date": "2026-02-24",
+ "subject": "Frontend daily tips modals added",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/DailyTipsSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 57050
+}

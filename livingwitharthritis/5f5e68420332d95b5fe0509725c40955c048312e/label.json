@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "5f5e68420332d95b5fe0509725c40955c048312e",
+ "date": "2026-02-24",
+ "pr": null,
+ "title": "Reordered sections and added images",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1752 later commits"
+}

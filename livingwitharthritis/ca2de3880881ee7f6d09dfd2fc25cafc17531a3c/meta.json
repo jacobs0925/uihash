@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "ca2de3880881ee7f6d09dfd2fc25cafc17531a3c",
+ "parent": "f2d6ae8414c92de9c62cd113aaea96caa93584bf",
+ "date": "2026-02-28",
+ "subject": "Enhance engagement features",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx",
+  "src/components/landing/BlogPreviewSection.tsx",
+  "src/components/landing/CommunitySection.tsx",
+  "src/components/landing/FAQSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 58382
+}

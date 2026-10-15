@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "fb87018b5ebe146851d4f0d7fc753f598cdcd75d",
+ "date": "2026-02-22",
+ "pr": null,
+ "title": "Removed hero image block from HeroSection",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 1a234b62, which restored a3538946 (21 commits discarded)"
+}

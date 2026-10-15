@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4209b8f989b75d31b5d2c574c1f4a053e16260fb",
+ "parent": "0b73c514bbf0b6d12e8c81ed0b2de3c85779d782",
+ "date": "2026-02-23",
+ "subject": "Increase logo opacity",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 46824
+}

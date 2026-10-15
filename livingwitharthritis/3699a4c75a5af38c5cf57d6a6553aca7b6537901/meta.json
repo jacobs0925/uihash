@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "3699a4c75a5af38c5cf57d6a6553aca7b6537901",
+ "parent": "fc44404b0a883d012fa1ac04c326b4f3343d1a42",
+ "date": "2026-02-24",
+ "subject": "Replace PayPal with Stripe",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationBanner.tsx",
+  "src/components/DonationTiersSection.tsx",
+  "src/components/PayPalDonationModal.tsx",
+  "src/components/StripeDonationModal.tsx",
+  "src/hooks/useDonation.ts",
+  "supabase/functions/paypal-checkout/index.ts",
+  "supabase/functions/verify-paypal-order/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 59138
+}

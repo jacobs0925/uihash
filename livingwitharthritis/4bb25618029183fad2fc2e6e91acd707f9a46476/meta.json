@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4bb25618029183fad2fc2e6e91acd707f9a46476",
+ "parent": "03557b25261f768d29b14acdb3e911a889d0b3be",
+ "date": "2026-02-24",
+ "subject": "Swap to embeddable video",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/VideoCTASection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 28434
+}

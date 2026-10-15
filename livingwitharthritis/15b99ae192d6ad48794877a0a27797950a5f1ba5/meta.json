@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "15b99ae192d6ad48794877a0a27797950a5f1ba5",
+ "parent": "8045640e9b3d0040f83d0cd1a59355f3e37aa66d",
+ "date": "2026-02-25",
+ "subject": "Boost SEO with richer data",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "public/sitemap.xml",
+  "src/components/landing/FAQSection.tsx",
+  "src/pages/AboutUs.tsx",
+  "src/pages/BlogIndex.tsx",
+  "src/pages/BlogPost.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 46247
+}

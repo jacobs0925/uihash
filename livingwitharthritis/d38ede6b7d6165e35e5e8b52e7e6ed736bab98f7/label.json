@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "d38ede6b7d6165e35e5e8b52e7e6ed736bab98f7",
+ "date": "2026-02-23",
+ "pr": null,
+ "title": "Add accreditation logos to footer",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1769 later commits"
+}

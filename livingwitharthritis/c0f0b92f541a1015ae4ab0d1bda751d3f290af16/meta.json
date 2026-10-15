@@ -1,0 +1,31 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "c0f0b92f541a1015ae4ab0d1bda751d3f290af16",
+ "parent": "2a57b95e2069cdb5f9b5df48a4f3e2816fbbb523",
+ "date": "2026-02-22",
+ "subject": "Clean up imports in Index.tsx",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/assets/hero-community.jpg",
+  "src/assets/hero-image.jpg",
+  "src/components/BlogTeaserSection.tsx",
+  "src/components/DonationNotification.tsx",
+  "src/components/FloatingChatButton.tsx",
+  "src/components/FundraisingSection.tsx",
+  "src/components/ImpactBanner.tsx",
+  "src/components/TestimonialsSection.tsx",
+  "src/hooks/useFundraising.ts",
+  "src/hooks/useRateLimit.ts",
+  "src/hooks/useRealtimeDonations.ts",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 25779
+}

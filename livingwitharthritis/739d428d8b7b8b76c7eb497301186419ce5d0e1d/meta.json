@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "739d428d8b7b8b76c7eb497301186419ce5d0e1d",
+ "parent": "35edf77c2760f62a6e56db13998d998e0a0b932d",
+ "date": "2026-02-24",
+ "subject": "Add fake donations fallback",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationNotification.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 25448
+}

@@ -1,0 +1,27 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "1d4e9e4cb07dcc619bf6612040972fec0782a2e4",
+ "parent": "a9904ededc188fe3ed55ec019b471049447c2014",
+ "date": "2026-03-06",
+ "subject": "Imposed CSS stagger animation",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/components/DonationBanner.tsx",
+  "src/components/Header.tsx",
+  "src/components/HeroSection.css",
+  "src/components/HeroSection.tsx",
+  "src/index.css",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 96698
+}

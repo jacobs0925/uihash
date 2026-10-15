@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "68df071122d301b755a784bc808ea885056ea68d",
+ "date": "2026-02-22",
+ "pr": null,
+ "title": "Improve backend modal and fix app wiring",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1772 later commits"
+}

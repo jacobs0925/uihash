@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f5aafb1d0a5b89e6bc71d03aef4e98b1086f4d22",
+ "parent": "84ed72482316ac59c5413233a70afea29ebaa31b",
+ "date": "2026-03-02",
+ "subject": "Move self‑help to page",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/Footer.tsx",
+  "src/pages/SelfHelpTool.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 38555
+}

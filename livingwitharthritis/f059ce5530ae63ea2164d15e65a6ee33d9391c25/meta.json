@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f059ce5530ae63ea2164d15e65a6ee33d9391c25",
+ "parent": "d6cb05a100023df5a8b60ffc91f99454c71e5a14",
+ "date": "2026-02-24",
+ "subject": "Enhance AboutUs modal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AboutUsModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 61326
+}

@@ -1,0 +1,35 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "eaecf31e5da71ff4431c064b5851014aa99de6be",
+ "parent": "a6fc6c555ae24a0ddedf9bb525d2b430871eb85f",
+ "date": "2026-03-08",
+ "subject": "Enhanced cookie prompts and policies",
+ "components": [
+  "App.tsx",
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "index.html",
+  "src/App.tsx",
+  "src/components/CookieConsent.tsx",
+  "src/components/Footer.tsx",
+  "src/components/Header.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/JointExerciseSection.tsx",
+  "src/index.css",
+  "src/integrations/supabase/types.ts",
+  "src/pages/CookiesPolicy.tsx",
+  "src/pages/Index.tsx",
+  "src/pages/PrivacyPolicy.tsx",
+  "supabase/migrations/20260308115106_2d316249-c599-4243-9754-7a725bbfe792.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 9,
+ "ms": 149748
+}

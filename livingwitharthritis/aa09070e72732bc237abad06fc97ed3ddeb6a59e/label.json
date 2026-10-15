@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "aa09070e72732bc237abad06fc97ed3ddeb6a59e",
+ "date": "2026-02-22",
+ "pr": null,
+ "title": "Replace colors with design tokens",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by edcc618f, which restored 1fe5d462 (1 commit discarded)"
+}

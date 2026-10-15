@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "1fe5d46258b40c6430e66937f1bb285459ac6e4e",
+ "parent": "76ff1b50196817a44662232aaf3688fd525837ca",
+ "date": "2026-02-22",
+ "subject": "Silenced fetch fallback toast",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 8,
+ "ms": 22111
+}

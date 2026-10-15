@@ -1,0 +1,31 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "cd3c9b5b250c701dce68a181e5c4e6f500d16ba0",
+ "parent": "2b60ee46f713132aeb4cafd64905694b602d7afb",
+ "date": "2026-02-24",
+ "subject": "Ultrafine UI polish completed",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/Footer.tsx",
+  "src/components/Header.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/ServicesGrid.tsx",
+  "src/components/landing/DailyTipsSection.tsx",
+  "src/components/landing/FAQSection.tsx",
+  "src/components/landing/HowItWorksSection.tsx",
+  "src/components/landing/ImpactBannerSection.tsx",
+  "src/components/landing/NewsletterSection.tsx",
+  "src/index.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 60,
+ "ms": 130809
+}

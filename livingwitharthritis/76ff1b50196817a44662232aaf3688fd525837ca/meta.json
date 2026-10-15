@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "76ff1b50196817a44662232aaf3688fd525837ca",
+ "parent": "8141d3fcdc035c50d6202a9f656efd8300fe3a36",
+ "date": "2026-02-22",
+ "subject": "Fix typing and loading tweaks",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 19700
+}

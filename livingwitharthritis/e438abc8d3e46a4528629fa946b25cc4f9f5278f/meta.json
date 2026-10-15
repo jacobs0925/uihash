@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "e438abc8d3e46a4528629fa946b25cc4f9f5278f",
+ "parent": "19e8f7a0d6d4c2c659177159fa8d691d3966a818",
+ "date": "2026-02-28",
+ "subject": "Recreated Physitrack humanoid",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/physitrack-reference.png",
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 73988
+}

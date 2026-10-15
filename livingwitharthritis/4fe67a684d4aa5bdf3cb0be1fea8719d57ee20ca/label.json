@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "4fe67a684d4aa5bdf3cb0be1fea8719d57ee20ca",
+ "date": "2026-03-04",
+ "pr": null,
+ "title": "Add chatbot to all pages",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1659 later commits"
+}

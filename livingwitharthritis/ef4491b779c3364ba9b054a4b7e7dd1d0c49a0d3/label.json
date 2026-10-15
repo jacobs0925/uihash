@@ -7,6 +7,6 @@
  "title": "Elevated site to premium look",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "padding-right: 20px → 24px undone by bdae3032 \"Add booking CTA across UI\"; margin-right: 6px → 8px undone by bdae3032 \"Add booking CTA across UI\"; display: flex → block undone by bdae3032 \"Add booking CTA across UI\""
 }

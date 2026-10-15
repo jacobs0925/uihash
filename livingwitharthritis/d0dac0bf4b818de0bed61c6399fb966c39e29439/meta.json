@@ -1,0 +1,26 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "d0dac0bf4b818de0bed61c6399fb966c39e29439",
+ "parent": "09d852aab21079cbaecfc0420d9a86d68139cdd6",
+ "date": "2026-02-26",
+ "subject": "Add blog views and comments",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/BlogComments.tsx",
+  "src/hooks/useBlogViews.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/AdminDashboard.tsx",
+  "src/pages/BlogIndex.tsx",
+  "src/pages/BlogPost.tsx",
+  "supabase/migrations/20260226084554_c0e3f2a3-2098-4380-8bda-5437536921f5.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 132960
+}

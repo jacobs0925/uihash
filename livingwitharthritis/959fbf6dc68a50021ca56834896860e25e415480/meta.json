@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "959fbf6dc68a50021ca56834896860e25e415480",
+ "parent": "a3538946c0c74550f65e6c1af9bed40cfb168fd7",
+ "date": "2026-02-20",
+ "subject": "Refactored Index.tsx",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 8,
+ "ms": 46633
+}

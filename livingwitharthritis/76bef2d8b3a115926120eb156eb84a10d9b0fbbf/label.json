@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "76bef2d8b3a115926120eb156eb84a10d9b0fbbf",
+ "date": "2026-03-02",
+ "pr": null,
+ "title": "Add Self Help Tool nav link",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1682 later commits"
+}

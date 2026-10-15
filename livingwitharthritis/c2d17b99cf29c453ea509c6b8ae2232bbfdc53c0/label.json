@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "c2d17b99cf29c453ea509c6b8ae2232bbfdc53c0",
+ "date": "2026-03-04",
+ "pr": null,
+ "title": "Change chatbot icon and speed",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1661 later commits"
+}

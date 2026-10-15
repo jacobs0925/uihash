@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a9904ededc188fe3ed55ec019b471049447c2014",
+ "parent": "9d6b70790b75c8c6a1ea514a4fff1c9966a5c2f0",
+ "date": "2026-03-06",
+ "subject": "Add quote section on main page",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/QuoteSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 95160
+}

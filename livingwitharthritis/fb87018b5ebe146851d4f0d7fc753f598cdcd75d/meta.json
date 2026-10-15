@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "fb87018b5ebe146851d4f0d7fc753f598cdcd75d",
+ "parent": "d094e3773dd0f4a794de982cf1ce1e41cc65c9b4",
+ "date": "2026-02-22",
+ "subject": "Removed hero image block from HeroSection",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 48697
+}

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "d97f69e731d7e2d07a14c683c371549c37047fcd",
+ "date": "2026-03-04",
+ "pr": null,
+ "title": "Red and white UI overhaul",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "overflow-x: ∅ → hidden undone by edb9f15f \"Reverted to commit d97f69e731d7e2d07a14c683c371549c37047fcd\"; overflow-y: ∅ → hidden undone by edb9f15f \"Reverted to commit d97f69e731d7e2d07a14c683c371549c37047fcd\"; overflow-x: ∅ → hidden undone by edb9f15f \"Reverted to commit d97f69e731d7e2d07a14c683c371549c37047fcd\""
+}

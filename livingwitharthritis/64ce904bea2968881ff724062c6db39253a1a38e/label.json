@@ -7,6 +7,6 @@
  "title": "Editorialize remaining sections",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "overflow-x: ∅ → hidden undone by 2ff96b20 \"Redesign with warm charity look\"; padding-top: 112px → 144px undone by 2ff96b20 \"Redesign with warm charity look\"; padding-bottom: 112px → 144px undone by 2ff96b20 \"Redesign with warm charity look\""
 }

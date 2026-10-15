@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "253b5c2fb2baac09a28501f5def79351965162fa",
+ "parent": "13fa71412310a8eb38a2f40167c23bc7ca14a9b0",
+ "date": "2026-03-04",
+ "subject": "Speed up app performance",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/DonationNotification.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/ui/AnimatedSection.tsx",
+  "src/components/ui/PageTransition.tsx",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 16,
+ "ms": 103575
+}

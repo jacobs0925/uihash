@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "1eaf79a19cb2751b46e13109baeb9f32fe7b75d3",
+ "parent": "25bba9d225e8efffba09b2f3413448836a5713cb",
+ "date": "2026-03-03",
+ "subject": "Revamped header footer styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx",
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 29,
+ "ms": 171613
+}

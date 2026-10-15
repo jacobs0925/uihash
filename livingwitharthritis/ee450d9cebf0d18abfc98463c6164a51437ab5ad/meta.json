@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "ee450d9cebf0d18abfc98463c6164a51437ab5ad",
+ "parent": "d10d0173d085f131c829e3d585cd5625225df2d5",
+ "date": "2026-02-24",
+ "subject": "Add blog sitemap entries",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/sitemap.xml",
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 35144
+}

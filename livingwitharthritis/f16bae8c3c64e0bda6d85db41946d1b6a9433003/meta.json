@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f16bae8c3c64e0bda6d85db41946d1b6a9433003",
+ "parent": "62cf3290ab644b0e4dbe8fe5dca2236e0921b083",
+ "date": "2026-02-24",
+ "subject": "Add copyright year in footer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 36307
+}

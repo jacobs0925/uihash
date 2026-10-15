@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "16abf02e5857cc4e75329024f61540bd706b7b87",
+ "parent": "45e80120503716fa2543b25b61f7d6284ed3eb93",
+ "date": "2026-02-25",
+ "subject": "Improve Get in Touch section UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/GetInTouchSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 49423
+}

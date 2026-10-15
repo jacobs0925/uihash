@@ -1,0 +1,26 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "76a30d9bd955927a8abf4dd010aae4533ea626b4",
+ "parent": "3f960ead5025e0b417852607b1afb9e7e11a7294",
+ "date": "2026-02-25",
+ "subject": "Add condition pages for OA/RA/PsA",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/sitemap.xml",
+  "src/App.tsx",
+  "src/components/ConditionsSection.tsx",
+  "src/pages/conditions/Osteoarthritis.tsx",
+  "src/pages/conditions/PsoriaticArthritis.tsx",
+  "src/pages/conditions/RheumatoidArthritis.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 83556
+}

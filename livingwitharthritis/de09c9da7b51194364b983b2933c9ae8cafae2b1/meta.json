@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "de09c9da7b51194364b983b2933c9ae8cafae2b1",
+ "parent": "4da3dbcb7daab91bf047a5d173e107966df64d8b",
+ "date": "2026-02-22",
+ "subject": "Fix type issues in Index.tsx",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 16300
+}

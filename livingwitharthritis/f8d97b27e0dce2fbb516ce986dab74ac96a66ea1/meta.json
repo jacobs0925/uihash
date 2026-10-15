@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f8d97b27e0dce2fbb516ce986dab74ac96a66ea1",
+ "parent": "bedeb5882dd5b6657953b253cf560dbae7bd3fa1",
+ "date": "2026-03-01",
+ "subject": "Enhance load performance",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 78678
+}

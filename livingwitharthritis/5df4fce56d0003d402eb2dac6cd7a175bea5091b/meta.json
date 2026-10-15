@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "5df4fce56d0003d402eb2dac6cd7a175bea5091b",
+ "parent": "0bf9f119f3e1a5d93161020a19a2376ce248974b",
+ "date": "2026-03-08",
+ "subject": "Revamped header logo layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 12,
+ "ms": 189715
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "2b2f398fa4c28d4bb7ed3c9220f2f549baeb3228",
+ "parent": "3699a4c75a5af38c5cf57d6a6553aca7b6537901",
+ "date": "2026-02-24",
+ "subject": "Dynamic fundraising progress",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/FundraisingProgressSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 40460
+}

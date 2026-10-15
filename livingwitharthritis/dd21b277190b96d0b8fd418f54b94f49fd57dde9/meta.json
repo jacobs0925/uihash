@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "dd21b277190b96d0b8fd418f54b94f49fd57dde9",
+ "parent": "d0dac0bf4b818de0bed61c6399fb966c39e29439",
+ "date": "2026-02-26",
+ "subject": "Add MaxwellHealth credit UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 11,
+ "ms": 134391
+}

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "959fbf6dc68a50021ca56834896860e25e415480",
+ "date": "2026-02-20",
+ "pr": null,
+ "title": "Refactored Index.tsx",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 1a234b62, which restored a3538946 (21 commits discarded)"
+}

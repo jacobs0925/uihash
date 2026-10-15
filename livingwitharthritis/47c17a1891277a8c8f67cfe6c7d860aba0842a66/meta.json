@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "47c17a1891277a8c8f67cfe6c7d860aba0842a66",
+ "parent": "26f630553eb46538f8055df0bddf6a14bcc3b11a",
+ "date": "2026-03-02",
+ "subject": "Revamped humanoid SVG",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 49316
+}

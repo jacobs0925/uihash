@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "9782eb4be5cef47fc334d3aabe1e46be81304046",
+ "parent": "a00e90dce5fdd3628b2abf33939775790b314195",
+ "date": "2026-02-28",
+ "subject": "Fix UK Resources rendering",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/UKResourcesSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 38553
+}

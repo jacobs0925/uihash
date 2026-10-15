@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "95f860f49230c5ff0755124e09f66973767f68df",
+ "parent": "d38ede6b7d6165e35e5e8b52e7e6ed736bab98f7",
+ "date": "2026-02-23",
+ "subject": "Improve accreditation visuals in footer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 46415
+}

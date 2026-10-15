@@ -1,0 +1,32 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "14df052712515a21e2de55972b54dfc9990a3b2a",
+ "parent": "3ddcb22a0de9747840bccb102d983012488cb501",
+ "date": "2026-02-24",
+ "subject": "Integrate tip detail pages",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/assets/tip-anti-inflammatory.png",
+  "src/assets/tip-daily-living.png",
+  "src/assets/tip-health-tips.png",
+  "src/assets/tip-morning-stretches.png",
+  "src/assets/tip-pace-yourself.png",
+  "src/assets/tip-sleep.png",
+  "src/assets/tip-stay-hydrated.png",
+  "src/assets/tip-walk.png",
+  "src/components/landing/DailyTipsSection.tsx",
+  "src/data/dailyTips.ts",
+  "src/pages/DailyTipDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 66761
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "9d25111467b8414e2fa21a677edbbb1a60a357eb",
+ "parent": "4bb25618029183fad2fc2e6e91acd707f9a46476",
+ "date": "2026-02-24",
+ "subject": "Integrate Stripe donation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/FundraisingProgressSection.tsx",
+  "supabase/functions/create-donation-checkout/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 37147
+}

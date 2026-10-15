@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "0b73c514bbf0b6d12e8c81ed0b2de3c85779d782",
+ "parent": "95f860f49230c5ff0755124e09f66973767f68df",
+ "date": "2026-02-23",
+ "subject": "Blended accreditation logos",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 46156
+}

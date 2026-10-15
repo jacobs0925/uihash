@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "518eb538f8f7985e01f3ec63c18b4c502d5c0b4c",
+ "parent": "739d428d8b7b8b76c7eb497301186419ce5d0e1d",
+ "date": "2026-02-24",
+ "subject": "Enhance donation popup with fake donors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationNotification.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 26855
+}

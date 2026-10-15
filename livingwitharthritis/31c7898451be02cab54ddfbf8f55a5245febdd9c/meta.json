@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "31c7898451be02cab54ddfbf8f55a5245febdd9c",
+ "parent": "f16d05feff7fb908653d44bba34b77920f9eb344",
+ "date": "2026-03-08",
+ "subject": "Revamped sitemap page design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Sitemap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 10,
+ "ms": 87847
+}

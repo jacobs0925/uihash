@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "7372bafc28f3d237a9dd421bd52558de6bef67b2",
+ "parent": "20be2975eeef16db30bec5deb5b0e0f57f87a00c",
+ "date": "2026-02-20",
+ "subject": "Suppress fetch error toast",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 26747
+}

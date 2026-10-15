@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "70c8c963cb30c5144f877444b72144ef5d333ee7",
+ "parent": "4209b8f989b75d31b5d2c574c1f4a053e16260fb",
+ "date": "2026-02-23",
+ "subject": "Make footer links crawlable",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 35846
+}

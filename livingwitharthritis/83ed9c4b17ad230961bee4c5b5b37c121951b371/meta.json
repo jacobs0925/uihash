@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "83ed9c4b17ad230961bee4c5b5b37c121951b371",
+ "parent": "31c7898451be02cab54ddfbf8f55a5245febdd9c",
+ "date": "2026-03-08",
+ "subject": "Add scroll progress component",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/Header.tsx",
+  "src/components/HeroSection.css",
+  "src/components/HeroSection.tsx",
+  "src/components/ScrollProgress.tsx",
+  "src/components/landing/ImpactBannerSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 26,
+ "ms": 142510
+}

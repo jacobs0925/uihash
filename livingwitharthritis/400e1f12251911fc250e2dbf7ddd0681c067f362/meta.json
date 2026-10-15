@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "400e1f12251911fc250e2dbf7ddd0681c067f362",
+ "parent": "42a5116ea7d10f69c68ff4b8e05abe0dfdfbe581",
+ "date": "2026-02-25",
+ "subject": "Red color scheme update",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 40,
+ "ms": 113280
+}

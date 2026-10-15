@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "bff589cace65dd02666ed43725c23bab2f18d173",
+ "parent": "570af949122c8d38d03a9755ea95798690db38cd",
+ "date": "2026-03-07",
+ "subject": "Redesigned sitemap page",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/PartnersSection.tsx",
+  "src/components/landing/QuoteSection.tsx",
+  "src/components/landing/SocialProofSection.tsx",
+  "src/components/landing/TestimonialsSection.tsx",
+  "src/components/landing/TrustBarSection.tsx",
+  "src/pages/Sitemap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 17,
+ "ms": 129083
+}

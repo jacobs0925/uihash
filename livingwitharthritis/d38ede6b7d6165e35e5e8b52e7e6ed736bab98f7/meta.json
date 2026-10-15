@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "d38ede6b7d6165e35e5e8b52e7e6ed736bab98f7",
+ "parent": "c0f0b92f541a1015ae4ab0d1bda751d3f290af16",
+ "date": "2026-02-23",
+ "subject": "Add accreditation logos to footer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/accreditation-logos.png",
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 45248
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "edb9f15f817945ce5623d70ad0815b4c18e0d371",
+ "parent": "edda6c6b87e5989e3cd7e70e79c8d780a486e127",
+ "date": "2026-03-04",
+ "subject": "Reverted to commit d97f69e731d7e2d07a14c683c371549c37047fcd",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx",
+  "src/components/Header.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/landing/BlogPreviewSection.tsx",
+  "src/components/landing/FundraisingProgressSection.tsx",
+  "src/components/landing/TestimonialsSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 43,
+ "ms": 166860
+}

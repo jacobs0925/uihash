@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "fc44404b0a883d012fa1ac04c326b4f3343d1a42",
+ "date": "2026-02-24",
+ "pr": null,
+ "title": "Improve sitemap and robots rules",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1743 later commits"
+}

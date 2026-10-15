@@ -5,8 +5,8 @@
  "date": "2026-02-16",
  "pr": null,
  "title": "Add parallax scroll effects",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1881 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "transform: ∅ → matrix(1, 0, 0, 1, 0, 80) undone by 42a5116e \"Refactored arthritis site UI\"; transform: ∅ → matrix(1, 0, 0, 1, 0, 80) undone by 42a5116e \"Refactored arthritis site UI\"; transform: ∅ → matrix(1, 0, 0, 1, 0, 80) undone by 42a5116e \"Refactored arthritis site UI\""
 }

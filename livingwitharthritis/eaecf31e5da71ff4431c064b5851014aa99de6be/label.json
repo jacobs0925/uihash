@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "eaecf31e5da71ff4431c064b5851014aa99de6be",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Enhanced cookie prompts and policies",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1641 later commits"
+}

@@ -1,0 +1,32 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "7fededbf8bfde4f5ad39b0c918891f301e365e25",
+ "parent": "928e513d0ee5bb10aafc6df5d3fdfe4163fbbd24",
+ "date": "2026-03-04",
+ "subject": "Enhance UX across app",
+ "components": [
+  "App.tsx",
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/AppointmentModal.tsx",
+  "src/components/ContactFormModal.tsx",
+  "src/components/ErrorBoundary.tsx",
+  "src/components/ui/AnimatedSection.tsx",
+  "src/components/ui/PageTransition.tsx",
+  "src/components/ui/SkeletonCard.tsx",
+  "src/hooks/useScrollAnimation.ts",
+  "src/index.css",
+  "src/pages/AdminDashboard.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 20,
+ "ms": 149652
+}

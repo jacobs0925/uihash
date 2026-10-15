@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "13fa71412310a8eb38a2f40167c23bc7ca14a9b0",
+ "parent": "edb9f15f817945ce5623d70ad0815b4c18e0d371",
+ "date": "2026-03-04",
+ "subject": "Color modals red/white theme",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AppointmentModal.tsx",
+  "src/components/ContactFormModal.tsx",
+  "src/components/FeedbackPopup.tsx",
+  "src/components/StripeDonationModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 38163
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "29d745dfd53373ad1477e771709a94bc994ae78c",
+ "parent": "70c8c963cb30c5144f877444b72144ef5d333ee7",
+ "date": "2026-02-23",
+ "subject": "Target UK arthritis SEO",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 25923
+}

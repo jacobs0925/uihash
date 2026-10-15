@@ -1,0 +1,24 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "5f5e68420332d95b5fe0509725c40955c048312e",
+ "parent": "387fecf3c0db633eb515c92e2882f32d2b7f2372",
+ "date": "2026-02-24",
+ "subject": "Reordered sections and added images",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/assets/mobile-app-mockup.jpg",
+  "src/assets/video-cta-exercise.jpg",
+  "src/components/landing/MobileAppCTA.tsx",
+  "src/components/landing/VideoCTASection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 59432
+}

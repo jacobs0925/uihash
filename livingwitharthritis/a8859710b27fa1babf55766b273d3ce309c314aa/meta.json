@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a8859710b27fa1babf55766b273d3ce309c314aa",
+ "parent": "9782eb4be5cef47fc334d3aabe1e46be81304046",
+ "date": "2026-02-28",
+ "subject": "Removed Versus Arthritis link",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/UKResourcesSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 46638
+}

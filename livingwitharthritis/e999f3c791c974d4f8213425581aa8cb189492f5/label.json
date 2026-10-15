@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "e999f3c791c974d4f8213425581aa8cb189492f5",
+ "date": "2026-02-26",
+ "pr": null,
+ "title": "Add blog pagination and filters",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1706 later commits"
+}

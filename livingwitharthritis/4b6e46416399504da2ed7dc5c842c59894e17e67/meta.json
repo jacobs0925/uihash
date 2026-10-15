@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4b6e46416399504da2ed7dc5c842c59894e17e67",
+ "parent": "1d4e9e4cb07dcc619bf6612040972fec0782a2e4",
+ "date": "2026-03-06",
+ "subject": "Improved admin backend UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AdminAppointments.tsx",
+  "src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51736
+}

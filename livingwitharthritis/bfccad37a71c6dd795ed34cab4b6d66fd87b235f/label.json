@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "bfccad37a71c6dd795ed34cab4b6d66fd87b235f",
+ "date": "2026-02-25",
+ "pr": null,
+ "title": "Make header text uniform color",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1730 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "1c0700cd688f839cef5a3967884973db8942ceca",
+ "parent": "e999f3c791c974d4f8213425581aa8cb189492f5",
+ "date": "2026-02-26",
+ "subject": "Removed VideoCTA import",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 50889
+}

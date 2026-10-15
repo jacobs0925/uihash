@@ -1,0 +1,30 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "0bf9f119f3e1a5d93161020a19a2376ce248974b",
+ "parent": "eaecf31e5da71ff4431c064b5851014aa99de6be",
+ "date": "2026-03-08",
+ "subject": "Premium frontend overhaul",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/Header.tsx",
+  "src/components/HeroSection.css",
+  "src/components/HeroSection.tsx",
+  "src/components/ServicesGrid.tsx",
+  "src/components/landing/FinalCTASection.tsx",
+  "src/components/landing/HowItWorksSection.tsx",
+  "src/components/landing/QuoteSection.tsx",
+  "src/index.css",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 96,
+ "ms": 199159
+}

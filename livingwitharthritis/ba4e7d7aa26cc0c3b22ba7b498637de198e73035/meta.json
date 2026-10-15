@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "ba4e7d7aa26cc0c3b22ba7b498637de198e73035",
+ "parent": "f8d97b27e0dce2fbb516ce986dab74ac96a66ea1",
+ "date": "2026-03-02",
+ "subject": "Reorganized homepage with tabs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 15,
+ "ms": 120940
+}

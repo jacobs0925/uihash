@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "76ff1b50196817a44662232aaf3688fd525837ca",
+ "date": "2026-02-22",
+ "pr": null,
+ "title": "Fix typing and loading tweaks",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by f718fb06, which restored 95b37445 (5 commits discarded)"
+}

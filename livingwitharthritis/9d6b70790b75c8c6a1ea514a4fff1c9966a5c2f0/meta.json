@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "9d6b70790b75c8c6a1ea514a4fff1c9966a5c2f0",
+ "parent": "b8f8497cf8517adc3dbd523a2480fb3d33961d68",
+ "date": "2026-03-05",
+ "subject": "Add zakat appeal page",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/assets/zakat-appeal-hero.jpg",
+  "src/components/DonationBanner.tsx",
+  "src/pages/ZakatAppeal.tsx",
+  "supabase/functions/create-donation-checkout/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 34601
+}

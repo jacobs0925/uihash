@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "1a73692089cfb7b6277c38b794397d8d6e1e5036",
+ "parent": "cd3c9b5b250c701dce68a181e5c4e6f500d16ba0",
+ "date": "2026-02-24",
+ "subject": "Premium animations added",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConditionsSection.tsx",
+  "src/components/NutritionArticleSection.tsx",
+  "src/components/VirtualPhysioSection.tsx",
+  "src/components/landing/BlogPreviewSection.tsx",
+  "src/components/landing/FundraisingProgressSection.tsx",
+  "src/components/landing/PartnersSection.tsx",
+  "src/components/landing/VideoCTASection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 94797
+}

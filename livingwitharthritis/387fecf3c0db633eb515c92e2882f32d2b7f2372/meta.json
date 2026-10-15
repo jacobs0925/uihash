@@ -1,0 +1,40 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "387fecf3c0db633eb515c92e2882f32d2b7f2372",
+ "parent": "518eb538f8f7985e01f3ec63c18b4c502d5c0b4c",
+ "date": "2026-02-24",
+ "subject": "Add 20 landing sections",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/AccessibilitySection.tsx",
+  "src/components/landing/BlogPreviewSection.tsx",
+  "src/components/landing/CommunitySection.tsx",
+  "src/components/landing/ComparisonSection.tsx",
+  "src/components/landing/DailyTipsSection.tsx",
+  "src/components/landing/EventsSection.tsx",
+  "src/components/landing/ExpertsSection.tsx",
+  "src/components/landing/FAQSection.tsx",
+  "src/components/landing/FinalCTASection.tsx",
+  "src/components/landing/FundraisingProgressSection.tsx",
+  "src/components/landing/HowItWorksSection.tsx",
+  "src/components/landing/ImpactBannerSection.tsx",
+  "src/components/landing/MobileAppCTA.tsx",
+  "src/components/landing/NewsletterSection.tsx",
+  "src/components/landing/SocialProofSection.tsx",
+  "src/components/landing/SymptomCheckerCTA.tsx",
+  "src/components/landing/TestimonialsSection.tsx",
+  "src/components/landing/TimelineSection.tsx",
+  "src/components/landing/TrustBarSection.tsx",
+  "src/components/landing/VideoCTASection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 55502
+}

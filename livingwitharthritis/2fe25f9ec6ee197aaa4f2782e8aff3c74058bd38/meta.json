@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "2fe25f9ec6ee197aaa4f2782e8aff3c74058bd38",
+ "parent": "29d745dfd53373ad1477e771709a94bc994ae78c",
+ "date": "2026-02-23",
+ "subject": "Added UK keywords meta tag",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 25715
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f2d6ae8414c92de9c62cd113aaea96caa93584bf",
+ "parent": "c0088b49dfaf6d4a9096de7dfa7c377485684d52",
+ "date": "2026-02-28",
+ "subject": "Added related articles feature",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/sitemap.xml",
+  "src/components/RelatedArticles.tsx",
+  "src/pages/BlogPost.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 43512
+}

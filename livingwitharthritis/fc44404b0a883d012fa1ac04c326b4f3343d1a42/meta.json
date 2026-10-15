@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "fc44404b0a883d012fa1ac04c326b4f3343d1a42",
+ "parent": "9d25111467b8414e2fa21a677edbbb1a60a357eb",
+ "date": "2026-02-24",
+ "subject": "Improve sitemap and robots rules",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "public/robots.txt",
+  "public/sitemap.xml",
+  "src/pages/Sitemap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 9,
+ "ms": 36853
+}

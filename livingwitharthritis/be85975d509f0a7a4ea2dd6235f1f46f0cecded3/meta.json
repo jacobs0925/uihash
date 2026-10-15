@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "be85975d509f0a7a4ea2dd6235f1f46f0cecded3",
+ "parent": "a8859710b27fa1babf55766b273d3ce309c314aa",
+ "date": "2026-02-28",
+ "subject": "Revamped joint visuals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 77038
+}

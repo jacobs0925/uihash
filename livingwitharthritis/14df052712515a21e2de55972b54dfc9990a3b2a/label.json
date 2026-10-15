@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "14df052712515a21e2de55972b54dfc9990a3b2a",
+ "date": "2026-02-24",
+ "pr": null,
+ "title": "Integrate tip detail pages",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1750 later commits"
+}

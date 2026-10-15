@@ -1,0 +1,33 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "169fe39e9208c7d6dae56fc97da744f165f17e1a",
+ "parent": "1eaf79a19cb2751b46e13109baeb9f32fe7b75d3",
+ "date": "2026-03-03",
+ "subject": "Improve UI with colored sections",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/ServicesGrid.tsx",
+  "src/components/landing/BlogPreviewSection.tsx",
+  "src/components/landing/DailyTipsSection.tsx",
+  "src/components/landing/FAQSection.tsx",
+  "src/components/landing/FundraisingProgressSection.tsx",
+  "src/components/landing/GetInTouchSection.tsx",
+  "src/components/landing/HowItWorksSection.tsx",
+  "src/components/landing/NewsletterSection.tsx",
+  "src/components/landing/TestimonialsSection.tsx",
+  "src/index.css",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 54,
+ "ms": 175981
+}

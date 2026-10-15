@@ -1,0 +1,24 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "5d7b3eff98495235d84413301eb64ba35cc2f9cc",
+ "parent": "752a908e0eb09e0f1d37e020292759d25b754efb",
+ "date": "2026-03-02",
+ "subject": "Revamped conditions visuals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/images/condition-osteoarthritis.jpg",
+  "public/images/condition-psoriatic.jpg",
+  "public/images/condition-rheumatoid.jpg",
+  "src/components/ConditionsSection.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260302113909_e13b0fe0-91c5-429d-9fb4-adeb431f59f2.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 48632
+}

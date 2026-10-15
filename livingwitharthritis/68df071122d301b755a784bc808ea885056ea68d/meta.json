@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "68df071122d301b755a784bc808ea885056ea68d",
+ "parent": "1a234b62b3c146c0fa5229f71fb144fed87ea1e0",
+ "date": "2026-02-22",
+ "subject": "Improve backend modal and fix app wiring",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 8,
+ "ms": 38081
+}

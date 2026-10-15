@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4fe67a684d4aa5bdf3cb0be1fea8719d57ee20ca",
+ "parent": "79fee62555047f4bb853ec2aed203b093b1eb978",
+ "date": "2026-03-04",
+ "subject": "Add chatbot to all pages",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 47417
+}

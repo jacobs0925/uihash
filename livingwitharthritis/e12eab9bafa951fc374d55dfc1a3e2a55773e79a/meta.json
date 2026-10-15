@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "e12eab9bafa951fc374d55dfc1a3e2a55773e79a",
+ "parent": "2467c3d78cc55503349fa1d5324f98f168bd0d89",
+ "date": "2026-02-22",
+ "subject": "Improve type safety in Index.tsx",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 17051
+}

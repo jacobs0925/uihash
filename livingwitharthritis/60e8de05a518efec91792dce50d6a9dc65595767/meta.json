@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "60e8de05a518efec91792dce50d6a9dc65595767",
+ "parent": "35bfd50365c325297c009db2271ae17de347292c",
+ "date": "2026-02-22",
+ "subject": "Fix types for Intersection hook",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 17070
+}

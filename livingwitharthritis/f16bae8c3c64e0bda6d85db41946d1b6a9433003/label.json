@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "f16bae8c3c64e0bda6d85db41946d1b6a9433003",
+ "date": "2026-02-24",
+ "pr": null,
+ "title": "Add copyright year in footer",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1757 later commits"
+}

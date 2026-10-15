@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "2a57b95e2069cdb5f9b5df48a4f3e2816fbbb523",
+ "date": "2026-02-22",
+ "pr": null,
+ "title": "Remove hero image layout",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "row-gap: 16px → normal undone by 2b60ee46 \"Polished hero and visuals\"; column-gap: 16px → normal undone by 2b60ee46 \"Polished hero and visuals\"; row-gap: 16px → normal undone by 2b60ee46 \"Polished hero and visuals\""
+}

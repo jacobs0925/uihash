@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "cd3c9b5b250c701dce68a181e5c4e6f500d16ba0",
+ "date": "2026-02-24",
+ "pr": null,
+ "title": "Ultrafine UI polish completed",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "position: ∅ → relative undone by 42a5116e \"Refactored arthritis site UI\"; padding-right: 24px → 28px undone by 42a5116e \"Refactored arthritis site UI\"; padding-left: 24px → 28px undone by 42a5116e \"Refactored arthritis site UI\""
+}

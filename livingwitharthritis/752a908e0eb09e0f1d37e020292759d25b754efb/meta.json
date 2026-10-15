@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "752a908e0eb09e0f1d37e020292759d25b754efb",
+ "parent": "47c17a1891277a8c8f67cfe6c7d860aba0842a66",
+ "date": "2026-03-02",
+ "subject": "Replaced with old mannequin",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 49751
+}

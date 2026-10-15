@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "fae9b9818102191afc1fb92958acaa7d4f23170f",
+ "date": "2026-03-04",
+ "pr": null,
+ "title": "Reverted to commit 1eaf79a19cb2751b46e13109baeb9f32fe7b75d3",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 40px → 0px undone by f16d05fe \"Add colorful section tints\"; padding-right: 40px → 0px undone by f16d05fe \"Add colorful section tints\"; background-clip: border-box → ∅ undone by f16d05fe \"Add colorful section tints\""
+}

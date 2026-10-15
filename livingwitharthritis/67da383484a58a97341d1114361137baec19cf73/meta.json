@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "67da383484a58a97341d1114361137baec19cf73",
+ "parent": "1ff8a3c5bc57e97eb14224fe785f1c2469a881cb",
+ "date": "2026-03-04",
+ "subject": "Improve speed and cleanup assets",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/components/HeroSection.tsx",
+  "src/components/ui/AnimatedSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 33614
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "09d852aab21079cbaecfc0420d9a86d68139cdd6",
+ "parent": "1c0700cd688f839cef5a3967884973db8942ceca",
+ "date": "2026-02-26",
+ "subject": "Remove PartnersSection import and usage",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 51654
+}

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "1a234b62b3c146c0fa5229f71fb144fed87ea1e0",
+ "date": "2026-02-22",
+ "pr": null,
+ "title": "Reverted to commit a3538946c0c74550f65e6c1af9bed40cfb168fd7",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "padding-top: 0px → 48px undone by 68df0711 \"Improve backend modal and fix app wiring\"; padding-right: 0px → 48px undone by 68df0711 \"Improve backend modal and fix app wiring\"; padding-top: 0px → 48px undone by 68df0711 \"Improve backend modal and fix app wiring\""
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "893fc075ac92daf7ec68e41a3240aecd0874edc1",
+ "parent": "f059ce5530ae63ea2164d15e65a6ee33d9391c25",
+ "date": "2026-02-24",
+ "subject": "Improvise About Us page",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/Footer.tsx",
+  "src/components/Header.tsx",
+  "src/pages/AboutUs.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 61583
+}

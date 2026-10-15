@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "7ae99af714a04565007f0ee02b190199f2424588",
+ "parent": "500c9446285d3e9b24447cadfc89a4c9f79d7880",
+ "date": "2025-11-07",
+ "subject": "Reverted to commit 99f8743502f65ebd83cce7aa7c4cb3d59d020018",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/components/IssuedTokensHistory.tsx",
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59460
+}

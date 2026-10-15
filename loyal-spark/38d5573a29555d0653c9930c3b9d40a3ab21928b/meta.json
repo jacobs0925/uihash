@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "38d5573a29555d0653c9930c3b9d40a3ab21928b",
+ "parent": "6605a14fbd85309849f045959337bde5fdcb5550",
+ "date": "2025-11-07",
+ "subject": "Reverted to commit 172704a8660c0040e438c4063f6d586fde03f410",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59583
+}

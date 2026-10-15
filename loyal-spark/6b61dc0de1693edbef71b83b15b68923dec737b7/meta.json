@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "6b61dc0de1693edbef71b83b15b68923dec737b7",
+ "parent": "ddf494c74cee08d7f53d06a4873b0cffd9b83b31",
+ "date": "2025-11-07",
+ "subject": "Reverted to commit 21440a03e86a3eac93c728fd1100090ca4c100a1",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 60142
+}

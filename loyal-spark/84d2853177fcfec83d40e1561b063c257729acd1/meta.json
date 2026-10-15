@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "84d2853177fcfec83d40e1561b063c257729acd1",
+ "parent": "0decc8add9dc6874c659b1ccc30e9244a251c8b5",
+ "date": "2025-11-03",
+ "subject": "Fix security errors from scan",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/lib/validationSchemas.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 60293
+}

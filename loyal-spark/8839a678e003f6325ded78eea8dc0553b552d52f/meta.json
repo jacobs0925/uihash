@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "8839a678e003f6325ded78eea8dc0553b552d52f",
+ "parent": "cd54997e3fcda8a09b06fe639a58e0394dd20849",
+ "date": "2025-10-28",
+ "subject": "Fix: Program activation fails on Farcaster",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 65754
+}

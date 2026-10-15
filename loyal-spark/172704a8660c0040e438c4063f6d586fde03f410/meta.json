@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "172704a8660c0040e438c4063f6d586fde03f410",
+ "parent": "8b8239b534d03085a27a3e20472f62bcb7704ab8",
+ "date": "2025-11-06",
+ "subject": "Fix Farcaster login issue",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57851
+}

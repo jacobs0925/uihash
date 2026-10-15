@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "0f104b1b4485527c255e95b5a5503d0a1a42e597",
+ "date": "2025-11-21",
+ "pr": "2",
+ "title": "Uds adaptation (#2)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 670 later commits"
+}

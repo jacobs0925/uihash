@@ -5,8 +5,8 @@
  "date": "2025-10-23",
  "pr": null,
  "title": "Clean up App component by removing unused code",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 888 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: block → flex undone by 5bc44ad8 \"Reverted to commit 04482de8a695c179572602103b55f20eb13bb42e\"; flex-direction: ∅ → row undone by 5bc44ad8 \"Reverted to commit 04482de8a695c179572602103b55f20eb13bb42e\"; flex-wrap: ∅ → nowrap undone by 5bc44ad8 \"Reverted to commit 04482de8a695c179572602103b55f20eb13bb42e\""
 }

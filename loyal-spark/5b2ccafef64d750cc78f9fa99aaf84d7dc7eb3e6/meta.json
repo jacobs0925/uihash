@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5b2ccafef64d750cc78f9fa99aaf84d7dc7eb3e6",
+ "parent": "cc696bdd2cbbe560624d422379d9c7a61ceb7705",
+ "date": "2025-10-30",
+ "subject": "Update email address",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "FARCASTER_APP_README.md",
+  "README.md",
+  "README_FARCASTER_RU.md",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 66227
+}

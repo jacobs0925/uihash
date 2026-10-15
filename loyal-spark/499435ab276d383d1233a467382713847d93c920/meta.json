@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "499435ab276d383d1233a467382713847d93c920",
+ "parent": "2e75acabd6c8088f6e91ae02b300a7bafe97d5d0",
+ "date": "2025-11-07",
+ "subject": "Rename token from LSP to LOYAL",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DexIntegration.tsx",
+  "src/hooks/useSwapWithCashback.ts",
+  "src/pages/AppPage.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 5,
+ "ms": 66803
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e4e288c9989f0f4d13cf6fc28de6c271f4e8dfda",
+ "parent": "1c88fa8f4b57525af6a0665b3aafcebd21450cb0",
+ "date": "2025-10-28",
+ "subject": "Refine Farcaster context detection",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 68603
+}

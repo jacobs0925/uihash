@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "0345beb42fef926336d49df3b40ccc8fd0abd38f",
+ "parent": "094f288d62cf954dafbf12b474e165b587693027",
+ "date": "2025-10-28",
+ "subject": "Fix: Vouchers not appearing without refresh",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/VouchersManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58152
+}

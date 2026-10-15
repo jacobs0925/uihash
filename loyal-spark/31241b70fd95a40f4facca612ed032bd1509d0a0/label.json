@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "31241b70fd95a40f4facca612ed032bd1509d0a0",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Integrate admin UI for premium",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 653 later commits"
+}

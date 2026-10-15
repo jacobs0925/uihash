@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "317e4b8b0cd6149c44d2ed7e235e429585307339",
+ "parent": "86440ba3d07072101c400a01d7c6a59c0efcf409",
+ "date": "2025-10-28",
+ "subject": "Fix: Farcaster connect button not working",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56039
+}

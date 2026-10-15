@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "70b5ab5c5eb95fc52e700d56f7fe9b76dd372f7e",
+ "date": "2025-10-26",
+ "pr": null,
+ "title": "Fix PitchDeck logo",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 871 later commits"
+}

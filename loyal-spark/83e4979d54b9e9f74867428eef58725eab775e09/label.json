@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "83e4979d54b9e9f74867428eef58725eab775e09",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Add instructions for debugging.",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 8c4d35d5, which restored 2c6303ea (30 commits discarded)"
+}

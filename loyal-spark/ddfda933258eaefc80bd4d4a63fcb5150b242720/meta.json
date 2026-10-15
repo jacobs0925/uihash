@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ddfda933258eaefc80bd4d4a63fcb5150b242720",
+ "parent": "7ae99af714a04565007f0ee02b190199f2424588",
+ "date": "2025-11-07",
+ "subject": "Reverted to commit 837ea920beed50f1499d2c5c07b13d701f1a10f7",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58993
+}

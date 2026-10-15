@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "136eafda1497e990d94eece82b3e368ae8030d46",
+ "parent": "0345beb42fef926336d49df3b40ccc8fd0abd38f",
+ "date": "2025-10-30",
+ "subject": "Fix voucher activation failure",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/lib/vouchers.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58475
+}

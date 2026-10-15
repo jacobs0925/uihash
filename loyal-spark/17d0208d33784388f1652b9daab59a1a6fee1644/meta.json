@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "17d0208d33784388f1652b9daab59a1a6fee1644",
+ "parent": "317e4b8b0cd6149c44d2ed7e235e429585307339",
+ "date": "2025-10-28",
+ "subject": "Fix console access for mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56260
+}

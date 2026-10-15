@@ -1,0 +1,31 @@
+{
+ "repo": "loyal-spark",
+ "sha": "2e75acabd6c8088f6e91ae02b300a7bafe97d5d0",
+ "parent": "c0e0bfb3a98438e841231b0600ff97e650a3f48e",
+ "date": "2025-11-07",
+ "subject": "Refactor homepage and app page",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/components/CustomerPanel.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/components/RoleSelector.tsx",
+  "src/pages/AppPage.tsx",
+  "src/pages/CustomerPage.tsx",
+  "src/pages/GuidePage.tsx",
+  "src/pages/Index.tsx",
+  "src/pages/MerchantPage.tsx",
+  "src/pages/pitch-deck/PitchDeck.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 27,
+ "ms": 88934
+}

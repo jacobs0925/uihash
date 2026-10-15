@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e194f60a0bb8ecf7430895c341aa8222f45cb950",
+ "parent": "ec0daf4784d4ff39464d73bc39b544b1df7542fd",
+ "date": "2025-10-30",
+ "subject": "feat: Display user avatar and username",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58577
+}

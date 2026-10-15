@@ -5,8 +5,8 @@
  "date": "2025-10-19",
  "pr": null,
  "title": "Refactor merchant data migration",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1075 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: flex → block undone by 0f104b1b \"Uds adaptation (#2)\"; flex-direction: row → ∅ undone by 0f104b1b \"Uds adaptation (#2)\"; flex-wrap: nowrap → ∅ undone by 0f104b1b \"Uds adaptation (#2)\""
 }

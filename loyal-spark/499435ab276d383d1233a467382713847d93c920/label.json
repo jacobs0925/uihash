@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "499435ab276d383d1233a467382713847d93c920",
+ "date": "2025-11-07",
+ "pr": null,
+ "title": "Rename token from LSP to LOYAL",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 5bc44ad8, which restored 04482de8 (30 commits discarded)"
+}

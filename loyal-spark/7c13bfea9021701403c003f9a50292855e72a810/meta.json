@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "7c13bfea9021701403c003f9a50292855e72a810",
+ "parent": "e4e288c9989f0f4d13cf6fc28de6c271f4e8dfda",
+ "date": "2025-10-28",
+ "subject": "Fix disconnect button in web version",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 68908
+}

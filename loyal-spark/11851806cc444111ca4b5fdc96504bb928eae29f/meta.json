@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "11851806cc444111ca4b5fdc96504bb928eae29f",
+ "parent": "f82e3b1454b9688399ea768af3958b39c04ca69d",
+ "date": "2025-10-28",
+ "subject": "Fix: Update transaction history in real-time",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx",
+  "src/components/MerchantPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58043
+}

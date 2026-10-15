@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5078513bedf1bf38e41204cc114006779067609d",
+ "parent": "9b9c15ecdf9016c037ed3b5171ea0690f305ca5c",
+ "date": "2025-10-27",
+ "subject": "Fix Farcaster wallet connection",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthPrompt.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57964
+}

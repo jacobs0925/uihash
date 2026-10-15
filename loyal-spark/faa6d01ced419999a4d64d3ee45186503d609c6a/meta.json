@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "faa6d01ced419999a4d64d3ee45186503d609c6a",
+ "parent": "9fc0439b22e01efeeabe04173ded288b87e61837",
+ "date": "2025-10-28",
+ "subject": "Investigate wallet connection",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthPrompt.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 63947
+}

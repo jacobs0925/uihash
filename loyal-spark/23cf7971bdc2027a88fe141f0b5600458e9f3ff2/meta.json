@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "23cf7971bdc2027a88fe141f0b5600458e9f3ff2",
+ "parent": "3d735139e8d86960827d6cff0cc0245a31875169",
+ "date": "2025-11-21",
+ "subject": "Integrate direct premium payment",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/roundup/InvestmentStrategies.tsx",
+  "src/components/roundup/PremiumUpgradeDialog.tsx",
+  "src/hooks/usePremiumStatus.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251121172856_4ab96ee2-408c-4031-bf75-5779c209dbae.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 69333
+}

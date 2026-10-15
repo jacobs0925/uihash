@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "21440a03e86a3eac93c728fd1100090ca4c100a1",
+ "parent": "badbcdf319dd9c27fa832fdf1e67b0c24611abe3",
+ "date": "2025-11-04",
+ "subject": "Update Farcaster frame profile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 61222
+}

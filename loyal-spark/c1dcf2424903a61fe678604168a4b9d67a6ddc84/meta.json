@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "c1dcf2424903a61fe678604168a4b9d67a6ddc84",
+ "parent": "70b5ab5c5eb95fc52e700d56f7fe9b76dd372f7e",
+ "date": "2025-10-26",
+ "subject": "Fix PitchDeck header logo",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/pitch-deck/PitchDeck.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 81712
+}

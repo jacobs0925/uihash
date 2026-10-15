@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "fcc825233eff67b689b93b90fb6f1e516f25a9df",
+ "parent": "6354499f48b95e123ae952694480fd2645d3d78d",
+ "date": "2025-11-07",
+ "subject": "Fix token card width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58214
+}

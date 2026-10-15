@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4c150013a47fd45cd2e8c169995e3e668d8d71c2",
+ "parent": "ee258f923cc494aa39a07f0a9316d48a002e1d3c",
+ "date": "2025-10-28",
+ "subject": "Fix: WalletConnect and MetaMask show QR codes",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 63108
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ad7658a0bfd3e3e0f7c918bf976ac06e88a841c8",
+ "parent": "5b2ccafef64d750cc78f9fa99aaf84d7dc7eb3e6",
+ "date": "2025-10-30",
+ "subject": "Update icon for rewards",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/pages/CustomerPage.tsx",
+  "src/pages/MerchantPage.tsx",
+  "src/pages/pitch-deck/PitchDeck.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 76195
+}

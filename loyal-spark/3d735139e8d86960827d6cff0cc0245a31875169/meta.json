@@ -1,0 +1,29 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3d735139e8d86960827d6cff0cc0245a31875169",
+ "parent": "d041a833e509bcf0470987f7d4b964b2a6dafae3",
+ "date": "2025-11-21",
+ "subject": "Integrate Round-Up on home",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/roundup/DirectDepositDialog.tsx",
+  "src/components/roundup/InvestmentStrategies.tsx",
+  "src/components/roundup/RoundUpDashboard.tsx",
+  "src/components/roundup/RoundUpSettings.tsx",
+  "src/config/roundup-contracts.ts",
+  "src/hooks/useRoundUp.ts",
+  "src/hooks/useRoundUpInvest.ts",
+  "src/hooks/useRoundUpSettings.ts",
+  "src/pages/CustomerPage.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 92452
+}

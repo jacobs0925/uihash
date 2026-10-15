@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b382c14f23fcc8d8b35e30ef6519e03770fd96bd",
+ "parent": "204e33b44fb6f7090414d142d405d7292ad7039d",
+ "date": "2025-11-03",
+ "subject": "Fix wallet disconnect delay",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58175
+}

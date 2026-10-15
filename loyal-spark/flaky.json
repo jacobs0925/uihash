@@ -1,1 +1,15 @@
-[]
+[
+ "customer|hover||same-data|div (same data, drawn differently)|display: block → flex|flex-direction: ∅ → row|flex-wrap: ∅ → nowrap|justify-content: ∅ → center|… and 5 more like these",
+ "pitch|default||same-data|button (same data, drawn differently)|added: button (\"Connect Wallet\")",
+ "pitch|default||same-data|button (same data, drawn differently)|removed: button (\"Connect Wallet\")",
+ "pitch|default||same-data|div (same data, drawn differently)|added: div (\"Connect Wallet\")",
+ "pitch|default||same-data|div (same data, drawn differently)|removed: div (\"Connect Wallet\")",
+ "pitch|focus||same-data|button (same data, drawn differently)|added: button (\"Connect Wallet\")",
+ "pitch|focus||same-data|button (same data, drawn differently)|removed: button (\"Connect Wallet\")",
+ "pitch|focus||same-data|div (same data, drawn differently)|added: div (\"Connect Wallet\")",
+ "pitch|focus||same-data|div (same data, drawn differently)|removed: div (\"Connect Wallet\")",
+ "pitch|hover||same-data|button (same data, drawn differently)|added: button (\"Connect Wallet\")",
+ "pitch|hover||same-data|button (same data, drawn differently)|removed: button (\"Connect Wallet\")",
+ "pitch|hover||same-data|div (same data, drawn differently)|added: div (\"Connect Wallet\")",
+ "pitch|hover||same-data|div (same data, drawn differently)|removed: div (\"Connect Wallet\")"
+]

@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "38a8f349738fb2f66c8d7c0ead52b85c49105c0c",
+ "parent": "3c9bb9cf89e3a3ed426a354ebd8bcdb25527c383",
+ "date": "2025-10-28",
+ "subject": "Fix: Loyalty program activation fails",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/hooks/useToggleProgramStatus.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57454
+}

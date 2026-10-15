@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "809c149d8c0aa12dbab998eea3e0dc458e10f1d9",
+ "parent": "82a77c24487766a3e1ec019f8542d3b09348b251",
+ "date": "2025-11-21",
+ "subject": "Add ETH send with round-up UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/roundup/RoundUpDashboard.tsx",
+  "src/components/roundup/SendWithRoundUp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 69513
+}

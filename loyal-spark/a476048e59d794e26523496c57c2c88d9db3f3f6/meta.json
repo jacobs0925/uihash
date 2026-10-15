@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a476048e59d794e26523496c57c2c88d9db3f3f6",
+ "parent": "0f3bbb44547eacb881c95ec780487452cd339f1e",
+ "date": "2025-11-06",
+ "subject": "Fix token card borders",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58274
+}

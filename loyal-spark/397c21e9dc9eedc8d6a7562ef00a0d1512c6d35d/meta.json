@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "397c21e9dc9eedc8d6a7562ef00a0d1512c6d35d",
+ "parent": "17d0208d33784388f1652b9daab59a1a6fee1644",
+ "date": "2025-10-28",
+ "subject": "Refactor Farcaster wallet connection",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56206
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "cd54997e3fcda8a09b06fe639a58e0394dd20849",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Refactor: Update guide with voucher info",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 843 later commits"
+}

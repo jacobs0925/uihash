@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "83e4979d54b9e9f74867428eef58725eab775e09",
+ "parent": "7617ed573bcb113b253c7f6e31f348e47628a800",
+ "date": "2025-10-28",
+ "subject": "Add instructions for debugging.",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 97709
+}

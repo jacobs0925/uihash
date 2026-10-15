@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "69b25d824fe0c50797d0ebbc82ffac84619d724d",
+ "parent": "6f0e05705d98d59ebf16b997f2faebb4b5eb80fe",
+ "date": "2025-11-07",
+ "subject": "Fix Farcaster session persistence",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 60625
+}

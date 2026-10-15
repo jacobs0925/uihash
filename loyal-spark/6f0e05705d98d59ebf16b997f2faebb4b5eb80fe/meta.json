@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "6f0e05705d98d59ebf16b997f2faebb4b5eb80fe",
+ "parent": "988d98c3e66697153963a6b8a25419df01953642",
+ "date": "2025-11-07",
+ "subject": "Fix Farcaster authentication persistence",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 60766
+}

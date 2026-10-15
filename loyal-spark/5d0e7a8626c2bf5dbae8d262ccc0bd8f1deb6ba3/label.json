@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "5d0e7a8626c2bf5dbae8d262ccc0bd8f1deb6ba3",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Fix: Revert Farcaster context detection changes",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 8c4d35d5, which restored 2c6303ea (30 commits discarded)"
+}

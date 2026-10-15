@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "775ef6fd34a1245b3190fa9aa82269461053ae20",
+ "parent": "87f3bd49f803329e4dc36d7a9fb3bed66884a857",
+ "date": "2025-10-28",
+ "subject": "Add description for 2-transaction activation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 64084
+}

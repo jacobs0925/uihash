@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "0e19e3a80d8eed671c34a356502092d2c454f66d",
+ "parent": "6139ae8191df399f73076daaf03e081e80ce32c5",
+ "date": "2025-10-30",
+ "subject": "Fix: Handle Farcaster ready state",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/FarcasterSplash.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58932
+}

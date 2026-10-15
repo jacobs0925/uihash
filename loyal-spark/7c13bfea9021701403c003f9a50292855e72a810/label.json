@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "7c13bfea9021701403c003f9a50292855e72a810",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Fix disconnect button in web version",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 8c4d35d5, which restored 2c6303ea (30 commits discarded)"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "14e7f3f32182264f3d39e91f320a950bfe711f1c",
+ "parent": "fcc825233eff67b689b93b90fb6f1e516f25a9df",
+ "date": "2025-11-07",
+ "subject": "Fix: Adjust token card display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59157
+}

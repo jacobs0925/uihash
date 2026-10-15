@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "878d78a46c89f5db9bc7f69a9cc3e992b4013a45",
+ "parent": "f85979ac98e69214ba04084b09be6c6e0a49da00",
+ "date": "2025-10-31",
+ "subject": "Fix reward creation authentication error",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/rewards/CreateReward.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/lib/vouchers.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58944
+}

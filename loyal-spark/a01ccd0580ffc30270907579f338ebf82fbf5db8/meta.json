@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a01ccd0580ffc30270907579f338ebf82fbf5db8",
+ "parent": "d534d7672fab5a0eef0ae76cc18805cf4d17cebb",
+ "date": "2025-11-03",
+ "subject": "Fix: Prevent excessive logging in useMultiTokenBalance",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/components/TokenList.tsx",
+  "src/hooks/useMultiTokenBalance.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58800
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e7a2e356d160acafe7e4d632b13bf7537e2c391f",
+ "parent": "e438d7912d842b7a507b246fb6380a7bc123d0d7",
+ "date": "2025-10-30",
+ "subject": "Fix voucher search tab switching",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/VouchersManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57990
+}

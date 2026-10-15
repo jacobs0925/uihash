@@ -1,0 +1,43 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5bc44ad85e2a47528f100012e908665de67264e8",
+ "parent": "499435ab276d383d1233a467382713847d93c920",
+ "date": "2025-11-07",
+ "subject": "Reverted to commit 04482de8a695c179572602103b55f20eb13bb42e",
+ "components": [
+  "App.tsx",
+  "components",
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/AuthPrompt.tsx",
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/components/CustomerPanel.tsx",
+  "src/components/DexIntegration.tsx",
+  "src/components/IssuedTokensHistory.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/components/RoleSelector.tsx",
+  "src/components/TokenList.tsx",
+  "src/components/TokenListItem.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/components/rewards/MyVouchers.tsx",
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/hooks/useSwapWithCashback.ts",
+  "src/pages/AppPage.tsx",
+  "src/pages/CustomerPage.tsx",
+  "src/pages/GuidePage.tsx",
+  "src/pages/Index.tsx",
+  "src/pages/MerchantPage.tsx",
+  "src/pages/pitch-deck/PitchDeck.tsx",
+  "supabase/migrations/20251104001031_b9ff5002-89c7-4d10-9987-bf1a26a055b9.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 27,
+ "ms": 97685
+}

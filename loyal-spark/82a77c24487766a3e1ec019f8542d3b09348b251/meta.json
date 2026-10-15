@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "82a77c24487766a3e1ec019f8542d3b09348b251",
+ "parent": "ee652e45060fa531bf77b9e2148351906bc17564",
+ "date": "2025-11-21",
+ "subject": "Добавить withdrawal UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/roundup/InvestmentPositions.tsx",
+  "src/components/roundup/RoundUpDashboard.tsx",
+  "src/components/roundup/WithdrawalDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 68214
+}

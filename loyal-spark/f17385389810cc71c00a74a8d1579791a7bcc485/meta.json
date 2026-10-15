@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "f17385389810cc71c00a74a8d1579791a7bcc485",
+ "parent": "14e7f3f32182264f3d39e91f320a950bfe711f1c",
+ "date": "2025-11-07",
+ "subject": "Fix token card display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenListItem.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59360
+}

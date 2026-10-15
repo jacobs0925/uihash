@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "86d27d0cf946cb68c62f54a70f7e8f9e16d8726b",
+ "parent": "c1bef3caa9d75c8d733a11c079520b733d7daf4a",
+ "date": "2025-10-28",
+ "subject": "Remove debug panel",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 81986
+}

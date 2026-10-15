@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ad1f61f25e609363fc642e13e51b0c0462f2e147",
+ "parent": "11851806cc444111ca4b5fdc96504bb928eae29f",
+ "date": "2025-10-28",
+ "subject": "Add onboarding guide link",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/RoleSelector.tsx",
+  "src/pages/GuidePage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 8,
+ "ms": 71024
+}

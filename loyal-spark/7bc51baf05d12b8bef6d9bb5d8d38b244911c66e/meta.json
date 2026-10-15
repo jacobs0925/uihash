@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "7bc51baf05d12b8bef6d9bb5d8d38b244911c66e",
+ "parent": "a27ba0784061767eaf5f28608d10a7545f04b71c",
+ "date": "2025-11-03",
+ "subject": "Refactor wallet connection logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57397
+}

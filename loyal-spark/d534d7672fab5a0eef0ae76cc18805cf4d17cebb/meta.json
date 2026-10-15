@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "d534d7672fab5a0eef0ae76cc18805cf4d17cebb",
+ "parent": "6fe9611679b0ff39bc1a3ccc64d428b7fb6ad4db",
+ "date": "2025-11-03",
+ "subject": "Fix: Wallet disconnect message loop",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthPrompt.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59267
+}

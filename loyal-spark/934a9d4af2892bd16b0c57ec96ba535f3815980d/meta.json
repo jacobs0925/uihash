@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "934a9d4af2892bd16b0c57ec96ba535f3815980d",
+ "parent": "bb216247a81ca43f6e3a8296fbf075e8ff08e2df",
+ "date": "2025-10-28",
+ "subject": "Refactor activation to single transaction",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/hooks/useToggleProgramStatus.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 64614
+}

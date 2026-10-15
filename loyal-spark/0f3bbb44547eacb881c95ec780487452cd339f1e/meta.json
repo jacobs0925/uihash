@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "0f3bbb44547eacb881c95ec780487452cd339f1e",
+ "parent": "f2a8a4feebab3a4cb5732567a2a443d9b6935551",
+ "date": "2025-11-06",
+ "subject": "Adjust token borders slightly",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57369
+}

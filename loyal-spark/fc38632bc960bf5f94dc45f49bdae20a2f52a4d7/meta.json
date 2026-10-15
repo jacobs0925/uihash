@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "fc38632bc960bf5f94dc45f49bdae20a2f52a4d7",
+ "parent": "70c0b70a5a6d6103c2385a8345593ad059c7c6a4",
+ "date": "2025-11-08",
+ "subject": "Force preview refresh",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 70513
+}

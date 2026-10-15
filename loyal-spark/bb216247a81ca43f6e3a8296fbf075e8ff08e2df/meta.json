@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "bb216247a81ca43f6e3a8296fbf075e8ff08e2df",
+ "parent": "8839a678e003f6325ded78eea8dc0553b552d52f",
+ "date": "2025-10-28",
+ "subject": "Refactor pitch deck content",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/pitch-deck/PITCH_DECK_PRESENTATION.md",
+  "src/pages/pitch-deck/PitchDeck.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 22,
+ "ms": 91395
+}

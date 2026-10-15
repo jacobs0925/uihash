@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "0a028a7bbe3c1a96d3b8f0855d549b74b7065a68",
+ "parent": "c9bdc6cf79f77806d00ce4da0704bbcf65f0f44e",
+ "date": "2025-11-03",
+ "subject": "Fix: Handle rate limit reached message",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57466
+}

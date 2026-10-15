@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a38ed1d91e8304658566e820918e141c93cd3363",
+ "parent": "b382c14f23fcc8d8b35e30ef6519e03770fd96bd",
+ "date": "2025-11-03",
+ "subject": "Fix: Reset manual sign out flag",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58632
+}

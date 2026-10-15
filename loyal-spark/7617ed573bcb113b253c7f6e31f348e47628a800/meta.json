@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "7617ed573bcb113b253c7f6e31f348e47628a800",
+ "parent": "baff4d646e8cc26687c10591ea83143386270cc2",
+ "date": "2025-10-28",
+ "subject": "Fix: Improve wallet detection in Farcaster",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 62675
+}

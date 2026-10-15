@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "2ec8ae8b1baa9d89e6706fe5fc459868e643619a",
+ "parent": "a476048e59d794e26523496c57c2c88d9db3f3f6",
+ "date": "2025-11-06",
+ "subject": "Fix: Re-authenticate on session expiry",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59730
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "1af6bb66bfed3fba9c5cb6c3205ace3f849c34fa",
+ "parent": "8c4d35d54fe1a2309ba2eb18ccbeb6ffa02fa252",
+ "date": "2025-10-28",
+ "subject": "Fix: Improve wallet connection and notification handling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58158
+}

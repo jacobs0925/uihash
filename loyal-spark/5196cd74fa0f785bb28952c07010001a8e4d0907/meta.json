@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5196cd74fa0f785bb28952c07010001a8e4d0907",
+ "parent": "1848813c7d4f6b8875c9d642d6c035fae35e0fd2",
+ "date": "2025-11-03",
+ "subject": "Fix wallet disconnect issue",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59491
+}

@@ -1,0 +1,28 @@
+{
+ "repo": "loyal-spark",
+ "sha": "31241b70fd95a40f4facca612ed032bd1509d0a0",
+ "parent": "d949cd2460428159b2b80e3b450cdf5213da6351",
+ "date": "2025-11-21",
+ "subject": "Integrate admin UI for premium",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/AdminLink.tsx",
+  "src/components/admin/PaymentRequestsManagement.tsx",
+  "src/components/admin/PaymentSettingsManagement.tsx",
+  "src/hooks/useAdminStatus.ts",
+  "src/pages/AdminPage.tsx",
+  "src/pages/Index.tsx",
+  "supabase/migrations/20251121173428_ce8fc12a-e80a-414a-b4f9-c20a9aa6b23f.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 85986
+}

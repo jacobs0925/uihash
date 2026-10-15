@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "8b36a3021a14ea7fa2a67199710f7074cf2a67a1",
+ "parent": "0decaf425ad7ee4140ec0b1379bd53862ea87bf6",
+ "date": "2025-11-07",
+ "subject": "Fix: Display all loyalty tokens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59133
+}

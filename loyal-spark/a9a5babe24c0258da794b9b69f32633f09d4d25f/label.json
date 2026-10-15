@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "a9a5babe24c0258da794b9b69f32633f09d4d25f",
+ "date": "2025-10-30",
+ "pr": null,
+ "title": "Replace Gift icon with Coins",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 792 later commits"
+}

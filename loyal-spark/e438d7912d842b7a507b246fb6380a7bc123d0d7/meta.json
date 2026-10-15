@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e438d7912d842b7a507b246fb6380a7bc123d0d7",
+ "parent": "136eafda1497e990d94eece82b3e368ae8030d46",
+ "date": "2025-10-30",
+ "subject": "Fix: Add voucher recovery button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58564
+}

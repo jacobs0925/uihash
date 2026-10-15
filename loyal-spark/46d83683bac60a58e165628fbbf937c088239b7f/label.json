@@ -5,8 +5,8 @@
  "date": "2025-10-22",
  "pr": null,
  "title": "Refactor pitch deck based on Airbnb",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 934 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: flex → block undone by bb216247 \"Refactor pitch deck content\"; padding-top: 24px → 32px undone by bb216247 \"Refactor pitch deck content\"; padding-right: 24px → 32px undone by bb216247 \"Refactor pitch deck content\""
 }

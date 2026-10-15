@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "99f8743502f65ebd83cce7aa7c4cb3d59d020018",
+ "parent": "0b2700beb96500e278076e10b67efc7ecbbbd5dc",
+ "date": "2025-11-07",
+ "subject": "Fix voucher activation and token display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/components/IssuedTokensHistory.tsx",
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58976
+}

@@ -8,5 +8,5 @@
  "label": 1,
  "source": "undo",
  "confidence": 0.85,
- "evidence": "display: block → flex undone by f807485d \"Fix buyer wallet connection\"; flex-direction: ∅ → row undone by f807485d \"Fix buyer wallet connection\"; flex-wrap: ∅ → nowrap undone by f807485d \"Fix buyer wallet connection\""
+ "evidence": "width: 48px → 32px undone by f807485d \"Fix buyer wallet connection\"; height: 48px → 32px undone by f807485d \"Fix buyer wallet connection\"; margin-right: auto → 0px undone by f807485d \"Fix buyer wallet connection\""
 }

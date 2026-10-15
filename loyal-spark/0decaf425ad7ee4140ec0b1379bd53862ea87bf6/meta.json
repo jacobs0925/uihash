@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "0decaf425ad7ee4140ec0b1379bd53862ea87bf6",
+ "parent": "2ec8ae8b1baa9d89e6706fe5fc459868e643619a",
+ "date": "2025-11-06",
+ "subject": "Fix wallet disconnect logic",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/TokenList.tsx",
+  "src/components/rewards/MyVouchers.tsx",
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58669
+}

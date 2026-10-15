@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "c7eb4c1ced6d35eba06a409d264722491f73c312",
+ "parent": "904a2a975f5c572236acbcdadfb013819e65b5a8",
+ "date": "2025-10-28",
+ "subject": "Fix: Disconnect not working in web",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 69861
+}

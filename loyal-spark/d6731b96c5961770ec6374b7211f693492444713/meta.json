@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "d6731b96c5961770ec6374b7211f693492444713",
+ "parent": "0e5f2db025e239c14a9364e7a559d33d927d8b2d",
+ "date": "2025-10-31",
+ "subject": "Fix voucher not appearing for seller",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/VouchersManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57788
+}

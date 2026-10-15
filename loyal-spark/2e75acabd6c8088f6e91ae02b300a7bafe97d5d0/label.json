@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "2e75acabd6c8088f6e91ae02b300a7bafe97d5d0",
+ "date": "2025-11-07",
+ "pr": null,
+ "title": "Refactor homepage and app page",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 5bc44ad8, which restored 04482de8 (30 commits discarded)"
+}

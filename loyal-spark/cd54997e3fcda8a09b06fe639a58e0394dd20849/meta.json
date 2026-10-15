@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "cd54997e3fcda8a09b06fe639a58e0394dd20849",
+ "parent": "ad1f61f25e609363fc642e13e51b0c0462f2e147",
+ "date": "2025-10-28",
+ "subject": "Refactor: Update guide with voucher info",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/GuidePage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 76097
+}

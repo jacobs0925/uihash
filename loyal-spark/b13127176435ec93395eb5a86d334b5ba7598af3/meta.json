@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b13127176435ec93395eb5a86d334b5ba7598af3",
+ "parent": "809c149d8c0aa12dbab998eea3e0dc458e10f1d9",
+ "date": "2025-11-21",
+ "subject": "Round up to USD dollar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/roundup/SendWithRoundUp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 69715
+}

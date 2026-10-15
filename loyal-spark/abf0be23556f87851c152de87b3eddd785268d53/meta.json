@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "abf0be23556f87851c152de87b3eddd785268d53",
+ "parent": "d6731b96c5961770ec6374b7211f693492444713",
+ "date": "2025-10-31",
+ "subject": "Fix: Add vouchers table to realtime publication",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/VouchersManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58424
+}

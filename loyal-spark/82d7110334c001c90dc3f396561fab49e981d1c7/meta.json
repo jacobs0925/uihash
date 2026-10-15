@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "82d7110334c001c90dc3f396561fab49e981d1c7",
+ "parent": "f0b03693199399377d6bd51d95fcfd934210e131",
+ "date": "2025-11-03",
+ "subject": "Fix Farcaster profile display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59017
+}

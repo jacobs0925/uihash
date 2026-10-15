@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "d78b5399af7c0b4fcd99ac86e26c525ff81fdd88",
+ "parent": "38d5573a29555d0653c9930c3b9d40a3ab21928b",
+ "date": "2025-11-07",
+ "subject": "Reverted to commit 228a86c995aede96b2e414a9d9cf06b10358625b",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59984
+}

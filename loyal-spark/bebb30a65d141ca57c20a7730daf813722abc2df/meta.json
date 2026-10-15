@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "bebb30a65d141ca57c20a7730daf813722abc2df",
+ "parent": "837ea920beed50f1499d2c5c07b13d701f1a10f7",
+ "date": "2025-11-07",
+ "subject": "Fix Farcaster authorization on app close",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59510
+}

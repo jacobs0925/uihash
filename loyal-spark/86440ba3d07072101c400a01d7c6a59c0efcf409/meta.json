@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "86440ba3d07072101c400a01d7c6a59c0efcf409",
+ "parent": "5d0e7a8626c2bf5dbae8d262ccc0bd8f1deb6ba3",
+ "date": "2025-10-28",
+ "subject": "Fix merchant portal empty screen",
+ "components": [
+  "App.tsx",
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57806
+}

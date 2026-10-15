@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "228924efcf36527a17c777a33a08499900c1e9e4",
+ "parent": "397c21e9dc9eedc8d6a7562ef00a0d1512c6d35d",
+ "date": "2025-10-28",
+ "subject": "Fix: Handle Farcaster Wallet Not Found error",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56489
+}

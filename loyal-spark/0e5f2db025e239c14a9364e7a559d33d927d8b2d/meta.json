@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "0e5f2db025e239c14a9364e7a559d33d927d8b2d",
+ "parent": "d022e3f89cd1da5f5284cdf4bf64624fff76e867",
+ "date": "2025-10-31",
+ "subject": "Fix voucher real-time update",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/VouchersManagement.tsx",
+  "supabase/migrations/20251031125214_9839b8d9-8d24-4d8a-9125-c5d24f9132ac.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59163
+}

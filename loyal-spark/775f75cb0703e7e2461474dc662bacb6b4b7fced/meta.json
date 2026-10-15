@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "775f75cb0703e7e2461474dc662bacb6b4b7fced",
+ "parent": "cd570a21c8d55e13cf5c02201dcd5aba6c930aa9",
+ "date": "2025-11-06",
+ "subject": "Adjust loyalty programs display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58861
+}

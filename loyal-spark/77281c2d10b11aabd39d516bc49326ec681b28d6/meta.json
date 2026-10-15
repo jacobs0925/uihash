@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "77281c2d10b11aabd39d516bc49326ec681b28d6",
+ "parent": "82d7110334c001c90dc3f396561fab49e981d1c7",
+ "date": "2025-11-03",
+ "subject": "Fix Farcaster profile display issue",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthPrompt.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 66811
+}

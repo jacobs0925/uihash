@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "bb216247a81ca43f6e3a8296fbf075e8ff08e2df",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Refactor pitch deck content",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: flex → block undone by 2e75acab \"Refactor homepage and app page\"; display: flex → block undone by 2e75acab \"Refactor homepage and app page\"; display: flex → block undone by 2e75acab \"Refactor homepage and app page\""
+}

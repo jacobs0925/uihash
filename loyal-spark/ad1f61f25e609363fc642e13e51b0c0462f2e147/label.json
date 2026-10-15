@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "ad1f61f25e609363fc642e13e51b0c0462f2e147",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Add onboarding guide link",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: flex → block undone by 2e75acab \"Refactor homepage and app page\"; width: auto → 100% undone by 2e75acab \"Refactor homepage and app page\"; margin-right: 0px → auto undone by 2e75acab \"Refactor homepage and app page\""
+}

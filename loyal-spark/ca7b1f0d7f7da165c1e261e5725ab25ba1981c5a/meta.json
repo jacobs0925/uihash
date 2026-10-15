@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ca7b1f0d7f7da165c1e261e5725ab25ba1981c5a",
+ "parent": "c5840b9b217d5a00a18ce37480f14a821a4495e9",
+ "date": "2025-10-28",
+ "subject": "Refactor Farcaster integration",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 65082
+}

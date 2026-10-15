@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "cdfbd555008562aa7f9ab9481a9990b9366b653e",
+ "parent": "faa6d01ced419999a4d64d3ee45186503d609c6a",
+ "date": "2025-10-28",
+ "subject": "Fix wallet connection issues",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthPrompt.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 71308
+}

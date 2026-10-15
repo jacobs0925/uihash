@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "228a86c995aede96b2e414a9d9cf06b10358625b",
+ "parent": "172704a8660c0040e438c4063f6d586fde03f410",
+ "date": "2025-11-06",
+ "subject": "Add merchant to loyalty programs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58693
+}

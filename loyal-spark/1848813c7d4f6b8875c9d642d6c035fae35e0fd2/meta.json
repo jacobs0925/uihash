@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "1848813c7d4f6b8875c9d642d6c035fae35e0fd2",
+ "parent": "77281c2d10b11aabd39d516bc49326ec681b28d6",
+ "date": "2025-11-03",
+ "subject": "Fix: Web wallet connect button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthPrompt.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 74027
+}

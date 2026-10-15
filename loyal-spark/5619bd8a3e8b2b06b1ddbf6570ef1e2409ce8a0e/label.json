@@ -7,6 +7,6 @@
  "title": "Refine design to match Mobbin.com",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "background-size: auto, auto, auto, auto → ∅ undone by bab09e18 \"Refine UI design\"; position: relative → ∅ undone by bab09e18 \"Refine UI design\"; overflow-x: hidden → ∅ undone by bab09e18 \"Refine UI design\""
 }

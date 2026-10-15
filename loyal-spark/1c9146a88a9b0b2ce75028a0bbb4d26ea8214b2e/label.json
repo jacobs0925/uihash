@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "1c9146a88a9b0b2ce75028a0bbb4d26ea8214b2e",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Fix: Disconnect button not working",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 8c4d35d5, which restored 2c6303ea (30 commits discarded)"
+}

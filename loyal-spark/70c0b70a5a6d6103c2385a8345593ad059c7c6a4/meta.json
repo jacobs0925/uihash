@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "70c0b70a5a6d6103c2385a8345593ad059c7c6a4",
+ "parent": "69b25d824fe0c50797d0ebbc82ffac84619d724d",
+ "date": "2025-11-07",
+ "subject": "Fix Farcaster wallet auto-reconnect",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 61697
+}

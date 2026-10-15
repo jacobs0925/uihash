@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "c6870b86a1b6b5e3e0226fc880f127f381481b9d",
+ "parent": "31247f043b97ee4214eb66038df23f1441fea214",
+ "date": "2025-11-03",
+ "subject": "Fix: Loyalty program creation issues",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/CreateLoyaltyProgram.tsx",
+  "src/components/CreatedPrograms.tsx",
+  "src/components/ProgramStatusBadge.tsx",
+  "src/components/rewards/CreateReward.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59202
+}

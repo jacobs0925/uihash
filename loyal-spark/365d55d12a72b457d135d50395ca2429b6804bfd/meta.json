@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "365d55d12a72b457d135d50395ca2429b6804bfd",
+ "parent": "c9d320ae0e8e71e3d32ad54cab176062a1398fe7",
+ "date": "2025-10-27",
+ "subject": "Reverted to commit 9b9c15ecdf9016c037ed3b5171ea0690f305ca5c",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthPrompt.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56455
+}

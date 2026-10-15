@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "490bc9a1f238acc8c6863e6d71e528a015e0a32d",
+ "parent": "a28e05b63b3e09e25d8421abc98a8c9657ada0e5",
+ "date": "2025-10-28",
+ "subject": "Refactor merchant voucher display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/VouchersManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58380
+}

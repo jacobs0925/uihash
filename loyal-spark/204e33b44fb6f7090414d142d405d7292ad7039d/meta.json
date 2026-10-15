@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "204e33b44fb6f7090414d142d405d7292ad7039d",
+ "parent": "7bc51baf05d12b8bef6d9bb5d8d38b244911c66e",
+ "date": "2025-11-03",
+ "subject": "Refactor: Improve wallet disconnect logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57664
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "0b2700beb96500e278076e10b67efc7ecbbbd5dc",
+ "parent": "951e568aef26b64e8e7b52e4277982a0c9c3b2ba",
+ "date": "2025-11-07",
+ "subject": "Fix: Display issued tokens history",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 60074
+}

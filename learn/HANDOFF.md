@@ -662,7 +662,10 @@ v0 and Bolt record no restores in git.
     adds a verdict file per model, and `gold.js` scores every labeller against the person: the history
     labels and each model's verdicts, as agreement, recall on each side, AUROC (overall and per
     repository) and dollars per 1000 commits. The labeller that comes closest replaces the history
-    labels in training, and the gold set becomes the number the 0.935 goal is measured on.
+    labels in training, and the gold set becomes the number the 0.935 goal is measured on: each round
+    saves `unseen.jsonl` with the data, every finding's score from the chosen kind of model trained
+    without its repository (`train.py --unseen`), and `gold.js --scores unseen=<data>/unseen.jsonl`
+    gives that model's AUROC against the person's labels.
 
     In the rounds, the judge is off until the `JUDGE_MODEL` repository variable names a model. Then:
     - the walk keeps its crops (`JUDGE=1`), and spends the time left on commits checked before the judge

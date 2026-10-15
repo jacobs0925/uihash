@@ -104,6 +104,8 @@ elif [ "$PHASE" = train ]; then
   if [ -n "$best" ]; then cp "$M/$best.md" "$M/model-report.md"; fi
   rm -f "$M/rows.jsonl" "$M"/logistic-* "$M"/trees-*
   cp "$M/summary.md" "$DATA/latest.md"
+  # every commit's score from the chosen kind of model trained without its repository, for learn/gold.js
+  if [ -f "$M/unseen.jsonl" ]; then cp "$M/unseen.jsonl" "$DATA/unseen.jsonl"; fi
   [ "${KEEP_MODELS:-0}" = 1 ] && mkdir -p "$DATA/models" && cp -r "$M" "$DATA/models/$(date -u +%Y%m%dT%H%M%SZ)"
   rm -rf "$OUT"; mkdir -p "$(dirname "$OUT")"; mv "$M" "$OUT"
 

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "b0a03c977827f884c4b8019ef6b9a72068b4b6a4",
+ "parent": "4adf995aec263532e6fc02c06b143c877f188a93",
+ "date": "2025-11-17",
+ "subject": "Refine real-time save for nodes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useRealtimeCanvas.ts",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16556
+}

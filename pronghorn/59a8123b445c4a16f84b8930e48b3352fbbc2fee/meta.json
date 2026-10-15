@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "59a8123b445c4a16f84b8930e48b3352fbbc2fee",
+ "parent": "1b50725e6ac11e810134cff14dadf4ba0f165487",
+ "date": "2025-12-01",
+ "subject": "Implement full IDE fixes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx",
+  "src/components/repository/EnhancedFileTree.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26296
+}

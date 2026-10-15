@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "d43a9114454620d3b9d7f72629f86130cd0a79fa",
+ "parent": "98978f51f2f5903e5daab51f9d1c99e0e1a5bd7f",
+ "date": "2025-11-17",
+ "subject": "Remove nested Router in App",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 20231
+}

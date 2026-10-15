@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "b82916b601a22534ac497ceb0019da2d15c6e5d7",
+ "parent": "99ca6861cfbc4e0094878cce17a5b5a07a2d5949",
+ "date": "2025-11-24",
+ "subject": "Enable Generate Architect on context or input",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23874
+}

@@ -1,0 +1,27 @@
+{
+ "repo": "pronghorn",
+ "sha": "1da44b2ee9f61fc7e8334208fa2a8de826d16c6e",
+ "parent": "08bdb81466e283fe687bf983c39efd97fe7d09bc",
+ "date": "2025-11-20",
+ "subject": "Expand specifications downloads",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/specifications/DownloadOptions.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/lib/downloadUtils.ts",
+  "src/pages/project/Specifications.tsx",
+  "supabase/functions/generate-specification/index.ts",
+  "supabase/migrations/20251120034738_e9e4038b-ea0f-47c7-a1c9-2b3898e01188.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23680
+}

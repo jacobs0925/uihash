@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "5b0691de0676670eb884e24bf26e703b9546b462",
+ "parent": "8d5e26b377e6169609cc6525d3d270f178103af3",
+ "date": "2025-11-21",
+ "subject": "Toggle lasso active styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23793
+}

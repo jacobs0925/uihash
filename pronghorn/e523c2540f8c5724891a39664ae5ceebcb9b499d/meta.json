@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "e523c2540f8c5724891a39664ae5ceebcb9b499d",
+ "parent": "6075a1d6348d219438cac3a73b266431e6b69195",
+ "date": "2025-11-24",
+ "subject": "Fix chat auto-scroll",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 24134
+}

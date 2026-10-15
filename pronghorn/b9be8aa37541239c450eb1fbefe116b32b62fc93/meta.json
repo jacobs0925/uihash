@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "b9be8aa37541239c450eb1fbefe116b32b62fc93",
+ "parent": "531e5f2785b81b5e8769006e2daa5420eed2af0f",
+ "date": "2025-11-18",
+ "subject": "Fix real-time canvas updates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20602
+}

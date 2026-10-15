@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "b136a69cf82ba37a9e7b52ed7150509841f30ba4",
+ "parent": "ccb5757b541a64e0bc81160b2e0c421de245f6c6",
+ "date": "2025-11-18",
+ "subject": "Hide search bar on empty dashboard",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 24435
+}

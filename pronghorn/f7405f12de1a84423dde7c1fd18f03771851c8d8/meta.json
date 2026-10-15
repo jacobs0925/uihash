@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f7405f12de1a84423dde7c1fd18f03771851c8d8",
+ "parent": "d7a4108fc3a365f6286b81aa79e50fe3425ef68c",
+ "date": "2025-12-01",
+ "subject": "Update real-time file tree",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26582
+}

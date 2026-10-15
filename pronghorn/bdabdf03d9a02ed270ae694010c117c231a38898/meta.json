@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "bdabdf03d9a02ed270ae694010c117c231a38898",
+ "parent": "38a28378576ad509f7a3560e9f305ac9e5749947",
+ "date": "2025-11-29",
+ "subject": "Enhance infographic modal UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/InfographicDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25618
+}

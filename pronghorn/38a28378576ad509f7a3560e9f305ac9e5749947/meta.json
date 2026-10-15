@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "38a28378576ad509f7a3560e9f305ac9e5749947",
+ "parent": "e14c303b3f66a3e180350d231469770a4704b42a",
+ "date": "2025-11-29",
+ "subject": "Make mobile side menu a drawer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/InfographicDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25371
+}

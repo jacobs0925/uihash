@@ -1,0 +1,27 @@
+{
+ "repo": "pronghorn",
+ "sha": "e845cb2d14b505e50217843c969c523dd7108c46",
+ "parent": "cb2c07108a26cc1de44ca5f28f70705a743bb596",
+ "date": "2025-12-01",
+ "subject": "Make IDE-like Files UX",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/CreateFileDialog.tsx",
+  "src/components/repository/EnhancedFileTree.tsx",
+  "src/components/repository/FileTreeContextMenu.tsx",
+  "src/components/repository/IDEModal.tsx",
+  "src/components/repository/RenameDialog.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Repository.tsx",
+  "supabase/migrations/20251201041707_c41c21e6-6702-4a23-8f1a-c908e6613844.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26526
+}

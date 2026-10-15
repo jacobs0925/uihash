@@ -1,0 +1,29 @@
+{
+ "repo": "pronghorn",
+ "sha": "18f02f240d5ded04fc8627287b65c505cb14080e",
+ "parent": "3f02a0de7be81160dd37e95e09a384e9be4ea7cb",
+ "date": "2025-11-17",
+ "subject": "Enhance requirements editing",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/requirements/LinkStandardsDialog.tsx",
+  "src/components/requirements/ProjectSetupWizard.tsx",
+  "src/components/requirements/RequirementsTree.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Dashboard.tsx",
+  "src/pages/project/Requirements.tsx",
+  "supabase/config.toml",
+  "supabase/functions/expand-requirement/index.ts",
+  "supabase/migrations/20251117204320_57664313-766a-4170-9bde-b33eaeba5a56.sql",
+  "supabase/migrations/20251117204336_8e0aa93a-abe0-4cd6-a739-0d8a22d51d07.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 9,
+ "ms": 26734
+}

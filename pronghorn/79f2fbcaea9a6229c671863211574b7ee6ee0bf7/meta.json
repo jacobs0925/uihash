@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "79f2fbcaea9a6229c671863211574b7ee6ee0bf7",
+ "parent": "26242d3f9a4c249e9dc3bd894655e3d51f986a96",
+ "date": "2025-11-23",
+ "subject": "Real-time Artifacts & Chat",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useRealtimeArtifacts.ts",
+  "src/hooks/useRealtimeChatSessions.ts",
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23238
+}

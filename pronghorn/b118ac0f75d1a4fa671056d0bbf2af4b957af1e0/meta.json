@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "b118ac0f75d1a4fa671056d0bbf2af4b957af1e0",
+ "parent": "18f02f240d5ded04fc8627287b65c505cb14080e",
+ "date": "2025-11-17",
+ "subject": "Update requirements editor props",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/requirements/AIDecomposeDialog.tsx",
+  "src/components/requirements/RequirementsTree.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16620
+}

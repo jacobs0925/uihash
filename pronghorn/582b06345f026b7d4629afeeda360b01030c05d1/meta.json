@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "582b06345f026b7d4629afeeda360b01030c05d1",
+ "parent": "e91af4f3339e5688484e28e31eb704b9fab27d81",
+ "date": "2025-11-24",
+ "subject": "Propagate project context",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx",
+  "supabase/functions/ai-architect-critic/index.ts",
+  "supabase/functions/ai-architect/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23808
+}

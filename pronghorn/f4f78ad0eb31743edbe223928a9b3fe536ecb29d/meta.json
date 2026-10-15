@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f4f78ad0eb31743edbe223928a9b3fe536ecb29d",
+ "parent": "38318cb32ba7fe1fb9580dd5fbcddc8dd035a0db",
+ "date": "2025-11-24",
+ "subject": "Remove hardcoded prompt payload",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26906
+}

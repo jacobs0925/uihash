@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "b3655219633f161fc4b9dc1efd26230a9f50572b",
+ "parent": "ca4a5d6dc1093e74015a080f57cd3fa292a24035",
+ "date": "2025-11-24",
+ "subject": "Improve specs mobile layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23516
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "3908b69c00260c7abbd98eb9f68602b9d2734bb9",
+ "parent": "631b6c0a87a4ff45b37b9c63cd4d20abc2c93130",
+ "date": "2025-11-17",
+ "subject": "Tweak side menu and specs JSON",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 18911
+}

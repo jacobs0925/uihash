@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f8bee0b06de784962881cc7c13aaa3d898887bac",
+ "parent": "4e88548b9b11aea60ba4eaaa19ef66442c265c17",
+ "date": "2025-11-22",
+ "subject": "Reorder requirements layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/requirements/RequirementsTree.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22956
+}

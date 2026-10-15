@@ -1,0 +1,30 @@
+{
+ "repo": "pronghorn",
+ "sha": "4141673374baa185f07a0bc46715e12e9a53daef",
+ "parent": "5b717c4c8816fddcdde62851463c20e9777536e2",
+ "date": "2025-11-18",
+ "subject": "Implement JWT admin flow",
+ "components": [
+  "App.tsx",
+  "components",
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/layout/AdminAccessButton.tsx",
+  "src/contexts/AdminContext.tsx",
+  "src/hooks/useAdminRole.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Auth.tsx",
+  "supabase/config.toml",
+  "supabase/functions/verify-admin/index.ts",
+  "supabase/migrations/20251118001733_e924ab30-5b16-4fc6-924f-dceb369d9ca6.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 7,
+ "ms": 20805
+}

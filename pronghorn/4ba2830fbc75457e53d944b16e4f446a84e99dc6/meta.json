@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "4ba2830fbc75457e53d944b16e4f446a84e99dc6",
+ "parent": "f2520f0c0cb5b3d0b479abb798d567650f7156e8",
+ "date": "2025-11-21",
+ "subject": "Fix lasso and layer add flow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/Lasso.tsx",
+  "src/components/canvas/LayersManager.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22692
+}

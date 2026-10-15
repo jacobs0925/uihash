@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c6f2faca275d27d76095748d8207990a30c786b5",
+ "parent": "72381aae909dad21abd055c9d0c311563d85d10e",
+ "date": "2025-11-30",
+ "subject": "Code edited in Lovable Code Editor",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/EdgePropertiesPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26064
+}

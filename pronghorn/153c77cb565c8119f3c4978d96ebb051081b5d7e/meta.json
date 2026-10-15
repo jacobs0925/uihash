@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "153c77cb565c8119f3c4978d96ebb051081b5d7e",
+ "parent": "bd303893f5703fd1a39ba612d3f939417a2c887e",
+ "date": "2025-11-24",
+ "subject": "Improve chat markdown spacing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23104
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4ac9b935954d85c6b786cbc665f3786063e6fa5e",
+ "parent": "e3fc148595bfbe2fa8c14dbac8973c2754685c8b",
+ "date": "2025-11-17",
+ "subject": "Add per-node dropdowns",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/NodePropertiesPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16593
+}

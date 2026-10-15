@@ -5,8 +5,8 @@
  "date": "2026-03-23",
  "pr": null,
  "title": "Improve mobile homepage visuals",
- "label": 1,
- "source": "undo",
- "confidence": 0.85,
- "evidence": "outline-style: ∅ → auto undone by 8f57bb20 \"Fix mobile CTAs icons imports\"; outline-width: ∅ → 1px undone by 8f57bb20 \"Fix mobile CTAs icons imports\"; outline-color: ∅ → rgb(16, 16, 16) undone by 8f57bb20 \"Fix mobile CTAs icons imports\""
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 234 later commits"
 }

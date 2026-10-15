@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "88735233f0bcadd9df209850e49741844bcd89ba",
+ "parent": "e8d1fe498c63dedb82b30714837b75ff8cc3a02e",
+ "date": "2025-11-23",
+ "subject": "Enhance project selector chat",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx",
+  "src/pages/project/Specifications.tsx",
+  "supabase/functions/chat-stream-anthropic/index.ts",
+  "supabase/functions/chat-stream-gemini/index.ts",
+  "supabase/functions/chat-stream-xai/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23134
+}

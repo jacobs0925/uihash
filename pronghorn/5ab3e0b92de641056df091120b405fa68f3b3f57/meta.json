@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "5ab3e0b92de641056df091120b405fa68f3b3f57",
+ "parent": "b092d3d1c70f7415fb15edc1caa1bc379bf8e19a",
+ "date": "2025-11-29",
+ "subject": "Fix blackboard button and keep Agent Flow stable",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/BlackboardViewer.tsx",
+  "src/components/canvas/IterativeEnhancement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25869
+}

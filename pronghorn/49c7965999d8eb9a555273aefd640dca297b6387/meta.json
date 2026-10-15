@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "49c7965999d8eb9a555273aefd640dca297b6387",
+ "parent": "4840a4b6b65060836fca05788ac131601312201e",
+ "date": "2025-11-23",
+ "subject": "Refine chat layout width",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23409
+}

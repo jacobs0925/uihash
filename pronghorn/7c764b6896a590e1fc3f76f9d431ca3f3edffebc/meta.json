@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "7c764b6896a590e1fc3f76f9d431ca3f3edffebc",
+ "parent": "563c2bd9a943ee486590bae156245e583c14e9f8",
+ "date": "2025-12-01",
+ "subject": "Add repository page routing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251201034951_8972aefe-9703-46c3-ae3e-6d1dd2c41f59.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26720
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "cd538e7ad656416a4a800b9bac0938a8a8dabf27",
+ "parent": "1da44b2ee9f61fc7e8334208fa2a8de826d16c6e",
+ "date": "2025-11-20",
+ "subject": "Integrate DownloadOptions",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22865
+}

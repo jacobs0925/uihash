@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7a5cdec6c2a1a924655bac911a01069a41dc90bd",
+ "parent": "051963637f32f145434af428bf493f3c3d8ea7eb",
+ "date": "2025-11-23",
+ "subject": "Render artifacts md as markdown",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23315
+}

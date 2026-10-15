@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "a1796120774056e89f13686c4e6aeb6e0299f4de",
+ "parent": "d8133f42fcb1aa9e3bc692f75a7e1a38dceabc30",
+ "date": "2025-12-01",
+ "subject": "Unify chat older load trigger",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26355
+}

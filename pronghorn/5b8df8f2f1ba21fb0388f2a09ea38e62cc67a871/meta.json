@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "5b8df8f2f1ba21fb0388f2a09ea38e62cc67a871",
+ "parent": "69f785ca6e7ea4ac12d9bde26f842ef2d03a144a",
+ "date": "2025-12-01",
+ "subject": "Improve lazy load for chat/progress",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentChatViewer.tsx",
+  "src/components/build/AgentProgressMonitor.tsx",
+  "src/hooks/useInfiniteAgentMessages.ts",
+  "src/hooks/useInfiniteAgentOperations.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Build.tsx",
+  "supabase/migrations/20251201181454_2cab49f3-2d31-4439-bf45-a16fd6473dea.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26655
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "3621d5195654c608ca3dc8487d9af964a0d56b3f",
+ "parent": "084b037cc5420b2ecc1b6b2ec533618b80195a1f",
+ "date": "2025-12-01",
+ "subject": "Integrate inline diff toggle",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx",
+  "supabase/migrations/20251201154710_d8f2bda0-2249-41b4-9b2a-8cf64c31d0e9.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26594
+}

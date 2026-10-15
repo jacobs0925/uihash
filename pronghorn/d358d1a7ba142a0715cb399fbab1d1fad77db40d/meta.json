@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "d358d1a7ba142a0715cb399fbab1d1fad77db40d",
+ "parent": "5d89a0d5d10f0dcc45cfcd4cc92d82b078a3113d",
+ "date": "2025-12-01",
+ "subject": "Fix create_file path args",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentPromptPanel.tsx",
+  "src/pages/project/Build.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26536
+}

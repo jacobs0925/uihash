@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "b7894fa32fad1d9b31c5e08a102c19e69f5a6cab",
+ "parent": "fdd17e4e31d68a4866a0376fe35d3937a22a3536",
+ "date": "2025-11-20",
+ "subject": "Fix node/edge deletion DB updates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Canvas.tsx",
+  "supabase/migrations/20251120175450_5cf1f0fa-d4c6-45f2-8d9f-39fb33e06dfe.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22605
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "cff7d19f827f75b40e4b8987dcc370f5809860d0",
+ "parent": "3eeefd33ea3cd4316d725daae233d44ba015891e",
+ "date": "2025-11-17",
+ "subject": "Fix canvas drag duplicates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useRealtimeCanvas.ts",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16402
+}

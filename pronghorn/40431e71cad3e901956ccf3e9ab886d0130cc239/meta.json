@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "40431e71cad3e901956ccf3e9ab886d0130cc239",
+ "parent": "c34c36e560664ba8730bb95688d0f48255a0caf0",
+ "date": "2025-11-30",
+ "subject": "Add delete project button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/dashboard/DeleteProjectDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27151
+}

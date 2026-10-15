@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "76e90751c7b77389509155e4c163fa551836fa29",
+ "parent": "774dafb2b8f7f358c1423d162016a8d17d2533af",
+ "date": "2025-11-21",
+ "subject": "Improve lasso alignment fix",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/Lasso.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23027
+}

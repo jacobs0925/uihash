@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2caa443da97206c1bfeec882864158bf85d05c1d",
+ "parent": "e7949216d3e7d58069e74ccce10c0a2e972ffd00",
+ "date": "2025-11-23",
+ "subject": "Improve header layout on mobile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23054
+}

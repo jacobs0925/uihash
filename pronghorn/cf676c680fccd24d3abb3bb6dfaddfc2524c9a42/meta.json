@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "cf676c680fccd24d3abb3bb6dfaddfc2524c9a42",
+ "parent": "169107ced00afeeceeec7f01e73f3b6891371349",
+ "date": "2025-11-18",
+ "subject": "Add token in anonymous flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/dashboard/EnhancedCreateProjectDialog.tsx",
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/hooks/useProjectUrl.ts",
+  "supabase/migrations/20251118045611_7d6a0692-4610-44d4-958d-3aa6be1ab086.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 19250
+}

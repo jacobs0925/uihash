@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1cb4fb728848b4d0830807f3a78a8935f6f7ea16",
+ "parent": "7deab3a952f17b10263eeb1a631ab0172f9212bb",
+ "date": "2025-11-20",
+ "subject": "Improve delete hotkeys safety",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22953
+}

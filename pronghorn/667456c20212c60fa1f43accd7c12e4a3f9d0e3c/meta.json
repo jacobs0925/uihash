@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "667456c20212c60fa1f43accd7c12e4a3f9d0e3c",
+ "parent": "f38b9dc0fbdd918c202bae2ceb961e8eb0830b65",
+ "date": "2025-11-18",
+ "subject": "Replace logo with uploaded image",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/assets/pronghorn-logo.jpeg",
+  "src/components/layout/PronghornLogo.tsx",
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 28795
+}

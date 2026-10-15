@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "a3fe4e6742dc93d27ca55e0c6a553155c0092271",
+ "parent": "7beee4a8e8510a9c0d770dda7cc7ebe017c8a115",
+ "date": "2025-11-29",
+ "subject": "Add Iterative Enhancement UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx",
+  "src/components/canvas/AgentFlow.tsx",
+  "src/components/canvas/ChangeLogViewer.tsx",
+  "src/components/canvas/IterationVisualizer.tsx",
+  "src/components/canvas/IterativeEnhancement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26047
+}

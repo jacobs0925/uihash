@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "ee06f5f84ab14e1c0ec4bcf704d1acf75a22d18e",
+ "parent": "e224afe77c9a50726015ceb9f86e39d136f05743",
+ "date": "2025-11-29",
+ "subject": "Fix auto-load and add reverse",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/AgentFlow.tsx",
+  "src/components/canvas/EdgePropertiesPanel.tsx",
+  "src/hooks/useRealtimeCanvas.ts",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26543
+}

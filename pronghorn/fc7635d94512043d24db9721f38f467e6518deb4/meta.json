@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "fc7635d94512043d24db9721f38f467e6518deb4",
+ "parent": "1c41d718ae8a1b335e97ec27ae838bac51013745",
+ "date": "2025-11-21",
+ "subject": "Align PNG/SVG buttons",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22655
+}

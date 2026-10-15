@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f3d376ca7000aa2f93c96ed67aa92c3f026b5671",
+ "parent": "d425359f149860758d44d155852e71df51ec373d",
+ "date": "2025-11-23",
+ "subject": "Refine summarize flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23100
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ddec0971f0805f7bd3b10011e9be4b007d11024c",
+ "parent": "f3d376ca7000aa2f93c96ed67aa92c3f026b5671",
+ "date": "2025-11-23",
+ "subject": "Wrap chat title in sidebar",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22982
+}

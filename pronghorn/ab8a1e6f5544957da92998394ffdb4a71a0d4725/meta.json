@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "ab8a1e6f5544957da92998394ffdb4a71a0d4725",
+ "parent": "1c3f388814b76408236d445bf72502dd11ae35f9",
+ "date": "2025-12-01",
+ "subject": "Fix agent session mode",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/AgentPromptPanel.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26717
+}

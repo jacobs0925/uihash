@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "697593c4b1988f4f2b7e21db25447d2174d214e0",
+ "parent": "11702f30891a17f47e300434c8e65880b17c1755",
+ "date": "2025-11-29",
+ "subject": "Refresh canvas on load",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26093
+}

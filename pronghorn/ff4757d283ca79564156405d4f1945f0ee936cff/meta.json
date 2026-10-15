@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "ff4757d283ca79564156405d4f1945f0ee936cff",
+ "parent": "b9dc2dbff55483268a908b587d65c66cafad89c8",
+ "date": "2025-11-29",
+ "subject": "Add orchestrator and Blackboard",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/data/buildAgents.json",
+  "src/components/canvas/IterativeEnhancement.tsx",
+  "supabase/functions/orchestrate-agents/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26405
+}

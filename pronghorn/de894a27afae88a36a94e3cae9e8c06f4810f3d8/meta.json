@@ -1,0 +1,27 @@
+{
+ "repo": "pronghorn",
+ "sha": "de894a27afae88a36a94e3cae9e8c06f4810f3d8",
+ "parent": "b32fca142ab8ab38236bfde77349aa2add7cb4f7",
+ "date": "2025-11-22",
+ "subject": "Fix token RPC for projects",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/dashboard/CreateProjectDialog.tsx",
+  "src/components/dashboard/DeleteProjectDialog.tsx",
+  "src/components/dashboard/EditProjectDialog.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Dashboard.tsx",
+  "src/pages/project/ProjectSettings.tsx",
+  "src/pages/project/Specifications.tsx",
+  "supabase/migrations/20251122141411_f6055ac5-6d87-44df-ba51-b3e2fba0ed4e.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 25379
+}

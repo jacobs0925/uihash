@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "8779e600fe505de1852e8a196ca8022a23056d72",
+ "date": "2025-11-18",
+ "pr": null,
+ "title": "Improve mobile responsiveness",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1722 later commits"
+}

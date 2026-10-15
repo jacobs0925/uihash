@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "18f02f240d5ded04fc8627287b65c505cb14080e",
+ "date": "2025-11-17",
+ "pr": null,
+ "title": "Enhance requirements editing",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1790 later commits"
+}

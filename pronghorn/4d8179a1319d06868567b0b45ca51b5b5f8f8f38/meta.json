@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "4d8179a1319d06868567b0b45ca51b5b5f8f8f38",
+ "parent": "f145f488b64366b9b24ba518e33c0d7ef52ac5c9",
+ "date": "2025-11-21",
+ "subject": "Adjust Canvas Palette UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/CanvasPalette.tsx",
+  "src/components/canvas/EdgePropertiesPanel.tsx",
+  "src/components/canvas/NodePropertiesPanel.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23416
+}

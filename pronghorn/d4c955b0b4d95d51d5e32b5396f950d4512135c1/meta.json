@@ -1,0 +1,27 @@
+{
+ "repo": "pronghorn",
+ "sha": "d4c955b0b4d95d51d5e32b5396f950d4512135c1",
+ "parent": "b118ac0f75d1a4fa671056d0bbf2af4b957af1e0",
+ "date": "2025-11-17",
+ "subject": "Refactor standards linking",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/standards/EditStandardDialog.tsx",
+  "src/components/standards/ManageCategoriesDialog.tsx",
+  "src/components/standards/ManageTechStacksDialog.tsx",
+  "src/components/standards/TechStackSelector.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Standards.tsx",
+  "src/pages/project/ProjectSettings.tsx",
+  "supabase/migrations/20251117205023_98a09e84-583a-46f5-9e0b-65fcfa2f9ff6.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 9,
+ "ms": 24900
+}

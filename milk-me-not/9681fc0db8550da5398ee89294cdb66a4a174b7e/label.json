@@ -5,8 +5,8 @@
  "date": "2025-12-27",
  "pr": null,
  "title": "Adjust home banner text",
- "label": 1,
- "source": "undo",
- "confidence": 0.85,
- "evidence": "box-shadow: rgb(255, 255, 255) 0px 0px 0px 2px, rgb(191, 191, 191) 0px 0px 0px 4px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px undone by b9ea4346 \"Add Android install guide page\"; outline-style: solid → ∅ undone by b9ea4346 \"Add Android install guide page\"; outline-width: 2px → ∅ undone by b9ea4346 \"Add Android install guide page\""
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 724 later commits"
 }

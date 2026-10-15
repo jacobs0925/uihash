@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "5c4711b4d1f006c87db79728e98b224858e0d1fb",
+ "parent": "d0f03680554f58e72a4ae7b79d3c2b5797c10897",
+ "date": "2025-11-18",
+ "subject": "Modify Hero layout and add video",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "public/pronghorn-hero.mp4",
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 10,
+ "ms": 30348
+}

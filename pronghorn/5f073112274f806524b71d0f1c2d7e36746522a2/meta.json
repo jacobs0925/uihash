@@ -1,0 +1,28 @@
+{
+ "repo": "pronghorn",
+ "sha": "5f073112274f806524b71d0f1c2d7e36746522a2",
+ "parent": "c3e6e35439052f3715d50c3223267eba9995392d",
+ "date": "2025-11-21",
+ "subject": "Improve lasso and layers UX",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/CanvasPalette.tsx",
+  "src/components/canvas/Lasso.tsx",
+  "src/components/canvas/LayersManager.tsx",
+  "src/hooks/useRealtimeLayers.ts",
+  "src/index.css",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Canvas.tsx",
+  "supabase/migrations/20251121135853_e384fdb8-d222-4523-b624-ece87bd25c24.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22497
+}

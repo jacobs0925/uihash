@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "a5db1fb4bdb3b8d1f49fc07f6a3980827e8d2bab",
+ "parent": "bdc5e9825abf46be78d6ccea34881bf4ce8b8ef9",
+ "date": "2025-11-24",
+ "subject": "Add hamburger to headers",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/CanvasPalette.tsx",
+  "src/pages/project/Canvas.tsx",
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23357
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "ae40ff9b6c795a74b4a404e3e516034eb262bbb1",
+ "parent": "f36ebf12eec3428f4917730bc67fe20a5fe05965",
+ "date": "2025-12-01",
+ "subject": "Adjust workspace sidebar height",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/pages/project/Build.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26797
+}

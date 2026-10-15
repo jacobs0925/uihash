@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "921a6db99ca189c2ec4d3c9cd285b4e847aad652",
+ "parent": "d7797b5b0f89a7b1485d39bfccad36cf42ec6a47",
+ "date": "2025-11-29",
+ "subject": "Fix agent node colors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AgentFlow.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25941
+}

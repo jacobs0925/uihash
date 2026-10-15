@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "ce1bf3ef84d81d5c9b4bb29c5af457b2da2e1337",
+ "parent": "17107b96225039b4138b872116ffefc5f1e541ae",
+ "date": "2025-11-25",
+ "subject": "Fix chat attachments bugs",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/project/CanvasItemsSelector.tsx",
+  "src/components/project/ProjectSelector.tsx",
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26628
+}

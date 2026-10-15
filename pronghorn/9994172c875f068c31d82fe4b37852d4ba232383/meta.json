@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "9994172c875f068c31d82fe4b37852d4ba232383",
+ "parent": "a1d33583f4f0d3df3105f11cd7d044d2adeeefbd",
+ "date": "2025-11-21",
+ "subject": "Reverted to commit 3298877ab605f4c6d41be05a7a1ac1806f97ffc1",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/LayersManager.tsx",
+  "src/hooks/useRealtimeLayers.ts",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22407
+}

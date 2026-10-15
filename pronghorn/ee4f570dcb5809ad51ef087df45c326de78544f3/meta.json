@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "ee4f570dcb5809ad51ef087df45c326de78544f3",
+ "parent": "62d60808fa004c5aca81b21df802f8e011156ede",
+ "date": "2025-11-20",
+ "subject": "Add universal tree selectors",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/dashboard/EnhancedCreateProjectDialog.tsx",
+  "src/components/standards/StandardsTreeSelector.tsx",
+  "src/components/techstack/TechStackTreeSelector.tsx",
+  "src/pages/project/Standards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23759
+}

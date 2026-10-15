@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "fc1e9d0632d430f098f25c5895b4aff5a56f00a3",
+ "parent": "9f0417c48c032e6cefa1d28c1c980e502311b340",
+ "date": "2025-11-18",
+ "subject": "Set project URL root",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/dashboard/AnonymousProjectWarning.tsx",
+  "src/pages/project/ProjectSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20395
+}

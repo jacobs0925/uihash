@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "d835c952f3b1e668542f92329c9194838704c7ba",
+ "parent": "04fe340c2a7e777da46063d97c1b29605d8487d3",
+ "date": "2025-11-18",
+ "subject": "Enable anonymous project sharing",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/pages/project/ProjectSettings.tsx",
+  "supabase/migrations/20251118044613_d64dca84-3cd3-405c-a0af-930bf4bec9ae.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 18994
+}

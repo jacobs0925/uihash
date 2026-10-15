@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "29cf5a8297fd482a1dd312a3dc9050a0fa5a2123",
+ "parent": "8d276e73861e1ab7d34ee12a7da2a460e11b6c05",
+ "date": "2025-11-30",
+ "subject": "Improve panel toggle animations",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/CanvasPalette.tsx",
+  "src/components/canvas/EdgePropertiesPanel.tsx",
+  "src/components/canvas/NodePropertiesPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25927
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1c1b93aa181253a9e1eb4cf18c4ec93d54ff2786",
+ "parent": "962e8b37ae73de05b948d0038cffe668527c2264",
+ "date": "2025-11-23",
+ "subject": "Fix svg export data handling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23029
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "f4aebe0417852ac1fc90735044a41ed4f30dcb7c",
+ "parent": "597e8a541bd04e6fea85208662ccaf094c780e1a",
+ "date": "2025-11-18",
+ "subject": "Reorder Settings menu",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/pages/project/ProjectSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 19497
+}

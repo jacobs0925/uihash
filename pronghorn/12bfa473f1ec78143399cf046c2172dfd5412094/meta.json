@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "12bfa473f1ec78143399cf046c2172dfd5412094",
+ "parent": "bdabdf03d9a02ed270ae694010c117c231a38898",
+ "date": "2025-11-29",
+ "subject": "Add artifact image save flow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/InfographicDialog.tsx",
+  "src/hooks/useRealtimeArtifacts.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Artifacts.tsx",
+  "supabase/migrations/20251129060756_855a531d-619c-41e7-94e6-58b40017915a.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25589
+}

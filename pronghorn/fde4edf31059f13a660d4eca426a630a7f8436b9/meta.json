@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "fde4edf31059f13a660d4eca426a630a7f8436b9",
+ "parent": "2461e97e27e38cb9ae32a24d0236546ec0ff7345",
+ "date": "2025-12-01",
+ "subject": "Improve branch handling and UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/CommitLog.tsx",
+  "src/components/repository/SyncDialog.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Repository.tsx",
+  "supabase/functions/sync-repo-push/index.ts",
+  "supabase/migrations/20251201050051_1ce97775-f2fa-48b1-8cfb-ae34aa965d1b.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26909
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "a5a0e9a2a7374103333397b11ba006c93d65025f",
+ "parent": "29cf5a8297fd482a1dd312a3dc9050a0fa5a2123",
+ "date": "2025-11-30",
+ "subject": "Code edited in Lovable Code Editor",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/CanvasPalette.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26782
+}

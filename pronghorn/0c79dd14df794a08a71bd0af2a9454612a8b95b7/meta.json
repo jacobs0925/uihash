@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "0c79dd14df794a08a71bd0af2a9454612a8b95b7",
+ "parent": "b00dda7c63810b086124d7682c17d98e73db045a",
+ "date": "2025-12-01",
+ "subject": "Integrate Build page",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/CommitHistory.tsx",
+  "src/components/build/StagingPanel.tsx",
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/components/repository/CodeEditor.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Build.tsx",
+  "supabase/migrations/20251201113528_6fb927ac-2144-4efb-85b6-682d6565827a.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26820
+}

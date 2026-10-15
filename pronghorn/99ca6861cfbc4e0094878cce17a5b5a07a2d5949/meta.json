@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "99ca6861cfbc4e0094878cce17a5b5a07a2d5949",
+ "parent": "6d4db2763c8fe935892635c0c337eb6e236f9d39",
+ "date": "2025-11-24",
+ "subject": "Propagate chats to AI Architect",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 24349
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "9b0662668e0e1b964e9b71419190fd21ac1e8570",
+ "parent": "817fef6604ef8a30b09b0a5f26c53e5b86a93ca9",
+ "date": "2025-12-01",
+ "subject": "Fix load diff content in staging",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx",
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26710
+}

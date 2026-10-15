@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "40c9fa4970ec555a74e15b29e89102e06bb7a2ca",
+ "parent": "d2341671ef96e2c79927dfb268fbb56c06982cc0",
+ "date": "2025-11-17",
+ "subject": "Add on-the-fly category creation in AI Create",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/standards/AICreateStandardsDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 18835
+}

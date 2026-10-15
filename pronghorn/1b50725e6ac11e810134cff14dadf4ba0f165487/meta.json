@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "1b50725e6ac11e810134cff14dadf4ba0f165487",
+ "parent": "e845cb2d14b505e50217843c969c523dd7108c46",
+ "date": "2025-12-01",
+ "subject": "Enhance IDE UI and fixes",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx",
+  "src/components/repository/EnhancedFileTree.tsx",
+  "src/components/repository/IDEModal.tsx",
+  "src/pages/project/Repository.tsx",
+  "supabase/functions/sync-repo-pull/index.ts",
+  "supabase/migrations/20251201042410_93851873-5aa2-4927-aa47-c85a9662057b.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26569
+}

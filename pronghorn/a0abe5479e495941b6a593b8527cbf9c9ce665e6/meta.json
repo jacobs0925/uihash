@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "a0abe5479e495941b6a593b8527cbf9c9ce665e6",
+ "parent": "921a6db99ca189c2ec4d3c9cd285b4e847aad652",
+ "date": "2025-11-29",
+ "subject": "Enhance Iterative UI and actions",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AgentFlow.tsx",
+  "src/components/canvas/AgentPromptEditDialog.tsx",
+  "src/components/canvas/IterativeEnhancement.tsx",
+  "supabase/functions/orchestrate-agents/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25858
+}

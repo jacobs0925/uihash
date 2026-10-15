@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "962e8b37ae73de05b948d0038cffe668527c2264",
+ "parent": "9415b867bccce7dd9d8dd79e02e804f83dd89ef7",
+ "date": "2025-11-23",
+ "subject": "Improve SVG export cropping",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22880
+}

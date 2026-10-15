@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "63ca72685767477d80a13f1f8635349eb1636c49",
+ "parent": "7db61ffc00b2d2f60642b367469dabbea4da10bf",
+ "date": "2025-11-18",
+ "subject": "Add project standards UI",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Specifications.tsx",
+  "src/pages/project/Standards.tsx",
+  "supabase/migrations/20251118004728_b83e5dfc-cf54-4eb6-bec0-98093f4adf66.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 18903
+}

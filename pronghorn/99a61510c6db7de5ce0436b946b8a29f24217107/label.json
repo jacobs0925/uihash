@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "99a61510c6db7de5ce0436b946b8a29f24217107",
+ "date": "2025-11-18",
+ "pr": null,
+ "title": "Rename app to Pronghorn",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1727 later commits"
+}

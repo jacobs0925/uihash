@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "3e3f219380a37d082d7f13ec78f97346ed258865",
+ "parent": "14645c62634d183faaac56ec6da829a567f8f979",
+ "date": "2025-12-01",
+ "subject": "Realize Phase 5 progress",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentProgressMonitor.tsx",
+  "src/hooks/useRealtimeAgentOperations.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Build.tsx",
+  "supabase/migrations/20251201115618_5883d487-3b54-43ea-9c31-34974628dfca.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26438
+}

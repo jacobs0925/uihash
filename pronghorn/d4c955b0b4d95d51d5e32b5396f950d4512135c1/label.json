@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "d4c955b0b4d95d51d5e32b5396f950d4512135c1",
+ "date": "2025-11-17",
+ "pr": null,
+ "title": "Refactor standards linking",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "max-width: 1280px → ∅ undone by f5194c58 \"Build requirements manager\"; max-width: 1280px → ∅ undone by f5194c58 \"Build requirements manager\"; max-width: 1280px → ∅ undone by f5194c58 \"Build requirements manager\""
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "b092d3d1c70f7415fb15edc1caa1bc379bf8e19a",
+ "parent": "a0abe5479e495941b6a593b8527cbf9c9ce665e6",
+ "date": "2025-11-29",
+ "subject": "Fix drag drop zoom handling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AgentFlow.tsx",
+  "src/components/canvas/ChangeLogViewer.tsx",
+  "src/components/canvas/IterativeEnhancement.tsx",
+  "supabase/functions/orchestrate-agents/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25488
+}

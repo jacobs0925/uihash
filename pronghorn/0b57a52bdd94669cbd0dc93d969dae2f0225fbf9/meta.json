@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "0b57a52bdd94669cbd0dc93d969dae2f0225fbf9",
+ "parent": "ee06f5f84ab14e1c0ec4bcf704d1acf75a22d18e",
+ "date": "2025-11-29",
+ "subject": "Improve agent flow stability",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AgentFlow.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26200
+}

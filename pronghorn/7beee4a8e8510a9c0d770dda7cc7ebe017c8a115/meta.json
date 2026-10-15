@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "7beee4a8e8510a9c0d770dda7cc7ebe017c8a115",
+ "parent": "ffd40ca9a4392558d30a0a0752762476ff905d91",
+ "date": "2025-11-29",
+ "subject": "Enable artifact image edge flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/InfographicDialog.tsx",
+  "supabase/config.toml",
+  "supabase/functions/upload-artifact-image/index.ts",
+  "supabase/migrations/20251129061727_97ac433e-057f-4eea-aa4c-8d1b7095b556.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26047
+}

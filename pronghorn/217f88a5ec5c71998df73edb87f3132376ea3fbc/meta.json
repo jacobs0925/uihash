@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "217f88a5ec5c71998df73edb87f3132376ea3fbc",
+ "parent": "ae747253c0a1fe6bf28ae3c5b3e5d5aca4ba1469",
+ "date": "2025-12-01",
+ "subject": "Improve IDE & sync behavior",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Repository.tsx",
+  "supabase/functions/sync-repo-push/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26544
+}

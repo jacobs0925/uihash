@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "8c037c6094ade8a23c9a14d85951fee0a4676952",
+ "parent": "9e70bd0fa69137a042531477c698df8d5715c4b3",
+ "date": "2025-11-23",
+ "subject": "Refine chat summary flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useRealtimeChatSessions.ts",
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23193
+}

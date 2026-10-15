@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "44e1c4288b0e6e4e827eb3dba2bde518b2653617",
+ "parent": "dbac206be5e9111dbc7de27c547e7b66ff3ad6a4",
+ "date": "2025-11-19",
+ "subject": "Add edge properties panel",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/EdgePropertiesPanel.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20693
+}

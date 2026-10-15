@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "d3f5a655a8266f9551e0d290f96e6b4c68577fb1",
+ "parent": "1d2b397cfb76e272f1a2523442c780000b764060",
+ "date": "2025-11-17",
+ "subject": "Fix edge function param passing",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/requirements/AIDecomposeDialog.tsx",
+  "src/pages/project/Requirements.tsx",
+  "supabase/functions/decompose-requirements/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16530
+}

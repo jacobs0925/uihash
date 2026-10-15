@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f8dd4cf6faefed60f27dcabdd4b768f01a585c35",
+ "parent": "9b0662668e0e1b964e9b71419190fd21ac1e8570",
+ "date": "2025-12-01",
+ "subject": "Show only diff viewer in Staging",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26775
+}

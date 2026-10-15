@@ -1,0 +1,34 @@
+{
+ "repo": "pronghorn",
+ "sha": "49bf799074ebf2d70018b7943fa0e287a53c06d1",
+ "parent": "0bccc12f374d4e2b1946fd2a327dab6d5e558c22",
+ "date": "2025-11-18",
+ "subject": "Add token-based sharing system",
+ "components": [
+  "App.tsx",
+  "components",
+  "contexts",
+  "main.tsx"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/dashboard/AnonymousProjectWarning.tsx",
+  "src/components/dashboard/EnhancedCreateProjectDialog.tsx",
+  "src/components/layout/PrimaryNav.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/hooks/useShareToken.ts",
+  "src/integrations/supabase/types.ts",
+  "src/main.tsx",
+  "src/pages/Auth.tsx",
+  "src/pages/Dashboard.tsx",
+  "src/pages/project/Canvas.tsx",
+  "src/pages/project/Requirements.tsx",
+  "supabase/migrations/20251118041606_6c05c6b2-2a87-457c-b8e9-517dcceba4d9.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 20,
+ "ms": 30770
+}

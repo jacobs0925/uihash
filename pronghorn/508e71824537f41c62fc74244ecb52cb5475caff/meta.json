@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "508e71824537f41c62fc74244ecb52cb5475caff",
+ "parent": "d8bfb29d489793d0ad43c3e6135f7865d15b559c",
+ "date": "2025-11-28",
+ "subject": "Fix left panel scroll issue",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/InfographicDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25631
+}

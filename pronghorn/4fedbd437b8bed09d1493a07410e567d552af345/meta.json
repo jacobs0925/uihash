@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4fedbd437b8bed09d1493a07410e567d552af345",
+ "parent": "c9023010b9537b011f269dd8f3b8b8dcd788eebe",
+ "date": "2025-11-20",
+ "subject": "Fix tech stack save issue",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/techstack/TechStackTreeSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23028
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "20df8c8ea2727e1ff006f66f4971a2322b1a1012",
+ "parent": "3349b89ad1bd706942a0069e54fba1e6ecb7953e",
+ "date": "2025-12-01",
+ "subject": "Fix mobile tab heights",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/tabs.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26397
+}

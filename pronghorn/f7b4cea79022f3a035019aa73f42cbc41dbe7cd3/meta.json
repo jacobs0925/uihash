@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "f7b4cea79022f3a035019aa73f42cbc41dbe7cd3",
+ "parent": "fc9f8a14d80728a9892aeb0afdc9277f49bf112a",
+ "date": "2025-11-22",
+ "subject": "Position edit menu to right",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/requirements/RequirementsTree.tsx",
+  "src/hooks/useRealtimeRequirements.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23507
+}

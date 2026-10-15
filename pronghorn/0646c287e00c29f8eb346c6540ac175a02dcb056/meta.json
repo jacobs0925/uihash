@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "0646c287e00c29f8eb346c6540ac175a02dcb056",
+ "parent": "9ca19bcc3a3b2cb725790bff4bff382ec3b0cce7",
+ "date": "2025-11-25",
+ "subject": "Disable generate during processing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25683
+}

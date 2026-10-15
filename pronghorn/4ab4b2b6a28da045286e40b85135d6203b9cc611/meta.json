@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4ab4b2b6a28da045286e40b85135d6203b9cc611",
+ "parent": "f8bee0b06de784962881cc7c13aaa3d898887bac",
+ "date": "2025-11-22",
+ "subject": "Strip type badges from requirements",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/requirements/RequirementsTree.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22471
+}

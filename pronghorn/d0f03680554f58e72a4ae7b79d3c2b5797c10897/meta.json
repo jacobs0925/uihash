@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "d0f03680554f58e72a4ae7b79d3c2b5797c10897",
+ "parent": "50c99f4f8a209219cb453682ff326846efd65fe8",
+ "date": "2025-11-18",
+ "subject": "Improve mobile epic UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/requirements/RequirementsTree.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 19346
+}

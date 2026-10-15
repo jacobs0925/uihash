@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "3eeefd33ea3cd4316d725daae233d44ba015891e",
+ "parent": "ee6ff36239a1ff77cc2b6237f46a33ac1f927ffc",
+ "date": "2025-11-17",
+ "subject": "Real-time canvas drag update",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useRealtimeCanvas.ts",
+  "src/pages/project/Canvas.tsx",
+  "supabase/migrations/20251117220717_336b865a-8945-4d2f-83f4-d602d531e9d6.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16463
+}

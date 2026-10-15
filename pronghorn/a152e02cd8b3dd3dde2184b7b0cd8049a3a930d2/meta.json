@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "a152e02cd8b3dd3dde2184b7b0cd8049a3a930d2",
+ "parent": "63ca72685767477d80a13f1f8635349eb1636c49",
+ "date": "2025-11-18",
+ "subject": "Fix standards layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Standards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 18798
+}

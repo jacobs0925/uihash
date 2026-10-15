@@ -8,5 +8,5 @@
  "label": 1,
  "source": "undo",
  "confidence": 0.85,
- "evidence": "text-decoration-line: ∅ → underline undone by e86fb384 \"Turn the React Compiler rules on (#128)\"; text-decoration-style: ∅ → solid undone by e86fb384 \"Turn the React Compiler rules on (#128)\"; text-decoration-color: ∅ → rgb(204, 245, 220) undone by e86fb384 \"Turn the React Compiler rules on (#128)\""
+ "evidence": "outline-style: auto → ∅ undone by 711ac716 \"Put the brand green back in the headline, and write down that it is a choice (#191)\"; outline-width: 1px → ∅ undone by 711ac716 \"Put the brand green back in the headline, and write down that it is a choice (#191)\"; outline-color: rgb(16, 16, 16) → ∅ undone by 711ac716 \"Put the brand green back in the headline, and write down that it is a choice (#191)\""
 }

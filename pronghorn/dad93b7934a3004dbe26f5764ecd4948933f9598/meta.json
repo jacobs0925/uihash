@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "dad93b7934a3004dbe26f5764ecd4948933f9598",
+ "parent": "667456c20212c60fa1f43accd7c12e4a3f9d0e3c",
+ "date": "2025-11-18",
+ "subject": "Link logo to root in nav",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/layout/PrimaryNav.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 19441
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "e8c2fe4111371e8a3713efd5573b65c4c31f3664",
+ "parent": "40431e71cad3e901956ccf3e9ab886d0130cc239",
+ "date": "2025-12-01",
+ "subject": "Build repo management foundation",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/CreateRepoDialog.tsx",
+  "src/components/repository/FileTree.tsx",
+  "src/components/repository/RepoCard.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Repository.tsx",
+  "supabase/migrations/20251201031305_487cd856-3c55-4251-8e3b-3102139eac6c.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26992
+}

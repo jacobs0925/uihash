@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "f14ebf63fc236595f522e0b955446849ae5d103f",
+ "parent": "e806d9041aba638851e15926a255dda13426d7b7",
+ "date": "2025-11-30",
+ "subject": "Align canvas palette height",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/CanvasPalette.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25853
+}

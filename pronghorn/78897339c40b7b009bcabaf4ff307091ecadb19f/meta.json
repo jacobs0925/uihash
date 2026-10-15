@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "78897339c40b7b009bcabaf4ff307091ecadb19f",
+ "parent": "00bc279c9ba8d587a783ed7c8ef666da0c27ca43",
+ "date": "2025-11-19",
+ "subject": "Augment critic with context",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx",
+  "supabase/functions/ai-architect-critic/index.ts",
+  "supabase/functions/ai-architect/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20869
+}

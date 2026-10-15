@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "f38b9dc0fbdd918c202bae2ceb961e8eb0830b65",
+ "date": "2025-11-18",
+ "pr": null,
+ "title": "Update logo to running antelope",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1726 later commits"
+}

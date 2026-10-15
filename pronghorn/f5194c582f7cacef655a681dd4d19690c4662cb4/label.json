@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "f5194c582f7cacef655a681dd4d19690c4662cb4",
+ "date": "2025-11-17",
+ "pr": null,
+ "title": "Build requirements manager",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1792 later commits"
+}

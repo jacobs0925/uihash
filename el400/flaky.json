@@ -1,0 +1,15 @@
+[
+ "home|default||same-data|div (same data, drawn differently)|added: div",
+ "home|default||same-data|div (same data, drawn differently)|removed: div",
+ "home|default||same-data|svg (same data, drawn differently)|added: svg",
+ "home|default||same-data|svg (same data, drawn differently)|removed: svg",
+ "home|focus||same-data|div (same data, drawn differently)|added: div",
+ "home|focus||same-data|div (same data, drawn differently)|removed: div",
+ "home|focus||same-data|svg (same data, drawn differently)|added: svg",
+ "home|focus||same-data|svg (same data, drawn differently)|removed: svg",
+ "home|hover||same-data|div (same data, drawn differently)|added: div",
+ "home|hover||same-data|div (same data, drawn differently)|removed: div",
+ "home|hover||same-data|polygon (same data, drawn differently)|filter: url(\"#glow\") → ∅|fill: rgb(0, 255, 0) → rgb(0, 41, 0) · ΔE00 77.3, clearly visible",
+ "home|hover||same-data|svg (same data, drawn differently)|added: svg",
+ "home|hover||same-data|svg (same data, drawn differently)|removed: svg"
+]

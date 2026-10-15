@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4adf995aec263532e6fc02c06b143c877f188a93",
+ "parent": "64e8959ecaa89e9ca88a08bc45e6b1e2f8825757",
+ "date": "2025-11-17",
+ "subject": "Fix link selector clicks",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/LinkSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16448
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "084b037cc5420b2ecc1b6b2ec533618b80195a1f",
+ "parent": "0772ea88ac9a2842d925131e13a85b4ef66a9c85",
+ "date": "2025-12-01",
+ "subject": "Make diff a checkbox toggle",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26494
+}

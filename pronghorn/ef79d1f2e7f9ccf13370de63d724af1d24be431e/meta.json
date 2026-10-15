@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "ef79d1f2e7f9ccf13370de63d724af1d24be431e",
+ "parent": "de894a27afae88a36a94e3cae9e8c06f4810f3d8",
+ "date": "2025-11-22",
+ "subject": "Token-based project flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/dashboard/CreateProjectDialog.tsx",
+  "supabase/functions/create-project/index.ts",
+  "supabase/functions/expand-requirement/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23108
+}

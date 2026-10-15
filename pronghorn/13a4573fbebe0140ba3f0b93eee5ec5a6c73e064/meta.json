@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "13a4573fbebe0140ba3f0b93eee5ec5a6c73e064",
+ "parent": "1ce21999f9c0557cc944a11f8c0a5c615ddb249d",
+ "date": "2025-12-01",
+ "subject": "Toggle save only in place",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx",
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26392
+}

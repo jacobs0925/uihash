@@ -1,0 +1,30 @@
+{
+ "repo": "pronghorn",
+ "sha": "f5194c582f7cacef655a681dd4d19690c4662cb4",
+ "parent": "03b73120d5bceb07533cbcf6a3c3c7b6ad61bc34",
+ "date": "2025-11-17",
+ "subject": "Build requirements manager",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/requirements/AIDecomposeDialog.tsx",
+  "src/components/standards/StandardsTree.tsx",
+  "src/hooks/useRealtimeCanvas.ts",
+  "src/hooks/useRealtimeRequirements.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Index.tsx",
+  "src/pages/Standards.tsx",
+  "src/pages/project/Requirements.tsx",
+  "supabase/config.toml",
+  "supabase/functions/decompose-requirements/index.ts",
+  "supabase/migrations/20251117203651_f411ce6c-b1fb-4cc2-b2b0-5de3d471164d.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 24764
+}

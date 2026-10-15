@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c235c806768ba172274f1607d7e4b931aaf6b8c0",
+ "parent": "672c3a76b013e71341ac246c4769c2b4fb5890b7",
+ "date": "2025-11-24",
+ "subject": "Reorganize Specifications UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23824
+}

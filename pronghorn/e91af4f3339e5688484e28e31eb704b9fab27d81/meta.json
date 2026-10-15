@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "e91af4f3339e5688484e28e31eb704b9fab27d81",
+ "parent": "ceb4981b0a6150940383cf938df08556608a44b7",
+ "date": "2025-11-24",
+ "subject": "Move to top-right toasts",
+ "components": [
+  "main.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/assets/pronghorn-hero.png",
+  "src/main.tsx",
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23680
+}

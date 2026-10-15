@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ffd40ca9a4392558d30a0a0752762476ff905d91",
+ "parent": "12bfa473f1ec78143399cf046c2172dfd5412094",
+ "date": "2025-11-29",
+ "subject": "Enable concurrent generation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/InfographicDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25948
+}

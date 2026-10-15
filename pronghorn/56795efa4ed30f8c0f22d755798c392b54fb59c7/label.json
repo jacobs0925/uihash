@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "56795efa4ed30f8c0f22d755798c392b54fb59c7",
+ "date": "2025-11-17",
+ "pr": null,
+ "title": "Add landing page and cleanup",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1760 later commits"
+}

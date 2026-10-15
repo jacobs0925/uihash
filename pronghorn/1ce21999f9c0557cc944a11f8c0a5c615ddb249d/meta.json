@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1ce21999f9c0557cc944a11f8c0a5c615ddb249d",
+ "parent": "ae5c62777a59e31060545a2215045fc590d98d33",
+ "date": "2025-12-01",
+ "subject": "Fix staging diff UI refresh",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26528
+}

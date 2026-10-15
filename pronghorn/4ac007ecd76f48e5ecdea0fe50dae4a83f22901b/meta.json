@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4ac007ecd76f48e5ecdea0fe50dae4a83f22901b",
+ "parent": "e483e5b046cb48e56e44705e1097c0fcfbe08736",
+ "date": "2025-11-18",
+ "subject": "Improve canvas token safety",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20412
+}

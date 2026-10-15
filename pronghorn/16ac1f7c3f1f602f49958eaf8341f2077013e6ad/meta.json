@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "16ac1f7c3f1f602f49958eaf8341f2077013e6ad",
+ "parent": "145512db521ca0e7cfd419f8e20851b087b87808",
+ "date": "2025-11-19",
+ "subject": "Update landing page messaging",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 7,
+ "ms": 25728
+}

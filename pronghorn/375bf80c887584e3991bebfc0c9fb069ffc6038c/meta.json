@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "375bf80c887584e3991bebfc0c9fb069ffc6038c",
+ "parent": "5ab3e0b92de641056df091120b405fa68f3b3f57",
+ "date": "2025-11-29",
+ "subject": "Propagate project context",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/IterativeEnhancement.tsx",
+  "supabase/functions/orchestrate-agents/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26053
+}

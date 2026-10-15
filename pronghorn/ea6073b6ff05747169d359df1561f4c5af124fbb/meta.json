@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ea6073b6ff05747169d359df1561f4c5af124fbb",
+ "parent": "38fdc0dc1ab2a5f0ef43ab3b5d25d42e191e8f3c",
+ "date": "2025-12-01",
+ "subject": "Fix duplicate Agent tabs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26579
+}

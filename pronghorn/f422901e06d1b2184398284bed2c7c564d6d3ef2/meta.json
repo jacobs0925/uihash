@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "f422901e06d1b2184398284bed2c7c564d6d3ef2",
+ "parent": "8d2faaa48826df925c54da655e673876a73283f0",
+ "date": "2025-11-17",
+ "subject": "Add expand standards edge",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/standards/StandardsTreeManager.tsx",
+  "supabase/config.toml",
+  "supabase/functions/expand-standards/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16504
+}

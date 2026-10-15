@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "49bf799074ebf2d70018b7943fa0e287a53c06d1",
+ "date": "2025-11-18",
+ "pr": null,
+ "title": "Add token-based sharing system",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgb(243, 244, 246) → rgb(249, 250, 251) undone by 67ebccfb \"Switch to key-based admin flow\"; padding-top: 0px → 16px undone by 67ebccfb \"Switch to key-based admin flow\"; padding-right: 0px → 16px undone by 67ebccfb \"Switch to key-based admin flow\""
+}

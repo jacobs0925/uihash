@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "f673b39388e9ad917da5b2417de6e56ee2f58e6c",
+ "parent": "691cbe84c745e9e3c555dcce9d2360c79b09169f",
+ "date": "2025-12-01",
+ "subject": "Improve staged file handling",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentFileTree.tsx",
+  "src/components/repository/CodeEditor.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26906
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "00119a4eb6e8a0ef2fedad673180ce9a08a37a51",
+ "parent": "56795efa4ed30f8c0f22d755798c392b54fb59c7",
+ "date": "2025-11-17",
+ "subject": "Fix project refresh admin delete",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/dashboard/CreateProjectDialog.tsx",
+  "src/components/dashboard/DeleteProjectDialog.tsx",
+  "src/components/dashboard/EnhancedCreateProjectDialog.tsx",
+  "src/components/dashboard/ProjectCard.tsx",
+  "src/components/requirements/ProjectSetupWizard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 17963
+}

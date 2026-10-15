@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "0a07a6e358e9fba8b2e64740fdf0daeda1e1827b",
+ "parent": "0b7d47b025342be0fbfa01e37dce6ac9fb23ae4e",
+ "date": "2025-12-01",
+ "subject": "Add show diff toggle",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/components/repository/CodeEditor.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26804
+}

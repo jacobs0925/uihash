@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "502eef771fa0568f8dc1cd23253d36827f4bbf38",
+ "parent": "920e118f86a56a9d66063f4b40706ec7c0081dac",
+ "date": "2025-12-01",
+ "subject": "Phase 7 finalize sync UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Repository.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27045
+}

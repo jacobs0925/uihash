@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ca4a5d6dc1093e74015a080f57cd3fa292a24035",
+ "parent": "6f8edfe5b3150571ad4c098064c444c0cf0d03b9",
+ "date": "2025-11-24",
+ "subject": "Improve mobile ProjectSelector UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/ProjectSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23542
+}

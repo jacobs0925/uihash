@@ -1,0 +1,42 @@
+{
+ "repo": "pronghorn",
+ "sha": "03b73120d5bceb07533cbcf6a3c3c7b6ad61bc34",
+ "parent": "2429f2e0f64302328d30eb483e4504431a7200dd",
+ "date": "2025-11-17",
+ "subject": "Build core app scaffolding",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/App.tsx",
+  "src/components/audit/CoverageChart.tsx",
+  "src/components/audit/FindingsTable.tsx",
+  "src/components/build/AgentStatusVisualizer.tsx",
+  "src/components/build/LogViewer.tsx",
+  "src/components/canvas/CanvasNode.tsx",
+  "src/components/canvas/NodePalette.tsx",
+  "src/components/dashboard/CreateProjectDialog.tsx",
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/components/requirements/RequirementsTree.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Dashboard.tsx",
+  "src/pages/project/Audit.tsx",
+  "src/pages/project/Build.tsx",
+  "src/pages/project/Canvas.tsx",
+  "src/pages/project/ProjectSettings.tsx",
+  "src/pages/project/Repository.tsx",
+  "src/pages/project/Requirements.tsx",
+  "supabase/migrations/20251117202939_662d7271-c04f-41df-832f-0f81c64da381.sql",
+  "supabase/migrations/20251117202953_2430eba0-c741-40ae-9faa-2585381506ba.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 17784
+}

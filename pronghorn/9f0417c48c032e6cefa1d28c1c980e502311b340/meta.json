@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "9f0417c48c032e6cefa1d28c1c980e502311b340",
+ "parent": "5c4711b4d1f006c87db79728e98b224858e0d1fb",
+ "date": "2025-11-18",
+ "subject": "Remove logo from hero",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 30816
+}

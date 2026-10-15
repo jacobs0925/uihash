@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "1add0b9267994a31f9eebfae992d96713c736cce",
+ "parent": "217f88a5ec5c71998df73edb87f3132376ea3fbc",
+ "date": "2025-12-01",
+ "subject": "Improve in-IDE file explorer UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/IDEModal.tsx",
+  "src/pages/project/Repository.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26390
+}

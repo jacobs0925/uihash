@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "8d5e26b377e6169609cc6525d3d270f178103af3",
+ "parent": "71f5fdbe1830e1e71d92437a46d976768a0a4b45",
+ "date": "2025-11-21",
+ "subject": "Style export buttons tweaks",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23602
+}

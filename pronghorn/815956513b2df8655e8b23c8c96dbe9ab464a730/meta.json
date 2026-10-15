@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "815956513b2df8655e8b23c8c96dbe9ab464a730",
+ "parent": "48da1a18e6700a75d01fb1d28408d66480f0b42b",
+ "date": "2025-11-30",
+ "subject": "Add select all none to selectors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/standards/StandardsTreeSelector.tsx",
+  "src/components/techstack/TechStackTreeSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26424
+}

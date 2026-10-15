@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "ac325e7290c88a47f9552a41871c0b1f61913bbe",
+ "parent": "2b2cac5f9e63ac1db2016682616c2f95c861b11f",
+ "date": "2025-11-30",
+ "subject": "Show only linked tech stacks",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/ProjectSelector.tsx",
+  "src/components/techstack/TechStackTreeSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26943
+}

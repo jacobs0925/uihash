@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "05483e5362d055adf2cf127458cfc70b424fe87f",
+ "parent": "db6da21ff20978d8a1e0e8f0cbf02670824b9aac",
+ "date": "2025-11-18",
+ "subject": "Extend token RPC to more tables",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/requirements/LinkStandardsDialog.tsx",
+  "src/components/requirements/RequirementStandardsBadges.tsx",
+  "src/components/standards/TechStackSelector.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Standards.tsx",
+  "supabase/migrations/20251118164113_61adec96-2aa0-4c6e-9b4c-bf7c606a9ea6.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20719
+}

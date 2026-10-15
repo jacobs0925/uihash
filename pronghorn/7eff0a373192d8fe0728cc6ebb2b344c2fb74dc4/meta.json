@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7eff0a373192d8fe0728cc6ebb2b344c2fb74dc4",
+ "parent": "d041e067aa0b9dd79936408a9e5e4b67b867b45b",
+ "date": "2025-11-21",
+ "subject": "Align right panel under nav",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22903
+}

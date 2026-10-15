@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "8e4cc84fd40f6f9750c54127b3238d13104f95b6",
+ "parent": "35d8247bbc9a358168471d160aae6096af7a3861",
+ "date": "2025-11-29",
+ "subject": "Add Simplify standard flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/IterativeEnhancement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25703
+}

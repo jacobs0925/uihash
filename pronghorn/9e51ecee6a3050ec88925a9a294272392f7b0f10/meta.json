@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "9e51ecee6a3050ec88925a9a294272392f7b0f10",
+ "parent": "6408b5d84a3f798d12111e53344a40866a8275c6",
+ "date": "2025-11-18",
+ "subject": "Fix share token flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useShareToken.ts",
+  "src/pages/project/Canvas.tsx",
+  "src/pages/project/ProjectSettings.tsx",
+  "src/pages/project/Requirements.tsx",
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20418
+}

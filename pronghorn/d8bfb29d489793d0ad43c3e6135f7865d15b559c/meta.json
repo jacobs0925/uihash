@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "d8bfb29d489793d0ad43c3e6135f7865d15b559c",
+ "parent": "814bef816c8d59103ca60e687fad9a0065a7459a",
+ "date": "2025-11-28",
+ "subject": "Fix infographic overflow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/InfographicDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25734
+}

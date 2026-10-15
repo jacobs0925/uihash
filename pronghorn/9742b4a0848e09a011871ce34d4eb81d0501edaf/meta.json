@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "9742b4a0848e09a011871ce34d4eb81d0501edaf",
+ "parent": "698a2bba7cf967d7b84f315410bc468e434819c8",
+ "date": "2025-11-19",
+ "subject": "Improve edge editing workflow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/EdgePropertiesPanel.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20710
+}

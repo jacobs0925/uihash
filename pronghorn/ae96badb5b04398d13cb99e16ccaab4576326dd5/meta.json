@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "ae96badb5b04398d13cb99e16ccaab4576326dd5",
+ "parent": "f422901e06d1b2184398284bed2c7c564d6d3ef2",
+ "date": "2025-11-17",
+ "subject": "Improve Standards management UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/standards/CategoryCard.tsx",
+  "src/components/standards/StandardsTreeManager.tsx",
+  "src/pages/Standards.tsx",
+  "supabase/migrations/20251117215653_825c745a-58aa-40f7-b1a7-1a12ce5e1822.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 17785
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "007ad32dcfab10f70418d11a5a695d244036b99d",
+ "parent": "9742b4a0848e09a011871ce34d4eb81d0501edaf",
+ "date": "2025-11-19",
+ "subject": "Fix edge type mapping in UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/EdgePropertiesPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20961
+}

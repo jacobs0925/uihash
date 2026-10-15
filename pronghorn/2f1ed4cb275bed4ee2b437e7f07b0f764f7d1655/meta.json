@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2f1ed4cb275bed4ee2b437e7f07b0f764f7d1655",
+ "parent": "adf1116f0eab7410194d1aae21b32e5e85a979a5",
+ "date": "2025-11-20",
+ "subject": "Fix backspace delete",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22893
+}

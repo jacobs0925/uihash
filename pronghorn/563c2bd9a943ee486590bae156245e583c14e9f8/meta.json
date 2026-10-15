@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "563c2bd9a943ee486590bae156245e583c14e9f8",
+ "parent": "e8c2fe4111371e8a3713efd5573b65c4c31f3664",
+ "date": "2025-12-01",
+ "subject": "Phase 2 repo RPCs",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/ManagePATDialog.tsx",
+  "src/hooks/useRealtimeRepos.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Repository.tsx",
+  "supabase/migrations/20251201031714_f77ab5b2-b325-4d0f-aa51-28d27a71e304.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26909
+}

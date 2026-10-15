@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "d041e067aa0b9dd79936408a9e5e4b67b867b45b",
+ "parent": "79a4f69a8b9c6cea8f5ee6d0ec4b35c28cb224c6",
+ "date": "2025-11-21",
+ "subject": "Adjust canvas layout and panels",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23280
+}

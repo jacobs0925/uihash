@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "8d905f244e1e2e295456bf528b81523b1ffa3d8c",
+ "date": "2025-11-17",
+ "pr": null,
+ "title": "Add canvas properties panel",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1782 later commits"
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "7db61ffc00b2d2f60642b367469dabbea4da10bf",
+ "parent": "0e0c9d9b490b1a8ad07c0758bd6eb7d47e709155",
+ "date": "2025-11-18",
+ "subject": "Attach files in export",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Specifications.tsx",
+  "supabase/migrations/20251118003358_3b56cb82-547e-4c1c-aa4d-2993b6fd781b.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 18768
+}

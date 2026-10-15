@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "80a9761c81508e0688175847681c14cc17b85e08",
+ "parent": "c01d3b0f365e61dfbcaabc931918987cc45fa58f",
+ "date": "2025-11-23",
+ "subject": "Refine chat streaming",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23949
+}

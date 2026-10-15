@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "e097b7cb46fe10422aa7a4a763e4a27aa3ab9220",
+ "parent": "a3c1e6c18842d52233abce5c5b54f2b608b4d648",
+ "date": "2025-11-28",
+ "subject": "Enhance infographic styles",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/InfographicDialog.tsx",
+  "supabase/functions/generate-image/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25808
+}

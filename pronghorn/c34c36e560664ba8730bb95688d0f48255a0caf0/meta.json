@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "c34c36e560664ba8730bb95688d0f48255a0caf0",
+ "parent": "1c9e93b77a751b7f5f5485900eb5c27edd34d402",
+ "date": "2025-11-30",
+ "subject": "Add delete project feature",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/ProjectSettings.tsx",
+  "supabase/migrations/20251130163845_06a16722-490f-4ae4-b28b-71f71468614d.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27224
+}

@@ -1,0 +1,28 @@
+{
+ "repo": "pronghorn",
+ "sha": "c7909a0ec2184a51d0ef57ae3eb0c175a45e670a",
+ "parent": "49bf799074ebf2d70018b7943fa0e287a53c06d1",
+ "date": "2025-11-18",
+ "subject": "Implement RLS and edge fixes",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/dashboard/EnhancedCreateProjectDialog.tsx",
+  "src/components/requirements/AIDecomposeDialog.tsx",
+  "src/components/requirements/RequirementsTree.tsx",
+  "src/pages/project/Requirements.tsx",
+  "src/pages/project/Specifications.tsx",
+  "supabase/functions/decompose-requirements/index.ts",
+  "supabase/functions/expand-requirement/index.ts",
+  "supabase/functions/generate-specification/index.ts",
+  "supabase/migrations/20251118043003_19660829-156d-4554-a23e-2da808042d70.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 19134
+}

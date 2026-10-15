@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "e3fc148595bfbe2fa8c14dbac8973c2754685c8b",
+ "parent": "2d10f657b15469bb93e6d1c41654750c3d64dfe8",
+ "date": "2025-11-17",
+ "subject": "Scope link selectors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/LinkSelector.tsx",
+  "src/components/canvas/NodePropertiesPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16503
+}

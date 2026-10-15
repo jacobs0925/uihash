@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "b304a1a7c76aeee4301b94429d56771d2df85e6d",
+ "parent": "8cfcabd542266d698b2105c3c57b193cdd1cad62",
+ "date": "2025-11-29",
+ "subject": "Hide and reload canvas on close",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx",
+  "supabase/functions/orchestrate-agents/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26560
+}

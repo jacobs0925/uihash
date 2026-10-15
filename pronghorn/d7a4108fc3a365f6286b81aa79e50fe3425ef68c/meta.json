@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "d7a4108fc3a365f6286b81aa79e50fe3425ef68c",
+ "parent": "ab0e880f20b02f2741c015af70e6907a16044d4f",
+ "date": "2025-12-01",
+ "subject": "Sync editors and fix diffs",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx",
+  "src/pages/project/Build.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26573
+}

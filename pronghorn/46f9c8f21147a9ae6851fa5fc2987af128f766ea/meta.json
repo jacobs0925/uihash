@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "46f9c8f21147a9ae6851fa5fc2987af128f766ea",
+ "parent": "37eb1ef2037f511b28a907980f8a9428a48e654f",
+ "date": "2025-11-29",
+ "subject": "Fix canvas sync and latency",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/IterativeEnhancement.tsx",
+  "supabase/functions/orchestrate-agents/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26416
+}

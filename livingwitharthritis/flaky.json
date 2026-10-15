@@ -1,0 +1,22 @@
+[
+ "home|default||a11y|accessibility tree|removed: button \"Close notification\": ×",
+ "home|default||a11y|accessibility tree|removed: button \"Close notification\"|removed: img",
+ "home|default||layout|layout: now covered by another element|now covered by another element: 1 case, e.g. p now under div.bg-background.border",
+ "home|default||same-data|div (same data, drawn differently)|added: div",
+ "home|default||same-data|div (same data, drawn differently)|removed: div",
+ "home|default||same-data|div (same data, drawn differently)|removed: div (\"James W. donated £ 500 🥳 📍 Manchester \")",
+ "home|default||same-data|svg (same data, drawn differently)|added: svg",
+ "home|default||same-data|svg (same data, drawn differently)|removed: svg",
+ "home|focus||layout|layout: now covered by another element|now covered by another element: 1 case, e.g. p now under div.bg-background.border",
+ "home|focus||same-data|div (same data, drawn differently)|added: div",
+ "home|focus||same-data|svg (same data, drawn differently)|added: svg",
+ "home|focus||same-data|svg (same data, drawn differently)|removed: svg",
+ "home|hover||a11y|accessibility tree|removed: button \"Close notification\": ×",
+ "home|hover||a11y|accessibility tree|removed: button \"Close notification\"|removed: img",
+ "home|hover||layout|layout: now covered by another element|now covered by another element: 1 case, e.g. p now under div.bg-background.border",
+ "home|hover||same-data|div (same data, drawn differently)|added: div",
+ "home|hover||same-data|div (same data, drawn differently)|removed: div (\"James W. donated £ 500 🥳 📍 Manchester \")",
+ "home|hover||same-data|div (same data, drawn differently)|removed: div (\"Linda M. donated $ 100 🥳 📍 Novato , Un\")",
+ "home|hover||same-data|svg (same data, drawn differently)|added: svg",
+ "home|hover||same-data|svg (same data, drawn differently)|removed: svg"
+]

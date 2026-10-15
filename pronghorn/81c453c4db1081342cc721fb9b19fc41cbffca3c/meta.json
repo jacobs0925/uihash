@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "81c453c4db1081342cc721fb9b19fc41cbffca3c",
+ "parent": "76e90751c7b77389509155e4c163fa551836fa29",
+ "date": "2025-11-21",
+ "subject": "Refactor implement hard lasso",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/Lasso.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23236
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "396955483c47f49199fea14ec7b2e6469ec8d989",
+ "parent": "d4ea41779ca296a4d898a187961f801ffa1ffe92",
+ "date": "2025-12-01",
+ "subject": "Integrate Phase 3 memory",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Build.tsx",
+  "supabase/migrations/20251201114928_0219bbe5-0c1b-463d-99e8-3f6d6138e415.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26789
+}

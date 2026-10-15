@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "34fb63b23d0d4a91d877b569924ed8301bb0e3d4",
+ "parent": "d358d1a7ba142a0715cb399fbab1d1fad77db40d",
+ "date": "2025-12-01",
+ "subject": "Add hamburger trigger",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx",
+  "src/pages/project/Repository.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26593
+}

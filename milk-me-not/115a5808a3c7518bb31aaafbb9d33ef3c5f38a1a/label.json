@@ -5,8 +5,8 @@
  "date": "2026-01-28",
  "pr": null,
  "title": "Hide mobile banner on mobile",
- "label": 1,
- "source": "undo",
- "confidence": 0.85,
- "evidence": "box-shadow: rgb(255, 255, 255) 0px 0px 0px 2px, rgb(191, 191, 191) 0px 0px 0px 4px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px undone by 25ef581d \"Semantic tokens in Home.tsx\"; outline-style: solid → ∅ undone by 25ef581d \"Semantic tokens in Home.tsx\"; outline-width: 2px → ∅ undone by 25ef581d \"Semantic tokens in Home.tsx\""
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 528 later commits"
 }

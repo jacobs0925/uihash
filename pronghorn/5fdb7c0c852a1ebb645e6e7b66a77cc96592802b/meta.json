@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "5fdb7c0c852a1ebb645e6e7b66a77cc96592802b",
+ "parent": "ee36632a62e3f9bbc76dd77e7fe33bc9a3ebeb30",
+ "date": "2025-11-30",
+ "subject": "Fix show linked tech stacks only",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/ProjectSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27125
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "52bbdbb45882de7bc8e4fefae439ba3065829db5",
+ "parent": "007ad32dcfab10f70418d11a5a695d244036b99d",
+ "date": "2025-11-19",
+ "subject": "Update edge property save flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/EdgePropertiesPanel.tsx",
+  "src/hooks/useRealtimeCanvas.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21062
+}

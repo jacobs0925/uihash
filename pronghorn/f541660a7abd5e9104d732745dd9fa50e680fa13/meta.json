@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f541660a7abd5e9104d732745dd9fa50e680fa13",
+ "parent": "b38e237f604e0f44300fe1affffc2e1df2495942",
+ "date": "2025-11-30",
+ "subject": "Increase auto order spacing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26832
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c9107812d4b0317ef98bfab5c7390a999fd9ae9f",
+ "parent": "dc40e5528ff6733b35a80fa28df4fc573c377758",
+ "date": "2025-11-24",
+ "subject": "Align techstack tree to standards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/techstack/TechStackTreeSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 24043
+}

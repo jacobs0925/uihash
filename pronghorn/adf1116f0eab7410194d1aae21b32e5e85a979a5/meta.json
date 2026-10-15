@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "adf1116f0eab7410194d1aae21b32e5e85a979a5",
+ "parent": "1cb4fb728848b4d0830807f3a78a8935f6f7ea16",
+ "date": "2025-11-20",
+ "subject": "Prevent backspace deletions",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23079
+}

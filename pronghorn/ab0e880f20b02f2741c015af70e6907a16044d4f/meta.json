@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "ab0e880f20b02f2741c015af70e6907a16044d4f",
+ "parent": "8399dba5578e3795fec9ab64bc45f9e71cdf074c",
+ "date": "2025-12-01",
+ "subject": "Improve file trees and diff UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentFileTree.tsx",
+  "src/components/repository/EnhancedFileTree.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26635
+}

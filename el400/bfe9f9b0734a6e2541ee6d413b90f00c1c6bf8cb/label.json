@@ -8,5 +8,5 @@
  "label": 1,
  "source": "undo",
  "confidence": 0.85,
- "evidence": "filter: url(\"#glow\") → ∅ undone by e32a5fc1 \"Implement inch/mm unit conversion with internal mm storage (#82)\"; fill: rgb(0, 255, 0) → rgb(0, 41, 0) undone by e32a5fc1 \"Implement inch/mm unit conversion with internal mm storage (#82)\"; fill: rgb(0, 41, 0) → rgb(0, 255, 0) undone by e32a5fc1 \"Implement inch/mm unit conversion with internal mm storage (#82)\""
+ "evidence": "filter: url(\"#glow\") → ∅ undone by 07bff213 \"feat: implement power-on display sequence\"; fill: rgb(0, 255, 0) → rgb(0, 41, 0) undone by 07bff213 \"feat: implement power-on display sequence\"; fill: rgb(0, 41, 0) → rgb(0, 255, 0) undone by 07bff213 \"feat: implement power-on display sequence\""
 }

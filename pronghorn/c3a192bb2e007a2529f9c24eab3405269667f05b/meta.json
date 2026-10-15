@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c3a192bb2e007a2529f9c24eab3405269667f05b",
+ "parent": "4ab4b2b6a28da045286e40b85135d6203b9cc611",
+ "date": "2025-11-22",
+ "subject": "Append token in dashboard nav",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 24787
+}

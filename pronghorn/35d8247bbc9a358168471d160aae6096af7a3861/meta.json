@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "35d8247bbc9a358168471d160aae6096af7a3861",
+ "parent": "f1685a8c277494c9bfd377ca0ffbd4544081ab78",
+ "date": "2025-11-29",
+ "subject": "Refine agent delta cleanup",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/data/buildAgents.json",
+  "src/components/canvas/AIArchitectDialog.tsx",
+  "src/components/canvas/IterativeEnhancement.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25759
+}

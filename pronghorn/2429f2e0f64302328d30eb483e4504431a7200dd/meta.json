@@ -1,0 +1,32 @@
+{
+ "repo": "pronghorn",
+ "sha": "2429f2e0f64302328d30eb483e4504431a7200dd",
+ "parent": "c8c6c3e50fe387e9c663cdba8f487164bd7fa37f",
+ "date": "2025-11-17",
+ "subject": "Implement AI-ready dashboards",
+ "components": [
+  "App.tsx",
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  ".env",
+  "index.html",
+  "src/App.tsx",
+  "src/components/dashboard/ActivityFeed.tsx",
+  "src/components/dashboard/ProjectCard.tsx",
+  "src/components/layout/PrimaryNav.tsx",
+  "src/index.css",
+  "src/pages/Dashboard.tsx",
+  "src/pages/Settings.tsx",
+  "src/pages/Standards.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 12,
+ "ms": 23987
+}

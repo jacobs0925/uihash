@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "771e6f659fe0fd58581e5877360b6176d8573dcb",
+ "parent": "7abf55bdc5886b4fcf839706ea64c570b4213389",
+ "date": "2025-11-22",
+ "subject": "Improve reqs real-time sync",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/index.css",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23333
+}

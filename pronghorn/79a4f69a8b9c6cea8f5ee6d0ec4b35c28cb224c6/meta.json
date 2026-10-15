@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "79a4f69a8b9c6cea8f5ee6d0ec4b35c28cb224c6",
+ "parent": "34d5714c300c00c395ebf856c3e98aba613d7be3",
+ "date": "2025-11-21",
+ "subject": "Init collapse and mobile fix",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/EdgePropertiesPanel.tsx",
+  "src/components/canvas/NodePropertiesPanel.tsx",
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23135
+}

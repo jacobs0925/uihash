@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "fc9f8a14d80728a9892aeb0afdc9277f49bf112a",
+ "parent": "312cd2d1e6515f1ca7939edcc26b465be364c71c",
+ "date": "2025-11-22",
+ "subject": "Fix epic UUID on create",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/requirements/RequirementsTree.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23931
+}

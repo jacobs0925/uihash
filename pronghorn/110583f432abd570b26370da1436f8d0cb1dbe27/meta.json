@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "110583f432abd570b26370da1436f8d0cb1dbe27",
+ "parent": "552afb214ffad2704ee7e3756bf57e5ac7dd4b34",
+ "date": "2025-12-01",
+ "subject": "Preserve file selection on diff",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26477
+}

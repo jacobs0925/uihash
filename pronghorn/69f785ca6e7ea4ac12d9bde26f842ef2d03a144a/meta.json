@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "69f785ca6e7ea4ac12d9bde26f842ef2d03a144a",
+ "parent": "4cb030a8bd12a5a864ea0d3dfee9b94c1f60e8b5",
+ "date": "2025-12-01",
+ "subject": "Consolidate chat lazy-load",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentSessionsList.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26747
+}

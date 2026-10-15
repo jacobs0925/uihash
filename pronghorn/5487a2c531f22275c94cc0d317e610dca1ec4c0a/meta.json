@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "5487a2c531f22275c94cc0d317e610dca1ec4c0a",
+ "parent": "a24cf04de178623dc55e7cd342c55d4b7222f074",
+ "date": "2025-11-29",
+ "subject": "Fix canvas context persistence",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/IterativeEnhancement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26293
+}

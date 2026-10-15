@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "90f429926909b6814abe59807b8334bdb9aacfd3",
+ "parent": "a375f444eb4dd0c1c0da6a193343d796de208fe3",
+ "date": "2025-12-01",
+ "subject": "Add private toggle for repo",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/CreateRepoDialog.tsx",
+  "src/pages/project/Repository.tsx",
+  "supabase/functions/create-empty-repo/index.ts",
+  "supabase/functions/create-repo-from-template/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26777
+}

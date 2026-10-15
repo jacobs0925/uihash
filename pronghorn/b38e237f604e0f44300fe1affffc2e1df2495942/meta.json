@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "b38e237f604e0f44300fe1affffc2e1df2495942",
+ "parent": "c810c71cdfcbf741ce75fbaf2630aaa220646039",
+ "date": "2025-11-30",
+ "subject": "Add eyeball toggle to Node Types",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/CanvasPalette.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26942
+}

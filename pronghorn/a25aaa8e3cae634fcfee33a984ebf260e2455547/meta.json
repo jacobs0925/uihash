@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "a25aaa8e3cae634fcfee33a984ebf260e2455547",
+ "parent": "8d9a92001e8497d558a0bf267d412a044237fa20",
+ "date": "2025-11-21",
+ "subject": "Keep right panel with selection",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23227
+}

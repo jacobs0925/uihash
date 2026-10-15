@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "ee6ff36239a1ff77cc2b6237f46a33ac1f927ffc",
+ "date": "2025-11-17",
+ "pr": null,
+ "title": "Refactor standards filtering",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1776 later commits"
+}

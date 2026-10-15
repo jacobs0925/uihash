@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1c3f388814b76408236d445bf72502dd11ae35f9",
+ "parent": "9796f91ea9dd4a5e0075d72b17713ffc0398bb56",
+ "date": "2025-12-01",
+ "subject": "Fix mobile layout bleed",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26425
+}

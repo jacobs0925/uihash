@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "78f224d95ef482f827b089831a157e9ec8360226",
+ "parent": "363bd65f0009bf0c4e31427a45fe28c738a561eb",
+ "date": "2025-12-01",
+ "subject": "Implement phase 7 orchestration",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentPromptPanel.tsx",
+  "src/pages/project/Build.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27225
+}

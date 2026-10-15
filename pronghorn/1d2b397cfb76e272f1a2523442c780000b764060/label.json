@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "1d2b397cfb76e272f1a2523442c780000b764060",
+ "date": "2025-11-17",
+ "pr": null,
+ "title": "Fix decompose-requirements input",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1785 later commits"
+}

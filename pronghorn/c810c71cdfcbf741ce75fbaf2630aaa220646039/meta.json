@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c810c71cdfcbf741ce75fbaf2630aaa220646039",
+ "parent": "65635cc167b8e1610db5ba6e11f1e4fddc56cfd3",
+ "date": "2025-11-30",
+ "subject": "Increase port handle size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/CanvasNode.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27189
+}

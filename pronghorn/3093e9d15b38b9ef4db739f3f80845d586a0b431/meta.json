@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3093e9d15b38b9ef4db739f3f80845d586a0b431",
+ "parent": "4e1d72d433e640f3f9e397b9a58754c968444823",
+ "date": "2025-11-22",
+ "subject": "Adjust SVG export bounds",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22969
+}

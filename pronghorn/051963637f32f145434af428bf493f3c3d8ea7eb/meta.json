@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "051963637f32f145434af428bf493f3c3d8ea7eb",
+ "parent": "4c9f3e5373d849d14f795efd8b00d37f7af08ef7",
+ "date": "2025-11-23",
+ "subject": "Streamline artifact streaming UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23015
+}

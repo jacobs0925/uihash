@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "e7a1a31763ce37e7c32ac45fba94754d02871d16",
+ "parent": "5487a2c531f22275c94cc0d317e610dca1ec4c0a",
+ "date": "2025-11-29",
+ "subject": "Isolate AgentFlow renders",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AgentFlow.tsx",
+  "src/components/canvas/IterationVisualizer.tsx",
+  "src/components/canvas/IterativeEnhancement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26333
+}

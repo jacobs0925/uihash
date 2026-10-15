@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f1685a8c277494c9bfd377ca0ffbd4544081ab78",
+ "parent": "fd2842368e8490fef2e90ba3613cfea2c6d7d17e",
+ "date": "2025-11-29",
+ "subject": "Hide main canvas during AI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25949
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "569096d0fbc0e2a54a86f30d4d8a95956d955b97",
+ "parent": "057151043fd76d7a59bbc8b368a444d8e7908d4e",
+ "date": "2025-11-30",
+ "subject": "Validate tech stacks before save",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Standards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26125
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "e61002b328c9d4924f3d0fb3081e9525eb62c115",
+ "parent": "f14ebf63fc236595f522e0b955446849ae5d103f",
+ "date": "2025-11-30",
+ "subject": "Improve canvas UI and isolate",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/CanvasPalette.tsx",
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26009
+}

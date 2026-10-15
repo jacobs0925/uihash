@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "911e617c9a00df8b4f13f7d944e992d458529749",
+ "parent": "668698b83282b2e8163057b074f80e8d6f67352e",
+ "date": "2025-11-20",
+ "subject": "Improve indeterminate visuals for checkbox",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/checkbox.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22900
+}

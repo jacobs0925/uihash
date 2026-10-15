@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "d455c96420af39ec7e3343aa12ebd820f090bf15",
+ "parent": "ee67272ee07d0a6d7d7f01b77dea5a5874a15b7d",
+ "date": "2025-11-30",
+ "subject": "Normalize tech stack items into rows",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/project/ProjectSelector.tsx",
+  "src/components/techstack/TechStackTreeManager.tsx",
+  "src/components/techstack/TechStackTreeSelector.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/TechStacks.tsx",
+  "src/pages/project/Standards.tsx",
+  "supabase/migrations/20251130142709_072111ab-91a6-436d-a429-6d8a73800d57.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 28060
+}

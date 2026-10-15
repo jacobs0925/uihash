@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "83a4230367789b564baaa0aca6e55ea75066c9af",
+ "parent": "50a0d65beff4b48429b85c140f78728a9bd74cb5",
+ "date": "2025-12-01",
+ "subject": "Fix manifest 404 and UI bleed",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26972
+}

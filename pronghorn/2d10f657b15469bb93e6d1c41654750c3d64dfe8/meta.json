@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "2d10f657b15469bb93e6d1c41654750c3d64dfe8",
+ "parent": "0dd7fc0d7ee0b17018f45ce6e0e6f970c34d540b",
+ "date": "2025-11-17",
+ "subject": "Improve canvas linking hierarchy",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/LinkSelector.tsx",
+  "src/hooks/useRealtimeRequirements.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16451
+}

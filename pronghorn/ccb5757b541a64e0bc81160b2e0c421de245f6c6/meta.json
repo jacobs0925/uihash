@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ccb5757b541a64e0bc81160b2e0c421de245f6c6",
+ "parent": "fc1e9d0632d430f098f25c5895b4aff5a56f00a3",
+ "date": "2025-11-18",
+ "subject": "Make copy URL button highlighted",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/ProjectSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20454
+}

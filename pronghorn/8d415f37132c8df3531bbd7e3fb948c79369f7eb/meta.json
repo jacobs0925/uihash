@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "8d415f37132c8df3531bbd7e3fb948c79369f7eb",
+ "parent": "4514ede7812535e37f02f44d298cdf286703a772",
+ "date": "2025-11-23",
+ "subject": "Add project selector component",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/ArtifactsListSelector.tsx",
+  "src/components/project/CanvasItemsSelector.tsx",
+  "src/components/project/ChatSessionsListSelector.tsx",
+  "src/components/project/ProjectSelector.tsx",
+  "src/components/project/RequirementsTreeSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23433
+}

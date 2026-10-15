@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "2f2da1dca015b893367eff369592b174e86621c5",
+ "parent": "ad3594d21a6eb1025098ee8f143949fb853ffd44",
+ "date": "2025-11-21",
+ "subject": "Fix AI modal and mobile node add",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx",
+  "src/components/canvas/CanvasPalette.tsx",
+  "src/components/canvas/NodePalette.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23756
+}

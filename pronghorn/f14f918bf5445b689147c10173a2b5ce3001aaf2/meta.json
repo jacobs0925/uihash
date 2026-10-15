@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f14f918bf5445b689147c10173a2b5ce3001aaf2",
+ "parent": "fc7635d94512043d24db9721f38f467e6518deb4",
+ "date": "2025-11-21",
+ "subject": "Add tooltips and icon update",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22667
+}

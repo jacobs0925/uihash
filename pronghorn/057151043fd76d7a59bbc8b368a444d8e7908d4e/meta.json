@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "057151043fd76d7a59bbc8b368a444d8e7908d4e",
+ "parent": "2d6629fe8f6cbb82e5c161faab9bb148356a5ee7",
+ "date": "2025-11-30",
+ "subject": "Refactor standards save logic",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Standards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25748
+}

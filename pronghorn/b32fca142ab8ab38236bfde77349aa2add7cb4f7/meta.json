@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "b32fca142ab8ab38236bfde77349aa2add7cb4f7",
+ "parent": "4fb20a9dd42b11b2c05c16a92758985f381dc830",
+ "date": "2025-11-22",
+ "subject": "Fix client-side queries",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/LinkSelector.tsx",
+  "src/components/canvas/NodePropertiesPanel.tsx",
+  "src/hooks/useRealtimeCanvas.ts",
+  "src/lib/downloadUtils.ts",
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23637
+}

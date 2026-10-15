@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "82ba40fc1253370263dce11f9bbde096af1393fb",
+ "parent": "90f429926909b6814abe59807b8334bdb9aacfd3",
+ "date": "2025-12-01",
+ "subject": "Add clone public repo support",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/CreateRepoDialog.tsx",
+  "src/pages/project/Repository.tsx",
+  "supabase/functions/clone-public-repo/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26546
+}

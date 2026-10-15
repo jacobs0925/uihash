@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3b7a207ccae60ab63300039bb51c55489eaca02e",
+ "parent": "16ac1f7c3f1f602f49958eaf8341f2077013e6ad",
+ "date": "2025-11-19",
+ "subject": "Visual edit in Lovable",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 25821
+}

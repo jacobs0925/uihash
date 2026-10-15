@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "da3e4e495861523a71956968cf4bbc492ae8b948",
+ "parent": "8c00dfa70e35c1a806a2da5ed2b8306093161e06",
+ "date": "2025-11-17",
+ "subject": "Simplify node property dropdowns",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/NodePropertiesPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16329
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "ec688a6dbbb8e5b891969f7e5798547811061e27",
+ "parent": "3e63bf745d158dea5cf47f6e966cece87bcaabe3",
+ "date": "2025-11-20",
+ "subject": "Fix tech stack load",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/techstack/TechStackTreeSelector.tsx",
+  "supabase/functions/create-project/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23715
+}

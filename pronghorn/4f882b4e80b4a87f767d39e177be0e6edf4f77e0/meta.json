@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "4f882b4e80b4a87f767d39e177be0e6edf4f77e0",
+ "parent": "2977a1d967338a739e773ffce1cef823e6e234f1",
+ "date": "2025-11-24",
+ "subject": "Add multi-agent specs UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "data/agents.json",
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23667
+}

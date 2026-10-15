@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "50df3b58aa7d735ca24b09e37129b36790a982b2",
+ "parent": "359c9dab1f05af4fb634ff263613b21003cbdeea",
+ "date": "2025-11-19",
+ "subject": "Fix AI Architect tabs layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21234
+}

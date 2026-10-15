@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "8d276e73861e1ab7d34ee12a7da2a460e11b6c05",
+ "parent": "e61002b328c9d4924f3d0fb3081e9525eb62c115",
+ "date": "2025-11-30",
+ "subject": "Add slide animations to palettes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/CanvasPalette.tsx",
+  "src/components/canvas/EdgePropertiesPanel.tsx",
+  "src/components/canvas/NodePropertiesPanel.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25769
+}

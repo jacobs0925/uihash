@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "fdd17e4e31d68a4866a0376fe35d3937a22a3536",
+ "parent": "4fedbd437b8bed09d1493a07410e567d552af345",
+ "date": "2025-11-20",
+ "subject": "Increase canvas zoom limit",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22557
+}

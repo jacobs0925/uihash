@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "61b564028ea85474e5f2f68ac42c588ee3a0ecb2",
+ "parent": "8d905f244e1e2e295456bf528b81523b1ffa3d8c",
+ "date": "2025-11-17",
+ "subject": "Improve admin key flow",
+ "components": [
+  "components",
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "src/components/requirements/LinkStandardsDialog.tsx",
+  "src/components/requirements/RequirementsTree.tsx",
+  "src/contexts/AdminContext.tsx",
+  "src/pages/project/Canvas.tsx",
+  "supabase/functions/verify-admin/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16449
+}

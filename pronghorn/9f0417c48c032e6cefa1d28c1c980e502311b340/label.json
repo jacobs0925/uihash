@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "9f0417c48c032e6cefa1d28c1c980e502311b340",
+ "date": "2025-11-18",
+ "pr": null,
+ "title": "Remove logo from hero",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1718 later commits"
+}

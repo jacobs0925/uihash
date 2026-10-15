@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "70200f8e9a222b4f2efe88d689e82cd3534d55b9",
+ "parent": "ff4757d283ca79564156405d4f1945f0ee936cff",
+ "date": "2025-11-29",
+ "subject": "Fix iterative tab layout UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx",
+  "src/components/canvas/AgentFlow.tsx",
+  "src/components/canvas/IterativeEnhancement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26576
+}

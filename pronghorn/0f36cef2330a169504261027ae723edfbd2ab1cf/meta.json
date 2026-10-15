@@ -1,0 +1,33 @@
+{
+ "repo": "pronghorn",
+ "sha": "0f36cef2330a169504261027ae723edfbd2ab1cf",
+ "parent": "c2c379b2678aa5719ca653cf3f3b3acb67a102a6",
+ "date": "2025-11-23",
+ "subject": "Add artifacts and chat pages",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/hooks/useRealtimeArtifacts.ts",
+  "src/hooks/useRealtimeChatSessions.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Artifacts.tsx",
+  "src/pages/project/Chat.tsx",
+  "src/pages/project/ProjectSettings.tsx",
+  "supabase/config.toml",
+  "supabase/functions/chat-stream-anthropic/index.ts",
+  "supabase/functions/chat-stream-gemini/index.ts",
+  "supabase/functions/chat-stream-xai/index.ts",
+  "supabase/migrations/20251123150533_4681b1bb-bd92-4f70-926f-2f517edb8de9.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22647
+}

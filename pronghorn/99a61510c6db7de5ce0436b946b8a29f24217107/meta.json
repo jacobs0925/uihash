@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "99a61510c6db7de5ce0436b946b8a29f24217107",
+ "parent": "f4aebe0417852ac1fc90735044a41ed4f30dcb7c",
+ "date": "2025-11-18",
+ "subject": "Rename app to Pronghorn",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/components/layout/PrimaryNav.tsx",
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 22876
+}

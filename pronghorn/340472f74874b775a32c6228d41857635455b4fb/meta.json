@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "340472f74874b775a32c6228d41857635455b4fb",
+ "parent": "00119a4eb6e8a0ef2fedad673180ce9a08a37a51",
+ "date": "2025-11-17",
+ "subject": "Fix overlap and merge flows",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/dashboard/EnhancedCreateProjectDialog.tsx",
+  "src/components/dashboard/ProjectCard.tsx",
+  "src/components/requirements/ProjectSetupWizard.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 25002
+}

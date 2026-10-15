@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "38851cb719adad0f6c9b1ec9aacefff305be5d15",
+ "parent": "ceea2b48a544c3a4f32e3d04088e29b80a8b0522",
+ "date": "2025-11-29",
+ "subject": "Add standard flow buttons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/IterativeEnhancement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26820
+}

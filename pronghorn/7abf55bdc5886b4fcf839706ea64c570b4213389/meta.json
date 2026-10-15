@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "7abf55bdc5886b4fcf839706ea64c570b4213389",
+ "parent": "a9961c845edb8b8a32c519ca071a1c76ff74ba6e",
+ "date": "2025-11-22",
+ "subject": "Improve canvas export rendering",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/index.css",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23509
+}

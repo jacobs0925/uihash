@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3e63bf745d158dea5cf47f6e966cece87bcaabe3",
+ "parent": "ee4f570dcb5809ad51ef087df45c326de78544f3",
+ "date": "2025-11-20",
+ "subject": "Fix tech stack tree reload",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/techstack/TechStackTreeSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23758
+}

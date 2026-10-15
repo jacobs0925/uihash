@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "cba53a65eab1e478724697707b208a8af48afd76",
+ "parent": "3269936a42145a9ea955f9af06401dcba769aa01",
+ "date": "2025-12-01",
+ "subject": "Unify real-time updates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useInfiniteAgentMessages.ts",
+  "src/hooks/useInfiniteAgentOperations.ts",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26983
+}

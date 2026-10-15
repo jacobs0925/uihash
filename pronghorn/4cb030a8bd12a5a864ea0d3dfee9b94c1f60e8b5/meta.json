@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4cb030a8bd12a5a864ea0d3dfee9b94c1f60e8b5",
+ "parent": "b82308eb43dd95a08050295a9ce293ccc14ce336",
+ "date": "2025-12-01",
+ "subject": "Refactor sessions to accordion",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/AgentSessionsList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26825
+}

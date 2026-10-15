@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "b5eff650c9794b1a14b3d6c1dfd6e7878a12510c",
+ "parent": "3093e9d15b38b9ef4db739f3f80845d586a0b431",
+ "date": "2025-11-22",
+ "subject": "Fix export framing crash",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22900
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "cc9231cb639d7717de62c15377e4c52260b55f2b",
+ "parent": "79f2fbcaea9a6229c671863211574b7ee6ee0bf7",
+ "date": "2025-11-23",
+ "subject": "Add expand all toggle",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/requirements/RequirementsTree.tsx",
+  "src/pages/project/Requirements.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23260
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "a630bc4842521b721532c2815eb360d1df156611",
+ "parent": "f5bcd88d7a11735042b7d0c86c237b6cbe9a4d9f",
+ "date": "2025-11-23",
+ "subject": "Improve chat streaming UI render",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 24021
+}

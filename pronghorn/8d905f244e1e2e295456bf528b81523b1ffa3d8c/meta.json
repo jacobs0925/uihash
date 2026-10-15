@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "8d905f244e1e2e295456bf528b81523b1ffa3d8c",
+ "parent": "c7c92eb14936c2dbb400928cd3a337ff51dddb66",
+ "date": "2025-11-17",
+ "subject": "Add canvas properties panel",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/CanvasNode.tsx",
+  "src/components/canvas/NodePalette.tsx",
+  "src/components/canvas/NodePropertiesPanel.tsx",
+  "src/components/standards/StandardsTreeManager.tsx",
+  "src/pages/Standards.tsx",
+  "src/pages/project/Canvas.tsx",
+  "supabase/migrations/20251117213651_42acebc0-c10e-48c7-ad77-e7fdc4291434.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 23940
+}

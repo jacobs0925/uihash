@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "0772ea88ac9a2842d925131e13a85b4ef66a9c85",
+ "parent": "40c3084e875ca367d6904a4617df097cf2143426",
+ "date": "2025-12-01",
+ "subject": "Consolidate diff toggle",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/MonacoDiffEditor.tsx",
+  "src/components/build/StagingPanel.tsx",
+  "src/components/repository/CodeEditor.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26632
+}

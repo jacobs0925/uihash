@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c1dae3c770020641a4fab6b26506e29c6d4dd1a5",
+ "parent": "ec688a6dbbb8e5b891969f7e5798547811061e27",
+ "date": "2025-11-20",
+ "subject": "Add tech stacks tab to create",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/dashboard/EnhancedCreateProjectDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23579
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "c4cde1a29690fdf290ee63fe2b72d795269becdd",
+ "parent": "abf5aefe3ccadc64f9dab4f8482337a3be92a6bb",
+ "date": "2025-11-17",
+ "subject": "Add epic/feature IDs and fixes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/requirements/RequirementStandardsBadges.tsx",
+  "src/components/requirements/RequirementsTree.tsx",
+  "src/components/requirements/SourceRequirementsUpload.tsx",
+  "src/hooks/useRealtimeRequirements.ts",
+  "supabase/migrations/20251117222031_3e27122c-ace3-4a74-a896-403278379a78.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16391
+}

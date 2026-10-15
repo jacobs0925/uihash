@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "67ebccfb677bafe1105d51c497b10dcb930a92db",
+ "date": "2025-11-18",
+ "pr": null,
+ "title": "Switch to key-based admin flow",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1744 later commits"
+}

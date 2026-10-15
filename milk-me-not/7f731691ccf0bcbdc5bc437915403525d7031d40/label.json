@@ -5,8 +5,8 @@
  "date": "2026-04-19",
  "pr": "77",
  "title": "Design system redesign — Plus Jakarta Sans, new palette, full token migration (#77)",
- "label": 1,
- "source": "undo",
- "confidence": 0.85,
- "evidence": "background-color: rgb(31, 64, 255) → rgba(31, 64, 255, 0.9) undone by f34a3800 \"Fix ESLint 10 warnings: ignore .claude dir and suppress pre-existing issues\"; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px undone by f34a3800 \"Fix ESLint 10 warnings: ignore .claude dir and suppress pre-existing issues\"; transform: ∅ → matrix(1, 0, 0, 1, 0, -4) undone by f34a3800 \"Fix ESLint 10 warnings: ignore .claude dir and suppress pre-existing issues\""
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 220 later commits"
 }

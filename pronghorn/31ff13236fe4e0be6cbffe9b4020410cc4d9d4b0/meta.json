@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "31ff13236fe4e0be6cbffe9b4020410cc4d9d4b0",
+ "parent": "d13dc598dcff2ec0c8b9fe224b726cee97194de7",
+ "date": "2025-12-01",
+ "subject": "Add Monaco-based editor UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/repository/CodeEditor.tsx",
+  "src/pages/project/Repository.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 28260
+}

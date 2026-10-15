@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "11702f30891a17f47e300434c8e65880b17c1755",
+ "parent": "10a278255091fc19b809c8d79f3b0e2b4522a729",
+ "date": "2025-11-29",
+ "subject": "Fix change history counts",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/IterativeEnhancement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25894
+}

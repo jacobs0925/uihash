@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "9796f91ea9dd4a5e0075d72b17713ffc0398bb56",
+ "parent": "78f224d95ef482f827b089831a157e9ec8360226",
+ "date": "2025-12-01",
+ "subject": "Expand to Phase 8 UI Integration",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/AgentPromptPanel.tsx",
+  "src/components/build/AgentStatusVisualizer.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26522
+}

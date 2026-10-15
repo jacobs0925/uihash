@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "8c00dfa70e35c1a806a2da5ed2b8306093161e06",
+ "parent": "b0a03c977827f884c4b8019ef6b9a72068b4b6a4",
+ "date": "2025-11-17",
+ "subject": "Update immediate linking display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/NodePropertiesPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16484
+}

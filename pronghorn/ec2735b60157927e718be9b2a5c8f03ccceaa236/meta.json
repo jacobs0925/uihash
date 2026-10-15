@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ec2735b60157927e718be9b2a5c8f03ccceaa236",
+ "parent": "940f75fdc454ab0910d63ab2ef7dd2973bb4212e",
+ "date": "2025-11-30",
+ "subject": "Allow single-node run in Iterative",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/IterativeEnhancement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26156
+}

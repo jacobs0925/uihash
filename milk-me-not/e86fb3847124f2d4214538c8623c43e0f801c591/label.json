@@ -5,8 +5,8 @@
  "date": "2026-08-23",
  "pr": "128",
  "title": "Turn the React Compiler rules on (#128)",
- "label": 1,
- "source": "undo",
- "confidence": 0.7,
- "evidence": "filter: brightness(1.07) → ∅ undone by 65eee733 \"Watch the backups instead of reminding someone to look at them (#160)\"; background-clip: border-box → ∅ undone by 65eee733 \"Watch the backups instead of reminding someone to look at them (#160)\"; text-decoration-line: underline → ∅ undone by 65eee733 \"Watch the backups instead of reminding someone to look at them (#160)\""
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 163 later commits"
 }

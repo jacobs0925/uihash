@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "47be8e403dba517e7ffd7a3cdf6a602ac49ee26a",
+ "parent": "a3fe4e6742dc93d27ca55e0c6a553155c0092271",
+ "date": "2025-11-29",
+ "subject": "Make agents JSON driven",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/data/buildAgents.json",
+  "src/components/canvas/AgentFlow.tsx",
+  "src/components/canvas/IterativeEnhancement.tsx",
+  "supabase/config.toml",
+  "supabase/functions/orchestrate-agents/index.ts",
+  "supabase/functions/upload-artifact-image/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25937
+}

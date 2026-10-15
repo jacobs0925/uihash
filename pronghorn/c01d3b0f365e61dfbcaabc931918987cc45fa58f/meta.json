@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c01d3b0f365e61dfbcaabc931918987cc45fa58f",
+ "parent": "a630bc4842521b721532c2815eb360d1df156611",
+ "date": "2025-11-23",
+ "subject": "Fix chat UI update on streaming",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23764
+}

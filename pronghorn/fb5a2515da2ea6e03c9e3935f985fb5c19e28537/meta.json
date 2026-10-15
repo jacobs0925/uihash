@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "fb5a2515da2ea6e03c9e3935f985fb5c19e28537",
+ "parent": "748523cda1a53d97107c241452cb98394efeac34",
+ "date": "2025-11-23",
+ "subject": "Improve chat persistence and UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23422
+}

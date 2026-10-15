@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "8399dba5578e3795fec9ab64bc45f9e71cdf074c",
+ "parent": "13a4573fbebe0140ba3f0b93eee5ec5a6c73e064",
+ "date": "2025-12-01",
+ "subject": "Show diff as checkbox desktop",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26592
+}

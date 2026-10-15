@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "c3e6e35439052f3715d50c3223267eba9995392d",
+ "parent": "95d9895ca1c05c5d31e9420ec56ba0bd69bf7c19",
+ "date": "2025-11-21",
+ "subject": "Add lasso tool button",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/canvas/Lasso.tsx",
+  "src/lib/lassoUtils.ts",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23564
+}

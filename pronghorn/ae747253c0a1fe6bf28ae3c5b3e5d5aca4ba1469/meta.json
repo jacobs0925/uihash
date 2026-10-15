@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "ae747253c0a1fe6bf28ae3c5b3e5d5aca4ba1469",
+ "parent": "59a8123b445c4a16f84b8930e48b3352fbbc2fee",
+ "date": "2025-12-01",
+ "subject": "Enhance IDE colorization and UX",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx",
+  "src/components/repository/EnhancedFileTree.tsx",
+  "src/components/repository/IDEModal.tsx",
+  "src/components/repository/RepoCard.tsx",
+  "src/components/repository/SyncDialog.tsx",
+  "src/pages/project/Repository.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26004
+}

@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "8d2faaa48826df925c54da655e673876a73283f0",
+ "date": "2025-11-17",
+ "pr": null,
+ "title": "Unify standards view",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1779 later commits"
+}

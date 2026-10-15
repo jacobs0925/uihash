@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2d6629fe8f6cbb82e5c161faab9bb148356a5ee7",
+ "parent": "6c29f15b7dcfc5f10d43fb0a2d8aadf4b0f5cf96",
+ "date": "2025-11-30",
+ "subject": "Resolve artifact insert overload",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26020
+}

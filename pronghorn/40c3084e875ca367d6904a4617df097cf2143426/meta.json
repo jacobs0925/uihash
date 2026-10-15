@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "40c3084e875ca367d6904a4617df097cf2143426",
+ "parent": "110583f432abd570b26370da1436f8d0cb1dbe27",
+ "date": "2025-12-01",
+ "subject": "Enhance diff overlay with Monaco",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/MonacoDiffEditor.tsx",
+  "src/components/build/StagingPanel.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26289
+}

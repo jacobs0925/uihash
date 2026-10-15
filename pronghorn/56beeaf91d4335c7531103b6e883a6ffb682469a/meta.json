@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "56beeaf91d4335c7531103b6e883a6ffb682469a",
+ "parent": "cba53a65eab1e478724697707b208a8af48afd76",
+ "date": "2025-12-01",
+ "subject": "Unify realtime and RPC flows",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/hooks/useInfiniteAgentMessages.ts",
+  "src/hooks/useInfiniteAgentOperations.ts",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26371
+}

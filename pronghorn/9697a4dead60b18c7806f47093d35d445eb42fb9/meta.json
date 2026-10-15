@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "9697a4dead60b18c7806f47093d35d445eb42fb9",
+ "parent": "ddec0971f0805f7bd3b10011e9be4b007d11024c",
+ "date": "2025-11-23",
+ "subject": "Rename artifacts and toggle view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23120
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "89f4d99866ed46f19c765503c272e44546e9f46f",
+ "parent": "a1796120774056e89f13686c4e6aeb6e0299f4de",
+ "date": "2025-12-01",
+ "subject": "Unify agent orchestrator call",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26523
+}

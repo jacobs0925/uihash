@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "ad3594d21a6eb1025098ee8f143949fb853ffd44",
+ "parent": "5b0691de0676670eb884e24bf26e703b9546b462",
+ "date": "2025-11-21",
+ "subject": "Enhance Layers UI and Canvas",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/CanvasPalette.tsx",
+  "src/components/canvas/LayersManager.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23644
+}

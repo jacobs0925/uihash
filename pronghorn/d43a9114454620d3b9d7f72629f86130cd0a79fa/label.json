@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "d43a9114454620d3b9d7f72629f86130cd0a79fa",
+ "date": "2025-11-17",
+ "pr": null,
+ "title": "Remove nested Router in App",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1786 later commits"
+}

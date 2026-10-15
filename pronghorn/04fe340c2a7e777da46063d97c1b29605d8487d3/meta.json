@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "04fe340c2a7e777da46063d97c1b29605d8487d3",
+ "parent": "c7909a0ec2184a51d0ef57ae3eb0c175a45e670a",
+ "date": "2025-11-18",
+ "subject": "Add mobile hamburger menu",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/layout/PrimaryNav.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 19098
+}

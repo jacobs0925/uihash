@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4421f06c6328aa91f16aa485233a672194a20c21",
+ "parent": "fce4a90ebcabaab1c8114bb6583c776bb733f37a",
+ "date": "2025-11-18",
+ "subject": "Use project RPC for token access",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/ProjectSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20644
+}

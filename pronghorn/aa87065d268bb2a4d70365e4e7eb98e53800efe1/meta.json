@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "aa87065d268bb2a4d70365e4e7eb98e53800efe1",
+ "parent": "3621d5195654c608ca3dc8487d9af964a0d56b3f",
+ "date": "2025-12-01",
+ "subject": "Preserve old_content on update",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26469
+}

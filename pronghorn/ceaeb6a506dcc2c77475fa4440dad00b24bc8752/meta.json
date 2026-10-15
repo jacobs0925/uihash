@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ceaeb6a506dcc2c77475fa4440dad00b24bc8752",
+ "parent": "65eb8496b15861bb722a0d53e1004457a1581878",
+ "date": "2025-11-24",
+ "subject": "Use custom agent prompt",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26026
+}

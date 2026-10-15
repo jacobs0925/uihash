@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "ee704e2b61936c8fc63ff7b93ec8b97f5a6103d4",
+ "parent": "0646c287e00c29f8eb346c6540ac175a02dcb056",
+ "date": "2025-11-25",
+ "subject": "Add Gemini 3 Pro preview",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/InfographicDialog.tsx",
+  "src/pages/project/Canvas.tsx",
+  "src/pages/project/ProjectSettings.tsx",
+  "supabase/config.toml",
+  "supabase/functions/generate-image/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25451
+}

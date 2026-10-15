@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "888c291a6263093917e6394f479804c7616ebebf",
+ "parent": "52d7bbbf81abb643d6ecf856cc6aeb2511d7f108",
+ "date": "2025-12-01",
+ "subject": "Synchronize Build CodeEditor",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26874
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1d771955eb6f953b028f4b3a82862b7d551ec3c1",
+ "parent": "17b0860311ffce28a3579ccf27c960239aeee976",
+ "date": "2025-12-01",
+ "subject": "Enhance progress metadata",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/AgentProgressMonitor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26135
+}

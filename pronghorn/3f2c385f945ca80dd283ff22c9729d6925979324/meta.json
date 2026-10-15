@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3f2c385f945ca80dd283ff22c9729d6925979324",
+ "parent": "d125d7217711f20c8bbd0acdaef87ce560ce7e69",
+ "date": "2025-12-01",
+ "subject": "Fix staging scroll",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26494
+}

@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "5c4711b4d1f006c87db79728e98b224858e0d1fb",
+ "date": "2025-11-18",
+ "pr": null,
+ "title": "Modify Hero layout and add video",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-bottom: 32px → 0px undone by 667456c2 \"Replace logo with uploaded image\"; margin-bottom: 32px → 0px undone by 667456c2 \"Replace logo with uploaded image\"; margin-bottom: 32px → 0px undone by 667456c2 \"Replace logo with uploaded image\""
+}

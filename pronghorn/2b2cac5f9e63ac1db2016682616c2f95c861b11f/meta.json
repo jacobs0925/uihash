@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2b2cac5f9e63ac1db2016682616c2f95c861b11f",
+ "parent": "76e43cc28a9a4b0a73a1ad5017142ad3b5929568",
+ "date": "2025-11-30",
+ "subject": "Limit tech stacks in ProjectSelector",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/ProjectSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26646
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "71f5fdbe1830e1e71d92437a46d976768a0a4b45",
+ "parent": "a25aaa8e3cae634fcfee33a984ebf260e2455547",
+ "date": "2025-11-21",
+ "subject": "Disable auto zoom on load",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23372
+}

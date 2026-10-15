@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3f02a0de7be81160dd37e95e09a384e9be4ea7cb",
+ "parent": "f5194c582f7cacef655a681dd4d19690c4662cb4",
+ "date": "2025-11-17",
+ "subject": "Remove global TooltipProvider",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16762
+}

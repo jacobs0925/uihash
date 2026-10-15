@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "d125d7217711f20c8bbd0acdaef87ce560ce7e69",
+ "parent": "161b602a38d9e932268bd8f8a1cdfc52b785f227",
+ "date": "2025-12-01",
+ "subject": "Show diff in staging tab",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26678
+}

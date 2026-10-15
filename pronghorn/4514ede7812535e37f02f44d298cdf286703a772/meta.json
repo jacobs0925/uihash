@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4514ede7812535e37f02f44d298cdf286703a772",
+ "parent": "cc9231cb639d7717de62c15377e4c52260b55f2b",
+ "date": "2025-11-23",
+ "subject": "Icon button for expand/collapse in requirements",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Requirements.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23285
+}

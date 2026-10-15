@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "34d5714c300c00c395ebf856c3e98aba613d7be3",
+ "parent": "f14f918bf5445b689147c10173a2b5ce3001aaf2",
+ "date": "2025-11-21",
+ "subject": "Improve lasso shift add",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/Lasso.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22666
+}

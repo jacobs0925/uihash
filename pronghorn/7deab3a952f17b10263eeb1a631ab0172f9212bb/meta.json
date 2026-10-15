@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "7deab3a952f17b10263eeb1a631ab0172f9212bb",
+ "parent": "911e617c9a00df8b4f13f7d944e992d458529749",
+ "date": "2025-11-20",
+ "subject": "Add node delete copy-paste",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/NodePropertiesPanel.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23162
+}

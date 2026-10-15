@@ -8,5 +8,5 @@
  "label": 1,
  "source": "undo",
  "confidence": 0.7,
- "evidence": "background-color: oklab(0.246195 -0.0132923 0.00166346 / 0.05) → ∅ undone by 361ce879 \"Show the badges that say which Alpro carton this actually is (#165)\"; border-top-left-radius: 3.35544e+07px → ∅ undone by 361ce879 \"Show the badges that say which Alpro carton this actually is (#165)\"; border-top-right-radius: 3.35544e+07px → ∅ undone by 361ce879 \"Show the badges that say which Alpro carton this actually is (#165)\""
+ "evidence": "background-color: oklab(0.246195 -0.0132923 0.00166346 / 0.05) → ∅ undone by 1421401f \"Cross-fade the enlarged photo instead of unblurring it (#236)\"; background-color: oklab(0.246195 -0.0132923 0.00166346 / 0.05) → ∅ undone by 1421401f \"Cross-fade the enlarged photo instead of unblurring it (#236)\"; background-color: oklab(0.246195 -0.0132923 0.00166346 / 0.05) → ∅ undone by 8f33a1fa \"Offer admins optional two-step sign-in (#282)\""
 }

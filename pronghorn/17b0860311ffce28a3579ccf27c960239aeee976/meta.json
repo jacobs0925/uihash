@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "17b0860311ffce28a3579ccf27c960239aeee976",
+ "parent": "5b8df8f2f1ba21fb0388f2a09ea38e62cc67a871",
+ "date": "2025-12-01",
+ "subject": "Fix scroll in File Operations",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/AgentProgressMonitor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26609
+}

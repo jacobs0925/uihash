@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "77485ba02ad2de1e26832a6959157abcae17f5b5",
+ "parent": "c4fb0349971d52aba83247571c8831014b1966be",
+ "date": "2025-12-01",
+ "subject": "Add disconnect confirmation",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/RepoCard.tsx",
+  "src/pages/project/Repository.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26906
+}

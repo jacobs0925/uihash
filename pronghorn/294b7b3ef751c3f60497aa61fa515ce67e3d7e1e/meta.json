@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "294b7b3ef751c3f60497aa61fa515ce67e3d7e1e",
+ "parent": "78897339c40b7b009bcabaf4ff307091ecadb19f",
+ "date": "2025-11-19",
+ "subject": "Reposition AI Critic button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21090
+}

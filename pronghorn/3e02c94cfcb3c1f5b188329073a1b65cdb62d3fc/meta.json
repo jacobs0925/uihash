@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3e02c94cfcb3c1f5b188329073a1b65cdb62d3fc",
+ "parent": "153c77cb565c8119f3c4978d96ebb051081b5d7e",
+ "date": "2025-11-24",
+ "subject": "Implement auto-scroll unlock",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23407
+}

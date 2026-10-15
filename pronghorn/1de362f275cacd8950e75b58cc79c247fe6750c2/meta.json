@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "1de362f275cacd8950e75b58cc79c247fe6750c2",
+ "parent": "4d8179a1319d06868567b0b45ca51b5b5f8f8f38",
+ "date": "2025-11-21",
+ "subject": "Refine UI behavior and scroll",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/CanvasPalette.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22548
+}

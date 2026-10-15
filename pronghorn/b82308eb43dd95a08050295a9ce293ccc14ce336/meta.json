@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "b82308eb43dd95a08050295a9ce293ccc14ce336",
+ "parent": "b6916d7e7b351895316b4f9f1b55a4aa10c7638d",
+ "date": "2025-12-01",
+ "subject": "Refactor agent sessions UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentSessionsList.tsx",
+  "src/pages/project/Build.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26698
+}

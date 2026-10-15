@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "4d573c2e8d2ed879a36d4286104b859ba067da08",
+ "parent": "046143b0b31f890a0f1e32c2e576c1153ab92837",
+ "date": "2025-11-22",
+ "subject": "Adjust canvas UI for mobile",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23773
+}

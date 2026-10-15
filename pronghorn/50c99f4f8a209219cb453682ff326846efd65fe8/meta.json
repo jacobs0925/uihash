@@ -1,0 +1,28 @@
+{
+ "repo": "pronghorn",
+ "sha": "50c99f4f8a209219cb453682ff326846efd65fe8",
+ "parent": "8779e600fe505de1852e8a196ca8022a23056d72",
+ "date": "2025-11-18",
+ "subject": "Improve mobile button taps",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/pages/project/Audit.tsx",
+  "src/pages/project/Build.tsx",
+  "src/pages/project/Canvas.tsx",
+  "src/pages/project/ProjectSettings.tsx",
+  "src/pages/project/Repository.tsx",
+  "src/pages/project/Requirements.tsx",
+  "src/pages/project/Specifications.tsx",
+  "src/pages/project/Standards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 19472
+}

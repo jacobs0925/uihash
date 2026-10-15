@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2977a1d967338a739e773ffce1cef823e6e234f1",
+ "parent": "a9148971b9a4dd9ce14d39d3660ba44070b05a47",
+ "date": "2025-11-24",
+ "subject": "Improve analysis streaming UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23511
+}

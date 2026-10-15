@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "843d00efb34532983f6fe64e7848eafd257e536c",
+ "parent": "67ebccfb677bafe1105d51c497b10dcb930a92db",
+ "date": "2025-11-18",
+ "subject": "Show requirement file badges",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/requirements/RequirementsTree.tsx",
+  "src/components/requirements/SourceRequirementsUpload.tsx",
+  "src/hooks/useRequirementFiles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 18833
+}

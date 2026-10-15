@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "92ce9519ccfac0f4219ac4b2292da54f2adf2b62",
+ "parent": "771e6f659fe0fd58581e5877360b6176d8573dcb",
+ "date": "2025-11-22",
+ "subject": "Fix edge text export text color",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/index.css",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23400
+}

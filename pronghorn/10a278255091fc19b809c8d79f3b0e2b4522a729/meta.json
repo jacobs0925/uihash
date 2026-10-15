@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "10a278255091fc19b809c8d79f3b0e2b4522a729",
+ "parent": "8e4cc84fd40f6f9750c54127b3238d13104f95b6",
+ "date": "2025-11-29",
+ "subject": "Simplify flow and delete support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AgentFlow.tsx",
+  "src/components/canvas/IterativeEnhancement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26039
+}

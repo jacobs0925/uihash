@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ae5c62777a59e31060545a2215045fc590d98d33",
+ "parent": "aa87065d268bb2a4d70365e4e7eb98e53800efe1",
+ "date": "2025-12-01",
+ "subject": "Fix save regression in editors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26360
+}

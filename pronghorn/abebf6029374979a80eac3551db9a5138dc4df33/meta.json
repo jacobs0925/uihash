@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "abebf6029374979a80eac3551db9a5138dc4df33",
+ "parent": "3c4d291e4d37b18aa315bcd1ad5d305252f01ff2",
+ "date": "2025-11-24",
+ "subject": "Refine single scroll to top",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23646
+}

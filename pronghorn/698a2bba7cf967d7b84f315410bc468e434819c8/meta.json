@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "698a2bba7cf967d7b84f315410bc468e434819c8",
+ "parent": "44e1c4288b0e6e4e827eb3dba2bde518b2653617",
+ "date": "2025-11-19",
+ "subject": "Fix edge properties panel bugs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/EdgePropertiesPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20661
+}

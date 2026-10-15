@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f7a22ce3002b693868c8902d1a8a540f535a3fdd",
+ "parent": "815956513b2df8655e8b23c8c96dbe9ab464a730",
+ "date": "2025-11-30",
+ "subject": "Reflect tech stacks in selection",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/ProjectSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25861
+}

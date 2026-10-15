@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "420ad9256c3dc0f5fd47771fce6c63d98d14dc59",
+ "parent": "cd813ad62a08195a28d9603d79b278179f2dc5a4",
+ "date": "2025-11-21",
+ "subject": "Improve lasso selection accuracy",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/Lasso.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23047
+}

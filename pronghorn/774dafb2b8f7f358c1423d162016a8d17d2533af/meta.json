@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "774dafb2b8f7f358c1423d162016a8d17d2533af",
+ "parent": "420ad9256c3dc0f5fd47771fce6c63d98d14dc59",
+ "date": "2025-11-21",
+ "subject": "Fix lasso alignment shift",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/Lasso.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23257
+}

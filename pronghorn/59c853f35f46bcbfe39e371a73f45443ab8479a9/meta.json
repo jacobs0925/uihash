@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "59c853f35f46bcbfe39e371a73f45443ab8479a9",
+ "parent": "8f3fb83017da2d7ab08349cb56d6206ef8e34de7",
+ "date": "2025-11-23",
+ "subject": "EmbedSelector in Specs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/specifications/DownloadOptions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23989
+}

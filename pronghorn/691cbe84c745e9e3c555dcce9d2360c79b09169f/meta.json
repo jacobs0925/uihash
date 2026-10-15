@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "691cbe84c745e9e3c555dcce9d2360c79b09169f",
+ "parent": "34fb63b23d0d4a91d877b569924ed8301bb0e3d4",
+ "date": "2025-12-01",
+ "subject": "Enhance real-time updates",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentProgressMonitor.tsx",
+  "src/components/build/StagingPanel.tsx",
+  "src/pages/project/Build.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26602
+}

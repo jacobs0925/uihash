@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "c7c92eb14936c2dbb400928cd3a337ff51dddb66",
+ "parent": "d3f5a655a8266f9551e0d290f96e6b4c68577fb1",
+ "date": "2025-11-17",
+ "subject": "Improve dashboard and admin flow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/dashboard/EnhancedCreateProjectDialog.tsx",
+  "src/components/layout/AdminAccessButton.tsx",
+  "src/components/layout/PrimaryNav.tsx",
+  "src/components/requirements/ProjectSetupWizard.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Dashboard.tsx",
+  "supabase/migrations/20251117212454_0339eff5-4011-48d6-a572-49e39777ff55.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 25690
+}

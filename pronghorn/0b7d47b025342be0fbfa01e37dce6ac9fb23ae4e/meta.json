@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "0b7d47b025342be0fbfa01e37dce6ac9fb23ae4e",
+ "parent": "ae40ff9b6c795a74b4a404e3e516034eb262bbb1",
+ "date": "2025-12-01",
+ "subject": "Constrain sidebar height",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/components/repository/CodeEditor.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26752
+}

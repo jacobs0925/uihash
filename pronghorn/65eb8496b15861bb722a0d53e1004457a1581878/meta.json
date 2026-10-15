@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "65eb8496b15861bb722a0d53e1004457a1581878",
+ "parent": "d2d53ff234abee03f337c16a9dcf6f3dde241f8e",
+ "date": "2025-11-24",
+ "subject": "Improve markdown wrap for agents",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25713
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "e8d1fe498c63dedb82b30714837b75ff8cc3a02e",
+ "parent": "8d415f37132c8df3531bbd7e3fb948c79369f7eb",
+ "date": "2025-11-23",
+ "subject": "Integrate ProjectSelector into chat",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx",
+  "src/pages/project/Chat.tsx",
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23266
+}

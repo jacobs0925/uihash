@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "1db7eab9d1b8588b2b5873ce321b44790afc3cc3",
+ "parent": "da3e4e495861523a71956968cf4bbc492ae8b948",
+ "date": "2025-11-17",
+ "subject": "Add eyeball visibility toggle",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/NodePalette.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16395
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "359c9dab1f05af4fb634ff263613b21003cbdeea",
+ "parent": "c223a1afabcb5293d4e50cd793b0f8dd20df1d12",
+ "date": "2025-11-19",
+ "subject": "Rework AI Architect layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21442
+}

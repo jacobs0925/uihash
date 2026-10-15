@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "5d8f5ba08852ab6f3190eea335b977559485954c",
+ "parent": "49c7965999d8eb9a555273aefd640dca297b6387",
+ "date": "2025-11-23",
+ "subject": "Optimistic user message display",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23081
+}

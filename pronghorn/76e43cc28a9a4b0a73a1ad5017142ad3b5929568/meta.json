@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "76e43cc28a9a4b0a73a1ad5017142ad3b5929568",
+ "parent": "3c6c742a5fdfe4f1098fb4316acf86c79dfe8fcc",
+ "date": "2025-11-30",
+ "subject": "Sync ProjectSelector with Standards tech stacks",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/ProjectSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26025
+}

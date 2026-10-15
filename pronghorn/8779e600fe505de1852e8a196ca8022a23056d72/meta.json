@@ -1,0 +1,28 @@
+{
+ "repo": "pronghorn",
+ "sha": "8779e600fe505de1852e8a196ca8022a23056d72",
+ "parent": "71e2bc40bf1e6a681a806c9274d4c28fe66f976b",
+ "date": "2025-11-18",
+ "subject": "Improve mobile responsiveness",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/standards/CategoryCard.tsx",
+  "src/components/standards/StandardsTree.tsx",
+  "src/components/techstack/TechStackCard.tsx",
+  "src/components/techstack/TechStackTreeManager.tsx",
+  "src/pages/Dashboard.tsx",
+  "src/pages/Landing.tsx",
+  "src/pages/Standards.tsx",
+  "src/pages/TechStacks.tsx",
+  "src/pages/project/Requirements.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 9,
+ "ms": 39384
+}

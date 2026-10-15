@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "d2d53ff234abee03f337c16a9dcf6f3dde241f8e",
+ "parent": "8264eb1f005bb01eccec4abc0e95cde7521ee245",
+ "date": "2025-11-24",
+ "subject": "Improve AI Analysis UI now",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/specifications/DownloadOptions.tsx",
+  "src/lib/downloadUtils.ts",
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25892
+}

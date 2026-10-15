@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "9393db9705a7442fd8be971036f7a6c8cc910ea0",
+ "parent": "fe9e37203ea1f68146fcd53b4145a5ae5f7c6005",
+ "date": "2025-11-18",
+ "subject": "Hide initial canvas nodes on load",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 18891
+}

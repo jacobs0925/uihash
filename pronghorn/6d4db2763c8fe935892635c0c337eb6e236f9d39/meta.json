@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "6d4db2763c8fe935892635c0c337eb6e236f9d39",
+ "parent": "582b06345f026b7d4629afeeda360b01030c05d1",
+ "date": "2025-11-24",
+ "subject": "Add Auto Order button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 24282
+}

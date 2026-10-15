@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "338703acbe7c582d7f1d167801556165bde13fc2",
+ "parent": "40c9fa4970ec555a74e15b29e89102e06bb7a2ca",
+ "date": "2025-11-17",
+ "subject": "Fix AI standards category pass",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/standards/AICreateStandardsDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 19105
+}

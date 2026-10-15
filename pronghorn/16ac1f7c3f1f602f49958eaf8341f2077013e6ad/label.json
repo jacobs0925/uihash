@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "16ac1f7c3f1f602f49958eaf8341f2077013e6ad",
+ "date": "2025-11-19",
+ "pr": null,
+ "title": "Update landing page messaging",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1696 later commits"
+}

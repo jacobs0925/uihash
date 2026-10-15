@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "8264eb1f005bb01eccec4abc0e95cde7521ee245",
+ "parent": "4f882b4e80b4a87f767d39e177be0e6edf4f77e0",
+ "date": "2025-11-24",
+ "subject": "Enhance Select Agents UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/specifications/DownloadOptions.tsx",
+  "src/lib/downloadUtils.ts",
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25763
+}

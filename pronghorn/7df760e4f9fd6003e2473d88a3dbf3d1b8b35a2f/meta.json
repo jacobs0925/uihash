@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7df760e4f9fd6003e2473d88a3dbf3d1b8b35a2f",
+ "parent": "e1c6b68b550fdbe0d74dfd525d21c8adf3768390",
+ "date": "2025-11-21",
+ "subject": "Improve lasso hit-test logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/Lasso.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23310
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "01bc366a847b59c0c2e646021004e0c820eb44fb",
+ "parent": "1147d9005a5ac14ae06f74bccd5f2ee3fbfb8f4b",
+ "date": "2025-11-21",
+ "subject": "Fix lasso coordinate drift",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/Lasso.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22299
+}

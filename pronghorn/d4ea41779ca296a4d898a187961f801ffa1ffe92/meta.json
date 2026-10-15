@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "d4ea41779ca296a4d898a187961f801ffa1ffe92",
+ "parent": "0c79dd14df794a08a71bd0af2a9454612a8b95b7",
+ "date": "2025-12-01",
+ "subject": "Integrate Phase 2 RPCs",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/build/AgentFileTree.tsx",
+  "src/components/build/AgentPromptPanel.tsx",
+  "src/components/build/DiffViewer.tsx",
+  "src/components/build/StagingPanel.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27486
+}

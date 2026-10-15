@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "1c41d718ae8a1b335e97ec27ae838bac51013745",
+ "parent": "1de362f275cacd8950e75b58cc79c247fe6750c2",
+ "date": "2025-11-21",
+ "subject": "Fix canvas layout scrolls",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/CanvasPalette.tsx",
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22346
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c573481a23809e0b77b94d5ffce0dd60037ab0df",
+ "parent": "8c037c6094ade8a23c9a14d85951fee0a4676952",
+ "date": "2025-11-23",
+ "subject": "Fix summary flow for modal",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23443
+}

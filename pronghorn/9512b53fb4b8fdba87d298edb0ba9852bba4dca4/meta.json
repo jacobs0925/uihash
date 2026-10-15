@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "9512b53fb4b8fdba87d298edb0ba9852bba4dca4",
+ "parent": "338703acbe7c582d7f1d167801556165bde13fc2",
+ "date": "2025-11-17",
+ "subject": "Wrap subtitle with ellipses",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/CanvasNode.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 18798
+}

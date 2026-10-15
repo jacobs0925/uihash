@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f2520f0c0cb5b3d0b479abb798d567650f7156e8",
+ "parent": "01bc366a847b59c0c2e646021004e0c820eb44fb",
+ "date": "2025-11-21",
+ "subject": "Improve multi-select and lasso",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22445
+}

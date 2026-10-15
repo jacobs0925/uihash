@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "0945396e3554c990c3bd244dd889bfd17a76f4ed",
+ "parent": "5f073112274f806524b71d0f1c2d7e36746522a2",
+ "date": "2025-11-21",
+ "subject": "Improve selection handling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22733
+}

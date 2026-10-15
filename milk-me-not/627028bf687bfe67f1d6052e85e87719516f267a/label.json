@@ -5,8 +5,8 @@
  "date": "2026-08-27",
  "pr": "199",
  "title": "Keep the shop the reader typed (#199)",
- "label": 1,
- "source": "undo",
- "confidence": 0.7,
- "evidence": "outline-style: ∅ → auto undone by fc8a7f26 \"Fly the pigeons a size bigger (#209)\"; outline-width: ∅ → 1px undone by fc8a7f26 \"Fly the pigeons a size bigger (#209)\"; outline-color: ∅ → rgb(16, 16, 16) undone by fc8a7f26 \"Fly the pigeons a size bigger (#209)\""
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 86 later commits"
 }

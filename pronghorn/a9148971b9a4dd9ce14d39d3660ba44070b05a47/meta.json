@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "a9148971b9a4dd9ce14d39d3660ba44070b05a47",
+ "parent": "e13f1e20021a2d50b802e6ee7d6039c15add0f4f",
+ "date": "2025-11-24",
+ "subject": "Improve specifications UI flow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/specifications/DownloadOptions.tsx",
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23850
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "1d2b397cfb76e272f1a2523442c780000b764060",
+ "parent": "d43a9114454620d3b9d7f72629f86130cd0a79fa",
+ "date": "2025-11-17",
+ "subject": "Fix decompose-requirements input",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/dashboard/CreateProjectDialog.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 22235
+}

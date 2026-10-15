@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "d235d6b85592144d4595e5ba4cada1e83ebec39f",
+ "parent": "4ac9b935954d85c6b786cbc665f3786063e6fa5e",
+ "date": "2025-11-17",
+ "subject": "Fix node property dropdowns",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/NodePropertiesPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16578
+}

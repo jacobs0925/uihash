@@ -1,0 +1,31 @@
+{
+ "repo": "pronghorn",
+ "sha": "f5bcd88d7a11735042b7d0c86c237b6cbe9a4d9f",
+ "parent": "0f36cef2330a169504261027ae723edfbd2ab1cf",
+ "date": "2025-11-23",
+ "subject": "Add Chat and Artifacts to menu",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx",
+  "src/components/requirements/AIDecomposeDialog.tsx",
+  "src/components/specifications/DownloadOptions.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/lib/downloadUtils.ts",
+  "src/pages/project/Artifacts.tsx",
+  "src/pages/project/Chat.tsx",
+  "src/pages/project/ProjectSettings.tsx",
+  "supabase/config.toml",
+  "supabase/functions/summarize-artifact/index.ts",
+  "supabase/functions/summarize-chat/index.ts",
+  "supabase/migrations/20251123151824_2f34208e-6d37-4cc4-abc6-1eb4919614ab.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22732
+}

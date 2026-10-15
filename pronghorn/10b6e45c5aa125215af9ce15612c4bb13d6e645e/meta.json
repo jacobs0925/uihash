@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "10b6e45c5aa125215af9ce15612c4bb13d6e645e",
+ "parent": "5a7c47908e18761e3d3915ea648802528d08ec5b",
+ "date": "2025-11-22",
+ "subject": "Reverted to commit a9961c845edb8b8a32c519ca071a1c76ff74ba6e",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/index.css",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23207
+}

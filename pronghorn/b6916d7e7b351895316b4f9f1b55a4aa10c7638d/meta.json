@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "b6916d7e7b351895316b4f9f1b55a4aa10c7638d",
+ "parent": "f7405f12de1a84423dde7c1fd18f03771851c8d8",
+ "date": "2025-12-01",
+ "subject": "Show all agent sessions",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentSessionsList.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26248
+}

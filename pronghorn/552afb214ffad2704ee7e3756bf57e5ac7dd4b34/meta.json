@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "552afb214ffad2704ee7e3756bf57e5ac7dd4b34",
+ "parent": "ad8c9c3796fc30100cdf545f2b8ca1249d30601b",
+ "date": "2025-12-01",
+ "subject": "Implement diff view plan",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/DiffViewer.tsx",
+  "src/components/build/StagingPanel.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26572
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4e88548b9b11aea60ba4eaaa19ef66442c265c17",
+ "parent": "5a4a39bb4e1ed74f2d5dc7035e239cc1d6a5edae",
+ "date": "2025-11-22",
+ "subject": "Fix mobile epic layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/requirements/RequirementsTree.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22658
+}

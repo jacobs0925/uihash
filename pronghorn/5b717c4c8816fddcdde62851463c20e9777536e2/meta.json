@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "5b717c4c8816fddcdde62851463c20e9777536e2",
+ "parent": "9393db9705a7442fd8be971036f7a6c8cc910ea0",
+ "date": "2025-11-18",
+ "subject": "Fix admin login flow",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/layout/AdminAccessButton.tsx",
+  "src/contexts/AdminContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 18721
+}

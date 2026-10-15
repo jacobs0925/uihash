@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c9023010b9537b011f269dd8f3b8b8dcd788eebe",
+ "parent": "2f1ed4cb275bed4ee2b437e7f07b0f764f7d1655",
+ "date": "2025-11-20",
+ "subject": "Persist tech stacks on save",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Standards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22909
+}

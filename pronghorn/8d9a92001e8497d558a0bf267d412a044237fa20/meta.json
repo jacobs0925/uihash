@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "8d9a92001e8497d558a0bf267d412a044237fa20",
+ "parent": "7eff0a373192d8fe0728cc6ebb2b344c2fb74dc4",
+ "date": "2025-11-21",
+ "subject": "Fix right panel positioning",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23088
+}

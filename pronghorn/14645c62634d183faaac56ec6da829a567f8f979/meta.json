@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "14645c62634d183faaac56ec6da829a567f8f979",
+ "parent": "396955483c47f49199fea14ec7b2e6469ec8d989",
+ "date": "2025-12-01",
+ "subject": "Fix mobile build layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Build.tsx",
+  "supabase/migrations/20251201115200_70999c35-1b6e-4116-9be7-101644ddb892.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26524
+}

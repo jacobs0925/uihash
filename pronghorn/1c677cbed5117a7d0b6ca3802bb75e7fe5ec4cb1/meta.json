@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1c677cbed5117a7d0b6ca3802bb75e7fe5ec4cb1",
+ "parent": "843d00efb34532983f6fe64e7848eafd257e536c",
+ "date": "2025-11-18",
+ "subject": "Enhance file viewer modal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/requirements/SourceRequirementsUpload.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 18781
+}

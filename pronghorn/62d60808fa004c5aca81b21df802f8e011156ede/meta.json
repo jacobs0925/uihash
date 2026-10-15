@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "62d60808fa004c5aca81b21df802f8e011156ede",
+ "parent": "1f5ae480deaaf662618c1ad2801f4f16255e054c",
+ "date": "2025-11-20",
+ "subject": "Expand project settings fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/ProjectSettings.tsx",
+  "supabase/migrations/20251120044500_f44957fe-ea07-4878-8e41-2324152061d3.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 24075
+}

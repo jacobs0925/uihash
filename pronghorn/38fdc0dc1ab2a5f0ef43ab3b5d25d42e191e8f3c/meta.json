@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "38fdc0dc1ab2a5f0ef43ab3b5d25d42e191e8f3c",
+ "parent": "c1b98413eb66d9e8341e89af04548f46a79d619b",
+ "date": "2025-12-01",
+ "subject": "Persist agent history UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentChatViewer.tsx",
+  "src/components/build/StagingPanel.tsx",
+  "src/hooks/useRealtimeAgentMessages.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Build.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts",
+  "supabase/migrations/20251201140511_a9b1deb9-c457-49ec-8042-e029691f23fd.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26889
+}

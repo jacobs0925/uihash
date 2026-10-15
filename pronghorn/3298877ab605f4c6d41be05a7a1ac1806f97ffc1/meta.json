@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "3298877ab605f4c6d41be05a7a1ac1806f97ffc1",
+ "parent": "b9cf3502e14250e19f1846cc9329c77a1efcb0e7",
+ "date": "2025-11-21",
+ "subject": "Switch to React Flow select",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/Lasso.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22170
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "7b24c423140ea46d08275e95db178ea79d97e051",
+ "parent": "5fdb7c0c852a1ebb645e6e7b66a77cc96592802b",
+ "date": "2025-11-30",
+ "subject": "Add Draw Edges toggle",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/IterativeEnhancement.tsx",
+  "supabase/functions/orchestrate-agents/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26993
+}

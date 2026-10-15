@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "919fa50d3f339ce66f46e77909bc1c7bcfe94bcd",
+ "parent": "897ae046e9103547ffff280c3c89a489789ae836",
+ "date": "2025-11-19",
+ "subject": "Enhance AI Architect modal",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx",
+  "src/pages/project/Canvas.tsx",
+  "src/pages/project/ProjectSettings.tsx",
+  "supabase/functions/ai-architect-critic/index.ts",
+  "supabase/functions/ai-architect/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21238
+}

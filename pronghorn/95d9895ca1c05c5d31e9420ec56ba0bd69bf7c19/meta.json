@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "95d9895ca1c05c5d31e9420ec56ba0bd69bf7c19",
+ "parent": "b7894fa32fad1d9b31c5e08a102c19e69f5a6cab",
+ "date": "2025-11-20",
+ "subject": "Fix project visibility for user",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 24581
+}

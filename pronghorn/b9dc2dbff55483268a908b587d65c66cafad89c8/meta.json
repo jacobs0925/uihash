@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "b9dc2dbff55483268a908b587d65c66cafad89c8",
+ "parent": "47be8e403dba517e7ffd7a3cdf6a602ac49ee26a",
+ "date": "2025-11-29",
+ "subject": "Enhance iterative agents flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/ChangeHeatmap.tsx",
+  "src/components/canvas/IterativeEnhancement.tsx",
+  "supabase/functions/orchestrate-agents/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26595
+}

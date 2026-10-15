@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "0dd7fc0d7ee0b17018f45ce6e0e6f970c34d540b",
+ "parent": "c4cde1a29690fdf290ee63fe2b72d795269becdd",
+ "date": "2025-11-17",
+ "subject": "Refine requirements linking UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/requirements/RequirementStandardsBadges.tsx",
+  "src/components/requirements/RequirementsTree.tsx",
+  "src/components/requirements/SourceRequirementsUpload.tsx",
+  "src/pages/project/Requirements.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16570
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "c651cbb90d489bbde01202b8fc4f274515630b4f",
+ "parent": "68cfea1ec96aae6409c5c3a629532d17737f7d4d",
+ "date": "2025-11-19",
+ "subject": "Enable saving anonymous projects to account",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/dashboard/ProjectCard.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 23742
+}

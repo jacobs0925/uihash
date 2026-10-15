@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "814bef816c8d59103ca60e687fad9a0065a7459a",
+ "parent": "c53f4ff3c4cace11e649e14811d0cec1b5b426a1",
+ "date": "2025-11-28",
+ "subject": "Refine infographic UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/data/graphicStyles.json",
+  "src/components/canvas/InfographicDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 25670
+}

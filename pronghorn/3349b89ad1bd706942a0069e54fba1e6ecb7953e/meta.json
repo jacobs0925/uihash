@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3349b89ad1bd706942a0069e54fba1e6ecb7953e",
+ "parent": "9f8baefbf3afb4f8809348f0ca3aea89b0b0c5ef",
+ "date": "2025-12-01",
+ "subject": "Improve full-height tabs layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26501
+}

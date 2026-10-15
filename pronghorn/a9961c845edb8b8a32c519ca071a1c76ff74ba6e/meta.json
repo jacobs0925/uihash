@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "a9961c845edb8b8a32c519ca071a1c76ff74ba6e",
+ "parent": "4d573c2e8d2ed879a36d4286104b859ba067da08",
+ "date": "2025-11-22",
+ "subject": "Fix ai architect trigger mobile",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23339
+}

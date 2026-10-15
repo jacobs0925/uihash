@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "3b7a207ccae60ab63300039bb51c55489eaca02e",
+ "date": "2025-11-19",
+ "pr": null,
+ "title": "Visual edit in Lovable",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1695 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "c7c92eb14936c2dbb400928cd3a337ff51dddb66",
+ "date": "2025-11-17",
+ "pr": null,
+ "title": "Improve dashboard and admin flow",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1783 later commits"
+}

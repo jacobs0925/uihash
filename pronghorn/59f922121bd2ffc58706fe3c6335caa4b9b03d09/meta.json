@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "59f922121bd2ffc58706fe3c6335caa4b9b03d09",
+ "parent": "c6f2faca275d27d76095748d8207990a30c786b5",
+ "date": "2025-11-30",
+ "subject": "Move project name to header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/layout/ProjectSidebar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26045
+}

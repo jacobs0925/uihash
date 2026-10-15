@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "d5fed86812facc17c6fe8a2424ef7fde705d68ab",
+ "parent": "8fe511797241d363d9050edf1211f8cabbcc1f63",
+ "date": "2025-11-23",
+ "subject": "Integrate project content fetch",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/ProjectSelector.tsx",
+  "supabase/functions/chat-stream-anthropic/index.ts",
+  "supabase/functions/chat-stream-gemini/index.ts",
+  "supabase/functions/chat-stream-xai/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23691
+}

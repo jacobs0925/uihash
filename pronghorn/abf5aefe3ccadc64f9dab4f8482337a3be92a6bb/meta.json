@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "abf5aefe3ccadc64f9dab4f8482337a3be92a6bb",
+ "parent": "cff7d19f827f75b40e4b8987dcc370f5809860d0",
+ "date": "2025-11-17",
+ "subject": "Link standards via dropdown",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/CanvasNode.tsx",
+  "src/components/canvas/LinkSelector.tsx",
+  "src/components/canvas/NodePalette.tsx",
+  "src/components/canvas/NodePropertiesPanel.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251117221511_7c494f4a-2626-4d0f-aabb-f8456900f707.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 16355
+}

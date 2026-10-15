@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "d7797b5b0f89a7b1485d39bfccad36cf42ec6a47",
+ "parent": "70200f8e9a222b4f2efe88d689e82cd3534d55b9",
+ "date": "2025-11-29",
+ "subject": "Enhance drag from sidebar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/AgentFlow.tsx",
+  "src/components/canvas/IterativeEnhancement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26082
+}

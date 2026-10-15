@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "0bccc12f374d4e2b1946fd2a327dab6d5e558c22",
+ "parent": "a152e02cd8b3dd3dde2184b7b0cd8049a3a930d2",
+ "date": "2025-11-18",
+ "subject": "Persist canvas edges real-time",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useRealtimeCanvas.ts",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 18889
+}

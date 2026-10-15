@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "6408b5d84a3f798d12111e53344a40866a8275c6",
+ "parent": "b136a69cf82ba37a9e7b52ed7150509841f30ba4",
+ "date": "2025-11-18",
+ "subject": "Improve project settings save",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/ProjectSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 20359
+}

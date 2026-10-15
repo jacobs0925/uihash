@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "817fef6604ef8a30b09b0a5f26c53e5b86a93ca9",
+ "parent": "3f2c385f945ca80dd283ff22c9729d6925979324",
+ "date": "2025-12-01",
+ "subject": "Improve mobile diff/file load",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx",
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26879
+}

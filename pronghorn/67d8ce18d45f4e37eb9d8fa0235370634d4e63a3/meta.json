@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "67d8ce18d45f4e37eb9d8fa0235370634d4e63a3",
+ "parent": "4ba2830fbc75457e53d944b16e4f446a84e99dc6",
+ "date": "2025-11-21",
+ "subject": "Fix lasso and layer hooks",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22613
+}

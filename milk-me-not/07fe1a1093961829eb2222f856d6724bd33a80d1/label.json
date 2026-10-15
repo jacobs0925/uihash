@@ -8,5 +8,5 @@
  "label": 1,
  "source": "undo",
  "confidence": 0.85,
- "evidence": "background-color: rgba(31, 64, 255, 0.9) → rgb(31, 64, 255) undone by 3bc26de2 \"Update badge colors to e6fff3\"; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 20px 25px -5px, rgba(0, 0, 0, 0.1) 0px 8px 10px -6px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px undone by 3bc26de2 \"Update badge colors to e6fff3\"; transform: matrix(1, 0, 0, 1, 0, -4) → ∅ undone by 3bc26de2 \"Update badge colors to e6fff3\""
+ "evidence": "stroke-linecap: round → ∅ undone by 8f57bb20 \"Fix mobile CTAs icons imports\"; stroke-linejoin: round → ∅ undone by 8f57bb20 \"Fix mobile CTAs icons imports\"; stroke-linecap: round → ∅ undone by 8f57bb20 \"Fix mobile CTAs icons imports\""
 }

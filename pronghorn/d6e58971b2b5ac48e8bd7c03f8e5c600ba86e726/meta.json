@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "d6e58971b2b5ac48e8bd7c03f8e5c600ba86e726",
+ "parent": "cf676c680fccd24d3abb3bb6dfaddfc2524c9a42",
+ "date": "2025-11-18",
+ "subject": "Add anonymous project flow logs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/dashboard/EnhancedCreateProjectDialog.tsx",
+  "src/hooks/useAnonymousProjects.ts",
+  "supabase/config.toml",
+  "supabase/functions/create-project/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 19128
+}

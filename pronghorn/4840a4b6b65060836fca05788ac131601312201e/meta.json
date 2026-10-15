@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4840a4b6b65060836fca05788ac131601312201e",
+ "parent": "c0095ab40607548fcbb85a449d205345dcdf9c09",
+ "date": "2025-11-23",
+ "subject": "Constrain chat history UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 23494
+}

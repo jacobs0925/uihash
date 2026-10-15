@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c2c379b2678aa5719ca653cf3f3b3acb67a102a6",
+ "parent": "922440ce3ac4ae5e61d97c81c90192affda0e8f6",
+ "date": "2025-11-23",
+ "subject": "Show alignment buttons always",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22703
+}

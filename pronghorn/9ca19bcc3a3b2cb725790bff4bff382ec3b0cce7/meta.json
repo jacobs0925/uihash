@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "9ca19bcc3a3b2cb725790bff4bff382ec3b0cce7",
+ "parent": "c919d96347fbfa10de8a92193b4137ac677c4200",
+ "date": "2025-11-25",
+ "subject": "Improve AI Decompose UI refresh",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/requirements/AIDecomposeDialog.tsx",
+  "src/pages/project/Requirements.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26044
+}

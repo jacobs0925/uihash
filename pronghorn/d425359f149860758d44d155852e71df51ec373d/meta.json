@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "d425359f149860758d44d155852e71df51ec373d",
+ "parent": "c573481a23809e0b77b94d5ffce0dd60037ab0df",
+ "date": "2025-11-23",
+ "subject": "Adjust summary modal size",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 22971
+}

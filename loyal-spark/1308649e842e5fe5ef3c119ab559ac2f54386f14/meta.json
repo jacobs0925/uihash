@@ -1,0 +1,28 @@
+{
+ "repo": "loyal-spark",
+ "sha": "1308649e842e5fe5ef3c119ab559ac2f54386f14",
+ "parent": "c162e71eae8f468088261d6b5549a33b472772b0",
+ "date": "2025-10-17",
+ "subject": "feat: Implement reward catalog and voucher system",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerPanel.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/components/rewards/CreateReward.tsx",
+  "src/components/rewards/MyVouchers.tsx",
+  "src/components/rewards/RewardsList.tsx",
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/components/rewards/VoucherCard.tsx",
+  "src/components/rewards/VouchersManagement.tsx",
+  "src/lib/vouchers.ts",
+  "src/types/rewards.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 57100
+}

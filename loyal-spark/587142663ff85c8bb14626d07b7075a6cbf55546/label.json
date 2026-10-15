@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "587142663ff85c8bb14626d07b7075a6cbf55546",
+ "date": "2025-10-19",
+ "pr": null,
+ "title": "Refactor merchant data display",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1071 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "5619bd8a3e8b2b06b1ddbf6570ef1e2409ce8a0e",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Refine design to match Mobbin.com",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-size: auto, auto, auto, auto → ∅ undone by bab09e18 \"Refine UI design\"; position: relative → ∅ undone by bab09e18 \"Refine UI design\"; overflow-x: hidden → ∅ undone by bab09e18 \"Refine UI design\""
+}

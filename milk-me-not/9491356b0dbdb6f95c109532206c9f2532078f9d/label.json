@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "9491356b0dbdb6f95c109532206c9f2532078f9d",
+ "date": "2025-12-01",
+ "pr": null,
+ "title": "Fix CLS by sizing logo",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 737 later commits"
+}

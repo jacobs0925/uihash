@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "f807485d7999476c2786e8b1b6118112ea2b3e0d",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Fix buyer wallet connection",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1119 later commits"
+}

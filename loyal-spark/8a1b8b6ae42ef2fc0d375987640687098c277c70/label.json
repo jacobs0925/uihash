@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "8a1b8b6ae42ef2fc0d375987640687098c277c70",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Refactor index page",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "flex-direction: ∅ → row undone by e8f3f03b \"feat: Create contract interaction assembly\"; flex-wrap: ∅ → nowrap undone by e8f3f03b \"feat: Create contract interaction assembly\"; flex-direction: ∅ → row undone by e8f3f03b \"feat: Create contract interaction assembly\""
+}

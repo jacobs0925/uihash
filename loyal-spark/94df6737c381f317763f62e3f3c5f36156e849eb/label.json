@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "94df6737c381f317763f62e3f3c5f36156e849eb",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Fix: Buyer-side token display",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: block → flex undone by f807485d \"Fix buyer wallet connection\"; flex-direction: ∅ → row undone by f807485d \"Fix buyer wallet connection\"; flex-wrap: ∅ → nowrap undone by f807485d \"Fix buyer wallet connection\""
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "3328e40f88735229ad7c5c1dd80c5f014f0082c7",
+ "date": "2026-01-05",
+ "pr": null,
+ "title": "Reverted to commit 91e9ff6f0909daf31da6853191aa403b77396199",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "font-size: 24px → 36px undone by f3edf5f5 \"Adjust header sizing for small screens\"; line-height: 32px → 40px undone by f3edf5f5 \"Adjust header sizing for small screens\"; font-size: 24px → 36px undone by f3edf5f5 \"Adjust header sizing for small screens\""
+}

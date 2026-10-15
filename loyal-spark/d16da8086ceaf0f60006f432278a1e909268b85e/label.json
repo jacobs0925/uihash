@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "d16da8086ceaf0f60006f432278a1e909268b85e",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Fix: High gas fee when activating old program",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 966 later commits"
+}

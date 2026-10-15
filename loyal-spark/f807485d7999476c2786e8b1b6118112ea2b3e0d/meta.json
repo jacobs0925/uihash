@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "f807485d7999476c2786e8b1b6118112ea2b3e0d",
+ "parent": "22882943c7983bdd8b7eccc9545b03fbdbe6c913",
+ "date": "2025-10-17",
+ "subject": "Fix buyer wallet connection",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 7,
+ "ms": 52458
+}

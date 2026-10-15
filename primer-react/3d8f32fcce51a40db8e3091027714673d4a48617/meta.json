@@ -1,0 +1,44 @@
+{
+ "repo": "primer-react",
+ "sha": "3d8f32fcce51a40db8e3091027714673d4a48617",
+ "parent": "361f171b0f64b09a21e29e4906ac2a8e10a61e6e",
+ "date": "2026-10-06",
+ "subject": "fix(Button): apply disabled styles while loading under FF (#8412)",
+ "pr": "8412",
+ "components": [
+  "Button"
+ ],
+ "files": [
+  ".changeset/loading-button-disabled-styles.md",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-dark-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-light-colorblind-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-light-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-light-tritanopia-linux.png",
+  "packages/react/src/Button/Button.features.stories.tsx",
+  "packages/react/src/Button/ButtonBase.module.css",
+  "packages/react/src/Button/ButtonBase.tsx",
+  "packages/react/src/Button/__tests__/Button.test.tsx",
+  "packages/react/src/FeatureFlags/DefaultFeatureFlags.ts"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-dark-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-light-colorblind-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-light-linux.png",
+  ".playwright/snapshots/components/Button.test.ts-snapshots/Button-Loading-light-tritanopia-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': patch\n---\n\nButton: Add opt-in disabled styling for loading buttons so they look non-interactive while staying focusable\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 3,
+ "ms": 252206
+}

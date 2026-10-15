@@ -1,0 +1,24 @@
+{
+ "repo": "milk-me-not",
+ "sha": "7bab58b2b81769fa1c4effe4bfb9aab87bba0940",
+ "parent": "fc9b749e1a195d498b6bad3751325bb61412d8a2",
+ "date": "2026-03-09",
+ "subject": "Downgraded Tailwind to v3",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "bun.lock",
+  "package.json",
+  "postcss.config.js",
+  "src/index.css",
+  "tailwind.config.ts",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 37,
+ "ms": 130493
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "e9cfe589bc671e445bc3667d425810b16f871d5f",
+ "date": "2026-08-23",
+ "pr": "123",
+ "title": "Drop the unused calendar, and with it the last peer conflict (#123)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 171 later commits"
+}

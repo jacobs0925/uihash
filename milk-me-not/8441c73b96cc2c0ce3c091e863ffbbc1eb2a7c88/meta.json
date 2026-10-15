@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8441c73b96cc2c0ce3c091e863ffbbc1eb2a7c88",
+ "parent": "dbb2da213b5985c580c39a868a290d72c672ad3b",
+ "date": "2025-12-27",
+ "subject": "Hide help link on mobile app",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/MobileApp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 58444
+}

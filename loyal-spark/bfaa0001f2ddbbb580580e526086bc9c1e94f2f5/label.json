@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "bfaa0001f2ddbbb580580e526086bc9c1e94f2f5",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "feat: Enhance loyalty program features and UI",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: block → flex undone by e8f3f03b \"feat: Create contract interaction assembly\"; display: block → flex undone by e8f3f03b \"feat: Create contract interaction assembly\"; display: block → flex undone by e8f3f03b \"feat: Create contract interaction assembly\""
+}

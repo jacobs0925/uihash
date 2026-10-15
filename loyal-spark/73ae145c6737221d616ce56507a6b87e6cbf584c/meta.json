@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "73ae145c6737221d616ce56507a6b87e6cbf584c",
+ "parent": "41022f8b22a80d2437f164c886b521b8533eb0d9",
+ "date": "2025-10-22",
+ "subject": "Refactor app launch flow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/RoleSelector.tsx",
+  "src/pages/AppPage.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 7,
+ "ms": 84529
+}

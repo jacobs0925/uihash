@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "60c813bf730fda0a5317c7fdb8ceabe7f6fae0b3",
+ "date": "2026-10-09",
+ "pr": "284",
+ "title": "Make the database honour admin two-step sign-in (#284)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 9 later commits"
+}

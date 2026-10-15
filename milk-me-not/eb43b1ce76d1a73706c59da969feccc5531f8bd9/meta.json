@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "eb43b1ce76d1a73706c59da969feccc5531f8bd9",
+ "parent": "8441c73b96cc2c0ce3c091e863ffbbc1eb2a7c88",
+ "date": "2025-12-27",
+ "subject": "Add Android QR code for APK",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/pages/MobileApp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 58199
+}

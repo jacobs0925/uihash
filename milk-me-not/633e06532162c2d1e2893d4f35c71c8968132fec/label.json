@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "633e06532162c2d1e2893d4f35c71c8968132fec",
+ "date": "2026-08-20",
+ "pr": null,
+ "title": "Fixed CSS import order",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text-decoration-line: underline → ∅ undone by b7de6661 \"Move to Tailwind 4 (#139)\"; text-decoration-style: solid → ∅ undone by b7de6661 \"Move to Tailwind 4 (#139)\"; text-decoration-color: rgb(204, 245, 220) → ∅ undone by b7de6661 \"Move to Tailwind 4 (#139)\""
+}

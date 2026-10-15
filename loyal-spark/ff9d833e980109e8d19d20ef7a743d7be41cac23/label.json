@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "ff9d833e980109e8d19d20ef7a743d7be41cac23",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Refactor wallet button style",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: flex → block undone by 06c0661d \"Revert Farcaster splash screen changes\"; flex-wrap: nowrap → ∅ undone by 06c0661d \"Revert Farcaster splash screen changes\"; justify-content: normal → ∅ undone by 06c0661d \"Revert Farcaster splash screen changes\""
+}

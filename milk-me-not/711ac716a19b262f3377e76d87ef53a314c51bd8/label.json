@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "711ac716a19b262f3377e76d87ef53a314c51bd8",
+ "date": "2026-08-26",
+ "pr": "191",
+ "title": "Put the brand green back in the headline, and write down that it is a choice (#191)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "outline-style: ∅ → auto undone by eb995f2a \"Make the pigeons fly like pigeons (#207)\"; outline-width: ∅ → 1px undone by eb995f2a \"Make the pigeons fly like pigeons (#207)\"; outline-color: ∅ → rgb(16, 16, 16) undone by eb995f2a \"Make the pigeons fly like pigeons (#207)\""
+}

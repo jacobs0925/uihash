@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "8703c9762320fb26392f0675ed9363a2f002b87c",
+ "date": "2026-02-02",
+ "pr": null,
+ "title": "Separate FAQ to mobile page",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: flex → block undone by abc7c41b \"Wrap routes in main landmark\"; background-color: rgb(243, 244, 246) → ∅ undone by abc7c41b \"Wrap routes in main landmark\"; background-clip: border-box → ∅ undone by abc7c41b \"Wrap routes in main landmark\""
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "53ad5d6f774aa0d4dd371e605557639320a2eda9",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Fix: Display tokens on customer panel",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: flex → block undone by 94df6737 \"Fix: Buyer-side token display\"; display: flex → block undone by d04e162b \"Fix: Display issued tokens on client side\"; display: flex → block undone by d04e162b \"Fix: Display issued tokens on client side\""
+}

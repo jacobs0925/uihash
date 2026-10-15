@@ -1,0 +1,28 @@
+{
+ "repo": "loyal-spark",
+ "sha": "587142663ff85c8bb14626d07b7075a6cbf55546",
+ "parent": "3948ff3813b907717ed1fb34b7c2d98b60443266",
+ "date": "2025-10-19",
+ "subject": "Refactor merchant data display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreateLoyaltyProgram.tsx",
+  "src/components/CreatedPrograms.tsx",
+  "src/components/CustomerPanel.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/components/TokenList.tsx",
+  "src/components/rewards/CreateReward.tsx",
+  "src/components/rewards/MyVouchers.tsx",
+  "src/components/rewards/RewardsList.tsx",
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/components/rewards/VouchersManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 54726
+}

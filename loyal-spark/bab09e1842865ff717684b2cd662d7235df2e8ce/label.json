@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "bab09e1842865ff717684b2cd662d7235df2e8ce",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Refine UI design",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "border-bottom-width: 2px → 1px undone by bfaa0001 \"feat: Enhance loyalty program features and UI\"; border-bottom-width: 2px → 1px undone by bfaa0001 \"feat: Enhance loyalty program features and UI\"; display: flex → block undone by bfaa0001 \"feat: Enhance loyalty program features and UI\""
+}

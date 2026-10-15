@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "06c0661db1605e4ae2417d5784af0f2753a49d8f",
+ "date": "2025-10-22",
+ "pr": null,
+ "title": "Revert Farcaster splash screen changes",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by fad9803f, which restored 73ae145c (3 commits discarded)"
+}

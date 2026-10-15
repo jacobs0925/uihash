@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4516ab835b0057c504e863d8e38105498ac5cc58",
+ "parent": "351c7cf8a5775bc6e4b8750d369a55bba7fde61a",
+ "date": "2025-10-17",
+ "subject": "Fix: Rewards not displaying",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/lib/migrateLocalStorageData.ts",
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 10,
+ "ms": 68045
+}

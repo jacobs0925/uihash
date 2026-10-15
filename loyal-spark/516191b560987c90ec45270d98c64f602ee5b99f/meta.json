@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "516191b560987c90ec45270d98c64f602ee5b99f",
+ "parent": "3124f9aef54d5698acfcf9178a5c4aff1490a562",
+ "date": "2025-10-20",
+ "subject": "Fix footer year to 2025",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 61859
+}

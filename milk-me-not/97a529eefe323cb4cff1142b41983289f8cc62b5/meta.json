@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "97a529eefe323cb4cff1142b41983289f8cc62b5",
+ "parent": "c824afa2df52642c373b139eaa164f257b723e7e",
+ "date": "2026-03-08",
+ "subject": "Resolve CodeQL unused code",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthButton.tsx",
+  "src/components/auth/AuthFormButtons.tsx",
+  "src/components/milk-test/ResultsContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 68881
+}

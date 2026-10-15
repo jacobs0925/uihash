@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "73ae145c6737221d616ce56507a6b87e6cbf584c",
+ "date": "2025-10-22",
+ "pr": null,
+ "title": "Refactor app launch flow",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 909 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "8441c73b96cc2c0ce3c091e863ffbbc1eb2a7c88",
+ "date": "2025-12-27",
+ "pr": null,
+ "title": "Hide help link on mobile app",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 717 later commits"
+}

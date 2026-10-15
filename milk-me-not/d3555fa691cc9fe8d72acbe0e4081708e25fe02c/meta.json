@@ -1,0 +1,27 @@
+{
+ "repo": "milk-me-not",
+ "sha": "d3555fa691cc9fe8d72acbe0e4081708e25fe02c",
+ "parent": "a300e08e352dd76c7e6f6196d84537ca2367658c",
+ "date": "2026-08-23",
+ "subject": "Compute derived state instead of setting it in an effect (#125)",
+ "pr": "125",
+ "components": [
+  "components",
+  "hooks",
+  "pages"
+ ],
+ "files": [
+  "src/components/feed/FeedContent.tsx",
+  "src/components/milk-test/CountrySelect.tsx",
+  "src/components/milk-test/ShopSelect.tsx",
+  "src/hooks/use-mobile.tsx",
+  "src/hooks/usePagedCount.ts",
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 29624
+}

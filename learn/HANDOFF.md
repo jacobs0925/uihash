@@ -667,6 +667,18 @@ v0 and Bolt record no restores in git.
     without its repository (`train.py --unseen`), and `gold.js --scores unseen=<data>/unseen.jsonl`
     gives that model's AUROC against the person's labels.
 
+    In the rounds, the judge is off until the `JUDGE_MODEL` repository variable names a model. Then:
+    - the walk keeps its crops (`JUDGE=1`), and spends the time left on commits checked before the judge
+      was there. Up to `JUDGE_AGAIN` per repository have findings and no `judge.json`, and are checked
+      again with `walk.js --again`. The new check goes to `<sha>/again/`, and replaces the earlier one only
+      if it succeeds;
+    - `round.sh crops` copies each commit's summary, commit text and crops for the `judge` job, and the
+      crops are deleted from the data right away;
+    - `judge` sends up to `JUDGE_MAX` commits a round (default 100, 4 at a time) to the model, in its own
+      job: the API key never reaches the job that runs the walked repositories' code;
+    - `publish` saves the verdicts (`<repo>/<sha>/judge.json`) with the data. `label.js` does not use them
+      yet: that waits for the gold numbers.
+
     The gate only asks that a candidate be no worse. Rounds that follow one another also ask that it be
     better; otherwise every round would propose a model.
   - Outputs: the chosen model and its reports go to `models/latest/` (or `$MODEL_OUT`), the round's

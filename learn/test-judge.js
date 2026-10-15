@@ -5,7 +5,7 @@ const fs = require('fs');
 const os = require('os');
 const path = require('path');
 const zlib = require('zlib');
-const { shown, promptOf, parse, promptHash, judgeOne, run, SYSTEM } = require('./judge.js');
+const { shown, promptOf, parse, promptHash, judgeOne, run, pack, SYSTEM } = require('./judge.js');
 
 const PNG = Buffer.from('89504e470d0a1a0a', 'hex');
 const f = (n, p, changes, image) => ({ n, severity: 'error', type: 'changed', path: `html > body > ${p}`, changes, image });
@@ -78,6 +78,28 @@ assert.ok(v.findings[0].sig.startsWith('Home|default||changed|html > body > main
   assert.ok(r.n === 1 && fs.existsSync(path.join(dir, 'judge-claude-haiku-5-5.json')));
   r = await run(repo, { model: 'claude-haiku-5-5', client: client(ok), file: 'x.json', only: new Set(['fff']), log });
   assert.strictEqual(r.n, 0);
+
+  // several repositories at once: at most max commits tried, parallel at a time; a missing key stops the run
+  const repo2 = path.join(tmp, 'beta'), dir2 = path.join(repo2, 'fed4321');
+  fs.mkdirSync(dir2, { recursive: true });
+  const s2 = { pages: [{ ...page, findings: [f(1, 'main > h1', ['font-size: 32px → 12px'], 'home.1.png'), f(2, 'main > p', ['color: red → blue'], '../../secret.png')] }] };
+  fs.writeFileSync(path.join(dir2, 'summary.json'), JSON.stringify(s2));
+  fs.writeFileSync(path.join(dir2, 'meta.json'), JSON.stringify(meta));
+  fs.writeFileSync(path.join(dir2, 'home.1.png'), PNG);
+  fs.writeFileSync(path.join(dir2, 'home.base.png'), PNG);
+  fs.writeFileSync(path.join(repo2, 'flaky.json'), '[]');
+  r = await run([repo, repo2], { model: 'claude-sonnet-5-5', client: client(ok), parallel: 2, max: 1, log });
+  assert.deepStrictEqual([r.tried, r.n], [1, 1]);
+  r = await run([repo, repo2], { model: 'claude-sonnet-5-5', client: client(ok), parallel: 2, log });
+  assert.deepStrictEqual([r.tried, r.n], [1, 1]);
+  const noKey = { beta: { messages: { create: async () => { const e = new Error('invalid x-api-key'); e.status = 401; throw e; } } } };
+  await assert.rejects(run([repo, repo2], { model: 'claude-fable-5-1', client: noKey, log }), /x-api-key/);
+
+  // --pack: only commits that still have crops (a plain summary, as the walk leaves it), with what the judge needs
+  const packed = path.join(tmp, 'packed');
+  assert.strictEqual(pack([repo, repo2], packed), 1);
+  assert.deepStrictEqual(fs.readdirSync(path.join(packed, 'beta', 'fed4321')).sort(), ['home.1.png', 'meta.json', 'summary.json']);
+  assert.ok(fs.existsSync(path.join(packed, 'beta', 'flaky.json')) && !fs.existsSync(path.join(packed, 'acme')));
   fs.rmSync(tmp, { recursive: true, force: true });
   console.log('judge: ok');
 })().catch((e) => { console.error(e); process.exit(1); });

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "84d368f788711261fa013451b0e3eeab9876e7ef",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Harden RLS policies",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 112px → 80px undone by c8ff7a83 \"Improve site UI and performance\"; padding-bottom: 112px → 80px undone by c8ff7a83 \"Improve site UI and performance\"; padding-top: 112px → 80px undone by c8ff7a83 \"Improve site UI and performance\""
+}

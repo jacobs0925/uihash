@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "f3bf16ae69c2ced151b6a4426cf51ff9a3b4b0ae",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Removed UK text from header",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1627 later commits"
+}

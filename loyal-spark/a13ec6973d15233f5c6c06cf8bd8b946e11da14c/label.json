@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "a13ec6973d15233f5c6c06cf8bd8b946e11da14c",
+ "date": "2026-04-19",
+ "pr": null,
+ "title": "feat(recipient): prepare loyalty token transfer for rwk_ holders",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 216 later commits"
+}

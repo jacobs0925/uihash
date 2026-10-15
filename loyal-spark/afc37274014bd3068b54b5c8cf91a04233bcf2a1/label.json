@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "afc37274014bd3068b54b5c8cf91a04233bcf2a1",
+ "date": "2026-04-17",
+ "pr": null,
+ "title": "feat(agents): SIWE merchant registration, x402 docs, MCP test args",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Base mainnet → \"Base mainnet undone by a13ec697 \"feat(recipient): prepare loyalty token transfer for rwk_ holders\"; text: \"Base mainnet → \"Base mainnet undone by a13ec697 \"feat(recipient): prepare loyalty token transfer for rwk_ holders\"; text: \"Base mainnet → \"Base mainnet undone by a13ec697 \"feat(recipient): prepare loyalty token transfer for rwk_ holders\""
+}

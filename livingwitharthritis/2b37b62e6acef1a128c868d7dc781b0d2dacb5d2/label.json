@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "2b37b62e6acef1a128c868d7dc781b0d2dacb5d2",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Removed stat cards and blog polish",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1620 later commits"
+}

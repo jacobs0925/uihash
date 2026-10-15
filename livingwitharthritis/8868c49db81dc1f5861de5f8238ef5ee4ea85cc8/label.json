@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "8868c49db81dc1f5861de5f8238ef5ee4ea85cc8",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Add recurring monthly donations",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1610 later commits"
+}

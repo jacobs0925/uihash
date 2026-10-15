@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "ac4a4c8b239f1a819587205c65ccf3b068675278",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Enhanced Resource Library Drawer app",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "position: relative → ∅ undone by b2ca3d70 \"Revamped logo with dropdown\"; position: relative → ∅ undone by b2ca3d70 \"Revamped logo with dropdown\""
+}

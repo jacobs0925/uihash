@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "65972b8551780d38821723aba8d3613fdf2528e1",
+ "parent": "d3db03a2d90459ee94c320c8b8b3b069e3bf793a",
+ "date": "2026-04-17",
+ "subject": "docs: mark scripts/ as optional dev helpers + sync agent onboarding",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "AGENTS.md",
+  "README.md",
+  "docs/agents/AUTONOMOUS_AGENT_REGISTRATION.md",
+  "public/.well-known/skills/00-getting-started.md",
+  "src/pages/ForAgentsPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 98959
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "2ffbf1585d206c65c563b2dfaa7fcddc604171e2",
+ "date": "2026-04-21",
+ "pr": null,
+ "title": "Заменил иконку на подарок",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 159 later commits"
+}

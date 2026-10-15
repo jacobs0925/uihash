@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "6f063cd48c301b41749cea28659de71f794d5dfe",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Fix about us section ordering",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: block → flex undone by 83ed9c4b \"Add scroll progress component\"; display: block → flex undone by 83ed9c4b \"Add scroll progress component\"; line-height: 1.7 → ∅ undone by ac4a4c8b \"Enhanced Resource Library Drawer app\""
+}

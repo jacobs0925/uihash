@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "8dc6ce6b66c498a1349e4baf34d7fa6a942a3c45",
+ "parent": "2b37b62e6acef1a128c868d7dc781b0d2dacb5d2",
+ "date": "2026-03-08",
+ "subject": "Enhance content and backend",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx",
+  "supabase/migrations/20260308173311_4ab1052e-03b7-42df-8b82-b0565534488a.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 204142
+}

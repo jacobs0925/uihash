@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "c52311da0f6da61cae5b0a8a7e31abc63a23d539",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Improve SVG logo curves",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1635 later commits"
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "6f063cd48c301b41749cea28659de71f794d5dfe",
+ "parent": "8ed6eeafc5c5cba8c0f0e8e3268a6a4366689f18",
+ "date": "2026-03-08",
+ "subject": "Fix about us section ordering",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx",
+  "src/pages/AboutUs.tsx",
+  "src/pages/CookiesPolicy.tsx",
+  "src/pages/PrivacyPolicy.tsx",
+  "src/pages/Sitemap.tsx",
+  "supabase/migrations/20260308172056_5e36ab6e-d496-40a5-8f1d-0018b5e6fd1e.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 36,
+ "ms": 287229
+}

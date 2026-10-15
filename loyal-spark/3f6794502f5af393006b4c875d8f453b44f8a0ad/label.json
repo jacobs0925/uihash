@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "3f6794502f5af393006b4c875d8f453b44f8a0ad",
+ "date": "2026-04-20",
+ "pr": null,
+ "title": "Добавил прайс-лист на /for-agents",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 173 later commits"
+}

@@ -5,8 +5,8 @@
  "date": "2026-02-26",
  "pr": null,
  "title": "Add MaxwellHealth credit UI",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1704 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "outline-style: ∅ → solid undone by 2e8ec4a7 \"Add blog helpfulness widget\"; padding-top: ∅ → 0px undone by 2e8ec4a7 \"Add blog helpfulness widget\"; padding-bottom: ∅ → 0px undone by 2e8ec4a7 \"Add blog helpfulness widget\""
 }

@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "c8ff7a837cce77aa75a2b889d1c8b81b63a00fdd",
+ "parent": "e8f4ec4b1d7d1689e66524584d8074afa2ba1378",
+ "date": "2026-03-08",
+ "subject": "Improve site UI and performance",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/Footer.tsx",
+  "src/components/Header.tsx",
+  "src/components/landing/FinalCTASection.tsx",
+  "src/components/landing/GetInTouchSection.tsx",
+  "src/components/landing/NewsletterSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 17,
+ "ms": 205807
+}

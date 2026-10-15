@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "d96e462eb60e22d181b3a20a9b10b20c65c078b4",
+ "parent": "50c5b84fe414a4d0443ed088f16ad0fcb36d3d58",
+ "date": "2026-04-21",
+ "subject": "Убрал дефис в on-chain",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/admin/PaymentSettingsManagement.tsx",
+  "src/components/agents/AgentBillingDashboard.tsx",
+  "src/pages/GuidePage.tsx",
+  "src/pages/PitchDeck.tsx",
+  "supabase/functions/agent-api/index.ts",
+  "supabase/functions/loyalty-mcp/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 108492
+}

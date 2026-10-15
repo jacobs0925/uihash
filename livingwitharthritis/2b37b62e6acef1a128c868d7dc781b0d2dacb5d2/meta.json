@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "2b37b62e6acef1a128c868d7dc781b0d2dacb5d2",
+ "parent": "6f063cd48c301b41749cea28659de71f794d5dfe",
+ "date": "2026-03-08",
+ "subject": "Removed stat cards and blog polish",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/landing/BlogPreviewSection.tsx",
+  "src/pages/BlogIndex.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 16,
+ "ms": 209718
+}

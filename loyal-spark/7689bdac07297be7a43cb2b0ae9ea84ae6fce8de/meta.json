@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "7689bdac07297be7a43cb2b0ae9ea84ae6fce8de",
+ "parent": "91f184b7e967ebca535b846bc2f43d7d34ab5bf5",
+ "date": "2026-04-21",
+ "subject": "Добавил Trial и soft-block",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/billing/PlanFeatureGate.tsx",
+  "src/components/merchant/tabs/MarketingTab.tsx",
+  "src/components/onboarding/TrialWelcomeBanner.tsx",
+  "src/pages/GuidePage.tsx",
+  "src/pages/MerchantPage.tsx",
+  "supabase/migrations/20260421043438_19e57328-4a50-41e0-9666-e97982390ce7.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 92624
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "b9b491d270878ccb928b5c3b70e2a179fc0bece6",
+ "date": "2026-04-15",
+ "pr": null,
+ "title": "Добавил поддержку на порталы",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 252 later commits"
+}

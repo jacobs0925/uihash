@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "65972b8551780d38821723aba8d3613fdf2528e1",
+ "date": "2026-04-17",
+ "pr": null,
+ "title": "docs: mark scripts/ as optional dev helpers + sync agent onboarding",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 222 later commits"
+}

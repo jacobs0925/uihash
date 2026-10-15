@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "2ffbf1585d206c65c563b2dfaa7fcddc604171e2",
+ "parent": "d96e462eb60e22d181b3a20a9b10b20c65c078b4",
+ "date": "2026-04-21",
+ "subject": "Заменил иконку на подарок",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/onboarding/TrialWelcomeBanner.tsx",
+  "src/pages/PricingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 103617
+}

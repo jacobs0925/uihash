@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "ce5430db76428a88955d16979f9081bb5e179e11",
+ "parent": "6c84b4d33d275fe3618de8efa042634a4b923641",
+ "date": "2026-03-08",
+ "subject": "Full-width layout and speedup",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/ResourceLibraryModal.tsx",
+  "src/pages/Index.tsx",
+  "src/pages/ZakatAppeal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 18,
+ "ms": 209175
+}

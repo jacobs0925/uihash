@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f476bb7019e016c437079e1e404091d402331a3b",
+ "parent": "e1e1555223e4807025e32b209d7975c682a64a24",
+ "date": "2026-03-08",
+ "subject": "Expanded blog articles batch",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/BlogPreviewSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 71856
+}

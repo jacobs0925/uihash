@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "978d5b306f9d3d179eeef096b4b2dc47e1f3e0aa",
+ "parent": "dbba45b0f88febd14be4c12fd35b2ba9c7d63e95",
+ "date": "2026-04-16",
+ "subject": "fix(ui): align merchant header Profile chip with customer portal",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 91539
+}

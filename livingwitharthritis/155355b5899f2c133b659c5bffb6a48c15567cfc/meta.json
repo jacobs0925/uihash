@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "155355b5899f2c133b659c5bffb6a48c15567cfc",
+ "parent": "4f68e71bad0c6adc1ca31ed3f2d3568a3cdb2e7c",
+ "date": "2026-03-08",
+ "subject": "Optimize website performance",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/components/ui/OptimizedImage.tsx",
+  "src/index.css",
+  "src/pages/Index.tsx",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 201968
+}

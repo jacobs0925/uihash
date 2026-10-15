@@ -5,8 +5,8 @@
  "date": "2026-03-08",
  "pr": null,
  "title": "Revamped header logo layout",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1641 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text-transform: none → ∅ undone by c8ff7a83 \"Improve site UI and performance\"; text: \"30M␟+\" → \"0␟+\" undone by c8ff7a83 \"Improve site UI and performance\"; text: \"15K␟+\" → \"0␟+\" undone by c8ff7a83 \"Improve site UI and performance\""
 }

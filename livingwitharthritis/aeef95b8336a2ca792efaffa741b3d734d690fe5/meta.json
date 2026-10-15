@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "aeef95b8336a2ca792efaffa741b3d734d690fe5",
+ "parent": "bc08a3388587ec4a936ec45eded1d817f11fa06c",
+ "date": "2026-03-08",
+ "subject": "Add Gift Aid calculator",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/StripeDonationModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 66876
+}

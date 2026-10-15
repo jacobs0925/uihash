@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "c8ff7a837cce77aa75a2b889d1c8b81b63a00fdd",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Improve site UI and performance",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-right: 0px → auto undone by ce5430db \"Full-width layout and speedup\"; margin-left: 0px → auto undone by ce5430db \"Full-width layout and speedup\"; margin-right: 0px → auto undone by ce5430db \"Full-width layout and speedup\""
+}

@@ -5,8 +5,8 @@
  "date": "2026-04-15",
  "pr": null,
  "title": "style(header): unify Profile and wallet button dimensions",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 278 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "width: 32px → 36px undone by e7626bc8 \"fix(merchant): hide Profile until signed in; compact header and auth CTAs\"; height: 32px → 36px undone by e7626bc8 \"fix(merchant): hide Profile until signed in; compact header and auth CTAs\"; height: 32px → 36px undone by e7626bc8 \"fix(merchant): hide Profile until signed in; compact header and auth CTAs\""
 }

@@ -7,6 +7,6 @@
  "title": "Reverted to commit 1eaf79a19cb2751b46e13109baeb9f32fe7b75d3",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "padding-top: 40px → 0px undone by f16d05fe \"Add colorful section tints\"; padding-right: 40px → 0px undone by f16d05fe \"Add colorful section tints\"; background-clip: border-box → ∅ undone by f16d05fe \"Add colorful section tints\""
 }

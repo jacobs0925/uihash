@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3f6794502f5af393006b4c875d8f453b44f8a0ad",
+ "parent": "be05b197d2e5f88583a3fe7716822cf9728f16f7",
+ "date": "2026-04-20",
+ "subject": "Добавил прайс-лист на /for-agents",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/agents/PayPerCallPriceList.tsx",
+  "src/pages/ForAgentsPage.tsx",
+  "src/pages/PricingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 7,
+ "ms": 136663
+}

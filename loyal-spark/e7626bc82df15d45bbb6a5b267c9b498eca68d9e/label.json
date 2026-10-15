@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "e7626bc82df15d45bbb6a5b267c9b498eca68d9e",
+ "date": "2026-04-15",
+ "pr": null,
+ "title": "fix(merchant): hide Profile until signed in; compact header and auth CTAs",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "font-size: 12px → 14px undone by f11266a0 \"Унифицировал стили кнопок\"; font-size: 12px → 14px undone by f11266a0 \"Унифицировал стили кнопок\"; font-size: 12px → 14px undone by f11266a0 \"Унифицировал стили кнопок\""
+}

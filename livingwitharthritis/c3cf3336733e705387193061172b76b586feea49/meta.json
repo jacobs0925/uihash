@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "c3cf3336733e705387193061172b76b586feea49",
+ "parent": "b2cf7bba92dddffdfdfbad6ffbb347d2c87907b0",
+ "date": "2026-03-08",
+ "subject": "Revamped UI with dense layout",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/Header.tsx",
+  "src/pages/AboutUs.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 23,
+ "ms": 192874
+}

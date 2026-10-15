@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "c3cf3336733e705387193061172b76b586feea49",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Revamped UI with dense layout",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1633 later commits"
+}

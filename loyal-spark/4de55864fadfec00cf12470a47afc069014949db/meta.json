@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4de55864fadfec00cf12470a47afc069014949db",
+ "parent": "b3a4f9ae7ff8ec7bd1fb4c56a34eb8c26e951dfa",
+ "date": "2026-04-21",
+ "subject": "Добавил 3D preview-страницу",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/Preview3D.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 88366
+}

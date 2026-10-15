@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "6ecb09012514cd2be991eba76cb62af5c0aff38e",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Add graphics and improve pages",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-image: linear-gradient(rgba(243, 244, 246, 0.3), rgb(255, 255, 255)) → ∅ undone by c3cf3336 \"Revamped UI with dense layout\"; position: absolute → relative undone by c3cf3336 \"Revamped UI with dense layout\"; background-image: linear-gradient(rgba(243, 244, 246, 0.3), rgb(255, 255, 255)) → ∅ undone by c3cf3336 \"Revamped UI with dense layout\""
+}

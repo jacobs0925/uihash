@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "fb0d7f2efe5b423706a3e3fbc600462cde5dc2d7",
+ "date": "2026-04-15",
+ "pr": null,
+ "title": "feat: monetization docs, merchant SaaS billing, pricing migrations, admin wallets",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 254 later commits"
+}

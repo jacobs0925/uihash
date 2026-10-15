@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "76c3cfec91cfab2884e423b6bac4ff7e1540cf04",
+ "date": "2026-04-21",
+ "pr": null,
+ "title": "Перепишал питч-дек под SaaS",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 165 later commits"
+}

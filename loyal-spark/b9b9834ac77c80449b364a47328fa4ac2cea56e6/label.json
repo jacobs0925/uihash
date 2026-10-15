@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "b9b9834ac77c80449b364a47328fa4ac2cea56e6",
+ "date": "2026-04-21",
+ "pr": null,
+ "title": "Добавил 3D-клей для блоков",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 164 later commits"
+}

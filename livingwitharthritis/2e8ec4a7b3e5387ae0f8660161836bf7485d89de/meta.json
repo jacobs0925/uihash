@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "2e8ec4a7b3e5387ae0f8660161836bf7485d89de",
+ "parent": "8868c49db81dc1f5861de5f8238ef5ee4ea85cc8",
+ "date": "2026-03-08",
+ "subject": "Add blog helpfulness widget",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/BlogHelpfulness.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/BlogPost.tsx",
+  "supabase/migrations/20260308193541_aeeacf11-8378-4824-aca5-6784faa8d9d3.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 195116
+}

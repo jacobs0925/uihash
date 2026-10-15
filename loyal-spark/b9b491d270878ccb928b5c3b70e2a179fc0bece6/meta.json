@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b9b491d270878ccb928b5c3b70e2a179fc0bece6",
+ "parent": "b512a9dbdcf8ae991fb6df57c1d7527233f959d7",
+ "date": "2026-04-15",
+ "subject": "Добавил поддержку на порталы",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/SupportBanner.tsx",
+  "src/pages/CustomerPage.tsx",
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 106478
+}

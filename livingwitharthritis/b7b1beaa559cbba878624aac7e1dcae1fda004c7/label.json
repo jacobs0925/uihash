@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "b7b1beaa559cbba878624aac7e1dcae1fda004c7",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Add Resource Library modal",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1637 later commits"
+}

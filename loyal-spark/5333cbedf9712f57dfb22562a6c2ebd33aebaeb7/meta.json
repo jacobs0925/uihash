@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5333cbedf9712f57dfb22562a6c2ebd33aebaeb7",
+ "parent": "ed57d54cbf8b93c3350979eda6cf9a9cae75e903",
+ "date": "2026-04-21",
+ "subject": "Сдвинул даты питч-дека",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PitchDeck.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 98905
+}

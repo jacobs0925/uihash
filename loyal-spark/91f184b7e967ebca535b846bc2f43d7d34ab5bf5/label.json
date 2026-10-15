@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "91f184b7e967ebca535b846bc2f43d7d34ab5bf5",
+ "date": "2026-04-21",
+ "pr": null,
+ "title": "Убрал Premium UI и trial UI",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 170 later commits"
+}

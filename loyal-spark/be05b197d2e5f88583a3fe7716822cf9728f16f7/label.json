@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "be05b197d2e5f88583a3fe7716822cf9728f16f7",
+ "date": "2026-04-20",
+ "pr": null,
+ "title": "Объединил шапки навигации",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 174 later commits"
+}

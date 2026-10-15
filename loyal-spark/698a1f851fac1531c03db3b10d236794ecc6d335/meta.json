@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "698a1f851fac1531c03db3b10d236794ecc6d335",
+ "parent": "e1925ece6658c8741a9bd343ba19e962b9058aac",
+ "date": "2026-04-20",
+ "subject": "Добавил навигацию в шапку",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/LandingNav.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 260695
+}

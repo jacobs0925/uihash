@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4f68e71bad0c6adc1ca31ed3f2d3568a3cdb2e7c",
+ "parent": "2e8ec4a7b3e5387ae0f8660161836bf7485d89de",
+ "date": "2026-03-08",
+ "subject": "Add real patient impact stories",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/PatientImpactStories.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 203740
+}

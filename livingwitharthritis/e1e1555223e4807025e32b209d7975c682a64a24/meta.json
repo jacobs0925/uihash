@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "e1e1555223e4807025e32b209d7975c682a64a24",
+ "parent": "84d368f788711261fa013451b0e3eeab9876e7ef",
+ "date": "2026-03-08",
+ "subject": "Fixed exercise descriptions",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 51244
+}

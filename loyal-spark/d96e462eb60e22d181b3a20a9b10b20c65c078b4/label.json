@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "d96e462eb60e22d181b3a20a9b10b20c65c078b4",
+ "date": "2026-04-21",
+ "pr": null,
+ "title": "Убрал дефис в on-chain",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 160 later commits"
+}

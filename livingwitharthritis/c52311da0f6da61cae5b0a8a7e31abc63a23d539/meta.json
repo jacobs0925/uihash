@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "c52311da0f6da61cae5b0a8a7e31abc63a23d539",
+ "parent": "b2ca3d707eef377e391e1d99a25c83593175d52d",
+ "date": "2026-03-08",
+ "subject": "Improve SVG logo curves",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 7,
+ "ms": 74079
+}

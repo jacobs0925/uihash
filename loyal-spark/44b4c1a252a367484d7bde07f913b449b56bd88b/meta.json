@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "44b4c1a252a367484d7bde07f913b449b56bd88b",
+ "parent": "559d10da0d1efd1d1e87c0313fd812d55d096e36",
+ "date": "2026-04-15",
+ "subject": "fix(ui): tighter Profile header chip; Button className merges after variants",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx",
+  "src/components/ui/button.tsx",
+  "src/pages/CustomerPage.tsx",
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 91902
+}

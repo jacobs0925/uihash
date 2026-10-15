@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a15704ce33c78fe35dea8403f746ef9e1d747bb8",
+ "parent": "e7626bc82df15d45bbb6a5b267c9b498eca68d9e",
+ "date": "2026-04-15",
+ "subject": "fix(customer): hide Profile until signed in; optional profile in bottom nav",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/mobile/BottomNavBar.tsx",
+  "src/pages/CustomerPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 96503
+}

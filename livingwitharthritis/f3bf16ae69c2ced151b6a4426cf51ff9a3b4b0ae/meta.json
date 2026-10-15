@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f3bf16ae69c2ced151b6a4426cf51ff9a3b4b0ae",
+ "parent": "f476bb7019e016c437079e1e404091d402331a3b",
+ "date": "2026-03-08",
+ "subject": "Removed UK text from header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 190552
+}

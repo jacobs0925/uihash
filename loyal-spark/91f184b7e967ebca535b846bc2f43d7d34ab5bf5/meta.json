@@ -1,0 +1,43 @@
+{
+ "repo": "loyal-spark",
+ "sha": "91f184b7e967ebca535b846bc2f43d7d34ab5bf5",
+ "parent": "b00187b365c9ab9b8000ea211d65a150d630faac",
+ "date": "2026-04-21",
+ "subject": "Убрал Premium UI и trial UI",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/PremiumExpirationAlert.tsx",
+  "src/components/PremiumStatusBadge.tsx",
+  "src/components/admin/PremiumManagement.tsx",
+  "src/components/agents/AgentBillingDashboard.tsx",
+  "src/components/billing/PlanStatusBadge.tsx",
+  "src/components/customer/CustomerProfileSection.tsx",
+  "src/components/merchant/MerchantProfileSection.tsx",
+  "src/components/mobile/MobileProfileTab.tsx",
+  "src/hooks/useEffectivePlan.ts",
+  "src/hooks/usePageMeta.ts",
+  "src/hooks/usePremiumActivityLog.ts",
+  "src/hooks/usePremiumNotifications.ts",
+  "src/hooks/usePremiumPlans.ts",
+  "src/hooks/useStartTrial.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/AdminPage.tsx",
+  "src/pages/AppPage.tsx",
+  "src/pages/CustomerPage.tsx",
+  "src/pages/MerchantPage.tsx",
+  "src/pages/PremiumPage.tsx",
+  "src/pages/PricingPage.tsx",
+  "supabase/migrations/20260421041539_1fcd6175-6e7d-45d5-9e55-856fd5d0d8aa.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 9,
+ "ms": 154083
+}

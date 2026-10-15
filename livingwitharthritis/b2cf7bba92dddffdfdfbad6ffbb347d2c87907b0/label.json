@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "b2cf7bba92dddffdfdfbad6ffbb347d2c87907b0",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Improve logo dropdown UX",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1634 later commits"
+}

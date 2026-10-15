@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "b7b1beaa559cbba878624aac7e1dcae1fda004c7",
+ "parent": "39966cdd400fb490729ab8dda378c4baf5079029",
+ "date": "2026-03-08",
+ "subject": "Add Resource Library modal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx",
+  "src/components/ResourceLibraryModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 200662
+}

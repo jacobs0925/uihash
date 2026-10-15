@@ -1,0 +1,31 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a13ec6973d15233f5c6c06cf8bd8b946e11da14c",
+ "parent": "10626d173f1089b4d653c423926ab4b4b834adfa",
+ "date": "2026-04-19",
+ "subject": "feat(recipient): prepare loyalty token transfer for rwk_ holders",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "AGENTS.md",
+  "README.md",
+  "docs/README.md",
+  "docs/agents/AUTONOMOUS_AGENT_REGISTRATION.md",
+  "docs/agents/QUICKSTART.md",
+  "docs/deployment/LOVABLE_RECIPIENT_HOLDER_TRANSFER.md",
+  "public/.well-known/skills/03-transfer-tokens.md",
+  "src/constants/recipientMcpToolNames.ts",
+  "src/pages/ForAgentsPage.tsx",
+  "supabase/functions/README.md",
+  "supabase/functions/_shared/recipient-prepare-transfer.ts",
+  "supabase/functions/recipient-api/index.ts",
+  "supabase/functions/recipient-loyalty-mcp/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 107465
+}

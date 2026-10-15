@@ -5,8 +5,8 @@
  "date": "2026-04-14",
  "pr": null,
  "title": "docs(recipient): pass apikey on register curl",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 311 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Recipient keys (rwk_) are for wallets th\" → \"Recipient keys (rwk_) are for wallets th\" undone by a13ec697 \"feat(recipient): prepare loyalty token transfer for rwk_ holders\"; text: \"Recipient keys (rwk_) are for wallets th\" → \"Recipient keys (rwk_) are for wallets th\" undone by a13ec697 \"feat(recipient): prepare loyalty token transfer for rwk_ holders\"; text: \"Recipient keys (rwk_) are for wallets th\" → \"Recipient keys (rwk_) are for wallets th\" undone by a13ec697 \"feat(recipient): prepare loyalty token transfer for rwk_ holders\""
 }

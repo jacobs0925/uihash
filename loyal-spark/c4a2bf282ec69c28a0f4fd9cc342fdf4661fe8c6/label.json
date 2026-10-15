@@ -5,8 +5,8 @@
  "date": "2026-04-14",
  "pr": null,
  "title": "feat(recipient-agents): rwk_ REST + MCP for wallet-bound loyalty holders",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 312 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Base mainnet → \"Base mainnet undone by afc37274 \"feat(agents): SIWE merchant registration, x402 docs, MCP test args\"; text: \"Humans use Privy + the web app.␟use an␟k\" → \"Humans use Privy + the web app.␟use an␟k\" undone by afc37274 \"feat(agents): SIWE merchant registration, x402 docs, MCP test args\"; text: \"Base mainnet → \"Base mainnet undone by afc37274 \"feat(agents): SIWE merchant registration, x402 docs, MCP test args\""
 }

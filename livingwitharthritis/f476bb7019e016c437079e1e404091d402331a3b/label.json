@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "f476bb7019e016c437079e1e404091d402331a3b",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Expanded blog articles batch",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1628 later commits"
+}

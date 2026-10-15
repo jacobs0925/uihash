@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "0404b2848eb21d67aef21c580256350744e8bca8",
+ "parent": "155355b5899f2c133b659c5bffb6a48c15567cfc",
+ "date": "2026-03-08",
+ "subject": "Added accessibility improvements",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/Footer.tsx",
+  "src/components/Header.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 8,
+ "ms": 202899
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "8868c49db81dc1f5861de5f8238ef5ee4ea85cc8",
+ "parent": "aeef95b8336a2ca792efaffa741b3d734d690fe5",
+ "date": "2026-03-08",
+ "subject": "Add recurring monthly donations",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationBanner.tsx",
+  "src/components/StripeDonationModal.tsx",
+  "supabase/functions/create-donation-checkout/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 214226
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5d166eb590b403d70a52aab44fe503201c83136a",
+ "parent": "3f6794502f5af393006b4c875d8f453b44f8a0ad",
+ "date": "2026-04-20",
+ "subject": "Заменил упоминания Coinbase",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/onboarding/BlockchainFAQ.tsx",
+  "src/pages/GuidePage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 89640
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "0d579c62eb7570757627f3e89bd839413463fd0b",
+ "date": "2026-04-15",
+ "pr": null,
+ "title": "Спрятал ThemeToggle на мобильных",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 276 later commits"
+}

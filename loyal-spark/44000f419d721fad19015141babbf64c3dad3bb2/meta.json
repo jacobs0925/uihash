@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "44000f419d721fad19015141babbf64c3dad3bb2",
+ "parent": "4f9bb3b8096fa8bc752d2ce73566f1cea9964b76",
+ "date": "2026-04-20",
+ "subject": "Обновил email на `admin@...",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PricingPage.tsx",
+  "src/pages/legal/PrivacyPage.tsx",
+  "src/pages/legal/RefundPage.tsx",
+  "src/pages/legal/TermsPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 108684
+}

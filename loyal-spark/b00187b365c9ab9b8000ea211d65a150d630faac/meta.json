@@ -1,0 +1,27 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b00187b365c9ab9b8000ea211d65a150d630faac",
+ "parent": "5d166eb590b403d70a52aab44fe503201c83136a",
+ "date": "2026-04-20",
+ "subject": "Исправил навигацию и тарифы",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/components/agents/AgentBillingDashboard.tsx",
+  "src/components/billing/BillingCycleToggle.tsx",
+  "src/components/landing/LandingCTA.tsx",
+  "src/components/merchant/MerchantBillingDashboard.tsx",
+  "src/pages/AppPage.tsx",
+  "src/pages/PricingPage.tsx",
+  "supabase/functions/verify-agent-plan-payment/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 1,
+ "ms": 102453
+}

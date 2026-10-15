@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "dbba45b0f88febd14be4c12fd35b2ba9c7d63e95",
+ "parent": "0eb67808d34f3c56cd62d618b91f3fd117430c01",
+ "date": "2026-04-16",
+ "subject": "Показал суб-навигацию на Home",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 91733
+}

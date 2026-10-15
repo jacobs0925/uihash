@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "b2ca3d707eef377e391e1d99a25c83593175d52d",
+ "parent": "b7b1beaa559cbba878624aac7e1dcae1fda004c7",
+ "date": "2026-03-08",
+ "subject": "Revamped logo with dropdown",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 9,
+ "ms": 200113
+}

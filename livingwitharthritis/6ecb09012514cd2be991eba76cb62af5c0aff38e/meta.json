@@ -1,0 +1,26 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "6ecb09012514cd2be991eba76cb62af5c0aff38e",
+ "parent": "ac4a4c8b239f1a819587205c65ccf3b068675278",
+ "date": "2026-03-08",
+ "subject": "Add graphics and improve pages",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/ui/PageHero.tsx",
+  "src/pages/AboutUs.tsx",
+  "src/pages/BlogIndex.tsx",
+  "src/pages/BlogPost.tsx",
+  "src/pages/Chat.tsx",
+  "src/pages/Sitemap.tsx",
+  "src/pages/conditions/Osteoarthritis.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 45,
+ "ms": 206243
+}

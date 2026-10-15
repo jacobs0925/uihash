@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e7626bc82df15d45bbb6a5b267c9b498eca68d9e",
+ "parent": "0d579c62eb7570757627f3e89bd839413463fd0b",
+ "date": "2026-04-15",
+ "subject": "fix(merchant): hide Profile until signed in; compact header and auth CTAs",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AuthPrompt.tsx",
+  "src/components/ThemeToggle.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 9,
+ "ms": 115174
+}

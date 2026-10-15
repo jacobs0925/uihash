@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "b2cf7bba92dddffdfdfbad6ffbb347d2c87907b0",
+ "parent": "c52311da0f6da61cae5b0a8a7e31abc63a23d539",
+ "date": "2026-03-08",
+ "subject": "Improve logo dropdown UX",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/Header.tsx",
+  "src/pages/SelfHelpTool.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 11,
+ "ms": 208327
+}

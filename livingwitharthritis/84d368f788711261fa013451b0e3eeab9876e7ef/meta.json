@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "84d368f788711261fa013451b0e3eeab9876e7ef",
+ "parent": "f426d80f2fcc1093d601c33a6bb04edfcefc105d",
+ "date": "2026-03-08",
+ "subject": "Harden RLS policies",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/FinalCTASection.tsx",
+  "src/components/landing/QuoteSection.tsx",
+  "supabase/migrations/20260308125809_ec85eead-b239-4277-bc23-ae4efd96f5f7.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 7,
+ "ms": 86704
+}

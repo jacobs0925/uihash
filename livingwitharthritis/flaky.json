@@ -1,8 +1,11 @@
 [
+ "about|focus||a11y|accessibility tree|added: button \"Close cookie banner\"|added: img|added: heading \"We use cookies\" [level=3]|added: link \"Cookies Policy\"|added: link \"Privacy Policy\"|… and 2 more",
+ "about|focus||same-data|div (same data, drawn differently)|added: div (\"We use cookies We use essential cookies \")",
  "about|focus||same-data|div (same data, drawn differently)|removed: 4 × div",
  "about|hover||same-data|div (same data, drawn differently)|added: 4 × div",
  "home|default||a11y|accessibility tree|removed: button \"Close notification\": ×",
  "home|default||a11y|accessibility tree|removed: button \"Close notification\"|removed: img",
+ "home|default||a11y|accessibility tree|removed: img",
  "home|default||a11y|accessibility tree|removed: img|removed: button \"Dismiss notifications\"",
  "home|default||layout|layout: invisible but still takes clicks|invisible but still takes clicks: 2 elements, e.g. div.bg-accent/50.rounded-2xl.p-10.sm:p-14.lg:p-20.relative.border.border-border/20 (opacity 0, in the base: not in the base)",
  "home|default||layout|layout: invisible but still takes clicks|invisible but still takes clicks: 2 elements, e.g. div.bg-card.rounded-[2rem].p-10.sm:p-14.lg:p-20.relative.overflow-hidden.border.border-border/20.shadow-soft (opacity 0, in the base: not in the base)",

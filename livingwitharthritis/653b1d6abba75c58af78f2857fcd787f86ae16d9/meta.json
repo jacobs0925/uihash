@@ -1,0 +1,27 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "653b1d6abba75c58af78f2857fcd787f86ae16d9",
+ "parent": "0404b2848eb21d67aef21c580256350744e8bca8",
+ "date": "2026-03-08",
+ "subject": "Add Diet & Exercise Pillar Pages",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/sitemap.xml",
+  "src/App.tsx",
+  "src/components/Footer.tsx",
+  "src/components/Header.tsx",
+  "src/pages/DietHub.tsx",
+  "src/pages/ExerciseHub.tsx",
+  "src/pages/Sitemap.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 12,
+ "ms": 228494
+}

@@ -1,0 +1,36 @@
+{
+ "repo": "loyal-spark",
+ "sha": "afc37274014bd3068b54b5c8cf91a04233bcf2a1",
+ "parent": "ae4b7638cb949daa6906b08bc6d27a104372cb9c",
+ "date": "2026-04-17",
+ "subject": "feat(agents): SIWE merchant registration, x402 docs, MCP test args",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "AGENTS.md",
+  "docs/README.md",
+  "docs/agents/AUTONOMOUS_AGENT_REGISTRATION.md",
+  "docs/agents/QUICKSTART.md",
+  "docs/agents/X402_MCP_AND_BAZAAR.md",
+  "public/.well-known/agent.json",
+  "public/.well-known/ai-plugin.json",
+  "public/.well-known/skills/00-getting-started.md",
+  "public/.well-known/skills/index.md",
+  "public/llms-full.txt",
+  "public/llms.txt",
+  "scripts/x402-paid-mcp-test/package.json",
+  "scripts/x402-paid-mcp-test/run.mjs",
+  "src/constants/mcpToolNames.ts",
+  "src/pages/ForAgentsPage.tsx",
+  "supabase/config.toml",
+  "supabase/functions/README.md",
+  "supabase/functions/agent-register-siwe/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 10,
+ "ms": 106463
+}

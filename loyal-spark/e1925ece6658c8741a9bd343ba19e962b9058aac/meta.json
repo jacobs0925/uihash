@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e1925ece6658c8741a9bd343ba19e962b9058aac",
+ "parent": "3b3645bd173748f5b34ef5ac9fede92ab04af55f",
+ "date": "2026-04-20",
+ "subject": "Добавил инва-баннер и email",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/NotifyMe.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Index.tsx",
+  "src/pages/PremiumPage.tsx",
+  "src/pages/PricingPage.tsx",
+  "supabase/migrations/20260420181917_76effc78-013e-40de-953e-559029bff7c1.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 5,
+ "ms": 223049
+}

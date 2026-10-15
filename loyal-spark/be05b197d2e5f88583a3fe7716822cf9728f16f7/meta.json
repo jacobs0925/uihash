@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "be05b197d2e5f88583a3fe7716822cf9728f16f7",
+ "parent": "878ec50cfc7495368e2d58dd4e2929909d1cbdd7",
+ "date": "2026-04-20",
+ "subject": "Объединил шапки навигации",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/ApiDocsPage.tsx",
+  "src/pages/ForAgentsPage.tsx",
+  "src/pages/GuidePage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 28,
+ "ms": 155701
+}

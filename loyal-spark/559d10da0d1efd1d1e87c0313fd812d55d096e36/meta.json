@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "559d10da0d1efd1d1e87c0313fd812d55d096e36",
+ "parent": "a15704ce33c78fe35dea8403f746ef9e1d747bb8",
+ "date": "2026-04-15",
+ "subject": "Сместил кнопку темы влево",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 91049
+}

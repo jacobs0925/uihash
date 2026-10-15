@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "d7ebf8f3a94ecc94aaabeccad709a6232017e074",
+ "date": "2026-04-21",
+ "pr": null,
+ "title": "Перенес clay-стиль в дизайн-систему",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 166 later commits"
+}

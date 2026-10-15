@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "76c3cfec91cfab2884e423b6bac4ff7e1540cf04",
+ "parent": "d7ebf8f3a94ecc94aaabeccad709a6232017e074",
+ "date": "2026-04-21",
+ "subject": "Перепишал питч-дек под SaaS",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PitchDeck.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 25,
+ "ms": 113982
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "6f634af4bdcb3c824f44a8686bcbec6ef2269ecd",
+ "parent": "37e39c88f1c088da2c141fcc9724879240543151",
+ "date": "2026-04-18",
+ "subject": "Упростил карточки офферов",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/marketing/PersonalizedOffers.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 87648
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "9a7c17ba7caf3d673c57833adb40e877861b857f",
+ "parent": "00f8362e35a5fcb320d7579ad5efd151f204a0b0",
+ "date": "2026-04-20",
+ "subject": "Обновил гайд: цены агентов, секции",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/GuidePage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 88355
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "878ec50cfc7495368e2d58dd4e2929909d1cbdd7",
+ "parent": "aab0ff7cf10a902ad5202fcdf45b3e727d0a4d4f",
+ "date": "2026-04-20",
+ "subject": "Добавил SiteHeader на pages",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/SiteHeader.tsx",
+  "src/pages/PricingPage.tsx",
+  "src/pages/legal/PrivacyPage.tsx",
+  "src/pages/legal/RefundPage.tsx",
+  "src/pages/legal/TermsPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 120410
+}

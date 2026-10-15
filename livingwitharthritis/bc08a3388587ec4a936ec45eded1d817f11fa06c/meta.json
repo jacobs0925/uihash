@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "bc08a3388587ec4a936ec45eded1d817f11fa06c",
+ "parent": "c8ff7a837cce77aa75a2b889d1c8b81b63a00fdd",
+ "date": "2026-03-08",
+ "subject": "Add NPS and comments to feedback",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FeedbackPopup.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260308192942_ca7c4ec3-4e5f-42b4-b3e7-643467710367.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 68716
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3b3645bd173748f5b34ef5ac9fede92ab04af55f",
+ "parent": "a74ebee5c23d48ea255c885b210198341331905c",
+ "date": "2026-04-20",
+ "subject": "Создал pricing и legal-страницы",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/PricingPage.tsx",
+  "src/pages/legal/PrivacyPage.tsx",
+  "src/pages/legal/RefundPage.tsx",
+  "src/pages/legal/TermsPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 88954
+}

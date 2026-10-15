@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "8dc6ce6b66c498a1349e4baf34d7fa6a942a3c45",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Enhance content and backend",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text-align: start → ∅ undone by ac4a4c8b \"Enhanced Resource Library Drawer app\"; line-height: 1.7 → ∅ undone by ac4a4c8b \"Enhanced Resource Library Drawer app\"; font-size: 16px → ∅ undone by ac4a4c8b \"Enhanced Resource Library Drawer app\""
+}

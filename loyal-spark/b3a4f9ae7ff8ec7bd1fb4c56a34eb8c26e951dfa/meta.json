@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b3a4f9ae7ff8ec7bd1fb4c56a34eb8c26e951dfa",
+ "parent": "7689bdac07297be7a43cb2b0ae9ea84ae6fce8de",
+ "date": "2026-04-21",
+ "subject": "Синхронизировал tab по URL",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 92753
+}

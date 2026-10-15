@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "38d5717d7b4bd0567ea9e498be925d150cfe5985",
+ "parent": "6ded9f25e45556f567acde191cbd0ab537ff3e72",
+ "date": "2026-04-15",
+ "subject": "Added RLS admin policy",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/agents/AgentReportsDashboard.tsx",
+  "supabase/migrations/20260415090104_4a0028e7-53b7-40cb-9860-d019b38e8ac1.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 91269
+}

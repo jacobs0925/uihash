@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "44000f419d721fad19015141babbf64c3dad3bb2",
+ "date": "2026-04-20",
+ "pr": null,
+ "title": "Обновил email на `admin@...",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 177 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "5333cbedf9712f57dfb22562a6c2ebd33aebaeb7",
+ "date": "2026-04-21",
+ "pr": null,
+ "title": "Сдвинул даты питч-дека",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text-transform: ∅ → none undone by 76c3cfec \"Перепишал питч-дек под SaaS\"; text-transform: ∅ → none undone by 76c3cfec \"Перепишал питч-дек под SaaS\"; text-transform: ∅ → none undone by 76c3cfec \"Перепишал питч-дек под SaaS\""
+}

@@ -1,0 +1,28 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "8ed6eeafc5c5cba8c0f0e8e3268a6a4366689f18",
+ "parent": "8081b81ae656b7e62c1a86f583fb8e0d91122850",
+ "date": "2026-03-08",
+ "subject": "Add back-to-top UX and ReadingTime",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/Header.tsx",
+  "src/components/HeroSection.css",
+  "src/components/HeroSection.tsx",
+  "src/components/ScrollProgress.tsx",
+  "src/components/landing/BlogPreviewSection.tsx",
+  "src/components/ui/BackToTop.tsx",
+  "src/components/ui/ReadingTime.tsx",
+  "src/pages/BlogIndex.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 14,
+ "ms": 196801
+}

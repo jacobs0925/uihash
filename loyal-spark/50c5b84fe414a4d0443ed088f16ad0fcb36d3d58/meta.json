@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "50c5b84fe414a4d0443ed088f16ad0fcb36d3d58",
+ "parent": "5333cbedf9712f57dfb22562a6c2ebd33aebaeb7",
+ "date": "2026-04-21",
+ "subject": "Добавил beta-бейджи и smoke",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/LandingRoundUp.tsx",
+  "src/components/roundup/RoundUpDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90171
+}

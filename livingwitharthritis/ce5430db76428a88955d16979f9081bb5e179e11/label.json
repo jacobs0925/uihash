@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "ce5430db76428a88955d16979f9081bb5e179e11",
+ "date": "2026-03-08",
+ "pr": null,
+ "title": "Full-width layout and speedup",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1617 later commits"
+}

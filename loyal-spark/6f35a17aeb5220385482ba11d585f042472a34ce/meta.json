@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "6f35a17aeb5220385482ba11d585f042472a34ce",
+ "parent": "7e561d7eb652402aaa448c8eadf31a7d6261c506",
+ "date": "2026-04-19",
+ "subject": "Исправил сброс флага при входе",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthPrompt.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 88881
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "b5cd420b420dfa0644ca77e153bb4b7601defdaa",
+ "parent": "7751e547387d0e9ca5c83beb473c56de4306d36c",
+ "date": "2025-12-01",
+ "subject": "Fix show diff regression",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27601
+}

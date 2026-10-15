@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e77a2bd5f2c68ff1dc1c15f4d3257e36fba86c08",
+ "parent": "3f0187ea2629c3bee63f3490f51e75c10fe1db72",
+ "date": "2026-04-21",
+ "subject": "Унифицировал MCP URL на API",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "README.md",
+  "src/components/agents/AgentManagement.tsx",
+  "src/components/api-docs/McpServerSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 89583
+}

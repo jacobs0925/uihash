@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "304a76df954578818bff2c75e0ee4053db27c1f5",
+ "date": "2026-05-18",
+ "pr": null,
+ "title": "Согласовал цифры и удалён рандомайзер",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 42 later commits"
+}

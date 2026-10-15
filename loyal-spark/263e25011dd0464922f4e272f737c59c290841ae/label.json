@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "263e25011dd0464922f4e272f737c59c290841ae",
+ "date": "2026-04-21",
+ "pr": null,
+ "title": "Выровнял URL публичных API",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 136 later commits"
+}

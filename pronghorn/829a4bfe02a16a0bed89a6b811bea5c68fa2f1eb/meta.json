@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "829a4bfe02a16a0bed89a6b811bea5c68fa2f1eb",
+ "parent": "40785d7339eeb302dd88676fda9dedbc672f05bf",
+ "date": "2025-12-02",
+ "subject": "Fix scroll jump on lazy load",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27272
+}

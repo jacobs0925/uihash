@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "9c144dd8e009ba1e8f834f6a31b3e31f441f88d6",
+ "parent": "79bda14ce406d4b6da00f5daa671c649fe685758",
+ "date": "2026-05-10",
+ "subject": "Доработал сертификаты UDS",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/certificates/ActivateCertificate.tsx",
+  "src/components/certificates/MyCertificates.tsx",
+  "supabase/migrations/20260510171109_bac1f41d-7b17-410c-b5c3-36ed3bc2e576.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90710
+}

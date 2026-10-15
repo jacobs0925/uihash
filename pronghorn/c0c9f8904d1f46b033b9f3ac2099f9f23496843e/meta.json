@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c0c9f8904d1f46b033b9f3ac2099f9f23496843e",
+ "parent": "04277f42f07fe942c4a837070e6a38f8caf2d6aa",
+ "date": "2025-12-01",
+ "subject": "Adjust indicator color to blue-grey",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27262
+}

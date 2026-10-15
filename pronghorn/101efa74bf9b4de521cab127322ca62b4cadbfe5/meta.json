@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "101efa74bf9b4de521cab127322ca62b4cadbfe5",
+ "parent": "f1d00c20a96a94465d6a29caa2dc742f2cbfe603",
+ "date": "2025-12-01",
+ "subject": "Guard against undefined attachedFiles",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27648
+}

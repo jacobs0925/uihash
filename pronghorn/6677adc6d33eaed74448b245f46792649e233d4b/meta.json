@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "6677adc6d33eaed74448b245f46792649e233d4b",
+ "parent": "c8394220d79bd7f1146c5410c6a618482ff5a527",
+ "date": "2025-12-02",
+ "subject": "Fix edit_lines delete EOF",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/coding-agent-orchestrator/index.ts",
+  "supabase/migrations/20251202051810_56073955-bf6c-4d40-91a6-4a3dfd1a3372.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27363
+}

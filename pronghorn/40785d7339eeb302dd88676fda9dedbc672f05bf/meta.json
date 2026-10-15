@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "40785d7339eeb302dd88676fda9dedbc672f05bf",
+ "parent": "67d9b2101adee11e664a840baedf314d242d91d4",
+ "date": "2025-12-02",
+ "subject": "Auto reload editor key",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27411
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ae2700d311b12526cc67796eab0e5ea83d197feb",
+ "parent": "06a74c810738eb9c7ad24badce22a3521236857a",
+ "date": "2026-04-23",
+ "subject": "Исправил активацию наград",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90581
+}

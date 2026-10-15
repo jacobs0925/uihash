@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "172ac76592f4e6f4d3bcfa0b6a2f206a10e3c93b",
+ "parent": "c0c9f8904d1f46b033b9f3ac2099f9f23496843e",
+ "date": "2025-12-01",
+ "subject": "Remove Creating in root indicator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27158
+}

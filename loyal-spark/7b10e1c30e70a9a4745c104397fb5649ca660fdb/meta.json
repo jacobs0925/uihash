@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "7b10e1c30e70a9a4745c104397fb5649ca660fdb",
+ "parent": "83144c6c434f89038645146256f40f0a01be16f5",
+ "date": "2026-04-22",
+ "subject": "Подсветил кнопку Issue Tokens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MintTokensDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 89137
+}

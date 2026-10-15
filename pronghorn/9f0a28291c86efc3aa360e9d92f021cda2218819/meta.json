@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "9f0a28291c86efc3aa360e9d92f021cda2218819",
+ "parent": "35d1486674e885e99a9cc9d6298d8b7cf17db7ea",
+ "date": "2025-12-01",
+ "subject": "Set folder as creating location",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentFileTree.tsx",
+  "src/components/repository/CreateFileDialog.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27717
+}

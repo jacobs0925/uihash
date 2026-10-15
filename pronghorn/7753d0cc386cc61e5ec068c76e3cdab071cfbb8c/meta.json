@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7753d0cc386cc61e5ec068c76e3cdab071cfbb8c",
+ "parent": "bd17397522c8c60dd21299fbf107e34beb4c06c1",
+ "date": "2025-12-01",
+ "subject": "Show deleted diffs by default",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27345
+}

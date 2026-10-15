@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "82f0d48eb51636549c3e6d650c1d7c2907b96e30",
+ "date": "2026-04-22",
+ "pr": null,
+ "title": "Устранил петлю привязки аккаунта",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by a0d155e1, which restored f2dac512 (13 commits discarded)"
+}

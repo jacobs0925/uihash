@@ -1,0 +1,36 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ea637762f10bc85e4fe27d534f12a6024baf7717",
+ "parent": "e6aac4b800be1151898e07e0c678cf13699ff781",
+ "date": "2026-05-11",
+ "subject": "Добавил недостающие эндпоинты",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "docs/integrations/FARCASTER_APP_README.md",
+  "public/.well-known/agent.json",
+  "public/.well-known/skills/12-gift-certificates.md",
+  "public/.well-known/skills/index.md",
+  "public/.well-known/x402",
+  "public/.well-known/x402.json",
+  "public/llms-full.txt",
+  "public/llms.txt",
+  "public/openapi.json",
+  "scripts/generate-openapi.mjs",
+  "src/constants/mcpToolNames.ts",
+  "src/constants/recipientMcpToolNames.ts",
+  "src/hooks/usePageMeta.ts",
+  "src/pages/GuidePage.tsx",
+  "supabase/functions/_shared/mcp-bazaar-tools.ts",
+  "supabase/functions/_shared/recipient-mcp-bazaar-tools.ts",
+  "supabase/functions/loyalty-mcp/index.ts",
+  "supabase/functions/recipient-loyalty-mcp/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 89479
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a571009893bd38f3282017518e432dba26df833f",
+ "parent": "a33733de98887ca114bfbfef7ae9f832636d73da",
+ "date": "2026-04-22",
+ "subject": "Translated UI to English",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/identity/LinkExternalWalletCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 88668
+}

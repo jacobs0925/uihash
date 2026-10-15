@@ -1,0 +1,31 @@
+{
+ "repo": "loyal-spark",
+ "sha": "102c3ca733a56ec6d7193b27907091b9cf04dfac",
+ "parent": "7b10e1c30e70a9a4745c104397fb5649ca660fdb",
+ "date": "2026-04-22",
+ "subject": "Убрал `any` в ~10 файлах",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/EarnPointsDialog.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/components/MintTokensDialog.tsx",
+  "src/components/agents/AgentManagement.tsx",
+  "src/components/automation/AutomationHistory.tsx",
+  "src/components/automation/AutomationRulesList.tsx",
+  "src/components/rewards/CreateReward.tsx",
+  "src/components/rewards/VouchersManagement.tsx",
+  "src/components/team/MyTeamMembership.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/hooks/usePremiumPayment.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 88840
+}

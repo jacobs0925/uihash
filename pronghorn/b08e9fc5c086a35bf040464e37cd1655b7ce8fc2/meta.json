@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "b08e9fc5c086a35bf040464e37cd1655b7ce8fc2",
+ "parent": "e06a2cb26a6be3ed3b0e3477ed5602e154f7d6a8",
+ "date": "2025-12-02",
+ "subject": "Constrain mobile chat area",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27115
+}

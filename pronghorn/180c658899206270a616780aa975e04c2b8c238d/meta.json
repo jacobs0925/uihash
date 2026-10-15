@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "180c658899206270a616780aa975e04c2b8c238d",
+ "parent": "9ac18ff2d94665e8cd16cb945d68c92b71e03846",
+ "date": "2025-12-02",
+ "subject": "Fix mobile chat history scroll",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/scroll-area.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27109
+}

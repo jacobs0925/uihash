@@ -1,0 +1,27 @@
+{
+ "repo": "loyal-spark",
+ "sha": "f2dac512da2e21ea304ac04bff837c5a6f61905f",
+ "parent": "d883133513f86c89d9f450d750de7a1933b995c0",
+ "date": "2026-04-22",
+ "subject": "Added moderation system",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/BannedScreen.tsx",
+  "src/components/admin/UserManagement.tsx",
+  "src/hooks/useBanStatus.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/AdminPage.tsx",
+  "supabase/migrations/20260422165333_450014b9-cda0-49f3-9f73-5dab1742992a.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 126283
+}

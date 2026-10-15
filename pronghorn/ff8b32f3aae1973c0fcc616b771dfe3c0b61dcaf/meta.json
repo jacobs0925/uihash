@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "ff8b32f3aae1973c0fcc616b771dfe3c0b61dcaf",
+ "parent": "0f05a9053cb9e0f05a3b2ee46f5726b2090b5882",
+ "date": "2025-12-02",
+ "subject": "Move gear icon to chat input",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27387
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "db50f3c63f2c85bc9a4966f6b3243935f5041f24",
+ "parent": "258bbda3cd17b6f5d5018c6bb8c269a75dd8c697",
+ "date": "2026-05-24",
+ "subject": "Укрепил auth и закрыл bypass",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "src/hooks/usePrivySafe.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90882
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "7d4af53d491d8e102651bdda8d014f2d5a76d14e",
+ "parent": "aefcad86bc26482b3055d2a39c07b4e4c3000887",
+ "date": "2026-05-27",
+ "subject": "Stabilized payment & auth",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "supabase/functions/_shared/recipient-redeem.ts",
+  "supabase/functions/_shared/x402-bazaar-accept.ts",
+  "supabase/functions/agent-api/index.ts",
+  "supabase/functions/loyalty-mcp/index.ts",
+  "supabase/functions/mpp-gateway/index.ts",
+  "supabase/functions/x402-gateway/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 91625
+}

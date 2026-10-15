@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "969c230bb97983e16129cc66b599b3efc02c480e",
+ "parent": "6b6b31743640fcf89fbc0c0801e7c6c78ca68759",
+ "date": "2026-04-22",
+ "subject": "Added partial unique indexes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/customer/CustomerProfileSection.tsx",
+  "supabase/migrations/20260422175625_232221e6-1409-4961-94d4-ffc11467eccd.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90067
+}

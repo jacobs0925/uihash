@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e9927a3f02c803dc146996179707e7e6480bab56",
+ "parent": "969c230bb97983e16129cc66b599b3efc02c480e",
+ "date": "2026-04-22",
+ "subject": "Убрал дубли useEffect",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/customer/CustomerProfileSection.tsx",
+  "src/components/identity/SecondaryWalletNotice.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/hooks/usePrivySafe.ts",
+  "supabase/functions/privy-auth/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90966
+}

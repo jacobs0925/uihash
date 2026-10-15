@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "03f8c8d639fe9b1f082b6f1f353211ca7ac92efc",
+ "parent": "b08e9fc5c086a35bf040464e37cd1655b7ce8fc2",
+ "date": "2025-12-02",
+ "subject": "Enable mobile tab auto-switch",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27328
+}

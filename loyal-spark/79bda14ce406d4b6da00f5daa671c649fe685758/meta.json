@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "79bda14ce406d4b6da00f5daa671c649fe685758",
+ "parent": "4ba8c1ea55d3150483f2b95d0657fc57941f0321",
+ "date": "2026-04-29",
+ "subject": "Исправил RFM маппинг и логику",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/automation/CreateAutomationRule.tsx",
+  "src/components/certificates/ActivateCertificate.tsx",
+  "src/components/certificates/MyCertificates.tsx",
+  "src/components/merchant/tabs/CertificatesTab.tsx",
+  "src/pages/MerchantPage.tsx",
+  "supabase/functions/process-automation/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 96998
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "e60da5dac263ad4955d9b53945f9fe5821490f2e",
+ "date": "2026-04-25",
+ "pr": null,
+ "title": "Продлил trial на 45 дней",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 65 later commits"
+}

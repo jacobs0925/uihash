@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "23a33c1bfdf6d42525aa88d4e78e78d589478bd8",
+ "parent": "2f3c816e12f410d4c8045bf46b691e58c692e0e5",
+ "date": "2025-12-01",
+ "subject": "Persist show diff across files",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27093
+}

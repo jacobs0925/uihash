@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e800191744e65496a21034e3c2bfcfb60886c3f1",
+ "parent": "6e441ebe787fecb458abb33ce1df7be12a300f8a",
+ "date": "2026-04-22",
+ "subject": "Убрал lag при табах на моб.",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/mobile/BottomNavBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90025
+}

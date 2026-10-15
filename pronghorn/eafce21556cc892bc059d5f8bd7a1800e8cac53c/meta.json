@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "eafce21556cc892bc059d5f8bd7a1800e8cac53c",
+ "parent": "e93074df73effc47b844d17f6176595edb2ddb14",
+ "date": "2025-12-02",
+ "subject": "Fix push commit logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27354
+}

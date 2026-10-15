@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "9da3add1a6d0bb1bebea112a40f3bcbf26660801",
+ "parent": "d0c3eae5568ab707d02b8bc731a65e17253dd3bd",
+ "date": "2025-12-01",
+ "subject": "Fix reload on showDeletedFiles toggle",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27438
+}

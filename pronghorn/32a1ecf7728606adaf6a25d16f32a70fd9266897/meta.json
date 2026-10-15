@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "32a1ecf7728606adaf6a25d16f32a70fd9266897",
+ "parent": "dbcd68ede5bf66944c91e3b973de6fa10fcaf837",
+ "date": "2025-12-02",
+ "subject": "Fix auth and hook order",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Repository.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27505
+}

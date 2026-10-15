@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3f0187ea2629c3bee63f3490f51e75c10fe1db72",
+ "parent": "44fe71e9ca1d72967e25be1c4f09c4db9e04756c",
+ "date": "2026-04-21",
+ "subject": "Привёл кнопки к стилю clay-pills",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx",
+  "src/pages/CustomerPage.tsx",
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 117607
+}

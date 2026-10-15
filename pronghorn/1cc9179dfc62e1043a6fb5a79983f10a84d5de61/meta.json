@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "1cc9179dfc62e1043a6fb5a79983f10a84d5de61",
+ "parent": "c06cb0fb03a1ae52586560927ae31a2a74e67c7e",
+ "date": "2025-12-02",
+ "subject": "Fix chat history via new RPC",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251202143909_f0c60db4-befb-42b8-8fa9-f007210f3499.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27665
+}

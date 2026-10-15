@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "df61dd9f67e9bb7cac132475d2e73f96623a580b",
+ "parent": "61144317da79463b98256f79d41573eb795ab518",
+ "date": "2026-04-23",
+ "subject": "Переписал слоган под возможности",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/LandingHero.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90468
+}

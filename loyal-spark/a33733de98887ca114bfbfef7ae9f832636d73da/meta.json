@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a33733de98887ca114bfbfef7ae9f832636d73da",
+ "parent": "7579e87f26db154c2ac51d7a6536742ccddb5edd",
+ "date": "2026-04-22",
+ "subject": "Добавил привязку MetaMask",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/customer/CustomerProfileSection.tsx",
+  "src/components/identity/LinkExternalWalletCard.tsx",
+  "src/hooks/usePrivySafe.ts",
+  "supabase/functions/link-secondary-wallet/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 89155
+}

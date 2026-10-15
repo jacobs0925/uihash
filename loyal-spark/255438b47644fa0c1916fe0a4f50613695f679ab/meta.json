@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "255438b47644fa0c1916fe0a4f50613695f679ab",
+ "parent": "2ffbf1585d206c65c563b2dfaa7fcddc604171e2",
+ "date": "2026-04-21",
+ "subject": "Вынес ready() в main.tsx",
+ "components": [
+  "main.tsx"
+ ],
+ "files": [
+  "src/main.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 106347
+}

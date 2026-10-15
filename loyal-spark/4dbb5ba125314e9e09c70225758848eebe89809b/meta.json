@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4dbb5ba125314e9e09c70225758848eebe89809b",
+ "parent": "e60da5dac263ad4955d9b53945f9fe5821490f2e",
+ "date": "2026-04-26",
+ "subject": "Добавил настройки баллов в форму",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreateLoyaltyProgram.tsx",
+  "src/components/merchant/tabs/ProgramsTab.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 88376
+}

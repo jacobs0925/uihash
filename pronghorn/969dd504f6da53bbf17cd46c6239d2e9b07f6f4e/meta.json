@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "969dd504f6da53bbf17cd46c6239d2e9b07f6f4e",
+ "parent": "4e060d6d3be978718d9a1ebe51976447145582a1",
+ "date": "2025-12-01",
+ "subject": "Add scroll to bottom button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27344
+}

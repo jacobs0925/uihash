@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "2bad416d9861bf35759270ac84a469681ea6c55b",
+ "parent": "23a33c1bfdf6d42525aa88d4e78e78d589478bd8",
+ "date": "2025-12-01",
+ "subject": "Add file/folder icons in Build",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/CreateFileDialog.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27177
+}

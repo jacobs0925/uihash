@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "252d4c65ed5cbf114c8e4f830b03a25bf01b7fda",
+ "parent": "829a4bfe02a16a0bed89a6b811bea5c68fa2f1eb",
+ "date": "2025-12-02",
+ "subject": "Anchor scroll preserve for chat",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27268
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "261851082228b63a680666f0223ca628bd53afcd",
+ "parent": "ee40cd0e66565ef2e6ce830bc06e7605e87f7dff",
+ "date": "2026-04-22",
+ "subject": "Заменил иконки в UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/billing/PlanFeatureGate.tsx",
+  "src/components/billing/PlanStatusBadge.tsx",
+  "src/components/customer/MerchantDiscoverPanel.tsx",
+  "src/components/referral/ReferralCodeInput.tsx",
+  "src/pages/ForAgentsPage.tsx",
+  "src/pages/Preview3D.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 5,
+ "ms": 172867
+}

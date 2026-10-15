@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "fb204fa57f040a723342d93960ff1a39d8977bea",
+ "parent": "a1bdeb08ae118c7b8b5a95c2f9b7d949cda894ba",
+ "date": "2025-12-02",
+ "subject": "Fix chat scroll area height",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27407
+}

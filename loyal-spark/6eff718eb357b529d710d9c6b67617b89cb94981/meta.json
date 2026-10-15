@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "6eff718eb357b529d710d9c6b67617b89cb94981",
+ "parent": "b14b807a953c1d08ab68980ea54e16c399313ba2",
+ "date": "2026-05-14",
+ "subject": "Fixed 4 SEO issues",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/hooks/usePageMeta.ts",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 124931
+}

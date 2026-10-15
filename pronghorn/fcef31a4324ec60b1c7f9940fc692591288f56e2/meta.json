@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "fcef31a4324ec60b1c7f9940fc692591288f56e2",
+ "parent": "ff8b32f3aae1973c0fcc616b771dfe3c0b61dcaf",
+ "date": "2025-12-02",
+ "subject": "Stack chat icons vertically",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27346
+}

@@ -1,0 +1,28 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e60da5dac263ad4955d9b53945f9fe5821490f2e",
+ "parent": "61259297490bc9005e6da0774744c8bcd2c9655c",
+ "date": "2026-04-25",
+ "subject": "Продлил trial на 45 дней",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/admin/PremiumManagement.tsx",
+  "src/components/onboarding/TrialWelcomeBanner.tsx",
+  "src/hooks/useEffectivePlan.ts",
+  "src/hooks/usePageMeta.ts",
+  "src/hooks/useStartTrial.ts",
+  "src/pages/GuidePage.tsx",
+  "src/pages/MerchantPage.tsx",
+  "src/pages/PricingPage.tsx",
+  "supabase/migrations/20260425195448_b7f7dd11-7c57-4d08-bf9d-a14138c490fb.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 1,
+ "ms": 107290
+}

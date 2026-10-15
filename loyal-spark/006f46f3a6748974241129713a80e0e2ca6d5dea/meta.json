@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "006f46f3a6748974241129713a80e0e2ca6d5dea",
+ "parent": "ed58800d8a33e91669c042e8ad03883bd8607993",
+ "date": "2026-06-06",
+ "subject": "Added Case Studies section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/sitemap.xml",
+  "src/components/landing/CaseStudies.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 209601
+}

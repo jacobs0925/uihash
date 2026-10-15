@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "2dbd44469c871c26dfa987d93c1871a47a90e078",
+ "parent": "31858ee5f23d406ec1bc552d01d7ff66f7184139",
+ "date": "2026-05-10",
+ "subject": "Убрал ввод кода у покупателя",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerPanel.tsx",
+  "src/components/certificates/MyCertificates.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90540
+}

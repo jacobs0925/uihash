@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4f8830547ef2923cce19c6129cf4b684774be17d",
+ "parent": "2a45b8aef105d46deabb9a37f6b687035c9ad279",
+ "date": "2026-04-23",
+ "subject": "Показал кнопку внешнего кошелька",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/identity/LinkedAccounts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 91852
+}

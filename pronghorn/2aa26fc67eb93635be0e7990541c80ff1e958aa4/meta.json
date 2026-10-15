@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2aa26fc67eb93635be0e7990541c80ff1e958aa4",
+ "parent": "fb204fa57f040a723342d93960ff1a39d8977bea",
+ "date": "2025-12-02",
+ "subject": "Wrap chat content on mobile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27207
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "5f62998e36b6dc9370342efa03b7d5b15d0853e3",
+ "parent": "180c658899206270a616780aa975e04c2b8c238d",
+ "date": "2025-12-02",
+ "subject": "Improve mobile chat scroll",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/scroll-area.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27201
+}

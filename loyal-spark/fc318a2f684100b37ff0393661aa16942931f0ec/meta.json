@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "fc318a2f684100b37ff0393661aa16942931f0ec",
+ "parent": "6bce7ae47121eae698134bc4f833bf5dcac2641c",
+ "date": "2026-04-23",
+ "subject": "Handled AuthContext in HMR",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/ConnectorRecoveryListener.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 89284
+}

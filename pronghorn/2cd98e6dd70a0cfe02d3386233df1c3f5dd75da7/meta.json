@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2cd98e6dd70a0cfe02d3386233df1c3f5dd75da7",
+ "parent": "9f0a28291c86efc3aa360e9d92f021cda2218819",
+ "date": "2025-12-01",
+ "subject": "Enhance push flow in build",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26919
+}

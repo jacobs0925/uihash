@@ -1,0 +1,28 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e5db5ff7056084dc60a38a70949f0d3efea0e7e1",
+ "parent": "a6a097e8ea9705cb6e8fa06bd2d9a0d6a07acd9a",
+ "date": "2026-04-27",
+ "subject": "Реализовал MVP MVP с escrow и UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/certificates/CreateCertificate.tsx",
+  "src/components/certificates/MerchantCertificatesList.tsx",
+  "src/components/certificates/MyCertificates.tsx",
+  "src/components/certificates/RedeemCertificate.tsx",
+  "src/components/merchant/tabs/CertificatesTab.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/lib/giftCertificates.ts",
+  "src/types/certificates.ts",
+  "supabase/migrations/20260427085656_4ab75c06-d033-4e5e-b9ec-421e9e01dbfa.sql",
+  "supabase/migrations/20260427085815_493a27c5-f400-4cf2-bbfa-4bd4bd9cd123.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 89839
+}

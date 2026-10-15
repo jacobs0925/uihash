@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "22f98dfec3fc3c233749708bd714739ab9b7ff98",
+ "parent": "a571009893bd38f3282017518e432dba26df833f",
+ "date": "2026-04-22",
+ "subject": "Исправил петлю привязки аккаунта",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/components/WalletQRCode.tsx",
+  "src/components/customer/CustomerProfileSection.tsx",
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/contexts/ActiveWalletContext.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90183
+}

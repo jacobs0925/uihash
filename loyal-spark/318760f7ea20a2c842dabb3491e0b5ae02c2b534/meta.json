@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "318760f7ea20a2c842dabb3491e0b5ae02c2b534",
+ "parent": "614b06608b94f1b0b3cbc35d1d36612c8f217fb2",
+ "date": "2026-05-29",
+ "subject": "Добавил статус и повтора для MetaMask",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/identity/LinkedAccounts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 91462
+}

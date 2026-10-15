@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "36a24b6a5f16746291cfac089ff9eea01305c580",
+ "parent": "46a1531f8c3bea765492ca0d988d69826e262b22",
+ "date": "2026-04-22",
+ "subject": "Added wallet mismatch blocking",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/components/TokenList.tsx",
+  "src/components/marketplace/CreateMarketplaceOffer.tsx",
+  "src/components/marketplace/MarketplaceOffersList.tsx",
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 91034
+}

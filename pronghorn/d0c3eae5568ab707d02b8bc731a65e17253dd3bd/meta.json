@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "d0c3eae5568ab707d02b8bc731a65e17253dd3bd",
+ "parent": "ffa5a6f878bbd5ee4d9f186ef28eea82dcf0415f",
+ "date": "2025-12-01",
+ "subject": "Add show deleted toggle",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27176
+}

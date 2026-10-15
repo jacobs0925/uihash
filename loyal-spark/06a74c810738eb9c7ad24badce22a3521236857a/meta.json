@@ -1,0 +1,29 @@
+{
+ "repo": "loyal-spark",
+ "sha": "06a74c810738eb9c7ad24badce22a3521236857a",
+ "parent": "6be42b24728c5f1a2abed429bb17682df710af78",
+ "date": "2026-04-23",
+ "subject": "Добавил автологин и active wallet",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerPanel.tsx",
+  "src/components/TokenList.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/components/customer/CustomerProfileSection.tsx",
+  "src/components/marketing/PersonalizedOffers.tsx",
+  "src/components/referral/ReferralCard.tsx",
+  "src/components/rewards/MyVouchers.tsx",
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/components/tiers/CustomerTiersSection.tsx",
+  "src/hooks/useActiveCustomerWallet.ts",
+  "src/hooks/useMultiTokenBalance.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 89070
+}

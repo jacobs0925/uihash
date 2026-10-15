@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "9fb1445102bfc4eb64502f57674ee2741a50ff1e",
+ "parent": "df61dd9f67e9bb7cac132475d2e73f96623a580b",
+ "date": "2026-04-23",
+ "subject": "Added short business features",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/LandingHero.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90464
+}

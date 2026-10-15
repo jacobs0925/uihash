@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "69f1dc3781a1c152e78c23db83f6bc66d5a61682",
+ "parent": "0ecba84074056e03c0a082467d4c9c18e85b5c64",
+ "date": "2025-12-02",
+ "subject": "Update history icon to book",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27459
+}

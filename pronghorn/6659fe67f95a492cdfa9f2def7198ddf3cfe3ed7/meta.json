@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "6659fe67f95a492cdfa9f2def7198ddf3cfe3ed7",
+ "parent": "69580c7057ea97bda255e402490265cc5a7698f5",
+ "date": "2025-12-02",
+ "subject": "Fix lazy load offset and last reasoning",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27444
+}

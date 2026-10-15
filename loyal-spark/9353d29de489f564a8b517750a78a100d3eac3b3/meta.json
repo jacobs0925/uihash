@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "9353d29de489f564a8b517750a78a100d3eac3b3",
+ "parent": "cdafc9846f03bfd9607fd84d33b3890b093e0c8a",
+ "date": "2026-04-23",
+ "subject": "Добавил подтверждение смены primary",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/customer/CustomerProfileSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 88618
+}

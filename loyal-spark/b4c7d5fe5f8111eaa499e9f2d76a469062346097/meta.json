@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b4c7d5fe5f8111eaa499e9f2d76a469062346097",
+ "parent": "8f9645c6221ae9a5435671429ca18ca4e8df9017",
+ "date": "2026-06-10",
+ "subject": "fix: prevent mobile token list layout break with many programs.",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90547
+}

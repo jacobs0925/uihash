@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "85d6e6e72b5994b57586c2d4d4bd50bbadd7ddb6",
+ "parent": "a00fe729fe7e4ab8492c3fa1507abafc2161b180",
+ "date": "2026-04-22",
+ "subject": "Добавил Discover-вкладку",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CustomerPanel.tsx",
+  "src/components/customer/MerchantCardGrid.tsx",
+  "src/components/customer/MerchantDiscoverPanel.tsx",
+  "src/components/mobile/BottomNavBar.tsx",
+  "src/pages/CustomerPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 99819
+}

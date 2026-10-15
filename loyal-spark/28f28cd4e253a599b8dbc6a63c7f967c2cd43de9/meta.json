@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "28f28cd4e253a599b8dbc6a63c7f967c2cd43de9",
+ "parent": "3db9b2dc4f3653942357282bd455968aa9edd894",
+ "date": "2026-04-23",
+ "subject": "Устранил перезагрузку auth при logout",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 88424
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "69580c7057ea97bda255e402490265cc5a7698f5",
+ "parent": "e690150d93eb36bc94b20dce5200760bbd5ea198",
+ "date": "2025-12-02",
+ "subject": "Refine minimal reasoning display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27552
+}

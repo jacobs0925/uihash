@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "32c638086c0dd8885d0bc1479776ad9be6487410",
+ "parent": "263e25011dd0464922f4e272f737c59c290841ae",
+ "date": "2026-04-21",
+ "subject": "Импортировал PUBLIC_MCP_URL",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "docs/integrations/OPENSERV_MCP_AUTH.md",
+  "src/components/api-docs/McpServerSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 89521
+}

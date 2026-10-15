@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "0ecba84074056e03c0a082467d4c9c18e85b5c64",
+ "parent": "774aeaf0f1504e3534fd873543b903dae87c03eb",
+ "date": "2025-12-02",
+ "subject": "Add stop button to build UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27949
+}

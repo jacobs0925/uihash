@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e6aac4b800be1151898e07e0c678cf13699ff781",
+ "parent": "2dbd44469c871c26dfa987d93c1871a47a90e078",
+ "date": "2026-05-10",
+ "subject": "Исправил white screen на мобильном",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/config/wagmi.ts",
+  "src/hooks/usePrivySafe.ts",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 126067
+}

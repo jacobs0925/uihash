@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "71c2b1b1c97762f2b2de88d68073c47f6e5697de",
+ "parent": "7180a641735fcc8992d43c20db87cdeefadf7cb3",
+ "date": "2026-04-23",
+ "subject": "Исправил auth-flow и профиль",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/AuthPrompt.tsx",
+  "src/components/customer/CustomerProfileSection.tsx",
+  "src/components/identity/LinkedAccounts.tsx",
+  "src/components/merchant/MerchantProfileSection.tsx",
+  "src/contexts/AuthContext.tsx",
+  "supabase/functions/privy-auth/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90461
+}

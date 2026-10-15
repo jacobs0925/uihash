@@ -1,0 +1,32 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e7275a6c5a6d29aa63ea086b6a7674ed5ffb53b1",
+ "parent": "cc22a4c770f19c6f717ab7dfb92a846045f0517c",
+ "date": "2026-04-22",
+ "subject": "Реализовал систему кошельков",
+ "components": [
+  "App.tsx",
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/CustomerPanel.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/components/customer/CustomerProfileSection.tsx",
+  "src/components/identity/LinkedWalletsSummary.tsx",
+  "src/components/identity/PrimaryWalletSelector.tsx",
+  "src/components/identity/WalletMismatchBanner.tsx",
+  "src/components/mobile/MobileProfileTab.tsx",
+  "src/contexts/ActiveWalletContext.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260422172327_51f013d0-c902-4163-ad43-a1bf782dd442.sql",
+  "supabase/migrations/20260422172347_24f5bdd3-42df-40b9-9ee8-6010a3eee7e0.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 89801
+}

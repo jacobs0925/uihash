@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "83144c6c434f89038645146256f40f0a01be16f5",
+ "parent": "16a2af3bca65cafd86eddbe5d8a5271736b601b1",
+ "date": "2026-04-22",
+ "subject": "Исправил подписание транзакций",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx",
+  "src/components/auth/SigningInButton.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90263
+}

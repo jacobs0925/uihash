@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "3f0187ea2629c3bee63f3490f51e75c10fe1db72",
+ "date": "2026-04-21",
+ "pr": null,
+ "title": "Привёл кнопки к стилю clay-pills",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 138 later commits"
+}

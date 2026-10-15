@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "6b6b31743640fcf89fbc0c0801e7c6c78ca68759",
+ "parent": "36a24b6a5f16746291cfac089ff9eea01305c580",
+ "date": "2026-04-22",
+ "subject": "Added wallet reconnect btn",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/identity/WalletMismatchBanner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 89699
+}

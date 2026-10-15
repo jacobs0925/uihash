@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "65488b9e065e5265c082ca17d25acd91b8ec2cff",
+ "parent": "102c3ca733a56ec6d7193b27907091b9cf04dfac",
+ "date": "2026-04-22",
+ "subject": "Исправил аутентификацию и email",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/TokenList.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/components/auth/SigningInButton.tsx",
+  "src/components/roundup/SendWithRoundUp.tsx",
+  "src/components/shared/RecipientInput.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 89507
+}

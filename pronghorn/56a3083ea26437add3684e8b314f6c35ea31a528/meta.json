@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "56a3083ea26437add3684e8b314f6c35ea31a528",
+ "parent": "ada78929c60bac5efd6b090073cf10a7306427ee",
+ "date": "2025-12-02",
+ "subject": "Integrate chat history toggle",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27410
+}

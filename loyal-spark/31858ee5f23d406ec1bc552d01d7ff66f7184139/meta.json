@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "31858ee5f23d406ec1bc552d01d7ff66f7184139",
+ "parent": "9c144dd8e009ba1e8f834f6a31b3e31f441f88d6",
+ "date": "2026-05-10",
+ "subject": "Убрал ограничения step, en lang",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreateLoyaltyProgram.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90077
+}

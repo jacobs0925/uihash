@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e7898862e7d50e2d736f03cc43646dc278cbaf3c",
+ "parent": "d9d85aa5ae023ec18eda6af0aef0872b4ab8bd91",
+ "date": "2026-04-23",
+ "subject": "Убрал авто-подпись MetaMask",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/identity/LinkedAccounts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 89236
+}

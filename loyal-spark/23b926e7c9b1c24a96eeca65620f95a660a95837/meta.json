@@ -1,0 +1,29 @@
+{
+ "repo": "loyal-spark",
+ "sha": "23b926e7c9b1c24a96eeca65620f95a660a95837",
+ "parent": "2384cec68973949f9d1efe3deb2bc270cc638d67",
+ "date": "2026-06-02",
+ "subject": "Fixed SEO issues",
+ "components": [
+  "App.tsx",
+  "components",
+  "main.tsx"
+ ],
+ "files": [
+  "bun.lock",
+  "index.html",
+  "package.json",
+  "public/sitemap.xml",
+  "src/App.tsx",
+  "src/components/PageMeta.tsx",
+  "src/components/landing/LandingHero.tsx",
+  "src/hooks/usePageMeta.ts",
+  "src/main.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 92985
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a00fe729fe7e4ab8492c3fa1507abafc2161b180",
+ "parent": "65488b9e065e5265c082ca17d25acd91b8ec2cff",
+ "date": "2026-04-22",
+ "subject": "Добавил мягкие повторы входа",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/auth/SigningInButton.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 88677
+}

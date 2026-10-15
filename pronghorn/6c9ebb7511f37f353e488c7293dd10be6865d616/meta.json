@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "6c9ebb7511f37f353e488c7293dd10be6865d616",
+ "parent": "252d4c65ed5cbf114c8e4f830b03a25bf01b7fda",
+ "date": "2025-12-02",
+ "subject": "Add agent verbosity settings",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27549
+}

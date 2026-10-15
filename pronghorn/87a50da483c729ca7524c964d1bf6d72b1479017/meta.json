@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "87a50da483c729ca7524c964d1bf6d72b1479017",
+ "parent": "03f8c8d639fe9b1f082b6f1f353211ca7ac92efc",
+ "date": "2025-12-02",
+ "subject": "Preserve file tree state",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27134
+}

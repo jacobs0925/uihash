@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7751e547387d0e9ca5c83beb473c56de4306d36c",
+ "parent": "0a07a6e358e9fba8b2e64740fdf0daeda1e1827b",
+ "date": "2025-12-01",
+ "subject": "Show diff for staged files",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 473089
+}

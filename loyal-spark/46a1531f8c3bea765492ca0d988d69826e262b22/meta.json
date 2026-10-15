@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "46a1531f8c3bea765492ca0d988d69826e262b22",
+ "parent": "e7275a6c5a6d29aa63ea086b6a7674ed5ffb53b1",
+ "date": "2026-04-22",
+ "subject": "Подключил activeWallet в UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerPanel.tsx",
+  "src/components/TokenList.tsx",
+  "src/components/rewards/MyVouchers.tsx",
+  "src/components/tiers/CustomerTiersSection.tsx",
+  "src/hooks/useMultiTokenBalance.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 91054
+}

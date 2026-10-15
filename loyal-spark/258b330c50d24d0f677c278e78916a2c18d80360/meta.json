@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "258b330c50d24d0f677c278e78916a2c18d80360",
+ "parent": "f5231b18727bd4db2dd0b06e82ed798c6427c2f7",
+ "date": "2026-04-23",
+ "subject": "Исправил конфликт сессий",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 89302
+}

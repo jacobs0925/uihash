@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "07a0cf7477e3a7d9f74d9de1b8a66d1135caf792",
+ "parent": "255438b47644fa0c1916fe0a4f50613695f679ab",
+ "date": "2026-04-21",
+ "subject": "Добавил preview fallback",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/config/wagmi.ts",
+  "src/hooks/usePrivySafe.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 88261
+}

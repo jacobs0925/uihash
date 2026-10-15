@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "614b06608b94f1b0b3cbc35d1d36612c8f217fb2",
+ "parent": "7d4af53d491d8e102651bdda8d014f2d5a76d14e",
+ "date": "2026-05-29",
+ "subject": "Добавил инлайн-кнопку привязки",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/sitemap.xml",
+  "src/components/identity/LinkedAccounts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 91613
+}

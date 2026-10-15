@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3db9b2dc4f3653942357282bd455968aa9edd894",
+ "parent": "9353d29de489f564a8b517750a78a100d3eac3b3",
+ "date": "2026-04-23",
+ "subject": "Dispatched refresh events on update",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/customer/CustomerProfileSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 88608
+}

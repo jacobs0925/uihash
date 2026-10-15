@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "6b6877a93bea5dec58fa2f04eee92bb4284ffaa0",
+ "parent": "ae2700d311b12526cc67796eab0e5ea83d197feb",
+ "date": "2026-04-24",
+ "subject": "Убрал кнопки выбора аккаунта",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/customer/CustomerProfileSection.tsx",
+  "src/components/identity/LinkedAccounts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90271
+}

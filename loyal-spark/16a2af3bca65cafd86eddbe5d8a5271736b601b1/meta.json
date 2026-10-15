@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "16a2af3bca65cafd86eddbe5d8a5271736b601b1",
+ "parent": "32c638086c0dd8885d0bc1479776ad9be6487410",
+ "date": "2026-04-22",
+ "subject": "Использовал PUBLIC_MCP_URL",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/agents/AgentManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 90787
+}

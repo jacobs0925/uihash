@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "85d6e6e72b5994b57586c2d4d4bd50bbadd7ddb6",
+ "date": "2026-04-22",
+ "pr": null,
+ "title": "Добавил Discover-вкладку",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 128 later commits"
+}

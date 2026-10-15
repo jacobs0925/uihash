@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "cdafc9846f03bfd9607fd84d33b3890b093e0c8a",
+ "parent": "fb91ddf86504ed0841b733c01ee507fa244842f5",
+ "date": "2026-04-23",
+ "subject": "Включил привязку кошельков",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/customer/CustomerProfileSection.tsx",
+  "src/components/identity/LinkedAccounts.tsx",
+  "src/lib/identitySync.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 88511
+}

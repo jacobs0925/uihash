@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "e690150d93eb36bc94b20dce5200760bbd5ea198",
+ "parent": "6c9ebb7511f37f353e488c7293dd10be6865d616",
+ "date": "2025-12-02",
+ "subject": "Refine verbosity display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26967
+}

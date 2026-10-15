@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "2384cec68973949f9d1efe3deb2bc270cc638d67",
+ "parent": "e5b66ab0e80e93ec40afdc23f33115e9ce2887f4",
+ "date": "2026-06-02",
+ "subject": "Fixed 3 SEO issues",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/sitemap.xml",
+  "src/components/landing/LandingHero.tsx",
+  "src/pages/CustomerPage.tsx",
+  "src/pages/Index.tsx",
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 5,
+ "ms": 218267
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3ff715f6a5fef97946c15a37f6468f553c368b66",
+ "parent": "4b3f467f224c5a892fbc93cd7ab7b9fefb89d2d7",
+ "date": "2026-04-23",
+ "subject": "Создан LinkedAccounts UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/customer/CustomerProfileSection.tsx",
+  "src/components/identity/LinkedAccounts.tsx",
+  "src/components/merchant/MerchantProfileSection.tsx",
+  "src/components/mobile/MobileProfileTab.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 91244
+}

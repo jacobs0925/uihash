@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7d97ffaa34851645115a9a03893e2dcc52212e96",
+ "parent": "87a50da483c729ca7524c964d1bf6d72b1479017",
+ "date": "2025-12-02",
+ "subject": "Improve mobile chat auto-scroll",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27374
+}

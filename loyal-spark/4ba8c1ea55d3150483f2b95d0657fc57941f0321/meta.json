@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4ba8c1ea55d3150483f2b95d0657fc57941f0321",
+ "parent": "760222b4637c4f303cad7fb8874929754071db4d",
+ "date": "2026-04-28",
+ "subject": "Добавил тумблер и аудиторию",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/automation/CreateAutomationRule.tsx",
+  "supabase/functions/process-automation/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 93880
+}

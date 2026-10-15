@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "e06a2cb26a6be3ed3b0e3477ed5602e154f7d6a8",
+ "parent": "5f62998e36b6dc9370342efa03b7d5b15d0853e3",
+ "date": "2025-12-02",
+ "subject": "Improve chat history scroll fix",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27082
+}

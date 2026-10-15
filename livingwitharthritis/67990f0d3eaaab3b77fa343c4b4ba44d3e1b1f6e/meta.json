@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "67990f0d3eaaab3b77fa343c4b4ba44d3e1b1f6e",
+ "parent": "bc98553f3cc70e67daea0ff118f9a582f063ea1a",
+ "date": "2026-02-18",
+ "subject": "Add Articles & Guides link",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 63744
+}

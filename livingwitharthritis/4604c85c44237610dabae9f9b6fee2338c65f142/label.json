@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "4604c85c44237610dabae9f9b6fee2338c65f142",
+ "date": "2026-02-18",
+ "pr": null,
+ "title": "Improve accessibility across UI",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 86d4b6dd, which restored d3e15b26 (35 commits discarded)"
+}

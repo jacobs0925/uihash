@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "18a0b14a645923d278ecdfc433f8b12b8149ac0f",
+ "date": "2025-11-23",
+ "pr": null,
+ "title": "Add soy drawing to About start",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 810 later commits"
+}

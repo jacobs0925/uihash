@@ -1,0 +1,24 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "2f59af3edfa137c14243338376a50ce4b836c9cf",
+ "parent": "e54cac54dd1f6e4abec6cba928746939bd8e6fd2",
+ "date": "2026-02-18",
+ "subject": "Fix mobile parallax layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/ConditionsSection.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/NutritionArticleSection.tsx",
+  "src/components/ServicesGrid.tsx",
+  "src/components/VirtualPhysioSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 99677
+}

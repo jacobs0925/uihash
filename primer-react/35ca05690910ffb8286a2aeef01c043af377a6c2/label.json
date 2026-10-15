@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "35ca05690910ffb8286a2aeef01c043af377a6c2",
+ "date": "2026-03-25",
+ "pr": "7676",
+ "title": "Remove link underline effect on hover for Link and Button variant link (#7676)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "18 visual-test baselines updated"
+}

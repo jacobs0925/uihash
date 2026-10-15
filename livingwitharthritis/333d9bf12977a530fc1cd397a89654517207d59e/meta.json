@@ -1,0 +1,34 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "333d9bf12977a530fc1cd397a89654517207d59e",
+ "parent": "a00d977774ef9742b4d8edc927a53cb32804e016",
+ "date": "2026-01-17",
+ "subject": "Add backend for forms",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AppointmentModal.tsx",
+  "src/components/ContactFormModal.tsx",
+  "src/components/DonationBanner.tsx",
+  "src/components/DonationNotification.tsx",
+  "src/hooks/useAppointment.ts",
+  "src/hooks/useContact.ts",
+  "src/hooks/useDonation.ts",
+  "src/hooks/useFundraising.ts",
+  "src/hooks/useRealtimeDonations.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/config.toml",
+  "supabase/functions/book-appointment/index.ts",
+  "supabase/functions/process-donation/index.ts",
+  "supabase/functions/submit-contact/index.ts",
+  "supabase/functions/submit-fundraising/index.ts",
+  "supabase/migrations/20260117132824_5a241d4e-a095-4fa7-a2ac-04490b759c18.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 335083
+}

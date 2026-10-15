@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "f2f9bf2054b6e34022ea674cbeecb2aef459ac51",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Add settings button top-right",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 845 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "09c3e62a2dd3226a99ce44220f5e24d8db8554e0",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Refactor mobile app page",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "color: rgb(0, 191, 99) → rgb(17, 24, 39) undone by ca0c40c7 \"Refactor mobile app installation page\"; font-size: 48px → 30px undone by ca0c40c7 \"Refactor mobile app installation page\"; line-height: 1 → 36px undone by ca0c40c7 \"Refactor mobile app installation page\""
+}

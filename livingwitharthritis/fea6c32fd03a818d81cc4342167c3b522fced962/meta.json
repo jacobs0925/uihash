@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "fea6c32fd03a818d81cc4342167c3b522fced962",
+ "parent": "634d1bc428d90c43e1eb2039f53cf406b7468b84",
+ "date": "2026-02-06",
+ "subject": "Add resources modal support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx",
+  "src/components/ResourcesModal.tsx",
+  "src/hooks/useCmsContent.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260206094557_86f0d109-2414-4c62-9be6-98acb5ef4133.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 315975
+}

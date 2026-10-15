@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "30206c4fab92de8888f3f103f9b05bff96fdc1b9",
+ "date": "2026-04-10",
+ "pr": "7746",
+ "title": "Update line-height to use CSS variable (#7746)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Update TokenTextContainer `line-height` to use primer primitives CSS variable `var(--base-text-lineHeight-normal)`"
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "primer-react",
+ "sha": "0cd9ff1e1bfd8cf4a13db88ba5c9795ee09db5b9",
+ "parent": "846d1b41df9f16918565861a1ccd08fd7512fed6",
+ "date": "2025-12-04",
+ "subject": "Revert \"Improve PageLayout pane drag performance with pointer capture and GPU-accelerated transforms\" (#7274)",
+ "pr": "7274",
+ "components": [
+  "PageLayout"
+ ],
+ "files": [
+  ".changeset/olive-heads-enter.md",
+  "e2e/components/Axe.test.ts",
+  "packages/react/src/PageLayout/PageLayout.module.css",
+  "packages/react/src/PageLayout/PageLayout.performance.stories.tsx",
+  "packages/react/src/PageLayout/PageLayout.tsx",
+  "packages/react/src/PageLayout/__snapshots__/PageLayout.test.tsx.snap"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 7,
+ "ms": 606727
+}

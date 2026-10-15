@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a718a9a5a27e201dd970bb0db9bca8bdf402cdc0",
+ "parent": "2c47d8dd902c5f918a37bf6c2054d154db1abbe9",
+ "date": "2026-02-07",
+ "subject": "Removed impact caption in About section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AboutSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 49550
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "713d5a5c5616e005cf8e939f33f8526210d3d634",
+ "date": "2025-12-31",
+ "pr": "7349",
+ "title": "refactor(PageLayout): drag/resize performance with inline styles and O(1) CSS selectors (#7349)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "content-visibility: ∅ → auto undone by 4072e44c \"Remove content-visibility from dragging elements (#7445)\"; content-visibility: ∅ → auto undone by 4072e44c \"Remove content-visibility from dragging elements (#7445)\"; content-visibility: ∅ → auto undone by 4072e44c \"Remove content-visibility from dragging elements (#7445)\""
+}

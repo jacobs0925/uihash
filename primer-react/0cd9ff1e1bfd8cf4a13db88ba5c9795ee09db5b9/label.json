@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "0cd9ff1e1bfd8cf4a13db88ba5c9795ee09db5b9",
+ "date": "2025-12-04",
+ "pr": "7274",
+ "title": "Revert \"Improve PageLayout pane drag performance with pointer capture and GPU-accelerated transforms\" (#7274)",
+ "label": 1,
+ "source": "revert",
+ "confidence": 0.9,
+ "evidence": "reverted by 822c3e79 \"Revert \"Revert \"Improve PageLayout pane drag performance with pointer capture and GPU-accelerated transforms\"\" (#7275)\""
+}

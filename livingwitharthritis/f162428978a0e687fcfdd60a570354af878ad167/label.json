@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "f162428978a0e687fcfdd60a570354af878ad167",
+ "date": "2026-02-07",
+ "pr": null,
+ "title": "Upgrade AI chat UI and backend integration",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "outline-style: solid → auto undone by 4604c85c \"Improve accessibility across UI\"; outline-width: 2px → 1px undone by 4604c85c \"Improve accessibility across UI\""
+}

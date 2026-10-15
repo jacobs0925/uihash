@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4604c85c44237610dabae9f9b6fee2338c65f142",
+ "parent": "d3e15b267742bd268837d585c0d316124719223d",
+ "date": "2026-02-18",
+ "subject": "Improve accessibility across UI",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/DonationBanner.tsx",
+  "src/components/FloatingChatButton.tsx",
+  "src/components/Footer.tsx",
+  "src/components/Header.tsx",
+  "src/components/NutritionArticleSection.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 28,
+ "ms": 81022
+}

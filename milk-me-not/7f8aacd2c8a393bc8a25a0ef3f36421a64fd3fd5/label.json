@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "7f8aacd2c8a393bc8a25a0ef3f36421a64fd3fd5",
+ "date": "2025-11-02",
+ "pr": null,
+ "title": "Refactor product details page",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by ce199cdf, which restored c3a415dc (12 commits discarded)"
+}

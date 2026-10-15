@@ -1,0 +1,26 @@
+{
+ "repo": "primer-react",
+ "sha": "713d5a5c5616e005cf8e939f33f8526210d3d634",
+ "parent": "06c83203cd3f200b337aa34618174934317494e2",
+ "date": "2025-12-31",
+ "subject": "refactor(PageLayout): drag/resize performance with inline styles and O(1) CSS selectors (#7349)",
+ "pr": "7349",
+ "components": [
+  "PageLayout"
+ ],
+ "files": [
+  ".changeset/optimized-page-layout-resize.md",
+  "packages/react/src/PageLayout/PageLayout.module.css",
+  "packages/react/src/PageLayout/PageLayout.test.tsx",
+  "packages/react/src/PageLayout/PageLayout.tsx",
+  "packages/react/src/PageLayout/paneUtils.ts",
+  "packages/react/src/PageLayout/usePaneWidth.test.ts",
+  "packages/react/src/PageLayout/usePaneWidth.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@primer/react\": patch\n---\n\nPageLayout: Optimize drag/resize performance with inline styles and new optimizations\n\n**Refactored:**\n- Use direct attribute selectors (`.Pane[data-dragging='true']`) instead of descendant selectors for CSS containment (O(1) vs O(n) selector matching)\n- Extract optimization utilities to `paneUtils.ts`\n- Apply drag handle visual feedback via inline styles and CSS variables\n\n**Added:**\n- `content-visibility: auto` during drag/resize to skip off-screen content rendering\n- rAF throttle for drag updates (one update per frame, latest position wins)\n- Containment during window resize (parity with drag)\n\nThese changes improve style recalculation performance on large DOMs (100k+ nodes) by eliminating descendant selector traversal.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 4,
+ "ms": 495109
+}

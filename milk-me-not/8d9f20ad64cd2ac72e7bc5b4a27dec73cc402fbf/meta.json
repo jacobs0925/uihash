@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "8d9f20ad64cd2ac72e7bc5b4a27dec73cc402fbf",
+ "parent": "0bca96586982f91a7d55c41f01569ea4d5bd1286",
+ "date": "2025-11-21",
+ "subject": "Set logout button color to red",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Account.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 46172
+}

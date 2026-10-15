@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f162428978a0e687fcfdd60a570354af878ad167",
+ "parent": "27b813e05649715ae9f6fc1f3786e4df2ead7f3e",
+ "date": "2026-02-07",
+ "subject": "Upgrade AI chat UI and backend integration",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/ChatBot.tsx",
+  "src/components/FloatingChatButton.tsx",
+  "supabase/functions/chat/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 7,
+ "ms": 139729
+}

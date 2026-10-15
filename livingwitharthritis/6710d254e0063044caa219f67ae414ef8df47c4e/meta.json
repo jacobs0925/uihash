@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "6710d254e0063044caa219f67ae414ef8df47c4e",
+ "parent": "c452609b1bfafbfddf235326e18c6772dcaf6516",
+ "date": "2026-02-14",
+ "subject": "Defer heavy components loading",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/FloatingChatButton.tsx",
+  "src/hooks/useDeferredVisible.ts",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 106934
+}

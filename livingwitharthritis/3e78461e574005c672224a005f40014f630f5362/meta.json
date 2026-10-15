@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "3e78461e574005c672224a005f40014f630f5362",
+ "parent": "e9104e6dac614d49961a273c8169b85ce84f8b3a",
+ "date": "2026-02-06",
+ "subject": "Remove auth from chat feature",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatBot.tsx",
+  "src/hooks/useStreamingChat.ts",
+  "supabase/functions/chat/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 185523
+}

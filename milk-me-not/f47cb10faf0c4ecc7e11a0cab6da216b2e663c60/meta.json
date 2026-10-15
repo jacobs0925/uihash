@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "f47cb10faf0c4ecc7e11a0cab6da216b2e663c60",
+ "parent": "dc8a2af42cd8a78c9eeeb41960fd1e035d637d60",
+ "date": "2025-10-12",
+ "subject": "Refactor About Page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 18,
+ "ms": 50542
+}

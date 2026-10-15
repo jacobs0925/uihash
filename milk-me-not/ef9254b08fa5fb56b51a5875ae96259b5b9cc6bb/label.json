@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "ef9254b08fa5fb56b51a5875ae96259b5b9cc6bb",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Reverted to commit dc8a2af42cd8a78c9eeeb41960fd1e035d637d60",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: block → flex undone by f47cb10f \"Refactor About Page\"; padding-bottom: 64px → 32px undone by f47cb10f \"Refactor About Page\"; min-height: ∅ → 800px undone by f47cb10f \"Refactor About Page\""
+}

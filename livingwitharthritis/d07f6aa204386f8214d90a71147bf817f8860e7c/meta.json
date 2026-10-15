@@ -1,0 +1,32 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "d07f6aa204386f8214d90a71147bf817f8860e7c",
+ "parent": "c5fd4bab9769b8653a57025dc7dd6eb5fe3c1a11",
+ "date": "2025-12-25",
+ "subject": "Premium landing redesign 1080p",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/components/AboutSection.tsx",
+  "src/components/ConditionsSection.tsx",
+  "src/components/DonationTiersSection.tsx",
+  "src/components/Footer.tsx",
+  "src/components/FundraisingSection.tsx",
+  "src/components/Header.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/ServicesGrid.tsx",
+  "src/index.css",
+  "src/pages/Index.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 83,
+ "ms": 150054
+}

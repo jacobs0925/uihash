@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "64ce904bea2968881ff724062c6db39253a1a38e",
+ "date": "2026-02-07",
+ "pr": null,
+ "title": "Editorialize remaining sections",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "overflow-x: ∅ → hidden undone by 2ff96b20 \"Redesign with warm charity look\"; padding-top: 112px → 144px undone by 2ff96b20 \"Redesign with warm charity look\"; padding-bottom: 112px → 144px undone by 2ff96b20 \"Redesign with warm charity look\""
+}

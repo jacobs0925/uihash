@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "964073a91de5ccb7db314002492825669c994616",
+ "date": "2026-02-19",
+ "pr": null,
+ "title": "Remove banner component usage",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 6933cc22, which restored ee23846f (16 commits discarded)"
+}

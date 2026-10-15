@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "5318e17ce2ed97fee575871e10d1ff2056bd5aec",
+ "parent": "fc235943a824fe83e325c735173c69db62b8a6c2",
+ "date": "2025-12-17",
+ "subject": "Add subtle cycler float",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 91032
+}

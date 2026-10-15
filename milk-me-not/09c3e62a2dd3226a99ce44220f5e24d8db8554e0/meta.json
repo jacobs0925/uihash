@@ -1,0 +1,19 @@
+{
+ "repo": "milk-me-not",
+ "sha": "09c3e62a2dd3226a99ce44220f5e24d8db8554e0",
+ "parent": "95d5c2d30d0fda3053fa08981450fc6930155a62",
+ "date": "2025-10-12",
+ "subject": "Refactor mobile app page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/MobileApp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 12,
+ "ms": 76648
+}

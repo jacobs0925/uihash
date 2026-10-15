@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "a6e37d83e2a0f4a220af90005581ceafda15abcc",
+ "date": "2026-02-08",
+ "pr": null,
+ "title": "Redesigned mobile UI and SEO",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 112px → 96px undone by a78bb8be \"Polished UI and layout overhaul\"; padding-bottom: 112px → 96px undone by a78bb8be \"Polished UI and layout overhaul\"; padding-top: 112px → 96px undone by a78bb8be \"Polished UI and layout overhaul\""
+}

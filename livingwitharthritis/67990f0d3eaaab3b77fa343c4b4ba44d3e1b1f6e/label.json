@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "67990f0d3eaaab3b77fa343c4b4ba44d3e1b1f6e",
+ "date": "2026-02-18",
+ "pr": null,
+ "title": "Add Articles & Guides link",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 86d4b6dd, which restored d3e15b26 (35 commits discarded)"
+}

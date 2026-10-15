@@ -1,0 +1,20 @@
+{
+ "repo": "milk-me-not",
+ "sha": "18a0b14a645923d278ecdfc433f8b12b8149ac0f",
+ "parent": "273cc589882dfbe9b06e700fc18ab7ae70b7ee33",
+ "date": "2025-11-23",
+ "subject": "Add soy drawing to About start",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/assets/soy-milk-drawing.jpg",
+  "src/pages/About.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 67275
+}

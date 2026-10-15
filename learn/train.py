@@ -1,6 +1,6 @@
 """Train uihash's triage model and test it.
 
-Usage: python learn/train.py rows.jsonl model.json [report.md] [--variant all|local] [--kind logistic|trees]
+Usage: python learn/train.py rows.jsonl model.json [report.md] [--variant all|local] [--kind logistic|trees] [--unseen scores.jsonl]
 
 rows.jsonl comes from dataset.js. Rows with split=train are fitted (synthetic PRs, and later real PRs
 with trusted labels); rows with split=eval are only scored, so they measure how the model does on PRs
@@ -32,6 +32,10 @@ VARIANT = sys.argv[sys.argv.index('--variant') + 1] if '--variant' in sys.argv e
 if VARIANT in args: args.remove(VARIANT)
 KIND = sys.argv[sys.argv.index('--kind') + 1] if '--kind' in sys.argv else 'logistic'
 if KIND in args: args.remove(KIND)
+# --unseen: each finding's score from the model trained without its repository, one JSON line each ({pr, app, s}):
+# learn/gold.js scores them against a person's labels
+UNSEEN = sys.argv[sys.argv.index('--unseen') + 1] if '--unseen' in sys.argv else None
+if UNSEEN in args: args.remove(UNSEEN)
 rows = [json.loads(l) for l in open(args[0], encoding='utf8')]
 out_model = args[1]
 report = open(args[2], 'w', encoding='utf8') if len(args) > 2 else sys.stdout
@@ -145,14 +149,19 @@ def pairs(rs, scores):
     return pos, neg
 allrows = train + test
 LORO = {}
+unseen = open(UNSEEN, 'w', encoding='utf8') if UNSEEN else None
 for app in sorted({r['app'] for r in allrows}):
     rest = [r for r in allrows if r['app'] != app]; mine = [r for r in allrows if r['app'] == app]
     if len({r['y'] for r in rest}) < 2: continue
     v2 = DictVectorizer(sparse=False); X2 = v2.fit_transform([r['x'] for r in rest])
     f2, _ = fit(KIND, X2, np.array([r['y'] for r in rest]), weights(rest), [r['pr'] for r in rest])
-    pos, neg = pairs(mine, f2(v2.transform([r['x'] for r in mine])))
+    s2 = f2(v2.transform([r['x'] for r in mine]))
+    if unseen:
+        for r, v in zip(mine, s2): unseen.write(json.dumps({'pr': r['pr'], 'app': app, 's': round(float(v), 5)}) + '\n')
+    pos, neg = pairs(mine, s2)
     auc = roc_auc_score([1] * len(pos) + [0] * len(neg), pos + neg) if pos and neg else None
     LORO[app] = [None if auc is None else round(float(auc), 4), len(pos), len(neg)]
+if unseen: unseen.close()
 scored = [v[0] for v in LORO.values() if v[0] is not None and v[1] >= MIN_EACH and v[2] >= MIN_EACH]
 METRICS['loro'] = LORO; METRICS['loro_goal'] = GOAL
 if scored:

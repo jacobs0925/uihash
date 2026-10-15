@@ -2,12 +2,15 @@
 // at the same crops the judge sees (regression, intended or can't tell), and every other labeller is scored on
 // them: the history labels label.js derives (restores, undos, kept), and each judge.js verdict file. Which labels
 // the model learns from is decided here, before any of them train it.
-// Usage: node learn/gold.js <goldDir> <labels.json> [--md out.md]
+// Usage: node learn/gold.js <goldDir> <labels.json> [--scores <name>=<rows.jsonl>]... [--md out.md]
 //   <goldDir>/<repo>/<sha>/   label.json (the history label, if any) and judge*.json (one per model or prompt)
 //   <labels.json>             the person's labels: [{app, sha, verdict: regression|intended|unsure}], sha a prefix
+//   --scores                  a model's scores, one JSON line per finding ({pr: "<repo>/<sha>", s}), a commit
+//                             scoring its highest finding: say, a model trained without the commit's repository
 // A labeller's score is P(regression): a judge's confidence on its side of 0.5, 0.5 when unsure; a history label
-// is 1 or 0. AUROC ranks those scores against the person's labels (can't tell left out); agreement counts only
-// the commits the labeller decided.
+// is 1 or 0; a model's is its score (0.5 for a commit it did not score). AUROC ranks those scores against the
+// person's labels (can't tell left out); agreement and recall count only the commits a labeller decided, and are
+// left out for models (their threshold is chosen elsewhere).
 const fs = require('fs');
 const path = require('path');
 
@@ -26,7 +29,16 @@ function auroc(pairs) {
 
 const scoreOf = (j) => (j.verdict === 'regression' ? 0.5 + j.confidence / 2 : j.verdict === 'intended' ? 0.5 - j.confidence / 2 : 0.5);
 
-function compare(goldDir, labels) {
+// --scores files: name -> Map("<repo>/<sha>" -> the highest score of the commit's findings)
+function readScores(specs) {
+  return Object.fromEntries(specs.map((spec) => {
+    const [name, file] = spec.split(/=(.*)/s), m = new Map();
+    for (const l of fs.readFileSync(file, 'utf8').split('\n').filter(Boolean)) { const r = JSON.parse(l); m.set(r.pr, Math.max(m.get(r.pr) ?? -Infinity, r.s)); }
+    return [name, m];
+  }));
+}
+
+function compare(goldDir, labels, scores = {}) {
   const by = new Map();                                    // labeller -> [{app, y, score, decided, usage, model}]
   const add = (name, row) => { if (!by.has(name)) by.set(name, []); by.get(name).push(row); };
   let n = 0;
@@ -45,6 +57,10 @@ function compare(goldDir, labels) {
       const j = read(path.join(d, f));
       add(f.replace(/\.json$/, ''), { app: L.app, y, score: scoreOf(j), decided: j.verdict !== 'unsure', usage: j.usage, model: j.model });
     }
+    for (const [name, m] of Object.entries(scores)) {
+      const v = m.get(`${L.app}/${sha}`);
+      add(name, { app: L.app, y, score: v ?? 0.5, decided: v != null, continuous: true });
+    }
   }
   const rows = [...by].map(([name, rs]) => {
     const dec = rs.filter((r) => r.decided), right = dec.filter((r) => (r.score > 0.5 ? 1 : 0) === r.y);
@@ -52,8 +68,9 @@ function compare(goldDir, labels) {
     const tokens = rs.reduce((t, r) => [t[0] + ((r.usage && r.usage.input) || 0), t[1] + ((r.usage && r.usage.output) || 0)], [0, 0]);
     const price = PRICE[rs[0].model];
     const apps = [...new Set(rs.map((r) => r.app))].sort().map((app) => [app, auroc(rs.filter((r) => r.app === app))]);
-    return { name, commits: rs.length, decided: dec.length, agree: dec.length ? right.length / dec.length : null,
-      recallRegression: recall(1), recallIntended: recall(0), auroc: auroc(rs), apps,
+    const binary = !rs[0].continuous;
+    return { name, commits: rs.length, decided: dec.length, agree: binary && dec.length ? right.length / dec.length : null,
+      recallRegression: binary ? recall(1) : null, recallIntended: binary ? recall(0) : null, auroc: auroc(rs), apps,
       dollarsPer1000: price && rs.length ? ((tokens[0] * price[0] + tokens[1] * price[1]) / 1e6 / rs.length) * 1000 : null };
   });
   return { n, rows };
@@ -71,9 +88,9 @@ function markdown({ n, rows }) {
 
 if (require.main === module) {
   const a = process.argv.slice(2);
-  if (a.length < 2) { console.error('usage: node learn/gold.js <goldDir> <labels.json> [--md out.md]'); process.exit(2); }
-  const md = markdown(compare(a[0], read(a[1])));
+  if (a.length < 2) { console.error('usage: node learn/gold.js <goldDir> <labels.json> [--scores <name>=<rows.jsonl>]... [--md out.md]'); process.exit(2); }
+  const md = markdown(compare(a[0], read(a[1]), readScores(a.filter((x, i) => a[i - 1] === '--scores'))));
   console.log(md);
   if (a.includes('--md')) fs.writeFileSync(a[a.indexOf('--md') + 1], md + '\n');
 }
-module.exports = { auroc, scoreOf, compare, markdown };
+module.exports = { auroc, scoreOf, readScores, compare, markdown };

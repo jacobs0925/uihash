@@ -3,7 +3,7 @@ const assert = require('assert');
 const fs = require('fs');
 const os = require('os');
 const path = require('path');
-const { auroc, scoreOf, compare, markdown } = require('./gold.js');
+const { auroc, scoreOf, readScores, compare, markdown } = require('./gold.js');
 
 assert.strictEqual(auroc([{ y: 1, score: 0.9 }, { y: 0, score: 0.1 }]), 1);
 assert.strictEqual(auroc([{ y: 1, score: 0.5 }, { y: 0, score: 0.5 }]), 0.5);
@@ -31,5 +31,11 @@ assert.deepStrictEqual([j.decided, j.agree, j.recallRegression], [3, 1, 1]);
 assert.strictEqual(j.auroc, 1);                             // unsure (0.5) still ranks above both intended verdicts
 assert.ok(Math.abs(j.dollarsPer1000 - 1) < 1e-9);           // 5000 × $0.10 + 1000 × $0.50 per million, per commit
 assert.ok(markdown(r).includes('| judge | 4 | 3 | 100% |'));
+
+// a model's scores, by its highest finding per commit; a commit it did not score counts 0.5
+const rows = path.join(tmp, 'unseen.jsonl');
+fs.writeFileSync(rows, [['aaaa1111', 0.2], ['aaaa1111', 0.8], ['bbbb2222', 0.3], ['dddd4444', 0.1]].map(([sha, s]) => JSON.stringify({ pr: `app/${sha}`, s })).join('\n') + '\n');
+const m = compare(tmp, labels, readScores([`unseen=${rows}`])).rows.find((x) => x.name === 'unseen');
+assert.deepStrictEqual([m.decided, m.agree, m.recallRegression, m.auroc], [3, null, null, 1]);
 fs.rmSync(tmp, { recursive: true, force: true });
 console.log('gold: ok');

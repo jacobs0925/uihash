@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "fed9583f4f06edfcf4e234ca69dab5ba9b32a268",
+ "parent": "7be32a5b36a148d7bddafab7ad19458ace2a4868",
+ "date": "2025-12-02",
+ "subject": "Make P2P labels clearer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/marketplace/CreateMarketplaceOffer.tsx",
+  "src/components/marketplace/MarketplaceDashboard.tsx",
+  "src/components/marketplace/MarketplaceOffersList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 67772
+}

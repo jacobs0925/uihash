@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "1522e18444a0078ae4500db8a7fde7c202c129a2",
+ "parent": "38ec4c9212190e9e09f95f93efbc03424bdb6782",
+ "date": "2026-03-10",
+ "subject": "Fix referral scroll area height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/referral/ReferralCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 70882
+}

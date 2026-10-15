@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4d20542739843bb72ffc2c5eaab96794926da792",
+ "parent": "e202cb8879e03f222f3d48a369d641ca495ff181",
+ "date": "2026-03-31",
+ "subject": "Add JSON-LD to homepage",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 102465
+}

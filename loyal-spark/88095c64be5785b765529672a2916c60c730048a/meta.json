@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "88095c64be5785b765529672a2916c60c730048a",
+ "parent": "ae18f3bac1cd8ff94f66a4c000ac2500d2328121",
+ "date": "2026-01-22",
+ "subject": "Add mobile swipe in CustomerFiltersPanel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73215
+}

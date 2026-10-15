@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5eb1ea690a827ce7e83ac7d5b56b6ce76dea0478",
+ "parent": "15e0da1a11ad19dd87fd70b933c6d6cc73b390bc",
+ "date": "2025-12-12",
+ "subject": "Add mobile connector options",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 68980
+}

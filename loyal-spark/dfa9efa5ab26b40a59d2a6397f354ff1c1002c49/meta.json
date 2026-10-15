@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "dfa9efa5ab26b40a59d2a6397f354ff1c1002c49",
+ "parent": "152f629deef9efe0b83d3f1a358be068303db8c4",
+ "date": "2025-11-21",
+ "subject": "Add hero reveal animation",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 165808
+}

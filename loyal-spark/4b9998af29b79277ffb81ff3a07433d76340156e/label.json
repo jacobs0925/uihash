@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "4b9998af29b79277ffb81ff3a07433d76340156e",
+ "date": "2026-04-02",
+ "pr": null,
+ "title": "Expand vouchers lifecycle endpoints",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 413 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "8384f48607efb1640e3840f40002c49bf716ec11",
+ "parent": "2cee0ee602637044bd9bf0aa8b04872d586e2f9f",
+ "date": "2026-01-03",
+ "subject": "Fix toast position",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/sonner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72612
+}

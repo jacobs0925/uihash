@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "608779b1b59adcfe7283ea1b688928a63c6e5cbe",
+ "parent": "ff6909143672335aff1f0f41043c2cba603c95b1",
+ "date": "2026-03-13",
+ "subject": "Fix IssuedTokensHistory loading",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 75417
+}

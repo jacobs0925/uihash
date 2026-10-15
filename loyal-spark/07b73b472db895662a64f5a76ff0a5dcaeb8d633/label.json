@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "07b73b472db895662a64f5a76ff0a5dcaeb8d633",
+ "date": "2025-12-11",
+ "pr": null,
+ "title": "Fix header alignment",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 619 later commits"
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "79bab3daa85d256a9798b0b6c536e75989a3d8ef",
+ "parent": "df2edb1d3a84eb2947387bf789f22c7f3a272305",
+ "date": "2026-03-24",
+ "subject": "Add copyable wallet + delete agent",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/agents/AgentManagement.tsx",
+  "supabase/functions/agent-api-key/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72953
+}

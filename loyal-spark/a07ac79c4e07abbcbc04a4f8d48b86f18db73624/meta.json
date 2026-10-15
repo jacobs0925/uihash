@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a07ac79c4e07abbcbc04a4f8d48b86f18db73624",
+ "parent": "74fdf10320c694f1a0dd76361d5e0a4e667891aa",
+ "date": "2026-04-02",
+ "subject": "Dynamic route metadata",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/hooks/usePageMeta.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73395
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "954c9fc8495880d784c093053d3c2db78288c0b3",
+ "parent": "6868fca4aa602bddd8e0bbf69be73b4bbf0f5044",
+ "date": "2026-01-18",
+ "subject": "Move padding from ScrollArea",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 77914
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e5317e280c3890cc73556cef9911d4fc5a8c6a3f",
+ "parent": "102b7bbe3119f727d97c10b737aefb92a8485c71",
+ "date": "2026-04-02",
+ "subject": "Implement voucher flow updates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "FARCASTER_APP_README.md",
+  "public/.well-known/agent.json",
+  "public/openapi.json",
+  "src/pages/ApiDocsPage.tsx",
+  "supabase/functions/mpp-gateway/index.ts",
+  "supabase/functions/x402-gateway/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 96354
+}

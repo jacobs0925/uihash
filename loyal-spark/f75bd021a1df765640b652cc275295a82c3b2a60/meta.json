@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "f75bd021a1df765640b652cc275295a82c3b2a60",
+ "parent": "99690c9e8cceba1f0f3c0ed2c897d0399b22dc50",
+ "date": "2026-03-13",
+ "subject": "Сдвинуть сроки на Q2 2027",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/pitch-deck/PitchDeck.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 86955
+}

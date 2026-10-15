@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "2f3fc3f113015dd2c8317cb452e4bcfaba13b4fa",
+ "parent": "4cfefc779a39b9411f5d44a7623921a14b78aedb",
+ "date": "2026-03-13",
+ "subject": "Add QR code scanning guide",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/GuidePage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 74147
+}

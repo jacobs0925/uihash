@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "d8baa32766cfc98660401469a41373925f4d3e75",
+ "date": "2026-03-14",
+ "pr": null,
+ "title": "Fix gradient text clipping",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 527 later commits"
+}

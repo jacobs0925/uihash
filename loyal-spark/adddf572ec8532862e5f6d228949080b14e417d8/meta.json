@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "adddf572ec8532862e5f6d228949080b14e417d8",
+ "parent": "ed987b66fa9c91787ad2acb4f358b2f40a830e87",
+ "date": "2026-04-01",
+ "subject": "Integrate Trust & UseCases",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/TrustSecurity.tsx",
+  "src/components/landing/UseCases.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 235448
+}

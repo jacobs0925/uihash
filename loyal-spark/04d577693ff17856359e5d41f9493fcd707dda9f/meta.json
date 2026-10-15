@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "04d577693ff17856359e5d41f9493fcd707dda9f",
+ "parent": "3cf65d9961d2b0a6e551b4eb61e1decbbce28203",
+ "date": "2026-03-23",
+ "subject": "Update Skills docs and pages",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "A2A_INTEGRATION_PLAN.md",
+  "FARCASTER_APP_README.md",
+  "README.md",
+  "public/.well-known/agent.json",
+  "src/pages/ApiDocsPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 98612
+}

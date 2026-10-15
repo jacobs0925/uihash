@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "15e0da1a11ad19dd87fd70b933c6d6cc73b390bc",
+ "parent": "6b19fed301b99555ea287632e4dfb549bb9dfba7",
+ "date": "2025-12-12",
+ "subject": "Improve wallet connect on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 69987
+}

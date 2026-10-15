@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "8467e0d546209f6ef20a945d756f746abc924c58",
+ "parent": "67af528dd7bb69ab7874d71ef89916b31f954906",
+ "date": "2026-03-23",
+ "subject": "Add Skills link to Guide",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/GuidePage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73268
+}

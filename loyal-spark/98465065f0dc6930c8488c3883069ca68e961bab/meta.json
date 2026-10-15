@@ -1,0 +1,34 @@
+{
+ "repo": "loyal-spark",
+ "sha": "98465065f0dc6930c8488c3883069ca68e961bab",
+ "parent": "e5a78a9a897b15884ca1973fbf92e05a5d00cff0",
+ "date": "2025-11-26",
+ "subject": "Add Premium flow features",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/PremiumExpirationAlert.tsx",
+  "src/components/admin/PremiumManagement.tsx",
+  "src/hooks/usePremiumActivityLog.ts",
+  "src/hooks/usePremiumNotifications.ts",
+  "src/hooks/usePremiumPayment.ts",
+  "src/hooks/usePremiumPlans.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/AdminPage.tsx",
+  "src/pages/AppPage.tsx",
+  "src/pages/CustomerPage.tsx",
+  "src/pages/PremiumPage.tsx",
+  "supabase/functions/check-premium-expiration/index.ts",
+  "supabase/migrations/20251126092418_8dbcf44e-2f27-4cf0-a65f-1dc9296d1e18.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 94384
+}

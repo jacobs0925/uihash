@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "1c0268df13059ae0df08e8ebab1242f0767c05d2",
+ "parent": "5b6f36c42fcafd143c8dfb6beb923d102d65e904",
+ "date": "2026-03-13",
+ "subject": "Улучшил загрузку истории токенов",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx",
+  "src/hooks/useTokenStats.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 74824
+}

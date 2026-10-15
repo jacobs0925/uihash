@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "557a5843d10cc12a7976f4902ee08afb71be048f",
+ "parent": "b897eacaa9148059dd4c0e3d955c8a64e10181b7",
+ "date": "2026-03-13",
+ "subject": "Добавил сканер QR ваучера",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/VouchersManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72607
+}

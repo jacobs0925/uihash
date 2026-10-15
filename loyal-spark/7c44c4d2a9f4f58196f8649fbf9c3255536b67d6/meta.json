@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "7c44c4d2a9f4f58196f8649fbf9c3255536b67d6",
+ "parent": "399a0b23b42ee5c86bc26763b9a0eb2baf5d739d",
+ "date": "2025-11-26",
+ "subject": "Translate admin UI to English",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/admin/PremiumManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 68515
+}

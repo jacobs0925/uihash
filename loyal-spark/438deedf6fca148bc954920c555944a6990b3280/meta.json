@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "438deedf6fca148bc954920c555944a6990b3280",
+ "parent": "a1af9b09dfa6dedc775e8d66617f20788823eda6",
+ "date": "2025-12-09",
+ "subject": "Обновить AuthContext логику миграции",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251209092508_a400d0e1-e0c9-4f28-909d-3ac37b1a64a7.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 67646
+}

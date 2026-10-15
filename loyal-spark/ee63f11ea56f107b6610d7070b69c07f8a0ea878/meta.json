@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ee63f11ea56f107b6610d7070b69c07f8a0ea878",
+ "parent": "b16b617735ffe99f51103fdff841b14ab09b1dd7",
+ "date": "2026-03-22",
+ "subject": "Added value prop to agent.json",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "public/.well-known/agent.json",
+  "src/pages/ApiDocsPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 89475
+}

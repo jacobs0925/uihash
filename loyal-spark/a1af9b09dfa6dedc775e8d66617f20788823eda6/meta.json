@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a1af9b09dfa6dedc775e8d66617f20788823eda6",
+ "parent": "e4f527d9a97c2a5ce5fe2f73f308a89d7f9393a3",
+ "date": "2025-12-09",
+ "subject": "Improve wallet profile migration flow",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251209092057_9a0e24cb-a26c-4c79-85fa-92095ffcc854.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 68655
+}

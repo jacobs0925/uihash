@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ae18f3bac1cd8ff94f66a4c000ac2500d2328121",
+ "parent": "9ba1ef0906856c8f77179820807ceab5c9304526",
+ "date": "2026-01-22",
+ "subject": "Add swipe for loyalty cards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 78350
+}

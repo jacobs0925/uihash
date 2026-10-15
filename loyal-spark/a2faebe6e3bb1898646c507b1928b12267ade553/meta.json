@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a2faebe6e3bb1898646c507b1928b12267ade553",
+ "parent": "0eca3549018811a217048ecb707c9219e882d578",
+ "date": "2026-03-21",
+ "subject": "Add agent registry UI and logs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/components/agents/AgentActivityLog.tsx",
+  "src/components/agents/AgentManagement.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/config.toml",
+  "supabase/functions/agent-api-key/index.ts",
+  "supabase/migrations/20260321172130_6810bf27-c1f9-4820-8b2c-edb14d191597.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72024
+}

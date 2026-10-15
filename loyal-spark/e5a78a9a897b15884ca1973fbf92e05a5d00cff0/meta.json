@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e5a78a9a897b15884ca1973fbf92e05a5d00cff0",
+ "parent": "b691e2c6fe68e80f813795c6420abe05f33de214",
+ "date": "2025-11-24",
+ "subject": "Add Premium status badge",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/PremiumStatusBadge.tsx",
+  "src/pages/AppPage.tsx",
+  "src/pages/CustomerPage.tsx",
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 2,
+ "ms": 90984
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "166b914a9164c9c8003f6117f09980ec736d5819",
+ "parent": "b12737054068680889120f4e10e95ccd738ad723",
+ "date": "2026-03-08",
+ "subject": "Refactored voucher management",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/VoucherListItem.tsx",
+  "src/components/rewards/VouchersManagement.tsx",
+  "src/lib/vouchers.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73757
+}

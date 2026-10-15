@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "2caebcd0ffe1ecf59671c2db5faa7f568de657be",
+ "parent": "81e529b6a96cd16d6c4cb4c1caa5811e135857e5",
+ "date": "2025-11-27",
+ "subject": "Add referral input UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerPanel.tsx",
+  "src/components/referral/ReferralCodeInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 68229
+}

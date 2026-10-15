@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "b691e2c6fe68e80f813795c6420abe05f33de214",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Add Premium button to top nav",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: block → flex undone by 19705fd2 \"Fix mobile header layout\"; flex-direction: ∅ → row undone by 19705fd2 \"Fix mobile header layout\"; flex-wrap: ∅ → nowrap undone by 19705fd2 \"Fix mobile header layout\""
+}

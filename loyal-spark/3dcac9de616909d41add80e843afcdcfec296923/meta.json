@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3dcac9de616909d41add80e843afcdcfec296923",
+ "parent": "d84fc148b6bb631afc50d98488b5dd92d6fa1155",
+ "date": "2026-01-18",
+ "subject": "Reverted to commit dd1d8452eb034fdb64a0b2ad5bf480bc15e85bd0",
+ "components": [
+  "components",
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "src/components/FarcasterSplash.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/hooks/useFarcasterInit.ts",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 98978
+}

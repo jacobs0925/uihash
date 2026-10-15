@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "d565b9586f435a40b5710c7b8a5c199d14be6ce8",
+ "parent": "f701c652e289e8259e1d2134f5d122103460aee2",
+ "date": "2025-11-21",
+ "subject": "Replace long dash in tagline",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 87332
+}

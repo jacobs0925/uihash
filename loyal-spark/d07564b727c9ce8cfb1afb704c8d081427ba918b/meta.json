@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "d07564b727c9ce8cfb1afb704c8d081427ba918b",
+ "parent": "a2faebe6e3bb1898646c507b1928b12267ade553",
+ "date": "2026-03-21",
+ "subject": "Merge Marketing and Automation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 69561
+}

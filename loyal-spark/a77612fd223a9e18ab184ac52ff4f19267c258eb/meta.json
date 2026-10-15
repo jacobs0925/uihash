@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a77612fd223a9e18ab184ac52ff4f19267c258eb",
+ "parent": "6d437a15523e341daf319296fd93e41c37eb308f",
+ "date": "2025-12-13",
+ "subject": "Introduce verified voucher flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/lib/verifiedVoucher.ts",
+  "supabase/config.toml",
+  "supabase/functions/verify-voucher/index.ts",
+  "supabase/migrations/20251213124011_40fc675c-b2ad-431a-9581-f4bc2a2d99c3.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73224
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "cd96fee55bbed0dac0b729edf36dad268444fc19",
+ "parent": "8467e0d546209f6ef20a945d756f746abc924c58",
+ "date": "2026-03-23",
+ "subject": "Добавил Agent Skills link",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/agents/AgentManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72105
+}

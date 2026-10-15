@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "d5a2c49b40c1c364d4009f66f34163988aeaf69c",
+ "parent": "6962684c68492be838b5a9e307188d49fef6c263",
+ "date": "2026-03-22",
+ "subject": "Add P2P Escrow contract",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "contracts/LoyaltyTokenEscrow.sol",
+  "public/.well-known/agent.json",
+  "src/components/marketplace/CreateMarketplaceOffer.tsx",
+  "src/components/marketplace/MarketplaceOffersList.tsx",
+  "src/config/contracts.ts",
+  "supabase/functions/agent-api/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 75015
+}

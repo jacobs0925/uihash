@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b12737054068680889120f4e10e95ccd738ad723",
+ "parent": "df75df72b49740a85131f1457acd2fcc28c34bbb",
+ "date": "2026-03-07",
+ "subject": "Refactor rewards verif flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "bun.lock",
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/components/rewards/VerificationStatusAlerts.tsx",
+  "src/hooks/useVoucherVerification.ts",
+  "tsconfig.app.json",
+  "tsconfig.json"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 77130
+}

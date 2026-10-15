@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "19705fd29566a52efd6162e6c624731fcb995adf",
+ "parent": "4820e1674c0c04aa1bb698c4d28f276fa20d5881",
+ "date": "2025-12-11",
+ "subject": "Fix mobile header layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AppPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 80752
+}

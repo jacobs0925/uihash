@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "04d577693ff17856359e5d41f9493fcd707dda9f",
+ "date": "2026-03-23",
+ "pr": null,
+ "title": "Update Skills docs and pages",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 474 later commits"
+}

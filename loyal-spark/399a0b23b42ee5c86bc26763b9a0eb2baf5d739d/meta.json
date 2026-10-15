@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "399a0b23b42ee5c86bc26763b9a0eb2baf5d739d",
+ "parent": "a48f2a497566a24e6547fa15438fa1b67bb1ce07",
+ "date": "2025-11-26",
+ "subject": "Add English UI in Admin panel",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/admin/AdminManagement.tsx",
+  "src/pages/AdminPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 91271
+}

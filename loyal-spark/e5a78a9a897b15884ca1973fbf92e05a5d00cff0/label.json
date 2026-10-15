@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "e5a78a9a897b15884ca1973fbf92e05a5d00cff0",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Add Premium status badge",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 638 later commits"
+}

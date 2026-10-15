@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "59b75ff500808cd03f0d8a75c0fd77a23abe6424",
+ "parent": "608779b1b59adcfe7283ea1b688928a63c6e5cbe",
+ "date": "2026-03-13",
+ "subject": "Improve merchant UI stability",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73680
+}

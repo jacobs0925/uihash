@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5b6f36c42fcafd143c8dfb6beb923d102d65e904",
+ "parent": "59b75ff500808cd03f0d8a75c0fd77a23abe6424",
+ "date": "2026-03-13",
+ "subject": "Fix auth prompt flicker",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthPrompt.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 74619
+}

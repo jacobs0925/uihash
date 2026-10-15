@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "612bab1d48339daa997df3dbd1d3705f5b01ff53",
+ "date": "2025-12-11",
+ "pr": null,
+ "title": "Adjust header buttons size",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 618 later commits"
+}

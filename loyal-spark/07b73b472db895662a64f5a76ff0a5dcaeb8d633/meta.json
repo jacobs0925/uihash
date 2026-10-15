@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "07b73b472db895662a64f5a76ff0a5dcaeb8d633",
+ "parent": "4545710ebff6540b5020e4c66e932ebd33c678cb",
+ "date": "2025-12-11",
+ "subject": "Fix header alignment",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 93865
+}

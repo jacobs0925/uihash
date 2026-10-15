@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "51d787f54f49a3967537c6c66101803f19c74a64",
+ "parent": "316d6f1e611182b4ab7bca6f6abeb714034908a2",
+ "date": "2026-03-13",
+ "subject": "Fix auth gating for history",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 70761
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "19705fd29566a52efd6162e6c624731fcb995adf",
+ "date": "2025-12-11",
+ "pr": null,
+ "title": "Fix mobile header layout",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "row-gap: 8px → 12px undone by 3ff2add6 \"Adjust header layout to one row\"; column-gap: 8px → 12px undone by 3ff2add6 \"Adjust header layout to one row\"; row-gap: 8px → 12px undone by 3ff2add6 \"Adjust header layout to one row\""
+}

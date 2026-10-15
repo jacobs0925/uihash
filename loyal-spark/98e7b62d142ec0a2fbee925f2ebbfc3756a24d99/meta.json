@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "98e7b62d142ec0a2fbee925f2ebbfc3756a24d99",
+ "parent": "be96ea7e752fad4b6cdd7b5ee35fbc1807aee23a",
+ "date": "2026-03-13",
+ "subject": "Expand QR Scan Button in Mint Dialog",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MintTokensDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73257
+}

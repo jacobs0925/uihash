@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "f701c652e289e8259e1d2134f5d122103460aee2",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Unify loyalty and invest",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 647 later commits"
+}

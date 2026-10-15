@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "feaa3db956421ee1ea170dc7b0ce81d9077abd1e",
+ "parent": "ee63f11ea56f107b6610d7070b69c07f8a0ea878",
+ "date": "2026-03-22",
+ "subject": "Add mock CDP wallet (Phase 4)",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/agents/AgentManagement.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/agent-wallet/index.ts",
+  "supabase/migrations/20260322081931_9a938b54-346b-4d17-84ca-c324938f04e6.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72686
+}

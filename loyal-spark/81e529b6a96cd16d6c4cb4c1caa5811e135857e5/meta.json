@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "81e529b6a96cd16d6c4cb4c1caa5811e135857e5",
+ "parent": "bd320633cff5448039900d6c17ccefe91f1e4973",
+ "date": "2025-11-26",
+ "subject": "Improve mobile nav across pages",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/pages/AdminPage.tsx",
+  "src/pages/PremiumPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 2,
+ "ms": 102130
+}

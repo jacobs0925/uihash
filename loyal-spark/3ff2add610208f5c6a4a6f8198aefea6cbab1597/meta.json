@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3ff2add610208f5c6a4a6f8198aefea6cbab1597",
+ "parent": "612bab1d48339daa997df3dbd1d3705f5b01ff53",
+ "date": "2025-12-11",
+ "subject": "Adjust header layout to one row",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AppPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 10,
+ "ms": 84534
+}

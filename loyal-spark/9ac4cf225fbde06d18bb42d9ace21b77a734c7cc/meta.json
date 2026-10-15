@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "9ac4cf225fbde06d18bb42d9ace21b77a734c7cc",
+ "parent": "09c0bd27f26a510455fc70867197699beb5f1967",
+ "date": "2026-03-23",
+ "subject": "Fix wallet creation flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/agents/AgentManagement.tsx",
+  "supabase/functions/agent-wallet/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72091
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b9f4649aa85ea3ad6adb8061bf85c04a98ce68ac",
+ "parent": "bfa0753dd2665667cdbc1f6f49169358edaaa231",
+ "date": "2025-11-26",
+ "subject": "Add blockchain verification flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/admin/PaymentRequestsManagement.tsx",
+  "src/components/roundup/PremiumUpgradeDialog.tsx",
+  "src/hooks/usePremiumPayment.ts",
+  "supabase/functions/verify-payment/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 69851
+}

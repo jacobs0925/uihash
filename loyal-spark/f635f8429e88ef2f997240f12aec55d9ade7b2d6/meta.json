@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "f635f8429e88ef2f997240f12aec55d9ade7b2d6",
+ "parent": "51d787f54f49a3967537c6c66101803f19c74a64",
+ "date": "2026-03-13",
+ "subject": "Add mint history DB table",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260313060738_1b06f4b4-d855-404e-963a-61e35cf91d39.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71534
+}

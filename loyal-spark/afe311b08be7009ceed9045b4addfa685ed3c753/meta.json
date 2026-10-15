@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "afe311b08be7009ceed9045b4addfa685ed3c753",
+ "parent": "42dbe65638d160266354db301947825f315e6f8d",
+ "date": "2025-11-21",
+ "subject": "Fix premium upgrade clickability",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/roundup/InvestmentStrategies.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 69110
+}

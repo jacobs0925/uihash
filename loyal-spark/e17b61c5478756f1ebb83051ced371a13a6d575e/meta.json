@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e17b61c5478756f1ebb83051ced371a13a6d575e",
+ "parent": "0e91781c86aa2adc16f117fcfb8fd513ee6c955f",
+ "date": "2026-03-10",
+ "subject": "Сократил список рефералов",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/referral/ReferralCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 70552
+}

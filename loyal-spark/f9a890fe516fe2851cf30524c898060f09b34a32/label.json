@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "f9a890fe516fe2851cf30524c898060f09b34a32",
+ "date": "2026-02-15",
+ "pr": null,
+ "title": "Replace on-chain with onchain across files",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 570 later commits"
+}

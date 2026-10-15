@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5065ec7cfcdee90817a1cabfaeefd02703b0846c",
+ "parent": "5eb1ea690a827ce7e83ac7d5b56b6ce76dea0478",
+ "date": "2025-12-12",
+ "subject": "Fix mobile wallet modal flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 70167
+}

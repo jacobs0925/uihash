@@ -1,0 +1,26 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4b9998af29b79277ffb81ff3a07433d76340156e",
+ "parent": "ecea84f811209878dec46a5b84f202ae9325773c",
+ "date": "2026-04-02",
+ "subject": "Expand vouchers lifecycle endpoints",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "FARCASTER_APP_README.md",
+  "README.md",
+  "public/.well-known/agent.json",
+  "public/.well-known/ai-plugin.json",
+  "public/llms-full.txt",
+  "public/llms.txt",
+  "public/openapi.json",
+  "src/pages/ApiDocsPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 94008
+}

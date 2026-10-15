@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "99690c9e8cceba1f0f3c0ed2c897d0399b22dc50",
+ "parent": "1844b713197935cb41d2356ac720f4d5473db881",
+ "date": "2026-03-13",
+ "subject": "Fix timeout in IssuedTokensHistory",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71033
+}

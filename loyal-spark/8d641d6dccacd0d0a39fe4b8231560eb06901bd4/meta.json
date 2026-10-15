@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "8d641d6dccacd0d0a39fe4b8231560eb06901bd4",
+ "parent": "d07564b727c9ce8cfb1afb704c8d081427ba918b",
+ "date": "2026-03-21",
+ "subject": "Merged REST API docs page and implemented agent API endpoints",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/ApiDocsPage.tsx",
+  "supabase/functions/agent-api/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72686
+}

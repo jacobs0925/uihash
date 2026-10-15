@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "7be32a5b36a148d7bddafab7ad19458ace2a4868",
+ "date": "2025-12-02",
+ "pr": null,
+ "title": "Add marketplace UI components",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 627 later commits"
+}

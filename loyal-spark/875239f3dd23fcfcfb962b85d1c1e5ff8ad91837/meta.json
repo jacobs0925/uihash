@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "875239f3dd23fcfcfb962b85d1c1e5ff8ad91837",
+ "parent": "afe311b08be7009ceed9045b4addfa685ed3c753",
+ "date": "2025-11-21",
+ "subject": "Fix premium button click flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/roundup/InvestmentStrategies.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 68579
+}

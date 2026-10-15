@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "f75bd021a1df765640b652cc275295a82c3b2a60",
+ "date": "2026-03-13",
+ "pr": null,
+ "title": "Сдвинуть сроки на Q2 2027",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 550 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "c861894c28258e19629f8adc667f669f841efc33",
+ "parent": "79bab3daa85d256a9798b0b6c536e75989a3d8ef",
+ "date": "2026-03-24",
+ "subject": "Fix mobile layout overlaps",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/agents/AgentManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73066
+}

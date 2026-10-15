@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4dee52b4c2dee284412667f6be0bc38cc185dd75",
+ "parent": "dfa9efa5ab26b40a59d2a6397f354ff1c1002c49",
+ "date": "2025-11-21",
+ "subject": "Add Investing section to guide",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/GuidePage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 86096
+}

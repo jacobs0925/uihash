@@ -1,0 +1,26 @@
+{
+ "repo": "loyal-spark",
+ "sha": "6962684c68492be838b5a9e307188d49fef6c263",
+ "parent": "701ab721b5f23924bbae989d7f994bdd16163867",
+ "date": "2026-03-22",
+ "subject": "Introduce AI agents support docs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "A2A_INTEGRATION_PLAN.md",
+  "DEPLOYMENT_INSTRUCTIONS.md",
+  "FARCASTER_APP_README.md",
+  "README.md",
+  "README_FARCASTER_RU.md",
+  "public/.well-known/agent.json",
+  "src/pages/GuidePage.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 125399
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "c8bad33f4d64357650e181e45c4b93480db1985b",
+ "parent": "5697f2e6dc57650fd4a30fc3f750eb98c85232ef",
+ "date": "2026-01-12",
+ "subject": "Improve rewards loading UX",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71843
+}

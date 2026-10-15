@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e483d8e7ff09d2a805e06d5cc5680c6ef24944c3",
+ "parent": "5b0fb9df2c768d138b4704c380275b29e1a89fa9",
+ "date": "2026-01-27",
+ "subject": "Referral block carousel mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/referral/ReferralCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71115
+}

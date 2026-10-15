@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a013a5898e218567eb82d681951dd36a24ebdee4",
+ "parent": "5062ed435209d95aab5f4d97fd27e6a78a1acedd",
+ "date": "2026-03-21",
+ "subject": "Integrate API docs link",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/agents/AgentManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 74524
+}

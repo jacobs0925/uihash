@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "801202df3ae4fdee5e49ac3e433638809d6230a7",
+ "date": "2026-03-20",
+ "pr": null,
+ "title": "Add mobile bottom navigation",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 509 later commits"
+}

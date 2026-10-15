@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3910cff4a0a3ae19bfec559546efbda6e1224ca9",
+ "parent": "e483d8e7ff09d2a805e06d5cc5680c6ef24944c3",
+ "date": "2026-01-27",
+ "subject": "TokenList became swipeable on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72389
+}

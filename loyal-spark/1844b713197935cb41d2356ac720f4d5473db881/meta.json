@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "1844b713197935cb41d2356ac720f4d5473db881",
+ "parent": "1522e18444a0078ae4500db8a7fde7c202c129a2",
+ "date": "2026-03-10",
+ "subject": "Refactor move referral block",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 69384
+}

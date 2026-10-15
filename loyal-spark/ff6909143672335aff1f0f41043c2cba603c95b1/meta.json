@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ff6909143672335aff1f0f41043c2cba603c95b1",
+ "parent": "98e7b62d142ec0a2fbee925f2ebbfc3756a24d99",
+ "date": "2026-03-13",
+ "subject": "Fix mobile tab layout in Automation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/automation/AutomationDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 74114
+}

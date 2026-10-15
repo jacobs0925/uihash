@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "c39d2cda0935569697ae5043cc0825ce1f52d539",
+ "parent": "bb68f4669554ef926776978ac1dddc40347641a5",
+ "date": "2026-03-26",
+ "subject": "Add x402 gateway support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/.well-known/agent.json",
+  "public/llms.txt",
+  "public/media-kit/MPP_SERVICE_SUBMISSION.md",
+  "src/components/api-docs/MppSection.tsx",
+  "supabase/functions/x402-gateway/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72622
+}

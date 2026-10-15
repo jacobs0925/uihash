@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "c36330b6af309c0736b72751173adcd3d39202ef",
+ "parent": "557a5843d10cc12a7976f4902ee08afb71be048f",
+ "date": "2026-03-13",
+ "subject": "Increase powered by logo size",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 108278
+}

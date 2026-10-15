@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3de971f0fea3c44b7a411a5aaf6aa3810d7620cf",
+ "parent": "d8baa32766cfc98660401469a41373925f4d3e75",
+ "date": "2026-03-14",
+ "subject": "Fix voucher toasts stacking",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/sonner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71103
+}

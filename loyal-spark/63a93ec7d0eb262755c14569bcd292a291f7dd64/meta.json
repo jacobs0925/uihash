@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "63a93ec7d0eb262755c14569bcd292a291f7dd64",
+ "parent": "f75bd021a1df765640b652cc275295a82c3b2a60",
+ "date": "2026-03-13",
+ "subject": "Adjust slide 11 target dates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/pitch-deck/PitchDeck.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 79122
+}

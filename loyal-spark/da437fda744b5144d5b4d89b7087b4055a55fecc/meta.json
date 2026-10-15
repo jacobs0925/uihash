@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "da437fda744b5144d5b4d89b7087b4055a55fecc",
+ "parent": "dff1fc9c2af1e325781a9064904513b9b1bdb6f7",
+ "date": "2026-03-22",
+ "subject": "Add on-chain plan payments",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/admin/PaymentSettingsManagement.tsx",
+  "src/components/agents/AgentBillingDashboard.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/agent-wallet/index.ts",
+  "supabase/functions/verify-agent-plan-payment/index.ts",
+  "supabase/migrations/20260322141646_d41a342c-5b7a-4102-a65b-0e2cf2a07a7e.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72893
+}

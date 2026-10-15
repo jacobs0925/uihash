@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e4f527d9a97c2a5ce5fe2f73f308a89d7f9393a3",
+ "parent": "fed9583f4f06edfcf4e234ca69dab5ba9b32a268",
+ "date": "2025-12-03",
+ "subject": "Add FAQ for P2P exchange",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/marketplace/MarketplaceDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 67635
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "686705fa2d13a0a86a06d973d72601150c18ce60",
+ "date": "2026-03-13",
+ "pr": null,
+ "title": "Update Q4 2027 target",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 528 later commits"
+}

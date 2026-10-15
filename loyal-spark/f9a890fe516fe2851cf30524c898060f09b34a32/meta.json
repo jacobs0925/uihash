@@ -1,0 +1,27 @@
+{
+ "repo": "loyal-spark",
+ "sha": "f9a890fe516fe2851cf30524c898060f09b34a32",
+ "parent": "f0596f115e7a9fda382baac006d5efcee5476146",
+ "date": "2026-02-15",
+ "subject": "Replace on-chain with onchain across files",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "README.md",
+  "UDS_ADAPTATION_PLAN.md",
+  "index.html",
+  "public/media-kit/PRESS-RELEASE.md",
+  "public/media-kit/SOCIAL-MEDIA-TEMPLATES.md",
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/lib/verifiedVoucher.ts",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 116515
+}

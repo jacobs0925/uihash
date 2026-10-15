@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4545710ebff6540b5020e4c66e932ebd33c678cb",
+ "parent": "19705fd29566a52efd6162e6c624731fcb995adf",
+ "date": "2025-12-11",
+ "subject": "Add mobile hint in RainbowKit",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 93594
+}

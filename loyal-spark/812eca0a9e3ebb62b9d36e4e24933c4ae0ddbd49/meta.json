@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "812eca0a9e3ebb62b9d36e4e24933c4ae0ddbd49",
+ "parent": "23139791dad4d230a2ca4c19b31c753dde7a6926",
+ "date": "2026-03-21",
+ "subject": "Add MCP Server link in AI Agents",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/agents/AgentManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73304
+}

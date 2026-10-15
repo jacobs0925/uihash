@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "c218245db803d881c3b9c1af72764a9176595fdc",
+ "parent": "bcc17fd1719df8772df4b389f92342d697eca1c3",
+ "date": "2026-03-13",
+ "subject": "Add QR scanner for all merchants",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/components/MintTokensDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72521
+}

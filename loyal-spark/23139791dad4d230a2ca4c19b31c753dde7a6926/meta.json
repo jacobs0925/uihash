@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "23139791dad4d230a2ca4c19b31c753dde7a6926",
+ "parent": "dd1bac047f700b25afd5b083f39392f2fa18220b",
+ "date": "2026-03-21",
+ "subject": "Add MCP Server docs to API docs",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/api-docs/McpServerSection.tsx",
+  "src/pages/ApiDocsPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 93290
+}

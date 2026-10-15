@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "bfa0753dd2665667cdbc1f6f49169358edaaa231",
+ "date": "2025-11-26",
+ "pr": null,
+ "title": "Optimize mobile UI across pages",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "min-width: ∅ → 0px undone by 19705fd2 \"Fix mobile header layout\"; min-width: ∅ → 0px undone by 19705fd2 \"Fix mobile header layout\"; min-width: ∅ → 0px undone by 19705fd2 \"Fix mobile header layout\""
+}

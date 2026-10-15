@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "be96ea7e752fad4b6cdd7b5ee35fbc1807aee23a",
+ "parent": "2f3fc3f113015dd2c8317cb452e4bcfaba13b4fa",
+ "date": "2026-03-13",
+ "subject": "Увеличил видимость сканера QR",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/rewards/VouchersManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72918
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "c2fe2c0388c43cc763cb2a4eba0bb5cfdaaea3fd",
+ "parent": "18e311a6dd225699a9e1da56c127e7bf1d4013a9",
+ "date": "2026-03-22",
+ "subject": "Add billing dashboard tech",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/components/agents/AgentBillingDashboard.tsx",
+  "src/components/agents/AgentManagement.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/agent-wallet/index.ts",
+  "supabase/migrations/20260322140426_b7c9de4f-76d6-4228-a78d-a922918f29dd.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72684
+}

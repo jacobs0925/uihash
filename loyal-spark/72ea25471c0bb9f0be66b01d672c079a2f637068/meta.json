@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "72ea25471c0bb9f0be66b01d672c079a2f637068",
+ "parent": "1c0268df13059ae0df08e8ebab1242f0767c05d2",
+ "date": "2026-03-13",
+ "subject": "Fix history load hang",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72614
+}

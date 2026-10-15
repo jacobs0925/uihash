@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "bfa0753dd2665667cdbc1f6f49169358edaaa231",
+ "parent": "7c44c4d2a9f4f58196f8649fbf9c3255536b67d6",
+ "date": "2025-11-26",
+ "subject": "Optimize mobile UI across pages",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/RoleSelector.tsx",
+  "src/pages/AdminPage.tsx",
+  "src/pages/AppPage.tsx",
+  "src/pages/PremiumPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 23,
+ "ms": 113582
+}

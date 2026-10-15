@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "bd320633cff5448039900d6c17ccefe91f1e4973",
+ "parent": "b9f4649aa85ea3ad6adb8061bf85c04a98ce68ac",
+ "date": "2025-11-26",
+ "subject": "Fix mobile overlaps",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/roundup/RoundUpDashboard.tsx",
+  "src/pages/GuidePage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 82725
+}

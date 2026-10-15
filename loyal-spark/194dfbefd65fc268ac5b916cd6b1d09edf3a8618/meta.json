@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "194dfbefd65fc268ac5b916cd6b1d09edf3a8618",
+ "parent": "7a3c1e863df441f1cb8a4d71ef3efdd868800c3c",
+ "date": "2026-03-09",
+ "subject": "Clean debug logs across 6 files",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/components/admin/PaymentRequestsManagement.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/hooks/useBurnAllTokens.ts",
+  "src/hooks/useFarcasterHaptics.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 69519
+}

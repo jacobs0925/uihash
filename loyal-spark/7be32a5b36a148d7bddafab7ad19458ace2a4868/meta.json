@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "7be32a5b36a148d7bddafab7ad19458ace2a4868",
+ "parent": "c211a480b1a7c473c0001232b1bbf74fb5b99a36",
+ "date": "2025-12-02",
+ "subject": "Add marketplace UI components",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/marketplace/CreateMarketplaceOffer.tsx",
+  "src/components/marketplace/MarketplaceDashboard.tsx",
+  "src/components/marketplace/MarketplaceOffersList.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/CustomerPage.tsx",
+  "supabase/migrations/20251202104840_b2c6071e-22c8-4b27-9a74-2381f581f7fb.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 72642
+}

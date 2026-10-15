@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e9b3cb48077f9670b495613b565e7e29a7d8391d",
+ "parent": "2a718a2e62d4962ff1894fbafff888ecd39316a9",
+ "date": "2026-03-22",
+ "subject": "Add token transfer support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/api-docs/McpServerSection.tsx",
+  "supabase/functions/agent-api/index.ts",
+  "supabase/functions/loyalty-mcp/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73580
+}

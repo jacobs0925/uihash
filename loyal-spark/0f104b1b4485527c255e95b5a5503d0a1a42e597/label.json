@@ -5,8 +5,8 @@
  "date": "2025-11-21",
  "pr": "2",
  "title": "Uds adaptation (#2)",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 670 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "line-height: 20px → 16px undone by bfa0753d \"Optimize mobile UI across pages\"; font-size: 14px → 12px undone by bfa0753d \"Optimize mobile UI across pages\"; line-height: 20px → 16px undone by bfa0753d \"Optimize mobile UI across pages\""
 }

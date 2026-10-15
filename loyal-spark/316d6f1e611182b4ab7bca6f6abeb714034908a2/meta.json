@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "316d6f1e611182b4ab7bca6f6abeb714034908a2",
+ "parent": "72ea25471c0bb9f0be66b01d672c079a2f637068",
+ "date": "2026-03-13",
+ "subject": "Improve tokens history fetches",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/IssuedTokensHistory.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 69520
+}

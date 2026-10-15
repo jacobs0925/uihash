@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "4545710ebff6540b5020e4c66e932ebd33c678cb",
+ "date": "2025-12-11",
+ "pr": null,
+ "title": "Add mobile hint in RainbowKit",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 620 later commits"
+}

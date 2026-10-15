@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b5884557c3c795b5008796583e904576f70b6fe7",
+ "parent": "877fcb161ead93228dd6aa282d3240ff535068da",
+ "date": "2026-01-01",
+ "subject": "Fix mobile toast blocking",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/toast.tsx",
+  "src/hooks/use-toast.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 75992
+}

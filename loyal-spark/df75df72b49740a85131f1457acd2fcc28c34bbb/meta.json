@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "df75df72b49740a85131f1457acd2fcc28c34bbb",
+ "parent": "c38a6036c9f2d2f44e6234b00a4369ac4c6da79a",
+ "date": "2026-03-06",
+ "subject": "Improve auth resilience and UI reset",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/lib/verifiedVoucher.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 74306
+}

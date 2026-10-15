@@ -1,0 +1,27 @@
+{
+ "repo": "loyal-spark",
+ "sha": "f701c652e289e8259e1d2134f5d122103460aee2",
+ "parent": "4d755c13574265f0c9329fd810177a74897ea362",
+ "date": "2025-11-21",
+ "subject": "Unify loyalty and invest",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "README.md",
+  "README_FARCASTER_RU.md",
+  "index.html",
+  "public/.well-known/farcaster.json",
+  "public/media-kit/PRESS-RELEASE.md",
+  "public/media-kit/SOCIAL-MEDIA-TEMPLATES.md",
+  "src/components/FarcasterSplash.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 89164
+}

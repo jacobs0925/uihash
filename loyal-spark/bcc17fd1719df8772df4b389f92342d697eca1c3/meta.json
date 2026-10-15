@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "bcc17fd1719df8772df4b389f92342d697eca1c3",
+ "parent": "6f36b6dd0cb1011ac1dee42c76172c7ca79b1629",
+ "date": "2026-03-13",
+ "subject": "Add wallet QR code feature",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "bun.lock",
+  "package.json",
+  "src/components/CustomerPanel.tsx",
+  "src/components/WalletQRCode.tsx",
+  "src/pages/GuidePage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71812
+}

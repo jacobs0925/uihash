@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4d755c13574265f0c9329fd810177a74897ea362",
+ "parent": "b13127176435ec93395eb5a86d334b5ba7598af3",
+ "date": "2025-11-21",
+ "subject": "Fix round-up send amount",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/roundup/SendWithRoundUp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 84868
+}

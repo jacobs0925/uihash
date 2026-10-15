@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "11e6c3f7628048e9e1fb7123ab3756d46551b12e",
+ "parent": "8e7189af4639e0ea8ec4a76b7cd2835c1f6f6d72",
+ "date": "2026-03-19",
+ "subject": "Add SIWE edge functions",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "supabase/config.toml",
+  "supabase/functions/siwe-nonce/index.ts",
+  "supabase/functions/siwe-verify/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 69992
+}

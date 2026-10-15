@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "bb68f4669554ef926776978ac1dddc40347641a5",
+ "parent": "1e2d30bd23073133b70bb9d157187bb81df8a204",
+ "date": "2026-03-26",
+ "subject": "Добавил MPP gateway",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/.well-known/agent.json",
+  "public/llms.txt",
+  "public/media-kit/MPP_SERVICE_SUBMISSION.md",
+  "src/components/api-docs/MppSection.tsx",
+  "src/pages/ApiDocsPage.tsx",
+  "supabase/functions/mpp-gateway/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 121057
+}

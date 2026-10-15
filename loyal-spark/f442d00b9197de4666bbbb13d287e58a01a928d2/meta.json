@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "f442d00b9197de4666bbbb13d287e58a01a928d2",
+ "parent": "adddf572ec8532862e5f6d228949080b14e417d8",
+ "date": "2026-04-01",
+ "subject": "Fix mobile badge wrap",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/roundup/InvestmentStrategies.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72852
+}

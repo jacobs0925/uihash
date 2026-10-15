@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "c211a480b1a7c473c0001232b1bbf74fb5b99a36",
+ "parent": "2caebcd0ffe1ecf59671c2db5faa7f568de657be",
+ "date": "2025-11-27",
+ "subject": "Make referral cards collapsible",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/referral/ReferralCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 68188
+}

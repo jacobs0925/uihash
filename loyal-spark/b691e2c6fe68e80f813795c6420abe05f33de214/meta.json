@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b691e2c6fe68e80f813795c6420abe05f33de214",
+ "parent": "875239f3dd23fcfcfb962b85d1c1e5ff8ad91837",
+ "date": "2025-11-24",
+ "subject": "Add Premium button to top nav",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AppPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 9,
+ "ms": 81165
+}

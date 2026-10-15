@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "d565b9586f435a40b5710c7b8a5c199d14be6ce8",
+ "date": "2025-11-21",
+ "pr": null,
+ "title": "Replace long dash in tagline",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 646 later commits"
+}

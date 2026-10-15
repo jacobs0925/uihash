@@ -6,9 +6,12 @@
 // A library without a Storybook builds its own test app instead and names the pages to check ("pages", see pageList());
 // an app ("pages.routes", see appRoutes()) is built whole and checked on its routes.
 // Usage: node learn/public/walk.js <repo name in repos.json> <workDir> <dataDir> [--since 2026-01-01] [--max 20] [--minutes 40] [--newest-first]
-//                                  [--only <sha,sha>] [--keep-images]
+//                                  [--only <sha,sha>] [--keep-images] [--again]
 // --minutes: start no new commit after that long (the one in progress finishes). Resumable: commits that
 // already have a summary (summary.json, or summary.json.gz once round.sh has compacted it) are skipped.
+// --again: commits checked before that have findings and no verdict from the judge (judge.json) are checked again,
+// for their crops (with --keep-images). The check goes to <sha>/again/ and replaces the earlier one when it
+// succeeds; a failed one leaves the earlier check as it was.
 const fs = require('fs');
 const path = require('path');
 const http = require('http');
@@ -217,7 +220,7 @@ function writeRestores() {
   log(`${restores.length} restores in the history`);
 }
 
-async function check(c, comps) {
+async function check(c, comps, dir) {
   const listed = APP ? appRoutes(c) : R.pages && pageList(c, +opt('stories', 24), comps);
   if (listed && !listed.length) return null;
   const base = build(c.parent, comps), head = build(c.sha, comps);
@@ -230,7 +233,6 @@ async function check(c, comps) {
     // "concurrency": pages rendered at once, where forced hover and focus states depend on timing under load
     const config = { quick: true, runs: 2, viewport: { width: 1280, height: 800 }, keys: R.keys || 'class', offline: !!R.offline, pseudoStates: ['hover', 'focus'], ...(R.concurrency ? { concurrency: R.concurrency } : {}),
       pages: list.map((e) => ({ name: e.id, path: R.pages ? e.path : `iframe.html?id=${e.id}&viewMode=story` })) };
-    const dir = path.join(out, c.sha);
     return await runPR({ baseUrl: `http://127.0.0.1:${sb.address().port}/`, headUrl: `http://127.0.0.1:${sh2.address().port}/`, config, outDir: dir });
   } finally { sb.close(); sh2.close(); }
 }
@@ -265,12 +267,17 @@ function memoryWatch(dir) {
   // --only <sha,sha>: just these commits (prefixes are enough), e.g. to check them again with --keep-images
   if (opt('only')) { const want = opt('only').split(','); list = list.filter((c) => want.some((w) => c.sha.startsWith(w))); }
   const max = +opt('max', 20), until = START + +opt('minutes', 1e6) * 60e3;
+  const AGAIN = process.argv.includes('--again');
+  for (const d of fs.readdirSync(out)) if (fs.existsSync(path.join(out, d, 'again'))) fs.rmSync(path.join(out, d, 'again'), { recursive: true });   // a stopped walk's
   let done = 0, failedInARow = 0;
   for (const c of list) {
     if (done >= max || failedInARow >= 3 || Date.now() > until) break;
     const dir = path.join(out, c.sha);
     // done: checked with the current version of the recipe (raise "version" to check again what an older one got wrong)
-    if (hasSummary(dir) && fs.existsSync(path.join(dir, 'meta.json')) && (JSON.parse(fs.readFileSync(path.join(dir, 'meta.json'), 'utf8')).recipe || 1) >= (R.version || 1)) continue;
+    const before = hasSummary(dir) && fs.existsSync(path.join(dir, 'meta.json')) ? JSON.parse(fs.readFileSync(path.join(dir, 'meta.json'), 'utf8')) : null;
+    const isDone = before && (before.recipe || 1) >= (R.version || 1);
+    const again = isDone && AGAIN && before.findings > 0 && !fs.existsSync(path.join(dir, 'judge.json'));
+    if (isDone && !again) continue;
     const attempts = fs.existsSync(path.join(dir, 'failed.json')) ? JSON.parse(fs.readFileSync(path.join(dir, 'failed.json'), 'utf8')).attempts || 1 : 0;
     if (attempts >= 2) continue;
     const comps = components(c);
@@ -293,13 +300,22 @@ function memoryWatch(dir) {
       const title = R.merges && /^Merge pull request #\d+/.test(c.subject) ? git(['log', '-1', '--format=%b', c.sha]).trim().split('\n')[0] : '';
       const meta = { repo: NAME, sha: c.sha, parent: c.parent, date: c.date, subject: title ? `${title} (#${c.pr})` : c.subject, pr: c.pr, components: comps, files: c.files,
         snapshotsUpdated: c.files.filter((f) => SNAP.test(f)), changeset: changeset.slice(0, 4000) };
-      const s = await check(c, comps);
+      const tmp = path.join(dir, 'again');
+      const s = await check(c, comps, again ? tmp : dir);
+      if (again && s) {
+        for (const f of ['summary.json', 'summary.json.gz']) fs.rmSync(path.join(dir, f), { force: true });
+        for (const f of fs.readdirSync(tmp)) fs.renameSync(path.join(tmp, f), path.join(dir, f));
+      }
+      if (again) fs.rmSync(tmp, { recursive: true, force: true });
       // the screenshots, crops and report are not kept (--keep-images: they are, for a person or a judge to look at)
       if (!process.argv.includes('--keep-images')) for (const f of fs.existsSync(dir) ? fs.readdirSync(dir) : []) if (/\.(png|html)$/.test(f)) fs.unlinkSync(path.join(dir, f));
       const n = s ? s.pages.reduce((k, p) => k + p.findings.filter((f) => !f.sameAs).length, 0) : 0;
-      fs.writeFileSync(path.join(dir, 'meta.json'), JSON.stringify({ ...meta, recipe: R.version || 1, stories: s ? s.pages.length : 0, findings: n, ms: Date.now() - t0 }, null, 1));
-      if (!s) fs.writeFileSync(path.join(dir, 'summary.json'), JSON.stringify({ pages: [] }));
-      log(`  ${n} findings in ${s ? s.targets : 0} story states (${((Date.now() - t0) / 1000).toFixed(0)}s)`);
+      if (again && !s) log('  nothing to show this time: the earlier check stays');
+      else {
+        fs.writeFileSync(path.join(dir, 'meta.json'), JSON.stringify({ ...meta, recipe: R.version || 1, stories: s ? s.pages.length : 0, findings: n, ms: Date.now() - t0 }, null, 1));
+        if (!s) fs.writeFileSync(path.join(dir, 'summary.json'), JSON.stringify({ pages: [] }));
+        log(`  ${n} findings in ${s ? s.targets : 0} story states (${((Date.now() - t0) / 1000).toFixed(0)}s)${again ? ', checked again' : ''}`);
+      }
       fs.rmSync(path.join(dir, 'failed.json'), { force: true });
       done++; failedInARow = 0;
     } catch (e) {
@@ -309,7 +325,7 @@ function memoryWatch(dir) {
       const error = e.stdout || e.stderr ? `${String(e.message).split('\n')[0].slice(0, 300)}\n--- stdout (end)\n${tail(e.stdout)}\n--- stderr (end)\n${tail(e.stderr)}` : String(e.stack || e.message).slice(-3000);
       fs.writeFileSync(path.join(dir, 'failed.json'), JSON.stringify({ attempts: attempts + 1, error }));
       done++; failedInARow++;
-    } finally { clearInterval(watch); }
+    } finally { clearInterval(watch); fs.rmSync(path.join(dir, 'again'), { recursive: true, force: true }); }
     prune(new Set());                       // builds are per commit pair; keep the disk small
   }
 })();

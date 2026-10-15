@@ -12,6 +12,13 @@
 # (a round that checked nothing, or failed): a scheduled run that arrives while rounds are going is
 # replaced by the next round in the queue, and shows as cancelled.
 #
+# The visual judge (learn/judge.js) is off until the JUDGE_MODEL repository variable names a model (Settings →
+# Secrets and variables → Actions → Variables), with the ANTHROPIC_API_KEY secret. Then the walk keeps its crops,
+# spends the time left on commits checked before the judge was there (JUDGE_AGAIN of them per repository), and
+# `judge` sends up to JUDGE_MAX commits (default 100) a round to the model, in a job of its own: the key never
+# reaches the job that runs the walked repositories' code. Its verdicts (judge.json) are saved with the data.
+# With claude-opus-5-5 that is about $4 a round at 100 commits; learn/gold.js says which model agrees with a person.
+#
 # Stop it: Actions tab → learn → ··· → Disable workflow. Cancelling a run stops the rounds only until the
 # schedule restarts them. GitHub also pauses schedules in a public repository after 60 days without
 # activity; enable it there again.
@@ -44,6 +51,8 @@ jobs:
     env:
       WALK_MINUTES: ${{ inputs.walk_minutes || '165' }}
       COREPACK_ENABLE_DOWNLOAD_PROMPT: '0'
+      JUDGE: ${{ vars.JUDGE_MODEL != '' && '1' || '0' }}
+      AGAIN: ${{ vars.JUDGE_AGAIN || '0' }}
     steps:
       - uses: actions/checkout@v5
         with: { persist-credentials: false }
@@ -85,6 +94,15 @@ jobs:
         id: count
         if: ${{ !cancelled() }}
         run: echo "checked=$(find data -mindepth 3 -maxdepth 3 -name meta.json -newer "$RUNNER_TEMP/walk-start" | wc -l)" | tee -a "$GITHUB_OUTPUT"
+      - name: Hand the crops to the judge
+        if: ${{ !cancelled() && vars.JUDGE_MODEL != '' }}
+        run: |
+          bash learn/public/round.sh crops data "$RUNNER_TEMP/crops"
+          # the crops now travel to the judge only: none reach the learn-data branch, whatever happens next
+          find data -mindepth 3 -maxdepth 4 \( -name '*.png' -o -name '*.html' \) -delete
+      - uses: actions/upload-artifact@v6
+        if: ${{ !cancelled() && vars.JUDGE_MODEL != '' }}
+        with: { name: learn-crops, path: '${{ runner.temp }}/crops', retention-days: 1, if-no-files-found: ignore }
       - name: Relabel, retrain and gate against learn/model.json
         if: ${{ !cancelled() }}
         timeout-minutes: 20
@@ -106,8 +124,43 @@ jobs:
         uses: actions/upload-artifact@v6
         with: { name: learn-model, path: '${{ runner.temp }}/model', retention-days: 14, if-no-files-found: ignore }
 
-  publish:
+  judge:
+    # the visual judge on this round's crops (see the top), away from the walked repositories' code
     needs: collect
+    if: ${{ !cancelled() && vars.JUDGE_MODEL != '' && needs.collect.result == 'success' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v5
+        with: { persist-credentials: false }
+      - uses: actions/setup-node@v5
+        with: { node-version: 22 }
+      - uses: actions/download-artifact@v7
+        id: crops
+        continue-on-error: true          # no crops this round: nothing to judge
+        with: { name: learn-crops, path: crops }
+      - name: Install the Anthropic SDK
+        if: steps.crops.outcome == 'success'
+        run: npm install --no-audit --no-fund --ignore-scripts
+      - name: Judge the commits
+        if: steps.crops.outcome == 'success'
+        shell: bash
+        env: { ANTHROPIC_API_KEY: '${{ secrets.ANTHROPIC_API_KEY }}', JUDGE_MODEL: '${{ vars.JUDGE_MODEL }}', JUDGE_MAX: '${{ vars.JUDGE_MAX || 100 }}' }
+        run: |
+          if [ -z "$ANTHROPIC_API_KEY" ]; then echo "::warning::JUDGE_MODEL is set, the ANTHROPIC_API_KEY secret is not"; exit 0; fi
+          node learn/judge.js crops/*/ --model "$JUDGE_MODEL" --max "$JUDGE_MAX" --parallel 4 | tee "$RUNNER_TEMP/judge.log"
+          tail -1 "$RUNNER_TEMP/judge.log" >> "$GITHUB_STEP_SUMMARY"
+      - name: Collect the verdicts
+        if: ${{ !cancelled() && steps.crops.outcome == 'success' }}
+        run: mkdir -p judged && cd crops && find . -mindepth 3 -maxdepth 3 -name judge.json -exec cp --parents {} ../judged/ \;
+      - uses: actions/upload-artifact@v6
+        if: ${{ !cancelled() && steps.crops.outcome == 'success' }}
+        with: { name: learn-judged, path: judged, retention-days: 3, if-no-files-found: ignore }
+
+  publish:
+    needs: [collect, judge]
     if: ${{ !cancelled() }}
     runs-on: ubuntu-latest
     timeout-minutes: 15
@@ -124,6 +177,10 @@ jobs:
         id: model
         continue-on-error: true
         with: { name: learn-model, path: model }
+      - uses: actions/download-artifact@v7
+        if: needs.judge.result == 'success'
+        continue-on-error: true
+        with: { name: learn-judged, path: judged }
       - name: Save the data on the learn-data branch
         if: steps.download.outcome == 'success'
         run: |
@@ -139,6 +196,7 @@ jobs:
           if [ "$now" -lt "$old" ]; then echo "::error::collect produced $now checked commits, the learn-data branch has $old; not saving"; exit 1; fi
           find data -mindepth 1 -maxdepth 1 ! -name .git -exec rm -rf {} +
           cp -a new/. data/
+          if [ -d judged ]; then cp -a judged/. data/; fi      # the judge's verdicts on this round's commits
           cd data && git add -A
           if git diff --cached --quiet; then echo "Nothing new"; exit 0; fi
           git commit --quiet -m "learn: round ${{ github.run_number }}"

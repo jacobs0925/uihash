@@ -10,8 +10,11 @@
 #          goes through the promotion gate against the current model, and report.js adds the round's
 #          summary, decision and history line.
 #          The chosen model (model.json, model-report.md) and the reports go to $MODEL_OUT.
+#   crops  between the two, with JUDGE=1: copies what the visual judge (learn/judge.js) needs of each commit that
+#          still has its crops to <outDir>/<repo>/<sha>/, for a job that judges them away from the walk
 #
 # Usage: learn/public/round.sh walk  <dataDir> <workDir>
+#        learn/public/round.sh crops <dataDir> <outDir>
 #        learn/public/round.sh train <dataDir> [current model.json]
 # <dataDir>/<repo>/<sha>/  what walk.js and label.js write for a commit
 # <dataDir>/latest.md, history.jsonl   the last round's summary, and one line per round
@@ -29,6 +32,9 @@
 #   MODEL_OUT      where the round's model and reports go             (default <dataDir>/models/latest)
 #   LOGS           where the walk, label and weekly logs go          (default <dataDir>/logs)
 #   KEEP_MODELS    1: also keep each round's model in <dataDir>/models/<time>/    (default 0)
+#   JUDGE          1: the walk keeps the crops, for the visual judge             (default 0)
+#   AGAIN          with JUDGE=1, in the time left: at most this many commits per repository that were checked
+#                  before, have findings and no verdict are checked again for their crops        (default 0)
 set -u
 PHASE=$1; DATA=$2
 HERE=$(cd "$(dirname "$0")/../.." && pwd)
@@ -43,16 +49,31 @@ if [ "$PHASE" = walk ]; then
   # get past failing commits), and only then does the next one get the time that is left. Repositories
   # already used up come first each round, but only have their new commits to check.
   end=$(( $(date +%s) + ${WALK_MINUTES:-165} * 60 ))
+  img=(); [ "${JUDGE:-0}" = 1 ] && img=(--keep-images)
   for r in "${repos[@]}"; do
     while :; do
       minutes=$(( (end - $(date +%s)) / 60 ))
       [ "$minutes" -gt 0 ] || break 2
       echo "== $r: up to $minutes minutes"
-      node "$HERE/learn/public/walk.js" "$r" "$WORK" "$DATA" --since "${SINCE:-2025-10-01}" --minutes "$minutes" --max "${BATCH:-100000}" 2>&1 | tee -a "$LOGS/walk-$r.log"
+      node "$HERE/learn/public/walk.js" "$r" "$WORK" "$DATA" --since "${SINCE:-2025-10-01}" --minutes "$minutes" --max "${BATCH:-100000}" ${img[@]+"${img[@]}"} 2>&1 | tee -a "$LOGS/walk-$r.log"
       # 3: the walk gave up a commit that ran the machine out of memory, and stopped; the rest is still to walk
       [ "${PIPESTATUS[0]}" = 3 ] || break
     done
   done
+  # the time left goes to commits checked before the judge was there, for their crops
+  if [ "${JUDGE:-0}" = 1 ] && [ "${AGAIN:-0}" -gt 0 ]; then
+    for r in "${repos[@]}"; do
+      minutes=$(( (end - $(date +%s)) / 60 ))
+      [ "$minutes" -gt 0 ] || break
+      echo "== $r, checked again for the judge: up to $minutes minutes"
+      node "$HERE/learn/public/walk.js" "$r" "$WORK" "$DATA" --since "${SINCE:-2025-10-01}" --minutes "$minutes" --max "$AGAIN" --keep-images --again 2>&1 | tee -a "$LOGS/walk-$r.log"
+    done
+  fi
+
+elif [ "$PHASE" = crops ]; then
+  OUT=$3; dirs=()
+  for r in "${repos[@]}"; do [ -d "$DATA/$r" ] && dirs+=("$DATA/$r"); done
+  if [ ${#dirs[@]} -gt 0 ]; then node "$HERE/learn/judge.js" --pack "$OUT" "${dirs[@]}"; fi
 
 elif [ "$PHASE" = train ]; then
   CURRENT=${3:-}; OUT=${MODEL_OUT:-$DATA/models/latest}
@@ -66,6 +87,7 @@ elif [ "$PHASE" = train ]; then
     # keep what training needs, compressed: the summary (labels and features come from it); uihash's
     # screenshots and comment can be made again by walking the commit again
     find "$DATA/$r" -mindepth 2 -maxdepth 2 \( -name '*.png' -o -name '*.html' -o -name comment.md \) -delete
+    find "$DATA/$r" -mindepth 2 -maxdepth 2 -type d -name again -exec rm -rf {} +    # a check again that was stopped
     find "$DATA/$r" -mindepth 2 -maxdepth 2 -name summary.json -exec gzip -9f {} +
     split+=("$DATA/$r")
   done
@@ -86,5 +108,5 @@ elif [ "$PHASE" = train ]; then
   rm -rf "$OUT"; mkdir -p "$(dirname "$OUT")"; mv "$M" "$OUT"
 
 else
-  echo "usage: $0 walk <dataDir> <workDir> | train <dataDir> [current model.json]"; exit 2
+  echo "usage: $0 walk <dataDir> <workDir> | crops <dataDir> <outDir> | train <dataDir> [current model.json]"; exit 2
 fi

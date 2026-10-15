@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "cb012448b26a00c8e0a72de494a7d8d0369a612a",
+ "parent": "ee9bc756853239079e312829d0a51bd82ace39c0",
+ "date": "2026-04-15",
+ "subject": "Revert \"fix(customer): restore loyalty panel sections removed by Lovable\"",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerPanel.tsx",
+  "src/components/customer/CustomerProfileSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 99876
+}

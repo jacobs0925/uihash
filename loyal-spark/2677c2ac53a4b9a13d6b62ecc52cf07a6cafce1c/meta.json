@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "2677c2ac53a4b9a13d6b62ecc52cf07a6cafce1c",
+ "parent": "de4725365d46f0f6f6c88626a40cc6152ce2265c",
+ "date": "2026-04-14",
+ "subject": "Убрал Invest, перем. Profile",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/components/mobile/BottomNavBar.tsx",
+  "src/pages/CustomerPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 108210
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "08daf318a80df8a28c8415c3d2124f3db2772306",
+ "parent": "b7e7c051ef105bc23858cf3f744264dd30515e41",
+ "date": "2026-04-13",
+ "subject": "Update adoption targets in PitchDeck",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PitchDeck.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 106947
+}

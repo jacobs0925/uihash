@@ -1,0 +1,42 @@
+{
+ "repo": "loyal-spark",
+ "sha": "51033c5ca5b54a0c4ef04096fa0c221a36919689",
+ "parent": "9635de6b0f0c687fd2f9c68c08a707738dc28454",
+ "date": "2026-04-14",
+ "subject": "feat(agent-api): cashback and points on register; update-program-config",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "README.md",
+  "docs/integrations/FARCASTER_APP_README.md",
+  "docs/integrations/OPENSERV_AGENT_PROMPTS.md",
+  "docs/integrations/PROMPT_GUIDE.md",
+  "public/.well-known/agent.json",
+  "public/.well-known/mpp.json",
+  "public/.well-known/skills/01-create-loyalty-program.md",
+  "public/llms-full.txt",
+  "public/llms.txt",
+  "public/openapi.json",
+  "src/components/api-docs/MppSection.tsx",
+  "src/components/landing/LandingAgents.tsx",
+  "src/components/landing/LandingFeatures.tsx",
+  "src/constants/mcpToolNames.ts",
+  "src/hooks/usePageMeta.ts",
+  "src/pages/ApiDocsPage.tsx",
+  "src/pages/ForAgentsPage.tsx",
+  "src/pages/GuidePage.tsx",
+  "supabase/functions/_shared/program-economics.ts",
+  "supabase/functions/agent-api/index.ts",
+  "supabase/functions/loyalty-mcp/index.ts",
+  "supabase/functions/mpp-gateway/index.ts",
+  "supabase/functions/x402-gateway/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 8,
+ "ms": 144361
+}

@@ -1,0 +1,27 @@
+{
+ "repo": "loyal-spark",
+ "sha": "154c22926e93a93a74a79947e015ab6d7dfdc7b0",
+ "parent": "6c0bfd5c3a9a3ddd67b17cc0feb42477b7ea7e2e",
+ "date": "2026-04-04",
+ "subject": "Restructured UI flows and polish",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "bun.lock",
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/components/CustomerPanel.tsx",
+  "src/components/DexIntegration.tsx",
+  "src/components/TokenList.tsx",
+  "src/components/WalletQRCode.tsx",
+  "src/components/rewards/MyVouchers.tsx",
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/components/roundup/RoundUpDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 70234
+}

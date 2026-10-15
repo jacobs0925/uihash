@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e6b130585080d9c8fddfeddc36192c7451c41005",
+ "parent": "08daf318a80df8a28c8415c3d2124f3db2772306",
+ "date": "2026-04-13",
+ "subject": "Hide pricing preview block",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "bun.lock",
+  "src/components/landing/PaymentHandshake.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 98550
+}

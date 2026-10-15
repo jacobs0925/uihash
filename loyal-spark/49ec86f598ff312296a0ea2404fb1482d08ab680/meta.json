@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "49ec86f598ff312296a0ea2404fb1482d08ab680",
+ "parent": "fa84bb5ed2c9a9428c76c931df8d4156645eb4d5",
+ "date": "2026-04-02",
+ "subject": "Update endpoints to include USDC",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "FARCASTER_APP_README.md",
+  "PROMPT_GUIDE.md",
+  "public/llms.txt",
+  "src/components/api-docs/MppSection.tsx",
+  "src/components/landing/PaymentHandshake.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 68007
+}

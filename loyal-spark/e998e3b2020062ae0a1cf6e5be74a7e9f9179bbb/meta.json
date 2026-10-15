@@ -1,0 +1,25 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e998e3b2020062ae0a1cf6e5be74a7e9f9179bbb",
+ "parent": "6dd48ac1af283c1108f8aa62c15d75141a4599ec",
+ "date": "2026-04-10",
+ "subject": "Add customer export API",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/integrations/supabase/types.ts",
+  "src/pages/GuidePage.tsx",
+  "src/pages/pitch-deck/PitchDeck.tsx",
+  "supabase/functions/customer-export/index.ts",
+  "supabase/functions/loyalty-mcp/index.ts",
+  "supabase/migrations/20260410075620_fbbf5ceb-59f3-4ed2-9055-9c81da99a1d9.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72036
+}

@@ -1,0 +1,33 @@
+{
+ "repo": "loyal-spark",
+ "sha": "c4a2bf282ec69c28a0f4fd9cc342fdf4661fe8c6",
+ "parent": "51033c5ca5b54a0c4ef04096fa0c221a36919689",
+ "date": "2026-04-14",
+ "subject": "feat(recipient-agents): rwk_ REST + MCP for wallet-bound loyalty holders",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "AGENTS.md",
+  "README.md",
+  "docs/agents/QUICKSTART.md",
+  "examples/recipient-agent-mcp/cursor-mcp.json",
+  "src/constants/recipientMcpToolNames.ts",
+  "src/pages/ForAgentsPage.tsx",
+  "supabase/config.toml",
+  "supabase/functions/README.md",
+  "supabase/functions/_shared/recipient-agent-auth.ts",
+  "supabase/functions/_shared/recipient-queries.ts",
+  "supabase/functions/_shared/recipient-redeem.ts",
+  "supabase/functions/recipient-api/http.ts",
+  "supabase/functions/recipient-api/index.ts",
+  "supabase/functions/recipient-loyalty-mcp/index.ts",
+  "supabase/migrations/20260415120000_recipient_agent_registry.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 7,
+ "ms": 119656
+}

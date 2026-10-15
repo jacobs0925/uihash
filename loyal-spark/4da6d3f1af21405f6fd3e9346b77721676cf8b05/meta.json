@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "4da6d3f1af21405f6fd3e9346b77721676cf8b05",
+ "parent": "f977021e78ccc4169590ca512500c6eaaa473bf8",
+ "date": "2026-04-10",
+ "subject": "Improve MCP tools and prompts",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "OPENSERV_AGENT_PROMPTS.md",
+  "public/.well-known/agent.json",
+  "public/llms.txt",
+  "src/pages/GuidePage.tsx",
+  "supabase/functions/loyalty-mcp/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72795
+}

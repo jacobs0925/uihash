@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a7dde7e2731f0c768b3ae2c32eb43b7fd5551b7b",
+ "parent": "200438986549a722a4313a37ef0211eb65a4a98d",
+ "date": "2026-04-13",
+ "subject": "Fix autologin after logout",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 97438
+}

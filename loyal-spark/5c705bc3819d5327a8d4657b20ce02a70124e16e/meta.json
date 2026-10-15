@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5c705bc3819d5327a8d4657b20ce02a70124e16e",
+ "parent": "103b8e06e998dd8dbe8ffcb97285654aaf52a520",
+ "date": "2026-04-02",
+ "subject": "Make Trust & Security stand out",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/TrustSecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 68120
+}

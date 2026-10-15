@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "26fb3a152319de0c3a56795413409068745f90b2",
+ "parent": "1d50a67fa211c69aeed5207900c199387959e10a",
+ "date": "2026-04-14",
+ "subject": "Добавил профиль мерчанта и API",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerPanel.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/components/customer/MerchantCardGrid.tsx",
+  "src/components/merchant/MerchantProfileForm.tsx",
+  "supabase/functions/agent-api/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 99273
+}

@@ -1,0 +1,30 @@
+{
+ "repo": "loyal-spark",
+ "sha": "9b9b742cdf02e743fa48d50e8133258ba6d77174",
+ "parent": "f90412329723c72e6eb437ea8e34c2f361d95e77",
+ "date": "2026-04-12",
+ "subject": "refactor: shared builder/commission, API rate limits, MCP mint parity",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "package.json",
+  "public/.well-known/skills/02-mint-tokens.md",
+  "src/components/api-docs/McpServerSection.tsx",
+  "supabase/functions/_shared/agent-rate-limit.ts",
+  "supabase/functions/_shared/loyalspark-agent-helpers.ts",
+  "supabase/functions/_shared/loyalspark-agent-helpers_test.ts",
+  "supabase/functions/agent-api/auth.ts",
+  "supabase/functions/agent-api/http.ts",
+  "supabase/functions/agent-api/index.ts",
+  "supabase/functions/agent-wallet/index.ts",
+  "supabase/functions/loyalty-mcp/helpers.ts",
+  "supabase/functions/loyalty-mcp/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 74585
+}

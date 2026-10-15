@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "6870772645fb9134dc2d116bda326b7cce6ba2d4",
+ "parent": "426183f5cd7be9b2b5df9e4493f0402f6e5ac899",
+ "date": "2026-04-09",
+ "subject": "Hide API key alert behind modal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/agents/AgentManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73736
+}

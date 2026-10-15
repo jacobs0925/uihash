@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "fb9b5aa582b2b4ffba570cd346449132cd1de773",
+ "date": "2026-04-04",
+ "pr": null,
+ "title": "Adapt mobile responsive UI",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 402 later commits"
+}

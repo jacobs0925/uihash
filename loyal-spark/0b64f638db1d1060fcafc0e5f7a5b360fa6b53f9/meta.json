@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "0b64f638db1d1060fcafc0e5f7a5b360fa6b53f9",
+ "parent": "9b267eb1c5cb7307cd3de7fe571e3779cc21ccc2",
+ "date": "2026-04-05",
+ "subject": "Wallet abstraction implemented",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AuthPrompt.tsx",
+  "src/components/CustomerPanel.tsx",
+  "src/components/RoleSelector.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 7,
+ "ms": 80705
+}

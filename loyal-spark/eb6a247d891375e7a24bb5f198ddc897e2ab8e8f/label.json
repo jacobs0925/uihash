@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "eb6a247d891375e7a24bb5f198ddc897e2ab8e8f",
+ "date": "2026-04-05",
+ "pr": null,
+ "title": "Adapt docs for sign‑in Abstraction",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 398 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b7e7c051ef105bc23858cf3f744264dd30515e41",
+ "parent": "bfb86e08970f4f5a07922d117752f2973eb328a5",
+ "date": "2026-04-13",
+ "subject": "Adjust Onchain Text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/TrustSecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 97895
+}

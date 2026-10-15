@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "2f6fdb25c4aeb32004b794ebe7c21890970c446d",
+ "date": "2026-04-15",
+ "pr": null,
+ "title": "Убрал код из меню, выровнял кнопки",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 8px → 0px undone by 47f94641 \"Вернул стили и доступ\"; padding-top: 8px → 0px undone by 47f94641 \"Вернул стили и доступ\"; padding-top: 8px → 0px undone by 47f94641 \"Вернул стили и доступ\""
+}

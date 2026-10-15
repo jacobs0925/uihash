@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "6b0c0e7fae866d0dae3e698ec8327d4d186aba69",
+ "parent": "73e70fae0b4c931821aacaebf762471a0557d412",
+ "date": "2026-04-15",
+ "subject": "fix(merchant): invite RPC target wallet, clearer errors and help text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/team/AcceptMerchantInviteCard.tsx",
+  "src/components/team/EmployeeManagement.tsx",
+  "supabase/migrations/20260416120000_accept_merchant_invite_target_wallet.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 102705
+}

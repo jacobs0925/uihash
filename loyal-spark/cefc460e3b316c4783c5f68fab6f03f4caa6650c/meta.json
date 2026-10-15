@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "cefc460e3b316c4783c5f68fab6f03f4caa6650c",
+ "parent": "6b0c0e7fae866d0dae3e698ec8327d4d186aba69",
+ "date": "2026-04-15",
+ "subject": "style(header): unify Profile and wallet button dimensions",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/ThemeToggle.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/pages/CustomerPage.tsx",
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 127324
+}

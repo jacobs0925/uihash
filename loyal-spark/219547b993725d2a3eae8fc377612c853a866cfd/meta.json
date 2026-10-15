@@ -1,0 +1,26 @@
+{
+ "repo": "loyal-spark",
+ "sha": "219547b993725d2a3eae8fc377612c853a866cfd",
+ "parent": "02e52b4bf987132befe2fb9c0f7378ad03647e3f",
+ "date": "2026-04-14",
+ "subject": "fix(wallet): reset wagmi/Privy state on connector reconnect failures",
+ "components": [
+  "App.tsx",
+  "components",
+  "contexts",
+  "main.tsx"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/ConnectorRecoveryListener.tsx",
+  "src/constants/walletConnectorRecovery.ts",
+  "src/contexts/AuthContext.tsx",
+  "src/main.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 99646
+}

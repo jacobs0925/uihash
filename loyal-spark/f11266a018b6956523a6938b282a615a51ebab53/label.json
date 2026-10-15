@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "f11266a018b6956523a6938b282a615a51ebab53",
+ "date": "2026-04-15",
+ "pr": null,
+ "title": "Унифицировал стили кнопок",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 286 later commits"
+}

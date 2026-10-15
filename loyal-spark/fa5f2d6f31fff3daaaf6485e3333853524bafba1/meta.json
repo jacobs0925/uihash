@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "fa5f2d6f31fff3daaaf6485e3333853524bafba1",
+ "parent": "cefc460e3b316c4783c5f68fab6f03f4caa6650c",
+ "date": "2026-04-15",
+ "subject": "Провёл аудит public/ и билд",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/components/merchant/tabs/TeamTab.tsx",
+  "supabase/functions/recipient-loyalty-mcp/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 98312
+}

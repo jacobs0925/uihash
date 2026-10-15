@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "2677c2ac53a4b9a13d6b62ecc52cf07a6cafce1c",
+ "date": "2026-04-14",
+ "pr": null,
+ "title": "Убрал Invest, перем. Profile",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "grid-template-columns: repeat(3, minmax(0px, 1fr)) → repeat(2, minmax(0px, 1fr)) undone by 52abb2a4 \"Добавил профиль клиента\"; grid-template-columns: repeat(3, minmax(0px, 1fr)) → repeat(2, minmax(0px, 1fr)) undone by 52abb2a4 \"Добавил профиль клиента\"; grid-template-columns: repeat(3, minmax(0px, 1fr)) → repeat(2, minmax(0px, 1fr)) undone by 52abb2a4 \"Добавил профиль клиента\""
+}

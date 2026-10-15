@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "6f7d32cbd73b64efb4bfffd901bd8c9b9f4c6bda",
+ "date": "2026-04-10",
+ "pr": null,
+ "title": "Добавил экспорт клиентов",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 369 later commits"
+}

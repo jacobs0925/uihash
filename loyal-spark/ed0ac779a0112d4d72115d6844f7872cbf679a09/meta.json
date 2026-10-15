@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ed0ac779a0112d4d72115d6844f7872cbf679a09",
+ "parent": "ec2e6d277d02fb8a8de0654ea70930287feeeafd",
+ "date": "2026-04-13",
+ "subject": "Fix race in Privy sign-in",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 100324
+}

@@ -1,0 +1,27 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a69fc184be05dcba34621ef8626a507349b6d64a",
+ "parent": "5636424cc3739136d64867704a9d3087b83187f3",
+ "date": "2026-04-13",
+ "subject": "Privy as default UI login",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "README.md",
+  "docs/integrations/A2A_INTEGRATION_PLAN.md",
+  "docs/integrations/FARCASTER_APP_README.md",
+  "public/.well-known/agent.json",
+  "public/.well-known/skills/00-getting-started.md",
+  "public/llms-full.txt",
+  "src/config/wagmi.ts",
+  "src/hooks/useMintTokens.ts",
+  "src/pages/GuidePage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 101544
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "103b8e06e998dd8dbe8ffcb97285654aaf52a520",
+ "parent": "3bcc6587771fce8b6e1758ff36047eca5dc07f29",
+ "date": "2026-04-02",
+ "subject": "Fix descender clipping",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 99400
+}

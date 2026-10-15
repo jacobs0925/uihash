@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "1feac2eb8ced913791b882e38db9090a5fbe2fa5",
+ "parent": "cb012448b26a00c8e0a72de494a7d8d0369a612a",
+ "date": "2026-04-14",
+ "subject": "Добавил профиль мерчанта",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/merchant/MerchantProfileSection.tsx",
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 105793
+}

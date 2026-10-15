@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "dc5a51d7c6b399abd661a613b487a7ff37c6e51f",
+ "parent": "f521e383005d6fa82d5e41f31789631cdec62236",
+ "date": "2026-04-15",
+ "subject": "fix(wallet): trigger connector recovery on handled SIWE/Privy errors",
+ "components": [
+  "contexts",
+  "main.tsx"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "src/lib/walletConnectorErrors.ts",
+  "src/main.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 98866
+}

@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "1feac2eb8ced913791b882e38db9090a5fbe2fa5",
+ "date": "2026-04-14",
+ "pr": null,
+ "title": "Добавил профиль мерчанта",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 295 later commits"
+}

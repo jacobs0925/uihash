@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "167dab56050ce1c1ea5b3fde5d06d5bc35185f39",
+ "parent": "eb6a247d891375e7a24bb5f198ddc897e2ab8e8f",
+ "date": "2026-04-06",
+ "subject": "Update HowItWorks content",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "bun.lock",
+  "src/components/landing/HowItWorks.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73094
+}

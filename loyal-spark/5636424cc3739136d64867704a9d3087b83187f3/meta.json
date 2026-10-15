@@ -1,0 +1,27 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5636424cc3739136d64867704a9d3087b83187f3",
+ "parent": "43d75ecbe2688f94b5c639a0b7ca8601e25b631c",
+ "date": "2026-04-13",
+ "subject": "Add recipient resolver",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/EarnPointsDialog.tsx",
+  "src/components/MintTokensDialog.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/hooks/useResolveRecipient.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/resolve-recipient/index.ts",
+  "supabase/migrations/20260413123234_ea5fa221-9941-4f57-b76c-d23f8864f3ce.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 99226
+}

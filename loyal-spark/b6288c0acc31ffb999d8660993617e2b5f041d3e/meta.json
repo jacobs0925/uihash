@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "b6288c0acc31ffb999d8660993617e2b5f041d3e",
+ "parent": "47b3850c5536cca2c6f85a1a0dac0802c4cdd1bd",
+ "date": "2026-04-11",
+ "subject": "Deactivated duplicate offers",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "OPENSERV_AGENT_PROMPTS.md",
+  "src/components/landing/LandingCTA.tsx",
+  "src/components/landing/LandingFeatures.tsx",
+  "supabase/migrations/20260411122011_556bb467-1cfd-413d-abd3-f37adcac9d35.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72195
+}

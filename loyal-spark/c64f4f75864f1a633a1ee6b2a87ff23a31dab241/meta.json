@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "c64f4f75864f1a633a1ee6b2a87ff23a31dab241",
+ "parent": "5e8d962d5d6e7e62b10f0ef3a7a2a25740ba4978",
+ "date": "2026-04-10",
+ "subject": "Add Agent Reports UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "bun.lock",
+  "src/components/agents/AgentReportsDashboard.tsx",
+  "src/pages/AdminPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 113170
+}

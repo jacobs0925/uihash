@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ec2e6d277d02fb8a8de0654ea70930287feeeafd",
+ "parent": "613ce2e905fe3854a64992163d409e8abf6613e9",
+ "date": "2026-04-13",
+ "subject": "Improve Privy SIWE routing",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 101638
+}

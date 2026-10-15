@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "882f048fd698c304bed51ed225e74ccbc91be172",
+ "date": "2026-04-14",
+ "pr": null,
+ "title": "feat: agent onboarding hub at /for-agents and copy-paste examples",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 318 later commits"
+}

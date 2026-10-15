@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "02e52b4bf987132befe2fb9c0f7378ad03647e3f",
+ "date": "2026-04-14",
+ "pr": null,
+ "title": "docs(recipient): pass apikey on register curl",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 311 later commits"
+}

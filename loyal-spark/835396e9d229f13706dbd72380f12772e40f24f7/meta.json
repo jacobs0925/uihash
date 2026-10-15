@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "835396e9d229f13706dbd72380f12772e40f24f7",
+ "parent": "ed0ac779a0112d4d72115d6844f7872cbf679a09",
+ "date": "2026-04-13",
+ "subject": "Fix agent reports patch auth",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/agents/AgentReportsDashboard.tsx",
+  "supabase/functions/agent-reports/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 99588
+}

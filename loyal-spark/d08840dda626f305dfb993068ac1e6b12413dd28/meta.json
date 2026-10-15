@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "d08840dda626f305dfb993068ac1e6b12413dd28",
+ "parent": "a0d894e224a77e370589771eaaa7282f016f609d",
+ "date": "2026-04-14",
+ "subject": "Fix Privy auth: token login for email/SMS/OAuth, SIWE for wallet-only",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/AuthPrompt.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/lib/privyAuth.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 10,
+ "ms": 103288
+}

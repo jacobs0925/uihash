@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "62b53c5461299125543efe1cab0cb9cc8953ffdf",
+ "parent": "20463f1092686657bfba6a2e004fe941f8875733",
+ "date": "2026-04-12",
+ "subject": "Fix SIWE verify for Coinbase",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "bun.lock",
+  "src/contexts/AuthContext.tsx",
+  "supabase/functions/siwe-verify/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 76332
+}

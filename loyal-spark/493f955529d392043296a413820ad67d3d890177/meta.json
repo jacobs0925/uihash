@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "493f955529d392043296a413820ad67d3d890177",
+ "parent": "83d7479236df41267ab267bcff83bd18c9d5d864",
+ "date": "2026-04-15",
+ "subject": "feat(merchant): accept team invite via RPC and Merchant portal UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/team/AcceptMerchantInviteCard.tsx",
+  "src/components/team/EmployeeManagement.tsx",
+  "src/hooks/useTierSummaries.ts",
+  "src/pages/MerchantPage.tsx",
+  "supabase/migrations/20260415230000_accept_merchant_invite.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 110675
+}

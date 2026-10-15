@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "42329bb56a2c352e8776646fb6580725ec21d93e",
+ "parent": "e3336ede3cd2de01644c09f27fa4a20cda5664d6",
+ "date": "2026-04-13",
+ "subject": "Убрал автозапуск SIWE",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 99344
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "566172e1f375a03d924a5f45810a7cb15e6b2a58",
+ "parent": "2677c2ac53a4b9a13d6b62ecc52cf07a6cafce1c",
+ "date": "2026-04-14",
+ "subject": "Фильтр программ по продавцу",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CustomerPanel.tsx",
+  "src/components/rewards/RewardsSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 101733
+}

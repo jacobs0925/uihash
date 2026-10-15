@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "41472b1857795d7e9cd0557a3fe56a7290e2806a",
+ "parent": "3875acb2b86222efc588f37dde9b42b3ecbd6f21",
+ "date": "2026-04-15",
+ "subject": "Обновил роли сотрудника",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 97814
+}

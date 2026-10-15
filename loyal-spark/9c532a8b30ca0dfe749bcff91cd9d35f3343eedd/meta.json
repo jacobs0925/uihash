@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "9c532a8b30ca0dfe749bcff91cd9d35f3343eedd",
+ "parent": "219547b993725d2a3eae8fc377612c853a866cfd",
+ "date": "2026-04-14",
+ "subject": "Исправил ошибки сборки",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConnectorRecoveryListener.tsx",
+  "supabase/functions/recipient-loyalty-mcp/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 99295
+}

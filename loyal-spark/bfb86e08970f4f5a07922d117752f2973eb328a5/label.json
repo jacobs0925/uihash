@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "bfb86e08970f4f5a07922d117752f2973eb328a5",
+ "date": "2026-04-13",
+ "pr": null,
+ "title": "Hide Round-Up features and adjust UI",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "grid-template-columns: repeat(3, minmax(0px, 1fr)) → repeat(2, minmax(0px, 1fr)) undone by 52abb2a4 \"Добавил профиль клиента\"; grid-template-columns: repeat(3, minmax(0px, 1fr)) → repeat(2, minmax(0px, 1fr)) undone by 52abb2a4 \"Добавил профиль клиента\"; grid-template-columns: repeat(3, minmax(0px, 1fr)) → repeat(2, minmax(0px, 1fr)) undone by 52abb2a4 \"Добавил профиль клиента\""
+}

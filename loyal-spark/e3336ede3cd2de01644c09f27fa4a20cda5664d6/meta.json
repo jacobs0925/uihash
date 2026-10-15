@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "e3336ede3cd2de01644c09f27fa4a20cda5664d6",
+ "parent": "5264a572e4780d488548298855d71abf5daebca3",
+ "date": "2026-04-13",
+ "subject": "Fix SIWE auto-trigger",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 102310
+}

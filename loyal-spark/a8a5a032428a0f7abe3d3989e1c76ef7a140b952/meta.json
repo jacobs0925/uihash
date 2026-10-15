@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a8a5a032428a0f7abe3d3989e1c76ef7a140b952",
+ "parent": "72af68b6baf0130a1aafeacc11cf6ce2cbc3bc03",
+ "date": "2026-04-02",
+ "subject": "Adjust MPP section wording",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/api-docs/MppSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 68288
+}

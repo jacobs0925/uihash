@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "083c570eef74407c4ba13afd2b521b310bd6ce71",
+ "parent": "dc5a51d7c6b399abd661a613b487a7ff37c6e51f",
+ "date": "2026-04-14",
+ "subject": "Добавил поиск и клики токенов",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConnectorRecoveryListener.tsx",
+  "src/components/CustomerPanel.tsx",
+  "src/components/TokenList.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 98721
+}

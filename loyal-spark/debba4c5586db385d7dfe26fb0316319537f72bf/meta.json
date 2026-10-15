@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "debba4c5586db385d7dfe26fb0316319537f72bf",
+ "parent": "3b7db55cb12ca95254aa52a84799f757d280b410",
+ "date": "2026-04-13",
+ "subject": "Fix sign-in button label",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 100177
+}

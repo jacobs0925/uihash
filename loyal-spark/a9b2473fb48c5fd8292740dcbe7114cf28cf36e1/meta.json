@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a9b2473fb48c5fd8292740dcbe7114cf28cf36e1",
+ "parent": "ce00bc1a8e86d04627681a7ba6af9ed1945698f3",
+ "date": "2026-04-13",
+ "subject": "Add points_per_dollar field",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/EarnPointsDialog.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260413161451_4d3ab457-f2e4-43fe-b0f4-477d6005cfb4.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 98667
+}

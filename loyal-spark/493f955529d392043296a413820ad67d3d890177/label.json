@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "493f955529d392043296a413820ad67d3d890177",
+ "date": "2026-04-15",
+ "pr": null,
+ "title": "feat(merchant): accept team invite via RPC and Merchant portal UI",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgb(158, 116, 231) → rgb(251, 250, 255) undone by f11266a0 \"Унифицировал стили кнопок\"; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 4px 6px -1px, rgba(0, 0, 0, 0.1) 0px 2px 4px -2px undone by f11266a0 \"Унифицировал стили кнопок\"; border-top-color: rgba(124, 59, 237, 0.5) → rgb(230, 227, 242) undone by f11266a0 \"Унифицировал стили кнопок\""
+}

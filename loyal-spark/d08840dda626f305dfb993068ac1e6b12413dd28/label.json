@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "d08840dda626f305dfb993068ac1e6b12413dd28",
+ "date": "2026-04-14",
+ "pr": null,
+ "title": "Fix Privy auth: token login for email/SMS/OAuth, SIWE for wallet-only",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 323 later commits"
+}

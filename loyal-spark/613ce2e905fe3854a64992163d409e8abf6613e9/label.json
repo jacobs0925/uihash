@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "613ce2e905fe3854a64992163d409e8abf6613e9",
+ "date": "2026-04-13",
+ "pr": null,
+ "title": "Hard logout guard",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-color: rgb(251, 250, 255) → rgba(124, 59, 237, 0.05) undone by d08840dd \"Fix Privy auth: token login for email/SMS/OAuth, SIWE for wallet-only\"; border-top-width: 1px → 2px undone by d08840dd \"Fix Privy auth: token login for email/SMS/OAuth, SIWE for wallet-only\"; border-right-width: 1px → 2px undone by d08840dd \"Fix Privy auth: token login for email/SMS/OAuth, SIWE for wallet-only\""
+}

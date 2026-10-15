@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a3cf7c9f3dbdc8eea8339137fbf4259987854d72",
+ "parent": "e6b130585080d9c8fddfeddc36192c7451c41005",
+ "date": "2026-04-14",
+ "subject": "Подавил wagmi reconnect ошибку",
+ "components": [
+  "main.tsx"
+ ],
+ "files": [
+  "src/main.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 96598
+}

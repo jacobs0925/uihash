@@ -1,0 +1,27 @@
+{
+ "repo": "loyal-spark",
+ "sha": "43d75ecbe2688f94b5c639a0b7ca8601e25b631c",
+ "parent": "c275d21a20278ad6e88eea3870c84057341a9294",
+ "date": "2026-04-13",
+ "subject": "Replace Privy config",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "bun.lock",
+  "package.json",
+  "src/App.tsx",
+  "src/components/AuthPrompt.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/privy.ts",
+  "src/config/wagmi.ts",
+  "src/hooks/usePrivySafe.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 114952
+}

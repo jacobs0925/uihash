@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "bfb86e08970f4f5a07922d117752f2973eb328a5",
+ "parent": "2224a3ae499a08fc2c8d0b14d0760c4afb2f5b88",
+ "date": "2026-04-13",
+ "subject": "Hide Round-Up features and adjust UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "bun.lock",
+  "src/pages/CustomerPage.tsx",
+  "src/pages/GuidePage.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 8,
+ "ms": 279037
+}

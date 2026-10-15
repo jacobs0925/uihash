@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "c4a2bf282ec69c28a0f4fd9cc342fdf4661fe8c6",
+ "date": "2026-04-14",
+ "pr": null,
+ "title": "feat(recipient-agents): rwk_ REST + MCP for wallet-bound loyalty holders",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 312 later commits"
+}

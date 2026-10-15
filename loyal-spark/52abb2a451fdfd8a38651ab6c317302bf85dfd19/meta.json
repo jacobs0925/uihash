@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "52abb2a451fdfd8a38651ab6c317302bf85dfd19",
+ "parent": "083c570eef74407c4ba13afd2b521b310bd6ce71",
+ "date": "2026-04-14",
+ "subject": "Добавил профиль клиента",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CustomerPanel.tsx",
+  "src/components/TokenListItem.tsx",
+  "src/components/customer/CustomerProfileSection.tsx",
+  "src/pages/CustomerPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 103448
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "d63c243131d2b5caad4b29c548ac09ba640ff8cb",
+ "parent": "269da3b424cf532c80e5068407e9cdab8afd4f37",
+ "date": "2026-04-13",
+ "subject": "Automated SIWE after Privy",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 96351
+}

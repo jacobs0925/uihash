@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "6dd48ac1af283c1108f8aa62c15d75141a4599ec",
+ "parent": "682f55fce366aaea676046a5175211eb8ab11b86",
+ "date": "2026-04-10",
+ "subject": "Scrollable reports UI fixed",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/sitemap.xml",
+  "src/components/agents/AgentReportsDashboard.tsx",
+  "src/pages/ApiDocsPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 84226
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "613ce2e905fe3854a64992163d409e8abf6613e9",
+ "parent": "42329bb56a2c352e8776646fb6580725ec21d93e",
+ "date": "2026-04-13",
+ "subject": "Hard logout guard",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/CustomerPanel.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/components/mobile/MobileProfileTab.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 9,
+ "ms": 106047
+}

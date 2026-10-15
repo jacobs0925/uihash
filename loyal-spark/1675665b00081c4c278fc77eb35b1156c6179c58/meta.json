@@ -1,0 +1,27 @@
+{
+ "repo": "loyal-spark",
+ "sha": "1675665b00081c4c278fc77eb35b1156c6179c58",
+ "parent": "81d6497d95b78bb577a66864422e94e26138da1a",
+ "date": "2026-04-15",
+ "subject": "feat(customer): compact per-program tier line + batched tier fetch",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/components/CustomerPanel.tsx",
+  "src/components/TokenList.tsx",
+  "src/components/TokenListItem.tsx",
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/components/tiers/CompactTierInline.tsx",
+  "src/hooks/useTierSummaries.ts",
+  "src/pages/CustomerPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 98781
+}

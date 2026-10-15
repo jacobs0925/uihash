@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "682f55fce366aaea676046a5175211eb8ab11b86",
+ "parent": "38534b0e5de7c955a81091b0e2e219fcdc8f3795",
+ "date": "2026-04-10",
+ "subject": "Add report management MCP tools",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "OPENSERV_AGENT_PROMPTS.md",
+  "src/components/agents/AgentManagement.tsx",
+  "supabase/functions/agent-api-key/index.ts",
+  "supabase/functions/loyalty-mcp/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72881
+}

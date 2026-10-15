@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "fa84bb5ed2c9a9428c76c931df8d4156645eb4d5",
+ "parent": "4b9998af29b79277ffb81ff3a07433d76340156e",
+ "date": "2026-04-02",
+ "subject": "Fix MPP doc labels",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/api-docs/MppSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 82797
+}

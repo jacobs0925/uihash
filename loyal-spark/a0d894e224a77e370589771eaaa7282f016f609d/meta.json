@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "a0d894e224a77e370589771eaaa7282f016f609d",
+ "parent": "a3cf7c9f3dbdc8eea8339137fbf4259987854d72",
+ "date": "2026-04-14",
+ "subject": "Исправил авторизацию Privy",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 99697
+}

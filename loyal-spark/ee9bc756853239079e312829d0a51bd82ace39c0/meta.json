@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ee9bc756853239079e312829d0a51bd82ace39c0",
+ "parent": "9c7c49f2b03110230b26d7e599aaa2d7defe840c",
+ "date": "2026-04-14",
+ "subject": "Выровнял высоту кнопок",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CustomerPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 109517
+}

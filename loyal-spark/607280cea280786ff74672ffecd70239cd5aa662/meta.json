@@ -1,0 +1,28 @@
+{
+ "repo": "loyal-spark",
+ "sha": "607280cea280786ff74672ffecd70239cd5aa662",
+ "parent": "fb9b5aa582b2b4ffba570cd346449132cd1de773",
+ "date": "2026-04-05",
+ "subject": "Add dual benefits section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/DualBenefits.tsx",
+  "src/components/landing/HowItWorks.tsx",
+  "src/components/landing/LandingAgents.tsx",
+  "src/components/landing/LandingCTA.tsx",
+  "src/components/landing/LandingFeatures.tsx",
+  "src/components/landing/LandingHero.tsx",
+  "src/components/landing/LandingRoundUp.tsx",
+  "src/components/landing/OnchainSimple.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 238714
+}

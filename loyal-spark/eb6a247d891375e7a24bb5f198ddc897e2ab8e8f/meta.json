@@ -1,0 +1,28 @@
+{
+ "repo": "loyal-spark",
+ "sha": "eb6a247d891375e7a24bb5f198ddc897e2ab8e8f",
+ "parent": "0b64f638db1d1060fcafc0e5f7a5b360fa6b53f9",
+ "date": "2026-04-05",
+ "subject": "Adapt docs for sign‑in Abstraction",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "FARCASTER_APP_README.md",
+  "PROMPT_GUIDE.md",
+  "README.md",
+  "public/.well-known/agent.json",
+  "public/.well-known/skills/00-getting-started.md",
+  "public/llms-full.txt",
+  "src/components/onboarding/BlockchainFAQ.tsx",
+  "src/components/onboarding/WelcomeFlow.tsx",
+  "src/pages/GuidePage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 77358
+}

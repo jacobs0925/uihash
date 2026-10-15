@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "1adff01771533951ca0be6dd59c1a820df9b7b7d",
+ "date": "2026-04-02",
+ "pr": null,
+ "title": "Reposition BASE badge",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 408 later commits"
+}

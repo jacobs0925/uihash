@@ -1,0 +1,43 @@
+{
+ "repo": "loyal-spark",
+ "sha": "882f048fd698c304bed51ed225e74ccbc91be172",
+ "parent": "7986f540509b84e803079663f5d5f2bf8a7c522a",
+ "date": "2026-04-14",
+ "subject": "feat: agent onboarding hub at /for-agents and copy-paste examples",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "AGENTS.md",
+  "README.md",
+  "docs/README.md",
+  "docs/agents/QUICKSTART.md",
+  "examples/agent-mcp/README.md",
+  "examples/agent-mcp/claude_desktop_config.fragment.json",
+  "examples/agent-mcp/cursor-mcp.json",
+  "examples/agent-mcp/first-request.sh",
+  "index.html",
+  "package-lock.json",
+  "public/for-agents.md",
+  "public/llms-full.txt",
+  "public/llms.txt",
+  "public/sitemap.xml",
+  "src/App.tsx",
+  "src/components/api-docs/McpServerSection.tsx",
+  "src/components/landing/LandingAgents.tsx",
+  "src/components/landing/LandingFeatures.tsx",
+  "src/constants/mcpToolNames.ts",
+  "src/hooks/usePageMeta.ts",
+  "src/pages/ApiDocsPage.tsx",
+  "src/pages/ForAgentsPage.tsx",
+  "src/pages/GuidePage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 10,
+ "ms": 145448
+}

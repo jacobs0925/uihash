@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "02e52b4bf987132befe2fb9c0f7378ad03647e3f",
+ "parent": "c4a2bf282ec69c28a0f4fd9cc342fdf4661fe8c6",
+ "date": "2026-04-14",
+ "subject": "docs(recipient): pass apikey on register curl",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "README.md",
+  "src/pages/ForAgentsPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 113191
+}

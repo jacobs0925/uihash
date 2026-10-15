@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "56956a7f83a833f24d6ce4456af7ea5490dd0354",
+ "parent": "a9b2473fb48c5fd8292740dcbe7114cf28cf36e1",
+ "date": "2026-04-13",
+ "subject": "Fix continue button behavior",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 97853
+}

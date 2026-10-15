@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "ee9bc756853239079e312829d0a51bd82ace39c0",
+ "date": "2026-04-14",
+ "pr": null,
+ "title": "Выровнял высоту кнопок",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 297 later commits"
+}

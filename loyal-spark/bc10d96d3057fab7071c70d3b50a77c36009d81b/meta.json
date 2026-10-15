@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "bc10d96d3057fab7071c70d3b50a77c36009d81b",
+ "parent": "6f7d32cbd73b64efb4bfffd901bd8c9b9f4c6bda",
+ "date": "2026-04-11",
+ "subject": "Switch to PATCH via API",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "bun.lock",
+  "src/components/PremiumStatusBadge.tsx",
+  "src/components/agents/AgentReportsDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73398
+}

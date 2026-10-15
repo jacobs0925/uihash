@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "1e38159843eee1404daa11147565539ba8dedac2",
+ "parent": "4da6d3f1af21405f6fd3e9346b77721676cf8b05",
+ "date": "2026-04-10",
+ "subject": "Add delete reports policy",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/agents/AgentReportsDashboard.tsx",
+  "supabase/migrations/20260410083028_e8699c52-46f7-4751-8d46-2bf512195526.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73408
+}

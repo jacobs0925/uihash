@@ -1,0 +1,21 @@
+{
+ "repo": "loyal-spark",
+ "sha": "8b18dcc6ebbeae8e19cec66b1e99427a7fb9eb84",
+ "parent": "98b5dd6563f82dbab4a07ea18154f00540444f20",
+ "date": "2026-04-06",
+ "subject": "Show wallet address in QR card",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/WalletQRCode.tsx",
+  "src/pages/GuidePage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72464
+}

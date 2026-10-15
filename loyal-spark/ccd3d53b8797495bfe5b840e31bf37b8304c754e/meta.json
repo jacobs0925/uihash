@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "ccd3d53b8797495bfe5b840e31bf37b8304c754e",
+ "parent": "a7dde7e2731f0c768b3ae2c32eb43b7fd5551b7b",
+ "date": "2026-04-13",
+ "subject": "Уточнил авторизацию",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx",
+  "src/components/rewards/RewardsSelection.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 98085
+}

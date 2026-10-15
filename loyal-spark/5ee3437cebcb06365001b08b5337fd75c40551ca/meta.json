@@ -1,0 +1,20 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5ee3437cebcb06365001b08b5337fd75c40551ca",
+ "parent": "223cef454012e8be1186e3ae731502cd55a481d5",
+ "date": "2026-04-15",
+ "subject": "Revised TeamTab for clarity",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/merchant/tabs/TeamTab.tsx",
+  "src/components/team/MyTeamMembership.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 100494
+}

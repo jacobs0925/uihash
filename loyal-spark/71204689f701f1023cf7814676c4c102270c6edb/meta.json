@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "71204689f701f1023cf7814676c4c102270c6edb",
+ "parent": "a69fc184be05dcba34621ef8626a507349b6d64a",
+ "date": "2026-04-13",
+ "subject": "Prevent double login on Privy",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 99453
+}

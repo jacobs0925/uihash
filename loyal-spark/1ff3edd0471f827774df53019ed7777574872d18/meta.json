@@ -1,0 +1,26 @@
+{
+ "repo": "loyal-spark",
+ "sha": "1ff3edd0471f827774df53019ed7777574872d18",
+ "parent": "1675665b00081c4c278fc77eb35b1156c6179c58",
+ "date": "2026-04-15",
+ "subject": "Рефакторировал MerchantPanel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/components/merchant/tabs/AgentsTab.tsx",
+  "src/components/merchant/tabs/CustomersTab.tsx",
+  "src/components/merchant/tabs/DashboardTab.tsx",
+  "src/components/merchant/tabs/MarketingTab.tsx",
+  "src/components/merchant/tabs/ProgramsTab.tsx",
+  "src/components/merchant/tabs/RewardsTab.tsx",
+  "src/components/merchant/tabs/TeamTab.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 98473
+}

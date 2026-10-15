@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3bcc6587771fce8b6e1758ff36047eca5dc07f29",
+ "parent": "1adff01771533951ca0be6dd59c1a820df9b7b7d",
+ "date": "2026-04-02",
+ "subject": "Fix gradient text render",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 100546
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "f521e383005d6fa82d5e41f31789631cdec62236",
+ "parent": "26fb3a152319de0c3a56795413409068745f90b2",
+ "date": "2026-04-15",
+ "subject": "fix(lovable-review): merchant profile RLS case, agent GET CDP flag, MCP types",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConnectorRecoveryListener.tsx",
+  "src/components/customer/MerchantCardGrid.tsx",
+  "src/components/merchant/MerchantProfileForm.tsx",
+  "supabase/functions/agent-api/index.ts",
+  "supabase/functions/recipient-loyalty-mcp/index.ts",
+  "supabase/migrations/20260415120100_merchant_profiles_rls_wallet_case.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 97036
+}

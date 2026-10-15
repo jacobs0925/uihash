@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "9b267eb1c5cb7307cd3de7fe571e3779cc21ccc2",
+ "parent": "607280cea280786ff74672ffecd70239cd5aa662",
+ "date": "2026-04-05",
+ "subject": "Adapted for mobile UX",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/HowItWorks.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 70088
+}

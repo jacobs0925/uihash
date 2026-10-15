@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "de4725365d46f0f6f6c88626a40cc6152ce2265c",
+ "parent": "52abb2a451fdfd8a38651ab6c317302bf85dfd19",
+ "date": "2026-04-14",
+ "subject": "Добавил фильтрацию программ",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CustomerFiltersPanel.tsx",
+  "src/components/CustomerPanel.tsx",
+  "src/pages/CustomerPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 97846
+}

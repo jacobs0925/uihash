@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "83d7479236df41267ab267bcff83bd18c9d5d864",
+ "parent": "1ff3edd0471f827774df53019ed7777574872d18",
+ "date": "2026-04-15",
+ "subject": "Исправил Select в Team",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/team/EmployeeManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 99612
+}

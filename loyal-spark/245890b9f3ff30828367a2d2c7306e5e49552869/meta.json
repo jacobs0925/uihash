@@ -1,0 +1,24 @@
+{
+ "repo": "loyal-spark",
+ "sha": "245890b9f3ff30828367a2d2c7306e5e49552869",
+ "parent": "89fdb7f921e940aee5aa3a0fb1dc7ff9ad3c87b6",
+ "date": "2026-04-13",
+ "subject": "Fix Privy auth routing",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/hooks/usePrivySafe.ts",
+  "src/lib/privyAuth.ts",
+  "supabase/functions/privy-auth/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 99857
+}

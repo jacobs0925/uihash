@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "51033c5ca5b54a0c4ef04096fa0c221a36919689",
+ "date": "2026-04-14",
+ "pr": null,
+ "title": "feat(agent-api): cashback and points on register; update-program-config",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Base mainnet → \"Base mainnet undone by c4a2bf28 \"feat(recipient-agents): rwk_ REST + MCP for wallet-bound loyalty holders\"; text: \"Base mainnet → \"Base mainnet undone by c4a2bf28 \"feat(recipient-agents): rwk_ REST + MCP for wallet-bound loyalty holders\"; text: \"Base mainnet → \"Base mainnet undone by c4a2bf28 \"feat(recipient-agents): rwk_ REST + MCP for wallet-bound loyalty holders\""
+}

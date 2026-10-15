@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3875acb2b86222efc588f37dde9b42b3ecbd6f21",
+ "parent": "47f94641558677967973bfa8c303d36fda1827ab",
+ "date": "2026-04-15",
+ "subject": "Роздѐлil роли и добавил сменy рабoть",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/components/merchant/tabs/ProgramsTab.tsx",
+  "supabase/migrations/20260415065820_a33a1642-e646-4bb3-a840-b6eb684ec0ac.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 102535
+}

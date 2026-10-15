@@ -1,0 +1,22 @@
+{
+ "repo": "loyal-spark",
+ "sha": "cb51f209f804a399e7000780437caed5197e8597",
+ "parent": "493f955529d392043296a413820ad67d3d890177",
+ "date": "2026-04-15",
+ "subject": "Выровнял кнопки и код",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx",
+  "src/components/team/AcceptMerchantInviteCard.tsx",
+  "src/pages/MerchantPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 118803
+}

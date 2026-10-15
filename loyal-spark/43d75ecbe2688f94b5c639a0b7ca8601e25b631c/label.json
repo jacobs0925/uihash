@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "43d75ecbe2688f94b5c639a0b7ca8601e25b631c",
+ "date": "2026-04-13",
+ "pr": null,
+ "title": "Replace Privy config",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 353 later commits"
+}

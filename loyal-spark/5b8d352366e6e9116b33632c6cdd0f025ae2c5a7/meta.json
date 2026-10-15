@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "5b8d352366e6e9116b33632c6cdd0f025ae2c5a7",
+ "parent": "1feac2eb8ced913791b882e38db9090a5fbe2fa5",
+ "date": "2026-04-15",
+ "subject": "Добавил вкладку Team в мерчант",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/MerchantPanel.tsx",
+  "src/components/team/BranchManagement.tsx",
+  "src/components/team/EmployeeManagement.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260415002158_ad3d2438-ac5d-4b6d-b032-06023c35e8d6.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 98092
+}

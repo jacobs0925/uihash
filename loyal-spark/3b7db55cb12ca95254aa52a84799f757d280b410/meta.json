@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3b7db55cb12ca95254aa52a84799f757d280b410",
+ "parent": "56956a7f83a833f24d6ce4456af7ea5490dd0354",
+ "date": "2026-04-13",
+ "subject": "Restore Sign In flow in preview",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WalletConnectButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 98323
+}

@@ -187,10 +187,11 @@ function appRoutes(c) {
   const found = [];
   if (R.pages.router) {
     const text = show(c.sha, R.pages.router), before = show(c.parent, R.pages.router), dir = path.posix.dirname(R.pages.router), file = {};
-    // relative imports, and "@/" for src/ (the alias Lovable's Vite config sets)
-    const where = (p) => (p.startsWith('@/') ? path.posix.join('src', p.slice(2)) : path.posix.join(dir, p));
+    // relative imports, and "@/" for the componentRoot (src/ in Lovable's Vite config, client/src/ in Replit's)
+    const where = (p) => (p.startsWith('@/') ? path.posix.join(SRC, p.slice(2)) : path.posix.join(dir, p));
     for (const m of text.matchAll(/import\s+(\w+)\s+from\s+["']((?:\.|@\/)[^"']+)["']|(\w+)\s*=\s*(?:\w+\.)?\w*[lL]azy\w*\(\s*\(\)\s*=>\s*import\(\s*["']((?:\.|@\/)[^"']+)["']/g)) file[m[1] || m[3]] = where(m[2] || m[4]);
-    for (const m of text.matchAll(/<Route\s+path="([^":*]+)"\s+element=\{<(\w+)/g)) {
+    // React Router's element={<X />}, or wouter's component={X} (Replit apps)
+    for (const m of text.matchAll(/<Route\s+path="([^":*]+)"\s+(?:element=\{<|component=\{)(\w+)/g)) {
       const f = file[m[2]];
       if (f && before.includes(`path="${m[1]}"`) && !(R.pages.skip || []).includes(m[1]) && c.files.some((x) => x === f || x.startsWith(f + '.') || x.startsWith(f + '/'))) found.push(m[1]);
     }

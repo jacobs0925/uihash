@@ -81,7 +81,7 @@ function weekly(o) {
   const rows = fs.readFileSync(rowsFile, 'utf8').split('\n').filter(Boolean).map(JSON.parse);
   const cands = CANDIDATES.map(([kind, variant]) => {
     const name = `${kind}-${variant}`, file = path.join(out, `${name}.json`);
-    run(PY, [path.join(__dirname, 'train.py'), rowsFile, file, path.join(out, `${name}.md`), '--kind', kind, '--variant', variant]);
+    run(PY, [path.join(__dirname, 'train.py'), rowsFile, file, path.join(out, `${name}.md`), '--kind', kind, '--variant', variant, '--unseen', path.join(out, `${name}.unseen.jsonl`)]);
     const m = loadModel(file), metrics = file.replace(/\.json$/, '.metrics.json');
     const unseen = fs.existsSync(metrics) ? JSON.parse(fs.readFileSync(metrics, 'utf8')).loro_mean : undefined;
     return { name, file, m, auroc: meanAuroc(rows, m), unseen: unseen === undefined ? null : unseen };
@@ -104,6 +104,8 @@ function weekly(o) {
   fs.writeFileSync(path.join(out, 'result.json'), JSON.stringify({ date, best: best && best.name, pass: g.pass,
     candidates: cands.map((c) => ({ name: c.name, auroc: c.auroc, unseen: c.unseen })), gate: g }, null, 1));
   if (best) fs.copyFileSync(best.file, path.join(out, 'model.json'));
+  // the chosen candidate's scores on each repository from the model trained without it (learn/gold.js)
+  if (best && fs.existsSync(path.join(out, `${best.name}.unseen.jsonl`))) fs.copyFileSync(path.join(out, `${best.name}.unseen.jsonl`), path.join(out, 'unseen.jsonl'));
   let pr = null;
   if (o.pr && best && g.pass) pr = openPR(out, best, date, L.join('\n'));
   return { out, best: best && best.name, pass: g.pass, pr };

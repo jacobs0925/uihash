@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e0e65c975c2d9e57263041f539c51a7cf078aab9",
+ "parent": "e7a0f7a6552871434ebd8c8e1e07475d0e0376e7",
+ "date": "2025-10-02",
+ "subject": "Fix font size in carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HowItWorksSwipe.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36155
+}

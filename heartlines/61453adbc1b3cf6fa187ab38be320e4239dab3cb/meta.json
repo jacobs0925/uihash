@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "61453adbc1b3cf6fa187ab38be320e4239dab3cb",
+ "parent": "0b592e976d19762e7159a2c298f931df706897a2",
+ "date": "2025-10-03",
+ "subject": "Fix mobile chat keyboard scrolling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37092
+}

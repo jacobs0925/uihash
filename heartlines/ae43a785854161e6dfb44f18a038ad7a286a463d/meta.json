@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ae43a785854161e6dfb44f18a038ad7a286a463d",
+ "parent": "1d63285ed7529526b23b49f9bff2ce5fb3071115",
+ "date": "2025-10-01",
+ "subject": "Refactor KaiIntroCard styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/sidebar/KaiIntroCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34949
+}

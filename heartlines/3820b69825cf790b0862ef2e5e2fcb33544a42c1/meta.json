@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3820b69825cf790b0862ef2e5e2fcb33544a42c1",
+ "parent": "ff81c3595800450a7794aa504c5412d948a17a06",
+ "date": "2025-10-03",
+ "subject": "Refactor: Improve phone animation and progress bar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37579
+}

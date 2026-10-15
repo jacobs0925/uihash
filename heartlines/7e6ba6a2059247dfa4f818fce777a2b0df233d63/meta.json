@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7e6ba6a2059247dfa4f818fce777a2b0df233d63",
+ "parent": "7a30f361cb803a71888ebb59a1eded06d8936524",
+ "date": "2025-10-02",
+ "subject": "Refactor: Adjust \"How It Works\" section styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34249
+}

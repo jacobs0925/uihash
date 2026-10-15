@@ -1,0 +1,26 @@
+{
+ "repo": "loyal-spark",
+ "sha": "44fd95f8015e94f43b06c9f4d231bfa9a6ca7797",
+ "parent": "4b2b4a87d1cdba0e3d08ce65be75db0ab719ce00",
+ "date": "2025-10-25",
+ "subject": "Refactor program activation and voucher functionality",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/CreatedPrograms.tsx",
+  "src/components/MerchantPanel.tsx",
+  "src/components/MintTokensDialog.tsx",
+  "src/components/TokenList.tsx",
+  "src/components/TokenListItem.tsx",
+  "src/hooks/useMultiTokenBalance.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 46548
+}

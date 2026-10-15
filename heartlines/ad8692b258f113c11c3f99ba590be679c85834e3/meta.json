@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "ad8692b258f113c11c3f99ba590be679c85834e3",
+ "parent": "fa0fac8f37df0191bdf4fb98f2c9a638017ee42d",
+ "date": "2025-10-03",
+ "subject": "Fix: Implement mobile-only overscroll fix",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/DashboardContent.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 38117
+}

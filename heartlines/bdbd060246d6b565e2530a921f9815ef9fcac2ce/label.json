@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "bdbd060246d6b565e2530a921f9815ef9fcac2ce",
+ "date": "2025-10-02",
+ "pr": null,
+ "title": "Refactor: Implement mobile white screen fix",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2872 later commits"
+}

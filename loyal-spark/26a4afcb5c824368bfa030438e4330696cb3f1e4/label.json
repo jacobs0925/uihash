@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "26a4afcb5c824368bfa030438e4330696cb3f1e4",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Fix: Revert Farcaster UI changes for web",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 881 later commits"
+}

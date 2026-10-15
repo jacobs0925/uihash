@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "58f1205a2555fbb9f3d1e6bbf113d4fd0d92f78e",
+ "parent": "fb09605bc55265cab73aebb0035beab0419a745e",
+ "date": "2025-10-02",
+ "subject": "Fix carousel jump on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34685
+}

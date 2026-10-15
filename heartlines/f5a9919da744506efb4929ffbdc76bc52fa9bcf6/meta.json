@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f5a9919da744506efb4929ffbdc76bc52fa9bcf6",
+ "parent": "7e6ba6a2059247dfa4f818fce777a2b0df233d63",
+ "date": "2025-10-02",
+ "subject": "Refactor: Update \"How It Works\" section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34480
+}

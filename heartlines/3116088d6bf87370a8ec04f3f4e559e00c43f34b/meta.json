@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3116088d6bf87370a8ec04f3f4e559e00c43f34b",
+ "parent": "bf237fa37183f453a021a1ba0fe3507925b3ea9c",
+ "date": "2025-10-01",
+ "subject": "Fix text overflow in landing page",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35300
+}

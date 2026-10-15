@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "7c9bb5747297fb0b30908cedb7aa9efff3b52669",
+ "date": "2025-10-23",
+ "pr": null,
+ "title": "Clean up App component by removing unused code",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 888 later commits"
+}

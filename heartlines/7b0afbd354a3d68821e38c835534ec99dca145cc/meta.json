@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7b0afbd354a3d68821e38c835534ec99dca145cc",
+ "parent": "9453c0e0ab8802566713e6f0a0ae86ea2a836bde",
+ "date": "2025-10-01",
+ "subject": "Refactor: Add more mobile top spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35984
+}

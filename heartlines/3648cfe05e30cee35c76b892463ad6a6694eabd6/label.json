@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "3648cfe05e30cee35c76b892463ad6a6694eabd6",
+ "date": "2025-10-02",
+ "pr": null,
+ "title": "Fix landing page color consistency",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by 991d11f0, which restored ccd8097c (4 commits discarded)"
+}

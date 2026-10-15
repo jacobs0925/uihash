@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "899493314e493f4d9d07540254d6cb84ba1f1783",
+ "parent": "8fe88acf82194401ac16c3ede03800196ef0e7e6",
+ "date": "2025-10-02",
+ "subject": "Refactor: Optimize HowItWorksSwipe mobile view",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HowItWorksSwipe.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35194
+}

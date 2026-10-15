@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9453c0e0ab8802566713e6f0a0ae86ea2a836bde",
+ "parent": "1473dbe870927459138c1b822602780c9bf771ac",
+ "date": "2025-10-01",
+ "subject": "Add mobile-only spacing to hero section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36379
+}

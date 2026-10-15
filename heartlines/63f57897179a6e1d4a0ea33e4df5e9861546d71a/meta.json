@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "63f57897179a6e1d4a0ea33e4df5e9861546d71a",
+ "parent": "8ff1f9f016ad9ea14a9c1251a5879d22a1756b36",
+ "date": "2025-10-02",
+ "subject": "Fix: Improve mobile styling for \"How It Works\" cards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HowItWorksSwipe.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34393
+}

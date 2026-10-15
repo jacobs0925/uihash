@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "8fb76d2112fb33c39ce885b4997796e1e7339ec6",
+ "parent": "5bc915a16e0ec772c22a5a4d33f43001cbdcb6f1",
+ "date": "2025-10-03",
+ "subject": "feat: Optimize phone animation and splash screen",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FirstVisitSplash.tsx",
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/SplashScreen.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36615
+}

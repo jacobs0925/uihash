@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "28be2b98ba32b9294b19ad44adaa1a5694a12731",
+ "parent": "92e0e5eeeea2d4d65f18bc4073750d5b2ddf29f4",
+ "date": "2025-10-02",
+ "subject": "Add spacing to How It Works section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/ProductPhoneDemo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36973
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "76fef219e3872d74a573356224aafa990f88f22d",
+ "parent": "49d70180ad21e16140a0f108968d4a378db2d4bc",
+ "date": "2025-10-02",
+ "subject": "Refactor: Speed up hero carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35074
+}

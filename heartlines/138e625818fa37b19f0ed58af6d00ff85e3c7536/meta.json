@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "138e625818fa37b19f0ed58af6d00ff85e3c7536",
+ "parent": "bc0c839b6ebf61d348df006fc786ef6e30738501",
+ "date": "2025-10-03",
+ "subject": "Fix: Hide conversation starters after first message",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37047
+}

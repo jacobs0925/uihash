@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "4dc3b09084dc49d8248576e818b38f5114cad84f",
+ "parent": "bff2ff8a55c5c18aea0c6a777acd073acf0f6f16",
+ "date": "2025-10-01",
+ "subject": "Add new slide to carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/elderly-couple-nyc-apartment.png",
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35286
+}

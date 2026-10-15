@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "efbd95709a2d3e24678c2f4897c4ac667c9a73ba",
+ "parent": "c41394e68c69a6fa9861c20163575b34d472ec0f",
+ "date": "2025-10-01",
+ "subject": "Fix: Make Heartlines wordmark fully white",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35167
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7779433c13ce53f9209dbc4626539a324f7bcd6a",
+ "parent": "fd698580e35302cc2bb6b69e41458665282cc109",
+ "date": "2025-10-01",
+ "subject": "Fix: Ensure hero text is fully visible",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35441
+}

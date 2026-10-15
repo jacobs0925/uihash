@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "7f5946acc57a782d82b425c09c28e17141672fda",
+ "parent": "c5a9898b93e59b159979a694a8cc671757e4dc31",
+ "date": "2025-10-02",
+ "subject": "Fix: Resolve mobile white screen issues",
+ "components": [
+  "components",
+  "index.css",
+  "styles"
+ ],
+ "files": [
+  "src/components/ui/scroll-area.tsx",
+  "src/index.css",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35278
+}

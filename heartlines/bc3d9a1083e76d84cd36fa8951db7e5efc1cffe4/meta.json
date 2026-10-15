@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "bc3d9a1083e76d84cd36fa8951db7e5efc1cffe4",
+ "parent": "90df8c4d3cf250671215c7ceb79b82411d4b5e0d",
+ "date": "2025-10-02",
+ "subject": "Fix: Optimize HowItWorksSwipe for mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HowItWorksSwipe.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36204
+}

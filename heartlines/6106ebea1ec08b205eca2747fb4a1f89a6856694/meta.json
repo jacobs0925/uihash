@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "6106ebea1ec08b205eca2747fb4a1f89a6856694",
+ "parent": "4ff8f63d8b45809b8221e79c7d1dc8dff53c1d7e",
+ "date": "2025-10-03",
+ "subject": "Fix: Implement mobile-only overscroll prevention",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/components/ChatContainer.tsx",
+  "src/components/DashboardContent.tsx",
+  "src/components/chat/ChatLayout.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 51903
+}

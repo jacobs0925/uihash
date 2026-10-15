@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1b09813063d99ddaf0a756333e37abfd26b34606",
+ "parent": "17004d836155cc0c9f55dab05598f9d7837f4a27",
+ "date": "2025-10-02",
+ "subject": "Fix: Update button text and background color",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35253
+}

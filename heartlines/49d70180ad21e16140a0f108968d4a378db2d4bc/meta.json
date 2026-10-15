@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "49d70180ad21e16140a0f108968d4a378db2d4bc",
+ "parent": "0389fe4f9ed2afd3b3d1c448dfd1bf9bcf5a4c49",
+ "date": "2025-10-02",
+ "subject": "Refactor timeline card hover effects",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34726
+}

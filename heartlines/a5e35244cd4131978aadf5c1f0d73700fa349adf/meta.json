@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a5e35244cd4131978aadf5c1f0d73700fa349adf",
+ "parent": "ae9f03b7993b486e57dba11e53244ff1941b9387",
+ "date": "2025-10-01",
+ "subject": "Refactor: Adjust carousel element positions",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36348
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8fe88acf82194401ac16c3ede03800196ef0e7e6",
+ "parent": "bc3d9a1083e76d84cd36fa8951db7e5efc1cffe4",
+ "date": "2025-10-02",
+ "subject": "Refactor: Update footer layout for mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SiteFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35681
+}

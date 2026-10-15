@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ae9f03b7993b486e57dba11e53244ff1941b9387",
+ "parent": "c7ec144c6c0f2bc7a27c5a77fbd00e3dacd2cc13",
+ "date": "2025-10-01",
+ "subject": "Refactor: Update carousel styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35940
+}

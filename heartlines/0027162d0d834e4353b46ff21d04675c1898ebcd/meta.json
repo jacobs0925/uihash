@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0027162d0d834e4353b46ff21d04675c1898ebcd",
+ "parent": "33daa6cda262c17f7460de81ef855aa0bb2a2825",
+ "date": "2025-10-02",
+ "subject": "Fix: Increase mobile hero text size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35626
+}

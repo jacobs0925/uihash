@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "483d88d26c959b51cc5a964db20891d14aa114cc",
+ "parent": "6f70ea49061bc55026a68ab21de1a88cea0f0f45",
+ "date": "2025-10-02",
+ "subject": "Refactor: Update timeline section styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35356
+}

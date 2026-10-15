@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d84e7aafa05e2e2553199ae390b77ae6883589ea",
+ "parent": "8a36bf52a979af33a5d39ddb618a025a84f237ab",
+ "date": "2025-10-02",
+ "subject": "Fix: Make headline stay on one line",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HowItWorksSwipe.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36486
+}

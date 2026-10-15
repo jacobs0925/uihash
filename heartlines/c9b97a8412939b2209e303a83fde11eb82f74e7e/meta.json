@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c9b97a8412939b2209e303a83fde11eb82f74e7e",
+ "parent": "7b0afbd354a3d68821e38c835534ec99dca145cc",
+ "date": "2025-10-01",
+ "subject": "Update CTA text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HowItWorksSwipe.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35766
+}

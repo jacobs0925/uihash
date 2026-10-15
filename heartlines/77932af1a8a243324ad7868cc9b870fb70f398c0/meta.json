@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "77932af1a8a243324ad7868cc9b870fb70f398c0",
+ "parent": "61453adbc1b3cf6fa187ab38be320e4239dab3cb",
+ "date": "2025-10-03",
+ "subject": "Fix whitespace in chat input",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36571
+}

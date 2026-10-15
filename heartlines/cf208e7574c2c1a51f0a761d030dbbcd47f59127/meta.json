@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "cf208e7574c2c1a51f0a761d030dbbcd47f59127",
+ "parent": "2b3f5341590ef46c1f8b3c72d41d9a5a3f440b37",
+ "date": "2025-10-01",
+ "subject": "Fix hero section height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36167
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f03d057f6207e3fc6626f8e71aaa28f4876397db",
+ "parent": "87fdc50f4fdfcbfaf68ab703213dc0477be7e53b",
+ "date": "2025-10-01",
+ "subject": "Add shirkland text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PhotoSplitBanner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35414
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b9b1617fe816f2f2b4054d51e8711b4f619bcce0",
+ "parent": "f6f39e027006bc6db719043ee5b02ea15f72fba2",
+ "date": "2025-10-01",
+ "subject": "Refactor HowItWorksSwipe component",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HowItWorksSwipe.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36097
+}

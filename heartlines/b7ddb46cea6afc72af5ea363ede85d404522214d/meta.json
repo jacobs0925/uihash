@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b7ddb46cea6afc72af5ea363ede85d404522214d",
+ "parent": "18930e2c18e9520294daf02a883b6bcc067d3aab",
+ "date": "2025-10-02",
+ "subject": "Fix: Increase mobile padding for coaching button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34658
+}

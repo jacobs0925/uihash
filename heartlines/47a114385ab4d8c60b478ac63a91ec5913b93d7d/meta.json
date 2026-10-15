@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "47a114385ab4d8c60b478ac63a91ec5913b93d7d",
+ "parent": "fc56010f3a119325b41d6f01d9d4b178936baed0",
+ "date": "2025-10-03",
+ "subject": "Fix mobile overscroll white screen",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/DashboardContent.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 38106
+}

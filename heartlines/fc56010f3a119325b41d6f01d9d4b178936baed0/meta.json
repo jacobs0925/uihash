@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "fc56010f3a119325b41d6f01d9d4b178936baed0",
+ "parent": "5dacde7ebec7cd633cf5179445495ba7ca63864b",
+ "date": "2025-10-03",
+ "subject": "Fix carousel loop on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37853
+}

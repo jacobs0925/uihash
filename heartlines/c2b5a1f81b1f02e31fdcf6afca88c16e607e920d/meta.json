@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c2b5a1f81b1f02e31fdcf6afca88c16e607e920d",
+ "parent": "d988fc78b24e1fc9bc56009d2b20295c86ad8caa",
+ "date": "2025-10-01",
+ "subject": "Refactor: Show only person icon",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 39724
+}

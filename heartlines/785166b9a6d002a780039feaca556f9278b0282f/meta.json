@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "785166b9a6d002a780039feaca556f9278b0282f",
+ "parent": "2e2b2ef7e78e18bb15115a4eab9b79ba8685af9f",
+ "date": "2025-10-02",
+ "subject": "feat: Add 2093 slide to carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/elderly-native-american-women.png",
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35539
+}

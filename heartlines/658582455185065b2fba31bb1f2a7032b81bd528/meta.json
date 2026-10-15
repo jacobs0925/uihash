@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "658582455185065b2fba31bb1f2a7032b81bd528",
+ "parent": "5d00ed3082ad73155f955194bc0eac3352aa22e5",
+ "date": "2025-10-01",
+ "subject": "Visual edit in Lovable",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Brand/HeartlinesWordmark.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35634
+}

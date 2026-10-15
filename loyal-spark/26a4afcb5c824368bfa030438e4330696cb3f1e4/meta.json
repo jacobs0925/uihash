@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "26a4afcb5c824368bfa030438e4330696cb3f1e4",
+ "parent": "04e449e34d0855776ae8a02cee29ecac7126cd66",
+ "date": "2025-10-24",
+ "subject": "Fix: Revert Farcaster UI changes for web",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AuthPrompt.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 57855
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ea891d057a91f0f0364ddc9edaa5f68bd8c01eee",
+ "parent": "7bf935d96595c2899f1cb9db2a93ad06916d74fc",
+ "date": "2025-10-01",
+ "subject": "Refactor: Move carousel to top of fold",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36199
+}

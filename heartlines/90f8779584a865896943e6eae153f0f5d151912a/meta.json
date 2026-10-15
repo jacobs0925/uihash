@@ -1,0 +1,25 @@
+{
+ "repo": "heartlines",
+ "sha": "90f8779584a865896943e6eae153f0f5d151912a",
+ "parent": "be85451fea1e44c430498796ff2f1c4ee109a095",
+ "date": "2025-10-03",
+ "subject": "Fix mobile chat interface",
+ "components": [
+  "components",
+  "index.css",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx",
+  "src/index.css",
+  "src/pages/Dashboard.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 46021
+}

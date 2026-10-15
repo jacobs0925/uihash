@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6f83fb4d9e4c986f32f645e51aaf5e3e9b6049f9",
+ "parent": "a576c077b4d1ce75d852403a9420a9a71c28a986",
+ "date": "2025-10-03",
+ "subject": "Fix splash screen duration and loading",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FirstVisitSplash.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37436
+}

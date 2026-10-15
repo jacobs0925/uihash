@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "008e42d17997c01a09edea87360e2f4f923fd824",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Remove privacy text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2902 later commits"
+}

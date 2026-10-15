@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "a576c077b4d1ce75d852403a9420a9a71c28a986",
+ "parent": "8fb76d2112fb33c39ce885b4997796e1e7339ec6",
+ "date": "2025-10-03",
+ "subject": "Fix mobile phone animation issues",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37044
+}

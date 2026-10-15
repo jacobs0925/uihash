@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "3753eaf352304b201c345e2aa6421d34c49eba88",
+ "parent": "938eeb72ea7ef509ca15fed41e0ee2751c39dc85",
+ "date": "2025-10-02",
+ "subject": "Fix timeline section visuals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36129
+}

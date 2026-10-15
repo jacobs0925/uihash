@@ -1,0 +1,12 @@
+{
+ "app": "loyal-spark",
+ "group": "loyal-spark",
+ "sha": "04e449e34d0855776ae8a02cee29ecac7126cd66",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Fix Farcaster and web deployment issues",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 882 later commits"
+}

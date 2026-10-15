@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "53d6d8295c0093c76db004802e4018bc69bed322",
+ "parent": "658582455185065b2fba31bb1f2a7032b81bd528",
+ "date": "2025-10-01",
+ "subject": "Refactor Auth routes and styling",
+ "components": [
+  "App.tsx",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/index.css",
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35940
+}

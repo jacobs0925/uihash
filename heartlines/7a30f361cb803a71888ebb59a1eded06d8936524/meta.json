@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7a30f361cb803a71888ebb59a1eded06d8936524",
+ "parent": "c43bd6dd59b9bc661c3f86143493d4d225c664f1",
+ "date": "2025-10-02",
+ "subject": "Refactor: Make cards more compact",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34332
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "2718fa5ac04f306f3f1766520cdcaf77ad3fbdb3",
+ "parent": "28be2b98ba32b9294b19ad44adaa1a5694a12731",
+ "date": "2025-10-02",
+ "subject": "Fix: Adjust message display speed",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/ProductPhoneDemo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36657
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e530f52c9ade6cb834235cb01de05faa3f6ac6a8",
+ "parent": "cc585c50a060b13adbd4d4e2aea40efd83ba850c",
+ "date": "2025-10-02",
+ "subject": "Refactor: Update carousel indicators and timing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35929
+}

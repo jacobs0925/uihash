@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "95e782e6e79d65ac8fa5411d2ba1f72c6d76ca0d",
+ "parent": "cf9fe0fcac4d717d0e94f209b5658696f3fb08c9",
+ "date": "2025-10-02",
+ "subject": "feat: Add gay man dating app scenario",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/gay-man-avatar.png",
+  "src/components/HeroPhoneScroll.tsx",
+  "src/data/demoConversations.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35812
+}

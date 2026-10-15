@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ff81c3595800450a7794aa504c5412d948a17a06",
+ "parent": "8b9958c528f2de7d5f012db5e20eb249e42e8737",
+ "date": "2025-10-03",
+ "subject": "feat: Add conversation titles to progress bar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37224
+}

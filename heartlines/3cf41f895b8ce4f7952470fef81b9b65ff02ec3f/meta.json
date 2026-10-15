@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "3cf41f895b8ce4f7952470fef81b9b65ff02ec3f",
+ "parent": "1485717b9854d395c137e91f96ddb533ac07bc22",
+ "date": "2025-10-03",
+ "subject": "Fix: Implement HTML-level overscroll fix",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 53585
+}

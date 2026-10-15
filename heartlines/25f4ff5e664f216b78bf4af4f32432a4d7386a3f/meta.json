@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "25f4ff5e664f216b78bf4af4f32432a4d7386a3f",
+ "parent": "3da110cd62e1921e8660dbf8c1df892c2e2e9b05",
+ "date": "2025-10-01",
+ "subject": "Refactor: Improve carousel UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HowItWorksSwipe.tsx",
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35566
+}

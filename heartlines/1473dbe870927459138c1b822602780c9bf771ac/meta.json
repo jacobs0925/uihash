@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1473dbe870927459138c1b822602780c9bf771ac",
+ "parent": "c24082a8739542495b1d503ffca221d6d72ef513",
+ "date": "2025-10-01",
+ "subject": "Fix: Prevent text cutoff on tablets",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36086
+}

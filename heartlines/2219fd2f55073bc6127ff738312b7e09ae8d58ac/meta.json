@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "2219fd2f55073bc6127ff738312b7e09ae8d58ac",
+ "parent": "0027162d0d834e4353b46ff21d04675c1898ebcd",
+ "date": "2025-10-02",
+ "subject": "Fix hero text size and remove swipe hint",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HowItWorksSwipe.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36057
+}

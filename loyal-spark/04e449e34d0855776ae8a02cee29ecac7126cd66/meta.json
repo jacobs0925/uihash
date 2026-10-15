@@ -1,0 +1,26 @@
+{
+ "repo": "loyal-spark",
+ "sha": "04e449e34d0855776ae8a02cee29ecac7126cd66",
+ "parent": "3b6844571a3090b171f5cb0d24cfc1f19bd55ef4",
+ "date": "2025-10-24",
+ "subject": "Fix Farcaster and web deployment issues",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AuthPrompt.tsx",
+  "src/components/FarcasterSplash.tsx",
+  "src/components/RoleSelector.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts",
+  "src/hooks/useDeployLoyaltyToken.ts",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 61546
+}

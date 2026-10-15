@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ee5e3744fe2a4254ea2cfe85aec4559a64f2fb67",
+ "parent": "6b9513f7cd7ff68fdda0cf287d053bb8463c577f",
+ "date": "2025-10-02",
+ "subject": "Refactor: Optimize mobile phone interface",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37345
+}

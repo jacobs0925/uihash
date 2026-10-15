@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "008e42d17997c01a09edea87360e2f4f923fd824",
+ "parent": "9cc524a6cd7c0cefde057b72ba39e4b724d68ccc",
+ "date": "2025-10-01",
+ "subject": "Remove privacy text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 36580
+}

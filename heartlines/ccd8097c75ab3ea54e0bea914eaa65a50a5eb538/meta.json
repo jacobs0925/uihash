@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ccd8097c75ab3ea54e0bea914eaa65a50a5eb538",
+ "parent": "7f5946acc57a782d82b425c09c28e17141672fda",
+ "date": "2025-10-02",
+ "subject": "Refactor timeline and homepage background",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35085
+}

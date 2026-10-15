@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4e8b62e780417b84c00937872ce0b7a0860d657f",
+ "parent": "7214d9a33096e78a41950afbfa2d0766eca9e369",
+ "date": "2025-10-02",
+ "subject": "Fix: Prevent text wrapping",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34428
+}

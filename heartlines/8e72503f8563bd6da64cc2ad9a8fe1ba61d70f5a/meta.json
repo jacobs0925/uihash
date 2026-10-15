@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8e72503f8563bd6da64cc2ad9a8fe1ba61d70f5a",
+ "parent": "aec0b87ff457a0b88491852d08bbe8416e310f04",
+ "date": "2025-10-02",
+ "subject": "Fix landing page color consistency",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36069
+}

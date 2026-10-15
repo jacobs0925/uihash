@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1b6f1ae9e8d0570989801034550c280122912bd1",
+ "parent": "eb88d572c87f0b2f65f5f230e889069973500d3f",
+ "date": "2025-10-02",
+ "subject": "Fix: Remove periods from parenthetical text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36598
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "55bb6496977f0234462f8bf3aad59e5551772b57",
+ "parent": "785166b9a6d002a780039feaca556f9278b0282f",
+ "date": "2025-10-02",
+ "subject": "Add new scenario and randomize carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/new-dad-avatar.png",
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/YearCarousel.tsx",
+  "src/data/demoConversations.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35062
+}

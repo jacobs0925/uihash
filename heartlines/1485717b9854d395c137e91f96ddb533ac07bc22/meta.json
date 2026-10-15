@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "1485717b9854d395c137e91f96ddb533ac07bc22",
+ "parent": "ad8692b258f113c11c3f99ba590be679c85834e3",
+ "date": "2025-10-03",
+ "subject": "Fix: Implement comprehensive mobile overscroll fix",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx",
+  "src/components/chat/ChatLayout.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 47995
+}

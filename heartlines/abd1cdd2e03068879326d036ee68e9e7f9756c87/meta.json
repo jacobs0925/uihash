@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "abd1cdd2e03068879326d036ee68e9e7f9756c87",
+ "parent": "c2b5a1f81b1f02e31fdcf6afca88c16e607e920d",
+ "date": "2025-10-01",
+ "subject": "Prevent hero text wrapping",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36098
+}

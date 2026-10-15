@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "c2b5a1f81b1f02e31fdcf6afca88c16e607e920d",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Refactor: Show only person icon",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2979 later commits"
+}

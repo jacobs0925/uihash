@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "01cff89ca024bd14bdc86f9c062bd7ad9415c708",
+ "parent": "213a4e3fd6077ebcdcd44f419c8e5b36cf5d72c8",
+ "date": "2025-10-01",
+ "subject": "Fix: Adjust padding to prevent year clipping",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35685
+}

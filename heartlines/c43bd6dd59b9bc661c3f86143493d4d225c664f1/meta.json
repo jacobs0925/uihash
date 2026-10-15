@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c43bd6dd59b9bc661c3f86143493d4d225c664f1",
+ "parent": "4444992632c3ef20ba4a85c5d29508c84340c508",
+ "date": "2025-10-02",
+ "subject": "Refactor: Simplify desktop card styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34276
+}

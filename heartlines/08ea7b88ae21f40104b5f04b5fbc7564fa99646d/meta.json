@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "08ea7b88ae21f40104b5f04b5fbc7564fa99646d",
+ "parent": "1947ca3cf4f9508a3c619c8e07abb1d1ea172b16",
+ "date": "2025-10-01",
+ "subject": "Refactor: Change \"Forgot Password?\" text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35731
+}

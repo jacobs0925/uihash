@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "308348696bdcdd9463660b72a9a4952c9a06e641",
+ "parent": "0757bc9df4e263f359f04ee80497bb73a7d21014",
+ "date": "2025-10-02",
+ "subject": "Add mobile padding to phone mockup",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37122
+}

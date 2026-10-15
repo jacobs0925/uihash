@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "2e2b2ef7e78e18bb15115a4eab9b79ba8685af9f",
+ "parent": "e5226bb7c19133ec853f923d15e51e42d0904735",
+ "date": "2025-10-02",
+ "subject": "Replace weekend plans scenario",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/moving-in-avatar.png",
+  "src/components/HeroPhoneScroll.tsx",
+  "src/data/demoConversations.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35798
+}

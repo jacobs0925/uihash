@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "5bc915a16e0ec772c22a5a4d33f43001cbdcb6f1",
+ "parent": "bf8ebdaeb164b3405db2e286c422f6911cc73b59",
+ "date": "2025-10-03",
+ "subject": "feat: Implement session-based splash screen",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/FirstVisitSplash.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36779
+}

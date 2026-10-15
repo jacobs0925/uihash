@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2a7eb9c9481db4feb3a5e6005276d0bf674f4062",
+ "parent": "63f57897179a6e1d4a0ea33e4df5e9861546d71a",
+ "date": "2025-10-02",
+ "subject": "Refactor: Add more gradient pizzazz",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34388
+}

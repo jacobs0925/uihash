@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "1ccae4a7c47689ef98ff21fea719836c1ba276ad",
+ "parent": "6106ebea1ec08b205eca2747fb4a1f89a6856694",
+ "date": "2025-10-03",
+ "subject": "Fix: Implement sealed container fix",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/ui/scroll-area.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37707
+}

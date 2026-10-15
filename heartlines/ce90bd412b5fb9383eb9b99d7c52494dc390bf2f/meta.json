@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ce90bd412b5fb9383eb9b99d7c52494dc390bf2f",
+ "parent": "1aa1ef36d7012c86324f08b8876edfd53a6dcd35",
+ "date": "2025-10-03",
+ "subject": "Fix: Adjust header padding for tablet",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36458
+}

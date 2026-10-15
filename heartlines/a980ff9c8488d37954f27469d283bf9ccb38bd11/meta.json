@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a980ff9c8488d37954f27469d283bf9ccb38bd11",
+ "parent": "3116088d6bf87370a8ec04f3f4e559e00c43f34b",
+ "date": "2025-10-01",
+ "subject": "Fix: Ensure year text is not clipped",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35085
+}

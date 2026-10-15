@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "256386abc18789f5e3a1d87856f385aa73a27e3e",
+ "parent": "aeec9925b9b6c7329ae687cf071d7e48f2d692df",
+ "date": "2025-10-02",
+ "subject": "Fix: Update year in carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36033
+}

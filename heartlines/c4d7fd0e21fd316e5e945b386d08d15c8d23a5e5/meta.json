@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c4d7fd0e21fd316e5e945b386d08d15c8d23a5e5",
+ "parent": "e530f52c9ade6cb834235cb01de05faa3f6ac6a8",
+ "date": "2025-10-02",
+ "subject": "Refactor: Adjust phone mockup size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36040
+}

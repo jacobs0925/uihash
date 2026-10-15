@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "8dad9399d0a479565f4e5400b01b22cfadb713ce",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Fix: Decrease spacing on Privacy & Security page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2904 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "aec0b87ff457a0b88491852d08bbe8416e310f04",
+ "parent": "991d11f036d0ad3c1d8838ff75c5a4f348b90ad4",
+ "date": "2025-10-02",
+ "subject": "Revert changes to timeline and homepage",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36271
+}

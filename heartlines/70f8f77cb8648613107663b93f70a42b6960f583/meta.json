@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "70f8f77cb8648613107663b93f70a42b6960f583",
+ "parent": "56f056784cfd4d155c72d2842b4878c1a97bc976",
+ "date": "2025-10-01",
+ "subject": "Fix: Remove overflow-hidden to prevent text clipping",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35095
+}

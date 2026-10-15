@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "7c9bb5747297fb0b30908cedb7aa9efff3b52669",
+ "parent": "9d2936e81f9fc65c21970ecc49436476959c6b46",
+ "date": "2025-10-23",
+ "subject": "Clean up App component by removing unused code",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 8,
+ "ms": 57976
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "0389fe4f9ed2afd3b3d1c448dfd1bf9bcf5a4c49",
+ "parent": "092eaf8ea9dc6020474cc38cb24223460116f2be",
+ "date": "2025-10-02",
+ "subject": "Fix: Improve carousel looping behavior",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35614
+}

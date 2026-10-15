@@ -1,0 +1,35 @@
+{
+ "repo": "heartlines",
+ "sha": "bc0c839b6ebf61d348df006fc786ef6e30738501",
+ "parent": "1ccae4a7c47689ef98ff21fea719836c1ba276ad",
+ "date": "2025-10-03",
+ "subject": "Reverted to commit ba26cfa174b53b478e1943f7a9b898e001971dc8",
+ "components": [
+  "components",
+  "index.css",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "index.html",
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/DashboardContent.tsx",
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/ProductPhoneDemo.tsx",
+  "src/components/YearCarousel.tsx",
+  "src/components/chat/ChatLayout.tsx",
+  "src/components/ui/scroll-area.tsx",
+  "src/components/ui/timeline.tsx",
+  "src/index.css",
+  "src/pages/Dashboard.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 15,
+ "ms": 72054
+}

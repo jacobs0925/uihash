@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "86515c9d3fa21448e51c5471101578311aa64def",
+ "parent": "05c05f2be64a2d64961491baa06b3046054f7bdf",
+ "date": "2025-10-01",
+ "subject": "Refactor email verification styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35210
+}

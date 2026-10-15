@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "1cd885b45fd1798b95d21626aebb5a77fe8a678f",
+ "date": "2025-10-03",
+ "pr": null,
+ "title": "Refactor: Implement homepage performance optimizations",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by bc0c839b, which restored ba26cfa1 (26 commits discarded)"
+}

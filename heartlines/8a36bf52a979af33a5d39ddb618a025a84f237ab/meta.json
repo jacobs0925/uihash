@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8a36bf52a979af33a5d39ddb618a025a84f237ab",
+ "parent": "ad878a394eec3ebf50b6ae1ce59cf0c140226dac",
+ "date": "2025-10-02",
+ "subject": "Refactor: Improve sticky navigation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36543
+}

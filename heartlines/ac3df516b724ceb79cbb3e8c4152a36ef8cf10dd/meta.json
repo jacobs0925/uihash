@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "ac3df516b724ceb79cbb3e8c4152a36ef8cf10dd",
+ "parent": "57899f8936046ec4ed20a50022fba57d696b00c5",
+ "date": "2025-10-02",
+ "subject": "Refactor: Make \"Why We're Different\" section more compact",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37334
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "6106ebea1ec08b205eca2747fb4a1f89a6856694",
+ "date": "2025-10-03",
+ "pr": null,
+ "title": "Fix: Implement mobile-only overscroll prevention",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by bc0c839b, which restored ba26cfa1 (26 commits discarded)"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b44a3d403095df4055adc2f8ea4449c2c47cea26",
+ "parent": "508250d1656363054f5f0f34646c822285125346",
+ "date": "2025-10-01",
+ "subject": "Remove young couple banner",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36185
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "2fa2146b0eeb57b12dd79995e1082b6d4fba18b8",
+ "parent": "d84e7aafa05e2e2553199ae390b77ae6883589ea",
+ "date": "2025-10-02",
+ "subject": "Fix navi and button behavior",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HowItWorksSwipe.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36808
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "0ff0ec2e8190073db5930e81ad1a74ea8a1a9d99",
+ "parent": "008e42d17997c01a09edea87360e2f4f923fd824",
+ "date": "2025-10-01",
+ "subject": "Update privacy settings link",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/account/AccountLayout.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34263
+}

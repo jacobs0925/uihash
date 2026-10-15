@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4444992632c3ef20ba4a85c5d29508c84340c508",
+ "parent": "fba1bedfef03bcf516d1fe9b507485fdd72f0a64",
+ "date": "2025-10-02",
+ "subject": "Fix font to Shrikhand",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34452
+}

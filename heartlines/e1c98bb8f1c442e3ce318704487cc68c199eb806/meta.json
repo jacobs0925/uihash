@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "e1c98bb8f1c442e3ce318704487cc68c199eb806",
+ "parent": "471ae92b24b33706cdeb28aa2fa415efacf8cf4b",
+ "date": "2025-10-02",
+ "subject": "Fix: Add new carousel slide for 2087",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/elderly-couple-vintage-living-room.png",
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36126
+}

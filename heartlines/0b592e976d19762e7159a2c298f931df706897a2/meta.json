@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "0b592e976d19762e7159a2c298f931df706897a2",
+ "parent": "c296744b9d5f6ed34ac839c8ab9ee9a03a79d3a2",
+ "date": "2025-10-03",
+ "subject": "Refactor: Restore mobile chat interface",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/BurgundyNavCarrot.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatHeader.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/contexts/MobileHeaderVisibilityContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36819
+}

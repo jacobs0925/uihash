@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "8ff1f9f016ad9ea14a9c1251a5879d22a1756b36",
+ "parent": "4e8b62e780417b84c00937872ce0b7a0860d657f",
+ "date": "2025-10-02",
+ "subject": "Refactor: Redesign \"How It Works\" section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HowItWorksSwipe.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34370
+}

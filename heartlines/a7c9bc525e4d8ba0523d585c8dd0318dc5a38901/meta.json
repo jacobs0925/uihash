@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a7c9bc525e4d8ba0523d585c8dd0318dc5a38901",
+ "parent": "57d127f60ad0e45b3c50a89ed1e2bd66f3ed82bf",
+ "date": "2025-10-02",
+ "subject": "Fix: Make nav fixed and improve styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35991
+}

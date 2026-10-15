@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9c85e164ace63d7265dc5540659577c44bc38c4f",
+ "parent": "1cd885b45fd1798b95d21626aebb5a77fe8a678f",
+ "date": "2025-10-03",
+ "subject": "Fix timeline reload effect",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 38380
+}

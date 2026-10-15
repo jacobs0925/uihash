@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c9d59f29b3326d2f1a55a7773e48bc22dfa38ba3",
+ "parent": "de5dac51cbe8173a1fc1ea4d1cc22a143fb8d0b9",
+ "date": "2025-10-02",
+ "subject": "Remove timeline graphic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36021
+}

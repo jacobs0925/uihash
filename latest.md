@@ -1,12 +1,12 @@
-### uihash learn · round 19 · 2026-10-14 22:34 UTC
+### uihash learn · round 20 · 2026-10-15 01:22 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
 | el400 | 334 | +0 | 101 | 93 | 5 | 135 | 6 |
-| livingwitharthritis | 174 | +0 | 43 | 91 | 13 | 27 | 12 |
+| livingwitharthritis | 174 | +0 | 43 | 91 | 13 | 27 | 13 |
 | milk-me-not | 846 | +0 | 225 | 294 | 15 | 312 | 6 |
-| loyal-spark | 183 | +183 | 17 | 30 | 1 | 135 | 2 |
-| heartlines | 0 | +0 | 0 | 0 | 0 | 0 | 0 |
+| loyal-spark | 191 | +8 | 18 | 34 | 1 | 138 | 5 |
+| heartlines | 251 | +251 | 5 | 9 | 2 | 235 | 0 |
 | pronghorn | 0 | +0 | 0 | 0 | 0 | 0 | 0 |
 | skilla | 0 | +0 | 0 | 0 | 0 | 0 | 0 |
 | primer-react | 186 | +0 | 12 | 63 | 7 | 104 | 0 |
@@ -23,22 +23,23 @@
 | metabase | 0 | +0 | 0 | 0 | 0 | 0 | 0 |
 | porsche | 0 | +0 | 0 | 0 | 0 | 0 | 0 |
 
-Held out of training and judged on: 44 regressions, 128 intended changes, 46 mixed. Trained on 798 labelled commits, no synthetic PRs.
+Held out of training and judged on: 46 regressions, 130 intended changes, 46 mixed. Trained on 813 labelled commits, no synthetic PRs.
 
-Candidates (mean PR-level AUROC on the held-out commits): logistic-all 0.779, logistic-local 0.819 (chosen), trees-all 0.794.
+Candidates (mean PR-level AUROC on the held-out commits): logistic-all 0.763, logistic-local 0.799, trees-all 0.815 (chosen).
 
 #### Promotion gate: FAIL
 
 | set | PRs | AUROC current | AUROC candidate | 95 % interval of the difference | regressions flagged | deliberate left alone | mixed: mistake flagged | mixed: deliberate left alone | verdict |
 |---|---|---|---|---|---|---|---|---|---|
-| el400-held-out | 43 | 0.424 | 0.779 | 0.176 to 0.522 | 2 → 5 | 6 → 9 | 6 → 5 | 2 → 1 | pass |
-| eui-held-out | 4 | 0.500 | 0.750 | 0.000 to 0.500 | 0 → 0 | 0 → 1 | 1 → 1 | 0 → 0 | pass |
-| livingwitharthritis-held-out | 30 | 0.459 | 0.717 | -0.012 to 0.531 | 5 → 5 | 2 → 2 | 3 → 1 | 0 → 0 | mistakes flagged: 6 vs 8 of 10 (at most 1 fewer) |
-| loyal-spark-held-out | 7 | 0.500 | 0.857 | 0.000 to 0.714 | 0 → 0 | 2 → 2 | 2 → 1 | 0 → 0 | pass |
-| milk-me-not-held-out | 119 | 0.434 | 0.919 | 0.375 to 0.596 | 12 → 23 | 5 → 5 | 26 → 27 | 2 → 2 | pass |
-| primer-brand-held-out | 4 | n/a | n/a | n/a | 0 → 0 | 0 → 1 | 0 → 0 | 0 → 0 | pass |
-| primer-react-held-out | 11 | 0.778 | 0.889 | -0.250 to 0.556 | 2 → 2 | 1 → 2 | 0 → 0 | 0 → 0 | pass |
+| el400-held-out | 43 | 0.773 | 0.789 | -0.061 to 0.097 | 5 → 9 | 9 → 6 | 5 → 8 | 1 → 1 | intended changes left alone: 7 vs 10 of 31 (at most 1 fewer) |
+| eui-held-out | 4 | 0.750 | 0.750 | 0.000 to 0.000 | 0 → 0 | 1 → 1 | 1 → 0 | 0 → 0 | pass |
+| heartlines-held-out | 2 | n/a | n/a | n/a | 1 → 1 | 0 → 0 | 0 → 0 | 0 → 0 | pass |
+| livingwitharthritis-held-out | 30 | 0.713 | 0.687 | -0.182 to 0.096 | 5 → 6 | 2 → 2 | 2 → 3 | 0 → 0 | pass |
+| loyal-spark-held-out | 9 | 0.833 | 0.944 | 0.000 to 0.333 | 0 → 0 | 3 → 3 | 2 → 2 | 0 → 0 | pass |
+| milk-me-not-held-out | 119 | 0.914 | 0.945 | 0.010 to 0.056 | 23 → 23 | 5 → 5 | 27 → 30 | 2 → 2 | pass |
+| primer-brand-held-out | 4 | n/a | n/a | n/a | 0 → 0 | 1 → 1 | 0 → 0 | 0 → 0 | pass |
+| primer-react-held-out | 11 | 0.889 | 0.778 | -0.400 to 0.000 | 2 → 2 | 2 → 2 | 0 → 0 | 0 → 0 | pass |
 
-Cross-validation on the training data (variant local; whole operators or repositories held out): AUROC 0.728 (logistic), 0.723 (trees).
+Cross-validation on the training data (variant all; whole operators or repositories held out): AUROC 0.685 (logistic), 0.669 (trees).
 
-**Keeping the current model**: logistic-local did not pass the promotion gate: livingwitharthritis-held-out: mistakes flagged: 6 vs 8 of 10 (at most 1 fewer).
+**Keeping the current model**: trees-all did not pass the promotion gate: el400-held-out: intended changes left alone: 7 vs 10 of 31 (at most 1 fewer).

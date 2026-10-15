@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "f186833727e72f292ac1b0b8c7ad3e739a989dfe",
+ "parent": "c86e17ccd5777dc2f946420a3de9f54e72a60913",
+ "date": "2025-10-03",
+ "subject": "Fix landing page scrolling by removing CSS containment",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36697
+}

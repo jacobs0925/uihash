@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "1d63285ed7529526b23b49f9bff2ce5fb3071115",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Update text to logo",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2906 later commits"
+}

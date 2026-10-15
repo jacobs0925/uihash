@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "33daa6cda262c17f7460de81ef855aa0bb2a2825",
+ "parent": "483d88d26c959b51cc5a964db20891d14aa114cc",
+ "date": "2025-10-02",
+ "subject": "Fix Hero Text Proportional Scaling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35552
+}

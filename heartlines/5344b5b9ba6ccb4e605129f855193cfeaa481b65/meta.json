@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5344b5b9ba6ccb4e605129f855193cfeaa481b65",
+ "parent": "d4fb9d14853ca2a758e344f4796562a4422be516",
+ "date": "2025-10-02",
+ "subject": "Refactor: Add color to mobile sections",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34161
+}

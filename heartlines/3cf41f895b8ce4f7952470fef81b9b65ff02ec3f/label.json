@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "3cf41f895b8ce4f7952470fef81b9b65ff02ec3f",
+ "date": "2025-10-03",
+ "pr": null,
+ "title": "Fix: Implement HTML-level overscroll fix",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 5059c8da, which restored 1485717b (1 commit discarded)"
+}

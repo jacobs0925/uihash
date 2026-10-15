@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "696781e7505069fdddb4c94234cf41fa317b50cd",
+ "parent": "bdbd060246d6b565e2530a921f9815ef9fcac2ce",
+ "date": "2025-10-02",
+ "subject": "Update \"How It Works\" header styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34391
+}

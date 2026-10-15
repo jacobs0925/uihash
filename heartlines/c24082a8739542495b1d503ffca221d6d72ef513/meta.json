@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c24082a8739542495b1d503ffca221d6d72ef513",
+ "parent": "000ec7e062c9dd8639e08346991afc3ee66a1d5f",
+ "date": "2025-10-01",
+ "subject": "Refactor: Adjust mobile spacing in LandingPage",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36029
+}

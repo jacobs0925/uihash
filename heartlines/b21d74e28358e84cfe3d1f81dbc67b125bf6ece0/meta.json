@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "b21d74e28358e84cfe3d1f81dbc67b125bf6ece0",
+ "parent": "b9b1617fe816f2f2b4054d51e8711b4f619bcce0",
+ "date": "2025-10-01",
+ "subject": "feat: Add forgot password and update auth text",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/SignUpModal.tsx",
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36326
+}

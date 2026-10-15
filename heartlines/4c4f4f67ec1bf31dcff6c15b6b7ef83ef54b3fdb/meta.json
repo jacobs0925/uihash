@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4c4f4f67ec1bf31dcff6c15b6b7ef83ef54b3fdb",
+ "parent": "fb53772ab16fd6f335426bf8bc353cc0820a71a9",
+ "date": "2025-10-03",
+ "subject": "Fix: Restore chat header padding",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36590
+}

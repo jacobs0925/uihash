@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "290d281db59a9ed0fa053728f562db57b7a2e51d",
+ "parent": "2219fd2f55073bc6127ff738312b7e09ae8d58ac",
+ "date": "2025-10-02",
+ "subject": "Remove philosophy section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35912
+}

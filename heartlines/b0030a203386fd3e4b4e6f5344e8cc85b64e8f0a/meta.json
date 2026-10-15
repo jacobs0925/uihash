@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "b0030a203386fd3e4b4e6f5344e8cc85b64e8f0a",
+ "parent": "9c85e164ace63d7265dc5540659577c44bc38c4f",
+ "date": "2025-10-03",
+ "subject": "Fix: Implement Embla Autoplay plugin",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 38992
+}

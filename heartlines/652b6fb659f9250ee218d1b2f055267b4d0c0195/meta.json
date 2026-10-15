@@ -1,0 +1,26 @@
+{
+ "repo": "heartlines",
+ "sha": "652b6fb659f9250ee218d1b2f055267b4d0c0195",
+ "parent": "ccd8097c75ab3ea54e0bea914eaa65a50a5eb538",
+ "date": "2025-10-02",
+ "subject": "Fix: Address mobile white screen on coaching page",
+ "components": [
+  "components",
+  "index.css",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx",
+  "src/components/chat/ChatLayout.tsx",
+  "src/index.css",
+  "src/pages/Dashboard.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 44252
+}

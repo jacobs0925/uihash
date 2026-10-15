@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d47fa3259c3a013dafd618220f7130b5408de5e6",
+ "parent": "d0b3962565cba1695860028376a769f4c2851106",
+ "date": "2025-10-03",
+ "subject": "Fix mobile chat interface visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36511
+}

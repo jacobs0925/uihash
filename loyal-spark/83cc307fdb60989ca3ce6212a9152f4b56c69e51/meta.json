@@ -1,0 +1,19 @@
+{
+ "repo": "loyal-spark",
+ "sha": "83cc307fdb60989ca3ce6212a9152f4b56c69e51",
+ "parent": "26a4afcb5c824368bfa030438e4330696cb3f1e4",
+ "date": "2025-10-24",
+ "subject": "Fix program activation status",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CreatedPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 44625
+}

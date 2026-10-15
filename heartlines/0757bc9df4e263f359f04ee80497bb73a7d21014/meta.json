@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "0757bc9df4e263f359f04ee80497bb73a7d21014",
+ "parent": "b4eddde0c2bbd15bcf71b17759f0f6dda8d15c0c",
+ "date": "2025-10-02",
+ "subject": "Fix mobile phone display and timeline cards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36941
+}

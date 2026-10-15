@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "f6f39e027006bc6db719043ee5b02ea15f72fba2",
+ "parent": "cf208e7574c2c1a51f0a761d030dbbcd47f59127",
+ "date": "2025-10-01",
+ "subject": "Add elderly couple banner",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/elderly-couple-couch.jpg",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36126
+}

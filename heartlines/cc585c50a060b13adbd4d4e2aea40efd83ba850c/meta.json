@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "cc585c50a060b13adbd4d4e2aea40efd83ba850c",
+ "parent": "76fef219e3872d74a573356224aafa990f88f22d",
+ "date": "2025-10-02",
+ "subject": "Refine carousel speed",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35360
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "05c05f2be64a2d64961491baa06b3046054f7bdf",
+ "parent": "47d791bc7393ea0a09794744eb7f991723050be1",
+ "date": "2025-10-01",
+ "subject": "Remove carousel circles",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HowItWorksSwipe.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35171
+}

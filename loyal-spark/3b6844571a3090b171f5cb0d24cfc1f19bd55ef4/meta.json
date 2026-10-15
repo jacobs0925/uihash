@@ -1,0 +1,23 @@
+{
+ "repo": "loyal-spark",
+ "sha": "3b6844571a3090b171f5cb0d24cfc1f19bd55ef4",
+ "parent": "a07a1463332d809148be3fa61745ca6f80ed9998",
+ "date": "2025-10-23",
+ "subject": "Fix: Improve wallet connection for mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/AuthPrompt.tsx",
+  "src/components/WalletConnectButton.tsx",
+  "src/config/wagmi.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 58017
+}

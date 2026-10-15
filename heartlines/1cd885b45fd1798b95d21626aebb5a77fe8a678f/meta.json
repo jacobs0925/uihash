@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "1cd885b45fd1798b95d21626aebb5a77fe8a678f",
+ "parent": "c70fdd49c1d7eca0f2fb315457c5835682158697",
+ "date": "2025-10-03",
+ "subject": "Refactor: Implement homepage performance optimizations",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "index.html",
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/YearCarousel.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 15,
+ "ms": 77502
+}

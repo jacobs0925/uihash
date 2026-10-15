@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "bf8ebdaeb164b3405db2e286c422f6911cc73b59",
+ "parent": "f186833727e72f292ac1b0b8c7ad3e739a989dfe",
+ "date": "2025-10-03",
+ "subject": "Fix YearCarousel speed and mobile behavior",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36534
+}

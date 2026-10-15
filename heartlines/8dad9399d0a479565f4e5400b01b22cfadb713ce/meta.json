@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8dad9399d0a479565f4e5400b01b22cfadb713ce",
+ "parent": "ae43a785854161e6dfb44f18a038ad7a286a463d",
+ "date": "2025-10-01",
+ "subject": "Fix: Decrease spacing on Privacy & Security page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 37206
+}

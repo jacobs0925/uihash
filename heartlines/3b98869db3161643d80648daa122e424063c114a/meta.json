@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3b98869db3161643d80648daa122e424063c114a",
+ "parent": "ac3df516b724ceb79cbb3e8c4152a36ef8cf10dd",
+ "date": "2025-10-02",
+ "subject": "Fix heading wrapping",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37438
+}

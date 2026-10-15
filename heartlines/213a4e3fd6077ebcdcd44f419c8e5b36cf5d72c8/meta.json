@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "213a4e3fd6077ebcdcd44f419c8e5b36cf5d72c8",
+ "parent": "efbd95709a2d3e24678c2f4897c4ac667c9a73ba",
+ "date": "2025-10-01",
+ "subject": "feat: Add new image to carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/elderly-couple-retro-room.png",
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35267
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "447dbcac699fb42075de16b8043726ada3bef195",
+ "parent": "dfc7c2911c6722232f3b52dd303d2939c1ddf2b8",
+ "date": "2025-10-01",
+ "subject": "Fix: Update navigation order in SimpleHeader",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SimpleHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35684
+}

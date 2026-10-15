@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "85f3289120091530773509b18ec2645e978e70a0",
+ "parent": "53d6d8295c0093c76db004802e4018bc69bed322",
+ "date": "2025-10-01",
+ "subject": "Refactor: Update auth routes",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/LandingPageFallback.tsx",
+  "src/pages/GetStarted.tsx",
+  "src/pages/Pricing.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35780
+}

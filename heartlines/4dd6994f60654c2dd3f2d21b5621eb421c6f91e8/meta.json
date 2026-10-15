@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4dd6994f60654c2dd3f2d21b5621eb421c6f91e8",
+ "parent": "4dc3b09084dc49d8248576e818b38f5114cad84f",
+ "date": "2025-10-01",
+ "subject": "Fix: Ensure carousel images bleed end to end",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35127
+}

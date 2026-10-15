@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1de8bc3ff3d6d37e5b2c7a3390db99f102b0a738",
+ "parent": "46803a6eca30755ec1917d1a86f4551cf62c498c",
+ "date": "2025-10-01",
+ "subject": "Fix text wrapping for \"we miss you\"",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35803
+}

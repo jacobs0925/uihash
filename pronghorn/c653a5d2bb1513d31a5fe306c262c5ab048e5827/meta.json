@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c653a5d2bb1513d31a5fe306c262c5ab048e5827",
+ "parent": "0751c166b6daa74d502419aa775c7231afff4062",
+ "date": "2026-01-24",
+ "subject": "Optimize collaboration chat input",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/CollaborationChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 76055
+}

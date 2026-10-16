@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7982c0060d9dda7ae72a82c7dc793eeb5d62f3cf",
+ "parent": "7bf4acaf79e09462386416c34a85a1434fc208c3",
+ "date": "2025-10-02",
+ "subject": "Update loan purpose options and remove unnecessary fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50328
+}

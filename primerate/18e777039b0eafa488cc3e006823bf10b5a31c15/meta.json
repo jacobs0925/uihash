@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "18e777039b0eafa488cc3e006823bf10b5a31c15",
+ "parent": "b53d79be81227e022a6abe9dd9298ec8af4b6e0b",
+ "date": "2025-10-02",
+ "subject": "Adjust the size of toggle switches in the ABC card section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49708
+}

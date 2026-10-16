@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "83d26c7bf46abc3f9bce18ad74efc670fc62e5dc",
+ "parent": "92744b1f6dabb4d8ed10bb9513af6f919e0b5399",
+ "date": "2025-10-01",
+ "subject": "Improve input fields for loan amount and lender credit",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49545
+}

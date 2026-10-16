@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "185225e0f5ac885a7f7cc603e87fc269fbe532fe",
+ "parent": "ea2acd3f52d5350a9b64896fb83abb2058f0db97",
+ "date": "2025-10-02",
+ "subject": "Apply grey background styling to the ABC card loan details section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49652
+}

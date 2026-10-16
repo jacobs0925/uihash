@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "78aeffd99eb7d54c65d720e35364d59ab4e3fde7",
+ "parent": "dac011352583415feadf80c8ae91e4699371e35d",
+ "date": "2025-10-02",
+ "subject": "Prevent users from opening multiple new loan cards simultaneously",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50126
+}

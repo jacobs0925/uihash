@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ba87f85233efc6c3d768179bee98e07fcc949932",
+ "parent": "c437a1b878fd015797e6fe5ce24b7649df10fcd9",
+ "date": "2025-10-02",
+ "subject": "Update loan amount calculation based on open loan type",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49826
+}

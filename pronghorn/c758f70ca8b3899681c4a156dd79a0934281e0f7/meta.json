@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c758f70ca8b3899681c4a156dd79a0934281e0f7",
+ "parent": "ec19c200573fdfb967691367d03922619ec797f6",
+ "date": "2026-01-30",
+ "subject": "Show actual URL in Deploy card",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 75643
+}

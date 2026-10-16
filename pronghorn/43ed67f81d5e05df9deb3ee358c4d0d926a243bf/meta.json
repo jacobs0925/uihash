@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "43ed67f81d5e05df9deb3ee358c4d0d926a243bf",
+ "parent": "a5f4e51c667803d536f5581cccc57707de27a8df",
+ "date": "2026-01-26",
+ "subject": "Add write_sql tool support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/data/databaseAgentPromptTemplate.json",
+  "public/data/databaseAgentToolsManifest.json",
+  "src/components/deploy/DatabaseAgentInterface.tsx",
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "supabase/functions/database-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 75643
+}

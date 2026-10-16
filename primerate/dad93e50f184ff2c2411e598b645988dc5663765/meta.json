@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "dad93e50f184ff2c2411e598b645988dc5663765",
+ "parent": "2afe9ab5c7c0e4211bb61d132ab1e0d7e129b633",
+ "date": "2025-10-01",
+ "subject": "Format existing third loan fields to display currency properly",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49281
+}

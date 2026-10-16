@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ce9f1a901206f8769c6361ea94ed4b28a1394e25",
+ "parent": "5348f982c287b433b8e04e638bfde3e93a965e2d",
+ "date": "2025-10-01",
+ "subject": "Improve monthly payment calculation component performance and accuracy",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48384
+}

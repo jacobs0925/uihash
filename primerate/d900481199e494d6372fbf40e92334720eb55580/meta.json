@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d900481199e494d6372fbf40e92334720eb55580",
+ "parent": "c69fe5bb735c47e13c9accadaa95e3efd1f2dc3c",
+ "date": "2025-10-02",
+ "subject": "Add Mid FICO input field to the ABC Card section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49872
+}

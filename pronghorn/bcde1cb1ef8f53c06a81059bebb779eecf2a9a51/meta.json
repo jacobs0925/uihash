@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "bcde1cb1ef8f53c06a81059bebb779eecf2a9a51",
+ "parent": "95aed507863a09f37370d2682bb84463ce49c5d9",
+ "date": "2026-01-24",
+ "subject": "Reverse-order edits implemented",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "supabase/functions/collaboration-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 76275
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9219b19abb4827da8ae57eaae140d4e777c90c4a",
+ "parent": "6598022575a7e7289527ccc351ed7353604c8d73",
+ "date": "2025-10-01",
+ "subject": "Update loan card button titles for adding new loans",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49608
+}

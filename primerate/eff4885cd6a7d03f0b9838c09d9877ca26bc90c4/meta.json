@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "eff4885cd6a7d03f0b9838c09d9877ca26bc90c4",
+ "parent": "479ffc3dcff2173ecf7d09d7799bfaa53655a867",
+ "date": "2025-10-02",
+ "subject": "Update the mortgage calculator to show interest-only payments",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50229
+}

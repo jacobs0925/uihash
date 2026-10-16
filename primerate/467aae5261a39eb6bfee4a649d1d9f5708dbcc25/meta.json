@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "467aae5261a39eb6bfee4a649d1d9f5708dbcc25",
+ "parent": "d698ff1ba527ba4919dffa5c541760225655f85f",
+ "date": "2025-10-02",
+ "subject": "Update ABC card to enable dynamic lock date field and add loan details",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49993
+}

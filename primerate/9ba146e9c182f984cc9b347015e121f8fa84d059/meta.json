@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9ba146e9c182f984cc9b347015e121f8fa84d059",
+ "parent": "52c51186b8d0715eab4e499a3d493d14a479e6d3",
+ "date": "2025-10-02",
+ "subject": "Show a counter for active new loan applications on the admin page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49794
+}

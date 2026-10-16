@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a1e9ae2723b9a322eb82199dfbd75d8c7ece6e6b",
+ "parent": "1f1dd96c966b53541604ecc93390bfcdb6280715",
+ "date": "2025-10-01",
+ "subject": "Improve performance of loan purchase date input field",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49257
+}

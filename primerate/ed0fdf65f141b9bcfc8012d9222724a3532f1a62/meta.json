@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ed0fdf65f141b9bcfc8012d9222724a3532f1a62",
+ "parent": "ce9f680b42483380adee8125ecb82103f9d99542",
+ "date": "2025-10-01",
+ "subject": "Ensure loan input fields are independent between multiple loan cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48988
+}

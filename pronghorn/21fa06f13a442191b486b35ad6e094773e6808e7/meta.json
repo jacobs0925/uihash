@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "21fa06f13a442191b486b35ad6e094773e6808e7",
+ "parent": "54266effdef6db2890e6ffde396b7f81ae97ac0a",
+ "date": "2026-01-24",
+ "subject": "Add project selector tab",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx",
+  "src/components/deploy/import/FileUploader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 76244
+}

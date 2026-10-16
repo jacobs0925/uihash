@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a23dedb0855e9d8cf8285e1b8f802504d3ffec3e",
+ "parent": "fa2149d255915356fc9607f4b6bd6b8ed374fb41",
+ "date": "2025-10-02",
+ "subject": "Add a new option for ABC loan type in the admin client creation form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49904
+}

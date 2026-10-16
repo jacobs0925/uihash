@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ea2acd3f52d5350a9b64896fb83abb2058f0db97",
+ "parent": "ab62f796bf432270df11cf8691a5301db13e608f",
+ "date": "2025-10-02",
+ "subject": "Update loan details to manage rate lock expiration and credit types",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50077
+}

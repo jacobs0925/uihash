@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "de50168b6a8ee0f184307acdaa881d2448dc9ebf",
+ "parent": "c653a5d2bb1513d31a5fe306c262c5ab048e5827",
+ "date": "2026-01-24",
+ "subject": "Improve collaboration UI perf",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/components/collaboration/CollaborationChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 76462
+}

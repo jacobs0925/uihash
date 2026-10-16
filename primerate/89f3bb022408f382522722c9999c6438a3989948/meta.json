@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "89f3bb022408f382522722c9999c6438a3989948",
+ "parent": "b60b033c72492a0ebfbf60a35c4ce8b140ba93ad",
+ "date": "2025-10-02",
+ "subject": "Add loan start date and balance fields to client form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50128
+}

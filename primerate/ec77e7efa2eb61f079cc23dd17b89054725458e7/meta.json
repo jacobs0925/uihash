@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ec77e7efa2eb61f079cc23dd17b89054725458e7",
+ "parent": "999d8f2eb2101cd2ccd6ebe78fc2bd3faa219200",
+ "date": "2025-10-02",
+ "subject": "Add pre-payment penalty dropdown to ABC loan card",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50029
+}

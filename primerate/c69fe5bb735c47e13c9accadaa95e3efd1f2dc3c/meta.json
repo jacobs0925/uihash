@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c69fe5bb735c47e13c9accadaa95e3efd1f2dc3c",
+ "parent": "18e777039b0eafa488cc3e006823bf10b5a31c15",
+ "date": "2025-10-02",
+ "subject": "Remove the HOA field and related code from the add client form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49687
+}

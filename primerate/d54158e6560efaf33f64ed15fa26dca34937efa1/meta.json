@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d54158e6560efaf33f64ed15fa26dca34937efa1",
+ "parent": "54eb63d0378a7a53e592d4e40356a272d9112346",
+ "date": "2025-10-02",
+ "subject": "Remove unused brand new loan functionality from client management",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49663
+}

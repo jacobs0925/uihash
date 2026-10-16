@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "767afdd1981032301d8e72008d85fc4c4d818ece",
+ "parent": "8828b2102d67c12a043bbc706347f7ef58196c69",
+ "date": "2025-10-01",
+ "subject": "Remove duplicate lender credit field and toggle switch",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49407
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "e7a64df64340bf04cc9a881caaad34b6935d00c4",
+ "parent": "f61b192bad692d18b37fa2e20fcd6f83cc1b9692",
+ "date": "2026-02-13",
+ "subject": "Add DDL download logs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "src/components/deploy/DatabaseTreeContextMenu.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 75241
+}

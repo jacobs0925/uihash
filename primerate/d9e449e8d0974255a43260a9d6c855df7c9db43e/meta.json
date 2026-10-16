@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "d9e449e8d0974255a43260a9d6c855df7c9db43e",
+ "parent": "ef7be5d001d9215c3eb28cd25674611e8886c07c",
+ "date": "2025-10-01",
+ "subject": "Calculate total loan payment automatically from input fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-Yes-integrating-the-calculation-into-React-Hook-Form-using-watch-and-setValue-is-the-correct-an-1759359014704_1759359014708.txt",
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48496
+}

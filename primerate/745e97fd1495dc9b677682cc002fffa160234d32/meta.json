@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "745e97fd1495dc9b677682cc002fffa160234d32",
+ "parent": "736bd8a5e7f925b20ede5d2369f611896fed6072",
+ "date": "2025-10-02",
+ "subject": "Add functionality to minimize and expand cards, and remove purchase loan logic",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50090
+}

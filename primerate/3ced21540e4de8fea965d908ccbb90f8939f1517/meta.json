@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3ced21540e4de8fea965d908ccbb90f8939f1517",
+ "parent": "96b78dc025d4cc85d682a17f377790c1e674d34c",
+ "date": "2025-10-02",
+ "subject": "Improve card styling for uniform appearance across client pages",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50076
+}

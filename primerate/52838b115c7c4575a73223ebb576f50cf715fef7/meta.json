@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "52838b115c7c4575a73223ebb576f50cf715fef7",
+ "parent": "8d1ddc0f00feffde3668bcad3d64458ba8ccb6d6",
+ "date": "2025-10-01",
+ "subject": "Improve loan rate formatting for accurate display",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50163
+}

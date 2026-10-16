@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7060e38d5257558b3eaf06b01194f5b177b3250d",
+ "parent": "ed0fdf65f141b9bcfc8012d9222724a3532f1a62",
+ "date": "2025-10-01",
+ "subject": "Update loan fields to display currency with automatic formatting",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49264
+}

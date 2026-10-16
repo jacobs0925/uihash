@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "037aae578b6796b57f5aeb9af82607b9c68492a8",
+ "parent": "e762475122d0de1d37a3cd49d9cdf1be7e16c8a1",
+ "date": "2026-01-25",
+ "subject": "Make Table Name editable locally",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/import/SchemaCreator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 75442
+}

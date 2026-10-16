@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "b9351ea5e3c798359ff2cd5d7c237e5fb8332beb",
+ "parent": "db1cf44c4517b9347f4547ef9a1cd4458e1b9805",
+ "date": "2026-02-13",
+ "subject": "Add DDL download feature",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "src/components/deploy/DatabaseSchemaTree.tsx",
+  "src/components/deploy/DatabaseTreeContextMenu.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 76452
+}

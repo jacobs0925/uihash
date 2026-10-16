@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a451c25d38574b385726dbe9b01f7890d18e5c18",
+ "parent": "bbfef09cc9d755bdfa695fc2d56bfbeefeb78908",
+ "date": "2025-10-02",
+ "subject": "Shorten text label for refinance option in client administration",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49619
+}

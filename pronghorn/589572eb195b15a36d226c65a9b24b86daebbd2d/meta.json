@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "589572eb195b15a36d226c65a9b24b86daebbd2d",
+ "parent": "d955dedf63e1b365387b038c810b6211c6901aab",
+ "date": "2026-01-24",
+ "subject": "Add tool messaging support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/components/collaboration/CollaborationChat.tsx",
+  "src/hooks/useRealtimeCollaboration.ts",
+  "supabase/migrations/20260124190153_be8615e1-fb60-4480-a18b-f4d092bc1302.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 78415
+}

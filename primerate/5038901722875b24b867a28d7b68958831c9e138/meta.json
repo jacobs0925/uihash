@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "5038901722875b24b867a28d7b68958831c9e138",
+ "parent": "33280f1c0b070bf9b6518320d77a31f79517a847",
+ "date": "2025-10-01",
+ "subject": "Remove the new loan amount field from the client add form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50021
+}

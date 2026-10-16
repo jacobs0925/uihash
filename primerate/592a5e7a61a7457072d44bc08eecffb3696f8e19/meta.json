@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "592a5e7a61a7457072d44bc08eecffb3696f8e19",
+ "parent": "7982c0060d9dda7ae72a82c7dc793eeb5d62f3cf",
+ "date": "2025-10-02",
+ "subject": "Add toggle switches for cash out and debt pay off amounts",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50208
+}

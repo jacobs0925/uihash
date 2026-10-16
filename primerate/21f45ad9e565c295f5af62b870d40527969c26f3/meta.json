@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "21f45ad9e565c295f5af62b870d40527969c26f3",
+ "parent": "a7e3110dc2dfd74e3a8cad9d970a7483ab1a4123",
+ "date": "2025-10-01",
+ "subject": "Improve live calculation of total monthly payment field",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-The-current-code-restores-typing-speed-but-the-Total-Monthly-Payment-field-may-not-update-visibly-a-1759359831748_1759359831748.txt",
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48964
+}

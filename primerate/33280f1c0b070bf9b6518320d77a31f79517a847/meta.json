@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "33280f1c0b070bf9b6518320d77a31f79517a847",
+ "parent": "b3cec247262ca1494defcca08d2dc37ee5164d1a",
+ "date": "2025-10-01",
+ "subject": "Apply currency formatting to new loan and refinance fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50223
+}

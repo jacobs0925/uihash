@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8d1ddc0f00feffde3668bcad3d64458ba8ccb6d6",
+ "parent": "16f35139b6595f652ac449bead38d17834f20d8b",
+ "date": "2025-10-01",
+ "subject": "Update interest rate input to display percentage value correctly",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49772
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d698ff1ba527ba4919dffa5c541760225655f85f",
+ "parent": "185225e0f5ac885a7f7cc603e87fc269fbe532fe",
+ "date": "2025-10-02",
+ "subject": "Add toggle switches to rate lock fields and a new interest rate field",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50064
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c6ee096d5ae1d45a29fe6ede851c9a176ab9c52c",
+ "parent": "1ac1f02af1987b649bb2e30a5ef1f08f2ea0867e",
+ "date": "2025-10-01",
+ "subject": "Update loan form field labels for clarity and better user experience",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48819
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6663a43ae91503fceb39e1f149e108c0b6f618ad",
+ "parent": "6233ec98d472c2840ba2d590bfaa2a9b237c8430",
+ "date": "2025-10-02",
+ "subject": "Update property selection for new purchase loans",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49847
+}

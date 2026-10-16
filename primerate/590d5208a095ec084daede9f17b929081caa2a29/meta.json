@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "590d5208a095ec084daede9f17b929081caa2a29",
+ "parent": "3ced21540e4de8fea965d908ccbb90f8939f1517",
+ "date": "2025-10-02",
+ "subject": "Remove unused fields and logic related to the new loan purchase card",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50085
+}

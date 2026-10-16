@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "d955dedf63e1b365387b038c810b6211c6901aab",
+ "parent": "3f7cfb98bc26df4e0e3d7b5c33e32f0e76f2ad78",
+ "date": "2026-01-24",
+ "subject": "Persist batch content across iterations",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 87539
+}

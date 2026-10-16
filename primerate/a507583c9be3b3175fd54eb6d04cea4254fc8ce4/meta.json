@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a507583c9be3b3175fd54eb6d04cea4254fc8ce4",
+ "parent": "b36a004be6ecd2d6ab55225684121f3365d66673",
+ "date": "2025-10-01",
+ "subject": "Improve date input handling for pre-payment penalty field",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48527
+}

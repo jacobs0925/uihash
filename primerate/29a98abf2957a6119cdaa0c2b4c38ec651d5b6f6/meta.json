@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "29a98abf2957a6119cdaa0c2b4c38ec651d5b6f6",
+ "parent": "292e7fe463c2019082c5c500073039cf7c03c898",
+ "date": "2025-10-02",
+ "subject": "Add loan category dropdown next to loan number in ABC card",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50126
+}

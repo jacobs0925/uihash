@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "12c006b910776657debade6537308217f2f1271b",
+ "parent": "ea5c05d488cdea1b5c55981380f379842fc7aba6",
+ "date": "2025-10-02",
+ "subject": "Add controls to manage BBB information and filter property data",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49950
+}

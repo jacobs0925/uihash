@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f9c64aed5788ae9cc4b4689527c76fbc42f98beb",
+ "parent": "cf3a5f480c18ea41f3e1622139898becc74fe44f",
+ "date": "2025-10-02",
+ "subject": "Add a loan balance data entry field below the ABC title",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49992
+}

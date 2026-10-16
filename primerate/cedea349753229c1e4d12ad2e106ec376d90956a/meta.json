@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "cedea349753229c1e4d12ad2e106ec376d90956a",
+ "parent": "03030005ace8817fa87c705dea4051a367d46e1c",
+ "date": "2025-10-02",
+ "subject": "Fix issue where loan cards do not close after removal confirmation",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49923
+}

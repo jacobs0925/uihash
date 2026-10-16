@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6598022575a7e7289527ccc351ed7353604c8d73",
+ "parent": "7060e38d5257558b3eaf06b01194f5b177b3250d",
+ "date": "2025-10-01",
+ "subject": "Update loan refinance fields to use formatted currency inputs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49223
+}

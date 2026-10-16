@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "d2d065319f10bad263893331e36735d9015bc8c2",
+ "parent": "ed5bc7f32f0475533877dcabfa286937ca70c74e",
+ "date": "2026-01-30",
+ "subject": "Stop automatic refresh UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentDialog.tsx",
+  "supabase/migrations/20260130213033_98447ce1-2bea-456b-b4dc-e8cf74d02c5e.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 76308
+}

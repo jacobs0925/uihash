@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "54266effdef6db2890e6ffde396b7f81ae97ac0a",
+ "parent": "e649cde806c2b12149cd7b7c0af70585a9d09a7a",
+ "date": "2026-01-24",
+ "subject": "Improve CodeBlockViewer contrast",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/CodeBlockViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 77694
+}

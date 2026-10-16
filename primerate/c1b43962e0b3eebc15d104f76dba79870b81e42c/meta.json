@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c1b43962e0b3eebc15d104f76dba79870b81e42c",
+ "parent": "d83fd7afd45b60f6dd3d9ce3b293be18fe3918a0",
+ "date": "2025-10-02",
+ "subject": "Improve loan application form performance by isolating input fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50287
+}

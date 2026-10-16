@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b53d79be81227e022a6abe9dd9298ec8af4b6e0b",
+ "parent": "eff4885cd6a7d03f0b9838c09d9877ca26bc90c4",
+ "date": "2025-10-02",
+ "subject": "Update tax and insurance payment toggle functionality and appearance",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50064
+}

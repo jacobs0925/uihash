@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1ac1f02af1987b649bb2e30a5ef1f08f2ea0867e",
+ "parent": "7a7d0316610372a5857e40bbc4902f69f6ccbb4e",
+ "date": "2025-10-01",
+ "subject": "Add two new input fields to the primary loan card for client data",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48743
+}

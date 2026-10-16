@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ad50f73ca9bb0edc7a9fe9b9365fdc8de5ce368a",
+ "parent": "a0e0d714eeab3249f17a768d01f2178d2c6dda0a",
+ "date": "2025-10-01",
+ "subject": "Format SSN input fields for borrowers for easier data entry",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49236
+}

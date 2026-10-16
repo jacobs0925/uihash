@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "06325d7dc3b3a122563be6878273a8f7c1caee27",
+ "parent": "3e7fdeb0706bf46ec737b159e7bb32a7afe49898",
+ "date": "2025-10-02",
+ "subject": "Improve typing speed for loan amount input field",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted--typing-still-feels-slow-because-you-re-using-a-controlled-input-with-React-Hook-Form-Even-with-min-1759367233421_1759367233421.txt",
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50561
+}

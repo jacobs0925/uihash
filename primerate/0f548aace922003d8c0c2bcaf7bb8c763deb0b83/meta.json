@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0f548aace922003d8c0c2bcaf7bb8c763deb0b83",
+ "parent": "8c87ac75d16c86d8f2f698ad23b1e2f5a2646404",
+ "date": "2025-10-02",
+ "subject": "Update card styling to match purchase card for BBB and ABC",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50243
+}

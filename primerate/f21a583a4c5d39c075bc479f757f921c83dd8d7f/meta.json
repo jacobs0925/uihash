@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f21a583a4c5d39c075bc479f757f921c83dd8d7f",
+ "parent": "dbe94ed2fc5e39499fbe916d893e572ab6f291fa",
+ "date": "2025-10-01",
+ "subject": "Update income fields to automatically format currency and handle input",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49874
+}

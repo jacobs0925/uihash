@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ea5c05d488cdea1b5c55981380f379842fc7aba6",
+ "parent": "692b5a038e31a7fd003ec9875da0588293e14eca",
+ "date": "2025-10-02",
+ "subject": "Update client portal to add property attachment functionality",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50145
+}

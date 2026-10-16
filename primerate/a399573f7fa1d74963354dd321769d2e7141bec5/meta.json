@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a399573f7fa1d74963354dd321769d2e7141bec5",
+ "parent": "a451c25d38574b385726dbe9b01f7890d18e5c18",
+ "date": "2025-10-02",
+ "subject": "Add interactive loan selection with animated card expansions",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50043
+}

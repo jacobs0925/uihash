@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "96b78dc025d4cc85d682a17f377790c1e674d34c",
+ "parent": "d54158e6560efaf33f64ed15fa26dca34937efa1",
+ "date": "2025-10-02",
+ "subject": "Adjust layout and rename section on client add form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49963
+}

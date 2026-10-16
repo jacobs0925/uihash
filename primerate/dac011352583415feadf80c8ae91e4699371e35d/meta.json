@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "dac011352583415feadf80c8ae91e4699371e35d",
+ "parent": "05559dafa23a2a0bb33ad23f11c6c55fc8bbbd85",
+ "date": "2025-10-02",
+ "subject": "Update loan card management to use arrays for multiple entries",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49944
+}

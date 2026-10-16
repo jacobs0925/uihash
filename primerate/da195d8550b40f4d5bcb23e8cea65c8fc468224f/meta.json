@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "da195d8550b40f4d5bcb23e8cea65c8fc468224f",
+ "parent": "6fa2b7c44c6fac6e7cef3a9d38fbd430c4c2c9c9",
+ "date": "2025-10-01",
+ "subject": "Update loan payment fields and remove total payment calculation",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49193
+}

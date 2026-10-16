@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "59eea598697a1669f77d081435e17f4d722334f9",
+ "parent": "4bd0e89eabb3043654dd9b77424c581c789af4d1",
+ "date": "2025-10-01",
+ "subject": "Fix incorrect card display order for co-borrower income types",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49161
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6fa2b7c44c6fac6e7cef3a9d38fbd430c4c2c9c9",
+ "parent": "83d26c7bf46abc3f9bce18ad74efc670fc62e5dc",
+ "date": "2025-10-01",
+ "subject": "Improve lender credit input handling and display on client add form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49117
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "d8a8a81fcc16b070920fbf9c43acfca0c6644597",
+ "parent": "41bb9579d2c9f2569bbc683146cd9e4983ff95e2",
+ "date": "2026-01-24",
+ "subject": "Real-time tool history updates",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/hooks/useRealtimeCollaboration.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 77573
+}

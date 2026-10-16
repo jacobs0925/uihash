@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "91db0f9c662730f28c58913e13618e4f075b8daf",
+ "parent": "745e97fd1495dc9b677682cc002fffa160234d32",
+ "date": "2025-10-02",
+ "subject": "Remove purchase loan functionality from client add new client page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49879
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "292e7fe463c2019082c5c500073039cf7c03c898",
+ "parent": "ec77e7efa2eb61f079cc23dd17b89054725458e7",
+ "date": "2025-10-02",
+ "subject": "Add fields for lender name and loan number to the client add form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49902
+}

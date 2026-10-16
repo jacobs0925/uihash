@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "bbfef09cc9d755bdfa695fc2d56bfbeefeb78908",
+ "parent": "dfe1a20f2eab4f80839d9d888dd0a75df41c13e3",
+ "date": "2025-10-02",
+ "subject": "Update loan purpose options on the add client page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49645
+}

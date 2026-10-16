@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "a5f4e51c667803d536f5581cccc57707de27a8df",
+ "parent": "d27d55c40f6bdff946f71506217b9d9232c0cf77",
+ "date": "2026-01-25",
+ "subject": "Add download ZIP feature",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 75942
+}

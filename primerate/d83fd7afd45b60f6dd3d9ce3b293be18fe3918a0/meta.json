@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "d83fd7afd45b60f6dd3d9ce3b293be18fe3918a0",
+ "parent": "6b176c0fe3f246aa74d42e263d6c54f5a447f6b8",
+ "date": "2025-10-02",
+ "subject": "Improve typing responsiveness in the loan amount field",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-The-cause-of-your-slow-typing-speed-is-the-real-time-formatting-logic-done-inside-the-render-functio-1759360984973_1759360984975.txt",
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50240
+}

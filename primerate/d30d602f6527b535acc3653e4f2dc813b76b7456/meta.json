@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d30d602f6527b535acc3653e4f2dc813b76b7456",
+ "parent": "9ba146e9c182f984cc9b347015e121f8fa84d059",
+ "date": "2025-10-02",
+ "subject": "Update loan purpose card display based on loan category selection",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49790
+}

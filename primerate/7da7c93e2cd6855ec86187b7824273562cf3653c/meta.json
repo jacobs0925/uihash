@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7da7c93e2cd6855ec86187b7824273562cf3653c",
+ "parent": "9219b19abb4827da8ae57eaae140d4e777c90c4a",
+ "date": "2025-10-01",
+ "subject": "Update button text to add another existing primary loan",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49483
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "999d8f2eb2101cd2ccd6ebe78fc2bd3faa219200",
+ "parent": "a1cf5bec68dba73b240749f6e8bcc06c51c0ff53",
+ "date": "2025-10-02",
+ "subject": "Add a field to input total debt pay off amount for ABC card",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49783
+}

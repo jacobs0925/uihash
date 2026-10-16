@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8b63f98e575b45df867086c1458fc8e9902aa5d3",
+ "parent": "369f1c2f2fcec130dcd7a6340c7f75ec14f8d406",
+ "date": "2025-10-01",
+ "subject": "Fix error when setting rate lock date and duration for clients",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48964
+}

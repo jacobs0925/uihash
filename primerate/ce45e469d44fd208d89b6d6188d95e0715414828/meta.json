@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ce45e469d44fd208d89b6d6188d95e0715414828",
+ "parent": "5acf6346004c0758711d6558d0302de3ef106c5d",
+ "date": "2025-10-01",
+ "subject": "Optimize loan calculations to prevent unnecessary re-renders",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48516
+}

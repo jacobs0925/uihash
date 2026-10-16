@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "ed5bc7f32f0475533877dcabfa286937ca70c74e",
+ "parent": "d5f78c592bc244fb85d58a24decc86a3c7644e33",
+ "date": "2026-01-30",
+ "subject": "Preserved empty install command",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentDialog.tsx",
+  "supabase/migrations/20260130212910_d27a416f-4303-4f4b-9d7f-3fb661cfd743.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 77154
+}

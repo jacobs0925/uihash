@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "a7e3110dc2dfd74e3a8cad9d970a7483ab1a4123",
+ "parent": "d9e449e8d0974255a43260a9d6c855df7c9db43e",
+ "date": "2025-10-01",
+ "subject": "Improve input field performance and formatting for faster user experience",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-The-reason-for-the-terrible-typing-speed-is-most-likely-due-to-the-calculation-and-value-formatting--1759359480853_1759359480854.txt",
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48750
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "937b4ebfcc274488f62c892ba8670007cdfa3448",
+ "parent": "41695b4d7e4964d5d34eae6e8939e0bcef1c180a",
+ "date": "2025-10-02",
+ "subject": "Update pre-payment penalty options and remove refinance loan fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50173
+}

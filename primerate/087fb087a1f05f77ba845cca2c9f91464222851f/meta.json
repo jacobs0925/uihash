@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "087fb087a1f05f77ba845cca2c9f91464222851f",
+ "parent": "9b2c507cde1eec365152549b5d477cfabb4682fc",
+ "date": "2025-10-02",
+ "subject": "Improve loan amount input field to prevent typing lag",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50170
+}

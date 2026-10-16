@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3abffc8db29e3d4385ee4c8f134d47077a08e32e",
+ "parent": "bf1ae35d6b41fbf5fb05ec6b89482cedaebb8d72",
+ "date": "2025-10-02",
+ "subject": "Update property selection logic for new refinance loan cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49859
+}

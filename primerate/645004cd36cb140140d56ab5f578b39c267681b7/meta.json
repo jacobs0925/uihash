@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "645004cd36cb140140d56ab5f578b39c267681b7",
+ "parent": "380d851477c78959d341e6edc4cfc912fd79cdac",
+ "date": "2025-10-02",
+ "subject": "Simplify client data entry by consolidating related form fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49916
+}

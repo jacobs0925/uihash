@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "33bf030d7bc84a329f138ba79baf4384b52152c2",
+ "parent": "343ff4295305e1d7e5a9dbfca0e1e4fdb75b8cd4",
+ "date": "2026-01-30",
+ "subject": "Add install_command support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentDialog.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/generate-local-package/index.ts",
+  "supabase/migrations/20260130211746_38d96b62-0d1e-4011-9c25-82a509cc8283.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 76218
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "5348f982c287b433b8e04e638bfde3e93a965e2d",
+ "parent": "c6ee096d5ae1d45a29fe6ede851c9a176ab9c52c",
+ "date": "2025-10-01",
+ "subject": "Add automatic calculation for total monthly loan payments",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48589
+}

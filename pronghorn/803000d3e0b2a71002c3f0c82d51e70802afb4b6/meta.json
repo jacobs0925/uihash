@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "803000d3e0b2a71002c3f0c82d51e70802afb4b6",
+ "parent": "1e859dde06b6dd0edf008f0957f34472494c1489",
+ "date": "2026-01-24",
+ "subject": "Real-time history improvements",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 76781
+}

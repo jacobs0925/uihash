@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9df43b84c085ed2d1e79880e3658b3bfaebc6396",
+ "parent": "a399573f7fa1d74963354dd321769d2e7141bec5",
+ "date": "2025-10-02",
+ "subject": "Add confirmation dialogs for removing loan cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50004
+}

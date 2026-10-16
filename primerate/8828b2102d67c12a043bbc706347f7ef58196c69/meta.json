@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8828b2102d67c12a043bbc706347f7ef58196c69",
+ "parent": "da195d8550b40f4d5bcb23e8cea65c8fc468224f",
+ "date": "2025-10-01",
+ "subject": "Update loan application to use lender credit instead of debt payoff",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49245
+}

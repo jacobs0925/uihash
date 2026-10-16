@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "41bb9579d2c9f2569bbc683146cd9e4983ff95e2",
+ "parent": "589572eb195b15a36d226c65a9b24b86daebbd2d",
+ "date": "2026-01-24",
+ "subject": "Improve tool message handling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 77934
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0095998b5e9eb1d886202a98708334d44601dadd",
+ "parent": "9df43b84c085ed2d1e79880e3658b3bfaebc6396",
+ "date": "2025-10-02",
+ "subject": "Update loan type descriptions and confirmation messages for clarity",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49666
+}

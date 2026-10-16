@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7686115f57178290ed87c04610b79e4060992852",
+ "parent": "8b15aa57ede749dcccacbccd9e1e6988ca61cf10",
+ "date": "2026-01-25",
+ "subject": "Append SSL mode to copy",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/ConnectionStringDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 76747
+}

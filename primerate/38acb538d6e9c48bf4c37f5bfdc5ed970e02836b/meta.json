@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "38acb538d6e9c48bf4c37f5bfdc5ed970e02836b",
+ "parent": "767afdd1981032301d8e72008d85fc4c4d818ece",
+ "date": "2025-10-01",
+ "subject": "Add a field for seller credit to the client addition form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48871
+}

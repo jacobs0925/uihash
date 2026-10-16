@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "d612b8d195432b941ef4de843bff990182a4b123",
+ "parent": "2763268452c8a6064a2d70eb3633d414761d5df6",
+ "date": "2026-02-05",
+ "subject": "Fix ipAllowList syncing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseDialog.tsx",
+  "supabase/functions/render-database/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 77129
+}

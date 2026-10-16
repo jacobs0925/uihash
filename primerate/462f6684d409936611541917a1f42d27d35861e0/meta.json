@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "462f6684d409936611541917a1f42d27d35861e0",
+ "parent": "67191b662c65e002535884ddcd0b30f71f73651f",
+ "date": "2025-10-01",
+ "subject": "Update income input fields to use consistent formatting and parsing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49295
+}

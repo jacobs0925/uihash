@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d1b839fdf20d2f453529d73137d24303e624baf0",
+ "parent": "053e0fc9ed961bb208ad7f014abad77b9fe87f7a",
+ "date": "2025-10-02",
+ "subject": "Add rate lock duration field to client addition form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49953
+}

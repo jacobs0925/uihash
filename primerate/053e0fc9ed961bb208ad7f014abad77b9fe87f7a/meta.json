@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "053e0fc9ed961bb208ad7f014abad77b9fe87f7a",
+ "parent": "0f548aace922003d8c0c2bcaf7bb8c763deb0b83",
+ "date": "2025-10-02",
+ "subject": "Rearrange and update loan application form fields for BBB section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50071
+}

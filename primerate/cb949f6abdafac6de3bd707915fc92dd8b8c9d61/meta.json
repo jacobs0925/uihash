@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "cb949f6abdafac6de3bd707915fc92dd8b8c9d61",
+ "parent": "1d3078e0507ca8d44d5167a787caa9fb2562804b",
+ "date": "2025-10-04",
+ "subject": "Add a movable popup for editing page content with font customization",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42709
+}

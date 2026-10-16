@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3653dacbe75b72a44b8d2ed4092bdd454d468477",
+ "parent": "a34d922b554a810ddc3e97bd8264013f6cf94488",
+ "date": "2025-10-04",
+ "subject": "Update labels for LTV and DTI ratio fields on client form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42597
+}

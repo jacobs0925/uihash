@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "de77d81324dd8f63eec691b64944cc2982788bf1",
+ "parent": "fc98a42cfa69c02fa28b40204b8120152eafd327",
+ "date": "2025-10-05",
+ "subject": "Align data entry fields vertically within the add client form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43295
+}

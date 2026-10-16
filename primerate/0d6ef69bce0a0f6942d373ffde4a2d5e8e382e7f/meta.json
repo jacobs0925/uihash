@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0d6ef69bce0a0f6942d373ffde4a2d5e8e382e7f",
+ "parent": "7fbc984a388d230f777aacd93a3fede94431af66",
+ "date": "2025-10-07",
+ "subject": "Adjust the thickness of the completion bar to its previous size",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43904
+}

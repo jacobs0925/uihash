@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "88d3d64dd689001bed56c946f1b59307a7999e0f",
+ "parent": "1fb8f84b42cd6e4fdc62084caf3a33b786af2228",
+ "date": "2025-10-04",
+ "subject": "Add Fannie Jumbo loan type to client onboarding form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42531
+}

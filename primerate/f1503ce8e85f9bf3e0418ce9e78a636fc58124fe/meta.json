@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f1503ce8e85f9bf3e0418ce9e78a636fc58124fe",
+ "parent": "b209e6a1714646dadf0ebd8efe03cfd061c8a717",
+ "date": "2025-10-04",
+ "subject": "Update the shade of green used for VA section titles",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43063
+}

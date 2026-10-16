@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3dae84dd356aa7f4f1d8038ce4ec2ae8f36c2e81",
+ "parent": "780de55634b41e14085710c43679bb050d7d24c6",
+ "date": "2025-10-04",
+ "subject": "Update financial savings calculator with new input fields and calculations",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42544
+}

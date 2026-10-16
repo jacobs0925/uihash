@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "dd2f5baa6c679772d6565fb0d70cd6a225f28528",
+ "parent": "bdc1c62d82af0b0f17e7221977af3411c666139c",
+ "date": "2025-10-05",
+ "subject": "Improve layout and styling for admin client configuration",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43654
+}

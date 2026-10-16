@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1cd91013a48ee61493dc8b7f3507649723370472",
+ "parent": "f4ec61a4c6c11ccf1137367bc55f9ed88cd7318e",
+ "date": "2025-10-05",
+ "subject": "Update icon placement for opening document and library features",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43439
+}

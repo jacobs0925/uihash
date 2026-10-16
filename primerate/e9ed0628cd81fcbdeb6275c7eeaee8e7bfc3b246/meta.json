@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e9ed0628cd81fcbdeb6275c7eeaee8e7bfc3b246",
+ "parent": "9a2af21a74cde31cd67279acbfdb2a2f4723d0df",
+ "date": "2025-10-06",
+ "subject": "Adjust logic switch style to match title box for underwriting",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43312
+}

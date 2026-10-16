@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "86f7ae077d5b4293177d5f0f72edc2baa683326d",
+ "parent": "d3d47e9dbcf431e4d8fd89cb66798b4d1b0adbc9",
+ "date": "2025-10-05",
+ "subject": "Update font and remove animations for cash out toggle button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43434
+}

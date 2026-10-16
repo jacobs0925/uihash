@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "56d219d883bfeb87dc119761f8f567f2fdcdb90f",
+ "parent": "c34c6d81a8a3cceba5b32a8d98fb449ed449320b",
+ "date": "2025-10-04",
+ "subject": "Add estimated loan amount information pop-up to client page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42695
+}

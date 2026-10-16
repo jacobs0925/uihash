@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "01f07329dee97105a563df584fbd5829fe2ad439",
+ "parent": "9663be76cf28a2ee5b64eb6c24a98d817b714f75",
+ "date": "2025-10-04",
+ "subject": "Add informational icon next to the \"New Escrow Reserves\" title",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42557
+}

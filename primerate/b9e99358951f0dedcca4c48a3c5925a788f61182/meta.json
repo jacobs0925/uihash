@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b9e99358951f0dedcca4c48a3c5925a788f61182",
+ "parent": "f4dce6a0a120a553a37ad3c0cc3e5e147d56f772",
+ "date": "2025-10-04",
+ "subject": "Update monthly escrow options by removing direct payment choice",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42122
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "62ba412985e7041a031948cc31a4450c8b3aba09",
+ "parent": "25c8bb7317e292ed4a89a4f8a9f6fb71236021df",
+ "date": "2025-10-05",
+ "subject": "Update button styles for consistency and reduced color usage",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42979
+}

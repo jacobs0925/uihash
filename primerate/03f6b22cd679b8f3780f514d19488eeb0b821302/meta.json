@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "03f6b22cd679b8f3780f514d19488eeb0b821302",
+ "parent": "e08c72474e777a1bde24c5c7a71f00a801db3b01",
+ "date": "2025-10-05",
+ "subject": "Improve VA funding fee calculator dialog styling and button functionality",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43377
+}

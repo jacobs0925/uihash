@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "392dab6b5368065392a6f2606e7dcdbd833bbb75",
+ "parent": "b25fa01bdda2604c41db17abc9b928721579cab0",
+ "date": "2025-10-04",
+ "subject": "Add functionality to collapse and expand a card in the admin client add form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42868
+}

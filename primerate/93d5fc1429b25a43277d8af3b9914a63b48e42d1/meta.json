@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "93d5fc1429b25a43277d8af3b9914a63b48e42d1",
+ "parent": "0f582172bb621e4e3f1e02fb3957e7d7b0a84e4a",
+ "date": "2025-10-06",
+ "subject": "Adjust loan category display and VA funding fee visibility based on exemption status",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43758
+}

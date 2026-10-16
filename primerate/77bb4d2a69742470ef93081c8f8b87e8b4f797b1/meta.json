@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "77bb4d2a69742470ef93081c8f8b87e8b4f797b1",
+ "parent": "ceb5b69d668b3f913b82fff001f38315da14d137",
+ "date": "2025-10-07",
+ "subject": "Update loan program input to allow empty initial value",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43693
+}

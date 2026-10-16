@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a583ab7cb9990e35f5c3c1aba6b815e44072428b",
+ "parent": "88d3d64dd689001bed56c946f1b59307a7999e0f",
+ "date": "2025-10-04",
+ "subject": "Add FHA loan options alongside existing mortgage loan types",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42797
+}

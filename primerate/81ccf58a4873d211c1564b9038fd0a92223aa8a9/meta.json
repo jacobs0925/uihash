@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "81ccf58a4873d211c1564b9038fd0a92223aa8a9",
+ "parent": "69d8db7218db5e167d43cd8d58e2cb4e134d9659",
+ "date": "2025-10-04",
+ "subject": "Add fields for debt-to-income ratio and lender credit to client quote form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43011
+}

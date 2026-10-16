@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "19a9329b132267e02e4f50aac648cccd67aba2e9",
+ "parent": "ffcbeaa68e2aace9fe41f36a00f49bb5d5828eca",
+ "date": "2025-10-04",
+ "subject": "Improve VA loan category selection interface with visual indicators",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42603
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0852d25bb3809281fe47bdecb5f9afff78861ae6",
+ "parent": "1b0d5946f5530b0ee37d99abfe907ce6766257f8",
+ "date": "2025-10-04",
+ "subject": "Add option to select all rate options at once for faster quote generation",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43678
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6376a3b5d5614de7a409261c2849c2849da7aa22",
+ "parent": "8fd43e76d7141cddd369933be73381918764e638",
+ "date": "2025-10-06",
+ "subject": "Update third-party service display based on loan and underwriting selection",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43361
+}

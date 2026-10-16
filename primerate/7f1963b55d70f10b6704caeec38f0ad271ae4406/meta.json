@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7f1963b55d70f10b6704caeec38f0ad271ae4406",
+ "parent": "84e3ea400e233cb2f0704324d406a5fc66351572",
+ "date": "2025-10-05",
+ "subject": "Adjust spacing for service input fields to align with titles",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42954
+}

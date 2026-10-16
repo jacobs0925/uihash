@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1d3078e0507ca8d44d5167a787caa9fb2562804b",
+ "parent": "392545a4ba7f4a648bc3ffa17c01d7436477f66e",
+ "date": "2025-10-04",
+ "subject": "Add page icon and button for client management",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42898
+}

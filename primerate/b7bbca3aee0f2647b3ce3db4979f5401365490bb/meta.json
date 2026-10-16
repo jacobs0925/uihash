@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b7bbca3aee0f2647b3ce3db4979f5401365490bb",
+ "parent": "8e81d82396fbbfa8554d01e20175c3a66be50b60",
+ "date": "2025-10-04",
+ "subject": "Fix issue where text highlighting disappears when interacting with font controls",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43359
+}

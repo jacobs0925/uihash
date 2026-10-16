@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "59e696246c2947be541dc6165a7de13f7c8e9332",
+ "parent": "de77d81324dd8f63eec691b64944cc2982788bf1",
+ "date": "2025-10-05",
+ "subject": "Update dialog title to customize closing costs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43295
+}

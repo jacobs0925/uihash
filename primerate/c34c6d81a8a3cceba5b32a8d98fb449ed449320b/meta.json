@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c34c6d81a8a3cceba5b32a8d98fb449ed449320b",
+ "parent": "5858ffbfba7f7b55712d221797f08529b233fdd3",
+ "date": "2025-10-04",
+ "subject": "Increase font size of escrow information paragraph on new client quote tab",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42182
+}

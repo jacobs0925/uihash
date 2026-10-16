@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "eb54413f60c1799c4ae0890f7aebfc59e0c734d2",
+ "parent": "b95a1ac7c1b06bbccc8b16d00f19f6b666d72e0a",
+ "date": "2025-10-06",
+ "subject": "Update VA funding fee calculator to dynamically show/hide rows based on loan category selection",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 43928
+}

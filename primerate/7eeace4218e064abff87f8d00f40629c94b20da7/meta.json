@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7eeace4218e064abff87f8d00f40629c94b20da7",
+ "parent": "f74b18e845fa8a2b1eb03977987d1b62e33bfad6",
+ "date": "2025-10-05",
+ "subject": "Update calculation button style to have a green border and text on hover",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43217
+}

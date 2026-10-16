@@ -1,0 +1,21 @@
+{
+ "repo": "primerate",
+ "sha": "f6903023b9fba7302d96f5dca5b8520a858e02c5",
+ "parent": "8847b80dc7017cd13d448c5cb3ff2817937c085d",
+ "date": "2025-10-04",
+ "subject": "Add a print feature to generate PDF documents of loan details",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "client/src/index.css",
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43097
+}

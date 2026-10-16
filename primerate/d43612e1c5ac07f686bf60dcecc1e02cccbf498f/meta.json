@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d43612e1c5ac07f686bf60dcecc1e02cccbf498f",
+ "parent": "163df9a2024959da655aba11d4f121805fd2cc3b",
+ "date": "2025-10-04",
+ "subject": "Calculate and display total monthly savings based on existing payments",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42202
+}

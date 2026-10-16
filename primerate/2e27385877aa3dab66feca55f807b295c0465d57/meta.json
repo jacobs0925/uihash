@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2e27385877aa3dab66feca55f807b295c0465d57",
+ "parent": "bc0e1f1a567cf47734fe575c2d08e198cb20b5d9",
+ "date": "2025-10-04",
+ "subject": "Display monthly escrow selections in the client details card",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42275
+}

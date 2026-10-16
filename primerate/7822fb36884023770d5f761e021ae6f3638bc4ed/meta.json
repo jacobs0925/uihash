@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7822fb36884023770d5f761e021ae6f3638bc4ed",
+ "parent": "59e696246c2947be541dc6165a7de13f7c8e9332",
+ "date": "2025-10-05",
+ "subject": "Add functionality to edit categories for third-party services",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43530
+}

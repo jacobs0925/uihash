@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ad4caa97264e8470bddf766cd44eb902efefb717",
+ "parent": "c762fb8dd1d0d12668a0acccb03690e9599752f6",
+ "date": "2025-10-05",
+ "subject": "Add options to add and remove lenders from the client form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42858
+}

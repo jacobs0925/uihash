@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d475dd15f0c647fb722822293f48dbc268974a6b",
+ "parent": "3ada3c51e78fac1b5d767be2441e0ede8ccc28fa",
+ "date": "2025-10-06",
+ "subject": "Improve VA funding fee calculations and display for exempt loans",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43359
+}

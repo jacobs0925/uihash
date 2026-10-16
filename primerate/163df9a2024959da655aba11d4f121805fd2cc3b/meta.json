@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "163df9a2024959da655aba11d4f121805fd2cc3b",
+ "parent": "350bcdc7b9ada29d8446a2f595983d7b639f8a8a",
+ "date": "2025-10-04",
+ "subject": "Calculate total monthly payment including various escrow options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42331
+}

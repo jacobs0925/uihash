@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3a52c08d116115999b41ca5712468f3de7ebdb00",
+ "parent": "d503125ba63bd84d402938a1ec3476ddc54a86ea",
+ "date": "2025-10-07",
+ "subject": "Make the \"C\" button stand out with a circle and add hover text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43488
+}

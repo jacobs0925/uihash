@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "392545a4ba7f4a648bc3ffa17c01d7436477f66e",
+ "parent": "64046ca12b8e5d10d3bfb8f74090c7e59df563b5",
+ "date": "2025-10-04",
+ "subject": "Add an open book icon to the client quote tab for easier reference",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42523
+}

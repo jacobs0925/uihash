@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8ad158718cb4024ecf8b47e18775ce8b38420ec4",
+ "parent": "4c2dd889284a2bcbd8a98781f05a6cc68c710a65",
+ "date": "2025-10-04",
+ "subject": "Update checkmark colors to match VA font green for loan categories",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43404
+}

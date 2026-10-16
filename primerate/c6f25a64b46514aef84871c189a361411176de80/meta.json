@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c6f25a64b46514aef84871c189a361411176de80",
+ "parent": "71320d52f7509512cc1a132b29aba34d4dcf9167",
+ "date": "2025-10-04",
+ "subject": "Add functionality to toggle between lender and seller credit options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43608
+}

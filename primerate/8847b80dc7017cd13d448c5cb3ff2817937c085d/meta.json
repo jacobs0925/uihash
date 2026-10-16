@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8847b80dc7017cd13d448c5cb3ff2817937c085d",
+ "parent": "c9bd716bf6a8673022a1530bd5a76ed3c4443364",
+ "date": "2025-10-04",
+ "subject": "Update the default text in the loan entry box to \"Loan Type\"",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43030
+}

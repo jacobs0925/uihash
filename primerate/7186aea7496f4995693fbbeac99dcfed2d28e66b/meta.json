@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7186aea7496f4995693fbbeac99dcfed2d28e66b",
+ "parent": "2ee6a761924ac01d4ae113d73dd61d418f71b2d3",
+ "date": "2025-10-05",
+ "subject": "Improve client property use selection for admin users",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43662
+}

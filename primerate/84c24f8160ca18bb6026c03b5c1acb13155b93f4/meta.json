@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "84c24f8160ca18bb6026c03b5c1acb13155b93f4",
+ "parent": "a583ab7cb9990e35f5c3c1aba6b815e44072428b",
+ "date": "2025-10-04",
+ "subject": "Update loan category titles to include appraisal information",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43413
+}

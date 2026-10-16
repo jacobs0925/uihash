@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "9bb83e14ce55f75439a77725eb1430c0301e99fd",
+ "parent": "5e6203b5f4f0a94a769cd1d37404bf3591943afe",
+ "date": "2025-10-05",
+ "subject": "Enable customization of third-party services and loan categories",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/image_1759635953855.png",
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43238
+}

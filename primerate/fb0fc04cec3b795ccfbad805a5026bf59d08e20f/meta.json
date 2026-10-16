@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "fb0fc04cec3b795ccfbad805a5026bf59d08e20f",
+ "parent": "3653dacbe75b72a44b8d2ed4092bdd454d468477",
+ "date": "2025-10-04",
+ "subject": "Update loan application form to improve data input clarity",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42571
+}

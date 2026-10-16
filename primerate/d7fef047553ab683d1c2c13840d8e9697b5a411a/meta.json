@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d7fef047553ab683d1c2c13840d8e9697b5a411a",
+ "parent": "1b8caff2cfccd17af7253a5ccb5e0de7829369f5",
+ "date": "2025-10-04",
+ "subject": "Add functionality to create custom loan programs and categories",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42794
+}

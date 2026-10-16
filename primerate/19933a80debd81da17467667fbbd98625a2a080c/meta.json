@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "19933a80debd81da17467667fbbd98625a2a080c",
+ "parent": "83a9d0680133088b4d60b2c26e45ab53b7132a11",
+ "date": "2025-10-04",
+ "subject": "Add a new loan category for second loans with sub-options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43248
+}

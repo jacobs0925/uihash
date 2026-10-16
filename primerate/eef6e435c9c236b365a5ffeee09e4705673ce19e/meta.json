@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "eef6e435c9c236b365a5ffeee09e4705673ce19e",
+ "parent": "a9116d1e963a9b12fc3c5ec1e3f574bcd824a0a7",
+ "date": "2025-10-05",
+ "subject": "Make category titles clickable to enable \"Same\" functionality",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43472
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2ee6a761924ac01d4ae113d73dd61d418f71b2d3",
+ "parent": "98bf05da84ad4445f774470df682693c0433f310",
+ "date": "2025-10-05",
+ "subject": "Adjust quote tab fields and reorder dropdown menu selections",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43853
+}

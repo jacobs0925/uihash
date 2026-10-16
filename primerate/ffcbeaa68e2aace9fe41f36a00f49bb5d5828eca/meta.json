@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ffcbeaa68e2aace9fe41f36a00f49bb5d5828eca",
+ "parent": "d172c9646a0b8e36cd0634f92f7eec4b3e222869",
+ "date": "2025-10-04",
+ "subject": "Update loan category selection to a popover with nested options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42776
+}

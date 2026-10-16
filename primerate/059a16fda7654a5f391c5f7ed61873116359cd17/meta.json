@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "059a16fda7654a5f391c5f7ed61873116359cd17",
+ "parent": "5164d6633ebb3fbca7b893f6713588cfcb5b3f9e",
+ "date": "2025-10-06",
+ "subject": "Add an exempt button to VA loan categories and adjust Jumbo font size",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43437
+}

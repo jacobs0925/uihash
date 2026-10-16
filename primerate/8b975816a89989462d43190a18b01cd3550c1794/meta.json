@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8b975816a89989462d43190a18b01cd3550c1794",
+ "parent": "d4fd1a7062427697978632b1d5b3f949c21f9643",
+ "date": "2025-10-05",
+ "subject": "Improve button sizing and alignment in client administration",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43130
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c6b4d87a66462370ca8ec7ff7dcd301a768135fb",
+ "parent": "50f1605806229c2e85ab3f99bb3936a600ff0088",
+ "date": "2025-10-04",
+ "subject": "Update client form to correctly display loan program and VA benefits",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43102
+}

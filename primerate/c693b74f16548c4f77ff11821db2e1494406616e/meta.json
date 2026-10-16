@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c693b74f16548c4f77ff11821db2e1494406616e",
+ "parent": "2a6eca5ec6d25ddd0a4dfff8c45172cd8ff1a6dd",
+ "date": "2025-10-05",
+ "subject": "Add functionality to save loan configurations to a user library",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44012
+}

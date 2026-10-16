@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "51e9f7c1a62606f3b026db986c6da42e433c9c0f",
+ "parent": "0eada42a9ed38cca7fe309632c1f80bf22e45131",
+ "date": "2025-10-06",
+ "subject": "Update underwriting options and improve toggle hover functionality",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44004
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4d6a6cc132638aa0360805e9c88ba7f4d666c800",
+ "parent": "1eb36105e268c06dbeb1f9045700f5a8ac6f117c",
+ "date": "2025-10-04",
+ "subject": "Restored to 'ae2297ea7f0ee5cc1948a75da6b86e5885c0c197'",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42649
+}

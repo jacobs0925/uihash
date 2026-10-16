@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "c6e8bb8bd69caf1efa43cfbd73da3ddde50d6f18",
+ "date": "2025-10-06",
+ "pr": null,
+ "title": "Calculate VA funding fee based on loan amount and percentage",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1222 later commits"
+}

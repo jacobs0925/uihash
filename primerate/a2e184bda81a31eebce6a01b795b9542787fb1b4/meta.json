@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a2e184bda81a31eebce6a01b795b9542787fb1b4",
+ "parent": "93d5fc1429b25a43277d8af3b9914a63b48e42d1",
+ "date": "2025-10-06",
+ "subject": "Update loan category selection to enable purple star for exempt loans",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43710
+}

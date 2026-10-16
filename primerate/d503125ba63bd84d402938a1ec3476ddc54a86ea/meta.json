@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d503125ba63bd84d402938a1ec3476ddc54a86ea",
+ "parent": "3ba518c515c686b4f5dbd1be77400f0068ab3d5c",
+ "date": "2025-10-07",
+ "subject": "Improve loan amount validation and add copy functionality",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43469
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c9bd716bf6a8673022a1530bd5a76ed3c4443364",
+ "parent": "50652288af3ae643da323e37073142cb18991340",
+ "date": "2025-10-04",
+ "subject": "Update loan categories to specify VA loans",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43203
+}

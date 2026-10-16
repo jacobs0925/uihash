@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "5e6203b5f4f0a94a769cd1d37404bf3591943afe",
+ "parent": "2b6ba35583ce2393c787ee5af7ce75bd2107b56d",
+ "date": "2025-10-05",
+ "subject": "Add a blank data entry box below the third card on the admin client page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43109
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "5e72ba7e0801efc546cb667038fe650493c51754",
+ "parent": "64b48e0631fde2e08cacb267f4bf548d7080e29b",
+ "date": "2025-10-04",
+ "subject": "Improve client adding form by making paste area interactive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42928
+}

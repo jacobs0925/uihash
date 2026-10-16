@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "fb1d6cb5f6e2e9dfc971f6bcf1c81e5868af15e4",
+ "parent": "e9ed0628cd81fcbdeb6275c7eeaee8e7bfc3b246",
+ "date": "2025-10-06",
+ "subject": "Add a \"See Library\" button to the admin client modal",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42921
+}

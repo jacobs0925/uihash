@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8bc46e456058161f2f69d000eaae662a79387992",
+ "parent": "2e27385877aa3dab66feca55f807b295c0465d57",
+ "date": "2025-10-04",
+ "subject": "Display tax and insurance details directly below the escrow reserves title",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42301
+}

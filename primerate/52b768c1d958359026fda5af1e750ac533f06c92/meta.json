@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "52b768c1d958359026fda5af1e750ac533f06c92",
+ "parent": "bcac56e83317bc1e93013be351920377bca81b25",
+ "date": "2025-10-05",
+ "subject": "Update button tooltips and add a new coin icon for closing costs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42785
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f4ec61a4c6c11ccf1137367bc55f9ed88cd7318e",
+ "parent": "6990afa684a008a28b568e74155bec3eb91df785",
+ "date": "2025-10-05",
+ "subject": "Add VA Funding Fee information icon to client form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43277
+}

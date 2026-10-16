@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "30e7957cc0ee3981974f2b0a4ea1d70682375d1d",
+ "parent": "19933a80debd81da17467667fbbd98625a2a080c",
+ "date": "2025-10-04",
+ "subject": "Add vertical lines to separate client categories visually",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43320
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c762fb8dd1d0d12668a0acccb03690e9599752f6",
+ "parent": "7baf11b5867c631bc8cc0d256659490678a5a52e",
+ "date": "2025-10-05",
+ "subject": "Improve admin interface for managing loan programs and categories",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43042
+}

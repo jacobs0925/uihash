@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6f0dabc7de792c2c025796f0714520f88976674d",
+ "parent": "383280597fed8c0ebb7260939f8637f127f57166",
+ "date": "2025-10-04",
+ "subject": "Update escrow reserve labels for clarity and accuracy",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42332
+}

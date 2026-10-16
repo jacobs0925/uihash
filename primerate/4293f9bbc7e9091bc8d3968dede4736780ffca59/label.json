@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "4293f9bbc7e9091bc8d3968dede4736780ffca59",
+ "date": "2025-10-04",
+ "pr": null,
+ "title": "Improve loan term input to only accept digits and a maximum of two characters",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1356 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "076c11a7c443edbf960854c4c64fd681fa8ec00b",
+ "parent": "2978b130d7086dfae182748f5e016b3642cf4278",
+ "date": "2025-10-07",
+ "subject": "Improve closing cost savings and validation for user templates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43295
+}

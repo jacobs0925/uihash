@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2b6ba35583ce2393c787ee5af7ce75bd2107b56d",
+ "parent": "6483172ec9d05d4837f5f40d34a2cb45f4823b8f",
+ "date": "2025-10-05",
+ "subject": "Hide section divider when rate buy down is not selected",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43013
+}

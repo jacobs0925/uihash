@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7044d80d6498c9409cc602961818deaab73fd87d",
+ "parent": "72f85e2930094ea4a71f192acdb2b5b1cf2858d4",
+ "date": "2025-10-05",
+ "subject": "Move third-party services icon to the right of the category title",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43907
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a6cebb3895ead8b55937f5e03dad621c4a3fc652",
+ "parent": "609196bb331f3c1f4433f525397adb7d165e7673",
+ "date": "2025-10-04",
+ "subject": "Enhance loan program input to allow multiple lines and larger text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42886
+}

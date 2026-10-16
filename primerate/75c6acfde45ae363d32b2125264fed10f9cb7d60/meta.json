@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "75c6acfde45ae363d32b2125264fed10f9cb7d60",
+ "parent": "e1abeb7e2741dcc2b43b7d78c678b2c49947eec1",
+ "date": "2025-10-05",
+ "subject": "Update client intake form to include new loan fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43940
+}

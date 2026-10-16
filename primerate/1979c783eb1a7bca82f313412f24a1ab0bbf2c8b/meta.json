@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1979c783eb1a7bca82f313412f24a1ab0bbf2c8b",
+ "parent": "d475dd15f0c647fb722822293f48dbc268974a6b",
+ "date": "2025-10-06",
+ "subject": "Update client form fields for escrow, underwriting, and rate",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44369
+}

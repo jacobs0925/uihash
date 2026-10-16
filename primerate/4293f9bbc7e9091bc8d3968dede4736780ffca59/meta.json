@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4293f9bbc7e9091bc8d3968dede4736780ffca59",
+ "parent": "b26abdf016f9ec1a0b142979c15b1af729298890",
+ "date": "2025-10-04",
+ "subject": "Improve loan term input to only accept digits and a maximum of two characters",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 44106
+}

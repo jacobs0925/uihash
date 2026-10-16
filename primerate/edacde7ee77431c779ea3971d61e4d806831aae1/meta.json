@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "edacde7ee77431c779ea3971d61e4d806831aae1",
+ "parent": "ad4caa97264e8470bddf766cd44eb902efefb717",
+ "date": "2025-10-05",
+ "subject": "Add custom fields for client data entry",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43506
+}

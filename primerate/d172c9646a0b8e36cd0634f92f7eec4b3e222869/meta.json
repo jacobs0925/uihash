@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d172c9646a0b8e36cd0634f92f7eec4b3e222869",
+ "parent": "b7bbca3aee0f2647b3ce3db4979f5401365490bb",
+ "date": "2025-10-04",
+ "subject": "Improve text input focus after changing font settings",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43307
+}

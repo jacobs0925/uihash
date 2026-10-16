@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1b0d5946f5530b0ee37d99abfe907ce6766257f8",
+ "parent": "54b995dbd4b83d6e40195d92699f179f2169754b",
+ "date": "2025-10-04",
+ "subject": "Add a subtle gradient background to all pop-up boxes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43429
+}

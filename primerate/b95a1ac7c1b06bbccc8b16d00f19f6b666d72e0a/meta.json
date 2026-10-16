@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b95a1ac7c1b06bbccc8b16d00f19f6b666d72e0a",
+ "parent": "427a9c1d48a82a5b1cd6495bc1a129bdcd43cd4d",
+ "date": "2025-10-06",
+ "subject": "Update exempt button functionality for VA loan categories",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43501
+}

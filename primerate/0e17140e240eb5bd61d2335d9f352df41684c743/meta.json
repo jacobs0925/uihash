@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0e17140e240eb5bd61d2335d9f352df41684c743",
+ "parent": "0852d25bb3809281fe47bdecb5f9afff78861ae6",
+ "date": "2025-10-04",
+ "subject": "Add a sticky note feature for quick user notes in the quote tab",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43789
+}

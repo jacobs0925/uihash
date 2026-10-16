@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1eb36105e268c06dbeb1f9045700f5a8ac6f117c",
+ "parent": "ae2297ea7f0ee5cc1948a75da6b86e5885c0c197",
+ "date": "2025-10-04",
+ "subject": "Increase the size of the mortgage calculator modal window",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42793
+}

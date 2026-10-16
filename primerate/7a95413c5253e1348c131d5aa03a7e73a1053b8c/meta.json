@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7a95413c5253e1348c131d5aa03a7e73a1053b8c",
+ "parent": "17f9203252e58c77b70dd1d077b0eebf150bc73e",
+ "date": "2025-10-05",
+ "subject": "Update dialog header color and button styles for customization options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44301
+}

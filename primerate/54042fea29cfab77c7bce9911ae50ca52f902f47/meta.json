@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "54042fea29cfab77c7bce9911ae50ca52f902f47",
+ "parent": "f6903023b9fba7302d96f5dca5b8520a858e02c5",
+ "date": "2025-10-04",
+ "subject": "Improve printable form fields to display full text",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "client/src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42905
+}

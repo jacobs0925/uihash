@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "eb54413f60c1799c4ae0890f7aebfc59e0c734d2",
+ "date": "2025-10-06",
+ "pr": null,
+ "title": "Update VA funding fee calculator to dynamically show/hide rows based on loan category selection",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1214 later commits"
+}

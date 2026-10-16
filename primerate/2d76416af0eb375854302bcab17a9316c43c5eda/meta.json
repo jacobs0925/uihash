@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2d76416af0eb375854302bcab17a9316c43c5eda",
+ "parent": "9d534afc468f990790b8a5507dac5e35713cf570",
+ "date": "2025-10-04",
+ "subject": "Remove mortgage payment and savings fields from client form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43161
+}

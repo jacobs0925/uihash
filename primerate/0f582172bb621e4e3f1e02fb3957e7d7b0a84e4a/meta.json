@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0f582172bb621e4e3f1e02fb3957e7d7b0a84e4a",
+ "parent": "e7c47e1940f0a9f84a4380658f5e322f38b88c5e",
+ "date": "2025-10-06",
+ "subject": "Improve visual appearance of VA funding fee calculator exempt button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43693
+}

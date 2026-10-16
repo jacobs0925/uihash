@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d4fd1a7062427697978632b1d5b3f949c21f9643",
+ "parent": "7822fb36884023770d5f761e021ae6f3638bc4ed",
+ "date": "2025-10-05",
+ "subject": "Adjust button sizes and spacing to improve layout on the admin client page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43241
+}

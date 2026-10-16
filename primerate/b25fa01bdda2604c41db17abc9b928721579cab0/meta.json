@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b25fa01bdda2604c41db17abc9b928721579cab0",
+ "parent": "d43612e1c5ac07f686bf60dcecc1e02cccbf498f",
+ "date": "2025-10-04",
+ "subject": "Add functionality to expand and collapse rows for client loan information",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42481
+}

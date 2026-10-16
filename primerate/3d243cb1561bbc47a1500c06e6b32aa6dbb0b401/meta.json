@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3d243cb1561bbc47a1500c06e6b32aa6dbb0b401",
+ "parent": "a2e184bda81a31eebce6a01b795b9542787fb1b4",
+ "date": "2025-10-06",
+ "subject": "Hide specific VA loan services when Rate & Term or IRRRL is selected",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43790
+}

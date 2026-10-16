@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ae2297ea7f0ee5cc1948a75da6b86e5885c0c197",
+ "parent": "5e72ba7e0801efc546cb667038fe650493c51754",
+ "date": "2025-10-04",
+ "subject": "Increase the size of the pop-up window for the pin icon",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42939
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "5b103a2bfdada3ae8991891a87a94849cfcf2543",
+ "parent": "91551c3d1c5aae2f1f7333cc73660af80dbdea4d",
+ "date": "2025-10-04",
+ "subject": "Update client form to change DTI Ratio to Lender with dropdown options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43726
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9fb059bc716670ca282d7f2bcd610e23b3f40758",
+ "parent": "fb510ccc09b6a2023a39ad5d190346b5f045244e",
+ "date": "2025-10-06",
+ "subject": "Add functionality to save and retrieve customized loan configurations",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43577
+}

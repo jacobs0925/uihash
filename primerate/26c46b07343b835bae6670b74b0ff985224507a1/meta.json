@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "26c46b07343b835bae6670b74b0ff985224507a1",
+ "parent": "62ba412985e7041a031948cc31a4450c8b3aba09",
+ "date": "2025-10-05",
+ "subject": "Update buttons to display blue borders when hovered over",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43443
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "17f9203252e58c77b70dd1d077b0eebf150bc73e",
+ "parent": "c5bb7298bb0e8b1e62742dba6ecf2eb78c6a43df",
+ "date": "2025-10-05",
+ "subject": "Update the pop-up window with new styling and button changes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43459
+}

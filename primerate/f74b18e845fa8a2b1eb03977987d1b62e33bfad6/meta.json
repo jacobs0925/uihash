@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f74b18e845fa8a2b1eb03977987d1b62e33bfad6",
+ "parent": "03f6b22cd679b8f3780f514d19488eeb0b821302",
+ "date": "2025-10-05",
+ "subject": "Update exempt button styling to green with white text on hover",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43011
+}

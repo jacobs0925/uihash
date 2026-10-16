@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "56ce16969ff4b56e7b02774b4dc31e54c36c8981",
+ "parent": "fb1d6cb5f6e2e9dfc971f6bcf1c81e5868af15e4",
+ "date": "2025-10-06",
+ "subject": "Format estimated loan amount input with dollar sign and comma separators",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42553
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e7c47e1940f0a9f84a4380658f5e322f38b88c5e",
+ "parent": "1364b24adafc506a5198447d025c3390a3dd97e0",
+ "date": "2025-10-06",
+ "subject": "Update styling for VA loan exemption status and star icon",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43794
+}

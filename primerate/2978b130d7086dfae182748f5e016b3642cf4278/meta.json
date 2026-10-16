@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2978b130d7086dfae182748f5e016b3642cf4278",
+ "parent": "3945370e6e1404de8c08874f514f7e0253393a0e",
+ "date": "2025-10-07",
+ "subject": "Update client form to show read-only saved configuration details",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43130
+}

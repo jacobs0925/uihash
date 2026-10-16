@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "fc98a42cfa69c02fa28b40204b8120152eafd327",
+ "parent": "7a95413c5253e1348c131d5aa03a7e73a1053b8c",
+ "date": "2025-10-05",
+ "subject": "Add dollar value entry and apply functionality to service costs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43787
+}

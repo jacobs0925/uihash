@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "387a3622662e047799f9c1d8e788fdba1a487be0",
+ "parent": "1d0cdd0d6574b0a4c712fec0defc1289826fb77b",
+ "date": "2025-10-07",
+ "subject": "Update completion bar to show progress sequentially",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43344
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "609196bb331f3c1f4433f525397adb7d165e7673",
+ "parent": "31121468c0793abad45c865bb1e7a038fefbd2ad",
+ "date": "2025-10-04",
+ "subject": "Add input field for loan program in quote section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42910
+}

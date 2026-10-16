@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "52c3f7f1f69ba8abe3ca48afb6f2293b4fa13eb0",
+ "parent": "a697e7c346e13cb2b8f0a815509b785d67a17099",
+ "date": "2025-10-04",
+ "subject": "Add controls to customize font size and color for loan program text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42896
+}

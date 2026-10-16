@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b7f2387b558ea68158f3ad3bde76ca335a7640e4",
+ "parent": "c693b74f16548c4f77ff11821db2e1494406616e",
+ "date": "2025-10-05",
+ "subject": "Add save configuration options to the client admin page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43805
+}

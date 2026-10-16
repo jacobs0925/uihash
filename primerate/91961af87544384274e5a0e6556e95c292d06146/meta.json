@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "91961af87544384274e5a0e6556e95c292d06146",
+ "parent": "e99971bc922da99345735072effcbc2cf77c84f8",
+ "date": "2025-10-07",
+ "subject": "Update completion bar color in quote tab to navy blue",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43593
+}

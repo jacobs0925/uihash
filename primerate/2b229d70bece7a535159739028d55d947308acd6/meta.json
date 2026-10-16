@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2b229d70bece7a535159739028d55d947308acd6",
+ "parent": "fb6c8b1c17e87b2eb88757b8ea9d6313692778ad",
+ "date": "2025-10-06",
+ "subject": "Add a new service option for processing services to client management",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43913
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4b6c6ea3fcb4277f2aa07ab7820bf3160d3f710c",
+ "parent": "6376a3b5d5614de7a409261c2849c2849da7aa22",
+ "date": "2025-10-07",
+ "subject": "Update client closing costs customization pop-up and underwriting display",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43211
+}

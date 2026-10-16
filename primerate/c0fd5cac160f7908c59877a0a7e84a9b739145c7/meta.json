@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c0fd5cac160f7908c59877a0a7e84a9b739145c7",
+ "parent": "0d6ef69bce0a0f6942d373ffde4a2d5e8e382e7f",
+ "date": "2025-10-07",
+ "subject": "Improve loan application progress bar appearance",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43714
+}

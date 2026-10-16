@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "670b37ee5b37bfb5d920a811464b110809d48c56",
+ "parent": "e956f89ab386cc698b27a8b3239f3f2e6b010d60",
+ "date": "2025-10-04",
+ "subject": "Update VA text color to navy blue for better visual distinction",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42306
+}

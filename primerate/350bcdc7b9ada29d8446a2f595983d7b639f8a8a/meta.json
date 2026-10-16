@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "350bcdc7b9ada29d8446a2f595983d7b639f8a8a",
+ "parent": "b9e99358951f0dedcca4c48a3c5925a788f61182",
+ "date": "2025-10-04",
+ "subject": "Conditionally hide escrow reserves section based on user selection",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42329
+}

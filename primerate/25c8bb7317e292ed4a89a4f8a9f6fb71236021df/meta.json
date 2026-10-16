@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "25c8bb7317e292ed4a89a4f8a9f6fb71236021df",
+ "parent": "7f1963b55d70f10b6704caeec38f0ad271ae4406",
+ "date": "2025-10-05",
+ "subject": "Adjust client service list to align vertically and use full width",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42703
+}

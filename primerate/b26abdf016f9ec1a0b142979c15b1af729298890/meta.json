@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b26abdf016f9ec1a0b142979c15b1af729298890",
+ "parent": "2dc7539625b61ca8ce1b3f1bebbcad5f2ba92570",
+ "date": "2025-10-04",
+ "subject": "Update transaction types and loan purpose options for client quotes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43764
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "fb6c8b1c17e87b2eb88757b8ea9d6313692778ad",
+ "parent": "c7337aa6e019a5f67988f00ad6fd96b93f5cde25",
+ "date": "2025-10-06",
+ "subject": "Hide underwriting services when the rate option is selected",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43481
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1d0cdd0d6574b0a4c712fec0defc1289826fb77b",
+ "parent": "91961af87544384274e5a0e6556e95c292d06146",
+ "date": "2025-10-07",
+ "subject": "Update credit score display to show empty instead of pending",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43488
+}

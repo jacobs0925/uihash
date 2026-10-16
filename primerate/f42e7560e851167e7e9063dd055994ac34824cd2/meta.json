@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f42e7560e851167e7e9063dd055994ac34824cd2",
+ "parent": "3dae84dd356aa7f4f1d8038ce4ec2ae8f36c2e81",
+ "date": "2025-10-04",
+ "subject": "Update mortgage calculator to highlight key payment information",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42969
+}

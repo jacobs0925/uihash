@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "31121468c0793abad45c865bb1e7a038fefbd2ad",
+ "parent": "4d6a6cc132638aa0360805e9c88ba7f4d666c800",
+ "date": "2025-10-04",
+ "subject": "Increase the size of the mortgage calculator modal on mobile devices",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42884
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "18ce95237a0cabec89e6d91d816eaa62d8aa264e",
+ "parent": "a25db9c48e9ce42a78189f31ec61c23d697efbe2",
+ "date": "2025-10-04",
+ "subject": "Rearrange client input fields for better form organization",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43870
+}

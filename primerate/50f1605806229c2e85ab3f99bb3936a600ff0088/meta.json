@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "50f1605806229c2e85ab3f99bb3936a600ff0088",
+ "parent": "18ce95237a0cabec89e6d91d816eaa62d8aa264e",
+ "date": "2025-10-04",
+ "subject": "Update section title for DU Approval to Loan Program",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43356
+}

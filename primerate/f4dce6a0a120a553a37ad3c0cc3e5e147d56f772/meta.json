@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f4dce6a0a120a553a37ad3c0cc3e5e147d56f772",
+ "parent": "c7e4dd81995f3072a79d462923c6fe03acbebe24",
+ "date": "2025-10-04",
+ "subject": "Add monthly insurance and property tax fields to payment calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42411
+}

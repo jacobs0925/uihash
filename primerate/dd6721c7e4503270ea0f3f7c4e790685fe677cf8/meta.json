@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "dd6721c7e4503270ea0f3f7c4e790685fe677cf8",
+ "parent": "26c46b07343b835bae6670b74b0ff985224507a1",
+ "date": "2025-10-05",
+ "subject": "Update button background color to a light grey shade",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44104
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1fb8f84b42cd6e4fdc62084caf3a33b786af2228",
+ "parent": "e12d2c189466903b1efa6b171506a725bad8bae1",
+ "date": "2025-10-04",
+ "subject": "Add Fannie Mae Conventional loan options to client intake form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43025
+}

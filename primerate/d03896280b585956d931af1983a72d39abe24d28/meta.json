@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d03896280b585956d931af1983a72d39abe24d28",
+ "parent": "4ff1e4d2940ad51d0be1687ac2b4364f34d63dbf",
+ "date": "2025-10-04",
+ "subject": "Update DTI ratio input to allow direct data entry",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42522
+}

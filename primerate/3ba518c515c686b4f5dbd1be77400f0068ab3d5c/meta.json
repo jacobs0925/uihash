@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3ba518c515c686b4f5dbd1be77400f0068ab3d5c",
+ "parent": "c8edca5309d2413852cb54d31c1dc1faac0d22e3",
+ "date": "2025-10-07",
+ "subject": "Update loan term input with a new toggle switch and tooltip",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43122
+}

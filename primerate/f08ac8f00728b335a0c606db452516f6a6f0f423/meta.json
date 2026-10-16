@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f08ac8f00728b335a0c606db452516f6a6f0f423",
+ "parent": "9fb059bc716670ca282d7f2bcd610e23b3f40758",
+ "date": "2025-10-06",
+ "subject": "Add functionality to load and apply saved loan configurations from a library",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43545
+}

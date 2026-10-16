@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4c2dd889284a2bcbd8a98781f05a6cc68c710a65",
+ "parent": "f1503ce8e85f9bf3e0418ce9e78a636fc58124fe",
+ "date": "2025-10-04",
+ "subject": "Increase font size for VA section title on client pages",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42958
+}

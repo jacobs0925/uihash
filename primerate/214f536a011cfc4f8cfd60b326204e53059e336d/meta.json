@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "214f536a011cfc4f8cfd60b326204e53059e336d",
+ "parent": "2d76416af0eb375854302bcab17a9316c43c5eda",
+ "date": "2025-10-04",
+ "subject": "Update pop up box title to accurately reflect its purpose",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43407
+}

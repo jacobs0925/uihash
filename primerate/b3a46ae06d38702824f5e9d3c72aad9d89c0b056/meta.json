@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b3a46ae06d38702824f5e9d3c72aad9d89c0b056",
+ "parent": "cb949f6abdafac6de3bd707915fc92dd8b8c9d61",
+ "date": "2025-10-04",
+ "subject": "Improve font size selection options for admin client management",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43044
+}

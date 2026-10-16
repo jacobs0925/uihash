@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e99971bc922da99345735072effcbc2cf77c84f8",
+ "parent": "ca508d37c130d592e05ebb0d4cb3c296a59311b7",
+ "date": "2025-10-07",
+ "subject": "Update rate buy down options to include Yes and No with Yes as default",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43338
+}

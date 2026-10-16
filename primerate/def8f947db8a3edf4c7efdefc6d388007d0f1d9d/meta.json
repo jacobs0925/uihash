@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "def8f947db8a3edf4c7efdefc6d388007d0f1d9d",
+ "parent": "3a52c08d116115999b41ca5712468f3de7ebdb00",
+ "date": "2025-10-07",
+ "subject": "Add progress indicator to client add form showing completion status",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43279
+}

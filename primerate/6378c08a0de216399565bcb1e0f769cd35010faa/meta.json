@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6378c08a0de216399565bcb1e0f769cd35010faa",
+ "parent": "4d635c0281b65b1d345b545a419ab4294647bd1b",
+ "date": "2025-10-01",
+ "subject": "Add a left-to-right gradient to the admin login page background",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 47812
+}

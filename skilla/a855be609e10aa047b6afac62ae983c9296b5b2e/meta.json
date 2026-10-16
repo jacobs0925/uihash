@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "a855be609e10aa047b6afac62ae983c9296b5b2e",
+ "parent": "ad4f6989671ea4f47cf9b468891ebbb43e6971f5",
+ "date": "2026-03-08",
+ "subject": "Show course overview for enrolled",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 37840
+}

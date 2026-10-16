@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "8e133e2c8e4c6b33ffb32912fd75e38dd45782ad",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Update password reset and back to home button colors",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1846 later commits"
+}

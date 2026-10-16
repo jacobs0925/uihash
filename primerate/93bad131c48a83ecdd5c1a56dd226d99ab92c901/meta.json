@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "93bad131c48a83ecdd5c1a56dd226d99ab92c901",
+ "parent": "529b2f837a93d75c1c200fbc62358511f8833d92",
+ "date": "2025-10-01",
+ "subject": "Remove the employment verification phone number input and related logic",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41807
+}

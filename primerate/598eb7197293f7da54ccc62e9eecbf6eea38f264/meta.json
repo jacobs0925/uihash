@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "598eb7197293f7da54ccc62e9eecbf6eea38f264",
+ "parent": "f0a29d598c86860866420cba2a37c1c64c3376c9",
+ "date": "2025-10-01",
+ "subject": "Remove employer phone number field from borrower card",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42194
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "skilla",
+ "sha": "e29befd68fed0aa09fd0f043fb2eb7bafa6a404b",
+ "parent": "1ce66ca88f0cfdd19ffff0f0d4e37bf8bbd6eaf5",
+ "date": "2026-03-21",
+ "subject": "Add Notetaker notes feature",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/StudentNotetaker.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/CourseDetail.tsx",
+  "supabase/migrations/20260321070920_7426753f-1b78-41f7-83ba-fa94a8da0275.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 36985
+}

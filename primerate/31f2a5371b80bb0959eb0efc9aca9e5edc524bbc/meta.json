@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "31f2a5371b80bb0959eb0efc9aca9e5edc524bbc",
+ "parent": "4a4ea8bfe625fe19a521c48ff32d747d0d8e92c8",
+ "date": "2025-10-01",
+ "subject": "Make the background image on the login page less dark",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 45698
+}

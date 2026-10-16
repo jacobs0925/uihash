@@ -1,0 +1,26 @@
+{
+ "repo": "skilla",
+ "sha": "b9c5ab692251899ef5b7d0bb4652ff33a88e44b8",
+ "parent": "a855be609e10aa047b6afac62ae983c9296b5b2e",
+ "date": "2026-03-08",
+ "subject": "Added course price display dropdown",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CoursePriceDisplay.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Admin.tsx",
+  "src/pages/AllPrograms.tsx",
+  "src/pages/Instructor.tsx",
+  "src/pages/Programs.tsx",
+  "supabase/migrations/20260308075530_9ebf9828-67ec-46af-8125-e2a9d9eb051f.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 41649
+}

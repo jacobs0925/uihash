@@ -5,8 +5,8 @@
  "date": "2026-02-26",
  "pr": null,
  "title": "Improve auth and programs UI",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 220 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text-align: start → ∅ undone by 1591f45c \"Beautified landing pages and design system\"; line-height: 1.5 → ∅ undone by 1591f45c \"Beautified landing pages and design system\"; font-size: 16px → ∅ undone by 1591f45c \"Beautified landing pages and design system\""
 }

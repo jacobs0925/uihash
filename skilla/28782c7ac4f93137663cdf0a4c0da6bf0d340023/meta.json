@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "28782c7ac4f93137663cdf0a4c0da6bf0d340023",
+ "parent": "672342a3d4287a3d48bc51c6470c83933a0c6a4e",
+ "date": "2026-04-09",
+ "subject": "Hide courses behind click",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/LearningPaths.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 54816
+}

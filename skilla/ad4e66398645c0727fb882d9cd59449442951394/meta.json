@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "ad4e66398645c0727fb882d9cd59449442951394",
+ "parent": "cca069c7d94498380c1c3758199e31f3245a08d0",
+ "date": "2026-03-17",
+ "subject": "Fixed video tag type",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 36672
+}

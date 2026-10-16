@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "40f7ede7f117eff3f80cebc095689fd91e81e5a7",
+ "parent": "a3a21cb4a931d8d7e6519fdaf4e70fc0de93cf2c",
+ "date": "2026-03-25",
+ "subject": "Prioritized best quiz score",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 37481
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c06046203b0c117120b30c26833aa9baffab6bbf",
+ "parent": "9e44db123d8960b0e13502560a095ec3f67b38ac",
+ "date": "2025-10-01",
+ "subject": "Update co-borrower employer details with verification option",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42492
+}

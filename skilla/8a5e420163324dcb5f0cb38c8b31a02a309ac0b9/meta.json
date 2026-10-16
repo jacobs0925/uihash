@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "8a5e420163324dcb5f0cb38c8b31a02a309ac0b9",
+ "parent": "caaa1dd18a6d040e480e7b179b38fc05a7430d60",
+ "date": "2026-03-12",
+ "subject": "Show course counts in Overview",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 33463
+}

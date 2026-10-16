@@ -1,0 +1,28 @@
+{
+ "repo": "skilla",
+ "sha": "ea2e8149738d95ac808ec5cb35affd35c305e90d",
+ "parent": "2d05992d2df879ae1c67fd4448633b8c97b5ae09",
+ "date": "2026-03-08",
+ "subject": "Add pricing columns to courses",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CoursePriceDisplay.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/lib/courseUtils.ts",
+  "src/pages/AllPrograms.tsx",
+  "src/pages/Apply.tsx",
+  "src/pages/Instructor.tsx",
+  "src/pages/Programs.tsx",
+  "supabase/functions/verify-flutterwave-payment/index.ts",
+  "supabase/migrations/20260308123504_5a3d018d-607b-430f-91a6-faf735619dc5.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 41267
+}

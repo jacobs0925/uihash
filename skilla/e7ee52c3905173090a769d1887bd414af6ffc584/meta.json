@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "e7ee52c3905173090a769d1887bd414af6ffc584",
+ "parent": "e3570be574778ec1f0bdb4d6f79e326ab1a82280",
+ "date": "2026-03-17",
+ "subject": "Show FP on Programs page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Programs.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 36856
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "skilla",
+ "sha": "c1e789c11973cdddebb361aa73422d112e3220ce",
+ "parent": "7473a3b12e4c399f397708bdbd4bdcad3ba3c430",
+ "date": "2026-03-16",
+ "subject": "Add lock/schedule columns to DB",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/ContentItemEditDialog.tsx",
+  "src/components/CourseContentSidebar.tsx",
+  "src/components/CourseSectionManager.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/CourseDetail.tsx",
+  "supabase/migrations/20260316070613_09f0351b-3adf-4f07-aa22-a25f0507476a.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 37485
+}

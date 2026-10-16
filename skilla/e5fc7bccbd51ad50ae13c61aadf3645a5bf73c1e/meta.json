@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "e5fc7bccbd51ad50ae13c61aadf3645a5bf73c1e",
+ "parent": "e19d9c152bfa3964575d3486c915a228b2f01906",
+ "date": "2026-03-26",
+ "subject": "Ensure skip always available",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/VideoQuizPopup.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 38178
+}

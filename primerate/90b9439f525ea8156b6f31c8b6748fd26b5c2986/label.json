@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "90b9439f525ea8156b6f31c8b6748fd26b5c2986",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Update background image to display cubes on the admin login page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1854 later commits"
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "92fa17ff5f996a9711e959cbec0d0ee9327e6f0f",
+ "parent": "14753893e3a3af162964a04c55e6bc153cac8187",
+ "date": "2026-03-14",
+ "subject": "Add student fields to profiles",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/SignUp.tsx",
+  "supabase/migrations/20260314073338_c2710c76-c24a-4478-ad17-f9bf38d35105.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 39299
+}

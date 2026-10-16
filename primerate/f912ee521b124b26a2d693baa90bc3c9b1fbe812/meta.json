@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f912ee521b124b26a2d693baa90bc3c9b1fbe812",
+ "parent": "66ada2119d4a9bc184cd3cab01990efdf4faa1e8",
+ "date": "2025-10-01",
+ "subject": "Highlight upcoming rate lock expirations with visual alerts",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42419
+}

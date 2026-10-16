@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "7e7d620fb7de26dbaf588607c922af85486dea8c",
+ "date": "2026-04-03",
+ "pr": null,
+ "title": "Remove Pay option and rename LMS",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by a3250b8c, which restored bdc0162c (1 commit discarded)"
+}

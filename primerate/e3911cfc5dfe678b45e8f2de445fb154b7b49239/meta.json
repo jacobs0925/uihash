@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e3911cfc5dfe678b45e8f2de445fb154b7b49239",
+ "parent": "decf5930e910e7c6b799ee298b975f5880c5dbc1",
+ "date": "2025-10-01",
+ "subject": "Add a co-borrower disability information card to the client form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43238
+}

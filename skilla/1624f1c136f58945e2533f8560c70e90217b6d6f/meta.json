@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "1624f1c136f58945e2533f8560c70e90217b6d6f",
+ "parent": "226b69a404e9e1d358447282fc124a277efbd569",
+ "date": "2026-04-01",
+ "subject": "Add realtime pubs for content",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx",
+  "supabase/migrations/20260401041549_e355cc55-29c4-4fd2-b6d5-334fbb92fd1f.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 49420
+}

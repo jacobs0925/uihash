@@ -1,0 +1,22 @@
+{
+ "repo": "skilla",
+ "sha": "a372e489e9ae41a649b3cdaf154ec0ee9b9171ad",
+ "parent": "40f7ede7f117eff3f80cebc095689fd91e81e5a7",
+ "date": "2026-03-25",
+ "subject": "Add video quiz markers UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/VideoQuizMarkers.tsx",
+  "src/components/VideoQuizPopup.tsx",
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 37037
+}

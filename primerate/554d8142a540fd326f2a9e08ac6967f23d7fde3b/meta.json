@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "554d8142a540fd326f2a9e08ac6967f23d7fde3b",
+ "parent": "80b3953757a02b4d80ba0dc2fc93a04b047505f2",
+ "date": "2025-10-01",
+ "subject": "Update co-borrower pension income card details and labels",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43372
+}

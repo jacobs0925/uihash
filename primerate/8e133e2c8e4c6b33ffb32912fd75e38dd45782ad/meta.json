@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8e133e2c8e4c6b33ffb32912fd75e38dd45782ad",
+ "parent": "d1934bb1322ec7142ca18528908b045ef3e19506",
+ "date": "2025-10-01",
+ "subject": "Update password reset and back to home button colors",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 44590
+}

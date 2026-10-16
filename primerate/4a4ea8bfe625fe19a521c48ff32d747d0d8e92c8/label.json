@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "4a4ea8bfe625fe19a521c48ff32d747d0d8e92c8",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Update admin login page to remove brand name and slogan",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 0px → 16px undone by d39cbdca \"Update admin login page layout and navigation options\"; text-align: ∅ → start undone by d39cbdca \"Update admin login page layout and navigation options\"; line-height: ∅ → 1.5 undone by d39cbdca \"Update admin login page layout and navigation options\""
+}

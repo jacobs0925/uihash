@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "bdc0162c8cfb82055de9dc8131d8adc2366bfdfe",
+ "parent": "9fee299fd90896a66d768213879487c653ec5943",
+ "date": "2026-04-03",
+ "subject": "Make first lesson accessible",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 50929
+}

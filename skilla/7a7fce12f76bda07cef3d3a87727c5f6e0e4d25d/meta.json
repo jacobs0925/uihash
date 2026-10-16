@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "7a7fce12f76bda07cef3d3a87727c5f6e0e4d25d",
+ "parent": "28782c7ac4f93137663cdf0a4c0da6bf0d340023",
+ "date": "2026-04-09",
+ "subject": "Allow zero price for courses",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CoursePriceDisplay.tsx",
+  "src/pages/SchoolPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51068
+}

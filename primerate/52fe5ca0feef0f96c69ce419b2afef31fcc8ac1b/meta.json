@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "52fe5ca0feef0f96c69ce419b2afef31fcc8ac1b",
+ "parent": "f272edf665b1f4e12004da48ac442e61bd2948f9",
+ "date": "2025-10-01",
+ "subject": "Update loan card controls to manage existing second and third loans",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41989
+}

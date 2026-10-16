@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "87ff94535a0c331c212f65fd78169e4eb2b91875",
+ "date": "2026-04-05",
+ "pr": null,
+ "title": "Improve Sign In UI design",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 22 later commits"
+}

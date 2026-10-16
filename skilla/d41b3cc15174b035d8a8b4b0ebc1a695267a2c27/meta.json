@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "d41b3cc15174b035d8a8b4b0ebc1a695267a2c27",
+ "parent": "15414a72be48e5299250de966b17b5dc0b16c78c",
+ "date": "2026-03-08",
+ "subject": "Add currency selector to donate",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonateSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35964
+}

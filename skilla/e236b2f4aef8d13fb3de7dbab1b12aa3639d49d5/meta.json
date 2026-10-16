@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "e236b2f4aef8d13fb3de7dbab1b12aa3639d49d5",
+ "parent": "1591f45ca79cd7e0e01acb791c96a37931d281e0",
+ "date": "2026-03-30",
+ "subject": "Link Talkto Advisor to WhatsApp",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "bun.lock",
+  "src/pages/SchoolPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 50130
+}

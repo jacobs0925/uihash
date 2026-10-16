@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "33af99996682326a377ee5d7ad959102200add52",
+ "date": "2026-04-05",
+ "pr": null,
+ "title": "Update LMS label to Dashboard",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 24 later commits"
+}

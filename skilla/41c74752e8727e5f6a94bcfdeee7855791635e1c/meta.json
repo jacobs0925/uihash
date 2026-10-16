@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "41c74752e8727e5f6a94bcfdeee7855791635e1c",
+ "parent": "484d1e1a2fb0c2832c8773fdd98eb7bb997c7dc0",
+ "date": "2026-03-22",
+ "subject": "Compact course spacing applied",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 36534
+}

@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "037f7cb1033ad6dff90148cd2f53d9553af769a6",
+ "date": "2026-04-07",
+ "pr": null,
+ "title": "Add blog admin panel and blogs",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 14 later commits"
+}

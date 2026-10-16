@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c992111f1c40703ff42e7ba412be40029c196833",
+ "parent": "1d5de8d6058807612c0a38bf8e5898e2493be01f",
+ "date": "2025-10-01",
+ "subject": "Update employment date logic for co-borrower sections",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42483
+}

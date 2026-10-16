@@ -1,0 +1,30 @@
+{
+ "repo": "skilla",
+ "sha": "000d985db781030dd81ae216c908ed5ce2bfbdab",
+ "parent": "c6986a282614218e0552d2e8f826a5b33e5ab6c9",
+ "date": "2026-03-08",
+ "subject": "Add course slug support",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AdminPromotionalManagement.tsx",
+  "src/components/InstructorLMSView.tsx",
+  "src/components/Navigation.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Admin.tsx",
+  "src/pages/AllPrograms.tsx",
+  "src/pages/CourseDetail.tsx",
+  "src/pages/LMS.tsx",
+  "src/pages/Programs.tsx",
+  "src/pages/SchoolPrograms.tsx",
+  "supabase/migrations/20260308191857_b497a12c-cc55-442b-9178-4e3c11801a3e.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 43503
+}

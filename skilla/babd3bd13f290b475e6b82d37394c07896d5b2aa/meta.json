@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "babd3bd13f290b475e6b82d37394c07896d5b2aa",
+ "parent": "509dd19cd64d087862d1e76a5e6c5d44d0c201d6",
+ "date": "2026-04-08",
+ "subject": "Remove Programs Offered section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "bun.lock",
+  "src/pages/SchoolBrochure.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55516
+}

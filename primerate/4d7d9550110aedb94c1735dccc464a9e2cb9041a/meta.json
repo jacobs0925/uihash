@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4d7d9550110aedb94c1735dccc464a9e2cb9041a",
+ "parent": "c06046203b0c117120b30c26833aa9baffab6bbf",
+ "date": "2025-10-01",
+ "subject": "Update borrower employer card with employment verification toggle",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42260
+}

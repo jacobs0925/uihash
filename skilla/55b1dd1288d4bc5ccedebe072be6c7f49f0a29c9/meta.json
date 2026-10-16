@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "55b1dd1288d4bc5ccedebe072be6c7f49f0a29c9",
+ "parent": "5bd946ed75410745f21ac0bfe94caf6c35016fe7",
+ "date": "2026-03-30",
+ "subject": "Improve PathwaysResponsiveness",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "bun.lock",
+  "src/components/PathwaysSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 77619
+}

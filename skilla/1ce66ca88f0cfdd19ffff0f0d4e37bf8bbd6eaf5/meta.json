@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "1ce66ca88f0cfdd19ffff0f0d4e37bf8bbd6eaf5",
+ "parent": "29c6b7142bdca7eb4dbfc3cc45c3f8f0d15f9c60",
+ "date": "2026-03-20",
+ "subject": "Standardized quiz types UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIContentGenerator.tsx",
+  "supabase/functions/ai-content-generator/index.ts",
+  "supabase/functions/generate-full-course/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 36387
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "a8d2cf04971a75bc127d40acaa078bfce2f7db1c",
+ "parent": "000d985db781030dd81ae216c908ed5ce2bfbdab",
+ "date": "2026-03-08",
+ "subject": "Make Learning Assistant resizable",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CourseAssistant.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35398
+}

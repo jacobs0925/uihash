@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "50a846b64f546ac230bf58e9b660bb9653249ed0",
+ "parent": "7de8844318425dc0000b1fee4cb3494e8e675767",
+ "date": "2026-04-01",
+ "subject": "Extend realtime to courses",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx",
+  "supabase/migrations/20260401042745_211ca4e3-ccc3-4cc3-9367-2015d87a2c29.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47249
+}

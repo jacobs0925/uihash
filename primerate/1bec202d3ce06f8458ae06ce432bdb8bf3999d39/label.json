@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "1bec202d3ce06f8458ae06ce432bdb8bf3999d39",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Adjust the position of the small, transparent company logo",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "top: 112px → 128px undone by 8caeebfe \"Adjust the position of the smaller logo on the admin login page\"; top: 112px → 128px undone by 8caeebfe \"Adjust the position of the smaller logo on the admin login page\"; top: 112px → 128px undone by 8caeebfe \"Adjust the position of the smaller logo on the admin login page\""
+}

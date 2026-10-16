@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "013826d73fca8387016ee541daac08412afeff71",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Update login page to display glowing cubes graphic with white background",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1856 later commits"
+}

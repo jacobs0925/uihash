@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "f9330e235b4029c0ef984b3952b6baa4e0c4de48",
+ "parent": "a372e489e9ae41a649b3cdaf154ec0ee9b9171ad",
+ "date": "2026-03-25",
+ "subject": "Center quiz popup UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/VideoQuizPopup.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 36417
+}

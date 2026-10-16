@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "54765c484dc2222f080f2dd88bf835bf63297a23",
+ "parent": "c42ae55a2727931c3821033f0f6314f1b1dc6579",
+ "date": "2025-10-01",
+ "subject": "Update input field to correctly handle user input and formatting",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43855
+}

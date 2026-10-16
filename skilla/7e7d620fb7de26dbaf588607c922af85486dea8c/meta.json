@@ -1,0 +1,22 @@
+{
+ "repo": "skilla",
+ "sha": "7e7d620fb7de26dbaf588607c922af85486dea8c",
+ "parent": "bdc0162c8cfb82055de9dc8131d8adc2366bfdfe",
+ "date": "2026-04-03",
+ "subject": "Remove Pay option and rename LMS",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/Navigation.tsx",
+  "src/pages/AllPrograms.tsx",
+  "src/pages/Programs.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 67844
+}

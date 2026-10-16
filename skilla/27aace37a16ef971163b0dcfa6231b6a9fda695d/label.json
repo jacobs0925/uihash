@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "27aace37a16ef971163b0dcfa6231b6a9fda695d",
+ "date": "2026-04-05",
+ "pr": null,
+ "title": "Update sign-in logo",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 20 later commits"
+}

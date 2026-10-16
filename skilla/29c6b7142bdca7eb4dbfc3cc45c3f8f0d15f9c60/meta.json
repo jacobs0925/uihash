@@ -1,0 +1,24 @@
+{
+ "repo": "skilla",
+ "sha": "29c6b7142bdca7eb4dbfc3cc45c3f8f0d15f9c60",
+ "parent": "d32984a589ba20f4af266a0823b7f82fb6bea2d4",
+ "date": "2026-03-20",
+ "subject": "Refresh course data promptly",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AIContentGenerator.tsx",
+  "src/components/AIFullCourseGenerator.tsx",
+  "src/components/CourseSectionManager.tsx",
+  "src/pages/Admin.tsx",
+  "src/pages/Instructor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 41767
+}

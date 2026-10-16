@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "5d15508fcb0b281b2a7204fa56e9388e28e55993",
+ "parent": "8a5e420163324dcb5f0cb38c8b31a02a309ac0b9",
+ "date": "2026-03-12",
+ "subject": "Show course content to guests",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 34037
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "acb6e64d61398e48650d5aa662ba5e82087d725b",
+ "parent": "6378c08a0de216399565bcb1e0f769cd35010faa",
+ "date": "2025-10-01",
+ "subject": "Update phone number input fields for borrowers to auto-format",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 45889
+}

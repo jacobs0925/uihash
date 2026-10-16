@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "033295c2e3a21a5924aa9b4d0a4bcc5acb7dc635",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Restored to '9b30ba1f426d6618005dfa3a596ed19e5f58215f'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "top: 80px → 128px undone by b639e936 \"Adjust logo position on the admin login page\"; left: 96px → 144px undone by b639e936 \"Adjust logo position on the admin login page\"; top: 80px → 128px undone by b639e936 \"Adjust logo position on the admin login page\""
+}

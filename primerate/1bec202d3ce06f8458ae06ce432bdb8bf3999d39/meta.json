@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1bec202d3ce06f8458ae06ce432bdb8bf3999d39",
+ "parent": "8da1eed8f6f2067876e24bf59ea798001849f4d5",
+ "date": "2025-10-01",
+ "subject": "Adjust the position of the small, transparent company logo",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 50973
+}

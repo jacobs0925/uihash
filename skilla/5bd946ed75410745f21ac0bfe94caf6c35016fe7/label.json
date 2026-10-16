@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "5bd946ed75410745f21ac0bfe94caf6c35016fe7",
+ "date": "2026-03-30",
+ "pr": null,
+ "title": "Fix Alumni count and heading dot",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 45 later commits"
+}

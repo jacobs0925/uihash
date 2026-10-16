@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "1e20601e2809a6a8799c14df2f93a8ec35edac86",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Update section image to show family enjoying their home",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 883eda01, which restored 381f811d (1 commit discarded)"
+}

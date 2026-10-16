@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "decf5930e910e7c6b799ee298b975f5880c5dbc1",
+ "parent": "6aa7f18010f46e3274d56e0d58044eb8d9179ab2",
+ "date": "2025-10-01",
+ "subject": "Increase the size of selection circles on the add client form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43056
+}

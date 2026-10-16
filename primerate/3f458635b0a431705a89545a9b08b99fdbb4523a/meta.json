@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3f458635b0a431705a89545a9b08b99fdbb4523a",
+ "parent": "d49bd5991ad89210c6260b12f9bc96bb96ca72fc",
+ "date": "2025-10-01",
+ "subject": "Update date input format and handling for co-borrower income details",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41971
+}

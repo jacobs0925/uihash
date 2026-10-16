@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d1934bb1322ec7142ca18528908b045ef3e19506",
+ "parent": "2fd7559fbedbd1ad2a9b7c0107e7c5f162c20b2c",
+ "date": "2025-10-01",
+ "subject": "Make all button text one font size smaller across the application",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 45656
+}

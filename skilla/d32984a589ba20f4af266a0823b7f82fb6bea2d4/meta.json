@@ -1,0 +1,27 @@
+{
+ "repo": "skilla",
+ "sha": "d32984a589ba20f4af266a0823b7f82fb6bea2d4",
+ "parent": "ad4e66398645c0727fb882d9cd59449442951394",
+ "date": "2026-03-18",
+ "subject": "Add max_submissions migration",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AddContentToSection.tsx",
+  "src/components/ContentItemEditDialog.tsx",
+  "src/components/StudentAssignmentSubmission.tsx",
+  "src/components/StudentQuizTaker.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/CourseDetail.tsx",
+  "src/pages/LMS.tsx",
+  "supabase/migrations/20260318070926_0af9ee0d-3d90-4020-b672-6662f5439e4e.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39367
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "skilla",
+ "sha": "509dd19cd64d087862d1e76a5e6c5d44d0c201d6",
+ "parent": "0e3dd3ecf0193325c318f6d4db3e1cd48374dacc",
+ "date": "2026-04-07",
+ "subject": "Added school brochure pages",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/SchoolBrochure.tsx",
+  "src/pages/SchoolPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55369
+}

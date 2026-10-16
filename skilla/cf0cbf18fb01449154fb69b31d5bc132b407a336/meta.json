@@ -1,0 +1,26 @@
+{
+ "repo": "skilla",
+ "sha": "cf0cbf18fb01449154fb69b31d5bc132b407a336",
+ "parent": "449dcc3d538b28f48662d147ed2b51086d6f0790",
+ "date": "2026-03-23",
+ "subject": "Add video quiz points feature",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/ContentItemEditDialog.tsx",
+  "src/components/VideoQuizPointManager.tsx",
+  "src/components/VideoQuizPopup.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/CourseDetail.tsx",
+  "supabase/functions/generate-video-quiz/index.ts",
+  "supabase/migrations/20260323073808_57f927a1-fcbb-4dcc-9ec8-59cc60b1ce71.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 37012
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "90b9439f525ea8156b6f31c8b6748fd26b5c2986",
+ "parent": "3b981fd80860bda6781beb82b9feba60e7347874",
+ "date": "2025-10-01",
+ "subject": "Update background image to display cubes on the admin login page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 49714
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "2bb6fa863e6420b6655b2e8fa9abd09aaba60fb9",
+ "parent": "cf0cbf18fb01449154fb69b31d5bc132b407a336",
+ "date": "2026-03-24",
+ "subject": "Fix video quiz popup timing",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/VideoQuizPopup.tsx",
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 37496
+}

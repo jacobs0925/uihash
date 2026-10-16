@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "9cb4f9396d739ae76faf7ffd102ad334b01ad9c9",
+ "parent": "8844ceec402fb7218c5faaf1950ab25ddcbaba68",
+ "date": "2026-03-10",
+ "subject": "Improve AI Course Generator reliability",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIFullCourseGenerator.tsx",
+  "supabase/functions/generate-full-course/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35606
+}

@@ -1,0 +1,31 @@
+{
+ "repo": "skilla",
+ "sha": "e888dd68f7879831570b476f197c8f2f4e34f150",
+ "parent": "7726864411aa42ffc14e8e0f268074f3ea8fc57a",
+ "date": "2026-04-08",
+ "subject": "Enhance LMS features with reviews and analytics",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/CourseReviews.tsx",
+  "src/components/GamificationPanel.tsx",
+  "src/components/LessonDiscussion.tsx",
+  "src/components/Navigation.tsx",
+  "src/components/StudentAnalytics.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/CourseDetail.tsx",
+  "src/pages/LMS.tsx",
+  "src/pages/LearningPaths.tsx",
+  "supabase/migrations/20260408072201_3842054b-4806-4309-8d5c-d98f746e2e34.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 81267
+}

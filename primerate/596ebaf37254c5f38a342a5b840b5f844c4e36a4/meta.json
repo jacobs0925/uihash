@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "596ebaf37254c5f38a342a5b840b5f844c4e36a4",
+ "parent": "0d22e8bef3d0535227c12bc2fe089b4b7b188217",
+ "date": "2025-10-01",
+ "subject": "Improve date input formatting for employment details on the income tab",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43798
+}

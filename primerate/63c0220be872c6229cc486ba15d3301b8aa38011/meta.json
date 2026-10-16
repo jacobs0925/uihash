@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "63c0220be872c6229cc486ba15d3301b8aa38011",
+ "parent": "4d7d9550110aedb94c1735dccc464a9e2cb9041a",
+ "date": "2025-10-01",
+ "subject": "Correctly manage data displayed in borrower self-employment cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42363
+}

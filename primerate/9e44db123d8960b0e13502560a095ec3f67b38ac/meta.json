@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9e44db123d8960b0e13502560a095ec3f67b38ac",
+ "parent": "93bad131c48a83ecdd5c1a56dd226d99ab92c901",
+ "date": "2025-10-01",
+ "subject": "Remove employer phone input and verification toggle from client form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42296
+}

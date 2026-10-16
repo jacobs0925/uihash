@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "18178ce143f08509e9b0d82835fa46d83b832262",
+ "parent": "f75b7b92dc5c2672f35adef69c07889ceacf94e0",
+ "date": "2025-10-01",
+ "subject": "Add controls to expand and minimize borrower income source cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42501
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6e47a2e7aa4a4c60e9caf7a64e110ec39bc4ad5e",
+ "parent": "eee83c3f595672a54c0af8c420f93d3d78f61d90",
+ "date": "2025-10-01",
+ "subject": "Adjust logo position to align with the top left",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 49456
+}

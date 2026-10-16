@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "fa7ac08c4844bb84373ad79755957a75127c00de",
+ "parent": "3541e21846037f6492523945c4358bef7930d707",
+ "date": "2025-10-01",
+ "subject": "Improve the user experience for managing loan rate lock expiration dates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42781
+}

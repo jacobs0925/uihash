@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "3edb480d1d4437f26ffc82665ab82761f777409a",
+ "parent": "a1a01b53beb85be26bc119bfc5b2e0a76d0b2c6f",
+ "date": "2026-04-06",
+ "subject": "Add instructor status column",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Admin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57888
+}

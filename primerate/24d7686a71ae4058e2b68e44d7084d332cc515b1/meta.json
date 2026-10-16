@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "24d7686a71ae4058e2b68e44d7084d332cc515b1",
+ "parent": "c1a7a72aa1ee23f0e7f2aabf039d7cb2c50f20c0",
+ "date": "2025-10-01",
+ "subject": "Update the title for VA disability income to just disability",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42708
+}

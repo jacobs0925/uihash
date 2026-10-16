@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "a74d386dfa91a51e6ae189dbbe209d97cc767790",
+ "parent": "025148f7d7141d31ddcc113d2d3260ffb8bc48ec",
+ "date": "2026-03-31",
+ "subject": "Enhance LMS progress UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CourseContentSidebar.tsx",
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47711
+}

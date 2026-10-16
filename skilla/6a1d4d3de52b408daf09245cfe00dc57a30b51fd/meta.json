@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "6a1d4d3de52b408daf09245cfe00dc57a30b51fd",
+ "parent": "612d6a306cf082f9269aba2a06a732eb7c270482",
+ "date": "2026-03-10",
+ "subject": "Replace pagination with scrollbar",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/PaginatedTextContent.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35829
+}

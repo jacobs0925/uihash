@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9252af55baade819148b121ab893e0425b4d6893",
+ "parent": "969cf24633402428b94c84c625995124a067be9a",
+ "date": "2025-10-01",
+ "subject": "Improve date input fields to allow easier editing of borrower dates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 46825
+}

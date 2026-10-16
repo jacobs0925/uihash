@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "dedf1e20eb792950a20d510666705091b490009b",
+ "parent": "24d7686a71ae4058e2b68e44d7084d332cc515b1",
+ "date": "2025-10-01",
+ "subject": "Update co-borrower income section to label disability as other",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42435
+}

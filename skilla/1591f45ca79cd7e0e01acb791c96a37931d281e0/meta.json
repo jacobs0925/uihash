@@ -1,0 +1,34 @@
+{
+ "repo": "skilla",
+ "sha": "1591f45ca79cd7e0e01acb791c96a37931d281e0",
+ "parent": "f7783c96e34b7cffab5843982441f0c1957f202f",
+ "date": "2026-03-29",
+ "subject": "Beautified landing pages and design system",
+ "components": [
+  "components",
+  "index.css",
+  "main.tsx"
+ ],
+ "files": [
+  "bun.lock",
+  "package.json",
+  "src/components/AdminSidebar.tsx",
+  "src/components/CareerSection.tsx",
+  "src/components/FAQSection.tsx",
+  "src/components/Footer.tsx",
+  "src/components/Hero.tsx",
+  "src/components/Navigation.tsx",
+  "src/components/PathwaysSection.tsx",
+  "src/components/SchoolsSection.tsx",
+  "src/components/WhySection.tsx",
+  "src/index.css",
+  "src/main.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 136,
+ "ms": 128267
+}

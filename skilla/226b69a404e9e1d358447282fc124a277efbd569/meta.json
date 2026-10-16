@@ -1,0 +1,22 @@
+{
+ "repo": "skilla",
+ "sha": "226b69a404e9e1d358447282fc124a277efbd569",
+ "parent": "a74d386dfa91a51e6ae189dbbe209d97cc767790",
+ "date": "2026-03-31",
+ "subject": "Improve course progress and access",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "bun.lock",
+  "src/components/CourseContentSidebar.tsx",
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 50252
+}

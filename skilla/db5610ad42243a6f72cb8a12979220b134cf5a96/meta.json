@@ -1,0 +1,23 @@
+{
+ "repo": "skilla",
+ "sha": "db5610ad42243a6f72cb8a12979220b134cf5a96",
+ "parent": "fa048127d6239b1d497c4535a9adcc285b9b292c",
+ "date": "2026-03-16",
+ "subject": "Add code block highlighting",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "bun.lock",
+  "package.json",
+  "src/components/PaginatedTextContent.tsx",
+  "supabase/functions/ai-content-generator/index.ts",
+  "supabase/functions/generate-full-course/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 36131
+}

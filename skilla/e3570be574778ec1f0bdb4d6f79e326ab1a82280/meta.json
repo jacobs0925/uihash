@@ -1,0 +1,22 @@
+{
+ "repo": "skilla",
+ "sha": "e3570be574778ec1f0bdb4d6f79e326ab1a82280",
+ "parent": "c1e789c11973cdddebb361aa73422d112e3220ce",
+ "date": "2026-03-17",
+ "subject": "Add signup fields and FP label",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CoursePriceDisplay.tsx",
+  "src/lib/courseUtils.ts",
+  "src/pages/SignUp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40082
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "40b2bde6a7ed659d36f6a87e93f5c40d244d8800",
+ "parent": "54e401198643a99134b185db18b99bb6cac51d15",
+ "date": "2026-03-14",
+ "subject": "Reverted to commit 14753893e3a3af162964a04c55e6bc153cac8187",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/SignUp.tsx",
+  "supabase/migrations/20260314073338_c2710c76-c24a-4478-ad17-f9bf38d35105.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 38931
+}

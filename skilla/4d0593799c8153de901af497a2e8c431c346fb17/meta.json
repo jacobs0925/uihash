@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "4d0593799c8153de901af497a2e8c431c346fb17",
+ "parent": "e7ee52c3905173090a769d1887bd414af6ffc584",
+ "date": "2026-03-17",
+ "subject": "Show prices as FP or mo",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AllPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39380
+}

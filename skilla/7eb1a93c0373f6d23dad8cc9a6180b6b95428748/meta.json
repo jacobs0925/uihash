@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "7eb1a93c0373f6d23dad8cc9a6180b6b95428748",
+ "parent": "a5a22ec3bd49963b754640b031e7ff76be493eaf",
+ "date": "2026-03-22",
+ "subject": "Tightened course content spacing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 36966
+}

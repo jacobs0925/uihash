@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "88799370f782f20c634f08dd97063a236b83f4e3",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Adjust logo position for a cleaner admin login page layout",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1816 later commits"
+}

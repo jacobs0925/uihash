@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "d1934bb1322ec7142ca18528908b045ef3e19506",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Make all button text one font size smaller across the application",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1847 later commits"
+}

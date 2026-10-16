@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "dfe669e168660eb2a432a118eef43d80b9fb993c",
+ "parent": "b7ccd541d97ec6ee868d8c8a1d54c622e546ba98",
+ "date": "2026-03-26",
+ "subject": "Add support for matching types",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/VideoQuizPopup.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 38238
+}

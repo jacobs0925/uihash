@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "60369dbe594050edf77a55f058b1da85bb1edb64",
+ "parent": "b76eca2eb8ae1f0d7ca69635aa44f7cebd62900b",
+ "date": "2025-10-01",
+ "subject": "Animate borrower self-employment card with grey background",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42949
+}

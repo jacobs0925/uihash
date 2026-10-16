@@ -1,0 +1,22 @@
+{
+ "repo": "skilla",
+ "sha": "56d7d74894572bdfa721b6041fe8eca98da47964",
+ "parent": "d7e9744da1a5b74918009ff5831b2281813db72b",
+ "date": "2026-04-04",
+ "subject": "Add username field to profiles",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/SignIn.tsx",
+  "src/pages/SignUp.tsx",
+  "supabase/migrations/20260404042820_6859abbd-b5ee-415d-bd6f-9a7362edf6f0.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 7,
+ "ms": 69209
+}

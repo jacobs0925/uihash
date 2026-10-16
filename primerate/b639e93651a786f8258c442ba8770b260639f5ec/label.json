@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "b639e93651a786f8258c442ba8770b260639f5ec",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Adjust logo position on the admin login page",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 033295c2, which restored 9b30ba1f (1 commit discarded)"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "cd9635530ac8074d4b09d19012aa603be9461459",
+ "parent": "d98a4c1f838f43a51dbd962b15b2b268c253bb6a",
+ "date": "2025-10-01",
+ "subject": "Improve date input field for consistent formatting and deletion",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43439
+}

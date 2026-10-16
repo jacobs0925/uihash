@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b4cec94eef35053a12bf969d41e4ccbf27c3ed78",
+ "parent": "ba43aac9ca971b29d439b2372527ef5f423cb627",
+ "date": "2025-10-01",
+ "subject": "Add expand and minimize buttons to property cards on the admin page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42623
+}

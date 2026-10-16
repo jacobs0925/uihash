@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1db255cebf325640a233799d6e246e0a4fea9b51",
+ "parent": "8e133e2c8e4c6b33ffb32912fd75e38dd45782ad",
+ "date": "2025-10-01",
+ "subject": "Increase the font size of the Sign In button for better readability",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 47240
+}

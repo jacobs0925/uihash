@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "1591f45ca79cd7e0e01acb791c96a37931d281e0",
+ "date": "2026-03-29",
+ "pr": null,
+ "title": "Beautified landing pages and design system",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-bottom: 24px → 12px undone by 55b1dd12 \"Improve PathwaysResponsiveness\"; padding-bottom: 24px → 12px undone by 55b1dd12 \"Improve PathwaysResponsiveness\"; padding-bottom: 24px → 12px undone by 55b1dd12 \"Improve PathwaysResponsiveness\""
+}

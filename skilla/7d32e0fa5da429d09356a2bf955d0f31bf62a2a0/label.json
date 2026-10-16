@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "7d32e0fa5da429d09356a2bf955d0f31bf62a2a0",
+ "date": "2026-04-05",
+ "pr": null,
+ "title": "Replace LMS label with Student Dashboard",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Dashboard\" → \"Student Dashboard\" undone by 8e94719c \"Change Dashboard label in nav\"; text: \"Dashboard\" → \"Student Dashboard\" undone by 8e94719c \"Change Dashboard label in nav\"; text: \"Dashboard\" → \"Student Dashboard\" undone by 8e94719c \"Change Dashboard label in nav\""
+}

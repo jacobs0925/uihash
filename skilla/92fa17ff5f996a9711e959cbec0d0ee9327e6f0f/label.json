@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "92fa17ff5f996a9711e959cbec0d0ee9327e6f0f",
+ "date": "2026-03-14",
+ "pr": null,
+ "title": "Add student fields to profiles",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 40b2bde6, which restored 14753893 (2 commits discarded)"
+}

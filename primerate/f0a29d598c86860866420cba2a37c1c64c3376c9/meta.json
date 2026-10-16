@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f0a29d598c86860866420cba2a37c1c64c3376c9",
+ "parent": "b108a6a8198cabc03ec55e8497f894471bc5da5c",
+ "date": "2025-10-01",
+ "subject": "Update borrower employer phone field to match second employer",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41284
+}

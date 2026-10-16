@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "6bb3000f05ba8e762c10c483c6de26612836d605",
+ "parent": "e8ed44fcb58304350baea8849c37d8225d8cc8ed",
+ "date": "2026-03-25",
+ "subject": "Reverted to commit f9330e235b4029c0ef984b3952b6baa4e0c4de48",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/VideoQuizMarkers.tsx",
+  "src/components/VideoQuizPopup.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 36679
+}

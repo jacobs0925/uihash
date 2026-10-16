@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "08408da9936b855171ff72f01be546763fbceedc",
+ "parent": "92fa17ff5f996a9711e959cbec0d0ee9327e6f0f",
+ "date": "2026-03-14",
+ "subject": "Reflect admin profile fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Admin.tsx",
+  "src/pages/Profile.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 38835
+}

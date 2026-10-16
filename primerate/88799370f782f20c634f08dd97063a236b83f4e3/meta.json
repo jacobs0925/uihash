@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "88799370f782f20c634f08dd97063a236b83f4e3",
+ "parent": "6e47a2e7aa4a4c60e9caf7a64e110ec39bc4ad5e",
+ "date": "2025-10-01",
+ "subject": "Adjust logo position for a cleaner admin login page layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 46966
+}

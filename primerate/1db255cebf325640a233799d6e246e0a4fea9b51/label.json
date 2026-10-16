@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "1db255cebf325640a233799d6e246e0a4fea9b51",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Increase the font size of the Sign In button for better readability",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "font-size: 14px → 16px undone by d1934bb1 \"Make all button text one font size smaller across the application\"; line-height: 20px → 24px undone by d1934bb1 \"Make all button text one font size smaller across the application\"; font-size: 14px → 16px undone by d1934bb1 \"Make all button text one font size smaller across the application\""
+}

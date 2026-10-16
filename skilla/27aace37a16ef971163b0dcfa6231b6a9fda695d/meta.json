@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "27aace37a16ef971163b0dcfa6231b6a9fda695d",
+ "parent": "8e94719ca01354bc931f25c0b06fd9497cd8d1bb",
+ "date": "2026-04-05",
+ "subject": "Update sign-in logo",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "bun.lock",
+  "src/assets/logo.png",
+  "src/pages/SignIn.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 64831
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "61310f67bff349135a9ed3ba312e38175f49a658",
+ "parent": "a3250b8cb0139757b0a6a1e0a57e36c80bfebde5",
+ "date": "2026-04-03",
+ "subject": "Cascade clean orphan data",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx",
+  "supabase/migrations/20260403063648_882f270e-2927-4749-8f11-5360fd55b763.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 53506
+}

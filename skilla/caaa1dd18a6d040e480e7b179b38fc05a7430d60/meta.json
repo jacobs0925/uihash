@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "caaa1dd18a6d040e480e7b179b38fc05a7430d60",
+ "parent": "0a75a7a2573235f27f4e317594ead39dd8cd443c",
+ "date": "2026-03-12",
+ "subject": "Allow free previews for guests",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 33739
+}

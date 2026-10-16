@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "8844ceec402fb7218c5faaf1950ab25ddcbaba68",
+ "parent": "d7804636c7d0c5b380c17ab9fda65e1397aad13e",
+ "date": "2026-03-08",
+ "subject": "Fix AI course generation timeout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIFullCourseGenerator.tsx",
+  "supabase/functions/generate-full-course/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35790
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "9252af55baade819148b121ab893e0425b4d6893",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Improve date input fields to allow easier editing of borrower dates",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1763 later commits"
+}

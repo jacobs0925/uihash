@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "427ebba83fb418ad0cf53c015ec7f78e0414acf6",
+ "parent": "ea2e8149738d95ac808ec5cb35affd35c305e90d",
+ "date": "2026-03-08",
+ "subject": "Extend full price expiry logic",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Apply.tsx",
+  "supabase/functions/verify-flutterwave-payment/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37771
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "b7ccd541d97ec6ee868d8c8a1d54c622e546ba98",
+ "parent": "e5fc7bccbd51ad50ae13c61aadf3645a5bf73c1e",
+ "date": "2026-03-26",
+ "subject": "Add quiz markers to timeline",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/VideoQuizMarkers.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 37730
+}

@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "56d7d74894572bdfa721b6041fe8eca98da47964",
+ "date": "2026-04-04",
+ "pr": null,
+ "title": "Add username field to profiles",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 26 later commits"
+}

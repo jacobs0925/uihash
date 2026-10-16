@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "40b2bde6a7ed659d36f6a87e93f5c40d244d8800",
+ "date": "2026-03-14",
+ "pr": null,
+ "title": "Reverted to commit 14753893e3a3af162964a04c55e6bc153cac8187",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text-align: ∅ → start undone by 92fa17ff \"Add student fields to profiles\"; line-height: ∅ → 1.5 undone by 92fa17ff \"Add student fields to profiles\"; font-size: ∅ → 16px undone by 92fa17ff \"Add student fields to profiles\""
+}

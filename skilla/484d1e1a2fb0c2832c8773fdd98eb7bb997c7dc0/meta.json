@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "484d1e1a2fb0c2832c8773fdd98eb7bb997c7dc0",
+ "parent": "1464de9e4ce89014dbada17fe2e2224f68be7614",
+ "date": "2026-03-22",
+ "subject": "Reduce spacing between course title and description",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 37260
+}

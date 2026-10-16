@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "e8ed44fcb58304350baea8849c37d8225d8cc8ed",
+ "parent": "f9330e235b4029c0ef984b3952b6baa4e0c4de48",
+ "date": "2026-03-25",
+ "subject": "Make quiz popup draggable",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/VideoQuizMarkers.tsx",
+  "src/components/VideoQuizPopup.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 37262
+}

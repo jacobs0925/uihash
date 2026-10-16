@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2fd7559fbedbd1ad2a9b7c0107e7c5f162c20b2c",
+ "parent": "319ded426a0bbd3411e33bc086ade7387f666c85",
+ "date": "2025-10-01",
+ "subject": "Align sign-in, forgot password, and back to home buttons",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 9,
+ "ms": 51006
+}

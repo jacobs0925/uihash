@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c1a7a72aa1ee23f0e7f2aabf039d7cb2c50f20c0",
+ "parent": "c5d4a22adc29d4c9c34b003cdb536c720663d215",
+ "date": "2025-10-01",
+ "subject": "Update borrower income card label from Disability to Other",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42780
+}

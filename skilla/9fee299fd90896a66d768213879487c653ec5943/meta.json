@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "9fee299fd90896a66d768213879487c653ec5943",
+ "parent": "59840ab6ca3ad5fa6bfa49515a0a49d075d2046c",
+ "date": "2026-04-03",
+ "subject": "Increase code font size in UI",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 54992
+}

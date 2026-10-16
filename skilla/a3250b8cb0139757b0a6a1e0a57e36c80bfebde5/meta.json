@@ -1,0 +1,22 @@
+{
+ "repo": "skilla",
+ "sha": "a3250b8cb0139757b0a6a1e0a57e36c80bfebde5",
+ "parent": "7e7d620fb7de26dbaf588607c922af85486dea8c",
+ "date": "2026-04-03",
+ "subject": "Reverted to commit bdc0162c8cfb82055de9dc8131d8adc2366bfdfe",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/Navigation.tsx",
+  "src/pages/AllPrograms.tsx",
+  "src/pages/Programs.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 70924
+}

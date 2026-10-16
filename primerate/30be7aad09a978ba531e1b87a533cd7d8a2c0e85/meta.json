@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "30be7aad09a978ba531e1b87a533cd7d8a2c0e85",
+ "parent": "c6cb31a3dae8cec6719f9876a67eb04874affd0e",
+ "date": "2025-10-01",
+ "subject": "Add purchase date field for second home and investment properties",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42119
+}

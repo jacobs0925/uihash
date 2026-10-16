@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "fd8313b08df6f2431a6b8487014b397950712774",
+ "parent": "5d15508fcb0b281b2a7204fa56e9388e28e55993",
+ "date": "2026-03-13",
+ "subject": "Improve course access flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 33642
+}

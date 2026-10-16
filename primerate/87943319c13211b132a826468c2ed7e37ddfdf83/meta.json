@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "87943319c13211b132a826468c2ed7e37ddfdf83",
+ "parent": "69953fc7b6f30c0c32b4f76dff865ce5d6d4c291",
+ "date": "2025-10-01",
+ "subject": "Update loan form to use simple text fields for rate lock dates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42505
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "48eb1ada3bd19fcea9ad6549e2c32df18e3ae192",
+ "parent": "90b9439f525ea8156b6f31c8b6748fd26b5c2986",
+ "date": "2025-10-01",
+ "subject": "Update the login page background image to display the company logo",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Prime Rate Logo PNG_1759280639082.png",
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 44987
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "6237535397a1cf281848b5bfc6d22e608f03914a",
+ "parent": "ebeb869f987abb712a0b880f0d6a2b0e8adebc16",
+ "date": "2026-03-10",
+ "subject": "Restrained AI content generation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIContentGenerator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 34390
+}

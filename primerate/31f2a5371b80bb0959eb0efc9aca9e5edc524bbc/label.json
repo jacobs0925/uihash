@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "31f2a5371b80bb0959eb0efc9aca9e5edc524bbc",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Make the background image on the login page less dark",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1859 later commits"
+}

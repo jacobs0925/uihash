@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "7071ab0dd3a14c7448fd5c2e63ae6c9a6e3e7667",
+ "parent": "41c74752e8727e5f6a94bcfdeee7855791635e1c",
+ "date": "2026-03-22",
+ "subject": "Tightened course UI spacing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 36949
+}

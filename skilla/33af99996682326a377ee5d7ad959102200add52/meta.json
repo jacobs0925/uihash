@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "33af99996682326a377ee5d7ad959102200add52",
+ "parent": "c1b9e815499c575c81bdcd6b76c8a4e5cb2b2b56",
+ "date": "2026-04-05",
+ "subject": "Update LMS label to Dashboard",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "bun.lock",
+  "src/components/Navigation.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 65768
+}

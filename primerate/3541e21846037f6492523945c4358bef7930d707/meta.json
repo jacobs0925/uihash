@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3541e21846037f6492523945c4358bef7930d707",
+ "parent": "dcc69bac4f4033eb8c04497b4f19d7788091ee98",
+ "date": "2025-10-01",
+ "subject": "Improve date input validation by isolating calculation logic",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42382
+}

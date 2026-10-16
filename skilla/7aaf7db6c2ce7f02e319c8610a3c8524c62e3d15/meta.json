@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "7aaf7db6c2ce7f02e319c8610a3c8524c62e3d15",
+ "parent": "40b2bde6a7ed659d36f6a87e93f5c40d244d8800",
+ "date": "2026-03-15",
+ "subject": "Append modules and style updates",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/generate-full-course/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 34235
+}

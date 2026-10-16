@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3b981fd80860bda6781beb82b9feba60e7347874",
+ "parent": "013826d73fca8387016ee541daac08412afeff71",
+ "date": "2025-10-01",
+ "subject": "Update background of login page to feature glowing cubes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 44537
+}

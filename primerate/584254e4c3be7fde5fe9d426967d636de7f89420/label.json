@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "584254e4c3be7fde5fe9d426967d636de7f89420",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Update the login page appearance and logo display",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1850 later commits"
+}

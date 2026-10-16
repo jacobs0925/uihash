@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "6378c08a0de216399565bcb1e0f769cd35010faa",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Add a left-to-right gradient to the admin login page background",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1805 later commits"
+}

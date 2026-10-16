@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ee0bbe341abd453be9e2b578d85353c3ee40851c",
+ "parent": "ac7e9a6e838e2a17490ab2ace921d8e3d2d4cae2",
+ "date": "2025-10-01",
+ "subject": "Update borrower income card with VA disability benefits information",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 44135
+}

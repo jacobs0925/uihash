@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "449dcc3d538b28f48662d147ed2b51086d6f0790",
+ "parent": "a41d9c9c051cd2382b6dea9290baf8e26db7bcbc",
+ "date": "2026-03-23",
+ "subject": "AI content sanitization added",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx",
+  "supabase/functions/ai-content-generator/index.ts",
+  "supabase/functions/generate-full-course/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 36778
+}

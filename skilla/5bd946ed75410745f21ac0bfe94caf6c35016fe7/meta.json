@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "5bd946ed75410745f21ac0bfe94caf6c35016fe7",
+ "parent": "e236b2f4aef8d13fb3de7dbab1b12aa3639d49d5",
+ "date": "2026-03-30",
+ "subject": "Fix Alumni count and heading dot",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CareerSection.tsx",
+  "src/components/Hero.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 76510
+}

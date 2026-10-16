@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "7726864411aa42ffc14e8e0f268074f3ea8fc57a",
+ "parent": "5f33cfc85e953b340c08e571f99ad7fee71deae3",
+ "date": "2026-04-08",
+ "subject": "Removed Programs Offered section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/SchoolBrochure.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54261
+}

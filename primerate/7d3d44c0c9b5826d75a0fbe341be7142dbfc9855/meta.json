@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7d3d44c0c9b5826d75a0fbe341be7142dbfc9855",
+ "parent": "0118c5c60ae95f4fc8864e6487dbd2c516bf2e74",
+ "date": "2025-10-01",
+ "subject": "Update employment end date toggle behavior for second employer",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42293
+}

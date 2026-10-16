@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1000ed654766cd7766045adb8c639049d0de8a97",
+ "parent": "1bec202d3ce06f8458ae06ce432bdb8bf3999d39",
+ "date": "2025-10-01",
+ "subject": "Adjust the position of the small greyed-out logo on the admin login page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 50095
+}

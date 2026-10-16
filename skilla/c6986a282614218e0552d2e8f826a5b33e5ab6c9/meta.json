@@ -1,0 +1,25 @@
+{
+ "repo": "skilla",
+ "sha": "c6986a282614218e0552d2e8f826a5b33e5ab6c9",
+ "parent": "d41b3cc15174b035d8a8b4b0ebc1a695267a2c27",
+ "date": "2026-03-08",
+ "subject": "Add donation management view",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AdminDonationManagement.tsx",
+  "src/components/AdminSidebar.tsx",
+  "src/components/DonateSection.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Admin.tsx",
+  "supabase/migrations/20260308174951_cb4157f3-e354-400d-9ae5-f1bb068df089.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37876
+}

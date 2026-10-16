@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "76f01ee996ba509fe48bb3c04543202de8f44da7",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Add a modern, two-column login page for administrators",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: flex → block undone by 90b9439f \"Update background image to display cubes on the admin login page\"; display: flex → block undone by 90b9439f \"Update background image to display cubes on the admin login page\"; display: flex → block undone by 90b9439f \"Update background image to display cubes on the admin login page\""
+}

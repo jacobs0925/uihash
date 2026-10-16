@@ -1,0 +1,32 @@
+{
+ "repo": "skilla",
+ "sha": "041e8fdff99786b67ba0a20eed4c5f30ae1cc1f1",
+ "parent": "2bb6fa863e6420b6655b2e8fa9abd09aaba60fb9",
+ "date": "2026-03-24",
+ "subject": "Fix video quiz popups timing",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "dist/assets/index-BjjaFH6d.js",
+  "dist/assets/index-CN_UPxqI.css",
+  "dist/assets/index.es-CxUdlOrW.js",
+  "dist/assets/jspdf.es.min-B1d_UxAf.js",
+  "dist/assets/student-1-CnEDcngk.jpg",
+  "dist/assets/student-2-3rhJQ6Bn.jpg",
+  "dist/assets/student-3-CSXVVCPI.jpg",
+  "dist/assets/student-4-DDw1Q-mz.jpg",
+  "dist/assets/student-5-jedzelHX.jpg",
+  "dist/assets/student-6-DtAbMO8O.jpg",
+  "dist/index.html",
+  "src/components/VideoQuizPopup.tsx",
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 37016
+}

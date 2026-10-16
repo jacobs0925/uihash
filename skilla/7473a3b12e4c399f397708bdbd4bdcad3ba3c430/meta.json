@@ -1,0 +1,22 @@
+{
+ "repo": "skilla",
+ "sha": "7473a3b12e4c399f397708bdbd4bdcad3ba3c430",
+ "parent": "db5610ad42243a6f72cb8a12979220b134cf5a96",
+ "date": "2026-03-16",
+ "subject": "Add syntax highlighting wrapper",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AssignmentPreview.tsx",
+  "src/components/HighlightedHTML.tsx",
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 37193
+}

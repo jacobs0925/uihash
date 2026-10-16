@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ba43aac9ca971b29d439b2372527ef5f423cb627",
+ "parent": "cc4dcc7c1afa9f55d99e5c504fd0a7ca12991ecb",
+ "date": "2025-10-01",
+ "subject": "Animate co-borrower self-employment card on expand",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42964
+}

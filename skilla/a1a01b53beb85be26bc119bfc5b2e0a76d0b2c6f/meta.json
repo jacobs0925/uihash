@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "a1a01b53beb85be26bc119bfc5b2e0a76d0b2c6f",
+ "parent": "ee8114c33de231b44c227d2ef0e4678c0a2a736b",
+ "date": "2026-04-06",
+ "subject": "Add follow-up practice feature",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FollowUpQuiz.tsx",
+  "src/components/StudentQuizTaker.tsx",
+  "supabase/functions/generate-followup-questions/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57512
+}

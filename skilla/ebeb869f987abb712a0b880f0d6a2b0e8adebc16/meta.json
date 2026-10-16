@@ -1,0 +1,24 @@
+{
+ "repo": "skilla",
+ "sha": "ebeb869f987abb712a0b880f0d6a2b0e8adebc16",
+ "parent": "d05bbf638cd7a6990cb79a878971a79347120ef9",
+ "date": "2026-03-10",
+ "subject": "Add ai_course_generation_enabled",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AIFullCourseGenerator.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Admin.tsx",
+  "supabase/functions/generate-full-course/index.ts",
+  "supabase/migrations/20260310203456_93c3f8ca-7ff9-4bad-b7df-08e3e105beaf.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37379
+}

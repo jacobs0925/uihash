@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "7d32e0fa5da429d09356a2bf955d0f31bf62a2a0",
+ "parent": "33af99996682326a377ee5d7ad959102200add52",
+ "date": "2026-04-05",
+ "subject": "Replace LMS label with Student Dashboard",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Navigation.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 66636
+}

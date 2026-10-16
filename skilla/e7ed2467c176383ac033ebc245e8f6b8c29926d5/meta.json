@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "e7ed2467c176383ac033ebc245e8f6b8c29926d5",
+ "parent": "1624f1c136f58945e2533f8560c70e90217b6d6f",
+ "date": "2026-04-01",
+ "subject": "Add back to Home in sidebars",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AdminSidebar.tsx",
+  "src/components/InstructorSidebar.tsx",
+  "src/components/LMSSidebar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48551
+}

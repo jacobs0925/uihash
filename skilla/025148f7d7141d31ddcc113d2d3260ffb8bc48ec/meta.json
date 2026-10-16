@@ -1,0 +1,22 @@
+{
+ "repo": "skilla",
+ "sha": "025148f7d7141d31ddcc113d2d3260ffb8bc48ec",
+ "parent": "3177ca0b903f088171192ecce5c6b3659a4abb21",
+ "date": "2026-03-31",
+ "subject": "Remove Donate tab",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "bun.lock",
+  "src/components/Navigation.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 61133
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "58afd5d7d07b6e82d15f2fb8718a7543ea1ac4f5",
+ "parent": "ee0bbe341abd453be9e2b578d85353c3ee40851c",
+ "date": "2025-10-01",
+ "subject": "Add interactive disability selection with confirmation for client onboarding",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43700
+}

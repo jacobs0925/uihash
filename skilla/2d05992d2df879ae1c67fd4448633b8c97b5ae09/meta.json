@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "2d05992d2df879ae1c67fd4448633b8c97b5ae09",
+ "parent": "93c9a7804ef6d91a23797affce161c23c8799e3d",
+ "date": "2026-03-08",
+ "subject": "MakePromotionalWizard",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AdminPromotionalManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 33837
+}

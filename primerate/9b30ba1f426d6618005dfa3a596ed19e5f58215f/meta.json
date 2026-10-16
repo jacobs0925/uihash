@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9b30ba1f426d6618005dfa3a596ed19e5f58215f",
+ "parent": "88799370f782f20c634f08dd97063a236b83f4e3",
+ "date": "2025-10-01",
+ "subject": "Adjust logo position on the admin login page to the left",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 51898
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d98a4c1f838f43a51dbd962b15b2b268c253bb6a",
+ "parent": "e8a62ef7e22ff466e4e5fcaf89bc745e59cfb126",
+ "date": "2025-10-01",
+ "subject": "Update loan form to allow text input for prepayment penalty",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43595
+}

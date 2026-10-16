@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "48eb1ada3bd19fcea9ad6549e2c32df18e3ae192",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Update the login page background image to display the company logo",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1853 later commits"
+}

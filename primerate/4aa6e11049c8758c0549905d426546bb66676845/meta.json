@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4aa6e11049c8758c0549905d426546bb66676845",
+ "parent": "95102e1419d723a860a9de90f95c6bc744520007",
+ "date": "2025-10-01",
+ "subject": "Add employment duration fields to borrower employer card",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42517
+}

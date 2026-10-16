@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c5d4a22adc29d4c9c34b003cdb536c720663d215",
+ "parent": "28bf58ed02712cb1db4985bfc922932fb0c9f205",
+ "date": "2025-10-01",
+ "subject": "Rearrange co-borrower income options for clarity",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42849
+}

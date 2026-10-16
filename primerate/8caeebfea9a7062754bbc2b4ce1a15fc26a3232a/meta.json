@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8caeebfea9a7062754bbc2b4ce1a15fc26a3232a",
+ "parent": "033295c2e3a21a5924aa9b4d0a4bcc5acb7dc635",
+ "date": "2025-10-01",
+ "subject": "Adjust the position of the smaller logo on the admin login page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 52246
+}

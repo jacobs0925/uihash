@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0d22e8bef3d0535227c12bc2fe089b4b7b188217",
+ "parent": "9252af55baade819148b121ab893e0425b4d6893",
+ "date": "2025-10-01",
+ "subject": "Update date input format for borrower call and loan start dates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 46555
+}

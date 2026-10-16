@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ac7e9a6e838e2a17490ab2ace921d8e3d2d4cae2",
+ "parent": "5a0c65fa390784a0fbb046205e069967414f26b5",
+ "date": "2025-10-01",
+ "subject": "Update co-borrower income section to rename \"Child Support\" to \"Disability\"",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43153
+}

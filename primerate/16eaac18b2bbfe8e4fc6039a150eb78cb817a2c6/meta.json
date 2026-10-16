@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "16eaac18b2bbfe8e4fc6039a150eb78cb817a2c6",
+ "parent": "60369dbe594050edf77a55f058b1da85bb1edb64",
+ "date": "2025-10-01",
+ "subject": "Improve co-borrower income card animation when expanding",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42850
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "93c9a7804ef6d91a23797affce161c23c8799e3d",
+ "parent": "776f08b0f0cbd7c0aaa2a84047e967de4ba7df9c",
+ "date": "2026-03-08",
+ "subject": "Enhance promo CTA with course picker",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AdminPromotionalManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 34386
+}

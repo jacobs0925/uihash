@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f272edf665b1f4e12004da48ac442e61bd2948f9",
+ "parent": "66cfafd1f11d4fd6adc94e088e22f9ef02ae8889",
+ "date": "2025-10-01",
+ "subject": "Improve loan card expansion and collapse functionality",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42118
+}

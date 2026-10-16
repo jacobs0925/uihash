@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "1000ed654766cd7766045adb8c639049d0de8a97",
+ "date": "2025-10-01",
+ "pr": null,
+ "title": "Adjust the position of the small greyed-out logo on the admin login page",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 4d635c02, which restored 1bec202d (1 commit discarded)"
+}

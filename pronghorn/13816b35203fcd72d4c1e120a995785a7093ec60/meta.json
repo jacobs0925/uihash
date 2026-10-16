@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "13816b35203fcd72d4c1e120a995785a7093ec60",
+ "parent": "18318c274ddee50048a27edeba9a38e0abceb73b",
+ "date": "2025-12-12",
+ "subject": "Fix schema tree dark colors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseSchemaTree.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39553
+}

@@ -1,0 +1,29 @@
+{
+ "repo": "pronghorn",
+ "sha": "f8045214e2669f860e375c689016190cbbbb6c46",
+ "parent": "ad5fbdcd7125e35623d21618fe7945e7257881ee",
+ "date": "2025-12-07",
+ "subject": "Implement dynamic node types",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/data/connectionLogic.json",
+  "src/components/canvas/CanvasNode.tsx",
+  "src/components/canvas/CanvasPalette.tsx",
+  "src/components/canvas/NodePalette.tsx",
+  "src/hooks/useNodeTypes.ts",
+  "src/integrations/supabase/types.ts",
+  "src/lib/connectionLogic.ts",
+  "src/pages/project/Canvas.tsx",
+  "supabase/functions/orchestrate-agents/index.ts",
+  "supabase/migrations/20251207171607_82d8d854-4465-464e-beb7-b29c07429fe3.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35307
+}

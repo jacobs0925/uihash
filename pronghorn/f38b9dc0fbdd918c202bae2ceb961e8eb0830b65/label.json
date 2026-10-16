@@ -5,8 +5,8 @@
  "date": "2025-11-18",
  "pr": null,
  "title": "Update logo to running antelope",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1726 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: flex → block undone by 7fb86d94 \"Reverted to commit 4054eb1c33655eccb427665803c69c03f031d6d3\"; display: flex → block undone by 7fb86d94 \"Reverted to commit 4054eb1c33655eccb427665803c69c03f031d6d3\"; display: flex → block undone by 7fb86d94 \"Reverted to commit 4054eb1c33655eccb427665803c69c03f031d6d3\""
 }

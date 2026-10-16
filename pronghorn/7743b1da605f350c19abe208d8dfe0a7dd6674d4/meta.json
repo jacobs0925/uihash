@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "7743b1da605f350c19abe208d8dfe0a7dd6674d4",
+ "parent": "3063ac72a1c9d4a71331cd2a35745c55b64c6f9e",
+ "date": "2025-12-18",
+ "subject": "Fix Import Wizard issues",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx",
+  "src/components/deploy/import/FileUploader.tsx",
+  "src/components/deploy/import/SchemaCreator.tsx",
+  "src/utils/parseExcel.ts",
+  "src/utils/sqlGenerator.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40869
+}

@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "dc9501256a46fa5b74173cc62266a0ebb5ed66a5",
+ "date": "2025-12-03",
+ "pr": null,
+ "title": "Remove landing animation",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 7fb86d94, which restored 4054eb1c (15 commits discarded)"
+}

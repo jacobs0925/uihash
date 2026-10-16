@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "c6372ba5ffb0b2669330832e8f825d9f1c4ade47",
+ "parent": "62f755615bd315bd41fde0da8be0dadffa273827",
+ "date": "2025-12-02",
+ "subject": "Reverted to commit 6659fe67f95a492cdfa9f2def7198ddf3cfe3ed7",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/hooks/useInfiniteAgentMessages.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26673
+}

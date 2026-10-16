@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "d5d003a91459f1a0d03ff7a27ffc07be065d4fe1",
+ "parent": "4ac79c8f5b3f5a7c746c6e21b395fa854a5bad40",
+ "date": "2025-12-10",
+ "subject": "Fix signOut fallback",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35103
+}

@@ -7,6 +7,6 @@
  "title": "Implement AI-ready dashboards",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "flex-direction: row → ∅ undone by 5c4711b4 \"Modify Hero layout and add video\"; flex-wrap: nowrap → ∅ undone by 5c4711b4 \"Modify Hero layout and add video\"; flex-direction: row → ∅ undone by 5c4711b4 \"Modify Hero layout and add video\""
 }

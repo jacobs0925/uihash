@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "e943fb6702ebac4cee2421225484f36443b44c6c",
+ "date": "2025-12-03",
+ "pr": null,
+ "title": "Restore floating animation and remove video",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 7fb86d94, which restored 4054eb1c (15 commits discarded)"
+}

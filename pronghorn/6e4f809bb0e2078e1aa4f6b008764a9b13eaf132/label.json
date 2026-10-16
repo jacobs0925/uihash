@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "6e4f809bb0e2078e1aa4f6b008764a9b13eaf132",
+ "date": "2025-12-14",
+ "pr": null,
+ "title": "Add alpha notice and footer link",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 902 later commits"
+}

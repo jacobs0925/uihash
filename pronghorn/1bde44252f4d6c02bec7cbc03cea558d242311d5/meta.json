@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "1bde44252f4d6c02bec7cbc03cea558d242311d5",
+ "parent": "d145454f8d666dad6ef6606b07bc4fc1e6fe2d55",
+ "date": "2025-12-04",
+ "subject": "Enhance AddArtifactModal UX",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/components/artifacts/ArtifactDocxPlaceholder.tsx",
+  "src/components/artifacts/ArtifactImageGallery.tsx",
+  "src/components/artifacts/ArtifactPdfPlaceholder.tsx",
+  "src/components/artifacts/ArtifactPptxPlaceholder.tsx",
+  "src/components/artifacts/ArtifactTextFileList.tsx",
+  "src/components/artifacts/ArtifactUniversalUpload.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35068
+}

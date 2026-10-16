@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "f569de6e84b46e5a4a6be5207ae385ad517039ac",
+ "parent": "741666ec4175d16fa045a3c9d866aea175830d31",
+ "date": "2025-12-12",
+ "subject": "Unify deployment dialogs tabs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/CreateDeploymentDialog.tsx",
+  "src/components/deploy/DeploymentConfigDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39407
+}

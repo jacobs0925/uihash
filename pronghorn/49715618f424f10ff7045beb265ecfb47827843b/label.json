@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "49715618f424f10ff7045beb265ecfb47827843b",
+ "date": "2025-12-14",
+ "pr": null,
+ "title": "Add alpha badge link on landing",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 901 later commits"
+}

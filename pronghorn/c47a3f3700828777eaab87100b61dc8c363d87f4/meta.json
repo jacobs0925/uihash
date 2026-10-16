@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "c47a3f3700828777eaab87100b61dc8c363d87f4",
+ "parent": "7f6e35d7eaa3b35c79d6af08ea04a4c575a57228",
+ "date": "2025-12-14",
+ "subject": "Capture full raw_output data",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/AgentChatViewer.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40222
+}

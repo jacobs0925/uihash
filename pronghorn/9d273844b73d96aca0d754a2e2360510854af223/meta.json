@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "9d273844b73d96aca0d754a2e2360510854af223",
+ "parent": "a1d1f62e3c2b81e4a9c6f949164f7757fa3d28c7",
+ "date": "2025-12-12",
+ "subject": "Migrate to new render plans",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39920
+}

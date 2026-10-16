@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "e80a03fa74d7034ae8bf2c11d94168be3afb4258",
+ "parent": "f98f118ce5f7c27988cdfddae37def96402406bf",
+ "date": "2025-12-10",
+ "subject": "Fix alpha badge in header",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/layout/PrimaryNav.tsx",
+  "src/pages/Privacy.tsx",
+  "src/pages/Terms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 49579
+}

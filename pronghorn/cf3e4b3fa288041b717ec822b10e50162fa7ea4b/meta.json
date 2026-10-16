@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "cf3e4b3fa288041b717ec822b10e50162fa7ea4b",
+ "parent": "b74fa0464a5e1d601f3fbad869e0f9dd32932467",
+ "date": "2025-12-17",
+ "subject": "Add realtime standards support",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useRealtimeProjectStandards.ts",
+  "src/pages/project/Specifications.tsx",
+  "src/pages/project/Standards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40427
+}

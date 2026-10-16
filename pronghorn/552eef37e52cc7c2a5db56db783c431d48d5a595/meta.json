@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "552eef37e52cc7c2a5db56db783c431d48d5a595",
+ "parent": "3e3d5e8f2c66af304365b47ed4b559c8171a297c",
+ "date": "2025-12-07",
+ "subject": "Add agent config modal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/AgentConfigurationModal.tsx",
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/coding-agent-orchestrator/index.ts",
+  "supabase/migrations/20251207035727_2ed5cbc8-7623-48b6-898c-c17539161b55.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35271
+}

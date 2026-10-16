@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "7197a351bd0fb220737f6b4956d9bc0b1aaa2ab3",
+ "date": "2025-12-10",
+ "pr": null,
+ "title": "Trim MIT-Style waiver text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1026 later commits"
+}

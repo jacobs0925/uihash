@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2c9df354ea9287d8cbb3b7ffec16aa7c13794350",
+ "parent": "7ae02ebefbaef826e29a6a4154a95d7fc23f7a64",
+ "date": "2025-12-12",
+ "subject": "Improve query type detection search",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/SqlQueryEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39731
+}

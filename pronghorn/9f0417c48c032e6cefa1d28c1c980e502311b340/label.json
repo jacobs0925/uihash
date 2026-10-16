@@ -5,8 +5,8 @@
  "date": "2025-11-18",
  "pr": null,
  "title": "Remove logo from hero",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1718 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "row-gap: normal → 16px undone by dc950125 \"Remove landing animation\"; column-gap: normal → 16px undone by dc950125 \"Remove landing animation\"; row-gap: normal → 16px undone by dc950125 \"Remove landing animation\""
 }

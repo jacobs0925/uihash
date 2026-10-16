@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1b7de2ac9c2ea3ccc824447562499c507f9fdf0d",
+ "parent": "3940ee788884e8802b522f669dbe38bab6ece3e2",
+ "date": "2025-12-03",
+ "subject": "Add zip upload tab",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Repository.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26743
+}

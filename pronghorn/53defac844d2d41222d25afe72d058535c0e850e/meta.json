@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "53defac844d2d41222d25afe72d058535c0e850e",
+ "parent": "9c8691ec3cef9b43ae1585680be55590f09a4d92",
+ "date": "2025-12-03",
+ "subject": "Refresh buffer on external edits",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 28902
+}

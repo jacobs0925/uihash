@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "0939bc92b1fcc93bdb998bce16a9ac8ac971127c",
+ "parent": "63457dd543b1a07135c9cf249aed33a357811516",
+ "date": "2025-12-13",
+ "subject": "Attach database context everywhere",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentPromptPanel.tsx",
+  "src/pages/project/Chat.tsx",
+  "src/pages/project/Specifications.tsx",
+  "supabase/functions/ai-architect-critic/index.ts",
+  "supabase/functions/ai-architect/index.ts",
+  "supabase/functions/coding-agent-orchestrator/index.ts",
+  "supabase/functions/generate-image/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39839
+}

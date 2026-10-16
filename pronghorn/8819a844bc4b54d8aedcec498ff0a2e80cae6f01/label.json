@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "8819a844bc4b54d8aedcec498ff0a2e80cae6f01",
+ "date": "2025-12-10",
+ "pr": null,
+ "title": "Add alpha terms pages",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1029 later commits"
+}

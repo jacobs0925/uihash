@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "123c31c6a843d41a9ac95f4bd5172d8a80b681e0",
+ "parent": "488ad1067ded3969e58bc75f992010166312f511",
+ "date": "2025-12-03",
+ "subject": "Fix autosave and markdown render",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27176
+}

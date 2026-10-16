@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "94920cc7ee260fdb379295d059e8b51fe5a39146",
+ "parent": "04769c55b792093e3e3c20628b26e5c8b1f435e7",
+ "date": "2025-12-04",
+ "subject": "Fix excel zoom formula",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactExcelViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35039
+}

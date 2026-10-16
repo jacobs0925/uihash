@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "8aa97d0fc9ced2277e56c71032e2803c51c93b40",
+ "parent": "1ad6113f82c33cc97e2462bf80abb4d9a1e85e28",
+ "date": "2025-12-07",
+ "subject": "Group by X column in auto order",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35563
+}

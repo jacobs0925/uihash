@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c28c7898c568fd32040117a989b57872fcf43106",
+ "parent": "53defac844d2d41222d25afe72d058535c0e850e",
+ "date": "2025-12-03",
+ "subject": "Enable chat history by default",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 29158
+}

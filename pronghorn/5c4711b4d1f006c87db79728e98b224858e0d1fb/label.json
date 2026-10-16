@@ -7,6 +7,6 @@
  "title": "Modify Hero layout and add video",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "margin-bottom: 32px → 0px undone by 667456c2 \"Replace logo with uploaded image\"; margin-bottom: 32px → 0px undone by 667456c2 \"Replace logo with uploaded image\"; margin-bottom: 32px → 0px undone by 667456c2 \"Replace logo with uploaded image\""
 }

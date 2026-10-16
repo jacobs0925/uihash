@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "8c5d88b270accb6ee220cb599a6530c4ae656902",
+ "parent": "969c22702d50a429f09765b106e63a6b6aa12ae3",
+ "date": "2025-12-10",
+ "subject": "Add landing 10-step journey",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 10,
+ "ms": 74585
+}

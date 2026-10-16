@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "76ac2fa1301f78a1f141b0b912eacecff51af711",
+ "parent": "3ea0b0e5a1c6523454a73659d8b2b79079592969",
+ "date": "2025-12-02",
+ "subject": "Change Clone Public placeholders",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CreateRepoDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27503
+}

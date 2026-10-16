@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "a06f20e118269b86993d7fdfd844a8d978b2656e",
+ "parent": "8c5d88b270accb6ee220cb599a6530c4ae656902",
+ "date": "2025-12-10",
+ "subject": "Enhance 10-step cards UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 7,
+ "ms": 78381
+}

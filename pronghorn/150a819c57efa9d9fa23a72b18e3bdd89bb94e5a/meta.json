@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "150a819c57efa9d9fa23a72b18e3bdd89bb94e5a",
+ "parent": "2861a6a5538b28aadc396ba78f0fb11082bfbb36",
+ "date": "2025-12-03",
+ "subject": "Remove blocker usage for navigation",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 28729
+}

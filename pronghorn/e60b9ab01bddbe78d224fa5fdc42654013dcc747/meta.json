@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "e60b9ab01bddbe78d224fa5fdc42654013dcc747",
+ "parent": "d5b527d431e8fb1545b55d33965c4d3151a71a5a",
+ "date": "2025-12-03",
+ "subject": "Apply landing cream bg only",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/index.css",
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 43,
+ "ms": 149800
+}

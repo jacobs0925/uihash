@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "d5b527d431e8fb1545b55d33965c4d3151a71a5a",
+ "date": "2025-12-03",
+ "pr": null,
+ "title": "Refactor landing page design",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 7fb86d94, which restored 4054eb1c (15 commits discarded)"
+}

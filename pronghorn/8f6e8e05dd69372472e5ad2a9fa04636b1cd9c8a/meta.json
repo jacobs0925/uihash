@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "8f6e8e05dd69372472e5ad2a9fa04636b1cd9c8a",
+ "parent": "8afbcc2e545eaee1606df066c96761b94181aa40",
+ "date": "2025-12-18",
+ "subject": "Add import wizard scaffolding",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "src/components/deploy/DatabaseImportWizard.tsx",
+  "src/components/deploy/import/FileUploader.tsx",
+  "src/utils/parseJson.ts",
+  "src/utils/sqlGenerator.ts",
+  "src/utils/typeInference.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41052
+}

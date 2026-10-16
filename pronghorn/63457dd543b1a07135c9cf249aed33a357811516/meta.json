@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "63457dd543b1a07135c9cf249aed33a357811516",
+ "parent": "b56b9fa547cb1f1e7cb67d8952367dd06b7ae39b",
+ "date": "2025-12-12",
+ "subject": "Fix load schemas again",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/DatabaseSchemaSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40163
+}

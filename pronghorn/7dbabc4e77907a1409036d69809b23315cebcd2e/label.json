@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "7dbabc4e77907a1409036d69809b23315cebcd2e",
+ "date": "2025-12-14",
+ "pr": null,
+ "title": "Add admin management system",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 899 later commits"
+}

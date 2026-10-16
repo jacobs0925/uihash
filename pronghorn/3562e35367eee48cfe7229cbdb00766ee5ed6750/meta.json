@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3562e35367eee48cfe7229cbdb00766ee5ed6750",
+ "parent": "4af7e04b787286a1e2b39ccb528bfe445522acc4",
+ "date": "2025-12-12",
+ "subject": "Fix sql editor focus on typing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/SqlQueryEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40018
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "47749a3bf11571c3e0f914d6bfca40e126dbbb06",
+ "parent": "1b2ee5dcf67cb8e3a94bd80041089c59b3c83b7c",
+ "date": "2025-12-05",
+ "subject": "Destructure refresh and call",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 34922
+}

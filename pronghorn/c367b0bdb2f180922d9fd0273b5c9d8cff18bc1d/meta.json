@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c367b0bdb2f180922d9fd0273b5c9d8cff18bc1d",
+ "parent": "68e9463727b12148ed49cf0197b1788b73b3a262",
+ "date": "2025-12-12",
+ "subject": "Show edge errors in UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorerModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39991
+}

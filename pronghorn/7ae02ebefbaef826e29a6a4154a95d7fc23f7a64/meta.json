@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7ae02ebefbaef826e29a6a4154a95d7fc23f7a64",
+ "parent": "c367b0bdb2f180922d9fd0273b5c9d8cff18bc1d",
+ "date": "2025-12-12",
+ "subject": "Show actual edge error message",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorerModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39202
+}

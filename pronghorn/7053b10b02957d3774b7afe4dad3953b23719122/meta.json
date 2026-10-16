@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "7053b10b02957d3774b7afe4dad3953b23719122",
+ "parent": "d273e5e30201380b463fa19e33fdd1810fcf051c",
+ "date": "2025-12-14",
+ "subject": "Parse agent content robustly",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/AgentChatViewer.tsx",
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39699
+}

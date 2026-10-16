@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2a50cd4766e1d8aa7b53d24e607216bc1d1fa467",
+ "parent": "bb39ecfccc566e5a5d8081345a08dee2a1251678",
+ "date": "2025-12-03",
+ "subject": "Fix keystroke staging with refs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 29390
+}

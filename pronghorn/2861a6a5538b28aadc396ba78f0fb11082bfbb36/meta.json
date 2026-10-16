@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "2861a6a5538b28aadc396ba78f0fb11082bfbb36",
+ "parent": "95c8d4bcb53edd0958e57f3230271afd4947b1e6",
+ "date": "2025-12-03",
+ "subject": "Implement autosave system",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 29094
+}

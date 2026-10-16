@@ -1,0 +1,28 @@
+{
+ "repo": "pronghorn",
+ "sha": "7dbabc4e77907a1409036d69809b23315cebcd2e",
+ "parent": "0f32194f0aee57e681b9d6a362b387d248190ad3",
+ "date": "2025-12-14",
+ "subject": "Add admin management system",
+ "components": [
+  "components",
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "src/components/layout/AdminAccessButton.tsx",
+  "src/components/layout/PrimaryNav.tsx",
+  "src/contexts/AdminContext.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Settings.tsx",
+  "supabase/functions/admin-management/index.ts",
+  "supabase/migrations/20251214235146_4831db82-f30a-43ce-bee4-9519b7b2222e.sql",
+  "supabase/migrations/20251214235227_3f117ae9-bb05-49cd-a350-f27a654f4009.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 1,
+ "ms": 55301
+}

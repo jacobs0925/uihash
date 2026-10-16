@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "69f2d812f710ad3176703732fa89bb51e218f582",
+ "parent": "641d782006d41829756b6d9d185b3ed9447dc1da",
+ "date": "2025-12-04",
+ "subject": "Enable Decompose with Context or Text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/requirements/AIDecomposeDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 29028
+}

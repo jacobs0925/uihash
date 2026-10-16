@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "b56e6e070c526d508b47217bf55eacc3dc73957d",
+ "parent": "ce1a14aaced37b8bc790db0a59c74fa78115400b",
+ "date": "2025-12-17",
+ "subject": "Add user instructions to specs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40451
+}

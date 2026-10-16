@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "5d6a944dd36f33e8c8fccf8d5659b74f0ef16146",
+ "parent": "f569de6e84b46e5a4a6be5207ae385ad517039ac",
+ "date": "2025-12-12",
+ "subject": "Create unified DeploymentDialog",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/deploy/CreateDeploymentDialog.tsx",
+  "src/components/deploy/DeploymentCard.tsx",
+  "src/components/deploy/DeploymentConfigDialog.tsx",
+  "src/components/deploy/DeploymentDialog.tsx",
+  "src/components/deploy/EnvVarEditor.tsx",
+  "src/pages/project/Deploy.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39179
+}

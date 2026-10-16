@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "0bd5696494db463c84cf60e7a753ff2841d53c5b",
+ "parent": "e91ef6c3cc37986650ed6bf9e00adc31a6a97540",
+ "date": "2025-12-06",
+ "subject": "Remove share token for phase 7",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/dashboard/CreateProjectDialog.tsx",
+  "src/components/project/TokenManagement.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Dashboard.tsx",
+  "src/pages/project/ProjectSettings.tsx",
+  "supabase/migrations/20251206032252_766e93d7-094a-457a-9f5b-33986210db4f.sql",
+  "supabase/migrations/20251206032350_733995f0-5a8b-4dc1-8122-6b2c9473f5a0.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 38102
+}

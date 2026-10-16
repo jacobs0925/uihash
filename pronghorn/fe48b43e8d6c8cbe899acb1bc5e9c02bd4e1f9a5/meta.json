@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "fe48b43e8d6c8cbe899acb1bc5e9c02bd4e1f9a5",
+ "parent": "7fdc3001c8854b0f5f5bfb0f6bd1c79a01e925a3",
+ "date": "2025-12-08",
+ "subject": "Fix deploy UI and status sync",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentCard.tsx",
+  "src/pages/project/Deploy.tsx",
+  "supabase/functions/render-service/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35805
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7f41604b2a9ca56710185ede47f21d8f8a28b347",
+ "parent": "123c31c6a843d41a9ac95f4bd5172d8a80b681e0",
+ "date": "2025-12-03",
+ "subject": "Fix auto-save on blur switch",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27740
+}

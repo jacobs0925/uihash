@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "9fa8def2aa55fc4e10556a855934709810f211a8",
+ "parent": "35e9a785e53ce2242c90f64da76a0c4253960b16",
+ "date": "2025-12-03",
+ "subject": "Darken placeholder screen",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26820
+}

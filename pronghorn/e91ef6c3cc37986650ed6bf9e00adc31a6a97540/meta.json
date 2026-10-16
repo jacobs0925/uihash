@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "e91ef6c3cc37986650ed6bf9e00adc31a6a97540",
+ "parent": "a916e3c6476bd435c51137e07e2c3fc0bac0b0b2",
+ "date": "2025-12-06",
+ "subject": "Add token management migration",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/TokenManagement.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251206031430_ba34c05f-d060-47b2-827c-3b480a2073f5.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35105
+}

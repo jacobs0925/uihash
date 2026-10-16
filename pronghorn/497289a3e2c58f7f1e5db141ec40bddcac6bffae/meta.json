@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "497289a3e2c58f7f1e5db141ec40bddcac6bffae",
+ "parent": "8aa97d0fc9ced2277e56c71032e2803c51c93b40",
+ "date": "2025-12-08",
+ "subject": "Enable Google and Azure SSO",
+ "components": [
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 8,
+ "ms": 38316
+}

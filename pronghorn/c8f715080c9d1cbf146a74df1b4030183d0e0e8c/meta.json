@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "c8f715080c9d1cbf146a74df1b4030183d0e0e8c",
+ "parent": "c20d2b96011eb421eabd7827f6694f2f19b53661",
+ "date": "2025-12-02",
+ "subject": "Filter prime repo files only",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentFileTree.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26844
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "182ec4822de6da553f8e6d1609cc93b73ae325ac",
+ "parent": "51362ba171c25aede36c991ed727830bfa62cf37",
+ "date": "2025-12-12",
+ "subject": "Enhance database manage UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorerModal.tsx",
+  "src/components/deploy/SqlQueryEditor.tsx",
+  "supabase/functions/manage-database/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39781
+}

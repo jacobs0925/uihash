@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "d5b527d431e8fb1545b55d33965c4d3151a71a5a",
+ "parent": "5b4cbc27f5b4519624fe90acf00f3300fde3b2e5",
+ "date": "2025-12-03",
+ "subject": "Refactor landing page design",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/index.css",
+  "src/pages/Landing.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 71,
+ "ms": 108863
+}

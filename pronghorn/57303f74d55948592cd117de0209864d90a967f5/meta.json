@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "57303f74d55948592cd117de0209864d90a967f5",
+ "parent": "48eb2f209b16e3c83abb26c944002a24f6006941",
+ "date": "2025-12-08",
+ "subject": "Update deploy URLs to onrender",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Deploy.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35438
+}

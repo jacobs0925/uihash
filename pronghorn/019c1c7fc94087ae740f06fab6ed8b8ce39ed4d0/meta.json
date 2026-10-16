@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "019c1c7fc94087ae740f06fab6ed8b8ce39ed4d0",
+ "parent": "76ac2fa1301f78a1f141b0b912eacecff51af711",
+ "date": "2025-12-02",
+ "subject": "Display binary images in editor",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27098
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "0b964e007923a9e7a418b07ff4b8ff22bfb330ba",
+ "parent": "fc3f8fe4134747c372813b825932aacec9fef74b",
+ "date": "2025-12-18",
+ "subject": "Fix schema editor resets",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx",
+  "src/components/deploy/import/SchemaCreator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40784
+}

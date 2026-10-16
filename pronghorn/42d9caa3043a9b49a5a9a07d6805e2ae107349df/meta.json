@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "42d9caa3043a9b49a5a9a07d6805e2ae107349df",
+ "parent": "afeacd84d335d722c64cd7e8e7ff926b7efcd41b",
+ "date": "2025-12-03",
+ "subject": "Add debounce blur autosave",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 28705
+}

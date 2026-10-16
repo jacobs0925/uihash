@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ca946e4dc61280e0d416483290ed3617d329d233",
+ "parent": "ad00f75ad751e6456814fc7e4389082c2fbee6db",
+ "date": "2025-12-07",
+ "subject": "Wrap staged files in accordion",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35157
+}

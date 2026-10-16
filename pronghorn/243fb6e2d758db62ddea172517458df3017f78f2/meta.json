@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "243fb6e2d758db62ddea172517458df3017f78f2",
+ "parent": "497289a3e2c58f7f1e5db141ec40bddcac6bffae",
+ "date": "2025-12-08",
+ "subject": "Update project models",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/ProjectSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35258
+}

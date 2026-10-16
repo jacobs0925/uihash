@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "5c17f7c6ed10a3f42608ef433ab529e5578671db",
+ "parent": "225538f3aee3f41d223ccf586441d0f9e2f0f828",
+ "date": "2025-12-06",
+ "subject": "Add profile_linked_projects",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/dashboard/AddSharedProjectDialog.tsx",
+  "src/components/dashboard/LinkedProjectCard.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Dashboard.tsx",
+  "supabase/functions/expand-requirement/index.ts",
+  "supabase/migrations/20251206034245_6f5dec7e-54f3-4f13-a3b9-3bcc590e6d41.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 38279
+}

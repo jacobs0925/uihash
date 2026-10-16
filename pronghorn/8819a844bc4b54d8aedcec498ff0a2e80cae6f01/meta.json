@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "8819a844bc4b54d8aedcec498ff0a2e80cae6f01",
+ "parent": "d5d003a91459f1a0d03ff7a27ffc07be065d4fe1",
+ "date": "2025-12-10",
+ "subject": "Add alpha terms pages",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/Landing.tsx",
+  "src/pages/Privacy.tsx",
+  "src/pages/Terms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 12,
+ "ms": 61946
+}

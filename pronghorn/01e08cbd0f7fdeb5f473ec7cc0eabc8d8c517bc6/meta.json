@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "01e08cbd0f7fdeb5f473ec7cc0eabc8d8c517bc6",
+ "parent": "5ceeaea3f6736c448739d15b1e4ff73759bbe9b5",
+ "date": "2025-12-12",
+ "subject": "Reverted to commit 90f01a0dafe65fb97991696616eaf105387a93d0",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "src/components/deploy/SqlQueryEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39601
+}

@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "0f620a5e40b7620fcd3c3fec1c5d0ef6ab112aa6",
+ "date": "2025-12-10",
+ "pr": null,
+ "title": "Remove landing actions",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1019 later commits"
+}

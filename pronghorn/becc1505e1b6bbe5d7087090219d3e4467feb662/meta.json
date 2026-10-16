@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "becc1505e1b6bbe5d7087090219d3e4467feb662",
+ "parent": "7d6e2e312f19af1a4085350d4102997668a6bba6",
+ "date": "2025-12-07",
+ "subject": "Fix staged file layout wrap",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35674
+}

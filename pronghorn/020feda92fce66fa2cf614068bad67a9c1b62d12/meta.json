@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "020feda92fce66fa2cf614068bad67a9c1b62d12",
+ "parent": "2c9df354ea9287d8cbb3b7ffec16aa7c13794350",
+ "date": "2025-12-12",
+ "subject": "Add migrations framework",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "src/components/deploy/DatabaseSchemaTree.tsx",
+  "src/components/deploy/DatabaseTreeContextMenu.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/lib/sqlParser.ts",
+  "supabase/migrations/20251212230838_0dd12283-6216-4e5c-afe2-fb8f767ba3d0.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39738
+}

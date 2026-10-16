@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7f6e35d7eaa3b35c79d6af08ea04a4c575a57228",
+ "parent": "704986228478c49c3609b9302397ec26932cedb0",
+ "date": "2025-12-14",
+ "subject": "Add artifact title on save",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39784
+}

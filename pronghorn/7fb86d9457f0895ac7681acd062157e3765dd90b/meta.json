@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "7fb86d9457f0895ac7681acd062157e3765dd90b",
+ "parent": "61ed3cf99767f27994fa495999401ae0393c08f5",
+ "date": "2025-12-03",
+ "subject": "Reverted to commit 4054eb1c33655eccb427665803c69c03f031d6d3",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx",
+  "src/index.css",
+  "src/pages/Landing.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 42,
+ "ms": 49264
+}

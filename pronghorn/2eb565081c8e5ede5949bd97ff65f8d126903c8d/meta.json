@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "2eb565081c8e5ede5949bd97ff65f8d126903c8d",
+ "parent": "b56e6e070c526d508b47217bf55eacc3dc73957d",
+ "date": "2025-12-17",
+ "subject": "Add external DB support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/DatabaseSchemaSelector.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251217142804_b28eb214-80b6-48e5-afd6-cac492ce0a54.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40247
+}

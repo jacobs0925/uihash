@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "6462815b251d953a15276d569813b23de6778ff3",
+ "parent": "d80e2eb6e625bb284b4daad1f74bb68a5ac31fec",
+ "date": "2025-12-12",
+ "subject": "Refactor sql editor to use props",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/SqlQueryEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40092
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "272e82e8d07b5fed038dde691f0b046eb1e08c62",
+ "parent": "5d6a944dd36f33e8c8fccf8d5659b74f0ef16146",
+ "date": "2025-12-12",
+ "subject": "Add env vars support flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentDialog.tsx",
+  "src/components/deploy/EnvVarEditor.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/render-service/index.ts",
+  "supabase/migrations/20251212034413_87232c44-b08d-44d0-bb23-e4572c7caf93.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39548
+}

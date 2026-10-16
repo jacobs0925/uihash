@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "d145454f8d666dad6ef6606b07bc4fc1e6fe2d55",
+ "parent": "8afb5b466631fe813ef5705ae41caf9a4b447f30",
+ "date": "2025-12-04",
+ "subject": "Fix artifacts realtime access",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useRealtimeArtifacts.ts",
+  "src/hooks/useRealtimeChatSessions.ts",
+  "src/hooks/useRealtimeLayers.ts",
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35033
+}

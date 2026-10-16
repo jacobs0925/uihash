@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1e51f75caadee88280821356c918a8458522ecd2",
+ "parent": "9999e88ad2d1415be66a2599927483f190426a66",
+ "date": "2025-12-02",
+ "subject": "Fix loadFileStructure order",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Repository.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26776
+}

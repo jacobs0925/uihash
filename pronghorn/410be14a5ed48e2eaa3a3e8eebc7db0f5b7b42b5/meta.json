@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "410be14a5ed48e2eaa3a3e8eebc7db0f5b7b42b5",
+ "parent": "1e51f75caadee88280821356c918a8458522ecd2",
+ "date": "2025-12-02",
+ "subject": "Fix rename push duplication",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26924
+}

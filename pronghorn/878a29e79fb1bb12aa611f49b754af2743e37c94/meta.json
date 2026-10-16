@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "878a29e79fb1bb12aa611f49b754af2743e37c94",
+ "parent": "327cb70631110f5bdba58ccc01cae7ab86799d06",
+ "date": "2025-12-12",
+ "subject": "Update deployment configs and UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/data/deploymentSettings.json",
+  "src/components/deploy/DeploymentDialog.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/render-service/index.ts",
+  "supabase/migrations/20251212123818_d0ebd805-da87-4e49-85c7-c883f5e5b22e.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39420
+}

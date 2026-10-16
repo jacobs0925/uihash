@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "51362ba171c25aede36c991ed727830bfa62cf37",
+ "parent": "53b48e3a75e06e3b38ca884b3415ed0a774a3865",
+ "date": "2025-12-12",
+ "subject": "Move database to new page",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/deploy/DatabaseCard.tsx",
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/pages/project/Database.tsx",
+  "src/pages/project/Deploy.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40437
+}

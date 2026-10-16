@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c17a059415f014601006aba8516b416026f90d11",
+ "parent": "94920cc7ee260fdb379295d059e8b51fe5a39146",
+ "date": "2025-12-04",
+ "subject": "Add copy/paste fixes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactExcelViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 34554
+}

@@ -1,0 +1,28 @@
+{
+ "repo": "pronghorn",
+ "sha": "36c44276aa5d2132f3fbb106ae29fd2e3b9cd26b",
+ "parent": "dbb92c33c1c4c7784830cb2000512f64996e1f98",
+ "date": "2025-12-14",
+ "subject": "Reverted to commit 7f6e35d7eaa3b35c79d6af08ea04a4c575a57228",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/data/codingAgentInstructions.json",
+  "src/components/build/AgentChatViewer.tsx",
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/components/repository/CodeEditor.tsx",
+  "src/hooks/useFileBuffer.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/coding-agent-orchestrator/index.ts",
+  "supabase/migrations/20251214031954_42811924-d4c2-4174-86ed-44a34acc281d.sql",
+  "supabase/migrations/20251214032505_395e45a4-c671-45cc-b832-7e094d28b79f.sql",
+  "supabase/migrations/20251214033847_6f537b6d-4702-4909-80c8-d684a24f4153.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39821
+}

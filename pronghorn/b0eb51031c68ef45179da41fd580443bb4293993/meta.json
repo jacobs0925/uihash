@@ -1,0 +1,33 @@
+{
+ "repo": "pronghorn",
+ "sha": "b0eb51031c68ef45179da41fd580443bb4293993",
+ "parent": "12079333c3992bcd8cd7698d3c0a0eba1005faf1",
+ "date": "2025-12-05",
+ "subject": "Update token cache usage",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/CommitHistory.tsx",
+  "src/components/build/StagingPanel.tsx",
+  "src/components/repository/CodeEditor.tsx",
+  "src/components/repository/CommitLog.tsx",
+  "src/components/repository/RepoCard.tsx",
+  "src/components/requirements/LinkStandardsDialog.tsx",
+  "src/components/requirements/RequirementStandardsBadges.tsx",
+  "src/components/requirements/RequirementsTree.tsx",
+  "src/components/standards/TechStackSelector.tsx",
+  "src/hooks/useRealtimeRepos.ts",
+  "src/pages/project/Build.tsx",
+  "src/pages/project/Repository.tsx",
+  "src/pages/project/Requirements.tsx",
+  "src/pages/project/Standards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35066
+}

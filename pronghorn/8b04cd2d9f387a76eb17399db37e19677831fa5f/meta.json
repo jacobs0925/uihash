@@ -1,0 +1,30 @@
+{
+ "repo": "pronghorn",
+ "sha": "8b04cd2d9f387a76eb17399db37e19677831fa5f",
+ "parent": "a530abaa724b22c18fe30883a1720e52546cd3f0",
+ "date": "2025-12-04",
+ "subject": "Refactor Add Artifact modal 90vw",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/components/artifacts/ArtifactDocxPlaceholder.tsx",
+  "src/components/artifacts/ArtifactExcelViewer.tsx",
+  "src/components/artifacts/ArtifactImageGallery.tsx",
+  "src/components/artifacts/ArtifactPdfPlaceholder.tsx",
+  "src/components/artifacts/ArtifactPptxPlaceholder.tsx",
+  "src/components/artifacts/ArtifactTextFileList.tsx",
+  "src/pages/project/Artifacts.tsx",
+  "src/utils/parseExcel.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 33478
+}

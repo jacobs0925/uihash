@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c3811cc12bbc89a96e9320550f315cffcc55ee61",
+ "parent": "d9d199dcbfcb4204f296f72ee5a86630ecc46bc1",
+ "date": "2025-12-03",
+ "subject": "Add markdown preview toggle",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27486
+}

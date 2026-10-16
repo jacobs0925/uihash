@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "60afca0a404438e2a8090d444f7c8b8bd239815d",
+ "parent": "b2dcf7b9033a4223dc195eb36389d380c98aa361",
+ "date": "2025-12-14",
+ "subject": "Guard parse guardrails",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39737
+}

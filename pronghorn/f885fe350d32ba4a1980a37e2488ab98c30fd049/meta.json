@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "f885fe350d32ba4a1980a37e2488ab98c30fd049",
+ "parent": "036c76e337c505e4639344bf6942e996ffacf3b4",
+ "date": "2025-12-14",
+ "subject": "Fix emails and add scroll top",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/ScrollToTop.tsx",
+  "src/pages/License.tsx",
+  "src/pages/Privacy.tsx",
+  "src/pages/Terms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 2,
+ "ms": 58586
+}

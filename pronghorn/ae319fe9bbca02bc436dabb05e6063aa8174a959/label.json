@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "ae319fe9bbca02bc436dabb05e6063aa8174a959",
+ "date": "2025-12-03",
+ "pr": null,
+ "title": "Refactor landing features",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 7fb86d94, which restored 4054eb1c (15 commits discarded)"
+}

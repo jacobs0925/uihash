@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "b492eadff5f720ad8116ed6e706d21c66fa17331",
+ "parent": "0b964e007923a9e7a418b07ff4b8ff22bfb330ba",
+ "date": "2025-12-19",
+ "subject": "Fix schema import resets",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx",
+  "src/utils/sqlGenerator.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40855
+}

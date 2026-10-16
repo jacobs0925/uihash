@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "d2f59e29a2b1671f37016577344d34d95341d32d",
+ "parent": "aa7b15a4aa7f1b85b66e2cd0fb45305f639fe0a4",
+ "date": "2025-12-06",
+ "subject": "Remove p_github_repo references",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/ProjectSettings.tsx",
+  "supabase/migrations/20251206145741_c2ac020d-e305-4e93-8bca-b5852d8b3738.sql",
+  "supabase/migrations/20251206145858_cedef324-d2fc-493d-aa0e-e8ef4084e2bd.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35589
+}

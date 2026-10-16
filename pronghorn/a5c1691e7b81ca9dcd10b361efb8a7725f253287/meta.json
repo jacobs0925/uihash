@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "a5c1691e7b81ca9dcd10b361efb8a7725f253287",
+ "parent": "b94518c03232ce37a577b571baa57a1d064a87c3",
+ "date": "2025-12-06",
+ "subject": "Redirect to settings on create",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/dashboard/AnonymousProjectWarning.tsx",
+  "src/components/dashboard/EnhancedCreateProjectDialog.tsx",
+  "src/components/techstack/TechStackTreeSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35095
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "b9916b9ac692e51bb622012809c76b1b7c9838e6",
+ "parent": "4c325179866ec0490d23422b77e953aac69e66cc",
+ "date": "2025-12-07",
+ "subject": "Fix race in real-time handler",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35191
+}

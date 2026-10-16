@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "5ee56e030b1b7666c9bf77e1e50eaa393b176f6c",
+ "parent": "77adbd18adb6e131ef5afb2d5fd9e42c1c24f980",
+ "date": "2025-12-06",
+ "subject": "Enable owner token delete support",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/dashboard/DeleteProjectDialog.tsx",
+  "src/pages/project/ProjectSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35043
+}

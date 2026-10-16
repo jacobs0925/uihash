@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "a6bd7300ddbf31f2e5b71143d8eaa3b5de5e19c2",
+ "parent": "f0761549ec7b50eb63a784950bb70c0f08795887",
+ "date": "2025-12-12",
+ "subject": "Fix sql editor deselect on type",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/SqlQueryEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39771
+}

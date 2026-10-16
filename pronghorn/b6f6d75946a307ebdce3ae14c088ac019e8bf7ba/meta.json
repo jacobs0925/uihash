@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "b6f6d75946a307ebdce3ae14c088ac019e8bf7ba",
+ "parent": "97493e2d8bd2478552b63ea1deabb71aa82e3c9f",
+ "date": "2025-12-04",
+ "subject": "Fix chat user text color",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 29327
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "626822a3395b20a78ff1854c56d0c5b04640a8fe",
+ "parent": "57303f74d55948592cd117de0209864d90a967f5",
+ "date": "2025-12-08",
+ "subject": "Update to Render.com label",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/CreateDeploymentDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35126
+}

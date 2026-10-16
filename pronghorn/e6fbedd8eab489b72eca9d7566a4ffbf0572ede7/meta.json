@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "e6fbedd8eab489b72eca9d7566a4ffbf0572ede7",
+ "parent": "668573603d35a014826e8d96d3d4c681cfffac5a",
+ "date": "2025-12-06",
+ "subject": "Phase 4: use staging for builds",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35220
+}

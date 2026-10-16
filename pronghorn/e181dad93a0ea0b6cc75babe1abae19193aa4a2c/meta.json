@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "e181dad93a0ea0b6cc75babe1abae19193aa4a2c",
+ "parent": "63cc1f511e7e9e367d2a52a3d77cb98a746cf630",
+ "date": "2025-12-14",
+ "subject": "Fix table UI and prune results",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/RawLLMLogsViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40677
+}

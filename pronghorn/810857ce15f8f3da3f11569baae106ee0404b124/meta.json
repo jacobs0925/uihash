@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "810857ce15f8f3da3f11569baae106ee0404b124",
+ "parent": "182ec4822de6da553f8e6d1609cc93b73ae325ac",
+ "date": "2025-12-12",
+ "subject": "Fix explorer UI issues",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorerModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39443
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "943f111fae63d65039747d83c68b2c4098d6d8d2",
+ "parent": "00ff4bd0b45af434b2e8a9ae322574b2733c759d",
+ "date": "2025-12-14",
+ "subject": "Refactor RPC to metadata only",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx",
+  "src/hooks/useFileBuffer.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251214023956_aea5dc57-543b-4452-9e62-f8fc88a83a08.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40553
+}

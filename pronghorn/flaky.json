@@ -1,1 +1,8 @@
-[]
+[
+ "home|default||same-data|svg (same data, drawn differently)|added: svg",
+ "home|default||same-data|svg (same data, drawn differently)|removed: svg",
+ "home|focus||same-data|svg (same data, drawn differently)|added: svg",
+ "home|focus||same-data|svg (same data, drawn differently)|removed: svg",
+ "home|hover||same-data|svg (same data, drawn differently)|added: svg",
+ "home|hover||same-data|svg (same data, drawn differently)|removed: svg"
+]

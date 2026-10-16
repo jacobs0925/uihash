@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "cb90e5f1088daae009a5935d2fa8ccb6ee5005e7",
+ "parent": "a5c1691e7b81ca9dcd10b361efb8a7725f253287",
+ "date": "2025-12-06",
+ "subject": "Fix save standards tech stacks",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/dashboard/EnhancedCreateProjectDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 34887
+}

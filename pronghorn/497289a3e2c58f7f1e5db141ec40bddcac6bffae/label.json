@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "497289a3e2c58f7f1e5db141ec40bddcac6bffae",
+ "date": "2025-12-08",
+ "pr": null,
+ "title": "Enable Google and Azure SSO",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1053 later commits"
+}

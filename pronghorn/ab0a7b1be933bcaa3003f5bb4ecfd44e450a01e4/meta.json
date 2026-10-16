@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ab0a7b1be933bcaa3003f5bb4ecfd44e450a01e4",
+ "parent": "6462815b251d953a15276d569813b23de6778ff3",
+ "date": "2025-12-12",
+ "subject": "Fix SqlQueryEditor focus",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/SqlQueryEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39652
+}

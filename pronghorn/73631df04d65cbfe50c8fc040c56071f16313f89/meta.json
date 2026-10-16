@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "73631df04d65cbfe50c8fc040c56071f16313f89",
+ "parent": "f3571199a06d36283ff4902be35fb357048226d5",
+ "date": "2025-12-19",
+ "subject": "Wait for token before fetch",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/project/ProjectActivityHeatmap.tsx",
+  "src/pages/project/ProjectSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41215
+}

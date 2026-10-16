@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "e943fb6702ebac4cee2421225484f36443b44c6c",
+ "parent": "dc9501256a46fa5b74173cc62266a0ebb5ed66a5",
+ "date": "2025-12-03",
+ "subject": "Restore floating animation and remove video",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 91572
+}

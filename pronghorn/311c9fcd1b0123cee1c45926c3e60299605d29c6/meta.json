@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "311c9fcd1b0123cee1c45926c3e60299605d29c6",
+ "parent": "272e82e8d07b5fed038dde691f0b046eb1e08c62",
+ "date": "2025-12-12",
+ "subject": "Enhance render service sync",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentDialog.tsx",
+  "supabase/functions/render-service/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39321
+}

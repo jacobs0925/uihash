@@ -1,0 +1,27 @@
+{
+ "repo": "pronghorn",
+ "sha": "286f9cc79c3aa974680e37180c46a0ddf4174ef1",
+ "parent": "cf3e4b3fa288041b717ec822b10e50162fa7ea4b",
+ "date": "2025-12-17",
+ "subject": "Add external DB connect",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/deploy/ConnectDatabaseDialog.tsx",
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "src/components/deploy/ExternalDatabaseCard.tsx",
+  "src/hooks/useRealtimeExternalDatabases.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Database.tsx",
+  "supabase/functions/manage-database/index.ts",
+  "supabase/migrations/20251217130859_9ce5cc76-3437-4a60-b73f-f2a3171ee254.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40365
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "1b365113db447b8cadbba8ff01b72894d794b637",
+ "parent": "42e5c77c10bc7f819947b3a55cb9d53e710ac4d2",
+ "date": "2025-12-07",
+ "subject": "Constrain StagingPanel width",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35190
+}

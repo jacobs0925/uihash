@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "969c22702d50a429f09765b106e63a6b6aa12ae3",
+ "date": "2025-12-10",
+ "pr": null,
+ "title": "Add MIT license page and link",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1024 later commits"
+}

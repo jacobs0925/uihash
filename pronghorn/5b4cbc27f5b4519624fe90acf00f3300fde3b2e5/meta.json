@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "5b4cbc27f5b4519624fe90acf00f3300fde3b2e5",
+ "parent": "8a9cf319939981d498de2500ee80353b36773579",
+ "date": "2025-12-03",
+ "subject": "Add auto‑save on file switch",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27209
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "be285833457caa7f20fe73a1785bc5ede56c9d59",
+ "parent": "c09e5830ca7d3c85369924e5fa5da560d2e65942",
+ "date": "2025-12-12",
+ "subject": "Enable free plan for DB and 18",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseDialog.tsx",
+  "supabase/functions/render-database/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39302
+}

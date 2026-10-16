@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "85d9a3edeb6e2f8d1edbf1e20df99453b0fd1bff",
+ "parent": "47749a3bf11571c3e0f914d6bfca40e126dbbb06",
+ "date": "2025-12-05",
+ "subject": "Add files to projectContext",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35179
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "1b2ee5dcf67cb8e3a94bd80041089c59b3c83b7c",
+ "parent": "1afd3a35af4a580d5b54e14ba1d72e6c6634f3bc",
+ "date": "2025-12-05",
+ "subject": "Improve AddArtifactModal UX",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/components/artifacts/CompactDropZone.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 34887
+}

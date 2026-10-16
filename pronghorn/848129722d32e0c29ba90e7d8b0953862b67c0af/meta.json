@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "848129722d32e0c29ba90e7d8b0953862b67c0af",
+ "parent": "b9916b9ac692e51bb622012809c76b1b7c9838e6",
+ "date": "2025-12-07",
+ "subject": "Add editor version counter",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useFileBuffer.ts",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35489
+}

@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "7e6e277815f09163da60c27c3fb3c4f037f50b04",
+ "parent": "af70c0f5f0739ee4a9efb24e8124d5355bd04ea5",
+ "date": "2025-12-05",
+ "subject": "Fix url token handling",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/dashboard/CreateProjectDialog.tsx",
+  "src/components/dashboard/EnhancedCreateProjectDialog.tsx",
+  "src/hooks/useProjectUrl.ts",
+  "src/hooks/useRealtimeArtifacts.ts",
+  "src/hooks/useRealtimeCanvas.ts",
+  "src/hooks/useRealtimeLayers.ts",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37953
+}

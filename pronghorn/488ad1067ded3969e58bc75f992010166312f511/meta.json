@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "488ad1067ded3969e58bc75f992010166312f511",
+ "parent": "4054eb1c33655eccb427665803c69c03f031d6d3",
+ "date": "2025-12-03",
+ "subject": "Auto-save on switch",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27119
+}

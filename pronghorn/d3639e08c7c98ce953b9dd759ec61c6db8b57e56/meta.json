@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "d3639e08c7c98ce953b9dd759ec61c6db8b57e56",
+ "parent": "d7c2056d5ddeaff4b8d6e8202126a7765dfbd961",
+ "date": "2025-12-07",
+ "subject": "Reverted to commit e3e0fb104d34780a49294bec359fa5a74610f4bb",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useFileBuffer.ts",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35862
+}

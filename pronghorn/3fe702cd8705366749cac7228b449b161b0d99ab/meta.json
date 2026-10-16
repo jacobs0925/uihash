@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3fe702cd8705366749cac7228b449b161b0d99ab",
+ "parent": "810857ce15f8f3da3f11569baae106ee0404b124",
+ "date": "2025-12-12",
+ "subject": "Fix mobile db link visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/layout/ProjectSidebar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39321
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "d92f7a37187e5419b046bc2322b03fa687dd1da6",
+ "parent": "3f9dc7bf12418ec63bc88484bfd1a5721a16494d",
+ "date": "2025-12-10",
+ "subject": "Auto update token URL",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/lib/authHeader.ts",
+  "src/pages/project/Artifacts.tsx",
+  "src/pages/project/Chat.tsx",
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35302
+}

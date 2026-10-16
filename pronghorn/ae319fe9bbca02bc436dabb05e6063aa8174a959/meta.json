@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ae319fe9bbca02bc436dabb05e6063aa8174a959",
+ "parent": "e943fb6702ebac4cee2421225484f36443b44c6c",
+ "date": "2025-12-03",
+ "subject": "Refactor landing features",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 26,
+ "ms": 53289
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "61ed3cf99767f27994fa495999401ae0393c08f5",
+ "parent": "42d9caa3043a9b49a5a9a07d6805e2ae107349df",
+ "date": "2025-12-03",
+ "subject": "Improve blur auto-save safety",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 28841
+}

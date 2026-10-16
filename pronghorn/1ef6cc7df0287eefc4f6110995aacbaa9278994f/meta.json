@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1ef6cc7df0287eefc4f6110995aacbaa9278994f",
+ "parent": "82871a20a0e74e72d29f8ed49b864a986649911a",
+ "date": "2025-12-07",
+ "subject": "Fix staged file loading",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35107
+}

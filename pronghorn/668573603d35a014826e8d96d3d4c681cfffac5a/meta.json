@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "668573603d35a014826e8d96d3d4c681cfffac5a",
+ "parent": "d3a8d0c2995bf99e34b0eed414e35a8702ca1a30",
+ "date": "2025-12-06",
+ "subject": "Consolidate messages phase 3",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/hooks/useInfiniteAgentMessages.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251206144422_b49e370a-e41c-4b69-b055-1ecc78597880.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35608
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3e900259408277da20a1555e2e74426741100344",
+ "parent": "cb90e5f1088daae009a5935d2fa8ccb6ee5005e7",
+ "date": "2025-12-06",
+ "subject": "Make Tabs scrollable on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/dashboard/EnhancedCreateProjectDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35074
+}

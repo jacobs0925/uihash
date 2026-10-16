@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "3ec5b82caeb6309fabbfae76755b047204c90317",
+ "parent": "019c1c7fc94087ae740f06fab6ed8b8ce39ed4d0",
+ "date": "2025-12-02",
+ "subject": "Add file upload in Build editor",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27109
+}

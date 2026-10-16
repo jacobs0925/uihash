@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "741666ec4175d16fa045a3c9d866aea175830d31",
+ "parent": "0f620a5e40b7620fcd3c3fec1c5d0ef6ab112aa6",
+ "date": "2025-12-12",
+ "subject": "Add EnvVarEditor and deploy plan",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/CreateDeploymentDialog.tsx",
+  "src/components/deploy/DeploymentCard.tsx",
+  "src/components/deploy/DeploymentConfigDialog.tsx",
+  "src/components/deploy/DeploymentLogsDialog.tsx",
+  "src/components/deploy/EnvVarEditor.tsx",
+  "supabase/functions/render-service/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39736
+}

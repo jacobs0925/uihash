@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "3abd39c2d0f934156939349530680d47440b0922",
+ "parent": "bb198a973a5568cc9ddea718afff888ff8b7e1db",
+ "date": "2025-12-14",
+ "subject": "Add raw LLM logs support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/RawLLMLogsViewer.tsx",
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/coding-agent-orchestrator/index.ts",
+  "supabase/migrations/20251214162115_6729d3fb-49ea-459f-a3e3-cf3c6ea9adb7.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40523
+}

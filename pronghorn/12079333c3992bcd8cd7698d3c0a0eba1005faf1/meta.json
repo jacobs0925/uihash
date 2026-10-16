@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "12079333c3992bcd8cd7698d3c0a0eba1005faf1",
+ "parent": "3ae75b0403f40200d74dbbf8aeaea30bc0320083",
+ "date": "2025-12-05",
+ "subject": "Eliminate token race",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useRealtimeCanvas.ts",
+  "src/hooks/useShareToken.ts",
+  "src/lib/tokenCache.ts",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35181
+}

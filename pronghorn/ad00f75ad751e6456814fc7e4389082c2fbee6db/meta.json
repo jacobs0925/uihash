@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ad00f75ad751e6456814fc7e4389082c2fbee6db",
+ "parent": "becc1505e1b6bbe5d7087090219d3e4467feb662",
+ "date": "2025-12-07",
+ "subject": "Remove staging header labels",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35251
+}

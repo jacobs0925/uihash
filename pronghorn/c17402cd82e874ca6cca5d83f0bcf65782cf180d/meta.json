@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c17402cd82e874ca6cca5d83f0bcf65782cf180d",
+ "parent": "e181dad93a0ea0b6cc75babe1abae19193aa4a2c",
+ "date": "2025-12-14",
+ "subject": "Make headers auto width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/RawLLMLogsViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40286
+}

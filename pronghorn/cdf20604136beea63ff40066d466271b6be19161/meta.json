@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "cdf20604136beea63ff40066d466271b6be19161",
+ "parent": "da6e215eb134eb38cf5a21b083ca89695d99934f",
+ "date": "2025-12-14",
+ "subject": "Enhance local runner",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentCard.tsx",
+  "supabase/functions/generate-local-package/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40289
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "b13e104fbe01421ad6eb6a258b3191253eb8f0c2",
+ "parent": "d3639e08c7c98ce953b9dd759ec61c6db8b57e56",
+ "date": "2025-12-07",
+ "subject": "Responsive input area wrap",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35429
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "0f620a5e40b7620fcd3c3fec1c5d0ef6ab112aa6",
+ "parent": "ff5a0b5605a28defaefe08660356b140ef04d20b",
+ "date": "2025-12-10",
+ "subject": "Remove landing actions",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 77609
+}

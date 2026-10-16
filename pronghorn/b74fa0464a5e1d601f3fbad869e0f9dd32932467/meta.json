@@ -1,0 +1,28 @@
+{
+ "repo": "pronghorn",
+ "sha": "b74fa0464a5e1d601f3fbad869e0f9dd32932467",
+ "parent": "4e19e0493619f09de04de8d0f3323561fbeebb8b",
+ "date": "2025-12-17",
+ "subject": "Add real-time for project pages",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/project/TokenManagement.tsx",
+  "src/hooks/useRealtimeDatabases.ts",
+  "src/hooks/useRealtimeDeployments.ts",
+  "src/hooks/useRealtimeProject.ts",
+  "src/hooks/useRealtimeSpecifications.ts",
+  "src/pages/project/Database.tsx",
+  "src/pages/project/Deploy.tsx",
+  "src/pages/project/ProjectSettings.tsx",
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40867
+}

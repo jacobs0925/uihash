@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "5ceeaea3f6736c448739d15b1e4ff73759bbe9b5",
+ "parent": "aab7461e76c6fb7dd5aba4c061cc6e5952fb71fd",
+ "date": "2025-12-12",
+ "subject": "Make editor remount on load",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "src/components/deploy/SqlQueryEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40085
+}

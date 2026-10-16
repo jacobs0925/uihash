@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "068880dfc9821e0e3ce407fa3abe69f165c9591c",
+ "parent": "751d0ee0981bc198b2066da5196be42e3afac58a",
+ "date": "2025-12-08",
+ "subject": "Add render-service edge function",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentCard.tsx",
+  "supabase/config.toml",
+  "supabase/functions/render-service/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35313
+}

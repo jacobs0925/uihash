@@ -1,0 +1,27 @@
+{
+ "repo": "pronghorn",
+ "sha": "1afd3a35af4a580d5b54e14ba1d72e6c6634f3bc",
+ "parent": "1bde44252f4d6c02bec7cbc03cea558d242311d5",
+ "date": "2025-12-04",
+ "subject": "Compact drop zones and UX scroll",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactDocxPlaceholder.tsx",
+  "src/components/artifacts/ArtifactExcelViewer.tsx",
+  "src/components/artifacts/ArtifactImageGallery.tsx",
+  "src/components/artifacts/ArtifactPdfPlaceholder.tsx",
+  "src/components/artifacts/ArtifactPptxPlaceholder.tsx",
+  "src/components/artifacts/ArtifactTextFileList.tsx",
+  "src/components/artifacts/ArtifactUniversalUpload.tsx",
+  "src/components/artifacts/CompactDropZone.tsx",
+  "src/hooks/useRealtimeArtifacts.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35168
+}

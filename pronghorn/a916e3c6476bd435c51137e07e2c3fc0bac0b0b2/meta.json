@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "a916e3c6476bd435c51137e07e2c3fc0bac0b0b2",
+ "parent": "f94f930d4f27a25be511d02d5fb9e5dc99802dcb",
+ "date": "2025-12-06",
+ "subject": "Add token management UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/project/TokenManagement.tsx",
+  "src/pages/project/ProjectSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35324
+}

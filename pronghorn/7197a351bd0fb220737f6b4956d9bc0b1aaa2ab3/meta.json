@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7197a351bd0fb220737f6b4956d9bc0b1aaa2ab3",
+ "parent": "e80a03fa74d7034ae8bf2c11d94168be3afb4258",
+ "date": "2025-12-10",
+ "subject": "Trim MIT-Style waiver text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Terms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 43159
+}

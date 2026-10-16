@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "68e9463727b12148ed49cf0197b1788b73b3a262",
+ "parent": "a6bd7300ddbf31f2e5b71143d8eaa3b5de5e19c2",
+ "date": "2025-12-12",
+ "subject": "Fix Ctrl+Enter execute hook",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/SqlQueryEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40062
+}

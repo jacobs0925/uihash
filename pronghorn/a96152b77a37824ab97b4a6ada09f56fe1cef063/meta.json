@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "a96152b77a37824ab97b4a6ada09f56fe1cef063",
+ "parent": "e60b9ab01bddbe78d224fa5fdc42654013dcc747",
+ "date": "2025-12-03",
+ "subject": "Hide Compliant box on mobile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 137120
+}

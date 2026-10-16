@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "17cd179c46e251434d08a9ffe2964fc6030ffa6a",
+ "parent": "8f6e8e05dd69372472e5ad2a9fa04636b1cd9c8a",
+ "date": "2025-12-18",
+ "subject": "Enhance import wizard UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx",
+  "src/components/deploy/import/ExcelDataGrid.tsx",
+  "src/components/deploy/import/FieldMapper.tsx",
+  "src/components/deploy/import/ImportProgressTracker.tsx",
+  "src/components/deploy/import/JsonDataViewer.tsx",
+  "src/components/deploy/import/SchemaCreator.tsx",
+  "src/components/deploy/import/SqlReviewPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40869
+}

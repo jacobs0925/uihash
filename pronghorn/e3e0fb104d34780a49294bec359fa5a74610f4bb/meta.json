@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "e3e0fb104d34780a49294bec359fa5a74610f4bb",
+ "parent": "1ef6cc7df0287eefc4f6110995aacbaa9278994f",
+ "date": "2025-12-07",
+ "subject": "Add forceReload to switchFile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useFileBuffer.ts",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35169
+}

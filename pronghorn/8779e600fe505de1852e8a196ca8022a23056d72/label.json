@@ -5,8 +5,8 @@
  "date": "2025-11-18",
  "pr": null,
  "title": "Improve mobile responsiveness",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1722 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-right: 0px → 16px undone by 95c8d4bc \"Reintegrate Landing.tsx changes\"; padding-right: 0px → 16px undone by 95c8d4bc \"Reintegrate Landing.tsx changes\"; padding-right: 0px → 16px undone by 95c8d4bc \"Reintegrate Landing.tsx changes\""
 }

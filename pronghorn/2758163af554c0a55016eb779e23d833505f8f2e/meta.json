@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "2758163af554c0a55016eb779e23d833505f8f2e",
+ "parent": "535c4516ef8bfec6a3ab7cba9aec196efd4d7793",
+ "date": "2025-12-04",
+ "subject": "Make ProjectSelector fullscreen",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/components/canvas/AIArchitectDialog.tsx",
+  "src/components/canvas/InfographicDialog.tsx",
+  "src/components/canvas/IterativeEnhancement.tsx",
+  "src/components/project/ProjectSelector.tsx",
+  "src/pages/project/Chat.tsx",
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 29050
+}

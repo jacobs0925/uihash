@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "dc9501256a46fa5b74173cc62266a0ebb5ed66a5",
+ "parent": "a96152b77a37824ab97b4a6ada09f56fe1cef063",
+ "date": "2025-12-03",
+ "subject": "Remove landing animation",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 10,
+ "ms": 137392
+}

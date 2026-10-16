@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "8b28a3c4b3ab472c015d5c7cd587ec86799b73b5",
+ "parent": "660029f22ed98dd0a68ed968617fd8d8c1e02606",
+ "date": "2025-12-12",
+ "subject": "Set Static Web App default",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39778
+}

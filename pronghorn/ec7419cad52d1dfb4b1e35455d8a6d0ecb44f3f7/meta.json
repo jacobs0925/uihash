@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "ec7419cad52d1dfb4b1e35455d8a6d0ecb44f3f7",
+ "parent": "0939bc92b1fcc93bdb998bce16a9ac8ac971127c",
+ "date": "2025-12-13",
+ "subject": "Enhance table structure data",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/ProjectSelector.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts",
+  "supabase/functions/manage-database/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40071
+}

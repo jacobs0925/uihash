@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "49715618f424f10ff7045beb265ecfb47827843b",
+ "parent": "6e4f809bb0e2078e1aa4f6b008764a9b13eaf132",
+ "date": "2025-12-14",
+ "subject": "Add alpha badge link on landing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 47781
+}

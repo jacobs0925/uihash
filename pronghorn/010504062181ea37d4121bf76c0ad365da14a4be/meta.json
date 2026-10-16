@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "010504062181ea37d4121bf76c0ad365da14a4be",
+ "parent": "3abd39c2d0f934156939349530680d47440b0922",
+ "date": "2025-12-14",
+ "subject": "Fix show logs issue",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/RawLLMLogsViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40075
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "8ab6297956a65f503169f45cd99d8abcc5da6e99",
+ "parent": "d14e5a3e1f8cb58a368db03abcb684c860f5a84c",
+ "date": "2025-12-03",
+ "subject": "Force refetch on dashboard mount",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 29182
+}

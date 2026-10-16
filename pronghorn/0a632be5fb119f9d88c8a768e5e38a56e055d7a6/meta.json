@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "0a632be5fb119f9d88c8a768e5e38a56e055d7a6",
+ "parent": "c47a3f3700828777eaab87100b61dc8c363d87f4",
+ "date": "2025-12-14",
+ "subject": "Show raw_output in Build stream",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39681
+}

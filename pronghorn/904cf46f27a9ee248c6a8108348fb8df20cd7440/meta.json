@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "904cf46f27a9ee248c6a8108348fb8df20cd7440",
+ "parent": "6075312bc1549b7645dbeddfc0d15d187ae5e9a9",
+ "date": "2025-12-17",
+ "subject": "Fix heatmap date range",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/ProjectActivityHeatmap.tsx",
+  "supabase/functions/project-activity/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40652
+}

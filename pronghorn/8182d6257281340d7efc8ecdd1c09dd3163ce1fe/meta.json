@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "8182d6257281340d7efc8ecdd1c09dd3163ce1fe",
+ "parent": "ef9e64545eb06fa140836749e09f82fd8f83f612",
+ "date": "2025-12-07",
+ "subject": "Rework staging tabs layout",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 34948
+}

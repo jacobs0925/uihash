@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "a85a801275308bf5c5b9783cfcbfbc11cb5187f5",
+ "parent": "8f08ede5fc0f42b22edca2bc9773606b009162db",
+ "date": "2025-12-19",
+ "subject": "Fix mobile table scrolling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/QueryResultsViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40658
+}

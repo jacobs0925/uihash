@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "8c37136ec39fc0e44629f72aec746a407e4221dd",
+ "parent": "bc39f56f8c3cd1f530164dfe6c7d88a829063e75",
+ "date": "2025-12-07",
+ "subject": "Make AutoOrder dynamic",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35430
+}

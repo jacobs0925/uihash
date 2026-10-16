@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "8a9cf319939981d498de2500ee80353b36773579",
+ "parent": "d6dc1f2d3cbe27be596f473903ba55a23d9c399f",
+ "date": "2025-12-03",
+ "subject": "Add dirty tracking for auto-save",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27478
+}

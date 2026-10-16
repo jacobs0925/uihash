@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3f9dc7bf12418ec63bc88484bfd1a5721a16494d",
+ "parent": "f934d4923dbf0c2806b9b4b17ddf43e3573efe74",
+ "date": "2025-12-10",
+ "subject": "Auto update token URL",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/ProjectSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35681
+}

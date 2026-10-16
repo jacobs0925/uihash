@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ad5fbdcd7125e35623d21618fe7945e7257881ee",
+ "parent": "ca946e4dc61280e0d416483290ed3617d329d233",
+ "date": "2025-12-07",
+ "subject": "Fix chat auto-scroll",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35231
+}

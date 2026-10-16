@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "46430d91f986ccc6727e1859b9f2888d3963be09",
+ "parent": "b13e104fbe01421ad6eb6a258b3191253eb8f0c2",
+ "date": "2025-12-07",
+ "subject": "Stack buttons above textarea",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35068
+}

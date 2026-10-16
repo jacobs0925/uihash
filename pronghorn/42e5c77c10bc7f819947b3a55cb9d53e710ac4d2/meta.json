@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "42e5c77c10bc7f819947b3a55cb9d53e710ac4d2",
+ "parent": "0d787adbf7606dde0a7dcef41aa3dfa066300a59",
+ "date": "2025-12-07",
+ "subject": "Reorder UnifiedAgent buttons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35413
+}

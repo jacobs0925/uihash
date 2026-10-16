@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "cc93314e1642047cfd65c2937d8ca972390fa1a5",
+ "parent": "3562e35367eee48cfe7229cbdb00766ee5ed6750",
+ "date": "2025-12-12",
+ "subject": "Fix sql editor keystroke reset",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/SqlQueryEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39960
+}

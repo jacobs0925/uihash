@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "6e4f809bb0e2078e1aa4f6b008764a9b13eaf132",
+ "parent": "f885fe350d32ba4a1980a37e2488ab98c30fd049",
+ "date": "2025-12-14",
+ "subject": "Add alpha notice and footer link",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Privacy.tsx",
+  "src/pages/Terms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 52624
+}

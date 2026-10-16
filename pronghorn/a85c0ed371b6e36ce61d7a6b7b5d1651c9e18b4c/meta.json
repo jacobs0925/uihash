@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "a85c0ed371b6e36ce61d7a6b7b5d1651c9e18b4c",
+ "parent": "bacbfe8a729956fed5574f2b28462f662dfee0c9",
+ "date": "2025-12-03",
+ "subject": "Pass binary flag to Build upload",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27323
+}

@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "3491c9b790c57491ead543bacfb57ceef341dd82",
+ "parent": "311c9fcd1b0123cee1c45926c3e60299605d29c6",
+ "date": "2025-12-12",
+ "subject": "Add project_databases feature",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/deploy/ConnectionStringDialog.tsx",
+  "src/components/deploy/DatabaseCard.tsx",
+  "src/components/deploy/DatabaseDialog.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Deploy.tsx",
+  "supabase/functions/render-database/index.ts",
+  "supabase/migrations/20251212042643_50864420-f4bb-4cc0-a18f-e7e0de744990.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39288
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "20689c7bfbfa545f217c8747fc94d5bb68b12c06",
+ "parent": "b492eadff5f720ad8116ed6e706d21c66fa17331",
+ "date": "2025-12-19",
+ "subject": "Improve import workflow UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40689
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4054eb1c33655eccb427665803c69c03f031d6d3",
+ "parent": "c3811cc12bbc89a96e9320550f315cffcc55ee61",
+ "date": "2025-12-03",
+ "subject": "Add markdown toggle UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26889
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "535c4516ef8bfec6a3ab7cba9aec196efd4d7793",
+ "parent": "badf406d728fd734dd1bc961bcfe699cec2228f7",
+ "date": "2025-12-04",
+ "subject": "Add Repository Files category",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/ProjectSelector.tsx",
+  "src/components/project/RepositoryFilesSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 28763
+}

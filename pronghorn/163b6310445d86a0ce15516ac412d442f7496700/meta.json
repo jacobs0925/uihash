@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "163b6310445d86a0ce15516ac412d442f7496700",
+ "parent": "150a819c57efa9d9fa23a72b18e3bdd89bb94e5a",
+ "date": "2025-12-03",
+ "subject": "Implement file buffer plan",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx",
+  "src/hooks/useFileBuffer.ts",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 28957
+}

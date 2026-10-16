@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "af70c0f5f0739ee4a9efb24e8124d5355bd04ea5",
+ "parent": "0eb92eaa43f61dd3be05b6165a7154bdb91667de",
+ "date": "2025-12-05",
+ "subject": "Fix URL encode issue",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useProjectUrl.ts",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37786
+}

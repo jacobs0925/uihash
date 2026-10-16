@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2c40af3783d780cd16be95796b465e071f2fd656",
+ "parent": "b6f6d75946a307ebdce3ae14c088ac019e8bf7ba",
+ "date": "2025-12-04",
+ "subject": "Enable owner delete rights",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/dashboard/ProjectCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 28752
+}

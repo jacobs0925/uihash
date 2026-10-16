@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4930d5820abb8cb7d0444237220da07d6233eb56",
+ "parent": "4a114d71c7517449b81ca563079d89f115705058",
+ "date": "2025-12-02",
+ "subject": "Add Trash delete in Build",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26898
+}

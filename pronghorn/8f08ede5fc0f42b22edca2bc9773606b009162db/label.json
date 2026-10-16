@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "8f08ede5fc0f42b22edca2bc9773606b009162db",
+ "date": "2025-12-19",
+ "pr": null,
+ "title": "Add database docs updates",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 865 later commits"
+}

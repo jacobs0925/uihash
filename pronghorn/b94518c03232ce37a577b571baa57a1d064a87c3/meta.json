@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "b94518c03232ce37a577b571baa57a1d064a87c3",
+ "parent": "f29533523f3b88ede0c368766ed76eae54cbba8f",
+ "date": "2025-12-06",
+ "subject": "Fix duplicate commit logging",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/CommitHistory.tsx",
+  "src/components/build/StagingPanel.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/sync-repo-push/index.ts",
+  "supabase/migrations/20251206173541_907e7e82-ea68-461a-9cd5-44e735684828.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35593
+}

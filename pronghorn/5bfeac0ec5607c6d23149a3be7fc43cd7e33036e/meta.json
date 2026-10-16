@@ -1,0 +1,27 @@
+{
+ "repo": "pronghorn",
+ "sha": "5bfeac0ec5607c6d23149a3be7fc43cd7e33036e",
+ "parent": "13816b35203fcd72d4c1e120a995785a7093ec60",
+ "date": "2025-12-12",
+ "subject": "Enhance Database Explorer UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "src/components/deploy/DatabaseSchemaTree.tsx",
+  "src/components/deploy/DatabaseTreeContextMenu.tsx",
+  "src/components/deploy/QueryResultsViewer.tsx",
+  "src/components/deploy/SaveQueryDialog.tsx",
+  "src/components/deploy/SqlQueryEditor.tsx",
+  "src/components/deploy/TableStructureViewer.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251212200216_c5e75209-1779-41a4-9748-3906f84e0f17.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39601
+}

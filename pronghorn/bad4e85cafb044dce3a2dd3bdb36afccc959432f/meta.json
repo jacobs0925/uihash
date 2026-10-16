@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "bad4e85cafb044dce3a2dd3bdb36afccc959432f",
+ "parent": "a6506ae0110c2997b0740b006e9a9c7a04d72c6d",
+ "date": "2025-12-19",
+ "subject": "Fix schema view height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41003
+}

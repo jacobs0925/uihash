@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "7fb86d9457f0895ac7681acd062157e3765dd90b",
+ "date": "2025-12-03",
+ "pr": null,
+ "title": "Reverted to commit 4054eb1c33655eccb427665803c69c03f031d6d3",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-image: ∅ → linear-gradient(rgb(249, 250, 251), rgb(249, 250, 251), rgb(243, 244, 246)) undone by 95c8d4bc \"Reintegrate Landing.tsx changes\"; position: fixed → sticky undone by 95c8d4bc \"Reintegrate Landing.tsx changes\"; background-color: rgba(252, 249, 243, 0.9) → rgba(249, 250, 251, 0.8) undone by 95c8d4bc \"Reintegrate Landing.tsx changes\""
+}

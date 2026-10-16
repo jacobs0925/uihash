@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "c9217136b74617a17097950b6f9ac159678dae9e",
+ "parent": "44e410ff36dd0b79459b7c2104a715a189014185",
+ "date": "2025-12-13",
+ "subject": "Attach database items across UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39989
+}

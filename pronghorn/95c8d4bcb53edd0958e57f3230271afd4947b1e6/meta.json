@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "95c8d4bcb53edd0958e57f3230271afd4947b1e6",
+ "parent": "7fb86d9457f0895ac7681acd062157e3765dd90b",
+ "date": "2025-12-03",
+ "subject": "Reintegrate Landing.tsx changes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/pages/Landing.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 42,
+ "ms": 58460
+}

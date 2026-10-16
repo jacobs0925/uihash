@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "969c22702d50a429f09765b106e63a6b6aa12ae3",
+ "parent": "91d7b5f22c62ada1dd61cc9cf0d7760cd644a448",
+ "date": "2025-12-10",
+ "subject": "Add MIT license page and link",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "LICENSE",
+  "src/App.tsx",
+  "src/pages/Landing.tsx",
+  "src/pages/License.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 59373
+}

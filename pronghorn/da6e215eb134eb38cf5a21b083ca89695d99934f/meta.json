@@ -1,0 +1,27 @@
+{
+ "repo": "pronghorn",
+ "sha": "da6e215eb134eb38cf5a21b083ca89695d99934f",
+ "parent": "f37ee9207f3f1803e322c568d44543bc66e35578",
+ "date": "2025-12-14",
+ "subject": "Overhaul real-time local runner",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentCard.tsx",
+  "src/components/deploy/TestingLogsViewer.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Deploy.tsx",
+  "supabase/config.toml",
+  "supabase/functions/generate-local-package/index.ts",
+  "supabase/functions/report-local-issue/index.ts",
+  "supabase/migrations/20251214051706_27874001-e852-42a1-9485-800c1c0922e3.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40531
+}

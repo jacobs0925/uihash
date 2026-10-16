@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f0761549ec7b50eb63a784950bb70c0f08795887",
+ "parent": "ab0a7b1be933bcaa3003f5bb4ecfd44e450a01e4",
+ "date": "2025-12-12",
+ "subject": "Fix sql editor reset on run",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/SqlQueryEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39895
+}

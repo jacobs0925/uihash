@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "04769c55b792093e3e3c20628b26e5c8b1f435e7",
+ "parent": "8b04cd2d9f387a76eb17399db37e19677831fa5f",
+ "date": "2025-12-04",
+ "subject": "Enhance ArtifactExcelViewer UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/components/artifacts/ArtifactExcelViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 34953
+}

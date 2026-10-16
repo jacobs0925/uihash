@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "c09e5830ca7d3c85369924e5fa5da560d2e65942",
+ "parent": "e50715f5ffacc7870e007a46c65b0017589f8784",
+ "date": "2025-12-12",
+ "subject": "Enable autoDeploy and fix delete flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentCard.tsx",
+  "supabase/functions/render-service/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39903
+}

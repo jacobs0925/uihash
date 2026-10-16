@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "8f08ede5fc0f42b22edca2bc9773606b009162db",
+ "parent": "73631df04d65cbfe50c8fc040c56071f16313f89",
+ "date": "2025-12-19",
+ "subject": "Add database docs updates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "README.md",
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 81874
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "48eb2f209b16e3c83abb26c944002a24f6006941",
+ "parent": "068880dfc9821e0e3ce407fa3abe69f165c9591c",
+ "date": "2025-12-08",
+ "subject": "Fix env URL pattern and Phase 3",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/CreateDeploymentDialog.tsx",
+  "src/components/deploy/DeploymentCard.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/config.toml",
+  "supabase/functions/generate-local-package/index.ts",
+  "supabase/functions/render-service/index.ts",
+  "supabase/migrations/20251208045625_2a3d149c-d280-4be3-acb8-6db0b07fee3d.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35839
+}

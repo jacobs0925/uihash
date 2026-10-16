@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "0d787adbf7606dde0a7dcef41aa3dfa066300a59",
+ "parent": "4db15dc0209f39c5332ec087d4afd9fcde337294",
+ "date": "2025-12-07",
+ "subject": "Use path for selection highlight",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentFileTree.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35327
+}

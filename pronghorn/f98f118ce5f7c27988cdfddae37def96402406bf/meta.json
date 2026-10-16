@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "f98f118ce5f7c27988cdfddae37def96402406bf",
+ "parent": "8819a844bc4b54d8aedcec498ff0a2e80cae6f01",
+ "date": "2025-12-10",
+ "subject": "Update terms and privacy emails",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Privacy.tsx",
+  "src/pages/Terms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 50277
+}

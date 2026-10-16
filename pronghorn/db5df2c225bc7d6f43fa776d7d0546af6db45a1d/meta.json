@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "db5df2c225bc7d6f43fa776d7d0546af6db45a1d",
+ "parent": "943f111fae63d65039747d83c68b2c4098d6d8d2",
+ "date": "2025-12-14",
+ "subject": "Drop old get_repo_files_with_token overloads",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Repository.tsx",
+  "supabase/migrations/20251214024556_cb78db60-117c-498f-9e02-0792b8d31ce2.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40016
+}

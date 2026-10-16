@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "23c9ab9bc3fb2a1b0ab237993507dab51ce1327d",
+ "parent": "e62c7cb8e2c567748da05a494ca9bb75ab5a2f37",
+ "date": "2025-12-19",
+ "subject": "Fix multi-table import flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx",
+  "src/components/deploy/import/JsonDataViewer.tsx",
+  "src/components/deploy/import/JsonRelationshipFlow.tsx",
+  "src/components/deploy/import/SqlReviewPanel.tsx",
+  "src/utils/parseJson.ts",
+  "src/utils/sqlGenerator.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41291
+}

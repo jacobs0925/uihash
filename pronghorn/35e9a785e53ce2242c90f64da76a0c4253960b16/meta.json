@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "35e9a785e53ce2242c90f64da76a0c4253960b16",
+ "parent": "8d45e11fa1e0894b6f9730e6f336d5837e284902",
+ "date": "2025-12-03",
+ "subject": "Make staging auto-commit visible",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx",
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26925
+}

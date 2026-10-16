@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "d6dc1f2d3cbe27be596f473903ba55a23d9c399f",
+ "parent": "7f41604b2a9ca56710185ede47f21d8f8a28b347",
+ "date": "2025-12-03",
+ "subject": "Add dirty indicator UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27509
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "7b7c2878659b1252c4ecbf32639f4683839484db",
+ "parent": "8b28a3c4b3ab472c015d5c7cd587ec86799b73b5",
+ "date": "2025-12-12",
+ "subject": "Auto-generate deployment names",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseDialog.tsx",
+  "src/components/deploy/DeploymentDialog.tsx",
+  "src/pages/project/Deploy.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39714
+}

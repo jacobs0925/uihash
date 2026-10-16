@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "afeacd84d335d722c64cd7e8e7ff926b7efcd41b",
+ "parent": "ae319fe9bbca02bc436dabb05e6063aa8174a959",
+ "date": "2025-12-03",
+ "subject": "Add onBlur auto-save",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/CodeEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 28837
+}

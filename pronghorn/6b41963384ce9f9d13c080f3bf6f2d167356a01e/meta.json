@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "6b41963384ce9f9d13c080f3bf6f2d167356a01e",
+ "parent": "e264767f677dc913a183bcdb9721d7f3e7184687",
+ "date": "2025-12-02",
+ "subject": "Implement Prime repo workflow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx",
+  "src/components/repository/RepoCard.tsx",
+  "src/hooks/useRealtimeRepos.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Repository.tsx",
+  "supabase/functions/sync-repo-push/index.ts",
+  "supabase/migrations/20251202204858_fb257747-7664-45f2-9109-297f5babd814.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26983
+}

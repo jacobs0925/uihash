@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "67c7f2cb84b45f2039991faf054e2c725cb689a1",
+ "parent": "7796056ab7eab3d5f8f148f73264ee781e1c5ec7",
+ "date": "2025-12-06",
+ "subject": "Add profile upsert & banner",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/project/AccessLevelBanner.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/ProjectSettings.tsx",
+  "supabase/migrations/20251206134317_69a0edd6-9fae-4604-80db-f25ddd8b4ba5.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35136
+}

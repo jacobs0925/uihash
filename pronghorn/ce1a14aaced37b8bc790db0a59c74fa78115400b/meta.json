@@ -1,0 +1,35 @@
+{
+ "repo": "pronghorn",
+ "sha": "ce1a14aaced37b8bc790db0a59c74fa78115400b",
+ "parent": "00f3720404ba81b77917866ea5989a69097d8e3c",
+ "date": "2025-12-17",
+ "subject": "Mask token URLs",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/project/TokenManagement.tsx",
+  "src/components/project/TokenRecoveryMessage.tsx",
+  "src/hooks/useProjectUrl.ts",
+  "src/hooks/useShareToken.ts",
+  "src/lib/tokenCache.ts",
+  "src/pages/project/Artifacts.tsx",
+  "src/pages/project/Build.tsx",
+  "src/pages/project/Canvas.tsx",
+  "src/pages/project/Chat.tsx",
+  "src/pages/project/Database.tsx",
+  "src/pages/project/Deploy.tsx",
+  "src/pages/project/ProjectSettings.tsx",
+  "src/pages/project/Repository.tsx",
+  "src/pages/project/Requirements.tsx",
+  "src/pages/project/Specifications.tsx",
+  "src/pages/project/Standards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40189
+}

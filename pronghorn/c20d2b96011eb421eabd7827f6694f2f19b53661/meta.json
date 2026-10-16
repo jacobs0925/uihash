@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c20d2b96011eb421eabd7827f6694f2f19b53661",
+ "parent": "a8c8cd9f0a399285cce10d63cbab5ceaa8978cda",
+ "date": "2025-12-02",
+ "subject": "Filter to Prime repo Build.tsx",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26995
+}

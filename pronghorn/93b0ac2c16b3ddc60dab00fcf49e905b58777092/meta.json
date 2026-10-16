@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "93b0ac2c16b3ddc60dab00fcf49e905b58777092",
+ "parent": "6b41963384ce9f9d13c080f3bf6f2d167356a01e",
+ "date": "2025-12-02",
+ "subject": "Make repo titles link to GitHub",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/RepoCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27180
+}

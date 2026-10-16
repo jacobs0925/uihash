@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "327cb70631110f5bdba58ccc01cae7ab86799d06",
+ "parent": "9d273844b73d96aca0d754a2e2360510854af223",
+ "date": "2025-12-12",
+ "subject": "Update database plans and render",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseDialog.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Deploy.tsx",
+  "supabase/functions/render-database/index.ts",
+  "supabase/migrations/20251212120422_866a509e-bd4d-4986-ab01-a57504386a42.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39319
+}

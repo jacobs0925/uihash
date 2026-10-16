@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "81e2104b395fd15c5bebd6893cfa80b7457c5a0a",
+ "parent": "3fe702cd8705366749cac7228b449b161b0d99ab",
+ "date": "2025-12-12",
+ "subject": "Refactor Database to Build UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseCard.tsx",
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "src/pages/project/Database.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39458
+}

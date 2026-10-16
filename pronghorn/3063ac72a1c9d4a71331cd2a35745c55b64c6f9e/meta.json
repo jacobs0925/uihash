@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3063ac72a1c9d4a71331cd2a35745c55b64c6f9e",
+ "parent": "e92322d594da75bb2f6eb66e2d09264dfac835b0",
+ "date": "2025-12-18",
+ "subject": "Improve FieldMapper null safety",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/import/FieldMapper.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40680
+}

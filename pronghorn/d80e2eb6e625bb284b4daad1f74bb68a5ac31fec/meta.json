@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "d80e2eb6e625bb284b4daad1f74bb68a5ac31fec",
+ "parent": "cc93314e1642047cfd65c2937d8ca972390fa1a5",
+ "date": "2025-12-12",
+ "subject": "Fix sql editor state",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/SqlQueryEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39823
+}

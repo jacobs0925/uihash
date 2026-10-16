@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "4a114d71c7517449b81ca563079d89f115705058",
+ "parent": "3ec5b82caeb6309fabbfae76755b047204c90317",
+ "date": "2025-12-02",
+ "subject": "FixPrimePushUsePrimeOnly",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27023
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "b2dcf7b9033a4223dc195eb36389d380c98aa361",
+ "parent": "1f7f24657d94e7e07ebe78bc6a73482f51daef37",
+ "date": "2025-12-14",
+ "subject": "Consolidate repo file tokens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/data/codingAgentInstructions.json",
+  "src/components/repository/CodeEditor.tsx",
+  "src/hooks/useFileBuffer.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/coding-agent-orchestrator/index.ts",
+  "supabase/migrations/20251214031954_42811924-d4c2-4174-86ed-44a34acc281d.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40428
+}

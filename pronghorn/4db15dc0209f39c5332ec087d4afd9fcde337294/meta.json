@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4db15dc0209f39c5332ec087d4afd9fcde337294",
+ "parent": "46430d91f986ccc6727e1859b9f2888d3963be09",
+ "date": "2025-12-07",
+ "subject": "Fix totalAttachments fields",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35113
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "82871a20a0e74e72d29f8ed49b864a986649911a",
+ "parent": "ff442b0d2c4688ccde8631a8a7d8feaf4a0015f7",
+ "date": "2025-12-07",
+ "subject": "Add blackboard entry display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35276
+}

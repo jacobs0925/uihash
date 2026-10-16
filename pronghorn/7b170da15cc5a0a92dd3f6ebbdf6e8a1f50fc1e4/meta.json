@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7b170da15cc5a0a92dd3f6ebbdf6e8a1f50fc1e4",
+ "parent": "81e2104b395fd15c5bebd6893cfa80b7457c5a0a",
+ "date": "2025-12-12",
+ "subject": "Revert ProjectSidebar fix",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/layout/ProjectSidebar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39426
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ef9e64545eb06fa140836749e09f82fd8f83f612",
+ "parent": "1b365113db447b8cadbba8ff01b72894d794b637",
+ "date": "2025-12-07",
+ "subject": "Fix staging overflow width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35231
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "d273e5e30201380b463fa19e33fdd1810fcf051c",
+ "parent": "dc26575e78e05d9d5b18de675c2947315f59e3fa",
+ "date": "2025-12-14",
+ "subject": "Enhance staging real-time sync",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx",
+  "src/pages/project/Build.tsx",
+  "supabase/functions/generate-local-package/index.ts",
+  "supabase/migrations/20251214143159_2189ad8c-4338-4940-b82c-419e005ec7cd.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40111
+}

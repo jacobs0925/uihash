@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "95c8d4bcb53edd0958e57f3230271afd4947b1e6",
+ "date": "2025-12-03",
+ "pr": null,
+ "title": "Reintegrate Landing.tsx changes",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "height: auto → 100% undone by ae319fe9 \"Refactor landing features\"; height: auto → 100% undone by ae319fe9 \"Refactor landing features\"; height: auto → 256px undone by ae319fe9 \"Refactor landing features\""
+}

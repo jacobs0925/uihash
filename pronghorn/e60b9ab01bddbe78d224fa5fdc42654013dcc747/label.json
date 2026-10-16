@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "e60b9ab01bddbe78d224fa5fdc42654013dcc747",
+ "date": "2025-12-03",
+ "pr": null,
+ "title": "Apply landing cream bg only",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 7fb86d94, which restored 4054eb1c (15 commits discarded)"
+}

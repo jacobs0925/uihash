@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "e80a03fa74d7034ae8bf2c11d94168be3afb4258",
+ "date": "2025-12-10",
+ "pr": null,
+ "title": "Fix alpha badge in header",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1027 later commits"
+}

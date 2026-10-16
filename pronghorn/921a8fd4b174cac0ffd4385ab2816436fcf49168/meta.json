@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "921a8fd4b174cac0ffd4385ab2816436fcf49168",
+ "parent": "b0eb51031c68ef45179da41fd580443bb4293993",
+ "date": "2025-12-05",
+ "subject": "Enhance token handling and privacy",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/dashboard/CreateProjectDialog.tsx",
+  "src/components/dashboard/EnhancedCreateProjectDialog.tsx",
+  "src/pages/project/ProjectSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35120
+}

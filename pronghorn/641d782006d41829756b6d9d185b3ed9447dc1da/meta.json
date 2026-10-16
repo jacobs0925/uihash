@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "641d782006d41829756b6d9d185b3ed9447dc1da",
+ "parent": "93068d7b197dd7b8567ec43efd7d6bd79174c65d",
+ "date": "2025-12-04",
+ "subject": "Refactor decompose dialog",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/requirements/AIDecomposeDialog.tsx",
+  "supabase/functions/decompose-requirements/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 29057
+}

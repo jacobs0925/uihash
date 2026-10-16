@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ff5a0b5605a28defaefe08660356b140ef04d20b",
+ "parent": "a67eefc844488e7bf35100867c76ce84a19ce75d",
+ "date": "2025-12-10",
+ "subject": "Add dialog navigation arrows",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39725
+}

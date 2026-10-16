@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "4af7e04b787286a1e2b39ccb528bfe445522acc4",
+ "parent": "01e08cbd0f7fdeb5f473ec7cc0eabc8d8c517bc6",
+ "date": "2025-12-12",
+ "subject": "Make SqlQueryEditor controlled",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "src/components/deploy/DatabaseExplorerModal.tsx",
+  "src/components/deploy/SqlQueryEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 39682
+}

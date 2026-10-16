@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "9fc9152ff70f8828f77c770bc6bc9b0e68e84cdb",
+ "parent": "f9937f080ca45804f52ef4335911b5b1a6bcd85a",
+ "date": "2025-12-03",
+ "subject": "Add auto commit push",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 26993
+}

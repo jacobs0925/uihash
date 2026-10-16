@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "574c540bab4a38b3a371cb4a3dcf9df2f6c4b90d",
+ "parent": "c9217136b74617a17097950b6f9ac159678dae9e",
+ "date": "2025-12-13",
+ "subject": "Enhance specs versioning",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/specifications/SavedSpecificationsPanel.tsx",
+  "src/components/specifications/VersionHistoryDropdown.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Specifications.tsx",
+  "supabase/migrations/20251213180456_32aab462-ce3d-451f-8180-6ffd3e7c15fe.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40000
+}

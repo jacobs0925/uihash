@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "7d6e2e312f19af1a4085350d4102997668a6bba6",
+ "parent": "8182d6257281340d7efc8ecdd1c09dd3163ce1fe",
+ "date": "2025-12-07",
+ "subject": "Fix staging tab width cascade",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/StagingPanel.tsx",
+  "src/pages/project/Build.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 34959
+}

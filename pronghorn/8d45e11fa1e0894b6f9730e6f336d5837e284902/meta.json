@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "8d45e11fa1e0894b6f9730e6f336d5837e284902",
+ "parent": "9fc9152ff70f8828f77c770bc6bc9b0e68e84cdb",
+ "date": "2025-12-03",
+ "subject": "Move auto-commit to staging",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/CommitHistory.tsx",
+  "src/components/build/StagingPanel.tsx",
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Build.tsx",
+  "supabase/migrations/20251203124517_9ec6a77c-67c2-4694-89bb-204d857c86e5.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 27072
+}

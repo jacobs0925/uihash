@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "817848bbb4807af1b9a77c4bc95ba85c56ed02bd",
+ "parent": "6366f327061363a14bf20d3c8ed2eeee0748a70d",
+ "date": "2025-12-13",
+ "subject": "Enhance version navigation UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/specifications/DownloadOptions.tsx",
+  "src/components/specifications/SavedSpecificationsPanel.tsx",
+  "src/components/specifications/VersionHistoryDropdown.tsx",
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40104
+}

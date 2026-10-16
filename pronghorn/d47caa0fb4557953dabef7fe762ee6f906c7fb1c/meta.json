@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "d47caa0fb4557953dabef7fe762ee6f906c7fb1c",
+ "parent": "8ea7ff1dcc79439a6faa46e9d5f3571c5500760b",
+ "date": "2025-12-08",
+ "subject": "Fix repo fallback",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentCard.tsx",
+  "supabase/functions/render-service/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 35724
+}

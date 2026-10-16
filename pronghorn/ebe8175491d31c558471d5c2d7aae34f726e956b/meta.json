@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ebe8175491d31c558471d5c2d7aae34f726e956b",
+ "parent": "abcd76ed0c0d322657fff7a34fdc0517edf21c5f",
+ "date": "2026-01-09",
+ "subject": "Fix scroll in tabs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/AgentPromptEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71634
+}

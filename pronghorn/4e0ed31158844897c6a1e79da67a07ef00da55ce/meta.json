@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "4e0ed31158844897c6a1e79da67a07ef00da55ce",
+ "parent": "84b0af6bc7033b650d1670c656c46ca4f1bbfb9f",
+ "date": "2026-01-08",
+ "subject": "Add signup validation flow",
+ "components": [
+  "App.tsx",
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/auth/RequireSignupValidation.tsx",
+  "src/components/auth/SignupCodeModal.tsx",
+  "src/contexts/AuthContext.tsx",
+  "supabase/config.toml",
+  "supabase/functions/update-signup-validated/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71190
+}

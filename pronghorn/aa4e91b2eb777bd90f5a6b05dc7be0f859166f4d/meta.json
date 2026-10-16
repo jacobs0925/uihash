@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "aa4e91b2eb777bd90f5a6b05dc7be0f859166f4d",
+ "parent": "674c0d688d06ac4cacae56911d4a174daa55056a",
+ "date": "2026-01-23",
+ "subject": "Add fullscreen to code viewer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/CodeBlockViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72556
+}

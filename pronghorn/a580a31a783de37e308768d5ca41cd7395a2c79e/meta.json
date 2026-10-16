@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "a580a31a783de37e308768d5ca41cd7395a2c79e",
+ "parent": "7ac169a9fa6f54ad4f2c6bad67550e0303ed2a91",
+ "date": "2026-01-22",
+ "subject": "Implement large file sync flow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/repository/LargeFileTracker.tsx",
+  "src/pages/project/Repository.tsx",
+  "supabase/config.toml",
+  "supabase/functions/sync-large-file/index.ts",
+  "supabase/functions/sync-repo-pull/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 75141
+}

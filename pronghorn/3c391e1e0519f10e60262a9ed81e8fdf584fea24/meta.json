@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "3c391e1e0519f10e60262a9ed81e8fdf584fea24",
+ "parent": "d08b5266973d719c3ea568f1d6a0f342ee9b7817",
+ "date": "2026-01-12",
+ "subject": "Refactor orchestrator frontend-driven",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71795
+}

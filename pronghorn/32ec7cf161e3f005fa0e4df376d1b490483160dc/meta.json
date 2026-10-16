@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "32ec7cf161e3f005fa0e4df376d1b490483160dc",
+ "parent": "10222ffb2d96c4ce1f7dbb33b972071fc4d61046",
+ "date": "2026-01-23",
+ "subject": "Center canvas action buttons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/CanvasNavigator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72758
+}

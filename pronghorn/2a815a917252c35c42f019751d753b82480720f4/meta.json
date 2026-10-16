@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2a815a917252c35c42f019751d753b82480720f4",
+ "parent": "b9c3fadd824332c17b17fb9822085231f3a04a38",
+ "date": "2026-01-14",
+ "subject": "Stabilize DatabaseExplorer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72007
+}

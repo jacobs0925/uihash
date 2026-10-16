@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "f8680f71e363d7e3c44a1f047965f57745f36361",
+ "parent": "da81ebb38d0779bd446dbd081b75d7b87d3cc73b",
+ "date": "2026-01-12",
+ "subject": "Improve canvas robustness",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx",
+  "src/components/canvas/AgentFlow.tsx",
+  "src/components/canvas/IterativeEnhancement.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71926
+}

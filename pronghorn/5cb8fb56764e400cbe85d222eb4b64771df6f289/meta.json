@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "5cb8fb56764e400cbe85d222eb4b64771df6f289",
+ "parent": "1216ce0f03e14e29c012bbc0a40d36971769c046",
+ "date": "2026-01-02",
+ "subject": "Fix update slide image",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/present/SlideImageGenerator.tsx",
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71480
+}

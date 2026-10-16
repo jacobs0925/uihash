@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "f40dfd57d689b17f36aee03ea7d4f38e15a43e9f",
+ "parent": "002172a8305b07f747fab0d8e4ae6c9669f107c2",
+ "date": "2026-01-02",
+ "subject": "Regenerate thumbnails on theme switch",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/present/SlideRenderer.tsx",
+  "src/components/present/SlideThumbnails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71744
+}

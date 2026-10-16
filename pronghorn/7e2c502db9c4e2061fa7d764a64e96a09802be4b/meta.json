@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7e2c502db9c4e2061fa7d764a64e96a09802be4b",
+ "parent": "4e0ed31158844897c6a1e79da67a07ef00da55ce",
+ "date": "2026-01-08",
+ "subject": "Show signup errors during signup",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71843
+}

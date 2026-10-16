@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "e1bfad8c29650e858c2841706253f4eca03c1d2a",
+ "parent": "c1d96249149710aadde637875629d543e88963ca",
+ "date": "2026-01-12",
+ "subject": "Add tooltips to chat actions",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71794
+}

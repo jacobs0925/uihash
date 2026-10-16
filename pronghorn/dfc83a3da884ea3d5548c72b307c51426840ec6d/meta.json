@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "dfc83a3da884ea3d5548c72b307c51426840ec6d",
+ "parent": "b1fbfc132bec18e9b561f0afce0925f961eb1647",
+ "date": "2026-01-12",
+ "subject": "Fix chat role handling and parse errors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/AgentChatViewer.tsx",
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72635
+}

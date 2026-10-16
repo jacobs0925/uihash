@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "40586a5a9a6bb25bed8452fc6421900884b54030",
+ "parent": "64f39efc62897cccf54861e223f4c08f85c23b24",
+ "date": "2026-01-23",
+ "subject": "Hide labels on mobile buttons",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72617
+}

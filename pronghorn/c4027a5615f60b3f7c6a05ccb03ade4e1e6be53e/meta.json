@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "c4027a5615f60b3f7c6a05ccb03ade4e1e6be53e",
+ "parent": "828abb2ca09da218533eba1c309e326ea7bf29d5",
+ "date": "2026-01-14",
+ "subject": "Add Database Agent frontend",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/AgentPromptEditor.tsx",
+  "src/components/deploy/DatabaseAgentInterface.tsx",
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "src/hooks/useProjectAgent.ts",
+  "supabase/config.toml"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73172
+}

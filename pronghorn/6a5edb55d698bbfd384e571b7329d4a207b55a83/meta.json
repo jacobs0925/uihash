@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "6a5edb55d698bbfd384e571b7329d4a207b55a83",
+ "parent": "0b0b4f4375ccbda664dc519b80315fefd5c3fab5",
+ "date": "2026-01-14",
+ "subject": "Improve DB agent UI and UX",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseAgentInterface.tsx",
+  "src/hooks/useInfiniteAgentMessages.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73280
+}

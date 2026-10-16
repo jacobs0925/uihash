@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "09f88eba07975a1825c765ed1d3c514c83a86a03",
+ "parent": "5cb8fb56764e400cbe85d222eb4b64771df6f289",
+ "date": "2026-01-02",
+ "subject": "Update slide image URL logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/present/SlideRenderer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71580
+}

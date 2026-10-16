@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "36ce2968e79f897a189c05c56b940627b54650fd",
+ "parent": "c0d017437d2251be35389ba68490fe194419f1b3",
+ "date": "2026-01-02",
+ "subject": "Rework editor layout for notes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 70173
+}

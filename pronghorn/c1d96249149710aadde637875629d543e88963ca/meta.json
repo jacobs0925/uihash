@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c1d96249149710aadde637875629d543e88963ca",
+ "parent": "c339da1b24a875aaf00a5b7bd8c9755f32ea4848",
+ "date": "2026-01-12",
+ "subject": "Add bottom action buttons",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71762
+}

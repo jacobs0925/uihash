@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "1166e1d1d24fb7cf4521fcc151024516566e4041",
+ "parent": "b159cebda3e1a6505c8059f18f312c5312dd03c8",
+ "date": "2026-01-14",
+ "subject": "Stabilize UI remounts and chat",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseAgentInterface.tsx",
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "src/hooks/useInfiniteAgentMessages.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71669
+}

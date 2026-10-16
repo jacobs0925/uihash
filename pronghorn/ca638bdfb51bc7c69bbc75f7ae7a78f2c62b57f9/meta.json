@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "ca638bdfb51bc7c69bbc75f7ae7a78f2c62b57f9",
+ "parent": "16901c098364a1cc765b9f4203cf424f4dd9992f",
+ "date": "2026-01-12",
+ "subject": "Deduplicate optimistic messages",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/data/codingAgentPromptTemplate.json",
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72570
+}

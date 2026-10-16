@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "b9c3fadd824332c17b17fb9822085231f3a04a38",
+ "parent": "a63e500d7686af123823685cc2579e2dd7c3c542",
+ "date": "2026-01-14",
+ "subject": "Refactor AgentPanel render",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73137
+}

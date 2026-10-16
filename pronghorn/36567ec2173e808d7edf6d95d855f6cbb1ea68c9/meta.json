@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "36567ec2173e808d7edf6d95d855f6cbb1ea68c9",
+ "parent": "c4027a5615f60b3f7c6a05ccb03ade4e1e6be53e",
+ "date": "2026-01-14",
+ "subject": "Add agent type distinction",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseAgentInterface.tsx",
+  "src/hooks/useInfiniteAgentMessages.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/coding-agent-orchestrator/index.ts",
+  "supabase/functions/database-agent-orchestrator/index.ts",
+  "supabase/migrations/20260114210918_2959534d-e8d6-4f84-8101-61258166a954.sql",
+  "supabase/migrations/20260114211044_a6659b6f-ced4-41bc-aee6-4e63fff66080.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71624
+}

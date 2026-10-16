@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "002172a8305b07f747fab0d8e4ae6c9669f107c2",
+ "parent": "88ba0373ba446f453fcb536028887ac06fafdcb8",
+ "date": "2026-01-02",
+ "subject": "Fix present page issues",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/present/PdfExportRenderer.tsx",
+  "src/components/present/SlideImageGenerator.tsx",
+  "src/components/present/SlideRenderer.tsx",
+  "src/components/present/SlideThumbnails.tsx",
+  "src/pages/project/Present.tsx",
+  "supabase/functions/recast-slide-layout/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 75511
+}

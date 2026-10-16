@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "ddc772742013aa67c350618c880ce9aebdccf7de",
+ "parent": "d0ae4111130338ed460c2b9fda1449f0897a37c3",
+ "date": "2026-01-23",
+ "subject": "Add public viewer RT updates",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/hooks/useRealtimeArtifacts.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Viewer.tsx",
+  "src/pages/project/Artifacts.tsx",
+  "supabase/migrations/20260123112958_86e22400-8aa8-4a00-b237-9b0d11ab6df0.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73173
+}

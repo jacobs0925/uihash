@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "bac3ba0516b49ad3adcebdfd50c6600b9fae6817",
+ "parent": "ca577a8bd0dcc6320544ad8e91b47b65e8d260ab",
+ "date": "2026-01-15",
+ "subject": "Add subfolders and tweaks",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactFolderSidebar.tsx",
+  "src/components/artifacts/CreateFolderDialog.tsx",
+  "src/hooks/useRealtimeArtifacts.ts",
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72348
+}

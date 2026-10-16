@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3f3a4d3d3ea8dacf0d49732afec515253b8d6483",
+ "parent": "803d85209fc354a5e207f25758928baf0429a53b",
+ "date": "2026-01-23",
+ "subject": "Highlight share button in green",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73264
+}

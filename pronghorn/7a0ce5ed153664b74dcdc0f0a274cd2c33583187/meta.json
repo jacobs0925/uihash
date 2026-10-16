@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7a0ce5ed153664b74dcdc0f0a274cd2c33583187",
+ "parent": "5db20a64cd5f23aedb237731e76973020bedde8b",
+ "date": "2026-01-08",
+ "subject": "Fix dark mode colors for specs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71497
+}

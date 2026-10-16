@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "20b0c5861a9ee46016f92979be90d6e24bb6992a",
+ "parent": "3e020cba223278db81309e87dd044bba4d8b513c",
+ "date": "2026-01-22",
+ "subject": "Add Canvas JSON Import Export",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72443
+}

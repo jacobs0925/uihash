@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "36de0c234b3c2616ed6de9e222b2d1b067402cd6",
+ "parent": "ca638bdfb51bc7c69bbc75f7ae7a78f2c62b57f9",
+ "date": "2026-01-12",
+ "subject": "Mask connection fields",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/ConnectionStringDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71780
+}

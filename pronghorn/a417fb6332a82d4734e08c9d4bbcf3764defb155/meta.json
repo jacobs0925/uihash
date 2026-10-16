@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "a417fb6332a82d4734e08c9d4bbcf3764defb155",
+ "parent": "3f3a4d3d3ea8dacf0d49732afec515253b8d6483",
+ "date": "2026-01-23",
+ "subject": "Auto-detect HTML in viewer",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Viewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73653
+}

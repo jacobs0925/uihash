@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ca21f9fc1556a1ae59d76de1fe6716b0185e4e5d",
+ "parent": "f22dc4b0af178c1bdd45c0353507b0937da0a016",
+ "date": "2026-01-12",
+ "subject": "Fix authorize token for SSE",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71432
+}

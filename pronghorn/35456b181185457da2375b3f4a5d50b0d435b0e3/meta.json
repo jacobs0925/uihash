@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "35456b181185457da2375b3f4a5d50b0d435b0e3",
+ "parent": "3f645891f7c2efcd087179271af9f449756e05af",
+ "date": "2026-01-16",
+ "subject": "Add multi-statement SQL support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "supabase/functions/manage-database/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72038
+}

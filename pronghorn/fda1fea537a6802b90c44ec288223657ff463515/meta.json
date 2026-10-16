@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "fda1fea537a6802b90c44ec288223657ff463515",
+ "parent": "639f4aa82db56e5d44978b0dcdd7db0215658963",
+ "date": "2026-01-09",
+ "subject": "Change local download to .run",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentCard.tsx",
+  "supabase/functions/generate-local-package/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72199
+}

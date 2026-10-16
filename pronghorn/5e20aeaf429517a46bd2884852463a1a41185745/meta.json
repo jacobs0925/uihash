@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "5e20aeaf429517a46bd2884852463a1a41185745",
+ "parent": "3c47d24d94b0de0006d6912f3dd42c16a07fc016",
+ "date": "2026-01-05",
+ "subject": "Remove org_id usage",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/dashboard/EnhancedCreateProjectDialog.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/create-project/index.ts",
+  "supabase/migrations/20260105053754_539bbd97-3a5a-4442-974e-fe3ae8da8d2c.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71170
+}

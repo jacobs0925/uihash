@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "3a5997d21550c4071c9ae13c008365479dffdf4a",
+ "parent": "655d7389b70028a9ad43ed32bf09313fbdf85874",
+ "date": "2026-01-09",
+ "subject": "Add monorepo support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/data/deploymentSettings.json",
+  "src/components/deploy/DeploymentDialog.tsx",
+  "supabase/functions/generate-local-package/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71595
+}

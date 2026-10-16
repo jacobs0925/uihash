@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "632d902ba67c1cd59974cb20c37184c941024498",
+ "parent": "2e189ab1012361e6f50a604238877a0395e30339",
+ "date": "2026-01-21",
+ "subject": "Add requirements summary cards",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/requirements/RequirementsSummaryCards.tsx",
+  "src/pages/project/Requirements.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72208
+}

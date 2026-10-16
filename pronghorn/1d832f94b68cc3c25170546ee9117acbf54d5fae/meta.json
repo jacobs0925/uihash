@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "1d832f94b68cc3c25170546ee9117acbf54d5fae",
+ "parent": "ce533f54b37349a14b3b77b870034d14a72c567d",
+ "date": "2026-01-14",
+ "subject": "Improve database agent fixes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseAgentInterface.tsx",
+  "supabase/functions/database-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73548
+}

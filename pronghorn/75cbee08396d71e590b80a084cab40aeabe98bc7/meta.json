@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "75cbee08396d71e590b80a084cab40aeabe98bc7",
+ "parent": "1ff6bf2d2cd5c036a5afd39d20b1d82bd3378c32",
+ "date": "2026-01-14",
+ "subject": "Add ssl cert URL support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/ConnectDatabaseDialog.tsx",
+  "supabase/functions/manage-database/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73205
+}

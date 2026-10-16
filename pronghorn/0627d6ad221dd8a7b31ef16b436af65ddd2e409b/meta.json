@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "0627d6ad221dd8a7b31ef16b436af65ddd2e409b",
+ "parent": "316322272b1954da08d3697a94a7c51c75fb3261",
+ "date": "2026-01-11",
+ "subject": "Fix slide rendering format",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/present/SlideRenderer.tsx",
+  "src/pages/project/Present.tsx",
+  "supabase/functions/presentation-agent/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71907
+}

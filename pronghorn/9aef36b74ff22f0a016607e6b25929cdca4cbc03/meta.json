@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "9aef36b74ff22f0a016607e6b25929cdca4cbc03",
+ "parent": "e3cd60fab109e4f34834fc940563f4b817602885",
+ "date": "2026-01-11",
+ "subject": "Refactor presentation agent",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Present.tsx",
+  "supabase/functions/presentation-agent/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71905
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "62fe8493fc5b44e4e91880123e4bd8c7cf650369",
+ "parent": "3c391e1e0519f10e60262a9ed81e8fdf584fea24",
+ "date": "2026-01-12",
+ "subject": "Fix edge auth URL hardcode",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71816
+}

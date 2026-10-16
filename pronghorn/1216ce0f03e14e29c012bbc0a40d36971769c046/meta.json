@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1216ce0f03e14e29c012bbc0a40d36971769c046",
+ "parent": "2cb52a4595f3f483fc784ae37a43e65a188f4ecc",
+ "date": "2026-01-02",
+ "subject": "Improve slide image update flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71061
+}

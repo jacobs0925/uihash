@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "d0ae4111130338ed460c2b9fda1449f0897a37c3",
+ "parent": "8f51c7e2967719dfc98e0a3bb1ad5cca46342918",
+ "date": "2026-01-23",
+ "subject": "Wrap tooltips with Provider",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/CollaborationEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73478
+}

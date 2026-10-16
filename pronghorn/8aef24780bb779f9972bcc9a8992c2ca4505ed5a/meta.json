@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "8aef24780bb779f9972bcc9a8992c2ca4505ed5a",
+ "parent": "7b4f4cb197d3eb5df85d819267442a78a1aad300",
+ "date": "2026-01-09",
+ "subject": "Unify tool manifest and fix UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/AgentPromptEditor.tsx",
+  "src/hooks/useProjectAgent.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72090
+}

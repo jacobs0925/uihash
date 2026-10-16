@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "71d09ba2177d6e9ebe3cb1db36070170a4381d4e",
+ "parent": "7e2c502db9c4e2061fa7d764a64e96a09802be4b",
+ "date": "2026-01-08",
+ "subject": "Improve signup error handling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx",
+  "supabase/functions/validate-signup-code/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72027
+}

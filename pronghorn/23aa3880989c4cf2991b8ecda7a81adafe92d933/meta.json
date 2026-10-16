@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "23aa3880989c4cf2991b8ecda7a81adafe92d933",
+ "parent": "12411fbffaae0ae729958c373992a193f77a6f3d",
+ "date": "2026-01-23",
+ "subject": "Enable multi-canvas scope",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx",
+  "src/hooks/useRealtimeCanvas.ts",
+  "src/hooks/useRealtimeLayers.ts",
+  "src/pages/project/Canvas.tsx",
+  "supabase/functions/ai-architect/index.ts",
+  "supabase/functions/generate-specification/index.ts",
+  "supabase/functions/presentation-agent/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72816
+}

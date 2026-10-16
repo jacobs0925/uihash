@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "3c9dfeb49433f51ca376b961c634dbf62c27d3b4",
+ "parent": "76f2afa421e6ce313024d4c8e813855c17f4f7ec",
+ "date": "2026-01-21",
+ "subject": "Add update requirement RPC",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/requirements/RequirementsTree.tsx",
+  "src/hooks/useRealtimeRequirements.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260121131952_72560bb7-5aab-441a-bf80-0634f6424647.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72103
+}

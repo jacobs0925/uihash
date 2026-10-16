@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "e957091dbe39e20af766330f3b8667bd6efcc857",
+ "parent": "1fa5b5edf0749d34c1bea77b4dc1774366573bf4",
+ "date": "2026-01-02",
+ "subject": "Fix fullscreen image modal",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/present/PdfExportRenderer.tsx",
+  "src/components/present/SlideRenderer.tsx",
+  "src/components/present/SlideThumbnails.tsx",
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71562
+}

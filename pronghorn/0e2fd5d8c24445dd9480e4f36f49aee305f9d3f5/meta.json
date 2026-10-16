@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "0e2fd5d8c24445dd9480e4f36f49aee305f9d3f5",
+ "parent": "e957091dbe39e20af766330f3b8667bd6efcc857",
+ "date": "2026-01-02",
+ "subject": "Improve header responsiveness",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71449
+}

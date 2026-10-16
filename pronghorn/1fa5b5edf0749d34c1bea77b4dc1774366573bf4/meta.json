@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1fa5b5edf0749d34c1bea77b4dc1774366573bf4",
+ "parent": "f40dfd57d689b17f36aee03ea7d4f38e15a43e9f",
+ "date": "2026-01-02",
+ "subject": "Make Image modal z-index rise",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/present/SlideImageGenerator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71463
+}

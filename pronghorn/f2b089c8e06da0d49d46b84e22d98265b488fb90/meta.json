@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f2b089c8e06da0d49d46b84e22d98265b488fb90",
+ "parent": "bb2ca73ae863d6f594a692f652059a0390317729",
+ "date": "2026-01-09",
+ "subject": "Fix prompt editor scrolling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/AgentPromptEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71540
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "4102e35a1ee2f67f73ad2d9ebe431f8fa582a0ed",
+ "parent": "a417fb6332a82d4734e08c9d4bbcf3764defb155",
+ "date": "2026-01-23",
+ "subject": "Add code block viewer for chat",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/chat/CodeBlockViewer.tsx",
+  "src/components/chat/HtmlPreview.tsx",
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 74241
+}

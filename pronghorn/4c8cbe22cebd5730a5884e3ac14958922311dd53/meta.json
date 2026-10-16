@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4c8cbe22cebd5730a5884e3ac14958922311dd53",
+ "parent": "537b6b1d1e832ee0b7207139af199947644e3b40",
+ "date": "2026-01-22",
+ "subject": "CanvasNode use NodeResizer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/CanvasNode.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72659
+}

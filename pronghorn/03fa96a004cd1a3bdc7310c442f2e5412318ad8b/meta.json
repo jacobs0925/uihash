@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "03fa96a004cd1a3bdc7310c442f2e5412318ad8b",
+ "parent": "02eddb02b6e482db1b1c12c2c01bccafd261259d",
+ "date": "2026-01-14",
+ "subject": "Make toasts dismissible",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/sonner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71373
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c406f08a46a26f96dd0e0eda31612ff9bfd6091b",
+ "parent": "c90695c3a35cfe67bfd9af2cc030e98ae527644c",
+ "date": "2026-01-15",
+ "subject": "Add migrations drop actions",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72723
+}

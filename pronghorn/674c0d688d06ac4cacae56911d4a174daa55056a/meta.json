@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "674c0d688d06ac4cacae56911d4a174daa55056a",
+ "parent": "4102e35a1ee2f67f73ad2d9ebe431f8fa582a0ed",
+ "date": "2026-01-23",
+ "subject": "Delay HTML view during streaming",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71546
+}

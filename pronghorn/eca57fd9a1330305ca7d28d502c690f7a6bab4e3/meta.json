@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "eca57fd9a1330305ca7d28d502c690f7a6bab4e3",
+ "parent": "a34df47bad3e31b7e692f477018739f7dae82f74",
+ "date": "2026-01-14",
+ "subject": "Refactor agent chat flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72629
+}

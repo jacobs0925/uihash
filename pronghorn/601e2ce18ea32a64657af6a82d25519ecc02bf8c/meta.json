@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "601e2ce18ea32a64657af6a82d25519ecc02bf8c",
+ "parent": "71d09ba2177d6e9ebe3cb1db36070170a4381d4e",
+ "date": "2026-01-08",
+ "subject": "Improve signup error messaging",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71395
+}

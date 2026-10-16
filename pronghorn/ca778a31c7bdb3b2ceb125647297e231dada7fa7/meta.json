@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ca778a31c7bdb3b2ceb125647297e231dada7fa7",
+ "parent": "a580a31a783de37e308768d5ca41cd7395a2c79e",
+ "date": "2026-01-22",
+ "subject": "Add auth token for large file",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/repository/LargeFileTracker.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71926
+}

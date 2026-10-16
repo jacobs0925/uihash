@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1f5589b6837beb6e20b5b065d9cdf7a4b18ae6c3",
+ "parent": "bac3ba0516b49ad3adcebdfd50c6600b9fae6817",
+ "date": "2026-01-15",
+ "subject": "Show artifacts inline in folder view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71500
+}

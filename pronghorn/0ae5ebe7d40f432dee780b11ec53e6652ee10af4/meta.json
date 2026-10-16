@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "0ae5ebe7d40f432dee780b11ec53e6652ee10af4",
+ "parent": "e822e2cc32448508418899536857328bcea63175",
+ "date": "2026-01-14",
+ "subject": "Make Tool Tabs dynamic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/AgentPromptEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72000
+}

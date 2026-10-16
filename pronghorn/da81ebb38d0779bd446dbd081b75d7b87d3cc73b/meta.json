@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "da81ebb38d0779bd446dbd081b75d7b87d3cc73b",
+ "parent": "e1bfad8c29650e858c2841706253f4eca03c1d2a",
+ "date": "2026-01-12",
+ "subject": "Add clone/delete messaging",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useRealtimeChatSessions.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Chat.tsx",
+  "supabase/migrations/20260112003246_6a70bc7f-eecd-40d5-85f6-9b3d9fd55d07.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71926
+}

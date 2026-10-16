@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "803d85209fc354a5e207f25758928baf0429a53b",
+ "parent": "15b3f250b96b380afde3fc351e1dbc2c5bbc4180",
+ "date": "2026-01-23",
+ "subject": "Fix publish toggle state",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ShareArtifactDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73695
+}

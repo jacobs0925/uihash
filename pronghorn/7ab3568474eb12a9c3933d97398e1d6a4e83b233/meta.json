@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "7ab3568474eb12a9c3933d97398e1d6a4e83b233",
+ "parent": "c91b68448a8785f93c9471f1f98bdf4cb2a85de3",
+ "date": "2026-01-09",
+ "subject": "Make prompt editable",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/data/codingAgentPromptTemplate.json",
+  "src/components/build/AgentPromptEditor.tsx",
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "src/hooks/useProjectAgent.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260108235616_6ee30cc0-a7a3-4746-86d7-28d38e4b07f1.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71576
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "3f7cfb98bc26df4e0e3d7b5c33e32f0e76f2ad78",
+ "parent": "278fc7b70dde8950c8d6c8a5356f8ec2104f5cd8",
+ "date": "2026-01-24",
+ "subject": "Persist reasoning per iteration",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "supabase/functions/collaboration-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73070
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "1157a2aea4dd65806a074252a37df09923f2e8e4",
+ "parent": "fbf021e2281c72b917a610687a5f2fb773bb787a",
+ "date": "2026-01-09",
+ "subject": "Externalize default prompt JSON",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/data/codingAgentPromptTemplate.json",
+  "src/components/build/AgentPromptEditor.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71826
+}

@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "ee59572aaaf7aa9ddff7231b2b09f08b5c39b266",
+ "parent": "23aa3880989c4cf2991b8ecda7a81adafe92d933",
+ "date": "2026-01-23",
+ "subject": "Multi-canvas Canvas support",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/AIArchitectDialog.tsx",
+  "src/components/canvas/CanvasNavigator.tsx",
+  "src/components/canvas/CanvasPalette.tsx",
+  "src/hooks/useProjectCanvases.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Canvas.tsx",
+  "supabase/migrations/20260123173139_4b1b68cd-e7e4-4431-9310-78b4a00f828c.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72356
+}

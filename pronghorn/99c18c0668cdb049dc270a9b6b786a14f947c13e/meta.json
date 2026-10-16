@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "99c18c0668cdb049dc270a9b6b786a14f947c13e",
+ "parent": "e784f74321d54afc088d475f4ef716762be502f9",
+ "date": "2026-01-16",
+ "subject": "Add Block/Function node type",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/data/connectionLogic.json",
+  "src/components/canvas/CanvasNode.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260116235419_53a6c42b-34fc-46a2-9c63-0f69c79ddfb7.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72223
+}

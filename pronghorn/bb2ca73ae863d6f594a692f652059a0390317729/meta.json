@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "bb2ca73ae863d6f594a692f652059a0390317729",
+ "parent": "d073502902fd3161c65a7015b8d3a96d66504cb7",
+ "date": "2026-01-09",
+ "subject": "Make mobile modal scrollable",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71482
+}

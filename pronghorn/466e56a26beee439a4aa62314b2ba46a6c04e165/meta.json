@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "466e56a26beee439a4aa62314b2ba46a6c04e165",
+ "parent": "bf328eec253247a534d08861bcacd0f59af7810a",
+ "date": "2026-01-23",
+ "subject": "Add fullscreen viewer toggle",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Viewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73194
+}

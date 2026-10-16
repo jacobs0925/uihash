@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "15b3f250b96b380afde3fc351e1dbc2c5bbc4180",
+ "parent": "ddc772742013aa67c350618c880ce9aebdccf7de",
+ "date": "2026-01-23",
+ "subject": "Add share modal for artifacts",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/artifacts/ShareArtifactDialog.tsx",
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73300
+}

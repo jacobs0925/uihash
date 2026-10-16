@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "e87baea5b228f4c7bd80ee1d1267740ce422d15c",
+ "parent": "0cd9714876744dfc090c636b614e4842626afa96",
+ "date": "2026-01-12",
+ "subject": "Streaming agent output in chat",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72444
+}

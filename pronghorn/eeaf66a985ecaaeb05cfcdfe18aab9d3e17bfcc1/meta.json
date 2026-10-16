@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "eeaf66a985ecaaeb05cfcdfe18aab9d3e17bfcc1",
+ "parent": "7e06aee3bb1b90a4b40470d2507b2958428d95e0",
+ "date": "2026-01-16",
+ "subject": "Enhance artifact edit modal and visuals",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71209
+}

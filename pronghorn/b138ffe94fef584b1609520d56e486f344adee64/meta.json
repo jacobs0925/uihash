@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "b138ffe94fef584b1609520d56e486f344adee64",
+ "parent": "2433d5f8cd7fc73c980fa8de2dc0c005dcf5a53d",
+ "date": "2026-01-14",
+ "subject": "Implement real-time parity fixes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseAgentInterface.tsx",
+  "supabase/functions/database-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72391
+}

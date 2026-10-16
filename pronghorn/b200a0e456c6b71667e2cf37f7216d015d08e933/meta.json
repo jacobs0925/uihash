@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "b200a0e456c6b71667e2cf37f7216d015d08e933",
+ "parent": "9a36985761cd50a4d8391e3af8a0232e3ead069f",
+ "date": "2026-01-02",
+ "subject": "Improve PDF export and scaling",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/present/PdfExportRenderer.tsx",
+  "src/components/present/SlideThumbnails.tsx",
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 70287
+}

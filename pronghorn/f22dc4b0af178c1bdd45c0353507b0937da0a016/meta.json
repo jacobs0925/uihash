@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "f22dc4b0af178c1bdd45c0353507b0937da0a016",
+ "parent": "eb08b2211ffe208a3de0059b42b92ff4641f4acd",
+ "date": "2026-01-12",
+ "subject": "Enable SSE streaming UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71812
+}

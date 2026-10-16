@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f218b6c520f77f4369cd96cf07faff0bd3cca01a",
+ "parent": "6a4622be038cc207f21b1872d85d20e78151f033",
+ "date": "2026-01-17",
+ "subject": "Apply VR text to text artifacts",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72230
+}

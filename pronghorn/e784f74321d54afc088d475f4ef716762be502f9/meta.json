@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "e784f74321d54afc088d475f4ef716762be502f9",
+ "parent": "9bb0759e4198662791e1c3807c1a0b74db50e23f",
+ "date": "2026-01-16",
+ "subject": "Add clear canvas action",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71914
+}

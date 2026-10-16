@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "12eee23f8964dbe100ff0a4187e3e0cd1028b0f3",
+ "parent": "20b0c5861a9ee46016f92979be90d6e24bb6992a",
+ "date": "2026-01-23",
+ "subject": "Add HTML iframe preview",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/CollaborationEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72349
+}

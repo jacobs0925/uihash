@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "0d3b2a0f8727d7a2badf13e22e49319864df7b77",
+ "parent": "1166e1d1d24fb7cf4521fcc151024516566e4041",
+ "date": "2026-01-14",
+ "subject": "Fix crash from memo wrapper",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72114
+}

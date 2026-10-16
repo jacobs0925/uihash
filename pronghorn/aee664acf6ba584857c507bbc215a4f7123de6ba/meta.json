@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "aee664acf6ba584857c507bbc215a4f7123de6ba",
+ "parent": "4c8cbe22cebd5730a5884e3ac14958922311dd53",
+ "date": "2026-01-22",
+ "subject": "Switch to CSS outline for canvas node selection",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/CanvasNode.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71503
+}

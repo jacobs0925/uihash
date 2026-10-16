@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "02476dc1068821af51cb149fb2ec50613afd78bf",
+ "parent": "40586a5a9a6bb25bed8452fc6421900884b54030",
+ "date": "2026-01-23",
+ "subject": "Remove publish section from edit modal",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72942
+}

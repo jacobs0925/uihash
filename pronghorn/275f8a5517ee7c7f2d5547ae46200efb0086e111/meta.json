@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "275f8a5517ee7c7f2d5547ae46200efb0086e111",
+ "parent": "9aef36b74ff22f0a016607e6b25929cdca4cbc03",
+ "date": "2026-01-11",
+ "subject": "Refine slide generation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/present/FontScaleControl.tsx",
+  "supabase/functions/presentation-agent/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71714
+}

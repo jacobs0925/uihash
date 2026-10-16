@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "bf328eec253247a534d08861bcacd0f59af7810a",
+ "parent": "4bb0dc4f81644978fbb2a7e9b143f1c7a3d742f2",
+ "date": "2026-01-23",
+ "subject": "Improve viewer layout to full height",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Viewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72390
+}

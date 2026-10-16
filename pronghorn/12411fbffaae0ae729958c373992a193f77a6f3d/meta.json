@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "12411fbffaae0ae729958c373992a193f77a6f3d",
+ "parent": "c4f7c520b966978cfd084ee39c75489e48f175d1",
+ "date": "2026-01-23",
+ "subject": "Enable multi-canvas UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/CanvasNavigator.tsx",
+  "src/components/canvas/CanvasPalette.tsx",
+  "src/hooks/useProjectCanvases.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Canvas.tsx",
+  "supabase/migrations/20260123171054_a956069a-630d-453e-9552-9a75b2695235.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73360
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "f6f7ce2120243116e9e7220ed998606db899a496",
+ "parent": "c05a33a6eb2d7cc522409a2b76db6e3aa1ec0cf3",
+ "date": "2026-01-23",
+ "subject": "Persist chat input state in collaboration UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/components/collaboration/CollaborationChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72588
+}

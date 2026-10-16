@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "d69802ec907b863861457f858686f1ad3da3a68b",
+ "parent": "32ec7cf161e3f005fa0e4df376d1b490483160dc",
+ "date": "2026-01-23",
+ "subject": "Enhanded html preview errors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/HtmlPreview.tsx",
+  "src/components/collaboration/CollaborationEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72945
+}

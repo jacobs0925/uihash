@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "c0d017437d2251be35389ba68490fe194419f1b3",
+ "parent": "b200a0e456c6b71667e2cf37f7216d015d08e933",
+ "date": "2026-01-02",
+ "subject": "Tune PDF export and UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/present/PdfExportRenderer.tsx",
+  "src/components/present/SlideImageGenerator.tsx",
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72087
+}

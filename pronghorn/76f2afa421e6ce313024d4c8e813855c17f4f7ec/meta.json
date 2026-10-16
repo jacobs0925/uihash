@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "76f2afa421e6ce313024d4c8e813855c17f4f7ec",
+ "parent": "8daeac88b5e0367777dbec3158d8ac9f51c8d8ec",
+ "date": "2026-01-20",
+ "subject": "Bulk delete migrations per DB",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260120112713_044bdc5e-4cf5-4258-ae63-a6e8596320b8.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73111
+}

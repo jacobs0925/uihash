@@ -1,0 +1,27 @@
+{
+ "repo": "pronghorn",
+ "sha": "031151d594f76d18eec4646bec010b82cbf8d4d4",
+ "parent": "c406f08a46a26f96dd0e0eda31612ff9bfd6091b",
+ "date": "2026-01-15",
+ "subject": "Add artifact folders support",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactTreeManager.tsx",
+  "src/components/artifacts/CreateFolderDialog.tsx",
+  "src/components/artifacts/MoveArtifactDialog.tsx",
+  "src/components/project/ArtifactsListSelector.tsx",
+  "src/hooks/useRealtimeArtifacts.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Artifacts.tsx",
+  "supabase/migrations/20260115162549_fdd41077-2a41-4a52-802b-b04ffc7d7fc9.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72643
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "5c85cde3ae4732055fcaf3d9b79c43d92509259f",
+ "parent": "d324d8070e49660f6d87999225ce23e3ec6dd0eb",
+ "date": "2026-01-08",
+ "subject": "Improve signup error handling",
+ "components": [
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 70732
+}

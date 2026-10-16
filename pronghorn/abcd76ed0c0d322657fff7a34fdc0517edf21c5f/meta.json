@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "abcd76ed0c0d322657fff7a34fdc0517edf21c5f",
+ "parent": "bd1f20eb3d45973536761f3b99d4f8c426d73970",
+ "date": "2026-01-09",
+ "subject": "Enable tool descriptions UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/AgentPromptEditor.tsx",
+  "src/hooks/useProjectAgent.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71641
+}

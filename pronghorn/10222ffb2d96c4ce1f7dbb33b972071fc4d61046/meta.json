@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "10222ffb2d96c4ce1f7dbb33b972071fc4d61046",
+ "parent": "ee59572aaaf7aa9ddff7231b2b09f08b5c39b266",
+ "date": "2026-01-23",
+ "subject": "Canvas multi-canvas UI updates",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/CanvasNavigator.tsx",
+  "src/components/project/CanvasItemsSelector.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72061
+}

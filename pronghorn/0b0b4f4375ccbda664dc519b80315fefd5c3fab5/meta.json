@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "0b0b4f4375ccbda664dc519b80315fefd5c3fab5",
+ "parent": "0ae5ebe7d40f432dee780b11ec53e6652ee10af4",
+ "date": "2026-01-14",
+ "subject": "Fix database SSE and logs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/RawLLMLogsViewer.tsx",
+  "src/components/deploy/DatabaseAgentInterface.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/database-agent-orchestrator/index.ts",
+  "supabase/migrations/20260114214151_e5802386-0503-4ba4-9598-f26b4e54114b.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73386
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "bd1f20eb3d45973536761f3b99d4f8c426d73970",
+ "parent": "1157a2aea4dd65806a074252a37df09923f2e8e4",
+ "date": "2026-01-09",
+ "subject": "Enhance prompt system UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/data/codingAgentToolsManifest.json",
+  "src/components/build/AgentPromptEditor.tsx",
+  "src/hooks/useProjectAgent.ts",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71689
+}

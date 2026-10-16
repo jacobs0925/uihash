@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "02eddb02b6e482db1b1c12c2c01bccafd261259d",
+ "parent": "c4e51cfd813835e9b1d073546c328e0b4c6e2475",
+ "date": "2026-01-14",
+ "subject": "Fallback to table structure on empty data",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71992
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "eb08b2211ffe208a3de0059b42b92ff4641f4acd",
+ "parent": "e3931245dcf448a9a2f3cf7157ec06963c7a0ecb",
+ "date": "2026-01-12",
+ "subject": "Enable streaming progress",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71909
+}

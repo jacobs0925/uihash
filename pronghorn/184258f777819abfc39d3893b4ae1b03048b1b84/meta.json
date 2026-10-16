@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "184258f777819abfc39d3893b4ae1b03048b1b84",
+ "parent": "d69802ec907b863861457f858686f1ad3da3a68b",
+ "date": "2026-01-23",
+ "subject": "Add AI button for errors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/HtmlPreview.tsx",
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/components/collaboration/CollaborationEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72846
+}

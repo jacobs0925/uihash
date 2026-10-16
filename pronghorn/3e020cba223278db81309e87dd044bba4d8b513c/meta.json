@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3e020cba223278db81309e87dd044bba4d8b513c",
+ "parent": "aee664acf6ba584857c507bbc215a4f7123de6ba",
+ "date": "2026-01-22",
+ "subject": "Fix react flow outline clash",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72229
+}

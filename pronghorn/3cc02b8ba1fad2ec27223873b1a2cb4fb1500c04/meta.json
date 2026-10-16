@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "3cc02b8ba1fad2ec27223873b1a2cb4fb1500c04",
+ "parent": "02476dc1068821af51cb149fb2ec50613afd78bf",
+ "date": "2026-01-23",
+ "subject": "Add serve-artifact edge function",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ShareArtifactDialog.tsx",
+  "supabase/config.toml",
+  "supabase/functions/serve-artifact/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72674
+}

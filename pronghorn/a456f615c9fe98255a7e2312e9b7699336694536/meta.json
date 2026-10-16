@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "a456f615c9fe98255a7e2312e9b7699336694536",
+ "parent": "eb45daf10de9d29f060c0048aa7e4a7d0de07768",
+ "date": "2026-01-02",
+ "subject": "Align slide canvas scaling",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/present/PdfExportRenderer.tsx",
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71888
+}

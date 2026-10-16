@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "6a4622be038cc207f21b1872d85d20e78151f033",
+ "parent": "99c18c0668cdb049dc270a9b6b786a14f947c13e",
+ "date": "2026-01-17",
+ "subject": "Improve pdf artifact extraction timeout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactPdfViewer.tsx",
+  "src/utils/parsePdf.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 71982
+}

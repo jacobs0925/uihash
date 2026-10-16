@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "291d0a6c3fc534626e6f64c7956979f7ca0c8c2e",
+ "parent": "f8680f71e363d7e3c44a1f047965f57745f36361",
+ "date": "2026-01-12",
+ "subject": "Update MAX_ITERATIONS defaults",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/data/codingAgentPromptTemplate.json",
+  "src/components/build/AgentConfigurationModal.tsx",
+  "src/components/build/UnifiedAgentInterface.tsx",
+  "supabase/functions/coding-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72195
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ac552f103cb2637fec23d1fd0035088990241982",
+ "parent": "6a5edb55d698bbfd384e571b7329d4a207b55a83",
+ "date": "2026-01-14",
+ "subject": "Improve database chat scrolling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseAgentInterface.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 73332
+}

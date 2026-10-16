@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "ae45367c94ee3d619974eb78d1d589be3ea327ce",
+ "parent": "1eec20e57e4e78fcd775d2138dcad75f55885847",
+ "date": "2025-12-20",
+ "subject": "Fix collaboration bugs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/components/collaboration/CollaborationChat.tsx",
+  "src/components/collaboration/CollaborationEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41444
+}

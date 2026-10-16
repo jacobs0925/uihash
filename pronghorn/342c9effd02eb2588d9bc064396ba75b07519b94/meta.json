@@ -1,0 +1,28 @@
+{
+ "repo": "pronghorn",
+ "sha": "342c9effd02eb2588d9bc064396ba75b07519b94",
+ "parent": "48a3c7deaa95b812a511c2bdc7801bf523d55b2a",
+ "date": "2025-12-21",
+ "subject": "Add gallery feature",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/gallery/GalleryCard.tsx",
+  "src/components/gallery/GalleryCloneDialog.tsx",
+  "src/components/gallery/GalleryPreviewDialog.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Dashboard.tsx",
+  "src/pages/Gallery.tsx",
+  "supabase/migrations/20251221222215_baff053b-cb7d-460f-85bb-5e8c0c1b0491.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45454
+}

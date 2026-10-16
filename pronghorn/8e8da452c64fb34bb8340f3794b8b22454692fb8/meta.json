@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "8e8da452c64fb34bb8340f3794b8b22454692fb8",
+ "parent": "57677c568c9dccb27b002565edfb3cc1b017fbad",
+ "date": "2025-12-23",
+ "subject": "Enable mobile accordion Nav",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/buildbook/BuildBookDocsViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48272
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "275e20ed947158cb747354423466ddd86646f526",
+ "parent": "a9ad457cac8eafd734e1767049e98b81f6247c39",
+ "date": "2025-12-24",
+ "subject": "Align tech stack hierarchy across views",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/docs/DocsViewer.tsx",
+  "src/components/techstack/TechStackTreeSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 61019
+}

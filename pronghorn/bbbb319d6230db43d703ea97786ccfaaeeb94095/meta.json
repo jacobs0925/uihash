@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "bbbb319d6230db43d703ea97786ccfaaeeb94095",
+ "parent": "5edb51f505ea27dfff3d66f90971475096524ecf",
+ "date": "2025-12-23",
+ "subject": "Preserve parent_id on edit",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/techstack/EditTechStackItemDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47834
+}

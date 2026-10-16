@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "c027c29e0aeefef1c6df165fea8806e360dcee94",
+ "parent": "25fd132a765b283f701d40722c7f93bafba2a8cb",
+ "date": "2025-12-23",
+ "subject": "Fix build book title and resources",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/standards/StandardsTreeManager.tsx",
+  "src/components/techstack/TechStackTreeManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47756
+}

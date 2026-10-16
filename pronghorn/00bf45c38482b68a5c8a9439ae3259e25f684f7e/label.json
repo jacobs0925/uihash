@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "00bf45c38482b68a5c8a9439ae3259e25f684f7e",
+ "date": "2025-12-21",
+ "pr": null,
+ "title": "Reorder collaboration step",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "box-shadow: ∅ → rgb(255, 255, 255) 0px 0px 0px 2px, rgb(235, 71, 99) 0px 0px 0px 4px, rgba(0, 0, 0, 0) 0px 0px 0px 0px undone by fc3e4864 \"Tweak landing visuals and legend\"; width: 40px → 24px undone by fc3e4864 \"Tweak landing visuals and legend\"; height: 40px → 24px undone by fc3e4864 \"Tweak landing visuals and legend\""
+}

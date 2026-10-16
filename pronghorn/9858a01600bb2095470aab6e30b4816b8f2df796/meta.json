@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "9858a01600bb2095470aab6e30b4816b8f2df796",
+ "parent": "ffe97d824671258c8cf35b1329994d09a3589548",
+ "date": "2025-12-23",
+ "subject": "Disable auto-scroll and add bottom jump button in BuildBookChat",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/buildbook/BuildBookChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48369
+}

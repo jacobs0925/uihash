@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "25fd132a765b283f701d40722c7f93bafba2a8cb",
+ "parent": "f5cb1047b8241760e40906a0321f2c1207082ac6",
+ "date": "2025-12-23",
+ "subject": "Fix build book save flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/BuildBookEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50592
+}

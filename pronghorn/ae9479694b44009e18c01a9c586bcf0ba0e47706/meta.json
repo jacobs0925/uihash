@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ae9479694b44009e18c01a9c586bcf0ba0e47706",
+ "parent": "c62412c12517280d50e32ba114943a72cdbdf977",
+ "date": "2025-12-21",
+ "subject": "Fix justSavedRef race",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41661
+}

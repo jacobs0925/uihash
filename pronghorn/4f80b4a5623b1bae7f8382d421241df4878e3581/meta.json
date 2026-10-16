@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4f80b4a5623b1bae7f8382d421241df4878e3581",
+ "parent": "3209121f46ff65a6565f4facdac01ee50c239bf4",
+ "date": "2025-12-20",
+ "subject": "Show timeline in Preview mode",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/CollaborationEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41349
+}

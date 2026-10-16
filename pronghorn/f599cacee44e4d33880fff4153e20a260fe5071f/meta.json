@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f599cacee44e4d33880fff4153e20a260fe5071f",
+ "parent": "847a6bb6158da25d163b5da7b7fe033109692982",
+ "date": "2025-12-24",
+ "subject": "Add landing Context section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 115260
+}

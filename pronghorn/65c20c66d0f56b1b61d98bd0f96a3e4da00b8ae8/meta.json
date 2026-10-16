@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "65c20c66d0f56b1b61d98bd0f96a3e4da00b8ae8",
+ "parent": "4eb0214051c8e43c52dd2b616033868183631386",
+ "date": "2025-12-21",
+ "subject": "Fix provider order crash",
+ "components": [
+  "main.tsx"
+ ],
+ "files": [
+  "src/main.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41468
+}

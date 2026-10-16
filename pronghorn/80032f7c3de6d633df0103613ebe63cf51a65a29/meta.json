@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "80032f7c3de6d633df0103613ebe63cf51a65a29",
+ "parent": "20a660c5aa8425b50f95f36c13e640bde494033a",
+ "date": "2025-12-19",
+ "subject": "Default nullable non-keys",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/import/DatabaseErdView.tsx",
+  "src/components/deploy/import/SchemaCreator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41482
+}

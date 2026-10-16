@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "a4922ca9425d908ba858e93f2f74e7d54a1c2984",
+ "parent": "df0d9c9a5bb056545a6e3199ce5421cfc9b39e8e",
+ "date": "2025-12-20",
+ "subject": "Adjust chat width handling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/CollaborationChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41179
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "080acce00e30ab2e28a270fd9f42bd0e59f02462",
+ "parent": "55025ec814ce112b0ff606ad5f74f473730db2fd",
+ "date": "2025-12-20",
+ "subject": "Keep merge history intact",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41461
+}

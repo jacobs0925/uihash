@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4fca4a9836d0e97b346bb8a6d71ce6d98e915088",
+ "parent": "2749f92e7b5ea10f1d4ac3c91beb3d22a0a959b7",
+ "date": "2025-12-22",
+ "subject": "Add forwardRef support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactDownloadDropdown.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48691
+}

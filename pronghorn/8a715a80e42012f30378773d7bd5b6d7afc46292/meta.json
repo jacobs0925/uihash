@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "8a715a80e42012f30378773d7bd5b6d7afc46292",
+ "parent": "72966b9cf5eab592b45315bf60a21ff41ea405b2",
+ "date": "2025-12-22",
+ "subject": "Hide custom styles behind checkbox",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactPptxViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41925
+}

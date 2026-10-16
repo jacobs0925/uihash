@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "6ddbdea348b45bfafff1d416fd55d4cabad2a061",
+ "parent": "41b2fbe79f6a0c233eda7e146a14f3a9428f6772",
+ "date": "2025-12-21",
+ "subject": "Fix Monaco onChange loop guard",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41518
+}

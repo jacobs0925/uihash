@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "c5889f14a028432e51f6e9be55b4adde1ac236ee",
+ "parent": "134406bf1cc6895dca69a8a4eb9faafbb19c47d8",
+ "date": "2025-12-19",
+ "subject": "Convert mongoids to uuids",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/import/DatabaseErdView.tsx",
+  "src/utils/parseJson.ts",
+  "src/utils/sqlGenerator.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41068
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "d8d012c25d694ab182b80dc19af32001a56814eb",
+ "parent": "cf7d07bb0d646f320848fb1701b47ca53cbcfbd2",
+ "date": "2025-12-24",
+ "subject": "Standardize DocsViewer icons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/docs/DocsViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 60822
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "f28026baca0a9abd17c0cee9d85fd49c0c35d4f4",
+ "parent": "66e58221522ecc314e9803be532d7efaa0fd4eeb",
+ "date": "2025-12-23",
+ "subject": "Attach VR text to images",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/components/artifacts/ArtifactImageGallery.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47658
+}

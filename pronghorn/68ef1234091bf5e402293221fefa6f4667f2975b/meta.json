@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "68ef1234091bf5e402293221fefa6f4667f2975b",
+ "parent": "a76d088efa6967ec88ac86e15775c68d715245b9",
+ "date": "2025-12-21",
+ "subject": "Fix landing login link",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41645
+}

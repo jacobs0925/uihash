@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "ff923bbc9a4d906532067a9e82bfc4a4bddc3a0e",
+ "parent": "323e117d1ed7c98742d12307b525e2d99077c7be",
+ "date": "2025-12-21",
+ "subject": "Fix text wrap and guard edge",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/CollaborationChat.tsx",
+  "supabase/functions/collaboration-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41948
+}

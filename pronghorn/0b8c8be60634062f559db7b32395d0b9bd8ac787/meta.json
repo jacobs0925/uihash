@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "0b8c8be60634062f559db7b32395d0b9bd8ac787",
+ "parent": "18709d7c9f84b22f335d5f3a4862247352d8647c",
+ "date": "2025-12-20",
+ "subject": "Fix hook order crash",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41166
+}

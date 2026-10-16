@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "a06e826f6948851a02422ee2298096eeb42ffe80",
+ "parent": "0ac884940cadac877d10836a2f362c6d71a33991",
+ "date": "2025-12-23",
+ "subject": "Implement large file handling",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/build/AgentFileTree.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Build.tsx",
+  "supabase/migrations/20251223025655_b5b901f1-f696-4eac-941f-196307d424bd.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47281
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "deb97302c6a9ce6ca96f77a7b57ce85f2b173ad6",
+ "parent": "0b8c8be60634062f559db7b32395d0b9bd8ac787",
+ "date": "2025-12-20",
+ "subject": "Tune chat size wrap",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/components/collaboration/CollaborationChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41459
+}

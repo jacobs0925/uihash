@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "0d4d9cae13bdfda109459099d69a2a42140f7e34",
+ "parent": "00a3dd616f18936e87c8a80939ed42727ef2f0fc",
+ "date": "2025-12-19",
+ "subject": "Add real errors and re-run",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx",
+  "src/components/deploy/import/ImportProgressTracker.tsx",
+  "src/utils/parseExcel.ts",
+  "src/utils/sqlGenerator.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41143
+}

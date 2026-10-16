@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "6b0f37aa4979a5ea9170510cd9286cbb7fcdbb34",
+ "parent": "8729e187f3382c7df53056850ad87e1899db6b47",
+ "date": "2025-12-21",
+ "subject": "AddDBConnSecrets edge function",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/ConnectDatabaseDialog.tsx",
+  "src/lib/databaseConnectionSecrets.ts",
+  "supabase/config.toml",
+  "supabase/functions/database-connection-secrets/index.ts",
+  "supabase/functions/manage-database/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42271
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "93d96b1b650bc8643593fa6175fda60f23a38353",
+ "parent": "bb23a534aecd5bae0b6c20497822fb4fa2795f96",
+ "date": "2025-12-24",
+ "subject": "Fix pwa install prompt",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PWAUpdatePrompt.tsx",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 61038
+}

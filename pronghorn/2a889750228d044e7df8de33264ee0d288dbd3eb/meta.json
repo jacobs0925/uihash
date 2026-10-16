@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "2a889750228d044e7df8de33264ee0d288dbd3eb",
+ "parent": "ab0dcc9921528fdc1154e986ffa93e376f8fd687",
+ "date": "2025-12-20",
+ "subject": "Integrate ProjectSelector",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/components/collaboration/CollaborationChat.tsx",
+  "supabase/functions/collaboration-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41528
+}

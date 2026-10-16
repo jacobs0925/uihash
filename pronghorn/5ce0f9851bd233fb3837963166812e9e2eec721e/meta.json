@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "5ce0f9851bd233fb3837963166812e9e2eec721e",
+ "parent": "39e4e0ff87db8d33d7b95d5795f720730f500c41",
+ "date": "2025-12-24",
+ "subject": "Adjust DocsViewer widths and icons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/buildbook/BuildBookDocsViewer.tsx",
+  "src/components/docs/DocsViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 61346
+}

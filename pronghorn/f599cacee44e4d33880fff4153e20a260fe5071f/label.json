@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "f599cacee44e4d33880fff4153e20a260fe5071f",
+ "date": "2025-12-24",
+ "pr": null,
+ "title": "Add landing Context section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 593 later commits"
+}

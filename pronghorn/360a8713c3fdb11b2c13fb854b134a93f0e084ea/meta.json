@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "360a8713c3fdb11b2c13fb854b134a93f0e084ea",
+ "parent": "dc85208d258369e87579cf8c07f1effa57060af5",
+ "date": "2025-12-24",
+ "subject": "Fix License page styling and nav",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/License.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 19,
+ "ms": 67273
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "9fddf5b0132d31a386150e581dba388c3267dab6",
+ "parent": "c1968620e1b8aedebe29d69b24197361d4fb50f6",
+ "date": "2025-12-19",
+ "subject": "Show multi-table SchemaCreator",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx",
+  "src/components/deploy/import/SchemaCreator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40666
+}

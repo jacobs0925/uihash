@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "8d84cffdac94c126a4db6acaa24470993d91ade3",
+ "parent": "1d0f384b75a30a983f68d4f47e38cae6aca226a2",
+ "date": "2025-12-20",
+ "subject": "Wrap deployment URL on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41322
+}

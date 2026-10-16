@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "326998634da8b0e00a3821d5b66dee30be886352",
+ "parent": "2c2fa446247b452e17e9edf46dbe6a0a5fb85e52",
+ "date": "2025-12-23",
+ "subject": "Adjust gallery height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/EnhanceImageDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47694
+}

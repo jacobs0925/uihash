@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "dc85208d258369e87579cf8c07f1effa57060af5",
+ "date": "2025-12-24",
+ "pr": null,
+ "title": "Standardize Alpha styling and dashboards",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 610 later commits"
+}

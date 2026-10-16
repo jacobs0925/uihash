@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "956fa176a4a5456adba438f03054d749f7630ed4",
+ "parent": "a8f5959ba771260f91b6ecfe4562d3f73d30fede",
+ "date": "2025-12-23",
+ "subject": "Enhance BuildBook UI and AI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/buildbook/BuildBookChat.tsx",
+  "src/components/buildbook/BuildBookDocsViewer.tsx",
+  "src/hooks/useRealtimeBuildBooks.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/BuildBookDetail.tsx",
+  "src/pages/BuildBookEditor.tsx",
+  "supabase/migrations/20251223144836_0a298ecf-8659-471b-bc0e-23d3b80291a3.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50663
+}

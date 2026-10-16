@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "332e374378d649b335fe37789da5b0db8d7ab29d",
+ "parent": "1e93e49a254341e2a8c3c162b5e98d3c1712c5a2",
+ "date": "2025-12-21",
+ "subject": "Fix wrap in collaboration chat",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/CollaborationChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41856
+}

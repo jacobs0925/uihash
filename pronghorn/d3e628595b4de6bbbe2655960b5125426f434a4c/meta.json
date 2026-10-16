@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "d3e628595b4de6bbbe2655960b5125426f434a4c",
+ "parent": "c5889f14a028432e51f6e9be55b4adde1ac236ee",
+ "date": "2025-12-19",
+ "subject": "Add UI+SQL Wrappers",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx",
+  "src/components/deploy/import/JsonDataViewer.tsx",
+  "src/components/deploy/import/SchemaCreator.tsx",
+  "src/utils/sqlGenerator.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41327
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "eec4ceb80b358e9b691ba98554402de1d157815d",
+ "parent": "d3d5d8abb90d762c9d783d8f8575f82d8143f46f",
+ "date": "2025-12-21",
+ "subject": "Improve encrypted env vars flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentDialog.tsx",
+  "src/components/deploy/EnvVarEditor.tsx",
+  "supabase/functions/generate-local-package/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41484
+}

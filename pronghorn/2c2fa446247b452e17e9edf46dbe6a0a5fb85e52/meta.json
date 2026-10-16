@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2c2fa446247b452e17e9edf46dbe6a0a5fb85e52",
+ "parent": "88a39a000a177da8da6d30cb283113e819cbdffe",
+ "date": "2025-12-23",
+ "subject": "Add prompt as content fallback",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/EnhanceImageDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47234
+}

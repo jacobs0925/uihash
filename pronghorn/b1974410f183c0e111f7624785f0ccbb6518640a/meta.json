@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "b1974410f183c0e111f7624785f0ccbb6518640a",
+ "parent": "1b4df255c27283599624d00d23a064ea24585c2f",
+ "date": "2025-12-20",
+ "subject": "Refactor generate-local-package",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentCard.tsx",
+  "supabase/functions/generate-local-package/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41636
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "0869cb53060c27b3727d01d3c60d12fd26882439",
+ "parent": "ae45367c94ee3d619974eb78d1d589be3ea327ce",
+ "date": "2025-12-20",
+ "subject": "Enhance collaboration UX",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/components/collaboration/CollaborationChat.tsx",
+  "src/components/collaboration/CollaborationEditor.tsx",
+  "supabase/functions/collaboration-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41484
+}

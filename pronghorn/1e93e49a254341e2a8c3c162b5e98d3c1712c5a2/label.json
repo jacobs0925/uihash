@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "1e93e49a254341e2a8c3c162b5e98d3c1712c5a2",
+ "date": "2025-12-21",
+ "pr": null,
+ "title": "Restore Design and Build legends on Landing",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 726 later commits"
+}

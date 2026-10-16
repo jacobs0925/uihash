@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ffe97d824671258c8cf35b1329994d09a3589548",
+ "parent": "f46407ff382e78a1ee20917c41ba5ad20bf766bb",
+ "date": "2025-12-23",
+ "subject": "Fix buildbook chat scroll button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/buildbook/BuildBookChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47804
+}

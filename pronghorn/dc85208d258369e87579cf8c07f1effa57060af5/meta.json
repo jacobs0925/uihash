@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "dc85208d258369e87579cf8c07f1effa57060af5",
+ "parent": "913fc79e61c8039195c2de0b7f0a1f343deb1d85",
+ "date": "2025-12-24",
+ "subject": "Standardize Alpha styling and dashboards",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/layout/PrimaryNav.tsx",
+  "src/pages/Dashboard.tsx",
+  "src/pages/License.tsx",
+  "src/pages/Privacy.tsx",
+  "src/pages/Terms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 27,
+ "ms": 106408
+}

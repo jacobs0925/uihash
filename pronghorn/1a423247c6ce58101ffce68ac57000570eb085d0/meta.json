@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1a423247c6ce58101ffce68ac57000570eb085d0",
+ "parent": "eec4ceb80b358e9b691ba98554402de1d157815d",
+ "date": "2025-12-21",
+ "subject": "Fix env var loading fallback",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41496
+}

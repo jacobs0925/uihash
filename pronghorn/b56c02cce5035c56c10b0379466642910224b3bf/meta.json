@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "b56c02cce5035c56c10b0379466642910224b3bf",
+ "parent": "c027c29e0aeefef1c6df165fea8806e360dcee94",
+ "date": "2025-12-23",
+ "subject": "Enhance Build Books UX",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/docs/DocsViewer.tsx",
+  "src/components/resources/ResourceManager.tsx",
+  "src/components/standards/StandardsTreeManager.tsx",
+  "src/components/techstack/TechStackCard.tsx",
+  "src/components/techstack/TechStackTreeManager.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251223134601_778b9f69-75ad-4e93-a728-20f5d6d9cd0d.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48313
+}

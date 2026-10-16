@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "39e4e0ff87db8d33d7b95d5795f720730f500c41",
+ "parent": "d8d012c25d694ab182b80dc19af32001a56814eb",
+ "date": "2025-12-24",
+ "subject": "Improve doc viewer icons sizing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/buildbook/BuildBookDocsViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 60732
+}

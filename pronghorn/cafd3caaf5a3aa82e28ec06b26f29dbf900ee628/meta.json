@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "cafd3caaf5a3aa82e28ec06b26f29dbf900ee628",
+ "parent": "ae64cb920ad36cbe013f4e7da86914d4d1fe709c",
+ "date": "2025-12-19",
+ "subject": "Add normalization flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx",
+  "src/components/deploy/import/FileUploader.tsx",
+  "src/components/deploy/import/JsonNormalizationSelector.tsx",
+  "src/utils/parseJson.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41297
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "cf1f0ea044878459dd6014245f8116a4ebeddd8c",
+ "parent": "65c20c66d0f56b1b61d98bd0f96a3e4da00b8ae8",
+ "date": "2025-12-21",
+ "subject": "Implement token-based verify flow",
+ "components": [
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "src/pages/Auth.tsx",
+  "supabase/functions/send-auth-email/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 44344
+}

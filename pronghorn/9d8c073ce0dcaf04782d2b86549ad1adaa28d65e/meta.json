@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "9d8c073ce0dcaf04782d2b86549ad1adaa28d65e",
+ "parent": "7cd2c44151052e64c8bc1b279bcb7be9d323db21",
+ "date": "2025-12-20",
+ "subject": "Show restore button always",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/components/collaboration/CollaborationEditor.tsx",
+  "src/components/collaboration/CollaborationTimeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41416
+}

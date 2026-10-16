@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "00a3dd616f18936e87c8a80939ed42727ef2f0fc",
+ "parent": "e10f7becda0a46bf5f44e1c52fd065a5461343a0",
+ "date": "2025-12-19",
+ "subject": "Add Delete All folder menus",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "src/components/deploy/DatabaseSchemaTree.tsx",
+  "src/components/deploy/DatabaseTreeContextMenu.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41339
+}

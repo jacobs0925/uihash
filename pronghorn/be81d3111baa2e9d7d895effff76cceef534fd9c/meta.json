@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "be81d3111baa2e9d7d895effff76cceef534fd9c",
+ "parent": "e88a2a423de92b4abe9a8c19de38af52a4818e30",
+ "date": "2025-12-22",
+ "subject": "Hide DOCX rasterization behind negative z-index and add cancelable progress",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactDocxViewer.tsx",
+  "src/utils/parseDocx.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47092
+}

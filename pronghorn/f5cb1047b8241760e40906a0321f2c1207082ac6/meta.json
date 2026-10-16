@@ -1,0 +1,29 @@
+{
+ "repo": "pronghorn",
+ "sha": "f5cb1047b8241760e40906a0321f2c1207082ac6",
+ "parent": "551e4f81d1eb2381977cb4ed9af55c2c3915a6a0",
+ "date": "2025-12-23",
+ "subject": "Enable per-item selections",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/buildbook/ApplyBuildBookDialog.tsx",
+  "src/components/buildbook/BuildBookCoverUpload.tsx",
+  "src/components/buildbook/StandardsCategoryPicker.tsx",
+  "src/components/buildbook/TechStackPicker.tsx",
+  "src/components/resources/ResourceManager.tsx",
+  "src/hooks/useRealtimeBuildBooks.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/BuildBookDetail.tsx",
+  "src/pages/BuildBookEditor.tsx",
+  "supabase/migrations/20251223132619_2a97e856-b828-4f29-afee-fe1ffb1a1579.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49851
+}

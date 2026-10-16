@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "6edc81c008d18c308513041ab7868b6aabe93025",
+ "parent": "e52b01d1390c8600d87cb30ac129d787cebe883d",
+ "date": "2025-12-23",
+ "subject": "Implement bundle optimization",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/App.tsx",
+  "src/components/PageLoader.tsx",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59320
+}

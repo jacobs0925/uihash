@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "ff3eccfe024b39fdb0a3acdf32e45f99346d52b3",
+ "parent": "0f0490e0e953f5a560941b76a7ef478e9c7700a2",
+ "date": "2025-12-21",
+ "subject": "Fix publish and splash support",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/admin/PublishProjectDialog.tsx",
+  "src/components/dashboard/ProjectCard.tsx",
+  "src/components/project/SplashImageSelector.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Dashboard.tsx",
+  "src/pages/project/ProjectSettings.tsx",
+  "supabase/migrations/20251221204303_88434ee0-666f-45af-bce5-e6bc4a4e64f4.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44949
+}

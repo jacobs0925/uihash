@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "66e58221522ecc314e9803be532d7efaa0fd4eeb",
+ "parent": "3fe961c5a949a02c5ce88e220df82c6608ba114f",
+ "date": "2025-12-23",
+ "subject": "Fix pptx preview truncation and VR images",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/components/artifacts/ArtifactPptxViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47409
+}

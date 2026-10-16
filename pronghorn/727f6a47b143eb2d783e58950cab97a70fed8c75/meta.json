@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "727f6a47b143eb2d783e58950cab97a70fed8c75",
+ "parent": "513736789b597728405658bd83b2f2dc93a102d1",
+ "date": "2025-12-22",
+ "subject": "Stack mobile layout for artifacts",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47827
+}

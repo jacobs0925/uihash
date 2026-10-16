@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "cc6ba9d819d2f29d7a6913924313d345a0a58d30",
+ "parent": "f51bac4803cdbb2f32cab44b829042eaa3be211c",
+ "date": "2025-12-20",
+ "subject": "Improve mobile layout cards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseCard.tsx",
+  "src/components/deploy/ExternalDatabaseCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41081
+}

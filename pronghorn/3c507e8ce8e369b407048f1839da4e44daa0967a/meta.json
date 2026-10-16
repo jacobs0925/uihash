@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3c507e8ce8e369b407048f1839da4e44daa0967a",
+ "parent": "8e8da452c64fb34bb8340f3794b8b22454692fb8",
+ "date": "2025-12-23",
+ "subject": "Disable auto-scroll in BuildBookChat",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/buildbook/BuildBookChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48086
+}

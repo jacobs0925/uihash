@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "d962abad9e34c62bc68ff7ebc10da64c4ffb22af",
+ "parent": "c2666fa1496f8e5dc31352f5e3278796fb95ba2b",
+ "date": "2025-12-22",
+ "subject": "Integrate pre-import Visual Recognition",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/components/artifacts/ArtifactPptxViewer.tsx",
+  "src/utils/parseDocx.ts",
+  "src/utils/parsePdf.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47384
+}

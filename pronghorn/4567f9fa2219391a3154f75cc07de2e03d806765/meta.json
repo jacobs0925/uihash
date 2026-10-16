@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "4567f9fa2219391a3154f75cc07de2e03d806765",
+ "parent": "e345f4da4ba43a5233e344ccee584b5636aa516a",
+ "date": "2025-12-20",
+ "subject": "Update CollaborationContext UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/components/collaboration/CollaborationChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41820
+}

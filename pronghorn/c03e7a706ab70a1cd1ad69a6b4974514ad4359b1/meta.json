@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "c03e7a706ab70a1cd1ad69a6b4974514ad4359b1",
+ "parent": "cafd3caaf5a3aa82e28ec06b26f29dbf900ee628",
+ "date": "2025-12-19",
+ "subject": "Implement normalization plan",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx",
+  "src/components/deploy/import/FileUploader.tsx",
+  "src/components/deploy/import/JsonNormalizationSelector.tsx",
+  "src/utils/parseJson.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41587
+}

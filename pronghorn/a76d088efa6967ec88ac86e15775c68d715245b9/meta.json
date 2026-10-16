@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "a76d088efa6967ec88ac86e15775c68d715245b9",
+ "parent": "09f377efc7d1f6d33f15e8b6519e09802dc9a308",
+ "date": "2025-12-21",
+ "subject": "Improve verify flow and login",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx",
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 51087
+}

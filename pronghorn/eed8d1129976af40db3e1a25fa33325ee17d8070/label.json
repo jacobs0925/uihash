@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "eed8d1129976af40db3e1a25fa33325ee17d8070",
+ "date": "2025-12-21",
+ "pr": null,
+ "title": "Add password flow and visibility",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 742 later commits"
+}

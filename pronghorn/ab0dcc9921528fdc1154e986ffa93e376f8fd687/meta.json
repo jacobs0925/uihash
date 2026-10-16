@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ab0dcc9921528fdc1154e986ffa93e376f8fd687",
+ "parent": "eb8c73456d2fa59229914c76a5abbfc4532e3584",
+ "date": "2025-12-20",
+ "subject": "Fix editor layout for Preview mode",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/CollaborationEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41627
+}

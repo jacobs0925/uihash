@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1471bb4d4e689f5b36ae7fe8f96dc0f6bdf32d4b",
+ "parent": "a7c5e5812ff152601ee324d2e862689786960046",
+ "date": "2025-12-24",
+ "subject": "Improve DocsView UI and fixes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/buildbook/BuildBookDocsViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 60660
+}

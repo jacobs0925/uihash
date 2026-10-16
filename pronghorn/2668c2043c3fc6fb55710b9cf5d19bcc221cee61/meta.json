@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2668c2043c3fc6fb55710b9cf5d19bcc221cee61",
+ "parent": "85f3682199da9cbef1be88bb6efb1251f69e974d",
+ "date": "2025-12-19",
+ "subject": "Improve smart import flow match",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41226
+}

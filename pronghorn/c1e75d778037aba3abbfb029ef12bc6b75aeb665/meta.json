@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "c1e75d778037aba3abbfb029ef12bc6b75aeb665",
+ "parent": "980ead6742a86044d01df0d2e93c483bc14ca57a",
+ "date": "2025-12-20",
+ "subject": "Add collaboration UI scaffolding",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/components/collaboration/CollaborationChat.tsx",
+  "src/components/collaboration/CollaborationEditor.tsx",
+  "src/components/collaboration/CollaborationHeatmap.tsx",
+  "src/components/collaboration/CollaborationTimeline.tsx",
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41324
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "134406bf1cc6895dca69a8a4eb9faafbb19c47d8",
+ "parent": "a81511703dfa53df0d5540077dceeb5b3af955b9",
+ "date": "2025-12-19",
+ "subject": "Implement import safeguards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx",
+  "src/components/deploy/import/SqlReviewPanel.tsx",
+  "src/utils/sqlGenerator.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41092
+}

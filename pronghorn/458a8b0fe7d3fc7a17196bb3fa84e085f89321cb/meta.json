@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "458a8b0fe7d3fc7a17196bb3fa84e085f89321cb",
+ "parent": "2c428785f19e206ad3da873e214c3cdcef29e596",
+ "date": "2025-12-21",
+ "subject": "Fix password reset race",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41487
+}

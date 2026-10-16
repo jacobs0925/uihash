@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "6d94d107c37e3025977608040373090fba5a40a2",
+ "parent": "1ad16fe3e2e56ee3d48f81d57ecfaebbad3cbb5a",
+ "date": "2025-12-21",
+ "subject": "Refactor landing legend to Plan",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 51141
+}

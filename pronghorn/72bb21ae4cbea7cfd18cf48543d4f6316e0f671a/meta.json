@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "72bb21ae4cbea7cfd18cf48543d4f6316e0f671a",
+ "parent": "080acce00e30ab2e28a270fd9f42bd0e59f02462",
+ "date": "2025-12-20",
+ "subject": "Preserve collaboration on merge",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251220142306_6c8d936c-e272-4ca3-8f59-a98fba0deafd.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41767
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "66074cf0852a3fc11c957823df7c5ec334ee57fd",
+ "parent": "ae9479694b44009e18c01a9c586bcf0ba0e47706",
+ "date": "2025-12-21",
+ "subject": "Migrate remove fk and roll key",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/TokenManagement.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251221132752_bd097351-c181-41b9-98ac-8ecb75a10d2b.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41232
+}

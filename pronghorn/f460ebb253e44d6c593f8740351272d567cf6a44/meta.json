@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f460ebb253e44d6c593f8740351272d567cf6a44",
+ "parent": "02ed81e2ea4a1f36e870056e6f53859a71ee412c",
+ "date": "2025-12-21",
+ "subject": "Fix stale token cache",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/TokenManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41388
+}

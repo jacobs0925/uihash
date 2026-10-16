@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "6728c7e47aed476de566ed76a9d24a77d8bc35ab",
+ "parent": "bf943a7f01c570f0b8dc437feb4629b95b0d1d7d",
+ "date": "2025-12-22",
+ "subject": "Improve PPTX styling UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactPptxViewer.tsx",
+  "src/utils/parsePptx.ts",
+  "src/utils/renderPptxSlide.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42169
+}

@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "4eb0214051c8e43c52dd2b616033868183631386",
+ "date": "2025-12-21",
+ "pr": null,
+ "title": "Implement branded Resend emails",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 741 later commits"
+}

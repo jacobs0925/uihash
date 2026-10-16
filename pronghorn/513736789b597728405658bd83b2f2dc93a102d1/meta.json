@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "513736789b597728405658bd83b2f2dc93a102d1",
+ "parent": "d962abad9e34c62bc68ff7ebc10da64c4ffb22af",
+ "date": "2025-12-22",
+ "subject": "Improve Visual Recognition flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/components/artifacts/ArtifactDocxViewer.tsx",
+  "src/components/artifacts/ArtifactPdfPlaceholder.tsx",
+  "src/components/artifacts/ArtifactPdfViewer.tsx",
+  "src/components/artifacts/ArtifactPptxViewer.tsx",
+  "src/components/artifacts/VisualRecognitionImportDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47102
+}

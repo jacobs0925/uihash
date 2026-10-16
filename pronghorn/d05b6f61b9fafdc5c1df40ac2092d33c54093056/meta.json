@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "d05b6f61b9fafdc5c1df40ac2092d33c54093056",
+ "parent": "2a216e9ead070c2791f1a8a28c9e530a492fdef4",
+ "date": "2025-12-22",
+ "subject": "Fix PDF menu order and text whitespace",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/utils/parsePdf.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 44571
+}

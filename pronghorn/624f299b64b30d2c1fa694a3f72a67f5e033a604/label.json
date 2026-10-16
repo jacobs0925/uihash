@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "624f299b64b30d2c1fa694a3f72a67f5e033a604",
+ "date": "2025-12-24",
+ "pr": null,
+ "title": "Add light/dark theme toggle",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 596 later commits"
+}

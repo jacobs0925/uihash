@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "189885c8e189f0a9735906827777b949965f8a49",
+ "parent": "4d9132762686d382d41c4aaf8c10fee0c28f309a",
+ "date": "2025-12-22",
+ "subject": "Fix docx rasterization",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/components/artifacts/ArtifactDocxViewer.tsx",
+  "src/utils/parseDocx.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47195
+}

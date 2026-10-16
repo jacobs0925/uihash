@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "00bf45c38482b68a5c8a9439ae3259e25f684f7e",
+ "parent": "665107f72b91e224d38d8e08ecf9bae75fce903d",
+ "date": "2025-12-21",
+ "subject": "Reorder collaboration step",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 28,
+ "ms": 52099
+}

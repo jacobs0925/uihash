@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "3682f95184ece5b2760e4e7d97d4c41dda4af97e",
+ "parent": "a06e826f6948851a02422ee2298096eeb42ffe80",
+ "date": "2025-12-23",
+ "subject": "Add enhance image feature",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/artifacts/EnhanceImageDialog.tsx",
+  "src/pages/project/Artifacts.tsx",
+  "supabase/config.toml",
+  "supabase/functions/enhance-image/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 46791
+}

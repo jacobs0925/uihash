@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "67c456b8d51d026bbdd6a445e761354cb714a7c1",
+ "parent": "48cd466c599eb2a0348f06d18e0ed3d05bded646",
+ "date": "2025-12-22",
+ "subject": "Add markdown export utils",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactDownloadDropdown.tsx",
+  "src/components/specifications/SavedSpecificationsPanel.tsx",
+  "src/pages/project/Artifacts.tsx",
+  "src/utils/markdownProcessor.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42582
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "0f0490e0e953f5a560941b76a7ef478e9c7700a2",
+ "parent": "3b1f2cd27485ccd951a5ecd49353d55ac5ba3a9e",
+ "date": "2025-12-21",
+ "subject": "Add clone UI to settings",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/ProjectSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41577
+}

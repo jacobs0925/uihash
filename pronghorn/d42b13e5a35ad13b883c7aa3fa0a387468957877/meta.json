@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "d42b13e5a35ad13b883c7aa3fa0a387468957877",
+ "parent": "bbbb319d6230db43d703ea97786ccfaaeeb94095",
+ "date": "2025-12-23",
+ "subject": "Add build book downloads",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/buildbook/BuildBookChat.tsx",
+  "src/components/buildbook/BuildBookDocsViewer.tsx",
+  "src/lib/buildBookDownloadUtils.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47655
+}

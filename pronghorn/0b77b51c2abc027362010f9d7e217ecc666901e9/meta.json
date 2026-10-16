@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "0b77b51c2abc027362010f9d7e217ecc666901e9",
+ "parent": "4f29eb27a4243b077b0310aebdb5bf593b38f8bf",
+ "date": "2025-12-22",
+ "subject": "Enhance gallery fullscreen",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/upload-artifact-image/index.ts",
+  "supabase/migrations/20251222193751_70338557-0df8-443c-9cf1-71079f0c1543.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 46801
+}

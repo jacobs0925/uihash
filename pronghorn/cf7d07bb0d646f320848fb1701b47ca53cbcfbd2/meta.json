@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "cf7d07bb0d646f320848fb1701b47ca53cbcfbd2",
+ "parent": "19ffe7424116b5fac4b7208b911f6212065a7d13",
+ "date": "2025-12-24",
+ "subject": "Mimic BuildBook Docs layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/docs/DocsViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 61569
+}

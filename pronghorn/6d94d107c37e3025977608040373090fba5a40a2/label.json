@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "6d94d107c37e3025977608040373090fba5a40a2",
+ "date": "2025-12-21",
+ "pr": null,
+ "title": "Refactor landing legend to Plan",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 727 later commits"
+}

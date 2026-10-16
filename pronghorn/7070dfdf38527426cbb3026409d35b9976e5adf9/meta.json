@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7070dfdf38527426cbb3026409d35b9976e5adf9",
+ "parent": "956fa176a4a5456adba438f03054d749f7630ed4",
+ "date": "2025-12-23",
+ "subject": "Enhance BuildBookChat context",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/buildbook/BuildBookChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48512
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "600bcc1af578c42ededa63e88a4c1b8e53772e04",
+ "parent": "774d260cabe727258909cce30059687cd4a46408",
+ "date": "2025-12-21",
+ "subject": "Fix Chat and Specs broadcasts",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useRealtimeChatSessions.ts",
+  "src/pages/project/Chat.tsx",
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41457
+}

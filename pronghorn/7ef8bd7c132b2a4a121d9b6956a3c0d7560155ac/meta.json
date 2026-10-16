@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "7ef8bd7c132b2a4a121d9b6956a3c0d7560155ac",
+ "parent": "4fca4a9836d0e97b346bb8a6d71ce6d98e915088",
+ "date": "2025-12-22",
+ "subject": "Reverted to commit 2450e640c14ad38d53b090ec582cea43510ac5c4",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/artifacts/ArtifactDownloadDropdown.tsx",
+  "src/components/artifacts/ArtifactPdfViewer.tsx",
+  "src/utils/parsePdf.ts",
+  "src/utils/parsePdfOcr.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48099
+}

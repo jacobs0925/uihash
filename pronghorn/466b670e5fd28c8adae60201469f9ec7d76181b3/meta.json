@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "466b670e5fd28c8adae60201469f9ec7d76181b3",
+ "parent": "8a715a80e42012f30378773d7bd5b6d7afc46292",
+ "date": "2025-12-22",
+ "subject": "Hide custom style inputs until needed and debounce color changes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactPptxViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41825
+}

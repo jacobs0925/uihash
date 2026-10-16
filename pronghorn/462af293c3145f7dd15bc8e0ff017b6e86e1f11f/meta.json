@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "462af293c3145f7dd15bc8e0ff017b6e86e1f11f",
+ "parent": "c182883b379995b2a767935bc2b0f0143cd00962",
+ "date": "2025-12-22",
+ "subject": "Improve pptx preview rendering",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactPptxViewer.tsx",
+  "src/utils/renderPptxSlide.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42333
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "624f299b64b30d2c1fa694a3f72a67f5e033a604",
+ "parent": "aa2e7e0819c7e48fa9ea5501a7a38b9f037fe2de",
+ "date": "2025-12-24",
+ "subject": "Add light/dark theme toggle",
+ "components": [
+  "components",
+  "main.tsx"
+ ],
+ "files": [
+  "src/components/ThemeProvider.tsx",
+  "src/components/ThemeToggle.tsx",
+  "src/components/layout/PrimaryNav.tsx",
+  "src/main.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 43,
+ "ms": 131079
+}

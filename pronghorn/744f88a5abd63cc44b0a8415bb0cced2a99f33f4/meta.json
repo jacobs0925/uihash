@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "744f88a5abd63cc44b0a8415bb0cced2a99f33f4",
+ "parent": "360a8713c3fdb11b2c13fb854b134a93f0e084ea",
+ "date": "2025-12-24",
+ "subject": "Make cards clickable",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/dashboard/DeleteProjectDialog.tsx",
+  "src/components/dashboard/ProjectCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 61053
+}

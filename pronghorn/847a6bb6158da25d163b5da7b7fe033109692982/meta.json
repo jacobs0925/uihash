@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "847a6bb6158da25d163b5da7b7fe033109692982",
+ "parent": "8df8266550b52f59944c1ae7409b215924ec5d44",
+ "date": "2025-12-24",
+ "subject": "Remove container constraints",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/layout/PrimaryNav.tsx",
+  "src/pages/project/Artifacts.tsx",
+  "src/pages/project/ProjectSettings.tsx",
+  "src/pages/project/Requirements.tsx",
+  "src/pages/project/Specifications.tsx",
+  "src/pages/project/Standards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 61393
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "f39ea0b52627de1f6daf64d03b1baf6c82b653be",
+ "parent": "deb97302c6a9ce6ca96f77a7b57ce85f2b173ad6",
+ "date": "2025-12-20",
+ "subject": "Refine chat layout constraints",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/components/collaboration/CollaborationChat.tsx",
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40933
+}

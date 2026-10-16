@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c1968620e1b8aedebe29d69b24197361d4fb50f6",
+ "parent": "cda97094044c04df05c5938b5259eb354de106ce",
+ "date": "2025-12-19",
+ "subject": "Show SchemaCreator correctly",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41060
+}

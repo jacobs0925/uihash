@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "e10f7becda0a46bf5f44e1c52fd065a5461343a0",
+ "parent": "80032f7c3de6d633df0103613ebe63cf51a65a29",
+ "date": "2025-12-19",
+ "subject": "Enhance schema UX and ERD",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseExplorer.tsx",
+  "src/components/deploy/DatabaseImportWizard.tsx",
+  "src/components/deploy/DatabaseSchemaTree.tsx",
+  "src/components/deploy/DatabaseTreeContextMenu.tsx",
+  "src/components/deploy/import/DatabaseErdView.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40990
+}

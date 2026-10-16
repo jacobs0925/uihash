@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "12af4a7c2d946a8447d944979ceb20264986e932",
+ "parent": "0d4d9cae13bdfda109459099d69a2a42140f7e34",
+ "date": "2025-12-19",
+ "subject": "Implement type inference on all rows",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx",
+  "src/components/deploy/import/SchemaCreator.tsx",
+  "src/utils/typeInference.ts",
+  "supabase/functions/manage-database/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41075
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "832f7475588a1e6380e8e4541d1d2c4e12ed43a0",
+ "parent": "66074cf0852a3fc11c957823df7c5ec334ee57fd",
+ "date": "2025-12-21",
+ "subject": "Refactor tokens to cards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/TokenManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41179
+}

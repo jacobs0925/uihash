@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4f29eb27a4243b077b0310aebdb5bf593b38f8bf",
+ "parent": "dc9d2d2dec3ccf24649053c28521dd063045aee0",
+ "date": "2025-12-22",
+ "subject": "Fix artifact upload UI props",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 46923
+}

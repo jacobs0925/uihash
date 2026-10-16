@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "eed8d1129976af40db3e1a25fa33325ee17d8070",
+ "parent": "7ee434d561959a340ad8269658d6376c93ff54e4",
+ "date": "2025-12-21",
+ "subject": "Add password flow and visibility",
+ "components": [
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 7,
+ "ms": 44315
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "6c8f539c8630cb66b6f20c090afcc59afdfa4f29",
+ "parent": "ffc1d97eaa61985820a76514e4401e74b5571aff",
+ "date": "2025-12-22",
+ "subject": "Enhance PPTX viewer UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/components/artifacts/ArtifactPptxViewer.tsx",
+  "src/utils/renderPptxSlide.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42405
+}

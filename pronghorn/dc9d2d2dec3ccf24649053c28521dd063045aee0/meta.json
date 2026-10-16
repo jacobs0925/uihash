@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "dc9d2d2dec3ccf24649053c28521dd063045aee0",
+ "parent": "2ed8d25e3bafd560f5580fd8bd0c381b40f41359",
+ "date": "2025-12-22",
+ "subject": "Implement reverse order insertion",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/hooks/useRealtimeArtifacts.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Artifacts.tsx",
+  "supabase/functions/upload-artifact-image/index.ts",
+  "supabase/migrations/20251222173952_a84c613d-de1b-4af1-aa31-f26371bd3bdf.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47326
+}

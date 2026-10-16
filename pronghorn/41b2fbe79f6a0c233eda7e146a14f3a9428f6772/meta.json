@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "41b2fbe79f6a0c233eda7e146a14f3a9428f6772",
+ "parent": "4924573d7a59e23e3044f0dc85822d4094d38ad3",
+ "date": "2025-12-21",
+ "subject": "Fix sync in artifact collab",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41263
+}

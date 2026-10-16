@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "6446f201edbdbc9ce3a6ee9c3c386312d2047518",
+ "parent": "83087a7da9d2bc3dbc129fd7aeee09edfd67d5a8",
+ "date": "2025-12-20",
+ "subject": "Fix diff and save flow for chat",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/components/collaboration/CollaborationEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41672
+}

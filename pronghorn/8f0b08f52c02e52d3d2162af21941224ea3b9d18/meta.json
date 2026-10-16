@@ -1,0 +1,27 @@
+{
+ "repo": "pronghorn",
+ "sha": "8f0b08f52c02e52d3d2162af21941224ea3b9d18",
+ "parent": "7070dfdf38527426cbb3026409d35b9976e5adf9",
+ "date": "2025-12-23",
+ "subject": "Add editing for standards",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/standards/CategoryCard.tsx",
+  "src/components/standards/EditStandardDialog.tsx",
+  "src/components/standards/StandardsTreeManager.tsx",
+  "src/components/techstack/EditTechStackItemDialog.tsx",
+  "src/components/techstack/TechStackCard.tsx",
+  "src/components/techstack/TechStackTreeManager.tsx",
+  "src/pages/Standards.tsx",
+  "src/pages/TechStacks.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 54213
+}

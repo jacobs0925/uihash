@@ -7,6 +7,6 @@
  "title": "Replace logo with uploaded image",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "margin-bottom: 0px → 32px undone by 9f0417c4 \"Remove logo from hero\"; row-gap: 16px → normal undone by 9f0417c4 \"Remove logo from hero\"; column-gap: 16px → normal undone by 9f0417c4 \"Remove logo from hero\""
 }

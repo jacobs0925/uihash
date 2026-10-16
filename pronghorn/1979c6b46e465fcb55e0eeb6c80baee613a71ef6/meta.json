@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "1979c6b46e465fcb55e0eeb6c80baee613a71ef6",
+ "parent": "3682f95184ece5b2760e4e7d97d4c41dda4af97e",
+ "date": "2025-12-23",
+ "subject": "Create/Enhance Image modal",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/artifacts/EnhanceImageDialog.tsx",
+  "src/pages/project/Artifacts.tsx",
+  "supabase/functions/enhance-image/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 46934
+}

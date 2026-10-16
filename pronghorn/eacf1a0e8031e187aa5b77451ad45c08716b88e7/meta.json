@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "eacf1a0e8031e187aa5b77451ad45c08716b88e7",
+ "parent": "f599cacee44e4d33880fff4153e20a260fe5071f",
+ "date": "2025-12-24",
+ "subject": "Add public dark mode CSS",
+ "components": [
+  "main.tsx",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/main.tsx",
+  "src/pages/Landing.tsx",
+  "src/pages/License.tsx",
+  "src/pages/Privacy.tsx",
+  "src/pages/Terms.tsx",
+  "src/styles/public.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 73,
+ "ms": 214757
+}

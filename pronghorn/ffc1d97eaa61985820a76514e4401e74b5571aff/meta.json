@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "ffc1d97eaa61985820a76514e4401e74b5571aff",
+ "parent": "462af293c3145f7dd15bc8e0ff017b6e86e1f11f",
+ "date": "2025-12-22",
+ "subject": "Revise PPTX viewer UI and render",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactPptxViewer.tsx",
+  "src/utils/parsePptx.ts",
+  "src/utils/renderPptxSlide.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42581
+}

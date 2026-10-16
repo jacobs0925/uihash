@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "913fc79e61c8039195c2de0b7f0a1f343deb1d85",
+ "date": "2025-12-24",
+ "pr": null,
+ "title": "Enhance Landing accessibility",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 611 later commits"
+}

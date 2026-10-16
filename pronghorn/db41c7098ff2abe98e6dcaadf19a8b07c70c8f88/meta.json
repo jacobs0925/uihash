@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "db41c7098ff2abe98e6dcaadf19a8b07c70c8f88",
+ "parent": "9d8c073ce0dcaf04782d2b86549ad1adaa28d65e",
+ "date": "2025-12-20",
+ "subject": "Fix restore off-by-one",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40842
+}

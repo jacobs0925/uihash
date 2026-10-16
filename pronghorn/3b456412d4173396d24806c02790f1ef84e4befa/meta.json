@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "3b456412d4173396d24806c02790f1ef84e4befa",
+ "parent": "342400188ca679818d7cb5573973d580c18ab9d0",
+ "date": "2025-12-22",
+ "subject": "Integrate visual OCR flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/components/artifacts/ArtifactDocxViewer.tsx",
+  "src/components/artifacts/ArtifactPdfViewer.tsx",
+  "src/components/artifacts/ArtifactPptxViewer.tsx",
+  "src/components/artifacts/VisualRecognitionDialog.tsx",
+  "src/utils/parseDocx.ts",
+  "src/utils/parsePdf.ts",
+  "supabase/functions/visual-recognition/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47183
+}

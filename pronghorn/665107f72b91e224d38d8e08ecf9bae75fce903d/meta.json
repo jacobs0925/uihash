@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "665107f72b91e224d38d8e08ecf9bae75fce903d",
+ "parent": "852c62fbe338256cdef56a0cef855038fe96e3ca",
+ "date": "2025-12-21",
+ "subject": "Add 12-step Collaboration grid",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 49792
+}

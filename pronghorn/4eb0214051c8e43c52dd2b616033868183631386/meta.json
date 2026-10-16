@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "4eb0214051c8e43c52dd2b616033868183631386",
+ "parent": "eed8d1129976af40db3e1a25fa33325ee17d8070",
+ "date": "2025-12-21",
+ "subject": "Implement branded Resend emails",
+ "components": [
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "src/pages/Auth.tsx",
+  "supabase/config.toml",
+  "supabase/functions/send-auth-email/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 44385
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "4d9132762686d382d41c4aaf8c10fee0c28f309a",
+ "parent": "cc0e10237642e9d5c3a45f58fc8de2a3a6f392bb",
+ "date": "2025-12-22",
+ "subject": "Fix DOCX viewer enhancements",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/components/artifacts/ArtifactDocxViewer.tsx",
+  "src/utils/parseDocx.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48252
+}

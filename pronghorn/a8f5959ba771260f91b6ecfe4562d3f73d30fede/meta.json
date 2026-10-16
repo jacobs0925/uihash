@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "a8f5959ba771260f91b6ecfe4562d3f73d30fede",
+ "parent": "b0d5b91aaa218b5d554d8ab406015521646beba6",
+ "date": "2025-12-23",
+ "subject": "Implement BuildBookDocsViewer and integrate",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/buildbook/BuildBookDocsViewer.tsx",
+  "src/pages/BuildBookDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48424
+}

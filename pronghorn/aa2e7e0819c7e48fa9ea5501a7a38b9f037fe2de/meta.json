@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "aa2e7e0819c7e48fa9ea5501a7a38b9f037fe2de",
+ "parent": "275e20ed947158cb747354423466ddd86646f526",
+ "date": "2025-12-24",
+ "subject": "Fix mobileStandards layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/standards/StandardsTreeManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 61226
+}

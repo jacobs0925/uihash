@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ae64cb920ad36cbe013f4e7da86914d4d1fe709c",
+ "parent": "828971b034e4067ffe77a8f71e51c9b684b8b0d9",
+ "date": "2025-12-19",
+ "subject": "Add migration capture to import wizard",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41404
+}

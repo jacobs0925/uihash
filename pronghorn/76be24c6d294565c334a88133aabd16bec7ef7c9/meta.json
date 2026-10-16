@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "76be24c6d294565c334a88133aabd16bec7ef7c9",
+ "parent": "ff3eccfe024b39fdb0a3acdf32e45f99346d52b3",
+ "date": "2025-12-21",
+ "subject": "Sync splash image in settings and add removal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/SplashImageSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42208
+}

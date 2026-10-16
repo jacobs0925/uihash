@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "665107f72b91e224d38d8e08ecf9bae75fce903d",
+ "date": "2025-12-21",
+ "pr": null,
+ "title": "Add 12-step Collaboration grid",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 731 later commits"
+}

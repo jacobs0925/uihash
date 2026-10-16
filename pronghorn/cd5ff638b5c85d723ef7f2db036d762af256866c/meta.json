@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "cd5ff638b5c85d723ef7f2db036d762af256866c",
+ "parent": "f352295e184bfdf3f2300de8a3cd69f5e0912125",
+ "date": "2025-12-20",
+ "subject": "Make modal full height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/ConnectionStringDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41422
+}

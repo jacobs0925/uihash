@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "fc3e4864ba01263f34dc1acbfb7a548e27316c27",
+ "parent": "00bf45c38482b68a5c8a9439ae3259e25f684f7e",
+ "date": "2025-12-21",
+ "subject": "Tweak landing visuals and legend",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 13,
+ "ms": 100013
+}

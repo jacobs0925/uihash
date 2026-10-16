@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "f445fc1e5b70938e8a7e5b8771e9cb908381ca3c",
+ "parent": "2ea2fb6249c455343d7acd06214397ad27facb0b",
+ "date": "2025-12-21",
+ "subject": "Fix realtime sync channels",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useRealtimeArtifacts.ts",
+  "src/hooks/useRealtimeChatSessions.ts",
+  "src/pages/project/ProjectSettings.tsx",
+  "supabase/functions/generate-local-package/index.ts",
+  "supabase/migrations/20251221003338_0c9db5c2-4cb5-4584-9d26-2e19b8fc66c2.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41633
+}

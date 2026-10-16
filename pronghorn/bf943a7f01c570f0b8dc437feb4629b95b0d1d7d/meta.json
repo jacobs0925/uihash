@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "bf943a7f01c570f0b8dc437feb4629b95b0d1d7d",
+ "parent": "6c8f539c8630cb66b6f20c090afcc59afdfa4f29",
+ "date": "2025-12-22",
+ "subject": "Move preview above slides",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactPptxViewer.tsx",
+  "src/utils/parsePptx.ts",
+  "src/utils/renderPptxSlide.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42048
+}

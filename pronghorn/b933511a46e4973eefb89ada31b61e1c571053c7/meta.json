@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "b933511a46e4973eefb89ada31b61e1c571053c7",
+ "parent": "ff923bbc9a4d906532067a9e82bfc4a4bddc3a0e",
+ "date": "2025-12-21",
+ "subject": "Improve chat wrap width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/CollaborationChat.tsx",
+  "src/components/ui/scroll-area.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41404
+}

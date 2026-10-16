@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "3f855fef8cac4a324b692c8ab10402a5c4b7f06d",
+ "parent": "f8d357ef0405461d5b7bfd62ce35887e246f79aa",
+ "date": "2025-12-19",
+ "subject": "Fix schema tree scrolling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseSchemaTree.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41283
+}

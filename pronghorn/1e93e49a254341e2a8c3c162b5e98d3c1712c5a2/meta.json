@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1e93e49a254341e2a8c3c162b5e98d3c1712c5a2",
+ "parent": "6d94d107c37e3025977608040373090fba5a40a2",
+ "date": "2025-12-21",
+ "subject": "Restore Design and Build legends on Landing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 50762
+}

@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "360a8713c3fdb11b2c13fb854b134a93f0e084ea",
+ "date": "2025-12-24",
+ "pr": null,
+ "title": "Fix License page styling and nav",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 609 later commits"
+}

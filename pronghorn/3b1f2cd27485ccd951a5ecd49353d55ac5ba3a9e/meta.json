@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "3b1f2cd27485ccd951a5ecd49353d55ac5ba3a9e",
+ "parent": "295720032734d5c2072b556e989d56cce7915bb5",
+ "date": "2025-12-21",
+ "subject": "Add clone UI and function",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/dashboard/CloneProjectDialog.tsx",
+  "src/components/dashboard/ProjectCard.tsx",
+  "supabase/config.toml",
+  "supabase/functions/clone-project/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41789
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "0bd463b7f1c7c30cfd0b2a237bbe91df133bcf87",
+ "parent": "72bb21ae4cbea7cfd18cf48543d4f6316e0f671a",
+ "date": "2025-12-20",
+ "subject": "Fix SSE edit flow and prompts",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/data/collaborationAgentInstructions.json",
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "supabase/functions/collaboration-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41220
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7cd2c44151052e64c8bc1b279bcb7be9d323db21",
+ "parent": "6446f201edbdbc9ce3a6ee9c3c386312d2047518",
+ "date": "2025-12-20",
+ "subject": "Fix diff and version sync",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41538
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "8729e187f3382c7df53056850ad87e1899db6b47",
+ "parent": "342c9effd02eb2588d9bc064396ba75b07519b94",
+ "date": "2025-12-21",
+ "subject": "Integrate gallery and fix tokens",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/dashboard/LinkedProjectCard.tsx",
+  "src/components/dashboard/ProjectCard.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Dashboard.tsx",
+  "supabase/migrations/20251221223521_64439e16-b5de-4fb5-bd20-5c7d88967180.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45371
+}

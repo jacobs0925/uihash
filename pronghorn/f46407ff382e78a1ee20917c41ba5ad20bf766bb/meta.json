@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f46407ff382e78a1ee20917c41ba5ad20bf766bb",
+ "parent": "eaeb1c5a760d2dd0f3b048dbffb908207cede880",
+ "date": "2025-12-23",
+ "subject": "Fix chat auto-scroll layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/buildbook/BuildBookChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47596
+}

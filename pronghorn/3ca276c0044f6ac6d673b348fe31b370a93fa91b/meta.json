@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "3ca276c0044f6ac6d673b348fe31b370a93fa91b",
+ "parent": "a956a798818b39f39821ba88e262123886dc98ca",
+ "date": "2025-12-22",
+ "subject": "Fix text export and UI styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactPptxViewer.tsx",
+  "src/utils/parsePptx.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42629
+}

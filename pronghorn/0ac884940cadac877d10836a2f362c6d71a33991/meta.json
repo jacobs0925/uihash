@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "0ac884940cadac877d10836a2f362c6d71a33991",
+ "parent": "f28026baca0a9abd17c0cee9d85fd49c0c35d4f4",
+ "date": "2025-12-23",
+ "subject": "Set Overview as default agent",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Specifications.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47275
+}

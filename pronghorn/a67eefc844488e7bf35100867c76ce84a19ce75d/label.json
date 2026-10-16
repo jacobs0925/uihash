@@ -5,8 +5,8 @@
  "date": "2025-12-10",
  "pr": null,
  "title": "Adjust landing grid to 5 cols",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1021 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-right: 0px → auto undone by 6d94d107 \"Refactor landing legend to Plan\"; margin-left: 0px → auto undone by 6d94d107 \"Refactor landing legend to Plan\"; max-width: ∅ → 896px undone by 6d94d107 \"Refactor landing legend to Plan\""
 }

@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "57677c568c9dccb27b002565edfb3cc1b017fbad",
+ "parent": "75ed2b92c0a9dc637d3b9beb20447384c8727d13",
+ "date": "2025-12-23",
+ "subject": "Alphabetize tech stacks and standards",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/techstack/TechStackTreeManager.tsx",
+  "src/components/techstack/TechStackTreeSelector.tsx",
+  "src/pages/Standards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51602
+}

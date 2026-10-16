@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "bb1c20ba418c7d0d1e252248a3ab45075892b596",
+ "parent": "db41c7098ff2abe98e6dcaadf19a8b07c70c8f88",
+ "date": "2025-12-20",
+ "subject": "Improve restore reliability",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41349
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2450e640c14ad38d53b090ec582cea43510ac5c4",
+ "parent": "e2c8cc79821527e1332fce470cae096e33457beb",
+ "date": "2025-12-22",
+ "subject": "Add delete confirmation modal",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47124
+}

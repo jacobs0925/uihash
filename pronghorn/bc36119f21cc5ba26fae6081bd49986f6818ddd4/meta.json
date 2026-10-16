@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "bc36119f21cc5ba26fae6081bd49986f6818ddd4",
+ "parent": "82f9eb4b9d9b4675d5a3a79a667a4165ab809941",
+ "date": "2025-12-20",
+ "subject": "Refine env-only download UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41595
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1d0f384b75a30a983f68d4f47e38cae6aca226a2",
+ "parent": "cc6ba9d819d2f29d7a6913924313d345a0a58d30",
+ "date": "2025-12-20",
+ "subject": "Adjust connection modal UX",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/ConnectionStringDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41398
+}

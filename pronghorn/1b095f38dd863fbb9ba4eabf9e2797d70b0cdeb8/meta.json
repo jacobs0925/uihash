@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1b095f38dd863fbb9ba4eabf9e2797d70b0cdeb8",
+ "parent": "b933511a46e4973eefb89ada31b61e1c571053c7",
+ "date": "2025-12-21",
+ "subject": "Fix scroll area wrapping",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/scroll-area.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41080
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "b0d5b91aaa218b5d554d8ab406015521646beba6",
+ "parent": "48b18764bcc6192409acc06496567b60417175d1",
+ "date": "2025-12-23",
+ "subject": "Fix BuildBookEditor new flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/BuildBookEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51260
+}

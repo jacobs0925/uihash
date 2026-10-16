@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "fc3e4864ba01263f34dc1acbfb7a548e27316c27",
+ "date": "2025-12-21",
+ "pr": null,
+ "title": "Tweak landing visuals and legend",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 729 later commits"
+}

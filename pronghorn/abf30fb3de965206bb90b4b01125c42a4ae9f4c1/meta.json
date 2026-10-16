@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "abf30fb3de965206bb90b4b01125c42a4ae9f4c1",
+ "parent": "466b670e5fd28c8adae60201469f9ec7d76181b3",
+ "date": "2025-12-22",
+ "subject": "Add Pdf viewer and plumbing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/components/artifacts/ArtifactPdfPlaceholder.tsx",
+  "src/components/artifacts/ArtifactPdfViewer.tsx",
+  "src/utils/parsePdf.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 44678
+}

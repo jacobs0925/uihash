@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "02ed81e2ea4a1f36e870056e6f53859a71ee412c",
+ "parent": "bd539b9fac3b3454cad298b28a6ccb5cf3b1eb59",
+ "date": "2025-12-21",
+ "subject": "Refresh owner access token in UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/TokenManagement.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41552
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "3284daa3c8274484f933fd8bc9f4a739f3b65c54",
+ "parent": "727f6a47b143eb2d783e58950cab97a70fed8c75",
+ "date": "2025-12-23",
+ "subject": "Update vr models and cacheImages",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/components/artifacts/ArtifactPdfViewer.tsx",
+  "src/components/artifacts/ArtifactPptxViewer.tsx",
+  "src/components/artifacts/VisualRecognitionDialog.tsx",
+  "src/components/artifacts/VisualRecognitionImportDialog.tsx",
+  "src/utils/parsePdf.ts",
+  "supabase/functions/visual-recognition/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47277
+}

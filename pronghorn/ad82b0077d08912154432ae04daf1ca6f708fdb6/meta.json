@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ad82b0077d08912154432ae04daf1ca6f708fdb6",
+ "parent": "bad4e85cafb044dce3a2dd3bdb36afccc959432f",
+ "date": "2025-12-19",
+ "subject": "Fix schema preview display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DatabaseImportWizard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41646
+}

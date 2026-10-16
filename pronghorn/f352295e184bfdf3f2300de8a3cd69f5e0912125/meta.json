@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "f352295e184bfdf3f2300de8a3cd69f5e0912125",
+ "parent": "8d84cffdac94c126a4db6acaa24470993d91ade3",
+ "date": "2025-12-20",
+ "subject": "Fix connection string scroll",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/ConnectionStringDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41434
+}

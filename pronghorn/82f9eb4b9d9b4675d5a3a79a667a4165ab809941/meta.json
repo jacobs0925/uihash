@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "82f9eb4b9d9b4675d5a3a79a667a4165ab809941",
+ "parent": "b1974410f183c0e111f7624785f0ccbb6518640a",
+ "date": "2025-12-20",
+ "subject": "Wrap onClick to pass mode",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41244
+}

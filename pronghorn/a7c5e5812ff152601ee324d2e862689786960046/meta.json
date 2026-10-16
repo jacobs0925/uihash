@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "a7c5e5812ff152601ee324d2e862689786960046",
+ "parent": "5ce0f9851bd233fb3837963166812e9e2eec721e",
+ "date": "2025-12-24",
+ "subject": "Fix DocsViewer Nav alignment",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/docs/DocsViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 60932
+}

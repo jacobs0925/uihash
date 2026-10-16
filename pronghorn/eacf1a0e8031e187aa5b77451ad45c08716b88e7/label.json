@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "eacf1a0e8031e187aa5b77451ad45c08716b88e7",
+ "date": "2025-12-24",
+ "pr": null,
+ "title": "Add public dark mode CSS",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 592 later commits"
+}

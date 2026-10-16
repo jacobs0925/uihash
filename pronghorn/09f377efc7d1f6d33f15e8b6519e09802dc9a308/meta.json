@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "09f377efc7d1f6d33f15e8b6519e09802dc9a308",
+ "parent": "458a8b0fe7d3fc7a17196bb3fa84e085f89321cb",
+ "date": "2025-12-21",
+ "subject": "Show reset link expiry banner",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41538
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4e9508350338bf7361369dcc15cc0c9adc76b796",
+ "parent": "326998634da8b0e00a3821d5b66dee30be886352",
+ "date": "2025-12-23",
+ "subject": "Fetch owner token in dialog",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/dashboard/CloneProjectDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47253
+}

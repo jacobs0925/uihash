@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "83087a7da9d2bc3dbc129fd7aeee09edfd67d5a8",
+ "parent": "9b6ff50d0e9c1cab7ab6d045a7125c15678cf5da",
+ "date": "2025-12-20",
+ "subject": "Refine diff and save flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/components/collaboration/CollaborationEditor.tsx",
+  "src/components/collaboration/CollaborationTimeline.tsx",
+  "src/hooks/useRealtimeCollaboration.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41649
+}

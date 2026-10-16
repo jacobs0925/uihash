@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "6266d8a003e36b9176dfba8eefe8ffb9bb994db2",
+ "parent": "3284daa3c8274484f933fd8bc9f4a739f3b65c54",
+ "date": "2025-12-23",
+ "subject": "Improve pdf text preview display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactPdfViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47035
+}

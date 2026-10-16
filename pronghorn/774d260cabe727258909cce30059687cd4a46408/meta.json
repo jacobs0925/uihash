@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "774d260cabe727258909cce30059687cd4a46408",
+ "parent": "7802ced0c5ee5fe3fdcc2202f219f645f40700f6",
+ "date": "2025-12-21",
+ "subject": "Use addArtifact for broadcasting",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/hooks/useRealtimeArtifacts.ts",
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41718
+}

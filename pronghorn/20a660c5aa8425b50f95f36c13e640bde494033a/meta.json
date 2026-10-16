@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "20a660c5aa8425b50f95f36c13e640bde494033a",
+ "parent": "d3e628595b4de6bbbe2655960b5125426f434a4c",
+ "date": "2025-12-19",
+ "subject": "Refine import relations",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/import/SchemaCreator.tsx",
+  "src/utils/parseJson.ts",
+  "src/utils/sqlGenerator.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41178
+}

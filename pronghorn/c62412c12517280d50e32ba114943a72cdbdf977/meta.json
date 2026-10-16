@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c62412c12517280d50e32ba114943a72cdbdf977",
+ "parent": "5741e6088b1382d0ea4f616a1e759162d9cd6fde",
+ "date": "2025-12-21",
+ "subject": "Add justSaved timeout fallback",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41554
+}

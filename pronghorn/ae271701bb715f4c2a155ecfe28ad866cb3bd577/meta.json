@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ae271701bb715f4c2a155ecfe28ad866cb3bd577",
+ "parent": "9858a01600bb2095470aab6e30b4816b8f2df796",
+ "date": "2025-12-23",
+ "subject": "Use tech stack IDs directly",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/buildbook/ApplyBuildBookDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48143
+}

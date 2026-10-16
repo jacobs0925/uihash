@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "4bc44b05453d35dfe2eb74c0f415c1befdd285d0",
+ "parent": "76be24c6d294565c334a88133aabd16bec7ef7c9",
+ "date": "2025-12-21",
+ "subject": "Fix splash image null handling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/ProjectSettings.tsx",
+  "supabase/migrations/20251221211228_02eecb19-0d71-4d30-9d95-cd6faa7d49f9.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41909
+}

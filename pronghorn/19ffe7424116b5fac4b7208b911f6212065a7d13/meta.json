@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "19ffe7424116b5fac4b7208b911f6212065a7d13",
+ "parent": "744f88a5abd63cc44b0a8415bb0cced2a99f33f4",
+ "date": "2025-12-24",
+ "subject": "Add card blue outline on hover",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 61236
+}

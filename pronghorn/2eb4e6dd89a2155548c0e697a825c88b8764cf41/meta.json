@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "2eb4e6dd89a2155548c0e697a825c88b8764cf41",
+ "parent": "67c456b8d51d026bbdd6a445e761354cb714a7c1",
+ "date": "2025-12-22",
+ "subject": "Include ai summary in artifacts",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/artifacts/ArtifactDownloadDropdown.tsx",
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42526
+}

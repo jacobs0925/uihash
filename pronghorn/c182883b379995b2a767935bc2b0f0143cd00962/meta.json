@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "c182883b379995b2a767935bc2b0f0143cd00962",
+ "parent": "2eb4e6dd89a2155548c0e697a825c88b8764cf41",
+ "date": "2025-12-22",
+ "subject": "Implement PPTX artifact handling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx",
+  "src/components/artifacts/ArtifactPptxViewer.tsx",
+  "src/utils/parsePptx.ts",
+  "src/utils/renderPptxSlide.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42764
+}

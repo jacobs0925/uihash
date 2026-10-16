@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "1eec20e57e4e78fcd775d2138dcad75f55885847",
+ "parent": "c1e75d778037aba3abbfb029ef12bc6b75aeb665",
+ "date": "2025-12-20",
+ "subject": "Add phase 3 orchestrator",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/data/collaborationAgentInstructions.json",
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/pages/project/Artifacts.tsx",
+  "supabase/functions/collaboration-agent-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41051
+}

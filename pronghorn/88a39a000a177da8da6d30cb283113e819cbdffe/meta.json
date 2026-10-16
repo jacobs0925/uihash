@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "88a39a000a177da8da6d30cb283113e819cbdffe",
+ "parent": "1979c6b46e465fcb55e0eeb6c80baee613a71ef6",
+ "date": "2025-12-23",
+ "subject": "Add uploadOnly flag",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/EnhanceImageDialog.tsx",
+  "supabase/functions/upload-artifact-image/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 46873
+}

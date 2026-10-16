@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2a216e9ead070c2791f1a8a28c9e530a492fdef4",
+ "parent": "abf30fb3de965206bb90b4b01125c42a4ae9f4c1",
+ "date": "2025-12-22",
+ "subject": "Add pdf artifact creation logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 44371
+}

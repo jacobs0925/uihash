@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "48b18764bcc6192409acc06496567b60417175d1",
+ "parent": "b56c02cce5035c56c10b0379466642910224b3bf",
+ "date": "2025-12-23",
+ "subject": "Add DocsViewer to Standards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/resources/ResourceManager.tsx",
+  "src/components/standards/CategoryCard.tsx",
+  "src/components/standards/StandardsTreeSelector.tsx",
+  "src/components/techstack/TechStackTreeSelector.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251223135826_7ae5392e-a149-4ecb-871e-b1a30f2ca013.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47850
+}

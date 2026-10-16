@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "5741e6088b1382d0ea4f616a1e759162d9cd6fde",
+ "parent": "6ddbdea348b45bfafff1d416fd55d4cabad2a061",
+ "date": "2025-12-21",
+ "subject": "Add conflict detection UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/collaboration/ArtifactCollaborator.tsx",
+  "src/components/collaboration/CollaborationEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40774
+}

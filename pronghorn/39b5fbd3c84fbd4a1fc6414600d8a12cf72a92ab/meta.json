@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "39b5fbd3c84fbd4a1fc6414600d8a12cf72a92ab",
+ "parent": "ae271701bb715f4c2a155ecfe28ad866cb3bd577",
+ "date": "2025-12-23",
+ "subject": "Guard buildbook guards deploy",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/buildbook/ApplyBuildBookDialog.tsx",
+  "src/components/buildbook/BuildBookDocsViewer.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251223221217_c82416ab-f948-4b1a-a5f3-a2692d72328c.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47730
+}

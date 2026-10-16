@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "73078013754d6678d0dc96a5eb99e50f3102b069",
+ "parent": "f73c4e7edd7ed429401c295106cc94f329a4fdc2",
+ "date": "2026-02-21",
+ "subject": "Add ratings and instructor bio to cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Programs.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 45026
+}

@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "79492215d43f3028df1eff07da297b187d35ef94",
+ "date": "2026-02-26",
+ "pr": null,
+ "title": "Reordered nav and renamed Donate",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 207 later commits"
+}

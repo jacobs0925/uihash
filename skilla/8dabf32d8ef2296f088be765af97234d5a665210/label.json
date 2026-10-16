@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "8dabf32d8ef2296f088be765af97234d5a665210",
+ "date": "2026-02-21",
+ "pr": null,
+ "title": "Rename schools across UI",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 253 later commits"
+}

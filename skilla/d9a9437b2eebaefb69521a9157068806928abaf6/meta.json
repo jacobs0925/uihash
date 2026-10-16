@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "d9a9437b2eebaefb69521a9157068806928abaf6",
+ "parent": "6e0474cba9302432d4cd6f269c43e0e9261807a2",
+ "date": "2026-02-26",
+ "subject": "Implement collapsible curriculum",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42982
+}

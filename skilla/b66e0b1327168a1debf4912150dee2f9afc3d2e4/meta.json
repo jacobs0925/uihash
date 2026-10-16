@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "b66e0b1327168a1debf4912150dee2f9afc3d2e4",
+ "parent": "316c6dc8d9d7b9355970f4b38c41128b6377a17f",
+ "date": "2026-02-17",
+ "subject": "Hide distractions in embeds",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43664
+}

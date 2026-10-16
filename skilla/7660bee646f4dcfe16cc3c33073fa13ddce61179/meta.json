@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "7660bee646f4dcfe16cc3c33073fa13ddce61179",
+ "parent": "d67f83d3a018b5d3475300b1a998f5a352c2f6a3",
+ "date": "2026-02-27",
+ "subject": "Redesigned CodeLessonPlayer notebook",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CodeLessonPlayer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41303
+}

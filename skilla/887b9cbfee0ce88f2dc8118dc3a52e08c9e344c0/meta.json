@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "887b9cbfee0ce88f2dc8118dc3a52e08c9e344c0",
+ "parent": "aa1724e4fd3ce3af4b8adb6978185d11b120d0a1",
+ "date": "2026-02-16",
+ "subject": "Add time spent aggregation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/StudentProgressDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43032
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "ee56638644e628f2fb6f1a78e401f86381a3e5b8",
+ "parent": "1fb97639b9195f99d3b4d9d308fbea3094941c20",
+ "date": "2026-02-24",
+ "subject": "Visual edit in Lovable",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Hero.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 49698
+}

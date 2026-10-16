@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "379c0afd37040057772087c2467b47d0d71230e3",
+ "parent": "778435193e93c5b4b890e7bf9288bb96ec4c18cf",
+ "date": "2026-03-05",
+ "subject": "Enable Admin role in dropdowns",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Admin.tsx",
+  "src/pages/Instructor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 49096
+}

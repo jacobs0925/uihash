@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "fc88a64a9e555a0381dbe3326765579d2e25ac25",
+ "date": "2026-02-26",
+ "pr": null,
+ "title": "Separate nav and rename label",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 209 later commits"
+}

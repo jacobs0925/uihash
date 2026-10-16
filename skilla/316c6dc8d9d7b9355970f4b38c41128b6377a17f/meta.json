@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "316c6dc8d9d7b9355970f4b38c41128b6377a17f",
+ "parent": "f9735f3febc60a6b7c5a735418abcb9e464b8f72",
+ "date": "2026-02-17",
+ "subject": "Enable quiz question editing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ContentItemEditDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42846
+}

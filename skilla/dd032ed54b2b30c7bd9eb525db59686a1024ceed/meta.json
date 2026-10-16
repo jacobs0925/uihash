@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "dd032ed54b2b30c7bd9eb525db59686a1024ceed",
+ "parent": "21c2d2d869bf4b6e20c2dddcc002580f3a846239",
+ "date": "2026-02-13",
+ "subject": "Add embedded video support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/RichTextEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42690
+}

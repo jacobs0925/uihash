@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "08edf1a92dbfa30e741af7fafb3c7ce4960017c5",
+ "date": "2026-02-26",
+ "pr": null,
+ "title": "Improve auth and programs UI",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 220 later commits"
+}

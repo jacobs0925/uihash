@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "04d7b0042abace5d2b523308476365303b85933e",
+ "parent": "0044cc7e6a38b3ccd6a93f4883cb3d60b5925038",
+ "date": "2026-02-26",
+ "subject": "Replaced search with CTA",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Hero.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 78021
+}

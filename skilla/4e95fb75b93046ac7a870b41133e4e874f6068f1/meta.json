@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "4e95fb75b93046ac7a870b41133e4e874f6068f1",
+ "parent": "4b970d52801fe084f558eafee56bc158695668a7",
+ "date": "2026-02-13",
+ "subject": "Simplified submission dialog",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/StudentAssignmentSubmission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42930
+}

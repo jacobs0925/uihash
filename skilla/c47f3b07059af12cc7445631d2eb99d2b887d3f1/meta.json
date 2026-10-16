@@ -1,0 +1,22 @@
+{
+ "repo": "skilla",
+ "sha": "c47f3b07059af12cc7445631d2eb99d2b887d3f1",
+ "parent": "97f0c4a262eeb08ab3675a62fcd17a4961bce747",
+ "date": "2026-03-02",
+ "subject": "Add ordering support to quiz",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIQuestionGenerator.tsx",
+  "src/components/QuizPreview.tsx",
+  "src/components/StudentQuizTaker.tsx",
+  "supabase/functions/ai-content-generator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41555
+}

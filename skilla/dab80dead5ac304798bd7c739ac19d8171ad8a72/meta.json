@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "dab80dead5ac304798bd7c739ac19d8171ad8a72",
+ "parent": "fc88a64a9e555a0381dbe3326765579d2e25ac25",
+ "date": "2026-02-26",
+ "subject": "Make navigation work as tabs",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/Navigation.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 8,
+ "ms": 74957
+}

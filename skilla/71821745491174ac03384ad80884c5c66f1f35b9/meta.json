@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "71821745491174ac03384ad80884c5c66f1f35b9",
+ "parent": "d8930e18f881e88717ea92ab80232b1df55ba701",
+ "date": "2026-03-06",
+ "subject": "Reduce top spacing in lesson view",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/PaginatedTextContent.tsx",
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 44061
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "skilla",
+ "sha": "700a2e8696bcea0e330fa859fc439ad1feb80510",
+ "parent": "b0ea56cc10897880539602f46bc9e71209b3caaf",
+ "date": "2026-02-28",
+ "subject": "Add video watch gate for lessons",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/ContentItemEditDialog.tsx",
+  "src/hooks/useVideoWatchProgress.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/CourseDetail.tsx",
+  "supabase/migrations/20260228160904_271239e6-410c-423b-acfb-787068582b4d.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42499
+}

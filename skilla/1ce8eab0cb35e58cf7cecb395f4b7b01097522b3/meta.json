@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "1ce8eab0cb35e58cf7cecb395f4b7b01097522b3",
+ "parent": "fbd1dc1d44f2f39d9d979647b63a72b6b4487a50",
+ "date": "2026-02-13",
+ "subject": "Include pending enrollments in view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Instructor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46259
+}

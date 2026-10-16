@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "0862e0ca583d505a190074bc6764ccf11453dbed",
+ "date": "2026-02-26",
+ "pr": null,
+ "title": "Refactor signup to multi-step",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 206 later commits"
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "skilla",
+ "sha": "eead0158203761ba6424561cba35209b8e660fe7",
+ "parent": "8d7785b30eb98bb6021d91a9f7d35a6a58c7d567",
+ "date": "2026-03-01",
+ "subject": "Add subscription expiry support",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/Apply.tsx",
+  "src/pages/CourseDetail.tsx",
+  "src/pages/LMS.tsx",
+  "supabase/functions/verify-flutterwave-payment/index.ts",
+  "supabase/migrations/20260301152358_a84b4ace-70e5-41d8-ac5d-563a96c6d3cd.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 47758
+}

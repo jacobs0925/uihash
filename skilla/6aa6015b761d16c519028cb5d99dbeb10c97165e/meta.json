@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "6aa6015b761d16c519028cb5d99dbeb10c97165e",
+ "parent": "9357a925d08e34fd5a41d690c4b4e61d191474df",
+ "date": "2026-02-18",
+ "subject": "Revamped instructor manager",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CourseInstructorManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 44683
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "c006fd683fc963510786e0b45d95269c5b20ca0f",
+ "parent": "85a465bd2b7196ac23d57c2e2912185e8c169f30",
+ "date": "2026-02-18",
+ "subject": "Enhance certificate QR loading",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CertificateRenderer.tsx",
+  "src/components/CertificatesSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48438
+}

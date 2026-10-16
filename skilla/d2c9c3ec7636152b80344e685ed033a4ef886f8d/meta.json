@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "d2c9c3ec7636152b80344e685ed033a4ef886f8d",
+ "parent": "10973dd14b02ea2f777365a818340b426d9203cb",
+ "date": "2026-02-21",
+ "subject": "Add rating and instructor bio to course",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 45046
+}

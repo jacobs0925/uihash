@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "ba078c72523b3da35c867de5dde517c3fc633fd0",
+ "parent": "3de778381f75e12782bd371ba970fe6d99dd1ba9",
+ "date": "2026-02-18",
+ "subject": "Improve LMS and Instructor flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Instructor.tsx",
+  "src/pages/LMS.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 54435
+}

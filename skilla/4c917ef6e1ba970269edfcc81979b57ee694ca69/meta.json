@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "4c917ef6e1ba970269edfcc81979b57ee694ca69",
+ "parent": "1ceca310ccb202d0714070d79e52469d6964b798",
+ "date": "2026-02-27",
+ "subject": "Reworked footer layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 9,
+ "ms": 65158
+}

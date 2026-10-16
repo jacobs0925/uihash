@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "888ba7b874736d1981839599cd6bb8e9678795fb",
+ "parent": "ac0ea6fece34979c887ec2bbce7cac3ceec59292",
+ "date": "2026-02-13",
+ "subject": "Tailored AI content by type",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AddContentToSection.tsx",
+  "src/components/RichTextEditor.tsx",
+  "supabase/functions/ai-content-generator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43267
+}

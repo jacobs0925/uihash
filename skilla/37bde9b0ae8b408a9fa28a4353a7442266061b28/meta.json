@@ -1,0 +1,27 @@
+{
+ "repo": "skilla",
+ "sha": "37bde9b0ae8b408a9fa28a4353a7442266061b28",
+ "parent": "8dabf32d8ef2296f088be765af97234d5a665210",
+ "date": "2026-02-21",
+ "subject": "Rename languages label to Languages & Comms",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/Footer.tsx",
+  "src/components/Hero.tsx",
+  "src/components/Navigation.tsx",
+  "src/components/SchoolsSection.tsx",
+  "src/pages/Admin.tsx",
+  "src/pages/Instructor.tsx",
+  "src/pages/LMS.tsx",
+  "src/pages/SchoolPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 80302
+}

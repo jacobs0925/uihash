@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "ddd3c5c3e7a93cb5c6451958f53faa0df8c32c89",
+ "date": "2026-02-15",
+ "pr": null,
+ "title": "Enhance hero search results",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 335 later commits"
+}

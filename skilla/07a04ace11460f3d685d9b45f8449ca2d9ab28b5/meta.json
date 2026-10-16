@@ -1,0 +1,24 @@
+{
+ "repo": "skilla",
+ "sha": "07a04ace11460f3d685d9b45f8449ca2d9ab28b5",
+ "parent": "a4420a2a9a2872fe9a069635bde39664ce8a1ceb",
+ "date": "2026-02-21",
+ "subject": "Integrate invoice payments",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AdminCorporateManagement.tsx",
+  "src/components/corporate/CorporateInvoicePayment.tsx",
+  "src/pages/CorporateDashboard.tsx",
+  "supabase/config.toml",
+  "supabase/functions/verify-corporate-invoice-payment/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43815
+}

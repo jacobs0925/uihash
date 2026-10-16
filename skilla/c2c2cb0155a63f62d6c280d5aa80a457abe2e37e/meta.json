@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "c2c2cb0155a63f62d6c280d5aa80a457abe2e37e",
+ "parent": "a0e85fa7f7e8fc009f4d721d463f0d77ab9e7e5a",
+ "date": "2026-02-18",
+ "subject": "Add in-client QR generation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/CertificateRenderer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 44701
+}

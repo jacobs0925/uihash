@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "5be11eb6ae1b341da12bb9a9c9e8530cad8dc437",
+ "parent": "e8beb95ed89df5c9c611cbc27eb8ebfd42708b6c",
+ "date": "2026-02-13",
+ "subject": "Extended editor to all content types",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AddContentToSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43043
+}

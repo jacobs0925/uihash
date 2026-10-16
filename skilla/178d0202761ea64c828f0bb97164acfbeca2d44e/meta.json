@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "178d0202761ea64c828f0bb97164acfbeca2d44e",
+ "parent": "59fd2f3144c36e287ecf1476b16ce7cd52945a5f",
+ "date": "2026-02-26",
+ "subject": "Fix: include live/upcoming courses in search",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Navigation.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40766
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "1577afe6e9a371e6f2cd88e012424dda9fa64925",
+ "parent": "23a0bfaded7cbe086de25dd4a5bf7494ba18f7c5",
+ "date": "2026-03-03",
+ "subject": "Use drag handles for ordering",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/QuizPreview.tsx",
+  "src/components/StudentQuizTaker.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42621
+}

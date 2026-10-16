@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "304d5bf52988b361eb8b7a4b4f6812777e258ae2",
+ "parent": "c1892c33661834dff6e8e2add6ba25e0553a303a",
+ "date": "2026-02-22",
+ "subject": "Add instructor courses lookup",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Admin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43519
+}

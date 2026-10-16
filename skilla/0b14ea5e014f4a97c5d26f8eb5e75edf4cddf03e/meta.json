@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "0b14ea5e014f4a97c5d26f8eb5e75edf4cddf03e",
+ "parent": "d355d8e42b03fecdd229b20d388d6c6ca65bbf33",
+ "date": "2026-03-08",
+ "subject": "Restrict admin invites",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CourseInstructorManager.tsx",
+  "supabase/functions/send-course-instructor-invitation/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41997
+}

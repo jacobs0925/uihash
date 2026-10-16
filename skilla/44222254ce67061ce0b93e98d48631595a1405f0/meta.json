@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "44222254ce67061ce0b93e98d48631595a1405f0",
+ "parent": "ef0a1f00566be27db280e784a8ff059da23f94b2",
+ "date": "2026-02-15",
+ "subject": "Add search input beside Explore",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Hero.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 77104
+}

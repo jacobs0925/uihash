@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "c944f6cccba8379f8fe69a414a4c779d6917c2da",
+ "parent": "5cb9875b5ecedb9387be2def9303e9420bfca3f9",
+ "date": "2026-02-21",
+ "subject": "Enhance corporate courses select",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CorporateTraining.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 61920
+}

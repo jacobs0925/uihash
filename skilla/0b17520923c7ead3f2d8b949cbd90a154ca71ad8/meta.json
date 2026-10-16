@@ -1,0 +1,28 @@
+{
+ "repo": "skilla",
+ "sha": "0b17520923c7ead3f2d8b949cbd90a154ca71ad8",
+ "parent": "331f6455f851fefc4ea8595fdeed96ece86c2f14",
+ "date": "2026-02-21",
+ "subject": "Add corporate admin invite flow",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/AdminCorporateManagement.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/AcceptCorporateInvite.tsx",
+  "supabase/config.toml",
+  "supabase/functions/accept-corporate-admin-invitation/index.ts",
+  "supabase/functions/send-corporate-admin-invitation/index.ts",
+  "supabase/migrations/20260221185113_c7566e9a-9dca-4293-b9c9-9ed42ed135b4.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40676
+}

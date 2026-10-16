@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "8c93ce2b4e6b6f9f2718c8165d484353494b97bf",
+ "parent": "54515bb1c07798e594cb49b022777aac375f4b61",
+ "date": "2026-02-26",
+ "subject": "Removed ResourcesSection import usage",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 52547
+}

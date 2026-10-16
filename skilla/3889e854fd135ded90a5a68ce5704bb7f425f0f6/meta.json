@@ -1,0 +1,22 @@
+{
+ "repo": "skilla",
+ "sha": "3889e854fd135ded90a5a68ce5704bb7f425f0f6",
+ "parent": "c715cc3dbe6172d469ebb3c77843c0df2bdc5a1f",
+ "date": "2026-02-13",
+ "subject": "Update help contact email",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AdminSidebar.tsx",
+  "src/components/InstructorSidebar.tsx",
+  "src/pages/LMS.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49025
+}

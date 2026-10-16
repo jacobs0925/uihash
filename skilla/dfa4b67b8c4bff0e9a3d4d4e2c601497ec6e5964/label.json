@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "dfa4b67b8c4bff0e9a3d4d4e2c601497ec6e5964",
+ "date": "2026-02-27",
+ "pr": null,
+ "title": "Fix tagline text in footer",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 184 later commits"
+}

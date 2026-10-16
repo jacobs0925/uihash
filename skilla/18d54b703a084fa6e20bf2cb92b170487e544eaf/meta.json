@@ -1,0 +1,25 @@
+{
+ "repo": "skilla",
+ "sha": "18d54b703a084fa6e20bf2cb92b170487e544eaf",
+ "parent": "e03d82fe18a9b7699c8274dbbe03ddb9b9a4af1c",
+ "date": "2026-02-27",
+ "subject": "Update hero photos and alt text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/student-1.jpg",
+  "src/assets/student-2.jpg",
+  "src/assets/student-3.jpg",
+  "src/assets/student-4.jpg",
+  "src/assets/student-5.jpg",
+  "src/assets/student-6.jpg",
+  "src/components/Hero.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 48357
+}

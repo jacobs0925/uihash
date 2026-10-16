@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "2e23ff5ef630c23c2b88917dfd9eeda0a7368c5f",
+ "date": "2026-02-26",
+ "pr": null,
+ "title": "Refactor hero and auth redirect",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 217 later commits"
+}

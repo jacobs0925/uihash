@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "484b59ca4d8cabdf6a4398cbb0ce85d0ea51ccb5",
+ "parent": "3fefcc70d12ee455ae10bd504f857d09cd51f4ff",
+ "date": "2026-02-28",
+ "subject": "Add interactive matching questions",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/QuizPreview.tsx",
+  "src/components/StudentQuizTaker.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41866
+}

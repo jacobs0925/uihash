@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "62a8a3dd1cd4d3008197d6a3f76ce1c03c5e7df9",
+ "parent": "4f2f2aec64b5aab0d35b73e61b447ebae6b45924",
+ "date": "2026-02-13",
+ "subject": "Enable download for submissions",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/InstructorGradingDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43301
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "bf2fa0aefa8d533e6544536aaecdd0c42ab160dd",
+ "parent": "37bde9b0ae8b408a9fa28a4353a7442266061b28",
+ "date": "2026-02-21",
+ "subject": "Fixed Learn More link wrapping",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SchoolsSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 76362
+}

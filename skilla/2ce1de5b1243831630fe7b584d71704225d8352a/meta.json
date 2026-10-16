@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "2ce1de5b1243831630fe7b584d71704225d8352a",
+ "parent": "6a8ab579d4092155570dd0ade4acfe08c97a5ca9",
+ "date": "2026-02-19",
+ "subject": "Enhance All Programs search",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AllPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 54489
+}

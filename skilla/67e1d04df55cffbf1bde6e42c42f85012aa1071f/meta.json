@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "67e1d04df55cffbf1bde6e42c42f85012aa1071f",
+ "parent": "379c0afd37040057772087c2467b47d0d71230e3",
+ "date": "2026-03-06",
+ "subject": "Remove admin option from instructor portal",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Instructor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46146
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "bc84a0808782331bd0bbdf7a7d9c7b465be3ce33",
+ "parent": "ea1830f5c8460d5ff0b967a6506299642ca491c8",
+ "date": "2026-02-13",
+ "subject": "Add public content counts API",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/CourseDetail.tsx",
+  "supabase/migrations/20260213102055_ea30fa3b-f3e6-4f9b-9f32-b745cfcc8e2f.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 44295
+}

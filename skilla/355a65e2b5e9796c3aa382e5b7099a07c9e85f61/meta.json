@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "355a65e2b5e9796c3aa382e5b7099a07c9e85f61",
+ "parent": "67e1d04df55cffbf1bde6e42c42f85012aa1071f",
+ "date": "2026-03-06",
+ "subject": "Increase paginated height fill page",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PaginatedTextContent.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42975
+}

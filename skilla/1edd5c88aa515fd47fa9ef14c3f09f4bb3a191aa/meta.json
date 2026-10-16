@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "1edd5c88aa515fd47fa9ef14c3f09f4bb3a191aa",
+ "parent": "5be11eb6ae1b341da12bb9a9c9e8530cad8dc437",
+ "date": "2026-02-13",
+ "subject": "Distraction-free embedded video",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43093
+}

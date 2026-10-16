@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "2970193e07870915796bd7a7afb4a47b0dc144a5",
+ "parent": "2f34bdac2c451f5bec299596ce084262144e4a9b",
+ "date": "2026-02-18",
+ "subject": "Show learning outcomes on cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AllPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40001
+}

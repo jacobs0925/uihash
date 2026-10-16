@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "b1676aa92dc69c148f1292bf48f209727e6b942e",
+ "parent": "304d5bf52988b361eb8b7a4b4f6812777e258ae2",
+ "date": "2026-02-22",
+ "subject": "Add instructor bio in profile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Profile.tsx",
+  "supabase/migrations/20260222121041_5194ab00-eff8-4c68-b96b-c76951528037.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43643
+}

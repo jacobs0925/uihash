@@ -1,0 +1,24 @@
+{
+ "repo": "skilla",
+ "sha": "14b3c8fa098fb1c77ee4cc7a5407c880fc9e7243",
+ "parent": "f4ea83d63e34a6e3cc044345a4c3a80794c18e4c",
+ "date": "2026-02-18",
+ "subject": "Add qr code to certificates",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/CertificateDesigner.tsx",
+  "src/pages/CertificateVerify.tsx",
+  "supabase/functions/generate-certificate/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43739
+}

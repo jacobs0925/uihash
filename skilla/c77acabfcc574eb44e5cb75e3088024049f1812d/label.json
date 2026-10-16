@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "c77acabfcc574eb44e5cb75e3088024049f1812d",
+ "date": "2026-02-27",
+ "pr": null,
+ "title": "Improve CorporateTraining UI",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 183 later commits"
+}

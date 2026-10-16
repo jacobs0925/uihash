@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "7c18ad48c5d4a25dee2cae013b1efd02b29bf06b",
+ "date": "2026-02-21",
+ "pr": null,
+ "title": "Update school career paths",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 250 later commits"
+}

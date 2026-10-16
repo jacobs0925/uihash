@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "8d7785b30eb98bb6021d91a9f7d35a6a58c7d567",
+ "parent": "228ba6fb92b8bfc71db9d7daba9a3d1a13320b72",
+ "date": "2026-03-01",
+ "subject": "Add multi-month payment support",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Apply.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45836
+}

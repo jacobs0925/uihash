@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "6372f8773f4e06b2f37c50f624712bd90a3707b5",
+ "parent": "1f7135c4c1c332d9e7076cff26263b6c79f9a93f",
+ "date": "2026-02-28",
+ "subject": "Add drag reorder for quiz questions",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/QuizQuestionManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41173
+}

@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "5b29a29546902f8c68bc634d932112f728fc128e",
+ "date": "2026-02-27",
+ "pr": null,
+ "title": "Center Apply Quote Button",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 182 later commits"
+}

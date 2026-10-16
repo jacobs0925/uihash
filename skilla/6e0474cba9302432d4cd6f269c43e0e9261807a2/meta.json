@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "6e0474cba9302432d4cd6f269c43e0e9261807a2",
+ "parent": "2e23ff5ef630c23c2b88917dfd9eeda0a7368c5f",
+ "date": "2026-02-26",
+ "subject": "Show free preview curriculum",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/CourseDetail.tsx",
+  "supabase/migrations/20260226112944_f51fc65a-dd3d-454c-8aad-222e4bb4e28a.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42902
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "01f87b5219ad2b63a07b45596a3d8d3b923b1ee0",
+ "parent": "e70b25e1c4d88002eebdac7e53a2ad4efbdded43",
+ "date": "2026-02-26",
+ "subject": "Improve Curriculum Split View",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42949
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "9e5397ae131d7803a9486f85ca6ba467a3a50301",
+ "parent": "902401469690a6962137b5db194cb073eaa517fd",
+ "date": "2026-02-13",
+ "subject": "Persist highest quiz grades",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/StudentQuizTaker.tsx",
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43338
+}

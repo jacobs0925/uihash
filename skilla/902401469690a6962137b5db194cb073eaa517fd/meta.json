@@ -1,0 +1,22 @@
+{
+ "repo": "skilla",
+ "sha": "902401469690a6962137b5db194cb073eaa517fd",
+ "parent": "4e95fb75b93046ac7a870b41133e4e874f6068f1",
+ "date": "2026-02-13",
+ "subject": "Enforce sequential completion",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CertificatesSection.tsx",
+  "src/components/CourseContentSidebar.tsx",
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42638
+}

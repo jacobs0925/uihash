@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "ac0ea6fece34979c887ec2bbce7cac3ceec59292",
+ "parent": "6f767e0f9bd443448fa595e7c8e549c3a09fda7d",
+ "date": "2026-02-13",
+ "subject": "Add AI difficulty selector",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/RichTextEditor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43039
+}

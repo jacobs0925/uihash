@@ -1,0 +1,23 @@
+{
+ "repo": "skilla",
+ "sha": "71461d79c01b45fbda5c144f82d99a0b31357a91",
+ "parent": "25d1a90e2210285a8b43ebc22d21088b705e4424",
+ "date": "2026-02-25",
+ "subject": "Add PDF presentation viewer",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/PdfPresentationViewer.tsx",
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43181
+}

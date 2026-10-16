@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "331f6455f851fefc4ea8595fdeed96ece86c2f14",
+ "parent": "336784726aa67c6a4b2952dbde88d062fd6eb751",
+ "date": "2026-02-21",
+ "subject": "Extend social share options to include X and Instagram",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SocialSharePrompt.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41299
+}

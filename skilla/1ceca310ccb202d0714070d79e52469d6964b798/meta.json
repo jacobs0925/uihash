@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "1ceca310ccb202d0714070d79e52469d6964b798",
+ "parent": "d210ac0067d03ad9d92905806fbea4b6fb0d1ce7",
+ "date": "2026-02-26",
+ "subject": "Implement BNR rate integration",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/lib/currency.ts",
+  "supabase/functions/fetch-bnr-exchange-rate/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40511
+}

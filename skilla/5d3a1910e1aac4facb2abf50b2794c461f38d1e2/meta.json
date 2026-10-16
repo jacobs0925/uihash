@@ -1,0 +1,24 @@
+{
+ "repo": "skilla",
+ "sha": "5d3a1910e1aac4facb2abf50b2794c461f38d1e2",
+ "parent": "73078013754d6678d0dc96a5eb99e50f3102b069",
+ "date": "2026-02-21",
+ "subject": "Add course ratings feature",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CertificatesSection.tsx",
+  "src/components/CourseRatingDialog.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Programs.tsx",
+  "supabase/migrations/20260221053405_29a36aa5-765b-44ea-aeeb-a03588cfb3a5.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 45626
+}

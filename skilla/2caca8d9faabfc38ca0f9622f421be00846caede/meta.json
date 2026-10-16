@@ -1,0 +1,25 @@
+{
+ "repo": "skilla",
+ "sha": "2caca8d9faabfc38ca0f9622f421be00846caede",
+ "parent": "9c345cf30de7bc3293afd838e385de80c6fd4b6f",
+ "date": "2026-02-26",
+ "subject": "Cap progress clamped",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CertificatesSection.tsx",
+  "src/components/GradeBook.tsx",
+  "src/components/StudentProgressDashboard.tsx",
+  "src/components/StudentQuizTaker.tsx",
+  "src/pages/CorporateDashboard.tsx",
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45282
+}

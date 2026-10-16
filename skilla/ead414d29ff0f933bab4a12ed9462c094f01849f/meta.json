@@ -1,0 +1,23 @@
+{
+ "repo": "skilla",
+ "sha": "ead414d29ff0f933bab4a12ed9462c094f01849f",
+ "parent": "4228bcbe9c0f14df12f57e36aa1a35a63b2c9ea7",
+ "date": "2026-02-20",
+ "subject": "Added AI full course generator",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AIFullCourseGenerator.tsx",
+  "src/pages/Instructor.tsx",
+  "supabase/config.toml",
+  "supabase/functions/generate-full-course/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49723
+}

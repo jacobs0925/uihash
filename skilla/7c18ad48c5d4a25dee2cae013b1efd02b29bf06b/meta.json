@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "7c18ad48c5d4a25dee2cae013b1efd02b29bf06b",
+ "parent": "bf2fa0aefa8d533e6544536aaecdd0c42ab160dd",
+ "date": "2026-02-21",
+ "subject": "Update school career paths",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/SchoolsSection.tsx",
+  "src/pages/SchoolPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 55604
+}

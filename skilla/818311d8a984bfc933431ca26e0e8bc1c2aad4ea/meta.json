@@ -1,0 +1,30 @@
+{
+ "repo": "skilla",
+ "sha": "818311d8a984bfc933431ca26e0e8bc1c2aad4ea",
+ "parent": "6fce20f120b0fdee24caed139b9ac9b8e90505a5",
+ "date": "2026-02-27",
+ "subject": "Sanitized descriptions in UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AssignmentPreview.tsx",
+  "src/components/CourseContentSidebar.tsx",
+  "src/components/CoursePreviewDialog.tsx",
+  "src/components/CourseSectionManager.tsx",
+  "src/components/InstructorLMSView.tsx",
+  "src/components/UnifiedContentList.tsx",
+  "src/pages/Admin.tsx",
+  "src/pages/AllPrograms.tsx",
+  "src/pages/CourseDetail.tsx",
+  "src/pages/Instructor.tsx",
+  "src/pages/Programs.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 50300
+}

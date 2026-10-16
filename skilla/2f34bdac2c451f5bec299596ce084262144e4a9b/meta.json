@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "2f34bdac2c451f5bec299596ce084262144e4a9b",
+ "parent": "063090d4e2a648d46ed3535af85c639204ef58e5",
+ "date": "2026-02-18",
+ "subject": "Populate all programs with real courses",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AllPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 53385
+}

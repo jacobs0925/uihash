@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "b6e49f8634b4285b0e2b92680d15215d0a3e8a76",
+ "parent": "cad5877eb03ee55800ce4d54744c000f5c025412",
+ "date": "2026-02-24",
+ "subject": "Rename comms label and tab",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/InstructorSidebar.tsx",
+  "src/pages/Instructor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44145
+}

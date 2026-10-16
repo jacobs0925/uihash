@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "04d7b0042abace5d2b523308476365303b85933e",
+ "date": "2026-02-26",
+ "pr": null,
+ "title": "Replaced search with CTA",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 218 later commits"
+}

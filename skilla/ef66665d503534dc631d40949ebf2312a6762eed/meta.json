@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "ef66665d503534dc631d40949ebf2312a6762eed",
+ "parent": "126b56962f383802370b85ed61b34bd7d0bb48d9",
+ "date": "2026-03-07",
+ "subject": "Encode full QR data",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CertificateRenderer.tsx",
+  "supabase/functions/generate-certificate/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43326
+}

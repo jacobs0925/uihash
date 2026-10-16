@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "e58e43bebb56eed2024913952b480b3467c235df",
+ "parent": "36cca3e732e52d7ce6a6469e313895f8156c373b",
+ "date": "2026-02-28",
+ "subject": "Fix quiz generator save",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIQuestionGenerator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41472
+}

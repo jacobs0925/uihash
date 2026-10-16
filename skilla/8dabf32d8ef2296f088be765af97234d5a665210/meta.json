@@ -1,0 +1,27 @@
+{
+ "repo": "skilla",
+ "sha": "8dabf32d8ef2296f088be765af97234d5a665210",
+ "parent": "c2c743cdfb85c053cbe7a5575494ed4a14b875f0",
+ "date": "2026-02-21",
+ "subject": "Rename schools across UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/Footer.tsx",
+  "src/components/Hero.tsx",
+  "src/components/Navigation.tsx",
+  "src/components/SchoolsSection.tsx",
+  "src/pages/Admin.tsx",
+  "src/pages/Instructor.tsx",
+  "src/pages/LMS.tsx",
+  "src/pages/SchoolPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 5,
+ "ms": 75251
+}

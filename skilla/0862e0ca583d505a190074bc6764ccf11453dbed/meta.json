@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "0862e0ca583d505a190074bc6764ccf11453dbed",
+ "parent": "79492215d43f3028df1eff07da297b187d35ef94",
+ "date": "2026-02-26",
+ "subject": "Refactor signup to multi-step",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/SignUp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 15,
+ "ms": 54601
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "36cca3e732e52d7ce6a6469e313895f8156c373b",
+ "parent": "6cb266f1cb34f942938de5633a681bf7d2580e4e",
+ "date": "2026-02-28",
+ "subject": "Fix matching question render",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIQuestionGenerator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41470
+}

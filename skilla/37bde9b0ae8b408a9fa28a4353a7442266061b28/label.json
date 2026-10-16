@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "37bde9b0ae8b408a9fa28a4353a7442266061b28",
+ "date": "2026-02-21",
+ "pr": null,
+ "title": "Rename languages label to Languages & Comms",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 252 later commits"
+}

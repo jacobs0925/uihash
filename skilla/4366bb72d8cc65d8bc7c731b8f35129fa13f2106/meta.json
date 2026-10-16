@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "4366bb72d8cc65d8bc7c731b8f35129fa13f2106",
+ "parent": "b7989a940e1140603b074f9e100f52caf55a6f27",
+ "date": "2026-03-04",
+ "subject": "Improve pagination placement",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PaginatedTextContent.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41251
+}

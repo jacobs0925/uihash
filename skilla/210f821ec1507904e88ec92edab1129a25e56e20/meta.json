@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "210f821ec1507904e88ec92edab1129a25e56e20",
+ "parent": "18d54b703a084fa6e20bf2cb92b170487e544eaf",
+ "date": "2026-02-27",
+ "subject": "Add Collaborate to nav",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Navigation.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 59681
+}

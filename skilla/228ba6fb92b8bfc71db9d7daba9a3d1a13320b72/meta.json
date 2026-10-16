@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "228ba6fb92b8bfc71db9d7daba9a3d1a13320b72",
+ "parent": "4a5658d97f425b93e649c3a3e131e422f97d29ea",
+ "date": "2026-02-28",
+ "subject": "Wrap quiz matching text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/QuizPreview.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41655
+}

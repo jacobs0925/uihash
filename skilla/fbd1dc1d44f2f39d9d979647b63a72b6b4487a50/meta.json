@@ -1,0 +1,22 @@
+{
+ "repo": "skilla",
+ "sha": "fbd1dc1d44f2f39d9d979647b63a72b6b4487a50",
+ "parent": "eb1a3164c7ac246d5f8ee778c61bd49bda3821f5",
+ "date": "2026-02-13",
+ "subject": "Improve optimistic removals sync",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CourseInstructorManager.tsx",
+  "src/pages/Admin.tsx",
+  "src/pages/Instructor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 48663
+}

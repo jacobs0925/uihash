@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "05d821315b541ad40001fc075f203e6b05758393",
+ "date": "2026-02-27",
+ "pr": null,
+ "title": "Add Learn/Teach banner text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 185 later commits"
+}

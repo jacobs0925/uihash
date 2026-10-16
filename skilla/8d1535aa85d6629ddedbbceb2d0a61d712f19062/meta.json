@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "8d1535aa85d6629ddedbbceb2d0a61d712f19062",
+ "parent": "a47d4dc64acd1359f3060b6d173388ddb3fb3eb3",
+ "date": "2026-02-18",
+ "subject": "Improve invitation flow for instructors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CourseInstructorManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43658
+}

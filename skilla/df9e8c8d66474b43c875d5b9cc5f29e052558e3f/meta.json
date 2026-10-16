@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "df9e8c8d66474b43c875d5b9cc5f29e052558e3f",
+ "parent": "c90dd69e398ed1acbd847e69e05231a4a02f44d9",
+ "date": "2026-02-15",
+ "subject": "Adjust FAQ grid layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FAQSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 64212
+}

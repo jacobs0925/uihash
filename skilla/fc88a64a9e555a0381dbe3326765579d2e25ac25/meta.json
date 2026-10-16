@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "fc88a64a9e555a0381dbe3326765579d2e25ac25",
+ "parent": "8c93ce2b4e6b6f9f2718c8165d484353494b97bf",
+ "date": "2026-02-26",
+ "subject": "Separate nav and rename label",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Navigation.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 80819
+}

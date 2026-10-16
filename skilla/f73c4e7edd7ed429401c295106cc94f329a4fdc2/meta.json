@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "f73c4e7edd7ed429401c295106cc94f329a4fdc2",
+ "parent": "d2c9c3ec7636152b80344e685ed033a4ef886f8d",
+ "date": "2026-02-21",
+ "subject": "Fix filter for pending applicants",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Admin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48755
+}

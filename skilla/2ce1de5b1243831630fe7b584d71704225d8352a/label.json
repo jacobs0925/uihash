@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "2ce1de5b1243831630fe7b584d71704225d8352a",
+ "date": "2026-02-19",
+ "pr": null,
+ "title": "Enhance All Programs search",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 5ded1882, which restored 6a8ab579 (2 commits discarded)"
+}

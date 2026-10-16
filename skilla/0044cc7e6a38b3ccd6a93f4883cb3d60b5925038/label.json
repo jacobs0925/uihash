@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "0044cc7e6a38b3ccd6a93f4883cb3d60b5925038",
+ "date": "2026-02-26",
+ "pr": null,
+ "title": "Reworked school filters",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 219 later commits"
+}

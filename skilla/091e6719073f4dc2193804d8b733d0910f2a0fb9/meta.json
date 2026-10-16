@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "091e6719073f4dc2193804d8b733d0910f2a0fb9",
+ "parent": "7edeb89c6092b5139b51a9a28bed9830f08f91c1",
+ "date": "2026-02-21",
+ "subject": "Add ratings and bio popovers to programs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AllPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 45476
+}

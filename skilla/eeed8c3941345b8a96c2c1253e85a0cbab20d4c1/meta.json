@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "eeed8c3941345b8a96c2c1253e85a0cbab20d4c1",
+ "parent": "ef358105091594ed56d423e444d6b0c9d7f885ea",
+ "date": "2026-02-13",
+ "subject": "Remove unit descriptions",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CourseContentSidebar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42628
+}

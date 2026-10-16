@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "5cb9875b5ecedb9387be2def9303e9420bfca3f9",
+ "parent": "07a04ace11460f3d685d9b45f8449ca2d9ab28b5",
+ "date": "2026-02-21",
+ "subject": "Set fixed 4.5/5 fallback ratings",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AllPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40588
+}

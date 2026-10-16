@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "d210ac0067d03ad9d92905806fbea4b6fb0d1ce7",
+ "parent": "de7f04ae21c870b7185f1c7b659541ece39f6a5c",
+ "date": "2026-02-26",
+ "subject": "Improve leaderboard pagination",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LeaderboardSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40698
+}

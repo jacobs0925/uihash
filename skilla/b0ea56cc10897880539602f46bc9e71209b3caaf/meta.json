@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "b0ea56cc10897880539602f46bc9e71209b3caaf",
+ "parent": "d749020f21fd3eae8e529c6ae178416b7e395913",
+ "date": "2026-02-28",
+ "subject": "Adjust peer review gating",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41721
+}

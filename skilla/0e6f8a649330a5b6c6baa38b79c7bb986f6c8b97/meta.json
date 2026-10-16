@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "0e6f8a649330a5b6c6baa38b79c7bb986f6c8b97",
+ "parent": "f3b1408c7cce8534e6db2125820511fffd2f43d9",
+ "date": "2026-02-18",
+ "subject": "Make instructors fetchable across platform",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CourseInstructorManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48301
+}

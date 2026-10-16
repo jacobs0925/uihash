@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "2a9679cf28dcf73796a922c9d920396f10e32561",
+ "parent": "818311d8a984bfc933431ca26e0e8bc1c2aad4ea",
+ "date": "2026-02-27",
+ "subject": "Enhancement: empty new cells",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/CodeLessonPlayer.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41413
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "126b56962f383802370b85ed61b34bd7d0bb48d9",
+ "parent": "e066177b1548b4cee83a09f61edacc9ee92fccb7",
+ "date": "2026-03-07",
+ "subject": "Enhance certificate banner",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CertificateVerify.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43713
+}

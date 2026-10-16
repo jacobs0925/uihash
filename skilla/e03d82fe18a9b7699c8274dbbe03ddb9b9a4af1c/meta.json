@@ -1,0 +1,28 @@
+{
+ "repo": "skilla",
+ "sha": "e03d82fe18a9b7699c8274dbbe03ddb9b9a4af1c",
+ "parent": "4c917ef6e1ba970269edfcc81979b57ee694ca69",
+ "date": "2026-02-27",
+ "subject": "Integrate collaboration flow",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/AdminCollaborationManagement.tsx",
+  "src/components/AdminSidebar.tsx",
+  "src/components/Footer.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Admin.tsx",
+  "src/pages/Collaborate.tsx",
+  "supabase/migrations/20260227090231_27dcc242-e09a-44c0-bb06-4a921225bef1.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 61530
+}

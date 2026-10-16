@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "3fefcc70d12ee455ae10bd504f857d09cd51f4ff",
+ "parent": "f41be15a084aa229bdbf71173d6a38dcc7a83793",
+ "date": "2026-02-28",
+ "subject": "Disable seeking in video embeds when watch threshold not met",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useVideoWatchProgress.ts",
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41538
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "47da2ee443ea029892835a28d6f6429fe528288f",
+ "parent": "2caca8d9faabfc38ca0f9622f421be00846caede",
+ "date": "2026-02-26",
+ "subject": "Restrict unpublished courses",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AllPrograms.tsx",
+  "supabase/migrations/20260226135139_7acce993-f904-4593-9008-e1f44344d5ed.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43726
+}

@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "210f821ec1507904e88ec92edab1129a25e56e20",
+ "date": "2026-02-27",
+ "pr": null,
+ "title": "Add Collaborate to nav",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 186 later commits"
+}

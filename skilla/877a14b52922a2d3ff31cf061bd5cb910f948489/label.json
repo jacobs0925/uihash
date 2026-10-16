@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "877a14b52922a2d3ff31cf061bd5cb910f948489",
+ "date": "2026-02-15",
+ "pr": null,
+ "title": "Reverted to commit df9e8c8d66474b43c875d5b9cc5f29e052558e3f",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "grid-template-columns: repeat(3, minmax(0px, 1fr)) → repeat(2, minmax(0px, 1fr)) undone by df9e8c8d \"Adjust FAQ grid layout\"; grid-template-columns: repeat(3, minmax(0px, 1fr)) → repeat(2, minmax(0px, 1fr)) undone by df9e8c8d \"Adjust FAQ grid layout\"; grid-template-columns: repeat(3, minmax(0px, 1fr)) → repeat(2, minmax(0px, 1fr)) undone by df9e8c8d \"Adjust FAQ grid layout\""
+}

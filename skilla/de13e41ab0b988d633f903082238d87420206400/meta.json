@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "de13e41ab0b988d633f903082238d87420206400",
+ "parent": "233cc4cc979e509468ad9d65fdc14d881a6a902a",
+ "date": "2026-02-26",
+ "subject": "Add search in navigation bar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Navigation.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 67826
+}

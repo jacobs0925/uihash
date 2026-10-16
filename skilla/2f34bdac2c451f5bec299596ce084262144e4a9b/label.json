@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "2f34bdac2c451f5bec299596ce084262144e4a9b",
+ "date": "2026-02-18",
+ "pr": null,
+ "title": "Populate all programs with real courses",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 280 later commits"
+}

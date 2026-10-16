@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "25d1a90e2210285a8b43ebc22d21088b705e4424",
+ "parent": "79316adbd79b1864c4ebc3f80b0dcb8ad1033c16",
+ "date": "2026-02-25",
+ "subject": "Enable text wrapping in course sidebar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CourseContentSidebar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40493
+}

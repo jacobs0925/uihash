@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "9c345cf30de7bc3293afd838e385de80c6fd4b6f",
+ "parent": "05bd5fb8f3992af2ec81463ef11e5fc8f8475978",
+ "date": "2026-02-26",
+ "subject": "Expand admin users schema",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Admin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44138
+}

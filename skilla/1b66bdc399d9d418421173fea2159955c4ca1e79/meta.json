@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "1b66bdc399d9d418421173fea2159955c4ca1e79",
+ "parent": "aa902845d3c90c6c1b6889c3b336008cd6c22d68",
+ "date": "2026-02-14",
+ "subject": "Add export to Excel/PDF buttons",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/lib/exportUtils.ts",
+  "src/pages/Admin.tsx",
+  "src/pages/Instructor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 49214
+}

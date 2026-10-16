@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "e03d82fe18a9b7699c8274dbbe03ddb9b9a4af1c",
+ "date": "2026-02-27",
+ "pr": null,
+ "title": "Integrate collaboration flow",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 188 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "c77acabfcc574eb44e5cb75e3088024049f1812d",
+ "parent": "dfa4b67b8c4bff0e9a3d4d4e2c601497ec6e5964",
+ "date": "2026-02-27",
+ "subject": "Improve CorporateTraining UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CorporateTraining.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 8,
+ "ms": 64515
+}

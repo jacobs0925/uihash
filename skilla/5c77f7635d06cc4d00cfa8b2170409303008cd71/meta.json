@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "5c77f7635d06cc4d00cfa8b2170409303008cd71",
+ "parent": "95f5a9f4935f51f3a06f0d9bdd944665a8779883",
+ "date": "2026-02-13",
+ "subject": "Render instructions with prose styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43581
+}

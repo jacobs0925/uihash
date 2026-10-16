@@ -1,0 +1,26 @@
+{
+ "repo": "skilla",
+ "sha": "59fd2f3144c36e287ecf1476b16ce7cd52945a5f",
+ "parent": "5db71531409120ea93e6ab5ebebc86a5fc059de7",
+ "date": "2026-02-26",
+ "subject": "Add referral systemUI and signup flow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/LMSSidebar.tsx",
+  "src/components/ReferralSection.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/LMS.tsx",
+  "src/pages/SignUp.tsx",
+  "supabase/migrations/20260226140441_f03b1168-a064-4df5-b9a7-ba28ba3d0038.sql",
+  "supabase/migrations/20260226140556_d9e3c9e7-493d-4d66-b63a-03e86860477d.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 46413
+}

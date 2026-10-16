@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "5b4216981f657299df66d7dce478d5ad9538dd73",
+ "parent": "6f0283ef79bb282ee8a3e2b4be78e0ee7f954732",
+ "date": "2026-03-08",
+ "subject": "Auto-enroll redirect",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Apply.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44691
+}

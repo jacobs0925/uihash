@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "44222254ce67061ce0b93e98d48631595a1405f0",
+ "date": "2026-02-15",
+ "pr": null,
+ "title": "Add search input beside Explore",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text-align: center → ∅ undone by 04d7b004 \"Replaced search with CTA\"; line-height: 1.5 → ∅ undone by 04d7b004 \"Replaced search with CTA\"; font-size: 16px → ∅ undone by 04d7b004 \"Replaced search with CTA\""
+}

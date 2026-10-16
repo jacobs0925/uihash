@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "4f2f2aec64b5aab0d35b73e61b447ebae6b45924",
+ "parent": "94d2520bb10830f9ca7625897a026fdb1cd44490",
+ "date": "2026-02-13",
+ "subject": "Improve grading data loading",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/InstructorGradingDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42844
+}

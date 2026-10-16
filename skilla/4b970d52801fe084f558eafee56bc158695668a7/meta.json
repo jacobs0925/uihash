@@ -1,0 +1,23 @@
+{
+ "repo": "skilla",
+ "sha": "4b970d52801fe084f558eafee56bc158695668a7",
+ "parent": "5c77f7635d06cc4d00cfa8b2170409303008cd71",
+ "date": "2026-02-13",
+ "subject": "Fix bucket and embed videos",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AddContentToSection.tsx",
+  "src/components/ContentItemEditDialog.tsx",
+  "src/pages/CourseDetail.tsx",
+  "supabase/migrations/20260213104159_7c43e4d4-4356-4d8d-885c-a4adb63e4d3f.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43542
+}

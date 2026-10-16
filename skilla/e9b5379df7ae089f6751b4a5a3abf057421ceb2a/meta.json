@@ -1,0 +1,22 @@
+{
+ "repo": "skilla",
+ "sha": "e9b5379df7ae089f6751b4a5a3abf057421ceb2a",
+ "parent": "ded27fc481324d8788b3af4f36577927da4284fe",
+ "date": "2026-02-13",
+ "subject": "Add Embedded Video option",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AddContentToSection.tsx",
+  "src/components/ContentItemEditDialog.tsx",
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43306
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "1fb97639b9195f99d3b4d9d308fbea3094941c20",
+ "parent": "b6e49f8634b4285b0e2b92680d15215d0a3e8a76",
+ "date": "2026-02-24",
+ "subject": "Enable multi-course and global in comms",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/communication/AnnouncementsPanel.tsx",
+  "src/components/communication/LiveSessionsPanel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40492
+}

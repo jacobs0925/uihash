@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "dec2dddfb3874d01328ebb53b58877624214be1b",
+ "parent": "8d1535aa85d6629ddedbbceb2d0a61d712f19062",
+ "date": "2026-02-18",
+ "subject": "Render QR as canvas on certificate",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CertificateRenderer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42232
+}

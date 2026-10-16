@@ -1,0 +1,25 @@
+{
+ "repo": "skilla",
+ "sha": "5db71531409120ea93e6ab5ebebc86a5fc059de7",
+ "parent": "47da2ee443ea029892835a28d6f6429fe528288f",
+ "date": "2026-02-26",
+ "subject": "Add per-module ratings and flow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CertificatesSection.tsx",
+  "src/components/CourseRatingDialog.tsx",
+  "src/components/ModuleRatingDialog.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/CourseDetail.tsx",
+  "supabase/migrations/20260226135551_1b66bbe3-adb9-4cd5-8b4c-0bd8f66e99e4.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 40765
+}

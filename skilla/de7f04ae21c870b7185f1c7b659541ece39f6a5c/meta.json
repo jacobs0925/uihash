@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "de7f04ae21c870b7185f1c7b659541ece39f6a5c",
+ "parent": "7722024b833d5e140e5928d41c7e3d0433ea0889",
+ "date": "2026-02-26",
+ "subject": "Show user rank in leaderboard",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LeaderboardSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41312
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "1890fdc1f5240079f4c436de49ba7ad652d1066f",
+ "parent": "cc56bf9bf1f513842e9d9590390b376272854c55",
+ "date": "2026-02-15",
+ "subject": "Expand Career grid to 3 columns",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CareerSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 64430
+}

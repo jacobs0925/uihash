@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "7edeb89c6092b5139b51a9a28bed9830f08f91c1",
+ "parent": "5d3a1910e1aac4facb2abf50b2794c461f38d1e2",
+ "date": "2026-02-21",
+ "subject": "Add numeric rating and bio popover in programs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Programs.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 44984
+}

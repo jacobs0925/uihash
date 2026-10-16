@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "f7bda1dd07074de1a5b449fc48a2814f77ebf951",
+ "parent": "a5a03d068ad5c3894ecb3d03282b90b551f2c836",
+ "date": "2026-03-03",
+ "subject": "Improve quiz bucket visuals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/QuizPreview.tsx",
+  "src/components/StudentQuizTaker.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41861
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "skilla",
+ "sha": "97f0c4a262eeb08ab3675a62fcd17a4961bce747",
+ "parent": "734415548388b6ced80334ba87ee25ff85e1b346",
+ "date": "2026-03-01",
+ "subject": "Enhance course cards UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/ProgramCard.tsx",
+  "src/pages/Programs.tsx",
+  "src/pages/SchoolPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41888
+}

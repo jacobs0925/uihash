@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "05d821315b541ad40001fc075f203e6b05758393",
+ "parent": "210f821ec1507904e88ec92edab1129a25e56e20",
+ "date": "2026-02-27",
+ "subject": "Add Learn/Teach banner text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 51217
+}

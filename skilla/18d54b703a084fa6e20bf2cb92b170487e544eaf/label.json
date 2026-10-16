@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "18d54b703a084fa6e20bf2cb92b170487e544eaf",
+ "date": "2026-02-27",
+ "pr": null,
+ "title": "Update hero photos and alt text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 187 later commits"
+}

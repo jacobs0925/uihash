@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "f9735f3febc60a6b7c5a735418abcb9e464b8f72",
+ "parent": "c06f53af09dddaa8b805534bd3f2fa359ea00e9a",
+ "date": "2026-02-17",
+ "subject": "Include rich text for video content",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ContentItemEditDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43432
+}

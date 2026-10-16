@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "ef358105091594ed56d423e444d6b0c9d7f885ea",
+ "parent": "834e3469add3e2dca3ef94d47403e0b35bb4dbae",
+ "date": "2026-02-13",
+ "subject": "Show section descriptions",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CourseContentSidebar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42672
+}

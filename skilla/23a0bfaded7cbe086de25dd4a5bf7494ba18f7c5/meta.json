@@ -1,0 +1,23 @@
+{
+ "repo": "skilla",
+ "sha": "23a0bfaded7cbe086de25dd4a5bf7494ba18f7c5",
+ "parent": "c47f3b07059af12cc7445631d2eb99d2b887d3f1",
+ "date": "2026-03-02",
+ "subject": "Add drag-into-buckets type",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIQuestionGenerator.tsx",
+  "src/components/QuizPreview.tsx",
+  "src/components/QuizQuestionManager.tsx",
+  "src/components/StudentQuizTaker.tsx",
+  "supabase/functions/ai-content-generator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41762
+}

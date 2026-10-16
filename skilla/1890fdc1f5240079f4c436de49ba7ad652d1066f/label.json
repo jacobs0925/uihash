@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "1890fdc1f5240079f4c436de49ba7ad652d1066f",
+ "date": "2026-02-15",
+ "pr": null,
+ "title": "Expand Career grid to 3 columns",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 877a14b5, which restored df9e8c8d (2 commits discarded)"
+}

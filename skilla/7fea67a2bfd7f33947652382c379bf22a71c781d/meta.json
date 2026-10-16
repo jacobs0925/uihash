@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "7fea67a2bfd7f33947652382c379bf22a71c781d",
+ "parent": "2ce1de5b1243831630fe7b584d71704225d8352a",
+ "date": "2026-02-19",
+ "subject": "Add sort to All Programs page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AllPrograms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 50465
+}

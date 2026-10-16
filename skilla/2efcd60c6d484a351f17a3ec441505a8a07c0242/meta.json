@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "2efcd60c6d484a351f17a3ec441505a8a07c0242",
+ "parent": "afaa1bd1608ebce8d58c6ffc35be9042fb345914",
+ "date": "2026-02-23",
+ "subject": "Show instructor apps visible",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Admin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43381
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "skilla",
+ "sha": "ce4e524d64559a0050b538b00192c9dc520f6b6a",
+ "parent": "26f2ba9f2896fcd2f46e1e83a663b0fbcaf0b611",
+ "date": "2026-02-18",
+ "subject": "Improve certificate download fidelity",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/CertificateRenderer.tsx",
+  "src/components/CertificatesSection.tsx",
+  "src/hooks/useCertificateDownload.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47313
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "skilla",
+ "sha": "a4420a2a9a2872fe9a069635bde39664ce8a1ceb",
+ "parent": "0b17520923c7ead3f2d8b949cbd90a154ca71ad8",
+ "date": "2026-02-21",
+ "subject": "Add corporate course assign + leaderboard",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/corporate/CorporateAssignCourse.tsx",
+  "src/components/corporate/CorporateLeaderboard.tsx",
+  "src/pages/CorporateDashboard.tsx",
+  "supabase/config.toml",
+  "supabase/functions/send-corporate-member-invitation/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43249
+}

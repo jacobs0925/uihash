@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "2ba49bae59853f7f84f4266cee7b4f31610364da",
+ "parent": "c2003e745c21d2af0a14b0cede6589a40ba82183",
+ "date": "2026-02-16",
+ "subject": "Fix next navigation order",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 44353
+}

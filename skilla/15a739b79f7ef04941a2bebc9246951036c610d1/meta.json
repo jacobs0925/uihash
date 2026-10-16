@@ -1,0 +1,24 @@
+{
+ "repo": "skilla",
+ "sha": "15a739b79f7ef04941a2bebc9246951036c610d1",
+ "parent": "5b29a29546902f8c68bc634d932112f728fc128e",
+ "date": "2026-02-27",
+ "subject": "Add Python/SQL lesson support",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AddContentToSection.tsx",
+  "src/components/CodeLessonPlayer.tsx",
+  "src/components/CourseContentSidebar.tsx",
+  "src/pages/CourseDetail.tsx",
+  "supabase/functions/code-ai-assist/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41270
+}

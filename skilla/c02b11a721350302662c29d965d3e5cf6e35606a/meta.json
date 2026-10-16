@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "c02b11a721350302662c29d965d3e5cf6e35606a",
+ "parent": "01f87b5219ad2b63a07b45596a3d8d3b923b1ee0",
+ "date": "2026-02-26",
+ "subject": "Widen course overview container",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 42945
+}

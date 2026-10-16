@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "5ded1882ab6f7fde6c23e302015a43bbd4a89310",
+ "date": "2026-02-19",
+ "pr": null,
+ "title": "Reverted to commit 6a8ab579d4092155570dd0ade4acfe08c97a5ca9",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-bottom: 48px → 64px undone by 08edf1a9 \"Improve auth and programs UI\"; margin-bottom: 48px → 64px undone by 08edf1a9 \"Improve auth and programs UI\"; margin-bottom: 48px → 64px undone by 08edf1a9 \"Improve auth and programs UI\""
+}

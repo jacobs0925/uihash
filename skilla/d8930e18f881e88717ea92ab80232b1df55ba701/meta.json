@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "d8930e18f881e88717ea92ab80232b1df55ba701",
+ "parent": "355a65e2b5e9796c3aa382e5b7099a07c9e85f61",
+ "date": "2026-03-06",
+ "subject": "Improve pagination UI placement",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/PaginatedTextContent.tsx",
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 44150
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "c14769cc7c7f3a0bce266b82ec264b1a675a8602",
+ "parent": "591db322a6094488711fb1d495e4336650ed9d3b",
+ "date": "2026-02-18",
+ "subject": "Update enroll text to Enroll Now",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx",
+  "src/pages/LMS.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51615
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "skilla",
+ "sha": "1f7135c4c1c332d9e7076cff26263b6c79f9a93f",
+ "parent": "a7a4c6d6fbc1fe7f63d059b55efa158f429f2b68",
+ "date": "2026-02-28",
+ "subject": "Enforced YouTube sanitization",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/components/AssignmentPreview.tsx",
+  "src/index.css",
+  "src/lib/youtubeUtils.ts",
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41685
+}

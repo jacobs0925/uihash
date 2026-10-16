@@ -1,0 +1,21 @@
+{
+ "repo": "skilla",
+ "sha": "e70b25e1c4d88002eebdac7e53a2ad4efbdded43",
+ "parent": "d9a9437b2eebaefb69521a9157068806928abaf6",
+ "date": "2026-02-26",
+ "subject": "Enable free preview access for logged-in users",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/CourseDetail.tsx",
+  "supabase/migrations/20260226121413_cad02e78-f6b0-4368-8ab3-41d02bc4e37b.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43200
+}

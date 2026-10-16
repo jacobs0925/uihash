@@ -1,0 +1,24 @@
+{
+ "repo": "skilla",
+ "sha": "d749020f21fd3eae8e529c6ae178416b7e395913",
+ "parent": "6372f8773f4e06b2f37c50f624712bd90a3707b5",
+ "date": "2026-02-28",
+ "subject": "Add peer review workflow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/CertificatesSection.tsx",
+  "src/components/PeerReviewPanel.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/CourseDetail.tsx",
+  "supabase/migrations/20260228102820_dd27bcdd-6f98-43e4-9020-93e6a5b30242.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41943
+}

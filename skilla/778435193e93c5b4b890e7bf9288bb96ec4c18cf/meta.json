@@ -1,0 +1,23 @@
+{
+ "repo": "skilla",
+ "sha": "778435193e93c5b4b890e7bf9288bb96ec4c18cf",
+ "parent": "bec111d5565ba774611e31f520cc50aad2a436ad",
+ "date": "2026-03-05",
+ "subject": "Add role column dropdowns",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "bun.lock",
+  "src/pages/Admin.tsx",
+  "src/pages/Instructor.tsx",
+  "tsconfig.app.json",
+  "tsconfig.json"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 48472
+}

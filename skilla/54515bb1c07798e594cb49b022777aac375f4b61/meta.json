@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "54515bb1c07798e594cb49b022777aac375f4b61",
+ "parent": "c02b11a721350302662c29d965d3e5cf6e35606a",
+ "date": "2026-02-26",
+ "subject": "Widen curriculum layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43022
+}

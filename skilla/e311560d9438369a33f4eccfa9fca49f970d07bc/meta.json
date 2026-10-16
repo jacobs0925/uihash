@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "e311560d9438369a33f4eccfa9fca49f970d07bc",
+ "parent": "dec2dddfb3874d01328ebb53b58877624214be1b",
+ "date": "2026-02-18",
+ "subject": "Improve invitation flow handling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AcceptCourseInstructorInvite.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44566
+}

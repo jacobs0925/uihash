@@ -1,0 +1,29 @@
+{
+ "repo": "skilla",
+ "sha": "e53018fec96eb8f092ceeda772adc1060abdb645",
+ "parent": "7c18ad48c5d4a25dee2cae013b1efd02b29bf06b",
+ "date": "2026-02-21",
+ "subject": "Add corporate training admin UI",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/AdminCorporateManagement.tsx",
+  "src/components/AdminSidebar.tsx",
+  "src/components/Navigation.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Admin.tsx",
+  "src/pages/CorporateDashboard.tsx",
+  "src/pages/CorporateTraining.tsx",
+  "supabase/migrations/20260221182636_411912fe-1abe-40b7-bdba-c7182b70a9f6.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 74447
+}

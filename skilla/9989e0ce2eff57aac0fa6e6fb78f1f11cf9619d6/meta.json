@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "9989e0ce2eff57aac0fa6e6fb78f1f11cf9619d6",
+ "parent": "eeed8c3941345b8a96c2c1253e85a0cbab20d4c1",
+ "date": "2026-02-13",
+ "subject": "Improve NoteReader text collection",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NoteReader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43350
+}

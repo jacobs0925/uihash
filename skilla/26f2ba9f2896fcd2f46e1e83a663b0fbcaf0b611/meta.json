@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "26f2ba9f2896fcd2f46e1e83a663b0fbcaf0b611",
+ "parent": "14b3c8fa098fb1c77ee4cc7a5407c880fc9e7243",
+ "date": "2026-02-18",
+ "subject": "Regenerated certificate on download",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/CertificatesSection.tsx",
+  "supabase/functions/generate-certificate/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43038
+}

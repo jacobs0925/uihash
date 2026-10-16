@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "05bd5fb8f3992af2ec81463ef11e5fc8f8475978",
+ "date": "2026-02-26",
+ "pr": null,
+ "title": "Enhance signup steps",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 201 later commits"
+}

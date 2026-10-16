@@ -1,0 +1,12 @@
+{
+ "app": "skilla",
+ "group": "skilla",
+ "sha": "ee56638644e628f2fb6f1a78e401f86381a3e5b8",
+ "date": "2026-02-24",
+ "pr": null,
+ "title": "Visual edit in Lovable",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 229 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "a7a4c6d6fbc1fe7f63d059b55efa158f429f2b68",
+ "parent": "68180c15b1ad2d1eb306cacafc103a2a42aaeec1",
+ "date": "2026-02-28",
+ "subject": "Move PDF toolbar bottom",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PdfPresentationViewer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 41318
+}

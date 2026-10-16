@@ -1,0 +1,20 @@
+{
+ "repo": "skilla",
+ "sha": "0aecaa56e0a0acf9275d9bc018290c5f35e8cb9a",
+ "parent": "29fe44c0eb1455de119a9eae182f1687f12df4e8",
+ "date": "2026-02-13",
+ "subject": "Reverted to commit 888ba7b874736d1981839599cd6bb8e9678795fb",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/RichTextEditor.tsx",
+  "supabase/functions/parse-document/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43122
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "95f5a9f4935f51f3a06f0d9bdd944665a8779883",
+ "parent": "bc84a0808782331bd0bbdf7a7d9c7b465be3ce33",
+ "date": "2026-02-13",
+ "subject": "Improve course text rendering",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/CourseDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 44715
+}

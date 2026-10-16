@@ -1,0 +1,19 @@
+{
+ "repo": "skilla",
+ "sha": "7722024b833d5e140e5928d41c7e3d0433ea0889",
+ "parent": "dd0c3a9aaa782910878612fb59d59b15a8ddfa8c",
+ "date": "2026-02-26",
+ "subject": "Add multi-state publish control",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Instructor.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43432
+}

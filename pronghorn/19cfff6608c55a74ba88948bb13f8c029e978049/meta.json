@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "19cfff6608c55a74ba88948bb13f8c029e978049",
+ "parent": "0a9b7b4686919040eb89acdd500d70fed3fc4550",
+ "date": "2026-01-01",
+ "subject": "Harmonize viz recognition dialog",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/VisualRecognitionDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56467
+}

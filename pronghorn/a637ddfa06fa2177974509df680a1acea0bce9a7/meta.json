@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "a637ddfa06fa2177974509df680a1acea0bce9a7",
+ "parent": "0c36d747d5eccd373f697e20bb0e32890e2a972e",
+ "date": "2026-01-01",
+ "subject": "Add artifact thumbnails",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/ArtifactsListSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57720
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1ce2a7eda7203e292237b5d7098ec71c56d499de",
+ "parent": "e93969b96bd9f94aad8740f01d07129e0f9a51bf",
+ "date": "2025-12-25",
+ "subject": "Collapse chat sidebar on mobile and add new chat button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56495
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "8eb9faa22b20b6d9f7f3ba65b14c12186ab15514",
+ "parent": "ffcb6b6d855de8f333f3e8ca4ff0ab9a68e68aa1",
+ "date": "2026-01-02",
+ "subject": "Improve presentation rendering",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/present/SlideThumbnails.tsx",
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54863
+}

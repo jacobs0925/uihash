@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "63d3f47d79cdf2d468391fa913616a0d3d37df9e",
+ "date": "2025-12-24",
+ "pr": null,
+ "title": "Revert header to standard style",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "width: auto → 100% undone by c4679ef2 \"Unify License header links\"; right: 0px → ∅ undone by c4679ef2 \"Unify License header links\"; left: 0px → ∅ undone by c4679ef2 \"Unify License header links\""
+}

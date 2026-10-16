@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "7338e64e5dc9f80ca6f693893a756875805e1d20",
+ "parent": "852b50d4df0963f5cf2df8a7d5bc0d129921f13c",
+ "date": "2025-12-26",
+ "subject": "Add restart step capability",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/PipelineActivityStream.tsx",
+  "src/hooks/useAuditPipeline.ts",
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 53442
+}

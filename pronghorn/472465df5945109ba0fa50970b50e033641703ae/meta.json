@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "472465df5945109ba0fa50970b50e033641703ae",
+ "parent": "c9595966239a7963881a47d6097d30d6fdcc6b4b",
+ "date": "2025-12-26",
+ "subject": "Batch read with batches of 10",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/KnowledgeGraph.tsx",
+  "src/pages/project/Audit.tsx",
+  "supabase/functions/audit-orchestrator/index.ts",
+  "supabase/functions/audit-orchestrator/tools.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 53999
+}

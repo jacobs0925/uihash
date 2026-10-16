@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "85d9c23bd01e3c4c213080b409f65078f754651d",
+ "parent": "6499a2f612bf5b9c415a00ed015762848ebb1690",
+ "date": "2025-12-26",
+ "subject": "Fix audit config dialog loading",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditConfigurationDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57614
+}

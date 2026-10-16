@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c9595966239a7963881a47d6097d30d6fdcc6b4b",
+ "parent": "41c079683559c6715df9326c1e5e2ea4ad1a7711",
+ "date": "2025-12-26",
+ "subject": "Connect anchor to concepts only",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/KnowledgeGraph.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54145
+}

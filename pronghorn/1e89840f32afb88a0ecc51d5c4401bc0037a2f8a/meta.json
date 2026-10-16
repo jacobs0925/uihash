@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "1e89840f32afb88a0ecc51d5c4401bc0037a2f8a",
+ "parent": "655cf7fc9ed33274bce978aef3472240eb549757",
+ "date": "2025-12-28",
+ "subject": "Improve KnowledgeGraph WebGL",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/KnowledgeGraphWebGL.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57236
+}

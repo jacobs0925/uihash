@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "0f070dc5e6b1e81805b6f26e0ae0096772fdd2cd",
+ "parent": "3d089b50dcb0134721ec92857cee3c979d20ce7f",
+ "date": "2026-01-02",
+ "subject": "Improve slide thumbnails height",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/present/SlideThumbnails.tsx",
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 60249
+}

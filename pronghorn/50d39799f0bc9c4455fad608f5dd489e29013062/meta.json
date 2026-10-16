@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "50d39799f0bc9c4455fad608f5dd489e29013062",
+ "parent": "4c5f11e31f4a7cf89e82247bab3a48a39a25e2c0",
+ "date": "2025-12-24",
+ "subject": "Fix image grid layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/EnhanceImageDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55603
+}

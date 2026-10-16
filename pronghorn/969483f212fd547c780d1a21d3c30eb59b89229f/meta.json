@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "969483f212fd547c780d1a21d3c30eb59b89229f",
+ "parent": "c0dcced0badc338cf92bc3d9d08f77fb06b0e8eb",
+ "date": "2025-12-26",
+ "subject": "Condense audit activity header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditActivityStream.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55785
+}

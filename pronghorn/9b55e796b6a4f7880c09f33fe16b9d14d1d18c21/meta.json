@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "9b55e796b6a4f7880c09f33fe16b9d14d1d18c21",
+ "parent": "969483f212fd547c780d1a21d3c30eb59b89229f",
+ "date": "2025-12-26",
+ "subject": "Improve audit phase display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditActivityStream.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55301
+}

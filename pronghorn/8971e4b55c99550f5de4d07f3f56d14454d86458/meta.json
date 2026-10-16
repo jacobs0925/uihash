@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "8971e4b55c99550f5de4d07f3f56d14454d86458",
+ "parent": "f47aabf63c5629a5c3db2095f795e7e00705c379",
+ "date": "2026-01-02",
+ "subject": "Add Present page scaffolding",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55548
+}

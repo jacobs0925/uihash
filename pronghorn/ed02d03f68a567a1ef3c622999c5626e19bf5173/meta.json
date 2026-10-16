@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ed02d03f68a567a1ef3c622999c5626e19bf5173",
+ "parent": "e349cdac39bec328ba42abfb5ad7ef420b620251",
+ "date": "2025-12-28",
+ "subject": "Stabilize graph refreshes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/KnowledgeGraphWebGL.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56343
+}

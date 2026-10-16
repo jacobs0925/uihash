@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "132659e455b30d50468afa3dcbff28cf2359a36e",
+ "parent": "ad7ca58c7b955708b67ec63aadbc377d2400cc04",
+ "date": "2025-12-26",
+ "subject": "Tune Venn results scroll",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/VennDiagramResults.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 52591
+}

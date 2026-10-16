@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c0dcced0badc338cf92bc3d9d08f77fb06b0e8eb",
+ "parent": "347264ac2ae51f005ddde7efd3ae2c70e4c8adc9",
+ "date": "2025-12-26",
+ "subject": "Refine phase display in audit UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditActivityStream.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57176
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "9ce9fe6103f0194a71301da19575616e626ab4f0",
+ "parent": "e0c1e18cfd159df131f128f27ef8f07a2a32f00a",
+ "date": "2025-12-27",
+ "subject": "Add PrimaryNav to pages",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Database.tsx",
+  "src/pages/project/Deploy.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56172
+}

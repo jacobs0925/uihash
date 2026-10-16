@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "347264ac2ae51f005ddde7efd3ae2c70e4c8adc9",
+ "parent": "ae55c8167bd2ee36018ea73862e702bdb1a9b73a",
+ "date": "2025-12-26",
+ "subject": "Fix phase display in audit activity",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditActivityStream.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56660
+}

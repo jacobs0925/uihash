@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "4109b85c67ef73434b7002ed57c4dc6d164c7da4",
+ "parent": "aa2dc6a61b6c9d8390dab7e53324e36fe2778135",
+ "date": "2026-01-01",
+ "subject": "Fix edge types and notes import",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/CustomEdge.tsx",
+  "src/components/canvas/EdgePropertiesPanel.tsx",
+  "src/components/canvas/NodePropertiesPanel.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57658
+}

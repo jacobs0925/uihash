@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "a345080d7bd6e88c52fd02ada43f8b20dc3cadeb",
+ "parent": "b86db49a9223141fba2a142846ff39904c195df8",
+ "date": "2025-12-28",
+ "subject": "Create lightweight session list RPC",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Audit.tsx",
+  "supabase/migrations/20251228143044_135af884-61ec-4bc2-8999-2d74d9d6e606.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58569
+}

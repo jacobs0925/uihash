@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "57b835dd082f3f2d9f17e7013fed5d761b71dd3f",
+ "parent": "0312fa52cc1e75b4de066c5b5aea5ebd722b207e",
+ "date": "2025-12-24",
+ "subject": "Fix mobile artifact image layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54641
+}

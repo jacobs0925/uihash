@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "e1184df12f595673ae25ae9fc3f90845ea9fec53",
+ "parent": "a91c188c967ba73c6d554b333a6a7c607c216adf",
+ "date": "2025-12-26",
+ "subject": "Consolidate D1/D2 extraction",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Audit.tsx",
+  "supabase/functions/audit-extract-concepts/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55042
+}

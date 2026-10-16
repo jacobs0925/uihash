@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "c4679ef2a35610721c4cbaea6efb0cdcc7815740",
+ "date": "2025-12-24",
+ "pr": null,
+ "title": "Unify License header links",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 591 later commits"
+}

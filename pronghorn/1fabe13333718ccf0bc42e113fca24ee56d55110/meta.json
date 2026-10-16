@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "1fabe13333718ccf0bc42e113fca24ee56d55110",
+ "parent": "441022907f7ac7a5676dbae5ed1b48ddc610cd11",
+ "date": "2025-12-26",
+ "subject": "Fix audit resume flow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/KnowledgeGraph.tsx",
+  "src/pages/project/Audit.tsx",
+  "supabase/functions/audit-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56428
+}

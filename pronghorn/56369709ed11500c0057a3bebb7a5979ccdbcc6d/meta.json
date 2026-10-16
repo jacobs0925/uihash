@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "56369709ed11500c0057a3bebb7a5979ccdbcc6d",
+ "parent": "ed119d626ae8ba42533ed6d582888e3be456e156",
+ "date": "2025-12-24",
+ "subject": "Add Deployment & GitHub cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 63158
+}

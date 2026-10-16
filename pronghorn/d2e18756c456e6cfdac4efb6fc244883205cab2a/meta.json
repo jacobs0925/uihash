@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "d2e18756c456e6cfdac4efb6fc244883205cab2a",
+ "parent": "1ce2a7eda7203e292237b5d7098ec71c56d499de",
+ "date": "2025-12-25",
+ "subject": "Fix chat sidebar mobile behavior",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Chat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55888
+}

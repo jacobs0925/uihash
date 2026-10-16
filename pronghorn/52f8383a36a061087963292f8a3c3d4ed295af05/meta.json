@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "52f8383a36a061087963292f8a3c3d4ed295af05",
+ "parent": "ae4897ce8f31640f25c518785b54838f2eb67007",
+ "date": "2025-12-25",
+ "subject": "Move theme toggle to mobile menu",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/layout/PrimaryNav.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55224
+}

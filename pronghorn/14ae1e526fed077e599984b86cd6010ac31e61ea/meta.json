@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "14ae1e526fed077e599984b86cd6010ac31e61ea",
+ "parent": "99e1980b8ab1e6997f3fe8e5efba8fe14b6de263",
+ "date": "2025-12-26",
+ "subject": "Enhance audit phase UX",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditActivityStream.tsx",
+  "supabase/functions/audit-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56927
+}

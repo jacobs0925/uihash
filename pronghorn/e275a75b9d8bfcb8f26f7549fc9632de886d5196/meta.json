@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "e275a75b9d8bfcb8f26f7549fc9632de886d5196",
+ "parent": "35eb2369a41a630a1e15a6f6eadb74cdc76cde42",
+ "date": "2025-12-26",
+ "subject": "Add condensed stream mode",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditActivityStream.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56938
+}

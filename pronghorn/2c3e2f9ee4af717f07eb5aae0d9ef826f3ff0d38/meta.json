@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "2c3e2f9ee4af717f07eb5aae0d9ef826f3ff0d38",
+ "parent": "c88ce936428e149d2bd84458266ef3ae739d7da0",
+ "date": "2026-01-02",
+ "subject": "Improve mobile slide layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/present/ResponsiveSlideLayout.tsx",
+  "src/components/present/SlidePreview.tsx",
+  "src/components/present/SlideRenderer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55335
+}

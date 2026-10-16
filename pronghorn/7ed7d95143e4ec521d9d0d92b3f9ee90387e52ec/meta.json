@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "7ed7d95143e4ec521d9d0d92b3f9ee90387e52ec",
+ "parent": "93a66911125f42f5a2f0397be1f9f260b5be5192",
+ "date": "2025-12-27",
+ "subject": "Add 1 and 5 element batch sizes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditConfigurationDialog.tsx",
+  "src/hooks/useAuditPipeline.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55852
+}

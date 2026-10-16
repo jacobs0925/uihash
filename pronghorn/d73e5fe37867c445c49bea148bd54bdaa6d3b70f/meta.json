@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "d73e5fe37867c445c49bea148bd54bdaa6d3b70f",
+ "parent": "8c039acadd03df4567c021df36c6f9c8e86f6d8d",
+ "date": "2026-01-02",
+ "subject": "Fix mobile slide content parsing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/present/ResponsiveSlideLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57260
+}

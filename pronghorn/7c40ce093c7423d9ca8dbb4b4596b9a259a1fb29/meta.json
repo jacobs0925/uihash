@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7c40ce093c7423d9ca8dbb4b4596b9a259a1fb29",
+ "parent": "54512a51cb0a2fa4ae780f83dea492a9f952346e",
+ "date": "2025-12-29",
+ "subject": "Add grok-code-fast model",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/ProjectSettings.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58035
+}

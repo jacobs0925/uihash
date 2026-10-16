@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "6ce8978848ccc5cb97c10fef0fcec64d7e21c27f",
+ "parent": "067004d49687aec6c4cf7258cdea9bf0fdbf6380",
+ "date": "2025-12-27",
+ "subject": "Improve Venn and UI flow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/PipelineActivityStream.tsx",
+  "src/hooks/useAuditPipeline.ts",
+  "src/pages/project/Audit.tsx",
+  "supabase/functions/audit-generate-venn/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 52878
+}

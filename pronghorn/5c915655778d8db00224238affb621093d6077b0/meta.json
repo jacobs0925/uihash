@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "5c915655778d8db00224238affb621093d6077b0",
+ "parent": "a450ca90ad4ab5b6773da01a372b968e605eac7b",
+ "date": "2025-12-27",
+ "subject": "Fix tesseract dedupe",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/TesseractVisualizer.tsx",
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54746
+}

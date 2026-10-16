@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "923078b7b34e5c6c92dccb050c84d89ee662b288",
+ "parent": "ccdca02b2c71981da5d1adcd278aeea080f79392",
+ "date": "2026-01-01",
+ "subject": "Enhance notes ecosystem visuals",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/CustomEdge.tsx",
+  "src/components/canvas/LabelNode.tsx",
+  "src/components/canvas/NodePropertiesPanel.tsx",
+  "src/components/canvas/NotesNode.tsx",
+  "src/components/canvas/ZoneNode.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58438
+}

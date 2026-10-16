@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "47536ba5637c0dca6a0ae7229ce24060b3b690e1",
+ "parent": "7c40ce093c7423d9ca8dbb4b4596b9a259a1fb29",
+ "date": "2025-12-29",
+ "subject": "SyncRender DBs and validate key",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Database.tsx",
+  "supabase/functions/database-connection-secrets/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57057
+}

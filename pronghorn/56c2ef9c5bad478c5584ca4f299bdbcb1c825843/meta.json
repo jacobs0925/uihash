@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "56c2ef9c5bad478c5584ca4f299bdbcb1c825843",
+ "parent": "62cdd0e5b6b73552dd821f6b3415df5c0c845da0",
+ "date": "2026-01-02",
+ "subject": "Improve fluid typography in slides",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/present/SlideRenderer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56092
+}

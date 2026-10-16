@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "a6ce1d8765335d23a263abc41a588a6625cd5e33",
+ "parent": "a71bc4326703d3839b22bf970d67e1fa989d34a4",
+ "date": "2026-01-02",
+ "subject": "Make slides responsive",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/present/RegionRenderer.tsx",
+  "src/components/present/SlidePreview.tsx",
+  "src/components/present/SlideRenderer.tsx",
+  "supabase/functions/presentation-agent/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54920
+}

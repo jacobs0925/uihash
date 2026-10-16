@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "41c079683559c6715df9326c1e5e2ea4ad1a7711",
+ "parent": "99893547311d090d6b9e79586188f0a707fcfabb",
+ "date": "2025-12-26",
+ "subject": "Fix audit orchestrator issues",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/KnowledgeGraph.tsx",
+  "src/pages/project/Audit.tsx",
+  "supabase/functions/audit-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 53746
+}

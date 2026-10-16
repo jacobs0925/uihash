@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4b8ee4d50514fe247e57b7d6099992f3fb11ba3e",
+ "parent": "8bdfc7a81239188dbf2b842b7dd4a962e44da06f",
+ "date": "2025-12-27",
+ "subject": "Add rollup folder sizes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/RepositoryFilesSelector.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 51436
+}

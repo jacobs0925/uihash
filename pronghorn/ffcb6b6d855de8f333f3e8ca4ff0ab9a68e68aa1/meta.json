@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "ffcb6b6d855de8f333f3e8ca4ff0ab9a68e68aa1",
+ "parent": "23d3839f6e16a8c0e2dfd2643d50394e69f87b73",
+ "date": "2026-01-02",
+ "subject": "Improve presentation-agent",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/present/RegionRenderer.tsx",
+  "src/components/present/SlidePreview.tsx",
+  "src/components/present/SlideRenderer.tsx",
+  "src/components/present/SlideThumbnails.tsx",
+  "supabase/functions/presentation-agent/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55447
+}

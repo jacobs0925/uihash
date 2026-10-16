@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "17821ae8074b1230088ed8473caa7ffc88ee2e39",
+ "parent": "d05bf5c8e4f5d37146eab7f275424a51d4823b89",
+ "date": "2025-12-25",
+ "subject": "Integrate Audit page components",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "public/features/audit.md",
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55606
+}

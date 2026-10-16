@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "395876bfe43c0a84a0c8c0dc165d6ad79b1fd4e1",
+ "parent": "776c4c52c301e11db3c4cd4850d70b3e5ecfdacb",
+ "date": "2025-12-24",
+ "subject": "Refine mobile artifact footer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54728
+}

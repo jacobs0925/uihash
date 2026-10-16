@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "fc960161067522c777aff919683833d19565caf9",
+ "parent": "caab811830e50f2af8ec190ba031958c00377227",
+ "date": "2025-12-26",
+ "subject": "Fix mobile audit layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/KnowledgeGraph.tsx",
+  "src/components/audit/TesseractVisualizer.tsx",
+  "src/components/audit/VennDiagramResults.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55988
+}

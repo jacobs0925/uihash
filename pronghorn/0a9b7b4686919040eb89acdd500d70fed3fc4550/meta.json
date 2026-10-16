@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "0a9b7b4686919040eb89acdd500d70fed3fc4550",
+ "parent": "a637ddfa06fa2177974509df680a1acea0bce9a7",
+ "date": "2026-01-01",
+ "subject": "Consolidate Database tab",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Database.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57436
+}

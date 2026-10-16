@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "5e8510bb8947868c78060a56ae2cb9fee83afae2",
+ "parent": "da852702fba83e53d3e65f159e3628376ffe9094",
+ "date": "2025-12-24",
+ "subject": "Make header logo rounded",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/layout/PronghornLogo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 53988
+}

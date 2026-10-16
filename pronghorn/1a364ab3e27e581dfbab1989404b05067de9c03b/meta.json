@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "1a364ab3e27e581dfbab1989404b05067de9c03b",
+ "parent": "acd0cc1f3510258031e55839206688916b4378b7",
+ "date": "2025-12-26",
+ "subject": "Show full raw JSON in logs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditActivityStream.tsx",
+  "supabase/functions/audit-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55099
+}

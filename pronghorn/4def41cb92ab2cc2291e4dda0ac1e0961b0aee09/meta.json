@@ -1,0 +1,27 @@
+{
+ "repo": "pronghorn",
+ "sha": "4def41cb92ab2cc2291e4dda0ac1e0961b0aee09",
+ "parent": "c6699d9a2512b2690fb119682852d22a7d013c5b",
+ "date": "2025-12-26",
+ "subject": "Improve orphan pruning and edge flow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/AuditActivityStream.tsx",
+  "src/components/audit/AuditBlackboard.tsx",
+  "src/components/audit/KnowledgeGraph.tsx",
+  "src/hooks/useRealtimeAudit.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Audit.tsx",
+  "supabase/functions/audit-orchestrator/index.ts",
+  "supabase/migrations/20251226010835_d1c2c2a7-7498-4dbc-855f-9e9f21ff6fb5.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55985
+}

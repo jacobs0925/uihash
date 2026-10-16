@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "2f5b574de4c6e1f39495c34bd627c81148d01210",
+ "parent": "9938717683840d1099336d9b4559655f881436c9",
+ "date": "2026-01-01",
+ "subject": "Harmonize Enhance modal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/EnhanceImageDialog.tsx",
+  "supabase/functions/enhance-image/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56921
+}

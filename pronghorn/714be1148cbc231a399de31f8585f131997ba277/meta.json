@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "714be1148cbc231a399de31f8585f131997ba277",
+ "parent": "449b691a506b8c272bb68a67eb98dfad0b6a9c45",
+ "date": "2026-01-01",
+ "subject": "Switch to React Flow edges",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57721
+}

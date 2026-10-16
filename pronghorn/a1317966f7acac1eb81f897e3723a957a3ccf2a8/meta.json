@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "a1317966f7acac1eb81f897e3723a957a3ccf2a8",
+ "parent": "f009cd4d620826d4ddca3a9f940c9b2b75e8cd5f",
+ "date": "2025-12-27",
+ "subject": "Enhance Tesseract D1/D2 handling",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/TesseractVisualizer.tsx",
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55253
+}

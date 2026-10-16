@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2b3b56e1bd47584c36e50420ffb4e430931aef02",
+ "parent": "14ae1e526fed077e599984b86cd6010ac31e61ea",
+ "date": "2025-12-26",
+ "subject": "Improve activity totals display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditActivityStream.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56491
+}

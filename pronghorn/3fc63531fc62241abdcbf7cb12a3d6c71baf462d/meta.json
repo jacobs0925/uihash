@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "3fc63531fc62241abdcbf7cb12a3d6c71baf462d",
+ "parent": "7697d29ae5990abe0b569eb61498258ffe77c0d5",
+ "date": "2025-12-27",
+ "subject": "Add step mode and skeleton tesseract",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useAuditPipeline.ts",
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55996
+}

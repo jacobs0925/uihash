@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "507de3c526e563ebf58d5f841c78511ab777c095",
+ "parent": "50d39799f0bc9c4455fad608f5dd489e29013062",
+ "date": "2025-12-24",
+ "subject": "Enhance image dialog UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/EnhanceImageDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55635
+}

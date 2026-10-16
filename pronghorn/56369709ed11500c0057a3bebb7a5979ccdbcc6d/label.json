@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "56369709ed11500c0057a3bebb7a5979ccdbcc6d",
+ "date": "2025-12-24",
+ "pr": null,
+ "title": "Add Deployment & GitHub cards",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 579 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "0b2b6916c72348ef905b27de4e5cf256d4d95c2b",
+ "date": "2025-12-24",
+ "pr": null,
+ "title": "Tighten standards and stacks UI",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 587 later commits"
+}

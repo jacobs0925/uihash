@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "ebad698326af4500dfb95f000bdf75f5aa6aec8c",
+ "parent": "289f6343e240d64a5f6bdb1d955ad2a6e0edde90",
+ "date": "2026-01-02",
+ "subject": "Fix presentation RPC overload",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Present.tsx",
+  "supabase/config.toml",
+  "supabase/functions/recast-slide-layout/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58915
+}

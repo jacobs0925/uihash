@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "50b0482b257c0fa8cc9cee4dfe53e7b607a252b7",
+ "parent": "8bdadedfe211563ae72bda7831f0dfdc131517b0",
+ "date": "2025-12-26",
+ "subject": "Fix audit header layout and counts",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditActivityStream.tsx",
+  "src/components/layout/ProjectPageHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56035
+}

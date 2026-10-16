@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "26348aadfac628d08125b5d7d6552cebaa8ba510",
+ "parent": "2e812b4dff4eeb1e3a890982904adea48c40a5a5",
+ "date": "2025-12-26",
+ "subject": "Improve knowledge graph visuals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/KnowledgeGraph.tsx",
+  "supabase/functions/audit-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56145
+}

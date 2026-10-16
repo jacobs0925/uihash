@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "b0b1b43798afee732c5b653fc739a7f9d5730fcb",
+ "parent": "63d3f47d79cdf2d468391fa913616a0d3d37df9e",
+ "date": "2025-12-24",
+ "subject": "Add accordions for top levels",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/standards/CategoryCard.tsx",
+  "src/components/techstack/TechStackCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55303
+}

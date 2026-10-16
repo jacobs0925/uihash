@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "03251ba2641e33793ffe477e53fcfbb53c395cad",
+ "parent": "a1317966f7acac1eb81f897e3723a957a3ccf2a8",
+ "date": "2025-12-27",
+ "subject": "Expand D1/D2 lists",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/TesseractVisualizer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55271
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "776c4c52c301e11db3c4cd4850d70b3e5ecfdacb",
+ "parent": "56369709ed11500c0057a3bebb7a5979ccdbcc6d",
+ "date": "2025-12-24",
+ "subject": "Hide mobile text label",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54500
+}

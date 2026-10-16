@@ -1,0 +1,29 @@
+{
+ "repo": "pronghorn",
+ "sha": "e149b4c253eaedac17fa441f060d48e698c6f7ce",
+ "parent": "56c2ef9c5bad478c5584ca4f299bdbcb1c825843",
+ "date": "2026-01-02",
+ "subject": "Enhance present module UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/present/FontScaleControl.tsx",
+  "src/components/present/LayoutSelector.tsx",
+  "src/components/present/SlideImageGenerator.tsx",
+  "src/components/present/SlideNotesEditor.tsx",
+  "src/components/present/SlidePreview.tsx",
+  "src/components/present/SlideRenderer.tsx",
+  "src/lib/presentationPdfExport.ts",
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 60029
+}

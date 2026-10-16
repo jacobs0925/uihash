@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "99893547311d090d6b9e79586188f0a707fcfabb",
+ "parent": "1fabe13333718ccf0bc42e113fca24ee56d55110",
+ "date": "2025-12-26",
+ "subject": "Anchor graph to Project node",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/KnowledgeGraph.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54434
+}

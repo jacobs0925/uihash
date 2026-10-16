@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "52735f92a12b6d3f7960bde20a2e3f2c03dc57a5",
+ "parent": "b39de72c196ef7f8e0e693938516223205451b54",
+ "date": "2025-12-26",
+ "subject": "Enforce schema and log activity",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/AuditActivityStream.tsx",
+  "src/hooks/useRealtimeAudit.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Audit.tsx",
+  "supabase/functions/audit-orchestrator/index.ts",
+  "supabase/migrations/20251226003523_923fb0ae-1689-4018-b77b-bc07c139ed7c.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55295
+}

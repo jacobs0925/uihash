@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "33f1ab9304f34b586d59ac2edd20b65fbfaa48bd",
+ "parent": "47536ba5637c0dca6a0ae7229ce24060b3b690e1",
+ "date": "2026-01-01",
+ "subject": "Enhance deploy dialog controls",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56994
+}

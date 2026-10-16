@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "4d9fa19f8d0157e7b4021844808a28b8dd2ecb8b",
+ "parent": "96ecf9c50d141e9121fc0c2774145d557d165b41",
+ "date": "2025-12-27",
+ "subject": "Add Enhanced Sort phase",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditConfigurationDialog.tsx",
+  "src/components/audit/PipelineActivityStream.tsx",
+  "src/hooks/useAuditPipeline.ts",
+  "supabase/config.toml",
+  "supabase/functions/audit-enhanced-sort/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55500
+}

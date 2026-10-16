@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "449b691a506b8c272bb68a67eb98dfad0b6a9c45",
+ "parent": "4109b85c67ef73434b7002ed57c4dc6d164c7da4",
+ "date": "2026-01-01",
+ "subject": "Refine edge and import",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/CustomEdge.tsx",
+  "src/components/canvas/EdgePropertiesPanel.tsx",
+  "src/components/canvas/NodePropertiesPanel.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58049
+}

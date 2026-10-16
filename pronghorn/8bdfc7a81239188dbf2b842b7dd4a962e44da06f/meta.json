@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "8bdfc7a81239188dbf2b842b7dd4a962e44da06f",
+ "parent": "95393de08d4945fe386d7e8287d6617d666260fe",
+ "date": "2025-12-27",
+ "subject": "Remove old activity stream UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 52361
+}

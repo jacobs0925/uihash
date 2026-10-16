@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "d05bf5c8e4f5d37146eab7f275424a51d4823b89",
+ "parent": "d184f5d365dbfd832f48b4a85bc28894a8c06e49",
+ "date": "2025-12-25",
+ "subject": "Add audit frontend components",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditBlackboard.tsx",
+  "src/components/audit/AuditConfigurationDialog.tsx",
+  "src/components/audit/TesseractVisualizer.tsx",
+  "src/components/audit/VennDiagramResults.tsx",
+  "src/hooks/useRealtimeAudit.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54472
+}

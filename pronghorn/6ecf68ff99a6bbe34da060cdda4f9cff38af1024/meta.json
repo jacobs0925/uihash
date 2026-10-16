@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "6ecf68ff99a6bbe34da060cdda4f9cff38af1024",
+ "parent": "a6ce1d8765335d23a263abc41a588a6625cd5e33",
+ "date": "2026-01-02",
+ "subject": "Make slides responsive fullscreen",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/present/RegionRenderer.tsx",
+  "src/components/present/ResponsiveSlideLayout.tsx",
+  "src/components/present/SlidePreview.tsx",
+  "src/components/present/SlideRenderer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54470
+}

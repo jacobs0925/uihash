@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "5386f60c5aaf4fe870ba8882443db3b51b94b732",
+ "parent": "33f1ab9304f34b586d59ac2edd20b65fbfaa48bd",
+ "date": "2026-01-01",
+ "subject": "Maximize artifact modal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/AddArtifactModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57461
+}

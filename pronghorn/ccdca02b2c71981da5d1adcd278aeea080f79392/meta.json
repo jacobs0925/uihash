@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "ccdca02b2c71981da5d1adcd278aeea080f79392",
+ "parent": "686541ca737eaa788fce854a38f6174c11eebbb2",
+ "date": "2026-01-01",
+ "subject": "Enhance canvas annotation nodes",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/LabelNode.tsx",
+  "src/components/canvas/NotesNode.tsx",
+  "src/components/canvas/ZoneNode.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58782
+}

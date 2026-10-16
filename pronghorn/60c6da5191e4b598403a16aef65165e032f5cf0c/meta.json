@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "60c6da5191e4b598403a16aef65165e032f5cf0c",
+ "parent": "5e31cd6e77de17f6acfb2b457ff8ebaf1b92e491",
+ "date": "2025-12-27",
+ "subject": "Show tesseract analysis inline",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/TesseractVisualizer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55942
+}

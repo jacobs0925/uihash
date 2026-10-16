@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "67b124e6b1efbe98fbe6f89829551f9e94f9b9a4",
+ "parent": "efa39f17ad5d2a25b7735042a6e4eb358063a75c",
+ "date": "2025-12-26",
+ "subject": "Enhance pipeline SSE UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/PipelineActivityStream.tsx",
+  "src/hooks/useAuditPipeline.ts",
+  "src/pages/project/Audit.tsx",
+  "supabase/functions/audit-extract-concepts/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54928
+}

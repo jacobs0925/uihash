@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "2ecd36a87372806c7acddc408eaa6a79c5e6a49f",
+ "parent": "4833956f1fab2502178a9e2de3af28c98d960b2e",
+ "date": "2025-12-27",
+ "subject": "Compost audit cleanup migrate",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/AgentInstancesCard.tsx",
+  "src/hooks/useRealtimeAudit.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Audit.tsx",
+  "supabase/migrations/20251227023747_37eba7fb-fc8f-4e16-8e49-c69df9c71628.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54868
+}

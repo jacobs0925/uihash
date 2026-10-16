@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "851dacf2f6490090be0d0cd3ddfa66fc34ba9430",
+ "parent": "a1372363e52359185aa4b3e36692d8bdc9806ee3",
+ "date": "2025-12-26",
+ "subject": "Enhance linking rules",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Audit.tsx",
+  "supabase/functions/audit-orchestrator/index.ts",
+  "supabase/functions/audit-orchestrator/tools.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 52734
+}

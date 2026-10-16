@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "289705932c4bc90ca8cdb019803893f892de0b11",
+ "parent": "4def41cb92ab2cc2291e4dda0ac1e0961b0aee09",
+ "date": "2025-12-26",
+ "subject": "Improve audit UI layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditActivityStream.tsx",
+  "src/components/audit/AuditBlackboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55180
+}

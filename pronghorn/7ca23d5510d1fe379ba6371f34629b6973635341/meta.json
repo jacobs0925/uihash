@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "7ca23d5510d1fe379ba6371f34629b6973635341",
+ "parent": "fc960161067522c777aff919683833d19565caf9",
+ "date": "2025-12-26",
+ "subject": "Enhance tesseract exports and UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/TesseractVisualizer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55206
+}

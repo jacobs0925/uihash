@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "0fe4048c6c1cba96dbefac53feceb9810f64c9e4",
+ "parent": "57b835dd082f3f2d9f17e7013fed5d761b71dd3f",
+ "date": "2025-12-24",
+ "subject": "Enhance project deletion",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/dashboard/DeleteProjectDialog.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/config.toml",
+  "supabase/functions/delete-project/index.ts",
+  "supabase/functions/log-activity/index.ts",
+  "supabase/migrations/20251224191549_1ae7fd7c-caa0-4eb4-baa6-109d4aeebfce.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54792
+}

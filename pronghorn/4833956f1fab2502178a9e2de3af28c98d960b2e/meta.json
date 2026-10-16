@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4833956f1fab2502178a9e2de3af28c98d960b2e",
+ "parent": "eebd85ec45f38f76da044dcb33dc6802ff01b540",
+ "date": "2025-12-27",
+ "subject": "Fix tesseract x_element_id UUIDs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54838
+}

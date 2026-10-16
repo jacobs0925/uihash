@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "ad7ca58c7b955708b67ec63aadbc377d2400cc04",
+ "parent": "26348aadfac628d08125b5d7d6552cebaa8ba510",
+ "date": "2025-12-26",
+ "subject": "Fix dynamic legend",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/KnowledgeGraph.tsx",
+  "src/components/audit/TesseractVisualizer.tsx",
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 53577
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "940c0491d4642bf00476cf13ec0b90e80e535acf",
+ "parent": "33e96e4fdf39f247570c3180015eda8a2e7b5b6b",
+ "date": "2025-12-26",
+ "subject": "Screen large files early",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/project/ArtifactsListSelector.tsx",
+  "src/components/project/RepositoryFilesSelector.tsx",
+  "supabase/functions/audit-merge-concepts/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54230
+}

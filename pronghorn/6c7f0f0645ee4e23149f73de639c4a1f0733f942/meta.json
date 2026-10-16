@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "6c7f0f0645ee4e23149f73de639c4a1f0733f942",
+ "parent": "03251ba2641e33793ffe477e53fcfbb53c395cad",
+ "date": "2025-12-27",
+ "subject": "Fix Tesseract horizontal scroll",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/TesseractVisualizer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55014
+}

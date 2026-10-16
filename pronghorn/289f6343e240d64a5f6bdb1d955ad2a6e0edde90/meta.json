@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "289f6343e240d64a5f6bdb1d955ad2a6e0edde90",
+ "parent": "0d466ce548c548bf536df37ad2732e4fc161a4ec",
+ "date": "2026-01-02",
+ "subject": "Improve Present UI and PDFs",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/present/LayoutSelector.tsx",
+  "src/components/present/PdfExportRenderer.tsx",
+  "src/components/present/SlideImageGenerator.tsx",
+  "src/components/present/SlideThumbnails.tsx",
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58992
+}

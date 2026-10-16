@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "52a296cc7f6713b5a0048499f2995f048904efb0",
+ "parent": "0f070dc5e6b1e81805b6f26e0ae0096772fdd2cd",
+ "date": "2026-01-02",
+ "subject": "Export pdf offscreen render",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/present/PdfExportRenderer.tsx",
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58996
+}

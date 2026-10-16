@@ -1,0 +1,27 @@
+{
+ "repo": "pronghorn",
+ "sha": "f47aabf63c5629a5c3db2095f795e7e00705c379",
+ "parent": "2986f19137c64f57e0e88076cf5e47b86a04b0b9",
+ "date": "2026-01-02",
+ "subject": "Add Present page scaffolding",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/data/presentAgentInstructions.json",
+  "public/data/presentationLayouts.json",
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Present.tsx",
+  "supabase/config.toml",
+  "supabase/functions/presentation-agent/index.ts",
+  "supabase/migrations/20260102025334_978412fa-b2af-4b29-980b-de7728ba071d.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54363
+}

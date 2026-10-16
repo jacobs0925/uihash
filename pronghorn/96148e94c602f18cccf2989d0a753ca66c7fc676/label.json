@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "96148e94c602f18cccf2989d0a753ca66c7fc676",
+ "date": "2025-12-25",
+ "pr": null,
+ "title": "RefactorAuthLoginText",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 553 later commits"
+}

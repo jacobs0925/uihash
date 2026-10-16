@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "ab02a7ea64730c0698b1171eba8e03635682ce80",
+ "parent": "512abacca8d7116120965e163f8e48b4b34e1a60",
+ "date": "2025-12-27",
+ "subject": "Trim Audit modal tabs",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/AuditConfigurationDialog.tsx",
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56106
+}

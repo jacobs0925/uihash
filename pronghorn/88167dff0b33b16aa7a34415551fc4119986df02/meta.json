@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "88167dff0b33b16aa7a34415551fc4119986df02",
+ "parent": "550c0e29d0190351cb533298f9a0480addd2050e",
+ "date": "2026-01-02",
+ "subject": "Fix slide thumbnail key crash",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/present/SlideThumbnails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58148
+}

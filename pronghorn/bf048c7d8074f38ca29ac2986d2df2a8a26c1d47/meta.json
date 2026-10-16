@@ -1,0 +1,26 @@
+{
+ "repo": "pronghorn",
+ "sha": "bf048c7d8074f38ca29ac2986d2df2a8a26c1d47",
+ "parent": "5386f60c5aaf4fe870ba8882443db3b51b94b732",
+ "date": "2026-01-01",
+ "subject": "Add canvas node types",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/data/connectionLogic.json",
+  "src/components/canvas/LabelNode.tsx",
+  "src/components/canvas/NotesNode.tsx",
+  "src/components/canvas/ZoneNode.tsx",
+  "src/hooks/useRealtimeCanvas.ts",
+  "src/pages/project/Canvas.tsx",
+  "supabase/migrations/20260101035213_115df4c7-a1d8-43f7-a096-ebfb546bc687.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57909
+}

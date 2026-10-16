@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "6499a2f612bf5b9c415a00ed015762848ebb1690",
+ "parent": "e275a75b9d8bfcb8f26f7549fc9632de886d5196",
+ "date": "2025-12-26",
+ "subject": "Fix load standards tech stacks",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditConfigurationDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57375
+}

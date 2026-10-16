@@ -1,0 +1,12 @@
+{
+ "app": "pronghorn",
+ "group": "pronghorn",
+ "sha": "28008cbf8185b75e00c90927e3b86d02f7994209",
+ "date": "2025-12-24",
+ "pr": null,
+ "title": "Update landing hero text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 588 later commits"
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "37a8908527e3e9b2e6fbd3e9ef2e7412de0ca943",
+ "parent": "39e0ebe552de3a54f139783acb3d8917a83ec3d4",
+ "date": "2025-12-26",
+ "subject": "Enforce strict tool schemas",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditConfigurationDialog.tsx",
+  "supabase/functions/audit-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56696
+}

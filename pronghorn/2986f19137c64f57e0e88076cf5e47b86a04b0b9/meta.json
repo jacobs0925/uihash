@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2986f19137c64f57e0e88076cf5e47b86a04b0b9",
+ "parent": "d5de38d315fd794ebf095e0408aac4b21a30808d",
+ "date": "2026-01-01",
+ "subject": "Add Clone Artifact button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55070
+}

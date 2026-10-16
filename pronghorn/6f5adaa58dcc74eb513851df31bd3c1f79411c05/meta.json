@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "6f5adaa58dcc74eb513851df31bd3c1f79411c05",
+ "parent": "0bb39b27f0a313998a12ebc3902aa490940a189b",
+ "date": "2025-12-26",
+ "subject": "Fix extract errors and IDs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Audit.tsx",
+  "supabase/functions/audit-extract-concepts/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 53729
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "28008cbf8185b75e00c90927e3b86d02f7994209",
+ "parent": "b0b1b43798afee732c5b653fc739a7f9d5730fcb",
+ "date": "2025-12-24",
+ "subject": "Update landing hero text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Landing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 4,
+ "ms": 64019
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ed119d626ae8ba42533ed6d582888e3be456e156",
+ "parent": "a9c62616d9743e80a0d17823b742f0e8aa777b44",
+ "date": "2025-12-24",
+ "subject": "Split artifact card layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Artifacts.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54881
+}

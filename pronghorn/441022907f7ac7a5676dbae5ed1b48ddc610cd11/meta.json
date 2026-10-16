@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "441022907f7ac7a5676dbae5ed1b48ddc610cd11",
+ "parent": "ce4393bb7200a06d12d72b28059d785a958eea0b",
+ "date": "2025-12-26",
+ "subject": "Enable audit resume flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useRealtimeAudit.ts",
+  "src/pages/project/Audit.tsx",
+  "supabase/functions/audit-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56716
+}

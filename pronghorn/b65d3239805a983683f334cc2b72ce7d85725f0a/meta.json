@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "b65d3239805a983683f334cc2b72ce7d85725f0a",
+ "parent": "ecc10dc3b99c10c6c018bc281137b4460176516b",
+ "date": "2025-12-26",
+ "subject": "Enhance audit visuals fixes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/TesseractVisualizer.tsx",
+  "src/components/audit/VennDiagramResults.tsx",
+  "supabase/functions/audit-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55859
+}

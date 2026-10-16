@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "88ba0373ba446f453fcb536028887ac06fafdcb8",
+ "parent": "8788ebb416a62c1b988e4b04b5daf7c699073394",
+ "date": "2026-01-02",
+ "subject": "Improve present rendering and rasterization",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/present/PdfExportRenderer.tsx",
+  "src/components/present/SlideRenderer.tsx",
+  "src/components/present/SlideThumbnails.tsx",
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58978
+}

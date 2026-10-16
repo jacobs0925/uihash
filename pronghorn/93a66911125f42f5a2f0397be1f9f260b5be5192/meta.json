@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "93a66911125f42f5a2f0397be1f9f260b5be5192",
+ "parent": "4d9fa19f8d0157e7b4021844808a28b8dd2ecb8b",
+ "date": "2025-12-27",
+ "subject": "Pass enhanced sort params",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55561
+}

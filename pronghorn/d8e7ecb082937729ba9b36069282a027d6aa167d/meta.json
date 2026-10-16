@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "d8e7ecb082937729ba9b36069282a027d6aa167d",
+ "parent": "8eb9faa22b20b6d9f7f3ba65b14c12186ab15514",
+ "date": "2026-01-02",
+ "subject": "Improve slide rendering fallbacks",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/present/SlideRenderer.tsx",
+  "src/components/present/SlideThumbnails.tsx",
+  "supabase/functions/presentation-agent/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54800
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "0bb39b27f0a313998a12ebc3902aa490940a189b",
+ "parent": "d425996cf89f26e76d4c9d6bf22a5e40a5c4b4e3",
+ "date": "2025-12-26",
+ "subject": "Consolidate D1/D2 concepts",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useAuditPipeline.ts",
+  "src/pages/project/Audit.tsx",
+  "supabase/config.toml",
+  "supabase/functions/audit-extract-concepts/index.ts",
+  "supabase/functions/audit-extract-d1-concepts/index.ts",
+  "supabase/functions/audit-extract-d2-concepts/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 53040
+}

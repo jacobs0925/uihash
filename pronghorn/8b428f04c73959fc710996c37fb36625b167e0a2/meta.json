@@ -1,0 +1,25 @@
+{
+ "repo": "pronghorn",
+ "sha": "8b428f04c73959fc710996c37fb36625b167e0a2",
+ "parent": "bd503b76c4480897b1aeb9972a4e2f368f31bd78",
+ "date": "2025-12-25",
+ "subject": "Activate audit UI wiring",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/features/audit.md",
+  "src/components/audit/AgentInstancesCard.tsx",
+  "src/components/audit/AuditConfigurationDialog.tsx",
+  "src/components/layout/ProjectSidebar.tsx",
+  "src/pages/project/Audit.tsx",
+  "supabase/functions/audit-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54737
+}

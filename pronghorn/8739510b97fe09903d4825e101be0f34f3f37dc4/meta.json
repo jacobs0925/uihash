@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "8739510b97fe09903d4825e101be0f34f3f37dc4",
+ "parent": "f962ddc28c958115762bda836802ae7179baa6b7",
+ "date": "2025-12-28",
+ "subject": "Enhance context-aware extraction",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditConfigurationDialog.tsx",
+  "src/hooks/useAuditPipeline.ts",
+  "supabase/functions/audit-extract-concepts/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58818
+}

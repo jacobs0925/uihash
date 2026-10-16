@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "aa2dc6a61b6c9d8390dab7e53324e36fe2778135",
+ "parent": "923078b7b34e5c6c92dccb050c84d89ee662b288",
+ "date": "2026-01-01",
+ "subject": "Fix edge visuals and notes flow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/CustomEdge.tsx",
+  "src/components/canvas/NodePropertiesPanel.tsx",
+  "src/components/canvas/NotesNode.tsx",
+  "src/hooks/useRealtimeCanvas.ts",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58360
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "064c9ee1446537546b154897e0d16984d6ca4b7c",
+ "parent": "405be1c2d2282749551f82855c3597626967fa08",
+ "date": "2025-12-28",
+ "subject": "Migrate graph IDs to text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Audit.tsx",
+  "supabase/migrations/20251228151152_efab1f31-65be-46c3-9edf-2398bdc406a4.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57808
+}

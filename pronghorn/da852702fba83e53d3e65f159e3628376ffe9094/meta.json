@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "da852702fba83e53d3e65f159e3628376ffe9094",
+ "parent": "0b2b6916c72348ef905b27de4e5cf256d4d95c2b",
+ "date": "2025-12-24",
+ "subject": "Redirect auth continue link",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54770
+}

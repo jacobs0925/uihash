@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "e87c619014e29c385bfbd01ac2a1e34d8c683015",
+ "parent": "378efde6f68ff136284c2f0a19b775cf20b91712",
+ "date": "2025-12-26",
+ "subject": "Replace audit dropdowns with ProjectSelector",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditConfigurationDialog.tsx",
+  "src/hooks/useRealtimeAudit.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/functions/audit-orchestrator/index.ts",
+  "supabase/migrations/20251226134326_21721cba-5859-45f4-abfc-50024113c07b.sql",
+  "supabase/migrations/20251226134355_2c748e0c-bc67-4d66-90a9-4565805e1ba8.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56626
+}

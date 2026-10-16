@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "a1372363e52359185aa4b3e36692d8bdc9806ee3",
+ "parent": "472465df5945109ba0fa50970b50e033641703ae",
+ "date": "2025-12-26",
+ "subject": "Anchor and harden audit flow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/KnowledgeGraph.tsx",
+  "src/pages/project/Audit.tsx",
+  "supabase/functions/audit-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 53330
+}

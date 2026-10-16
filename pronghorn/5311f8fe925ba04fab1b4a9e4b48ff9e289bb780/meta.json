@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "5311f8fe925ba04fab1b4a9e4b48ff9e289bb780",
+ "parent": "4b2fa2326dcdd94195042ecf44bf978649fb5947",
+ "date": "2025-12-26",
+ "subject": "Improve audit pipeline parallelism",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/PipelineActivityStream.tsx",
+  "src/hooks/useAuditPipeline.ts",
+  "supabase/functions/audit-extract-concepts/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 53656
+}

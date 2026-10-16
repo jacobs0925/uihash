@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "62cdd0e5b6b73552dd821f6b3415df5c0c845da0",
+ "parent": "3affd1f3901b262e0085afa47a2633cca643fe7b",
+ "date": "2026-01-02",
+ "subject": "Improve slide image handling in renderer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/present/SlideRenderer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56077
+}

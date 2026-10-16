@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "5e31cd6e77de17f6acfb2b457ff8ebaf1b92e491",
+ "parent": "02eb4da0d5fb13d6adf920bb9a94ff52fb8ed2ed",
+ "date": "2025-12-27",
+ "subject": "Improve merge labels and density control",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/KnowledgeGraph.tsx",
+  "src/hooks/useAuditPipeline.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56746
+}

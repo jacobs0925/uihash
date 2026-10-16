@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "95393de08d4945fe386d7e8287d6617d666260fe",
+ "parent": "6ce8978848ccc5cb97c10fef0fcec64d7e21c27f",
+ "date": "2025-12-27",
+ "subject": "Refactor audit save flow and UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/PipelineActivityStream.tsx",
+  "src/hooks/useRealtimeAudit.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Audit.tsx",
+  "supabase/migrations/20251227021549_31643fd1-f9ed-4953-bdfd-8abc726eece5.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 53091
+}

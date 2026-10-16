@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "63d3f47d79cdf2d468391fa913616a0d3d37df9e",
+ "parent": "c4679ef2a35610721c4cbaea6efb0cdcc7815740",
+ "date": "2025-12-24",
+ "subject": "Revert header to standard style",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/License.tsx",
+  "src/pages/Privacy.tsx",
+  "src/pages/Terms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 5,
+ "ms": 68154
+}

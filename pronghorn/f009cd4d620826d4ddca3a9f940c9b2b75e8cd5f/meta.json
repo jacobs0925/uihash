@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "f009cd4d620826d4ddca3a9f940c9b2b75e8cd5f",
+ "parent": "9ce9fe6103f0194a71301da19575616e626ab4f0",
+ "date": "2025-12-27",
+ "subject": "Enhance Tesseract layout",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/TesseractVisualizer.tsx",
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56125
+}

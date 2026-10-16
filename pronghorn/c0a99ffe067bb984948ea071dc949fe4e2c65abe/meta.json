@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "c0a99ffe067bb984948ea071dc949fe4e2c65abe",
+ "parent": "673c6121ea1ea6a1cf989b51a3e142099bd53b90",
+ "date": "2025-12-28",
+ "subject": "Trim audit lazy load",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57085
+}

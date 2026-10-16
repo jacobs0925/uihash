@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "3a7096e2be583cde507b463d4895227112b6b7ab",
+ "parent": "830fcd6876a54159ae04ebe6487d8163a341c0db",
+ "date": "2025-12-28",
+ "subject": "Remove Graph Edges Step",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/PipelineActivityStream.tsx",
+  "src/hooks/useAuditPipeline.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56025
+}

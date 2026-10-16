@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "afa1f7963e9f4db248b59b45eee05c62aace640f",
+ "parent": "0d3ad0cefbdcb3185533bc985af2368eaee37dfb",
+ "date": "2026-01-01",
+ "subject": "Improve z-order and resize grips",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/canvas/LabelNode.tsx",
+  "src/components/canvas/NotesNode.tsx",
+  "src/components/canvas/ZoneNode.tsx",
+  "src/hooks/useRealtimeCanvas.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56923
+}

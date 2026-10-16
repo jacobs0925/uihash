@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "8c039acadd03df4567c021df36c6f9c8e86f6d8d",
+ "parent": "2c3e2f9ee4af717f07eb5aae0d9ef826f3ff0d38",
+ "date": "2026-01-02",
+ "subject": "Fix mobile fullscreen layout",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/present/SlidePreview.tsx",
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56804
+}

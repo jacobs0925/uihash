@@ -1,0 +1,24 @@
+{
+ "repo": "pronghorn",
+ "sha": "7697d29ae5990abe0b569eb61498258ffe77c0d5",
+ "parent": "c7956fd5d3e60d0a4db1fae295efd3eaa3664590",
+ "date": "2025-12-27",
+ "subject": "Add audit config 4 settings",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/AuditConfigurationDialog.tsx",
+  "src/hooks/useAuditPipeline.ts",
+  "src/pages/project/Audit.tsx",
+  "supabase/functions/audit-extract-concepts/index.ts",
+  "supabase/functions/audit-merge-concepts/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55629
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "550c0e29d0190351cb533298f9a0480addd2050e",
+ "parent": "52a296cc7f6713b5a0048499f2995f048904efb0",
+ "date": "2026-01-02",
+ "subject": "Fix edit image modal size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/present/SlideImageGenerator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57757
+}

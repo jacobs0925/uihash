@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "cb5ff831611b7498f66e84557a49a969c8b8cbf9",
+ "parent": "16efc402f19b99fe3f2fc8f8de4101cef89faadf",
+ "date": "2025-12-24",
+ "subject": "Improve deployment logs fetch",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/deploy/DeploymentLogsDialog.tsx",
+  "supabase/functions/render-service/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54855
+}

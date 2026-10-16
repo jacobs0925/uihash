@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "8788ebb416a62c1b988e4b04b5daf7c699073394",
+ "parent": "ebad698326af4500dfb95f000bdf75f5aa6aec8c",
+ "date": "2026-01-02",
+ "subject": "Refactor Present page UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/present/PdfExportRenderer.tsx",
+  "src/components/present/SlideRenderer.tsx",
+  "src/components/present/SlideThumbnails.tsx",
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59442
+}

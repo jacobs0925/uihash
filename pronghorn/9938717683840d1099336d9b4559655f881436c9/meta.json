@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "9938717683840d1099336d9b4559655f881436c9",
+ "parent": "19cfff6608c55a74ba88948bb13f8c029e978049",
+ "date": "2026-01-01",
+ "subject": "Harmonize dialogs, fix overflow",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/artifacts/VisualRecognitionDialog.tsx",
+  "src/pages/project/Artifacts.tsx",
+  "supabase/functions/visual-recognition/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57241
+}

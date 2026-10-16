@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "9beb917f30e4d4a06aa3dfccd7a03a920dbd5d0f",
+ "parent": "6c96e316bf17870c6ddfd7df15f46fed2188be6c",
+ "date": "2025-12-27",
+ "subject": "Add orphan visuals and logs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/KnowledgeGraph.tsx",
+  "src/hooks/useAuditPipeline.ts",
+  "supabase/functions/audit-merge-concepts/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56495
+}

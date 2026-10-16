@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "533163c56c9820d17c1137f0e9e5bb4691d75d7a",
+ "parent": "afa1f7963e9f4db248b59b45eee05c62aace640f",
+ "date": "2026-01-01",
+ "subject": "Refactor recalc z-index on move",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57104
+}

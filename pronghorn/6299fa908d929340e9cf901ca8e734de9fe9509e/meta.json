@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "6299fa908d929340e9cf901ca8e734de9fe9509e",
+ "parent": "3b8c2652f6e1c967df73e6b76dbd8870fc5a361c",
+ "date": "2025-12-28",
+ "subject": "Adjust node borders light mode",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/KnowledgeGraphWebGL.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57988
+}

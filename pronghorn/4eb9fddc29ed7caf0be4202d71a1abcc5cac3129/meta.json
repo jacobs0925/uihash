@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "4eb9fddc29ed7caf0be4202d71a1abcc5cac3129",
+ "parent": "88167dff0b33b16aa7a34415551fc4119986df02",
+ "date": "2026-01-02",
+ "subject": "Enhance fullscreen editing UX",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/present/SlidePreview.tsx",
+  "src/components/present/SlideThumbnails.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59420
+}

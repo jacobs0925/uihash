@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "655cf7fc9ed33274bce978aef3472240eb549757",
+ "parent": "7c310ae76de9279727951394e49dd6baa859f6c2",
+ "date": "2025-12-28",
+ "subject": "Switch to WebGL graph",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/audit/KnowledgeGraphWebGL.tsx",
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58412
+}

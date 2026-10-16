@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "673c6121ea1ea6a1cf989b51a3e142099bd53b90",
+ "parent": "ed02d03f68a567a1ef3c622999c5626e19bf5173",
+ "date": "2025-12-28",
+ "subject": "Stabilize audit fetches",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57379
+}

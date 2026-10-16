@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "0d3ad0cefbdcb3185533bc985af2368eaee37dfb",
+ "parent": "1e59c3dcea71bde26242fd8b5e47afa26ca245d9",
+ "date": "2026-01-01",
+ "subject": "Implement dynamic zone z-index",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useRealtimeCanvas.ts",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 56325
+}

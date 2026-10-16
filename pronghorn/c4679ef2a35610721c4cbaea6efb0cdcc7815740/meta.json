@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "c4679ef2a35610721c4cbaea6efb0cdcc7815740",
+ "parent": "eacf1a0e8031e187aa5b77451ad45c08716b88e7",
+ "date": "2025-12-24",
+ "subject": "Unify License header links",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/License.tsx",
+  "src/pages/Privacy.tsx",
+  "src/pages/Terms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 26,
+ "ms": 101908
+}

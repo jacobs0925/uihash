@@ -1,0 +1,22 @@
+{
+ "repo": "pronghorn",
+ "sha": "fe1d355f46b535c42180763a774fb7b4ae235c74",
+ "parent": "2b3b94fa1310a94a090e41afbd031723f173b121",
+ "date": "2025-12-25",
+ "subject": "Fix audit sector bug and UI tabs",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/audit/AgentInstancesCard.tsx",
+  "src/pages/project/Audit.tsx",
+  "supabase/functions/audit-orchestrator/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55434
+}

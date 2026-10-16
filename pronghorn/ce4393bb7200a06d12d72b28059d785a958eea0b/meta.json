@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "ce4393bb7200a06d12d72b28059d785a958eea0b",
+ "parent": "50b0482b257c0fa8cc9cee4dfe53e7b607a252b7",
+ "date": "2025-12-26",
+ "subject": "Fix audit iteration grouping",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/AuditActivityStream.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 54622
+}

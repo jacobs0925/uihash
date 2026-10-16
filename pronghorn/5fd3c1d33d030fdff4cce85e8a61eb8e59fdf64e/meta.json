@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "5fd3c1d33d030fdff4cce85e8a61eb8e59fdf64e",
+ "parent": "6f5adaa58dcc74eb513851df31bd3c1f79411c05",
+ "date": "2025-12-26",
+ "subject": "Assign stable IDs at audit start",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/project/ProjectSelector.tsx",
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 53807
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "0d466ce548c548bf536df37ad2732e4fc161a4ec",
+ "parent": "4eb9fddc29ed7caf0be4202d71a1abcc5cac3129",
+ "date": "2026-01-02",
+ "subject": "Refactor present page to tabs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/project/Present.tsx",
+  "supabase/migrations/20260102135533_c717b9bb-b87d-4972-a8ee-0eac830aefa4.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59287
+}

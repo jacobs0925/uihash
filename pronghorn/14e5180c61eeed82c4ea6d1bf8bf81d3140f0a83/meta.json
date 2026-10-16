@@ -1,0 +1,20 @@
+{
+ "repo": "pronghorn",
+ "sha": "14e5180c61eeed82c4ea6d1bf8bf81d3140f0a83",
+ "parent": "cb5ff831611b7498f66e84557a49a969c8b8cbf9",
+ "date": "2025-12-24",
+ "subject": "Improve deploy status refresh",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useRealtimeDeployments.ts",
+  "src/pages/project/Deploy.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55184
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "1e59c3dcea71bde26242fd8b5e47afa26ca245d9",
+ "parent": "714be1148cbc231a399de31f8585f131997ba277",
+ "date": "2026-01-01",
+ "subject": "Adjust zone handling and UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/canvas/LabelNode.tsx",
+  "src/components/canvas/NotesNode.tsx",
+  "src/components/canvas/ZoneNode.tsx",
+  "src/pages/project/Canvas.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 57008
+}

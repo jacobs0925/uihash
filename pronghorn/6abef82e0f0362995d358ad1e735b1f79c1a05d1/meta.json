@@ -1,0 +1,21 @@
+{
+ "repo": "pronghorn",
+ "sha": "6abef82e0f0362995d358ad1e735b1f79c1a05d1",
+ "parent": "09bba189f410da35c479095e4bc58b6e5e082601",
+ "date": "2025-12-26",
+ "subject": "Improve optimistic graph updates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useAuditPipeline.ts",
+  "src/hooks/useRealtimeAudit.ts",
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 53771
+}

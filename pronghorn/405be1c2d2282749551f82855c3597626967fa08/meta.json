@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "405be1c2d2282749551f82855c3597626967fa08",
+ "parent": "97dcf67a59e84f9bc61ea67b0b0f58d44974768d",
+ "date": "2025-12-28",
+ "subject": "Wire pipeline results to UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/project/Audit.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 58440
+}

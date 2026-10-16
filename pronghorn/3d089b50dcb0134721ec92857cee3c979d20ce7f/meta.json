@@ -1,0 +1,23 @@
+{
+ "repo": "pronghorn",
+ "sha": "3d089b50dcb0134721ec92857cee3c979d20ce7f",
+ "parent": "e149b4c253eaedac17fa441f060d48e698c6f7ce",
+ "date": "2026-01-02",
+ "subject": "Enhance slide editing",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/present/SlideImageGenerator.tsx",
+  "src/components/present/SlideNotesEditor.tsx",
+  "src/components/present/SlidePreview.tsx",
+  "src/pages/project/Present.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 59211
+}

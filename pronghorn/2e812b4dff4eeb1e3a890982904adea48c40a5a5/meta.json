@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "2e812b4dff4eeb1e3a890982904adea48c40a5a5",
+ "parent": "b65d3239805a983683f334cc2b72ce7d85725f0a",
+ "date": "2025-12-26",
+ "subject": "Round Vennd results to 1 decimal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/audit/VennDiagramResults.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55722
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "pronghorn",
+ "sha": "4c5f11e31f4a7cf89e82247bab3a48a39a25e2c0",
+ "parent": "5e8510bb8947868c78060a56ae2cb9fee83afae2",
+ "date": "2025-12-24",
+ "subject": "Masonry image grid in dialog",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/artifacts/EnhanceImageDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 55496
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "81e8587f365f3dd630d0075a4a93d56aed51c86f",
+ "parent": "eccb5ea7e2a540f752cae300abe2a75094ea3043",
+ "date": "2025-10-03",
+ "subject": "Update client form to include property type selection",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48541
+}

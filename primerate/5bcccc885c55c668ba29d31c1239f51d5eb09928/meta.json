@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "5bcccc885c55c668ba29d31c1239f51d5eb09928",
+ "parent": "f046463cf992861ae6729d0c3622db64d87117be",
+ "date": "2025-10-03",
+ "subject": "Adjust client form layout to align fields and match widths",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49457
+}

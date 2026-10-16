@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "66d6213402f588a345a58591783d3e60769e28c2",
+ "parent": "5f480c39d9cd281ef806292d80ae5f2aed1a1f8b",
+ "date": "2025-10-03",
+ "subject": "Add loan term selection with custom option and toggle",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49374
+}

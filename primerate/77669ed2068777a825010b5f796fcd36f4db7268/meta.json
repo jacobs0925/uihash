@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "77669ed2068777a825010b5f796fcd36f4db7268",
+ "parent": "40cd071c3fa3d29df037355b7c4e6294c7b54dc8",
+ "date": "2025-10-02",
+ "subject": "Change rate lock expiration field to accept text or date input",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48809
+}

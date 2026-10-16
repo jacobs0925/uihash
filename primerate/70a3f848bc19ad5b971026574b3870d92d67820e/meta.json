@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "70a3f848bc19ad5b971026574b3870d92d67820e",
+ "parent": "546723e158d871d7b79d647aabfd05efb8ae2b17",
+ "date": "2025-10-03",
+ "subject": "Adjust spacing for client input fields on the admin page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49473
+}

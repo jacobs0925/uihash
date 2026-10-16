@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6ccf16d521b89d3b0483905758dbbc91b942ac57",
+ "parent": "8681b09bdd075c52d0c977fcacee4d060729b50a",
+ "date": "2025-10-02",
+ "subject": "Update loan category and purpose labels and group related fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49376
+}

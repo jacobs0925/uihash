@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2153e450ceba5bec7c629b8737630e2f892c7d2b",
+ "parent": "e4853fbd699d7a9ee6dd20c6de6ab27193bff7b3",
+ "date": "2025-10-03",
+ "subject": "Adjust element positioning slightly to the right",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49323
+}

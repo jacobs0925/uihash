@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d5f7be0cf4d5302130df9983b033a0e5080e3868",
+ "parent": "a3b868e01bd4738174d752884303f756562ef736",
+ "date": "2025-10-02",
+ "subject": "Adjust spacing of date input fields on client addition form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 54973
+}

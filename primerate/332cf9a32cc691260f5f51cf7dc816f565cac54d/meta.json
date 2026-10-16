@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "332cf9a32cc691260f5f51cf7dc816f565cac54d",
+ "parent": "d60cc166c15721d46721974a906394d09d7eb0e4",
+ "date": "2025-10-03",
+ "subject": "Update input fields to remove default zero values",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48951
+}

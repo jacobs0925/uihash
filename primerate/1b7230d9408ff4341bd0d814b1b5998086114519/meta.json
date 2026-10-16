@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1b7230d9408ff4341bd0d814b1b5998086114519",
+ "parent": "1b01fcd575eacbb6d915538b504991f64ee5f8eb",
+ "date": "2025-10-03",
+ "subject": "Apply quote tab styling to match borrower tab design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49746
+}

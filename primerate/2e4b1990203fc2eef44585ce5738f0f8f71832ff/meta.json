@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "2e4b1990203fc2eef44585ce5738f0f8f71832ff",
+ "parent": "73ee5e51830b0122329b383a369b6e18e48a67f8",
+ "date": "2025-10-02",
+ "subject": "Add a stage selection to the borrower information form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx",
+  "shared/schema.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 60012
+}

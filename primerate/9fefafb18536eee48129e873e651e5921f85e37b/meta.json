@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9fefafb18536eee48129e873e651e5921f85e37b",
+ "parent": "24a2bbf6aacdd75637eec2f9bb0b0c556a04ac18",
+ "date": "2025-10-02",
+ "subject": "Adjust loan type options and labels in client add form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49288
+}

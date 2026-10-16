@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "76d1f927f22bdffe3a8e7c5827fd6dc1da12109b",
+ "parent": "024fb28993c0d9aab272b10a28f973bad04f82af",
+ "date": "2025-10-03",
+ "subject": "Shrink icon size for client addition form elements",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49363
+}

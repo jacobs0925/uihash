@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e4853fbd699d7a9ee6dd20c6de6ab27193bff7b3",
+ "parent": "a8d17c94436610dbb48c11296419a0034ec2cd84",
+ "date": "2025-10-03",
+ "subject": "Adjust circles' position and size on the client addition page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49289
+}

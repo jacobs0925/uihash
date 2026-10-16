@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "254892b881ea4a7adff83bbb6031110bfd44b70e",
+ "parent": "9b7fba7606f811c1c630e990e20b6f94d42c5fc3",
+ "date": "2025-10-03",
+ "subject": "Update the icon for displaying selected loan rates to a money bag",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 53721
+}

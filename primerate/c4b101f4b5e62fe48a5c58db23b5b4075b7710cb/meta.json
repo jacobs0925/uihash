@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c4b101f4b5e62fe48a5c58db23b5b4075b7710cb",
+ "parent": "84288e9a3c5abb616a7cd99e1121a948fc5cbecc",
+ "date": "2025-10-02",
+ "subject": "Update client form to allow selection of loan purposes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49103
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "cea54b62e61305a0f4b1eed06d27ea0a8711b94e",
+ "parent": "3de3944faaf1f692ae38e5b7fb1d5472e6b848f5",
+ "date": "2025-10-03",
+ "subject": "Remove money bag icons from the client administration page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49166
+}

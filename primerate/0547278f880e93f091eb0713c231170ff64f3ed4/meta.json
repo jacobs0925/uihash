@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0547278f880e93f091eb0713c231170ff64f3ed4",
+ "parent": "a83e46e6a83fe614af65dbf3e73204465425e6d9",
+ "date": "2025-10-03",
+ "subject": "Add a horizontal line to separate payment information",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49307
+}

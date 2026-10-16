@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0f1bc83a425590ab1b12bec561492008cdd643be",
+ "parent": "cb6f6c3dfdc3717c168957a5fac2bcb148011323",
+ "date": "2025-10-02",
+ "subject": "Align form fields vertically for easier data entry",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49028
+}

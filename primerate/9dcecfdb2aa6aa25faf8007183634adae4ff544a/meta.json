@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9dcecfdb2aa6aa25faf8007183634adae4ff544a",
+ "parent": "19995845a4aeb822212d6b6983795ad2c53d8e9c",
+ "date": "2025-10-03",
+ "subject": "Arrange client and source fields side-by-side on the same line",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 54651
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "546723e158d871d7b79d647aabfd05efb8ae2b17",
+ "parent": "e517f3340191c14875fac0f7e6b8de2be0d8a1bd",
+ "date": "2025-10-03",
+ "subject": "Slightly adjust the horizontal position of elements on the add client page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48924
+}

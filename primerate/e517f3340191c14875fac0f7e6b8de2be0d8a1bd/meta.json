@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e517f3340191c14875fac0f7e6b8de2be0d8a1bd",
+ "parent": "3649e5ac0f29948ef363d1a76082c0f2f49e281c",
+ "date": "2025-10-03",
+ "subject": "Shrink the dollar sign icon and its container by 20%",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50081
+}

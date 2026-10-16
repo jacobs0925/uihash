@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "247404d0cb11482c4f766ce0f39eac9a9d168d8f",
+ "parent": "d71e7c0858ebe7133b2e5dae0d157e9175d2ccc7",
+ "date": "2025-10-02",
+ "subject": "Clear default text for rate lock duration input field",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48926
+}

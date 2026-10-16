@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b47ebca9c7ce437f62e5f75eb0f2fde544fc4217",
+ "parent": "b1b4f73b7975e76e66f8787387ab613e7d5c88ec",
+ "date": "2025-10-03",
+ "subject": "Add a new card to input existing loan balance for new clients",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51549
+}

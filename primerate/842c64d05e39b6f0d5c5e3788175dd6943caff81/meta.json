@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "842c64d05e39b6f0d5c5e3788175dd6943caff81",
+ "parent": "31ba8d737b6b8dd8e6db0c2ef47d14933eecff20",
+ "date": "2025-10-02",
+ "subject": "Add options to select loan types for client applications",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48822
+}

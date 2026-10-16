@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3c7ec56362704542ea3c3779603ee43c165379ea",
+ "parent": "254892b881ea4a7adff83bbb6031110bfd44b70e",
+ "date": "2025-10-03",
+ "subject": "Adjust icon size and appearance in client portal for rates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48882
+}

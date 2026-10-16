@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "222eea042a922c9e909766d270cef4aef4439239",
+ "parent": "31abde95989b11440c5bd0eafeb17c00dcc3d5d9",
+ "date": "2025-10-03",
+ "subject": "Update circle colors to a consistent navy blue for better visual appeal",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49102
+}

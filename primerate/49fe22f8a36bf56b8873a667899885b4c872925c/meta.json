@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "49fe22f8a36bf56b8873a667899885b4c872925c",
+ "parent": "3c7ec56362704542ea3c3779603ee43c165379ea",
+ "date": "2025-10-03",
+ "subject": "Update display for interest rate input to show '%' by default",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49144
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b8f55c1862746e556849420d3e2c129627dbd326",
+ "parent": "083568c5c8dbb6f80f4d480769d0d323a56d5078",
+ "date": "2025-10-03",
+ "subject": "Update border colors for client information cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49440
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "29af2ab6abc05285146cbfd153ae249a9b8e63ae",
+ "parent": "274560e4be90b04e9d9f8e35991ce9b75874cc2a",
+ "date": "2025-10-02",
+ "subject": "Reorder dashboard tiles to place leads before marketing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48665
+}

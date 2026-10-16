@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c5c2a27e9db3b140da86087f1945df1e83012bbf",
+ "parent": "9dcecfdb2aa6aa25faf8007183634adae4ff544a",
+ "date": "2025-10-03",
+ "subject": "Update quote tab cards to use consistent design elements",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49230
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6e3e88a46c1bd63ce12d3187f8f9577afad4e817",
+ "parent": "1f47786327c2243c56525d6e117384e44feac198",
+ "date": "2025-10-02",
+ "subject": "Update card animations to match borrower page style",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48830
+}

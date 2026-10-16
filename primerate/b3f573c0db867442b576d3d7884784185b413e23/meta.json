@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b3f573c0db867442b576d3d7884784185b413e23",
+ "parent": "375d99085150ee813f8a568b55c7a841c3f4691b",
+ "date": "2025-10-03",
+ "subject": "Improve font sizes and border colors on client management page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49635
+}

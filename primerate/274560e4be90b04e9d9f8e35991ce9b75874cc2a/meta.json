@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "274560e4be90b04e9d9f8e35991ce9b75874cc2a",
+ "parent": "247404d0cb11482c4f766ce0f39eac9a9d168d8f",
+ "date": "2025-10-02",
+ "subject": "Update admin dashboard navigation labels and add a search button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48975
+}

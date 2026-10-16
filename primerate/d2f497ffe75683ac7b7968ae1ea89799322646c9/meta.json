@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d2f497ffe75683ac7b7968ae1ea89799322646c9",
+ "parent": "0547278f880e93f091eb0713c231170ff64f3ed4",
+ "date": "2025-10-03",
+ "subject": "Increase font size of dollar input fields for better readability",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49920
+}

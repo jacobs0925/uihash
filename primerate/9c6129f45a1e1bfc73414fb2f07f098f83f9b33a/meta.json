@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9c6129f45a1e1bfc73414fb2f07f098f83f9b33a",
+ "parent": "966d831909e3b32db36160c9ba4cca6f596c3ee2",
+ "date": "2025-10-02",
+ "subject": "Update wording and position for program change options on the admin page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49370
+}

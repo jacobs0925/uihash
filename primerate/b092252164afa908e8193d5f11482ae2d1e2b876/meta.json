@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b092252164afa908e8193d5f11482ae2d1e2b876",
+ "parent": "9f017c6edb01d520cd5cc4d099a3483796147dd8",
+ "date": "2025-10-02",
+ "subject": "Add comparison options for mortgage rates to the client addition form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 53494
+}

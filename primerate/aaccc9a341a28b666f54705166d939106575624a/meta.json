@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "aaccc9a341a28b666f54705166d939106575624a",
+ "parent": "9173ef98452626f7d2cda4fec71cd016fbcf16bb",
+ "date": "2025-10-03",
+ "subject": "Make circle display one size larger for adding clients",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49004
+}

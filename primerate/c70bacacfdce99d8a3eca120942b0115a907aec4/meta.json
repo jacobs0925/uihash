@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c70bacacfdce99d8a3eca120942b0115a907aec4",
+ "parent": "17d9f5a6cce30578cdc808b953c3466070f58b98",
+ "date": "2025-10-03",
+ "subject": "Adjust layout for adding new clients to better align elements",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49495
+}

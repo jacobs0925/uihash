@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6f37640dcccc8645bd2f19c1a943f4ce8e860a35",
+ "parent": "2d999bd0c84c730c013390a659a4e8027f7f4a04",
+ "date": "2025-10-02",
+ "subject": "Update loan purpose option from \"Build\" to \"Construction\"",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49147
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c705edc4a8c88d61d18b46cfa7f85c6d85f415ce",
+ "parent": "e59844f0c1520b27c7a314b91e88e52123aba611",
+ "date": "2025-10-03",
+ "subject": "Saved your changes before starting work",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49617
+}

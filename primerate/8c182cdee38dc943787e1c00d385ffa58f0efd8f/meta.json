@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8c182cdee38dc943787e1c00d385ffa58f0efd8f",
+ "parent": "046bc9af603cf42722a46017c9de8ebd1bc56ac0",
+ "date": "2025-10-03",
+ "subject": "Add VA Benefits selection to client intake form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49630
+}

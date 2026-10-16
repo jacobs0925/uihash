@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "f8e88ee23a7c3b3a8d0e39948b14743184d7576b",
+ "parent": "c798c17fc69ed5937965ff92095ad6fbeb8f255a",
+ "date": "2025-10-02",
+ "subject": "Make dashboard tiles taller to match new design specifications",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/image_1759424898349.png",
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48375
+}

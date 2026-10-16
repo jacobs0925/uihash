@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c4967cc3f23bc451f42eb682cafa1c5b92f5b045",
+ "parent": "6cd36bdf2da536eea677c39ca6dbaf33a131ddfb",
+ "date": "2025-10-03",
+ "subject": "Adjust spacing to move client information further to the right",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49095
+}

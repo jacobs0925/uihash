@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "84288e9a3c5abb616a7cd99e1121a948fc5cbecc",
+ "parent": "411c0b4f00c0497fe61ec0415168710e6ae78a25",
+ "date": "2025-10-02",
+ "subject": "Organize quote information within a gray card wrapper",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48874
+}

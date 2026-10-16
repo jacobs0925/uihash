@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "31ba8d737b6b8dd8e6db0c2ef47d14933eecff20",
+ "parent": "6e3e88a46c1bd63ce12d3187f8f9577afad4e817",
+ "date": "2025-10-02",
+ "subject": "Update loan rate options and add new client source and property types",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50020
+}

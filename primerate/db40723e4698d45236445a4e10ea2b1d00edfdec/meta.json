@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "db40723e4698d45236445a4e10ea2b1d00edfdec",
+ "parent": "648d55b794880310e51a8fb1ee09df243ba85129",
+ "date": "2025-10-03",
+ "subject": "Reduce the font size of the dollar sign next to input fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49580
+}

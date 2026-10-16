@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1225353474f83605695ba712b4c2e5394711c3a6",
+ "parent": "3abffc8db29e3d4385ee4c8f134d47077a08e32e",
+ "date": "2025-10-02",
+ "subject": "Update property display to show street addresses in loan forms",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49769
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "375d99085150ee813f8a568b55c7a841c3f4691b",
+ "parent": "6af7fe6fcd6d7096fc891bbe6fdc4ac8c04a6526",
+ "date": "2025-10-03",
+ "subject": "Update monthly payment input field appearance in admin client section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50856
+}

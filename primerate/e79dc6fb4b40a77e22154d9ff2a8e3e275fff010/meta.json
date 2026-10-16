@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e79dc6fb4b40a77e22154d9ff2a8e3e275fff010",
+ "parent": "b794b2ae17046f232cca54966b1d76168a15b157",
+ "date": "2025-10-03",
+ "subject": "Update client form to place property selection between category and client fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49409
+}

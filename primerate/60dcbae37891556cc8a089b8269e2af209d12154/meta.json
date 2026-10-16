@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "60dcbae37891556cc8a089b8269e2af209d12154",
+ "parent": "f8e88ee23a7c3b3a8d0e39948b14743184d7576b",
+ "date": "2025-10-02",
+ "subject": "Add a gradient to the dashboard tiles for a polished look",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49691
+}

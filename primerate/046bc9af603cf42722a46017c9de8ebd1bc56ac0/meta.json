@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "046bc9af603cf42722a46017c9de8ebd1bc56ac0",
+ "parent": "e5062a4ae7ad1e7e1e00bddcdac1771f420233b6",
+ "date": "2025-10-03",
+ "subject": "Add a purpose selection dropdown to the client add form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49209
+}

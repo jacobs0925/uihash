@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c389c474c7f9b83b791f17e64ea3e17504f4c25f",
+ "parent": "11985e23c6d623830d94ec61cdc962f0129a826a",
+ "date": "2025-10-02",
+ "subject": "Adjust layout to accommodate loan duration information",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 52709
+}

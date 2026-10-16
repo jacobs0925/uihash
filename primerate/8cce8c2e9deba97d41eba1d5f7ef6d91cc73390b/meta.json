@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8cce8c2e9deba97d41eba1d5f7ef6d91cc73390b",
+ "parent": "a1134482b148ab1dde5f1af15ea0b05ecb03eb11",
+ "date": "2025-10-03",
+ "subject": "Center rate input circles with their respective columns",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49970
+}

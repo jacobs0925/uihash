@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "2e4b1990203fc2eef44585ce5738f0f8f71832ff",
+ "date": "2025-10-02",
+ "pr": null,
+ "title": "Add a stage selection to the borrower information form",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1576 later commits"
+}

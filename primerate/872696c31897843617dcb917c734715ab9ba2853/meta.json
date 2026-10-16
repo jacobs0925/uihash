@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "872696c31897843617dcb917c734715ab9ba2853",
+ "parent": "83dd873024324b21635834d72d3f29db509ce9b3",
+ "date": "2025-10-03",
+ "subject": "Restored to '222eea042a922c9e909766d270cef4aef4439239'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49184
+}

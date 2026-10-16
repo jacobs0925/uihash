@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e5062a4ae7ad1e7e1e00bddcdac1771f420233b6",
+ "parent": "e79dc6fb4b40a77e22154d9ff2a8e3e275fff010",
+ "date": "2025-10-03",
+ "subject": "Update client loan application form with dropdown for loan type",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49261
+}

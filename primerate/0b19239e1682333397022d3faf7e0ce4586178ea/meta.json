@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0b19239e1682333397022d3faf7e0ce4586178ea",
+ "parent": "964290b46565ec2e34ef12f26b9f60d1c57eb517",
+ "date": "2025-10-03",
+ "subject": "Add auto-calculated totals for rate columns in client quote section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49168
+}

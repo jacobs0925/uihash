@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4fd5aa6cf03b7260af9078161397f515ace54fae",
+ "parent": "148706ef37fd28907b3984bce1accf3b87a55cdf",
+ "date": "2025-10-02",
+ "subject": "Add a toggle for rate lock expiration and duration in loan applications",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48809
+}

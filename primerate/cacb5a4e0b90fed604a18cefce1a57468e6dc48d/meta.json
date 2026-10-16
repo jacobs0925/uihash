@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "cacb5a4e0b90fed604a18cefce1a57468e6dc48d",
+ "parent": "b0c09f1999e6a83b201a616212a0c800bc14baab",
+ "date": "2025-10-02",
+ "subject": "Improve stage selection by coloring options for better visibility",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50508
+}

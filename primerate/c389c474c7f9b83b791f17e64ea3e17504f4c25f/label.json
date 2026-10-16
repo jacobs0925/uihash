@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "c389c474c7f9b83b791f17e64ea3e17504f4c25f",
+ "date": "2025-10-02",
+ "pr": null,
+ "title": "Adjust layout to accommodate loan duration information",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1572 later commits"
+}

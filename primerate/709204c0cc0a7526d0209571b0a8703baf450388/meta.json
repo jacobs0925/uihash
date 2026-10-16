@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "709204c0cc0a7526d0209571b0a8703baf450388",
+ "parent": "30ab01620c513f8f49a38e828d305f3cdc7ca574",
+ "date": "2025-10-02",
+ "subject": "Make the company logo white with no background color",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49020
+}

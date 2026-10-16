@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "aa28a91d641076a140b74ed26f73c08b02b7aff4",
+ "parent": "bae84f8da06bb897bf1c300aa7c61810d0c9be04",
+ "date": "2025-10-03",
+ "subject": "Add a loan to value ratio selection to the client add form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49466
+}

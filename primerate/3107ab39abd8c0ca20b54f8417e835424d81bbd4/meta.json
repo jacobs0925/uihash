@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3107ab39abd8c0ca20b54f8417e835424d81bbd4",
+ "parent": "f16e61d0648f09f22e5bfb1b1b6aa177446c1469",
+ "date": "2025-10-03",
+ "subject": "Update quote tab to display dollar value for new monthly payment",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49703
+}

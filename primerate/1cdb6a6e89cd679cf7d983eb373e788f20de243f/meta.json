@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1cdb6a6e89cd679cf7d983eb373e788f20de243f",
+ "parent": "125e5b49116a7abdce9902234f0a5cb247255c02",
+ "date": "2025-10-02",
+ "subject": "Organize client and source information with distinct background styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48898
+}

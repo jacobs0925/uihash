@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "164f596deb3e0c7fc1484b4fe5908cd90e9c756a",
+ "parent": "cea54b62e61305a0f4b1eed06d27ea0a8711b94e",
+ "date": "2025-10-03",
+ "subject": "Adjust quote options and align rate circles for better data entry",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49090
+}

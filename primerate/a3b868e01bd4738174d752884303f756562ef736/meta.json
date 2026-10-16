@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a3b868e01bd4738174d752884303f756562ef736",
+ "parent": "2e4b1990203fc2eef44585ce5738f0f8f71832ff",
+ "date": "2025-10-02",
+ "subject": "Adjust layout of client form elements for better spacing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 63718
+}

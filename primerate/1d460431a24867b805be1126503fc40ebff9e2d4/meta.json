@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1d460431a24867b805be1126503fc40ebff9e2d4",
+ "parent": "91e6c7226c6bd785d45ed15fcee9fee6c2a2356c",
+ "date": "2025-10-02",
+ "subject": "Update quote section layout and card title",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48843
+}

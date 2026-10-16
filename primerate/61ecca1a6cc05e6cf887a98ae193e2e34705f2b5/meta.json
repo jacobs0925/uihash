@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "61ecca1a6cc05e6cf887a98ae193e2e34705f2b5",
+ "parent": "1b8ad9ad4f0880883da9cf05cb18508cb2c5bd1d",
+ "date": "2025-10-02",
+ "subject": "Rearrange loan category options on the client quote tab",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48954
+}

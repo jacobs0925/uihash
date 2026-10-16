@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "06c72cca3fd08cf7205c2a4a0279f97547136fe0",
+ "parent": "0f1bc83a425590ab1b12bec561492008cdd643be",
+ "date": "2025-10-02",
+ "subject": "Rearrange form elements to place loan purpose before property purpose",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49685
+}

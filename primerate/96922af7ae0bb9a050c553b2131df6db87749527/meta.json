@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "96922af7ae0bb9a050c553b2131df6db87749527",
+ "parent": "d0a7e6e06a5fd7b3696eee986bb5b3677835ec51",
+ "date": "2025-10-02",
+ "subject": "Add client selection options for new, repeat, and active loan clients",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49498
+}

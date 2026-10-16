@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "91e6c7226c6bd785d45ed15fcee9fee6c2a2356c",
+ "parent": "12fa84f4c02fbda2c4b24d10519309e224e287e5",
+ "date": "2025-10-02",
+ "subject": "Add loan category selection for client applications",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49460
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "9b7fba7606f811c1c630e990e20b6f94d42c5fc3",
+ "date": "2025-10-03",
+ "pr": null,
+ "title": "Update mortgage rate selection to show visual indicators progressively",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1499 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9f261663b70a31de0b03b4b1364747188e0127e0",
+ "parent": "77669ed2068777a825010b5f796fcd36f4db7268",
+ "date": "2025-10-02",
+ "subject": "Update cash out amount input to toggle between text and dollar value",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48801
+}

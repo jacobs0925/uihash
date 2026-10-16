@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e59844f0c1520b27c7a314b91e88e52123aba611",
+ "parent": "872696c31897843617dcb917c734715ab9ba2853",
+ "date": "2025-10-03",
+ "subject": "Increase font size for monetary fields on the add client page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49808
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "48aaa053666f844c4b4d85cee47c84cc4e68a168",
+ "parent": "e6510390868117690224a9a829b28739a4e3bcc5",
+ "date": "2025-10-02",
+ "subject": "Add loan purpose selection options to the quote menu",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49150
+}

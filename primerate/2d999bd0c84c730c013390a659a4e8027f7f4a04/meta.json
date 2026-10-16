@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2d999bd0c84c730c013390a659a4e8027f7f4a04",
+ "parent": "9fefafb18536eee48129e873e651e5921f85e37b",
+ "date": "2025-10-02",
+ "subject": "Update client form to automatically select loan purpose and reorder options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49025
+}

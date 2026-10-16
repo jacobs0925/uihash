@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "a3b868e01bd4738174d752884303f756562ef736",
+ "date": "2025-10-02",
+ "pr": null,
+ "title": "Adjust layout of client form elements for better spacing",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1575 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e6510390868117690224a9a829b28739a4e3bcc5",
+ "parent": "cacb5a4e0b90fed604a18cefce1a57468e6dc48d",
+ "date": "2025-10-02",
+ "subject": "Update borrower stage selection to display chosen font colors",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52312
+}

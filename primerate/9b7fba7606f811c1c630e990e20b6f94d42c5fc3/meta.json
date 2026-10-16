@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9b7fba7606f811c1c630e990e20b6f94d42c5fc3",
+ "parent": "08b8ac4a726f6c602260ac7453f159b4ace3c8d6",
+ "date": "2025-10-03",
+ "subject": "Update mortgage rate selection to show visual indicators progressively",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 67899
+}

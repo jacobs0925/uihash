@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "94a8a3b18b704b49604b93567ddbcb309836d811",
+ "parent": "9c6129f45a1e1bfc73414fb2f07f098f83f9b33a",
+ "date": "2025-10-03",
+ "subject": "Add functionality to input and display interest rates on quote cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49164
+}

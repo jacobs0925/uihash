@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8681b09bdd075c52d0c977fcacee4d060729b50a",
+ "parent": "61ecca1a6cc05e6cf887a98ae193e2e34705f2b5",
+ "date": "2025-10-02",
+ "subject": "Update loan application form to refine loan selection options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48929
+}

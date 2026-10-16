@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8792e521c6ca481ff8607e74dd29c376d1bc0b45",
+ "parent": "530777cb298a055d750dc4a05ee820b7368b626d",
+ "date": "2025-10-03",
+ "subject": "Add a thin dark blue border to the circular buttons",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49234
+}

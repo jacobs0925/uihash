@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "19995845a4aeb822212d6b6983795ad2c53d8e9c",
+ "parent": "864c50d7d249308b6858a301860e8d4a6501ca37",
+ "date": "2025-10-03",
+ "subject": "Add a selectable list for how clients were acquired",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48782
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b794b2ae17046f232cca54966b1d76168a15b157",
+ "parent": "1b7230d9408ff4341bd0d814b1b5998086114519",
+ "date": "2025-10-03",
+ "subject": "Reorder form fields to place category between quote and client",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49253
+}

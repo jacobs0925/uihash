@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d65e3f7fd81bb57a631a114e49b0157288e575e3",
+ "parent": "164f596deb3e0c7fc1484b4fe5908cd90e9c756a",
+ "date": "2025-10-03",
+ "subject": "Add editable rate circles and detailed interest rate information section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 53835
+}

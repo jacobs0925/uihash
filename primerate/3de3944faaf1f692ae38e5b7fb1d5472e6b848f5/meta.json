@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3de3944faaf1f692ae38e5b7fb1d5472e6b848f5",
+ "parent": "aa28a91d641076a140b74ed26f73c08b02b7aff4",
+ "date": "2025-10-03",
+ "subject": "Add a new field for entering the borrower's mid FICO score",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49183
+}

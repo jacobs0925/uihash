@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "864c50d7d249308b6858a301860e8d4a6501ca37",
+ "parent": "1d5e21f0d5636e91a665b5bb38fba7a820c2f9e6",
+ "date": "2025-10-03",
+ "subject": "Update drop-down menu for client selection and styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48987
+}

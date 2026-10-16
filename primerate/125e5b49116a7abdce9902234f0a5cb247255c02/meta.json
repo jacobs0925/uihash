@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "125e5b49116a7abdce9902234f0a5cb247255c02",
+ "parent": "c4b101f4b5e62fe48a5c58db23b5b4075b7710cb",
+ "date": "2025-10-02",
+ "subject": "Update quote tab to remove grey card wrapper behind client information",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49278
+}

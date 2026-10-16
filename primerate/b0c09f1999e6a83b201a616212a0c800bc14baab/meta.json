@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b0c09f1999e6a83b201a616212a0c800bc14baab",
+ "parent": "c389c474c7f9b83b791f17e64ea3e17504f4c25f",
+ "date": "2025-10-02",
+ "subject": "Change the font color of \"Cancel\" and \"Withdraw\" options to red",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49247
+}

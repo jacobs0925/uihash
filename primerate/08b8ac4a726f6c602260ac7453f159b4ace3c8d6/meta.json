@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "08b8ac4a726f6c602260ac7453f159b4ace3c8d6",
+ "parent": "dbc24312cff9f60409b97b0cd451587c736c04dc",
+ "date": "2025-10-03",
+ "subject": "Increase the size of the dollar sign within the client icon",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49115
+}

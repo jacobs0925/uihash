@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c9ad4aad9971e017717688e58f3092e0ff23d037",
+ "parent": "6ccf16d521b89d3b0483905758dbbc91b942ac57",
+ "date": "2025-10-02",
+ "subject": "Update background color for client administration sections",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48761
+}

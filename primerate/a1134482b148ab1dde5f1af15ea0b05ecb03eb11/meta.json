@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a1134482b148ab1dde5f1af15ea0b05ecb03eb11",
+ "parent": "46a50f45499f07c3fe9f36b0d8d02098fbcdf494",
+ "date": "2025-10-03",
+ "subject": "Adjust card widths to dynamically fit content on the admin client page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49141
+}

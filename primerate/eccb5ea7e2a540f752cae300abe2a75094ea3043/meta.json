@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "eccb5ea7e2a540f752cae300abe2a75094ea3043",
+ "parent": "c5c2a27e9db3b140da86087f1945df1e83012bbf",
+ "date": "2025-10-03",
+ "subject": "Update dropdown styles to match borrower tab card design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52308
+}

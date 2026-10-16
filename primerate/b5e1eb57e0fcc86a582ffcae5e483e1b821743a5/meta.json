@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b5e1eb57e0fcc86a582ffcae5e483e1b821743a5",
+ "parent": "d65e3f7fd81bb57a631a114e49b0157288e575e3",
+ "date": "2025-10-03",
+ "subject": "Update financial input fields to use consistent formatting and calculations",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52141
+}

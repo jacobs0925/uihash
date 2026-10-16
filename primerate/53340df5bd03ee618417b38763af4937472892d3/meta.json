@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "53340df5bd03ee618417b38763af4937472892d3",
+ "parent": "277a33e51d0720e37a006d2f228808277ffbb97c",
+ "date": "2025-10-02",
+ "subject": "Remove the word \"Quote\" from the client administration page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48647
+}

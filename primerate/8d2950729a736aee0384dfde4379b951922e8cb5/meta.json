@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8d2950729a736aee0384dfde4379b951922e8cb5",
+ "parent": "76d1f927f22bdffe3a8e7c5827fd6dc1da12109b",
+ "date": "2025-10-03",
+ "subject": "Increase the size of icons for adding client details",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48871
+}

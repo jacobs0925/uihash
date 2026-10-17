@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "69c4f6747939253296e813703d064164dc984c57",
+ "parent": "18d0c58c611509a72c17f9822387b045d37782e4",
+ "date": "2025-10-22",
+ "subject": "Fix: Ensure sign-up module fits viewport",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44750
+}

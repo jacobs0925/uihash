@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f720d180e1fa16a4d5d2b2f8fa99d0006e6a3c6c",
+ "parent": "404de5ac2543954b5bff9d33a02a6b6dc8abac0d",
+ "date": "2025-10-21",
+ "subject": "Refactor: Apply sleek refinements to Mission page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 7,
+ "ms": 69443
+}

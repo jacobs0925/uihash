@@ -8,5 +8,5 @@
  "label": 1,
  "source": "undo",
  "confidence": 0.85,
- "evidence": "position: ∅ → relative undone by c0a8ebc4 \"Reverted to commit e13be84da893f31912c82c35540f5f157bbaa5b7\""
+ "evidence": "position: ∅ → relative undone by c0a8ebc4 \"Reverted to commit e13be84da893f31912c82c35540f5f157bbaa5b7\"; display: grid → block undone by 5ab018ee \"Refactor: Implement Option B redesign\"; display: grid → block undone by 5ab018ee \"Refactor: Implement Option B redesign\""
 }

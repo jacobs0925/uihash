@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "9bc636c5ed8ce47ee4dfaf5a543caa292e674b6f",
+ "parent": "f3df4d6a32b774b64406c3e078df51594c1c7585",
+ "date": "2025-10-22",
+ "subject": "Refactor: Improve UpgradeModal styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx",
+  "src/components/ui/dialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44514
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "d75e19800da639d6c2675073afd7821f3355807a",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Refactor Mission page layout",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-top: 64px → 48px undone by f720d180 \"Refactor: Apply sleek refinements to Mission page\"; margin-top: 64px → 48px undone by f720d180 \"Refactor: Apply sleek refinements to Mission page\"; margin-top: 64px → 48px undone by f720d180 \"Refactor: Apply sleek refinements to Mission page\""
+}

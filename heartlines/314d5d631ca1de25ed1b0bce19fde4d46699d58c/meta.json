@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "314d5d631ca1de25ed1b0bce19fde4d46699d58c",
+ "parent": "b67c54af880721962bba23f434238abc6df8f7a0",
+ "date": "2025-10-22",
+ "subject": "Refactor: Move CTA under avatar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44183
+}

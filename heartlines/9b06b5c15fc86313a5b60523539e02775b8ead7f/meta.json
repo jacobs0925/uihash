@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9b06b5c15fc86313a5b60523539e02775b8ead7f",
+ "parent": "b610bdd99876e778e875aaac33daab6b190c6b4d",
+ "date": "2025-10-20",
+ "subject": "Fix: Optimize homepage loading for return visits",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FirstVisitSplash.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45953
+}

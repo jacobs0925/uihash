@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "8978c06af790c63b934f9b6771280912a2fd7f60",
+ "parent": "453535be6441072be9666fee58ef743c2c4135bc",
+ "date": "2025-10-18",
+ "subject": "Fix partner profile completion logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/PartnerQuestionnaireFooter.tsx",
+  "src/components/NewPartnerProfile/hooks/usePartnerProfileData.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46215
+}

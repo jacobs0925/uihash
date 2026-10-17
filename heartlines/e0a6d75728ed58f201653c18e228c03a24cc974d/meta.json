@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e0a6d75728ed58f201653c18e228c03a24cc974d",
+ "parent": "76625513adb6b42793c8ba1c8849ec3a45fd932c",
+ "date": "2025-10-18",
+ "subject": "Fix mobile input zoom",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45989
+}

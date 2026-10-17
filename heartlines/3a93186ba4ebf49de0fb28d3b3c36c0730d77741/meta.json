@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3a93186ba4ebf49de0fb28d3b3c36c0730d77741",
+ "parent": "3606b6ee8c232405a6beee55220122759fdf7c34",
+ "date": "2025-10-23",
+ "subject": "Fix chat input transparency and border radius",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45268
+}

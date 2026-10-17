@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b5162dd61455d88ba22d4d796061c9cf114c492a",
+ "parent": "9c15317a4c998cc1999da620a0b50451989c5b07",
+ "date": "2025-10-22",
+ "subject": "Revert CTA button changes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44011
+}

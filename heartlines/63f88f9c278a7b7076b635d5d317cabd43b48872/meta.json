@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "63f88f9c278a7b7076b635d5d317cabd43b48872",
+ "parent": "ad8e742722918068f387ecc7a1dd40eb30a18961",
+ "date": "2025-10-22",
+ "subject": "feat: Add CTA button below avatar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44142
+}

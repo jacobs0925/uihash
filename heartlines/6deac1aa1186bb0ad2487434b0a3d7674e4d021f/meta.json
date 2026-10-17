@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6deac1aa1186bb0ad2487434b0a3d7674e4d021f",
+ "parent": "3730292b42d0ddf39989112b76e9790856ae2454",
+ "date": "2025-10-22",
+ "subject": "Fix: Add space after em dash",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44674
+}

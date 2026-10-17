@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9c15317a4c998cc1999da620a0b50451989c5b07",
+ "parent": "a05ca0f0f36934d8bd1ba4741c0259cd904bd35c",
+ "date": "2025-10-22",
+ "subject": "Reverted to commit 42ad9b7bfb3e17525982232adfd2e3c4de6d850e",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44061
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6b01cb7e526a01b2d13402c1f6cee428f1f4f171",
+ "parent": "e5a7bb18703d64bd80a0fffb38b8cd8ee8438d8d",
+ "date": "2025-10-22",
+ "subject": "Fix: Remove borders from sample prompts",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConversationStarters.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44449
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "392afdb57f7ba4ec55af927e21fd23fbcbe74344",
+ "parent": "4d4bf6c0bf909c62495390afcd48a67014232daf",
+ "date": "2025-10-23",
+ "subject": "Fix: Address questionnaire and upgrade modal issues",
+ "components": [
+  "components",
+  "hooks",
+  "pages"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/index.tsx",
+  "src/components/modals/UpgradeModal.tsx",
+  "src/hooks/useDashboardModalHandlers.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 56103
+}

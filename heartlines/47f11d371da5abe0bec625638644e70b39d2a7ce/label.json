@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "47f11d371da5abe0bec625638644e70b39d2a7ce",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Refactor: Move CTAs and adjust styling",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by e9fd3a75, which restored 68b611be (1 commit discarded)"
+}

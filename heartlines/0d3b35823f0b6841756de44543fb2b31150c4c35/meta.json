@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0d3b35823f0b6841756de44543fb2b31150c4c35",
+ "parent": "6d2e1bce02efbff5812c8665714196d6c5067446",
+ "date": "2025-10-21",
+ "subject": "Refactor: Align \"Our Moment\" section styles",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 50785
+}

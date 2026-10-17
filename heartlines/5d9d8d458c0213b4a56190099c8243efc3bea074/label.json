@@ -5,8 +5,8 @@
  "date": "2025-10-16",
  "pr": null,
  "title": "Refactor: Improve spacing on Mission page",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2012 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-top: 8px → 16px undone by bedfd638 \"Refactor: Compact page and add gloss\"; margin-top: 8px → 16px undone by bedfd638 \"Refactor: Compact page and add gloss\"; margin-top: 8px → 16px undone by bedfd638 \"Refactor: Compact page and add gloss\""
 }

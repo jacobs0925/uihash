@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "df28e4ef0c61dfe5b4dc6e34f0441234f1d32e7f",
+ "parent": "89f60bfc229a866afa63f298f87a509f8a4ec0a6",
+ "date": "2025-10-18",
+ "subject": "Fix stale profile data in footer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/CleanQuestionnaireFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45846
+}

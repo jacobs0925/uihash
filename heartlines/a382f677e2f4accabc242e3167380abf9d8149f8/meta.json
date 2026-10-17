@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a382f677e2f4accabc242e3167380abf9d8149f8",
+ "parent": "0d3b35823f0b6841756de44543fb2b31150c4c35",
+ "date": "2025-10-21",
+ "subject": "Refactor: Remove background from highlighted text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 59848
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f1681b3f092b349b5ccf2bd8edeab20570009de2",
+ "parent": "143cd24b4b76e6c378ea3b90cd6e6aa8e66cf908",
+ "date": "2025-10-21",
+ "subject": "Update Laurie AI section copy",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 9,
+ "ms": 61925
+}

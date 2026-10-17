@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "26dc03eabc2dd8fb8d1595cf317ba4a667cb0a20",
+ "date": "2025-10-23",
+ "pr": null,
+ "title": "Refactor: Make upgrade modal compact and brighter",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 4d4bf6c0, which restored a1068cbb (1 commit discarded)"
+}

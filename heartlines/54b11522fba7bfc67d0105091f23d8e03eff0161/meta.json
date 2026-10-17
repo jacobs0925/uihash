@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "54b11522fba7bfc67d0105091f23d8e03eff0161",
+ "parent": "f8f0a8787669d2b9b3739eea9abe4e81a022e0e5",
+ "date": "2025-10-21",
+ "subject": "Update Kai's description",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44461
+}

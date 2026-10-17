@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "26dc03eabc2dd8fb8d1595cf317ba4a667cb0a20",
+ "parent": "a1068cbb1baa614400c60fe21eda9cc2832d8a5b",
+ "date": "2025-10-23",
+ "subject": "Refactor: Make upgrade modal compact and brighter",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx",
+  "src/data/pricingPlans.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 67636
+}

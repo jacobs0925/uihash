@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "bedfd63880e84fe68e5b085c26788c2bb8ddfcb0",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Refactor: Compact page and add gloss",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by ace03d23, which restored 28c8899f (1 commit discarded)"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7afe8143090ab258f29b82777987a2d78e87adb4",
+ "parent": "818fa5038e1ec54e30c5f81da862f31f3102d049",
+ "date": "2025-10-20",
+ "subject": "Fix: Remove visual artifact in chat header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46157
+}

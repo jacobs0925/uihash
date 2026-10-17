@@ -1,0 +1,40 @@
+{
+ "repo": "heartlines",
+ "sha": "7b3144f6b2917499f74b105ded219674009da4b4",
+ "parent": "df189d48daa6bcf1df3d135524d15544768f9df4",
+ "date": "2025-10-22",
+ "subject": "Reverted to commit 18b854f7bfbe4cb796af608ae6c6f0ef47a7de88",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/AuthGuard.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/ConversationStarters.tsx",
+  "src/components/DashboardContent.tsx",
+  "src/components/DashboardHeader.tsx",
+  "src/components/ErrorBoundary.tsx",
+  "src/components/HeroCarousel.tsx",
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/LandingPageFallback.tsx",
+  "src/components/NewPartnerProfile/components/PartnerQuestionnaireLayout.tsx",
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireLayout.tsx",
+  "src/components/PrivacySettings.tsx",
+  "src/components/ProductPhoneDemo.tsx",
+  "src/components/ProductionErrorBoundary.tsx",
+  "src/components/SimpleHeader.tsx",
+  "src/components/SplashScreen.tsx",
+  "src/components/account/AccountLayout.tsx",
+  "src/components/chat/ChatHeader.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 71430
+}

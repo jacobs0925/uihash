@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "a00cfe8839ad91fa557bebf5145f6e1ad4092897",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Refactor Laurie AI section and lowercase text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1704 later commits"
+}

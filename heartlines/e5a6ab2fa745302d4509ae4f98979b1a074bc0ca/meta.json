@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "e5a6ab2fa745302d4509ae4f98979b1a074bc0ca",
+ "parent": "69bc4bc73823d5702d8781507a0a36b2f60b4be7",
+ "date": "2025-10-21",
+ "subject": "Fix homepage click blocking",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45603
+}

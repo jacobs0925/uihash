@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4679e595335c725e41f8e61cbd0ce1d5b974929a",
+ "parent": "40339905169eccfd509b124e556dd61e7d2e94ac",
+ "date": "2025-10-21",
+ "subject": "Fix: Make selected text white",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 50432
+}

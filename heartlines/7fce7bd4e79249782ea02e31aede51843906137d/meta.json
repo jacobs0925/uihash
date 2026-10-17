@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7fce7bd4e79249782ea02e31aede51843906137d",
+ "parent": "6deac1aa1186bb0ad2487434b0a3d7674e4d021f",
+ "date": "2025-10-22",
+ "subject": "Fix: Improve splash screen interaction on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FirstVisitSplash.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44875
+}

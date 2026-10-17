@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "1f9167f5fedd04e4af74ba77f561d65df7899fb3",
+ "parent": "8b778e34089ab3654aa6af4f2e6a940d22ae5e0d",
+ "date": "2025-10-23",
+ "subject": "Fix: Optimize PhoneLockup image loading",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/Brand/PhoneLockup.tsx",
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 56678
+}

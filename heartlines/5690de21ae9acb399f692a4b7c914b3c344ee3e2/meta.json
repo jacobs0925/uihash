@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5690de21ae9acb399f692a4b7c914b3c344ee3e2",
+ "parent": "e84e5abe5168f24ce4631f22c02deb84bf032486",
+ "date": "2025-10-23",
+ "subject": "Update homepage copy",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45003
+}

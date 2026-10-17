@@ -1,0 +1,40 @@
+{
+ "repo": "heartlines",
+ "sha": "8d6d3e182584c0adea28e33d7a14fb51ea0e9cc0",
+ "parent": "9c3743c647f542c2c5be58f84dcf203252e20a35",
+ "date": "2025-10-23",
+ "subject": "Reverted to commit 18b854f7bfbe4cb796af608ae6c6f0ef47a7de88",
+ "components": [
+  "components",
+  "hooks",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/AIChatMessage.tsx",
+  "src/components/Brand/PhoneLockup.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/ChatHeader.tsx",
+  "src/components/ConversationStarters.tsx",
+  "src/components/FirstVisitSplash.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/MemoizedChatContainer.tsx",
+  "src/components/NewPersonalQuestionnaire/index.tsx",
+  "src/components/YearCarousel.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/components/chat/MemoizedChatContainer.tsx",
+  "src/components/modals/UpgradeModal.tsx",
+  "src/components/sidebar/KaiIntroCard.tsx",
+  "src/hooks/useDashboardModalHandlers.tsx",
+  "src/index.css",
+  "src/pages/Auth.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 54071
+}

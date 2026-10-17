@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "a382f677e2f4accabc242e3167380abf9d8149f8",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Refactor: Remove background from highlighted text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1697 later commits"
+}

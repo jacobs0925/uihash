@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "7d336ba1829fcbf48e82f7240ee37952689f246e",
+ "date": "2025-10-22",
+ "pr": null,
+ "title": "Fix: Adjust burgundy color hue",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-color: rgb(51, 0, 9) → rgb(51, 0, 13) undone by bb3e1661 \"Revert burgundy color to original\"; background-color: rgb(51, 0, 9) → rgb(51, 0, 13) undone by bb3e1661 \"Revert burgundy color to original\"; background-color: rgb(51, 0, 9) → rgb(51, 0, 13) undone by bb3e1661 \"Revert burgundy color to original\""
+}

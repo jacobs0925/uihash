@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "e4583b75f09cc8063d17a31bec5e03bdd10a1746",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Apply Shrikhand font to \"heartlines\"",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1702 later commits"
+}

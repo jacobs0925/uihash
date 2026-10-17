@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6317ad4fd18f66e2aaacdf6cbf5fe89615530f91",
+ "parent": "c16043c714d49717c6b4cbf660c22711e22672f9",
+ "date": "2025-10-22",
+ "subject": "Refactor: Improve feature badge layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44548
+}

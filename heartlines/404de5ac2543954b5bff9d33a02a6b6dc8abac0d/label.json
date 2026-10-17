@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "404de5ac2543954b5bff9d33a02a6b6dc8abac0d",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Refactor: Match desktop cards to mobile styling",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-image: linear-gradient(to right bottom, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.1)) → linear-gradient(to right bottom, rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.15)) undone by ace03d23 \"Reverted to commit 28c8899fd5bea08a8dfc1b05bbddf3b40525acbb\"; background-image: linear-gradient(to right bottom, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.1)) → linear-gradient(to right bottom, rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.15)) undone by ace03d23 \"Reverted to commit 28c8899fd5bea08a8dfc1b05bbddf3b40525acbb\"; background-image: linear-gradient(to right bottom, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0.1)) → linear-gradient(to right bottom, rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.15)) undone by ace03d23 \"Reverted to commit 28c8899fd5bea08a8dfc1b05bbddf3b40525acbb\""
+}

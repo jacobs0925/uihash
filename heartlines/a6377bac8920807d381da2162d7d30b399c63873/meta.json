@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a6377bac8920807d381da2162d7d30b399c63873",
+ "parent": "f1681b3f092b349b5ccf2bd8edeab20570009de2",
+ "date": "2025-10-21",
+ "subject": "Refactor: Improve Mission page visual design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 9,
+ "ms": 63268
+}

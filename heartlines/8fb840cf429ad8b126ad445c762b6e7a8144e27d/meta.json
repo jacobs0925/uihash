@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8fb840cf429ad8b126ad445c762b6e7a8144e27d",
+ "parent": "58654f520a797c16de09aef682936335a368be9e",
+ "date": "2025-10-19",
+ "subject": "Fix: Seamlessly blend ConversationStarters",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConversationStarters.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45584
+}

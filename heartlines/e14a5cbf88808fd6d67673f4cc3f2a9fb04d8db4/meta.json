@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e14a5cbf88808fd6d67673f4cc3f2a9fb04d8db4",
+ "parent": "42f67c2a00efe8f710023e02b987900033c9ee4c",
+ "date": "2025-10-22",
+ "subject": "Fix Auth page layout for desktop",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 68490
+}

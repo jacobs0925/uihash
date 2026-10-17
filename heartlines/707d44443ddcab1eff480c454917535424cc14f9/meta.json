@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "707d44443ddcab1eff480c454917535424cc14f9",
+ "parent": "5690de21ae9acb399f692a4b7c914b3c344ee3e2",
+ "date": "2025-10-23",
+ "subject": "Refactor: Increase hero text size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44994
+}

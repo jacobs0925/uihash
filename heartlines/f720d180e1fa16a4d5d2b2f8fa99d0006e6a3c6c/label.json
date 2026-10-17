@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "f720d180e1fa16a4d5d2b2f8fa99d0006e6a3c6c",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Refactor: Apply sleek refinements to Mission page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1684 later commits"
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "752aa236e04cc1337269eef4426655c362c6ca76",
+ "parent": "d75e19800da639d6c2675073afd7821f3355807a",
+ "date": "2025-10-21",
+ "subject": "Fix: Make \"our why\" animation visible on desktop",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/index.css",
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 58265
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "bb3e1661cae1b98d64afaa06b295bb9f21608baf",
+ "date": "2025-10-22",
+ "pr": null,
+ "title": "Revert burgundy color to original",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1635 later commits"
+}

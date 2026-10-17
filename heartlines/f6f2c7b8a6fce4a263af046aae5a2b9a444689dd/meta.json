@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f6f2c7b8a6fce4a263af046aae5a2b9a444689dd",
+ "parent": "e14a5cbf88808fd6d67673f4cc3f2a9fb04d8db4",
+ "date": "2025-10-22",
+ "subject": "Fix mobile footer button spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/CleanQuestionnaireFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44271
+}

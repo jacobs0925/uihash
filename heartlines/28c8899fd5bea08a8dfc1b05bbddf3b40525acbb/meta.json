@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "28c8899fd5bea08a8dfc1b05bbddf3b40525acbb",
+ "parent": "6af7b361a2b0d26b87e2a188d08d4cee34fcdb76",
+ "date": "2025-10-21",
+ "subject": "Refactor \"Powered by Laurie AI\" text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 50842
+}

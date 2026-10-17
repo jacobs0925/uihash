@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "4e6afbf343baae1a3fcbbef1fc8f1f8173b0cb8d",
+ "parent": "5f969133a1a96dddda27773e4e88be7dba672825",
+ "date": "2025-10-18",
+ "subject": "Fix footer validation to read directly from storage",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/CleanQuestionnaireFooter.tsx",
+  "src/components/NewPersonalQuestionnaire/components/shared/SingleSelect.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45955
+}

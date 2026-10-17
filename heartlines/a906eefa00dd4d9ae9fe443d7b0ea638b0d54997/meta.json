@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "a906eefa00dd4d9ae9fe443d7b0ea638b0d54997",
+ "parent": "8d6d3e182584c0adea28e33d7a14fb51ea0e9cc0",
+ "date": "2025-10-23",
+ "subject": "Refactor: Add gradient borders to chat elements",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/AIChatMessage.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45418
+}

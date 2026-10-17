@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1b93bb3cdbcee2c1599bdf3bf9cfd1bcb6110b95",
+ "parent": "50eac888317d585bc12d3bc742b62a53f014807c",
+ "date": "2025-10-22",
+ "subject": "Refactor: Change button text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44189
+}

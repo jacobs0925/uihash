@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d37acba8059a526921791911fea2b087bae60d6e",
+ "parent": "e9fd3a7529304236679a308cd00223226b55bdb2",
+ "date": "2025-10-21",
+ "subject": "Refactor: Move sentence to expanded section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 51485
+}

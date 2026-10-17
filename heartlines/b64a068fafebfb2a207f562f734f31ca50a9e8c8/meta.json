@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "b64a068fafebfb2a207f562f734f31ca50a9e8c8",
+ "parent": "dc591edb014d7d472a8bf7246a9dc66ab347467d",
+ "date": "2025-10-18",
+ "subject": "Revert profile updates to simpler logic",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/sections/WhoYouAre/NamePronounsCard.tsx",
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45690
+}

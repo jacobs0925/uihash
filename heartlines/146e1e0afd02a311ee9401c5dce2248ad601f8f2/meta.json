@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "146e1e0afd02a311ee9401c5dce2248ad601f8f2",
+ "parent": "9054f7d1420e0262e72eaa8d86f1e219320766c0",
+ "date": "2025-10-22",
+ "subject": "Fix: Restore shimmer overlay animation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44147
+}

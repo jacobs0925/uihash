@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "60431d5a70ceea491bd6382814a1b2c574ea08d9",
+ "parent": "346beff22a3391e9194eaa9a70773fefc8956c79",
+ "date": "2025-10-18",
+ "subject": "Fix: Disable deselection for required fields",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/sections/WhoYouAre/NamePronounsCard.tsx",
+  "src/components/NewPersonalQuestionnaire/components/shared/SingleSelect.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45604
+}

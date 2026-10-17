@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "4679e595335c725e41f8e61cbd0ce1d5b974929a",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Fix: Make selected text white",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1708 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "54637835c9829835c1f1f0138bfa65e0e990cc3a",
+ "parent": "f3b6932f255b56a722a9c6d9b0b48953e0dd9b51",
+ "date": "2025-10-23",
+ "subject": "Fix: Adjust Auth form layout on desktop",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 69792
+}

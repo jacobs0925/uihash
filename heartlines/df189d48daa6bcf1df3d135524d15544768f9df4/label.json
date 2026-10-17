@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "df189d48daa6bcf1df3d135524d15544768f9df4",
+ "date": "2025-10-22",
+ "pr": null,
+ "title": "Refactor: Change background to burgundy-900",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 7b3144f6, which restored 18b854f7 (1 commit discarded)"
+}

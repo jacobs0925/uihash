@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "6765e623e6d276b8c438e36d2761cda7ff02e673",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Update mission statement text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1726 later commits"
+}

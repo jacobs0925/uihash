@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "e14a5cbf88808fd6d67673f4cc3f2a9fb04d8db4",
+ "date": "2025-10-22",
+ "pr": null,
+ "title": "Fix Auth page layout for desktop",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "justify-content: flex-start → center undone by 54637835 \"Fix: Adjust Auth form layout on desktop\"; align-items: flex-start → center undone by 54637835 \"Fix: Adjust Auth form layout on desktop\"; justify-content: flex-start → center undone by 54637835 \"Fix: Adjust Auth form layout on desktop\""
+}

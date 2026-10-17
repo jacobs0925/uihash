@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "89f60bfc229a866afa63f298f87a509f8a4ec0a6",
+ "parent": "0d2a13f8ced83ed8751460d5bc1fea0b3c9f5c77",
+ "date": "2025-10-18",
+ "subject": "Fix: Ensure required fields update cache",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/usePersonalProfileData.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46017
+}

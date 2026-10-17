@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e4583b75f09cc8063d17a31bec5e03bdd10a1746",
+ "parent": "644261a3e7daaaf5f522496c8bb4aba15ac0b22c",
+ "date": "2025-10-21",
+ "subject": "Apply Shrikhand font to \"heartlines\"",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 50447
+}

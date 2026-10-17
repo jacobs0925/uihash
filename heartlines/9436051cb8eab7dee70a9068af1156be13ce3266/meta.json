@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "9436051cb8eab7dee70a9068af1156be13ce3266",
+ "parent": "8fb840cf429ad8b126ad445c762b6e7a8144e27d",
+ "date": "2025-10-20",
+ "subject": "Fix: Implement floating UI elements",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/AIChatMessage.tsx",
+  "src/components/ConversationStarters.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46529
+}

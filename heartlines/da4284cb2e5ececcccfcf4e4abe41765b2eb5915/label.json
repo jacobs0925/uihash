@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "da4284cb2e5ececcccfcf4e4abe41765b2eb5915",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Refactor: Update \"Our Moment\" section",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "font-size: 20px → 18px undone by f1681b3f \"Update Laurie AI section copy\"; font-weight: 300 → ∅ undone by f1681b3f \"Update Laurie AI section copy\"; font-size: 20px → 18px undone by f1681b3f \"Update Laurie AI section copy\""
+}

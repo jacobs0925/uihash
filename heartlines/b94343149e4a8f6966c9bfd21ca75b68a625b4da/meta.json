@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "b94343149e4a8f6966c9bfd21ca75b68a625b4da",
+ "parent": "b64a068fafebfb2a207f562f734f31ca50a9e8c8",
+ "date": "2025-10-18",
+ "subject": "Reverted to commit 2ad54c595604f04d9418a046398c9421d9be5412",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/CleanQuestionnaireFooter.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/WhoYouAre/NamePronounsCard.tsx",
+  "src/components/NewPersonalQuestionnaire/components/shared/SingleSelect.tsx",
+  "src/hooks/usePersonalProfileData.tsx",
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45597
+}

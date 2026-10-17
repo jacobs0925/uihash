@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "e52cc6d88dca5f2c75e84469a134b33c447cfb30",
+ "date": "2025-10-23",
+ "pr": null,
+ "title": "Fix: Center auth form module",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1575 later commits"
+}

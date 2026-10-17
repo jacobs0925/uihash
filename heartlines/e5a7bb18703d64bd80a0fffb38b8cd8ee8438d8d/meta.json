@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "e5a7bb18703d64bd80a0fffb38b8cd8ee8438d8d",
+ "parent": "ada648155f5994425a93a7da497a75da2c51c233",
+ "date": "2025-10-22",
+ "subject": "Refactor: Unify interface colors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatHeader.tsx",
+  "src/components/ConversationStarters.tsx",
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44620
+}

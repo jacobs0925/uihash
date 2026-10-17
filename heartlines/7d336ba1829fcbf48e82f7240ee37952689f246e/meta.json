@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7d336ba1829fcbf48e82f7240ee37952689f246e",
+ "parent": "145449bec64690890e08976f91756cab672b9c80",
+ "date": "2025-10-22",
+ "subject": "Fix: Adjust burgundy color hue",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 8,
+ "ms": 108383
+}

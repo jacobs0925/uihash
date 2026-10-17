@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "69bc4bc73823d5702d8781507a0a36b2f60b4be7",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Fix alignment issues on account and mission pages",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "text-align: left → center undone by e72300e2 \"Fix: Align \"Our Moment\" preview content\"; text-align: left → center undone by e72300e2 \"Fix: Align \"Our Moment\" preview content\"; text-align: left → center undone by e72300e2 \"Fix: Align \"Our Moment\" preview content\""
+}

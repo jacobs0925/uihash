@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "a1068cbb1baa614400c60fe21eda9cc2832d8a5b",
+ "parent": "1f9167f5fedd04e4af74ba77f561d65df7899fb3",
+ "date": "2025-10-23",
+ "subject": "Fix: Prevent questionnaire modal re-opening",
+ "components": [
+  "hooks",
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useDashboardModalHandlers.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 55732
+}

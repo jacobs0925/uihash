@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "2a93a7f6ad0cd0adc692c1c87c48f96e379b0794",
+ "parent": "36aa8547ace187bd80c54a85395922a80f5f2173",
+ "date": "2025-10-19",
+ "subject": "Refactor: Improve mobile text readability",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45741
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "6a2786f581706a27750b9590e7f32612797adf13",
+ "parent": "1824bfccb3f8a9efa56c57147bb88dd622fc2544",
+ "date": "2025-10-22",
+ "subject": "Refactor: Remove user typing indicator",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/MemoizedChatContainer.tsx",
+  "src/components/chat/MemoizedChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44538
+}

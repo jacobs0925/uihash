@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "79d825aa883fed9dd07aeea38e2b9cef84078d05",
+ "parent": "c6bd978a8c3d1761d060c7c77508aa97c1fc990b",
+ "date": "2025-10-22",
+ "subject": "Fix: Position CTA at bottom of avatar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44098
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "8d63c8d5876aa4b86a72a39c742a33085f1aab43",
+ "parent": "6ca06272767e72f8fbc642ca2224456cb29f0929",
+ "date": "2025-10-23",
+ "subject": "Refactor: Apply brand gradient to chat outlines",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44621
+}

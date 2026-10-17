@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "13b9c811b93b4505739f7e6a5aef8db261a0ea88",
+ "parent": "3b4f7d15b205d208fa25b95ee8367747867b7ffb",
+ "date": "2025-10-21",
+ "subject": "Fix: Change button text on Mission page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 49521
+}

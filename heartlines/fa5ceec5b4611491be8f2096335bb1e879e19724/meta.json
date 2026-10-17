@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "fa5ceec5b4611491be8f2096335bb1e879e19724",
+ "parent": "7fd03fabf7fb32ffe953c0b98dcc89b0ea401ce9",
+ "date": "2025-10-22",
+ "subject": "Reverted to commit 6b01cb7e526a01b2d13402c1f6cee428f1f4f171",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConversationStarters.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44088
+}

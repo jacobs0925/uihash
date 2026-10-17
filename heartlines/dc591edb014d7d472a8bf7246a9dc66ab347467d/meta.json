@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "dc591edb014d7d472a8bf7246a9dc66ab347467d",
+ "parent": "60431d5a70ceea491bd6382814a1b2c574ea08d9",
+ "date": "2025-10-18",
+ "subject": "Fix: Ensure profile data is saved synchronously",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/CleanQuestionnaireFooter.tsx",
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45895
+}

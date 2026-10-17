@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "072c90e05bdf4fb5fc771c9dffd2be48ca6eebf0",
+ "parent": "fb7e58b03cd4fffc1e50b438015f5768a8c96ec9",
+ "date": "2025-10-22",
+ "subject": "Refactor: Adjust CTA button spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44184
+}

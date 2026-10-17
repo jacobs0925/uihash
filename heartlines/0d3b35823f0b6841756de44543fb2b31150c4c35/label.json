@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "0d3b35823f0b6841756de44543fb2b31150c4c35",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Refactor: Align \"Our Moment\" section styles",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "font-size: 18px → 20px undone by bedfd638 \"Refactor: Compact page and add gloss\"; font-size: 18px → 20px undone by bedfd638 \"Refactor: Compact page and add gloss\"; font-size: 18px → 20px undone by bedfd638 \"Refactor: Compact page and add gloss\""
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "3e903ee8ec92a7895616988152f63a4cacde4a83",
+ "date": "2025-10-22",
+ "pr": null,
+ "title": "Refactor: Lighten background to burgundy-800",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgb(51, 0, 9) → rgb(102, 0, 17) undone by df189d48 \"Refactor: Change background to burgundy-900\"; background-color: rgb(51, 0, 9) → rgb(102, 0, 17) undone by df189d48 \"Refactor: Change background to burgundy-900\"; background-color: rgb(51, 0, 9) → rgb(102, 0, 17) undone by df189d48 \"Refactor: Change background to burgundy-900\""
+}

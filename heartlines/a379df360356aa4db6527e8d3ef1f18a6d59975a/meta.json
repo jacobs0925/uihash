@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a379df360356aa4db6527e8d3ef1f18a6d59975a",
+ "parent": "f6f2c7b8a6fce4a263af046aae5a2b9a444689dd",
+ "date": "2025-10-22",
+ "subject": "Fix: Update chat header gradient color",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44438
+}

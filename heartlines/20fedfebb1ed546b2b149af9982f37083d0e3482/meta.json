@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "20fedfebb1ed546b2b149af9982f37083d0e3482",
+ "parent": "e52cc6d88dca5f2c75e84469a134b33c447cfb30",
+ "date": "2025-10-23",
+ "subject": "Refactor: Update KaiIntroCard copy and layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/sidebar/KaiIntroCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45038
+}

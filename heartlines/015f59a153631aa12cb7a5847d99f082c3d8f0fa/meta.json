@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "015f59a153631aa12cb7a5847d99f082c3d8f0fa",
+ "parent": "8cd510c3e3cb07bec7531feaecd61f879704ebec",
+ "date": "2025-10-22",
+ "subject": "Fix: Move CTA button to the right",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44357
+}

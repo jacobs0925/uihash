@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7f399af979b93048df3f26dfbb802944d6bcef54",
+ "parent": "5ab018eedb2bebe3d2fad041a1f1e889a9e4456c",
+ "date": "2025-10-21",
+ "subject": "feat: Implement \"Read More\" expandable sections",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 10,
+ "ms": 62589
+}

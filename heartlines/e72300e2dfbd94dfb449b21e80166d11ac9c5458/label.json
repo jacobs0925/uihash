@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "e72300e2dfbd94dfb449b21e80166d11ac9c5458",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Fix: Align \"Our Moment\" preview content",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1696 later commits"
+}

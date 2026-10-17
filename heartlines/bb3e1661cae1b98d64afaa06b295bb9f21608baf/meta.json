@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "bb3e1661cae1b98d64afaa06b295bb9f21608baf",
+ "parent": "7d336ba1829fcbf48e82f7240ee37952689f246e",
+ "date": "2025-10-22",
+ "subject": "Revert burgundy color to original",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 8,
+ "ms": 106974
+}

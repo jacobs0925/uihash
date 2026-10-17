@@ -1,0 +1,25 @@
+{
+ "repo": "heartlines",
+ "sha": "e00cd2b25cd79ef4e2bef3c5b87cf60a03eceb92",
+ "parent": "3e903ee8ec92a7895616988152f63a4cacde4a83",
+ "date": "2025-10-22",
+ "subject": "Fix tooltip delay and add subtle borders",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/AIChatMessage.tsx",
+  "src/components/DashboardHeader.tsx",
+  "src/components/SignInButton.tsx",
+  "src/components/chat/ChatHistorySidebar.tsx",
+  "src/components/sidebar/KaiIntroCard.tsx",
+  "src/components/ui/popover.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44513
+}

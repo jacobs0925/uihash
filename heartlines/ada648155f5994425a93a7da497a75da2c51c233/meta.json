@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ada648155f5994425a93a7da497a75da2c51c233",
+ "parent": "4d7477fc3c536fe1970d27d91e36292bac1387ff",
+ "date": "2025-10-22",
+ "subject": "feat: Increase avatar sizes in chat messages",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44182
+}

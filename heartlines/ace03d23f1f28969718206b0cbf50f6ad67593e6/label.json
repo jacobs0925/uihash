@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "ace03d23f1f28969718206b0cbf50f6ad67593e6",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "Reverted to commit 28c8899fd5bea08a8dfc1b05bbddf3b40525acbb",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 32px → 48px undone by bedfd638 \"Refactor: Compact page and add gloss\"; padding-bottom: 16px → 24px undone by bedfd638 \"Refactor: Compact page and add gloss\"; font-size: 96px → 128px undone by bedfd638 \"Refactor: Compact page and add gloss\""
+}

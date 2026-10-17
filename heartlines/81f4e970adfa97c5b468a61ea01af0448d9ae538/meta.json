@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "81f4e970adfa97c5b468a61ea01af0448d9ae538",
+ "parent": "ab2b170fc7550e4f10aef9a8dfea58d403965d36",
+ "date": "2025-10-22",
+ "subject": "Optimize Auth page loading",
+ "components": [
+  "App.tsx",
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/App.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 56550
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "42f67c2a00efe8f710023e02b987900033c9ee4c",
+ "parent": "4badd50f8f53748a747b67a8f531ad8c7956f788",
+ "date": "2025-10-22",
+ "subject": "Refactor: Update splash screen background color",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SplashScreen.tsx",
+  "src/components/loading/ProductionSplashScreen.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44605
+}

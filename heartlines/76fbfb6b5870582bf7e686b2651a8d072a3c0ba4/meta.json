@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "76fbfb6b5870582bf7e686b2651a8d072a3c0ba4",
+ "parent": "df28e4ef0c61dfe5b4dc6e34f0441234f1d32e7f",
+ "date": "2025-10-18",
+ "subject": "Fix footer validation timing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/CleanQuestionnaireFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45778
+}

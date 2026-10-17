@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1ab5f56c159c04c5091912c435138ac239bf9057",
+ "parent": "fd36a02b8ba62261bbe685e019ad57b6a31bfa3e",
+ "date": "2025-10-22",
+ "subject": "Fix: Remove drop shadow from year gradient",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44398
+}

@@ -5,8 +5,8 @@
  "date": "2025-10-16",
  "pr": null,
  "title": "Refactor: Reduce spacing between sections",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1988 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "margin-top: 64px → 40px undone by a6377bac \"Refactor: Improve Mission page visual design\"; margin-top: 64px → 40px undone by a6377bac \"Refactor: Improve Mission page visual design\"; margin-top: 64px → 40px undone by a6377bac \"Refactor: Improve Mission page visual design\""
 }

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "7f399af979b93048df3f26dfbb802944d6bcef54",
+ "date": "2025-10-21",
+ "pr": null,
+ "title": "feat: Implement \"Read More\" expandable sections",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1720 later commits"
+}

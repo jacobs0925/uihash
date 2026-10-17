@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "4d7477fc3c536fe1970d27d91e36292bac1387ff",
+ "parent": "6a2786f581706a27750b9590e7f32612797adf13",
+ "date": "2025-10-22",
+ "subject": "Refactor: Enhance chat definition",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx",
+  "src/components/ChatHeader.tsx",
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44554
+}

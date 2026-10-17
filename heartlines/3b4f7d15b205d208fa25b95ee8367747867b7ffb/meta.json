@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3b4f7d15b205d208fa25b95ee8367747867b7ffb",
+ "parent": "0b1b22b2210b0486294e24fb2985fda883a4a57b",
+ "date": "2025-10-21",
+ "subject": "feat: Add \"Meet Kai\" section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44823
+}

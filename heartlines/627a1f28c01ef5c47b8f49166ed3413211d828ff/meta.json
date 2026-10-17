@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "627a1f28c01ef5c47b8f49166ed3413211d828ff",
+ "parent": "9b06b5c15fc86313a5b60523539e02775b8ead7f",
+ "date": "2025-10-20",
+ "subject": "Fix: Slow down tooltip animation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/tooltip.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45531
+}

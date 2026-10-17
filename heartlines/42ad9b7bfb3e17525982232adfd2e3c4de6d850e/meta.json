@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "42ad9b7bfb3e17525982232adfd2e3c4de6d850e",
+ "parent": "b4125576c803bf2e65a6c2ead7487ef6cc0c99b0",
+ "date": "2025-10-22",
+ "subject": "Refactor: Update CTA button styling and text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44228
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "44fb30e150ac28b70d8ef0bec215a64347b5c169",
+ "parent": "9436051cb8eab7dee70a9068af1156be13ce3266",
+ "date": "2025-10-20",
+ "subject": "Fix: Remove background gradient overlay",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 58431
+}

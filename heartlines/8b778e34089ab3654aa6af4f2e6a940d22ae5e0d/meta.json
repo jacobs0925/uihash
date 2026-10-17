@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "8b778e34089ab3654aa6af4f2e6a940d22ae5e0d",
+ "parent": "271327ce512188bd89014f5131aeb1511dddb856",
+ "date": "2025-10-22",
+ "subject": "Reverted to commit 47f8e7c4b827e4a0c04eb632aaf05a49b5b06863",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx",
+  "src/components/ui/dialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44113
+}

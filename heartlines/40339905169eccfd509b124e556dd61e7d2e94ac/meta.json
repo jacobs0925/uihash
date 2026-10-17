@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "40339905169eccfd509b124e556dd61e7d2e94ac",
+ "parent": "da4284cb2e5ececcccfcf4e4abe41765b2eb5915",
+ "date": "2025-10-21",
+ "subject": "Remove last two stanzas from \"Our Moment\"",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45669
+}

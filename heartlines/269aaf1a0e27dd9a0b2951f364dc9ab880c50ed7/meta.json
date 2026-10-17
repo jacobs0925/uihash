@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "269aaf1a0e27dd9a0b2951f364dc9ab880c50ed7",
+ "parent": "752aa236e04cc1337269eef4426655c362c6ca76",
+ "date": "2025-10-21",
+ "subject": "Fix: Darken desktop background to match mobile",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 107545
+}

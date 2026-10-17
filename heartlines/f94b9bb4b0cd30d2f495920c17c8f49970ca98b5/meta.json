@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f94b9bb4b0cd30d2f495920c17c8f49970ca98b5",
+ "parent": "e4583b75f09cc8063d17a31bec5e03bdd10a1746",
+ "date": "2025-10-21",
+ "subject": "Refactor: Highlight Seattle in mission statement",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45119
+}

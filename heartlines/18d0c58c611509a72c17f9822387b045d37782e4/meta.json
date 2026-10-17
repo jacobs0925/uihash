@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "18d0c58c611509a72c17f9822387b045d37782e4",
+ "parent": "fcf9ba5ff43dc544ef4d06536ca2bf84b86a073d",
+ "date": "2025-10-22",
+ "subject": "Fix: Remove fade-in animation from signup form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45125
+}

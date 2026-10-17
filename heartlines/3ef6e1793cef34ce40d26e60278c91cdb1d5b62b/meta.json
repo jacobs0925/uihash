@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3ef6e1793cef34ce40d26e60278c91cdb1d5b62b",
+ "parent": "748f015b349c449487c928f0f93bceb39a30fb28",
+ "date": "2025-10-06",
+ "subject": "Fix: Remove \"Done before your latte's cold\"",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42553
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "a719800cc9fc8ac297f37e7726d6e25ba5afc393",
+ "date": "2025-10-04",
+ "pr": null,
+ "title": "feat: Implement crisis training and update terms",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by 968783cd, which restored e3fda92d (4 commits discarded)"
+}

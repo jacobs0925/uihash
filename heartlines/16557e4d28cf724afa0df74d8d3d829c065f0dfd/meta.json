@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "16557e4d28cf724afa0df74d8d3d829c065f0dfd",
+ "parent": "dee7f6b8ccc47291b43dbd9295f8f79e7ae4d7a4",
+ "date": "2025-10-08",
+ "subject": "Fix: Adjust carousel image scaling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43500
+}

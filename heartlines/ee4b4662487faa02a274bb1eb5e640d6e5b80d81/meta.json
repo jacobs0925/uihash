@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ee4b4662487faa02a274bb1eb5e640d6e5b80d81",
+ "parent": "e8da46533baff3ff3232c5ee2ee361548a4cdf56",
+ "date": "2025-10-04",
+ "subject": "Fix: Add height constraint to phone mockup",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41787
+}

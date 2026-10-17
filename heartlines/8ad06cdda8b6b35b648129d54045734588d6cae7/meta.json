@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "8ad06cdda8b6b35b648129d54045734588d6cae7",
+ "parent": "576879b4ecb1b1c6443764dc5e78cdfd97c1ce2b",
+ "date": "2025-10-06",
+ "subject": "Refactor: Reduce blank space in profile layouts",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/PartnerQuestionnaireLayout.tsx",
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41787
+}

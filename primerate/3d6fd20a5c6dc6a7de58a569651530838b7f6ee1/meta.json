@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3d6fd20a5c6dc6a7de58a569651530838b7f6ee1",
+ "parent": "b8950482395686504a76dc28bdcd655ed38d6def",
+ "date": "2025-10-07",
+ "subject": "Update calculation for enabled quote selection based on completed fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 53672
+}

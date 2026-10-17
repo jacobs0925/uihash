@@ -5,8 +5,8 @@
  "date": "2025-10-02",
  "pr": null,
  "title": "Refactor: Implement mobile white screen fix",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2872 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "transform: ∅ → matrix(1, 0, 0, 1, 0, 0) undone by c7368092 \"Fix fixed header on homepage\"; transform: ∅ → matrix(1, 0, 0, 1, 0, 0) undone by c7368092 \"Fix fixed header on homepage\"; transform: ∅ → matrix(1, 0, 0, 1, 0, 0) undone by c7368092 \"Fix fixed header on homepage\""
 }

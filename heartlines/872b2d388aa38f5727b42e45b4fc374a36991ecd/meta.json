@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "872b2d388aa38f5727b42e45b4fc374a36991ecd",
+ "parent": "eb4c4a4e3eb3544844c25fc8992a66e6037a5bb6",
+ "date": "2025-10-06",
+ "subject": "Refactor: Slim down profile footers",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/CleanPartnerFooter.tsx",
+  "src/components/NewPersonalQuestionnaire/components/CleanQuestionnaireFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41779
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "a93c3ed2b0933f63cae747933f744262f0a36915",
+ "date": "2025-10-06",
+ "pr": null,
+ "title": "Fix: Restore pricing page header padding",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 48px → 96px undone by e8235002 \"Visual edit in Lovable\"; padding-top: 48px → 96px undone by e8235002 \"Visual edit in Lovable\"; padding-top: 48px → 96px undone by e8235002 \"Visual edit in Lovable\""
+}

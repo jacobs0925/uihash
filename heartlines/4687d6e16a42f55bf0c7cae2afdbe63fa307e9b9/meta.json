@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4687d6e16a42f55bf0c7cae2afdbe63fa307e9b9",
+ "parent": "16557e4d28cf724afa0df74d8d3d829c065f0dfd",
+ "date": "2025-10-08",
+ "subject": "Fix: Reduce year font size in carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43358
+}

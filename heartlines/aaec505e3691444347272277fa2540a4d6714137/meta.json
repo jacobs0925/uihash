@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "aaec505e3691444347272277fa2540a4d6714137",
+ "parent": "c7ba5538412ea98912a4cf66fb0f1e17a17bd0c2",
+ "date": "2025-10-04",
+ "subject": "Refine phone width on wide screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41023
+}

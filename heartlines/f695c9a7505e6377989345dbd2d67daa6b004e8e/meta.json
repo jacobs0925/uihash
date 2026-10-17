@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f695c9a7505e6377989345dbd2d67daa6b004e8e",
+ "parent": "e7a585f420216e35d25a33098b1d1be05db32e9f",
+ "date": "2025-10-06",
+ "subject": "Apply Shrikhand font to heading",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 46654
+}

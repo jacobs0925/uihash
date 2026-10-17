@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "fe10d08ff54f7985620359d3d02b0ce4bd5fc90e",
+ "parent": "cb8cde55bdab3092b931b1eab35096d9d3804318",
+ "date": "2025-10-07",
+ "subject": "Update dashboard tiles and navigation for better user experience",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51581
+}

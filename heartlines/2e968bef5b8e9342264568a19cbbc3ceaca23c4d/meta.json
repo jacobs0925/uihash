@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2e968bef5b8e9342264568a19cbbc3ceaca23c4d",
+ "parent": "823ec1cf79b723f466f73be7f67be2c7189f5dd2",
+ "date": "2025-10-04",
+ "subject": "Refactor: Increase phone margin on wide screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41154
+}

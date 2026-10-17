@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "67866b8fe60c4839bdf618fc125ea8e534bb812e",
+ "parent": "9edef2b2401eed04c239255046148c14befa5197",
+ "date": "2025-10-03",
+ "subject": "Fix: Lazy load chat animations",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41446
+}

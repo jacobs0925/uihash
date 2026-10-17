@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "456cd8b25598914b1f148c3ce87319a41a8a0f5e",
+ "parent": "24fea2921aa3dcd3ad8b744d2d1da014b64e2bc6",
+ "date": "2025-10-06",
+ "subject": "Fix: Stabilize chat interface by debouncing access level",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx",
+  "src/hooks/useProfileStoreV2.tsx",
+  "src/hooks/useProgressiveAccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42166
+}

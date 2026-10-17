@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "73b0a0b9c04ce87de25541ebb04d818e5558b739",
+ "parent": "5a85c5946b5f4311ab7c8deb0172749d9625c55d",
+ "date": "2025-10-03",
+ "subject": "Fix hero text wrapping and progress bar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41235
+}

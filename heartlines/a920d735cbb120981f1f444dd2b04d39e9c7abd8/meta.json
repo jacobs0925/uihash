@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a920d735cbb120981f1f444dd2b04d39e9c7abd8",
+ "parent": "bc39802d64f75f0ac5103b68750e5df2bcc76bb8",
+ "date": "2025-10-03",
+ "subject": "Refactor: Improve desktop input area",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41491
+}

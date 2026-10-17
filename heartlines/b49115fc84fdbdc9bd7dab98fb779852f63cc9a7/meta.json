@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "b49115fc84fdbdc9bd7dab98fb779852f63cc9a7",
+ "parent": "13d4a7e419f08a94336714f581fbd39e362f9ee3",
+ "date": "2025-10-06",
+ "subject": "Refactor: Implement profile data persistence and UI stability plan",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx",
+  "src/hooks/useOptimizedProfileCompletion.tsx",
+  "src/hooks/useProfileStoreV2.tsx",
+  "src/utils/calculationCache.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42051
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "df016a7181eb0080d1c8250d24b49c8db5f75f89",
+ "parent": "e3fda92d8350286f0bc45f1f6cda587f93694fc7",
+ "date": "2025-10-04",
+ "subject": "Refactor: Improve mobile spacing in profile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41726
+}

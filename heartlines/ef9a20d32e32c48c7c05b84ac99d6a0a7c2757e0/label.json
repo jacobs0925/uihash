@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "ef9a20d32e32c48c7c05b84ac99d6a0a7c2757e0",
+ "date": "2025-10-06",
+ "pr": null,
+ "title": "Refactor: Change RealTalk to heartlines",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2594 later commits"
+}

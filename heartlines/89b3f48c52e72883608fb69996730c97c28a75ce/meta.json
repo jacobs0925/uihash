@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "89b3f48c52e72883608fb69996730c97c28a75ce",
+ "parent": "f7fa6bf6e62f7ab30fd3e406002ba4c4f25c12c6",
+ "date": "2025-10-06",
+ "subject": "feat: Enhance onboarding nudge component",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/OnboardingStepNudge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42086
+}

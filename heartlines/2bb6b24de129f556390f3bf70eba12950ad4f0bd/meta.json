@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2bb6b24de129f556390f3bf70eba12950ad4f0bd",
+ "parent": "0ad5fc58204740d6dd15852cd82829e107f1136a",
+ "date": "2025-10-06",
+ "subject": "Refactor FAQ section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 46907
+}

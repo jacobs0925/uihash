@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "cbfd76d8e61abc174311232540763345fd50fc46",
+ "parent": "9024d7a5bcff43fe252f544cd0010f2c5fe3da52",
+ "date": "2025-10-07",
+ "subject": "Limit digits in FICO and LTV fields and display LTV as a percentage",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51352
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "34c4bb80406f528b55a4d2ad52cadb3e9a3689bd",
+ "parent": "456cd8b25598914b1f148c3ce87319a41a8a0f5e",
+ "date": "2025-10-06",
+ "subject": "Fix chat interface collapse on load",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42141
+}

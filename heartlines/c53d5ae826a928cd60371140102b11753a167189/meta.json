@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c53d5ae826a928cd60371140102b11753a167189",
+ "parent": "35c891c9ddd9c17517cf0a9f83b4e569a565743d",
+ "date": "2025-10-06",
+ "subject": "Fix: Center nudge vertically in chat",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41660
+}

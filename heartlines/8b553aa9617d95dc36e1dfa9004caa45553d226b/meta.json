@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "8b553aa9617d95dc36e1dfa9004caa45553d226b",
+ "parent": "28abdbc710a67c5c7436e511914f9f4d66c549a5",
+ "date": "2025-10-06",
+ "subject": "feat: Make chat interface sleeker when profile incomplete",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/MemoizedChatContainer.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/components/chat/MemoizedChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41957
+}

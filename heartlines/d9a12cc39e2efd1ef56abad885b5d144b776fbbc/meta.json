@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d9a12cc39e2efd1ef56abad885b5d144b776fbbc",
+ "parent": "a920d735cbb120981f1f444dd2b04d39e9c7abd8",
+ "date": "2025-10-03",
+ "subject": "Fix progress bar text centering",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41089
+}

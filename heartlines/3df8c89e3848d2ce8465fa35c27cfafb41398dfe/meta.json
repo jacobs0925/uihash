@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3df8c89e3848d2ce8465fa35c27cfafb41398dfe",
+ "parent": "50ea2a99a1b8cfaa1d022ef12c0926e67b5eb3a3",
+ "date": "2025-10-06",
+ "subject": "Fix: Style privacy settings button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 67868
+}

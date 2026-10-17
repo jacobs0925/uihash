@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "1e2082f1863218b8bb86800015c2c18ded0e7b73",
+ "parent": "82f15290d8ed7c8f8e36f8fbce27973eec3ba2bb",
+ "date": "2025-10-06",
+ "subject": "Add signup cap to Supabase",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251006184957_c62c862d-b91d-4a8a-bd2f-b93686c73a17.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42179
+}

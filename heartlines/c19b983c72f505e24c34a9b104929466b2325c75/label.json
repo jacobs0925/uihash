@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "c19b983c72f505e24c34a9b104929466b2325c75",
+ "date": "2025-10-06",
+ "pr": null,
+ "title": "Fix privacy page navigation icons and spacing",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2582 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f60e750ee5e133ac1512dc9fac653642c3f033f9",
+ "parent": "1d0ac5c9a46f42c42654dd862c8f55ad5ccfd2c2",
+ "date": "2025-10-08",
+ "subject": "Fix: Add right padding to year text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43304
+}

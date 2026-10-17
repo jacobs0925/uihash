@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d7987cce0b3719a0063442ec85f990f121cf62de",
+ "parent": "aaec505e3691444347272277fa2540a4d6714137",
+ "date": "2025-10-04",
+ "subject": "Refactor: Scale hero text on wide screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41075
+}

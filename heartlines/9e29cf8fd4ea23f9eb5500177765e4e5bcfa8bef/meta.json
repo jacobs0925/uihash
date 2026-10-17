@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9e29cf8fd4ea23f9eb5500177765e4e5bcfa8bef",
+ "parent": "921ee6d7b63d300638886de1f8d7138a0ddbb51d",
+ "date": "2025-10-08",
+ "subject": "Fix: Make watermark fully visible",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41874
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6d18ca621648ac89b68400b8461716ded36e8b0c",
+ "parent": "44cad9be13843a0c4ea5c04a0fe678e1e09dea89",
+ "date": "2025-10-06",
+ "subject": "Fix: Remove strobing animation from partner profile next button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/CleanPartnerFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42411
+}

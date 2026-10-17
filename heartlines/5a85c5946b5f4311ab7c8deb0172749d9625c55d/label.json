@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "5a85c5946b5f4311ab7c8deb0172749d9625c55d",
+ "date": "2025-10-03",
+ "pr": null,
+ "title": "Fix: Add spacing to pricing page header",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2721 later commits"
+}

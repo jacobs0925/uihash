@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "75fb8b73a332365d6a7e239746c2ae6eb79fa7fb",
+ "parent": "6d18ca621648ac89b68400b8461716ded36e8b0c",
+ "date": "2025-10-06",
+ "subject": "Refactor: Change \"Profile Building Tips\" to \"Tips\"",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder/ProfileTips.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41663
+}

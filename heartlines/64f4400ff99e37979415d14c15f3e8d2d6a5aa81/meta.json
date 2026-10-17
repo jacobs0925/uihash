@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "64f4400ff99e37979415d14c15f3e8d2d6a5aa81",
+ "parent": "ef9a20d32e32c48c7c05b84ac99d6a0a7c2757e0",
+ "date": "2025-10-06",
+ "subject": "Fix: Make privacy settings button solid burgundy",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 67828
+}

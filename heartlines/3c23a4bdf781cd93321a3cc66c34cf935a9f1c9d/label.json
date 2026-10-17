@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "3c23a4bdf781cd93321a3cc66c34cf935a9f1c9d",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Fix: Resolve header visibility issues",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2560 later commits"
+}

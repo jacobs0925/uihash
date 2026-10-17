@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "c7ba5538412ea98912a4cf66fb0f1e17a17bd0c2",
+ "parent": "ee4b4662487faa02a274bb1eb5e640d6e5b80d81",
+ "date": "2025-10-04",
+ "subject": "Refine phone scaling on wide screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41616
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "f7fa6bf6e62f7ab30fd3e406002ba4c4f25c12c6",
+ "parent": "80698b1258b0bf20b1bd3260ecac30d8025a8353",
+ "date": "2025-10-06",
+ "subject": "Fix: Ensure navigation is visible on page load",
+ "components": [
+  "components",
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx",
+  "src/components/DashboardHeader.tsx",
+  "src/contexts/MobileHeaderVisibilityContext.tsx",
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42311
+}

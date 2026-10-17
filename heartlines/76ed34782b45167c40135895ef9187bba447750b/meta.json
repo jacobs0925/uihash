@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "76ed34782b45167c40135895ef9187bba447750b",
+ "parent": "330bdb1d9e972c9c1614cb7829856dc0cf0e73ec",
+ "date": "2025-10-06",
+ "subject": "Fix header scrolling issue",
+ "components": [
+  "styles"
+ ],
+ "files": [
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42342
+}

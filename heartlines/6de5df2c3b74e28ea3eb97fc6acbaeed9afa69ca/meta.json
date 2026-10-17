@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "6de5df2c3b74e28ea3eb97fc6acbaeed9afa69ca",
+ "parent": "28486193d4d361f1712b86fc326ada841413b4a2",
+ "date": "2025-10-08",
+ "subject": "feat: Implement resource-based splash screen dismissal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FirstVisitSplash.tsx",
+  "src/config/criticalResources.ts",
+  "src/hooks/useResourceLoader.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42411
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "e576dd03c747eb38b93b8fa99936f74d8254beef",
+ "parent": "40a956d16ca8558003c6a4ab8a1c397c3380a0b7",
+ "date": "2025-10-08",
+ "subject": "feat: Rebuild hero carousel with CSS gradients",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/YearCarouselSimple.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42690
+}

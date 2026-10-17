@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1b32920a0a887910fc9d8c9acd1ea8181d39c63c",
+ "parent": "df34ad33839472604b40ab7938e27f4bfbed6217",
+ "date": "2025-10-08",
+ "subject": "Refactor: Move watermark outside map loop",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41855
+}

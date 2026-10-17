@@ -1,0 +1,21 @@
+{
+ "repo": "primerate",
+ "sha": "f1b45e84b01fa6e63273d995a089ac8395574de4",
+ "parent": "173421c4359650b5b8947351ff3a0655234ea883",
+ "date": "2025-10-07",
+ "subject": "Add default white background with logo for login page",
+ "components": [
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "client/src/contexts/BackgroundContext.tsx",
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51106
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6cb156b1cdc9eaaf7e8e3508dadf681619467829",
+ "parent": "7e437127f6b3ed4075fed51a2c6828fef886d495",
+ "date": "2025-10-06",
+ "subject": "Fix dashboard viewport height",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 50486
+}

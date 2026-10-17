@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "4a424955fcd9ffacdec904abaad34049a9cd6c78",
+ "date": "2025-10-06",
+ "pr": null,
+ "title": "Refactor: Update privacy page navigation",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2591 later commits"
+}

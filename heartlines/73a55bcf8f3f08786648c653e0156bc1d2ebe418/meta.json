@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "73a55bcf8f3f08786648c653e0156bc1d2ebe418",
+ "parent": "370a3ea1d24a6c5cd14eb9b4ccb4181fe065124a",
+ "date": "2025-10-04",
+ "subject": "Fix: Apply mobile layout fixes to partner profile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/CleanPartnerFooter.tsx",
+  "src/components/NewPartnerProfile/components/PartnerQuestionnaireLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41502
+}

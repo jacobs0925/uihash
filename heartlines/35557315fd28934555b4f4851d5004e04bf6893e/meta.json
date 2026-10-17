@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "35557315fd28934555b4f4851d5004e04bf6893e",
+ "parent": "f084a6d6dd59b619e431228919bd8fd7e4257827",
+ "date": "2025-10-06",
+ "subject": "feat: Enhance privacy section with more bullets",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42336
+}

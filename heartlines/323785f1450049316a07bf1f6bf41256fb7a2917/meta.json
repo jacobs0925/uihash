@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "323785f1450049316a07bf1f6bf41256fb7a2917",
+ "parent": "2e968bef5b8e9342264568a19cbbc3ceaca23c4d",
+ "date": "2025-10-04",
+ "subject": "Fix: Ensure phone maintains aspect ratio",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40958
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "921ee6d7b63d300638886de1f8d7138a0ddbb51d",
+ "parent": "1b32920a0a887910fc9d8c9acd1ea8181d39c63c",
+ "date": "2025-10-08",
+ "subject": "Add watermark to landing page",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41938
+}

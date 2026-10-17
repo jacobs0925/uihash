@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "b434d3b5531c634ba7dc4c2777950e7457971c6b",
+ "parent": "35237d1f6b718e705d02dc1b07dcd291c597db34",
+ "date": "2025-10-04",
+ "subject": "Refactor: Implement safety protocols",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Terms.tsx",
+  "src/utils/prompt/promptTemplate.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 54691
+}

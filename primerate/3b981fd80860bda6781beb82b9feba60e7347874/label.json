@@ -5,8 +5,8 @@
  "date": "2025-10-01",
  "pr": null,
  "title": "Update background of login page to feature glowing cubes",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1855 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-position: 50% 50% → ∅ undone by fd3e696f \"Add ability to customize login page background from dashboard\"; background-repeat: no-repeat → ∅ undone by fd3e696f \"Add ability to customize login page background from dashboard\"; background-position: 50% 50% → ∅ undone by fd3e696f \"Add ability to customize login page background from dashboard\""
 }

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "318661e31fa701afde2f095fb7a404f4f78a1caf",
+ "parent": "a2c029f96229e24093808e59802854886179147b",
+ "date": "2025-10-08",
+ "subject": "Refactor: Ensure instant hero image loading",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42754
+}

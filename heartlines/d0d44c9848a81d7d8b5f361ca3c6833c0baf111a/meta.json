@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d0d44c9848a81d7d8b5f361ca3c6833c0baf111a",
+ "parent": "4a66807dea6f4e9c43e7c2853629b1dba23b048c",
+ "date": "2025-10-04",
+ "subject": "Fix font size of conversation titles",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41296
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6730efef53645073ca4aaedd1a87e42170c03fdb",
+ "parent": "d0d44c9848a81d7d8b5f361ca3c6833c0baf111a",
+ "date": "2025-10-04",
+ "subject": "Fix: Limit text width on large screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41189
+}

@@ -1,0 +1,36 @@
+{
+ "repo": "heartlines",
+ "sha": "a5591dd509f4b6410f01f911f8f3f66d373e2679",
+ "parent": "d5d3b354379093bc24d724add25d52bdf2ca9546",
+ "date": "2025-10-04",
+ "subject": "Refactor safety system",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/SiteFooter.tsx",
+  "src/components/chat/CrisisResourcesButton.tsx",
+  "src/components/chat/CrisisResourcesModal.tsx",
+  "src/components/chat/SafetyEducationModal.tsx",
+  "src/components/sidebar/SafetyResourcesCard.tsx",
+  "src/components/sidebar/SidebarContent.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/SafetyResources.tsx",
+  "src/pages/Terms.tsx",
+  "src/utils/prompt/promptTemplate.ts",
+  "src/utils/safetyUtils.ts",
+  "supabase/functions/anthropic-chat/index.ts",
+  "supabase/migrations/20251004054543_25b0e533-de91-46fd-a4ab-3a9bfa0fb2f3.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 7,
+ "ms": 70572
+}

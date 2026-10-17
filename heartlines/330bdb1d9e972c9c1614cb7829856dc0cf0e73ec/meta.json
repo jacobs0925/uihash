@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "330bdb1d9e972c9c1614cb7829856dc0cf0e73ec",
+ "parent": "a0c822b1d908efbcb41b8430288a697940acac24",
+ "date": "2025-10-05",
+ "subject": "Fix: Make SimpleHeader fixed on homepage",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/SimpleHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 59065
+}

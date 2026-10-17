@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f52a0455aa0106b692497f6ca3c70be8e027baf7",
+ "parent": "f05fc0029cfe33ef537c500118a6dd5e9b9a685a",
+ "date": "2025-10-06",
+ "subject": "Refactor: Increase Onboarding Nudge Size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/OnboardingStepNudge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41808
+}

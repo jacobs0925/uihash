@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6278cf7a709a21b6ddc0ef981dfb9abc3221f5c1",
+ "parent": "55b25eca8a1901940d5e55a9b7c9ef1755240aa5",
+ "date": "2025-10-06",
+ "subject": "Fix: Highlight Home tab on Mission page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42279
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "c7368092c286d912489649e7bf670620502efd57",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Fix fixed header on homepage",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2561 later commits"
+}

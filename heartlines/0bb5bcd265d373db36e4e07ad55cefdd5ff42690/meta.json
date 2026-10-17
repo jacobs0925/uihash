@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0bb5bcd265d373db36e4e07ad55cefdd5ff42690",
+ "parent": "5819686b88505059d610d21fde512135bd991b82",
+ "date": "2025-10-03",
+ "subject": "Revert progress bar text to orange",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40584
+}

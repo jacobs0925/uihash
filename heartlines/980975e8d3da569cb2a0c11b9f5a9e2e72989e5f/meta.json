@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "980975e8d3da569cb2a0c11b9f5a9e2e72989e5f",
+ "parent": "7d51a7259ebd44ee2b378907b366d2607904d66f",
+ "date": "2025-10-08",
+ "subject": "Fix timeline section refresh effect",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41828
+}

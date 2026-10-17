@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4b943cab45bfeddb74f4dc7a7ed74787df9068cb",
+ "parent": "805309e44816ba4f37e6754e7dc68aee42f5af61",
+ "date": "2025-10-06",
+ "subject": "Fix extra spacing on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42057
+}

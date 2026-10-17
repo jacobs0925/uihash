@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e7a585f420216e35d25a33098b1d1be05db32e9f",
+ "parent": "13006c7503dcfe0740ec40d0d5e3b4bcabb9b722",
+ "date": "2025-10-06",
+ "subject": "Fix: Remove transform from #root on mobile",
+ "components": [
+  "styles"
+ ],
+ "files": [
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41691
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a2c029f96229e24093808e59802854886179147b",
+ "parent": "980975e8d3da569cb2a0c11b9f5a9e2e72989e5f",
+ "date": "2025-10-08",
+ "subject": "Optimize hero image loading",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41703
+}

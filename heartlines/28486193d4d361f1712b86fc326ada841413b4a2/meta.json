@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "28486193d4d361f1712b86fc326ada841413b4a2",
+ "parent": "318661e31fa701afde2f095fb7a404f4f78a1caf",
+ "date": "2025-10-08",
+ "subject": "Fix: Improve avatar loading performance",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42063
+}

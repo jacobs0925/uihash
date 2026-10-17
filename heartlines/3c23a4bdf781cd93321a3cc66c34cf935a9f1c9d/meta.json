@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "3c23a4bdf781cd93321a3cc66c34cf935a9f1c9d",
+ "parent": "c7368092c286d912489649e7bf670620502efd57",
+ "date": "2025-10-08",
+ "subject": "Fix: Resolve header visibility issues",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/FirstVisitSplash.tsx",
+  "src/components/SimpleHeader.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 59880
+}

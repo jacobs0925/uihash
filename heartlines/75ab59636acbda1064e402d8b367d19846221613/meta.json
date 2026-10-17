@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "75ab59636acbda1064e402d8b367d19846221613",
+ "parent": "e4d854f202f218bd32f5cdb77b4addfaf34ecd33",
+ "date": "2025-10-06",
+ "subject": "Refactor: Organize privacy section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42262
+}

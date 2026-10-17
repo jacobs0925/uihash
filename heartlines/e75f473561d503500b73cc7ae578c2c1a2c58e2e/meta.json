@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e75f473561d503500b73cc7ae578c2c1a2c58e2e",
+ "parent": "323785f1450049316a07bf1f6bf41256fb7a2917",
+ "date": "2025-10-04",
+ "subject": "Fix phone distortion and text scaling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41005
+}

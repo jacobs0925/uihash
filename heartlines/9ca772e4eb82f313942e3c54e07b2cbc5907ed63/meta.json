@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9ca772e4eb82f313942e3c54e07b2cbc5907ed63",
+ "parent": "67866b8fe60c4839bdf618fc125ea8e534bb812e",
+ "date": "2025-10-03",
+ "subject": "Fix: Make phone mockup taller on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42473
+}

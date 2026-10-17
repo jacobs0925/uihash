@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a0098737e437b2a3ebd79100ea879d4c3a8f7abf",
+ "parent": "3a763831dba2eeecf3e65fd9c69c461c201d8fbe",
+ "date": "2025-10-08",
+ "subject": "Fix carousel dragging and spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43021
+}

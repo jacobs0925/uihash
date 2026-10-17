@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "c8c3987a81137f34fa98b4b6ec9890398c028ea1",
+ "parent": "73a55bcf8f3f08786648c653e0156bc1d2ebe418",
+ "date": "2025-10-04",
+ "subject": "Fix: Reduce top padding on mobile profile modals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/PartnerQuestionnaireContent.tsx",
+  "src/components/NewPartnerProfile/components/PartnerQuestionnaireHeader.tsx",
+  "src/components/NewPartnerProfile/components/PartnerQuestionnaireLayout.tsx",
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireContent.tsx",
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireHeader.tsx",
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41298
+}

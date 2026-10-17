@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "cec184bb423f4f776995068faaac7692ee4b4981",
+ "parent": "305028442f1677314e6010701258016ea0fea1f0",
+ "date": "2025-10-07",
+ "subject": "Add Credit Report Services cost field to client addition form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51880
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "cdea7b866b5db98ba9be2c60f062ec85fb9e75de",
+ "parent": "2c4fd7ea45ee0196f4b75bd89c85eaab2682fa90",
+ "date": "2025-10-04",
+ "subject": "Refactor scaling of hero section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41909
+}

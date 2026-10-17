@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "019fbe2003e8167c50f44cb0ebf87e45aed5a5e0",
+ "parent": "f9bae83cb2bc4087c20293bb718229f5e77c6846",
+ "date": "2025-10-03",
+ "subject": "Fix: Add spacing between carousel and hero section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42233
+}

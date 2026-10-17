@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8d14bb2f59c6b48be4e4db108f997e2e77be6064",
+ "parent": "f35f7a1ee8c89c623072970ff6a5a2c934d2ffce",
+ "date": "2025-10-08",
+ "subject": "Fix: Update year gradient and add watermark",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42598
+}

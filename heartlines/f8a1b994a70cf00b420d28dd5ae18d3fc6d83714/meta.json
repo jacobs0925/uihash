@@ -1,0 +1,27 @@
+{
+ "repo": "heartlines",
+ "sha": "f8a1b994a70cf00b420d28dd5ae18d3fc6d83714",
+ "parent": "138b557486906ad36159e129d02a7ec1eb1eef9c",
+ "date": "2025-10-08",
+ "subject": "feat: Implement Hero Carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/hero-carousel/couple-on-couch.webp",
+  "src/assets/hero-carousel/cowboys-with-wheelchair.webp",
+  "src/assets/hero-carousel/elderly-native-american-women.webp",
+  "src/assets/hero-carousel/joyful-heritage-living-room.webp",
+  "src/assets/hero-carousel/manos-unidas.webp",
+  "src/assets/hero-carousel/warm-embrace-pride.webp",
+  "src/assets/hero-carousel/warm-gathering-diverse-souls.webp",
+  "src/components/HeroCarousel.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43178
+}

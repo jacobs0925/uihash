@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4a66807dea6f4e9c43e7c2853629b1dba23b048c",
+ "parent": "3784870dcc5bcfac6b02465a0e7c4b6fde9b41f4",
+ "date": "2025-10-04",
+ "subject": "Fix \"How It Works\" heading cut-off",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41016
+}

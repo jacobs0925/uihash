@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "f0645385d4c87f95ebdd73109dfadf0ef89f57fd",
+ "parent": "3c23a4bdf781cd93321a3cc66c34cf935a9f1c9d",
+ "date": "2025-10-08",
+ "subject": "feat: Optimize image loading for Year Carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx",
+  "src/config/criticalResources.ts",
+  "src/utils/imageOptimizer.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42607
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "6913d905b5d9b8b013a47cdc72d1b81acc0c8b89",
+ "parent": "34c4bb80406f528b55a4d2ad52cadb3e9a3689bd",
+ "date": "2025-10-06",
+ "subject": "Refactor: Hide all scrollbars globally",
+ "components": [
+  "index.css",
+  "styles"
+ ],
+ "files": [
+  "src/index.css",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 63675
+}

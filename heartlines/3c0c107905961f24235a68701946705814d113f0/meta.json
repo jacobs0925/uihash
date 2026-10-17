@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3c0c107905961f24235a68701946705814d113f0",
+ "parent": "cdea7b866b5db98ba9be2c60f062ec85fb9e75de",
+ "date": "2025-10-04",
+ "subject": "Fix phone distortion on wide screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41870
+}

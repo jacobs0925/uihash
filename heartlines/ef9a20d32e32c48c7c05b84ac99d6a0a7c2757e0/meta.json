@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ef9a20d32e32c48c7c05b84ac99d6a0a7c2757e0",
+ "parent": "3df8c89e3848d2ce8465fa35c27cfafb41398dfe",
+ "date": "2025-10-06",
+ "subject": "Refactor: Change RealTalk to heartlines",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 47775
+}

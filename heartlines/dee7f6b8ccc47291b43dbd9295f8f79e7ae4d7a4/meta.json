@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "dee7f6b8ccc47291b43dbd9295f8f79e7ae4d7a4",
+ "parent": "f8a1b994a70cf00b420d28dd5ae18d3fc6d83714",
+ "date": "2025-10-08",
+ "subject": "feat: Update carousel years and font",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43296
+}

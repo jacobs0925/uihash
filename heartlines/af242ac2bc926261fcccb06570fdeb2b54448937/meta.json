@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "af242ac2bc926261fcccb06570fdeb2b54448937",
+ "parent": "6913d905b5d9b8b013a47cdc72d1b81acc0c8b89",
+ "date": "2025-10-06",
+ "subject": "Fix: Prevent dark hover on menu items",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42567
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "40a956d16ca8558003c6a4ab8a1c397c3380a0b7",
+ "parent": "a0098737e437b2a3ebd79100ea879d4c3a8f7abf",
+ "date": "2025-10-08",
+ "subject": "Rebuild carousel with CSS transitions",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/YearCarouselSimple.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43102
+}

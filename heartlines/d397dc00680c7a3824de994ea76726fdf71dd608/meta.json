@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "d397dc00680c7a3824de994ea76726fdf71dd608",
+ "parent": "3cd337322278dd5ef173bc00980a5e3f730e30eb",
+ "date": "2025-10-06",
+ "subject": "Fix footer padding on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/CleanPartnerFooter.tsx",
+  "src/components/NewPersonalQuestionnaire/components/CleanQuestionnaireFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42067
+}

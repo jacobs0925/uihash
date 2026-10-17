@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "eb4c4a4e3eb3544844c25fc8992a66e6037a5bb6",
+ "parent": "d397dc00680c7a3824de994ea76726fdf71dd608",
+ "date": "2025-10-06",
+ "subject": "Fix excessive mobile spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/PartnerQuestionnaireLayout.tsx",
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41971
+}

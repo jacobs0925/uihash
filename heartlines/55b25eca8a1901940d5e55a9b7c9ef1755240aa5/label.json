@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "55b25eca8a1901940d5e55a9b7c9ef1755240aa5",
+ "date": "2025-10-06",
+ "pr": null,
+ "title": "Fix spacing on privacy page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2581 later commits"
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "47eec8715bb5a9a70e8809d593a623ae019abbb6",
+ "parent": "3027451ce60e71a46d950892816e7412bf0407a5",
+ "date": "2025-10-06",
+ "subject": "Fix: Reduce profile modal height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/PartnerQuestionnaireLayout.tsx",
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42190
+}

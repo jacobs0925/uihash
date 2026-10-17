@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "2e7e2e8162cdfe11311ccbb7f021d9b0b5385256",
+ "date": "2025-10-06",
+ "pr": null,
+ "title": "Refactor pricing plans and subscription page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2589 later commits"
+}

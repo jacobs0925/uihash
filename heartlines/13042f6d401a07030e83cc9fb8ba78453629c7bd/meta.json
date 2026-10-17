@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "13042f6d401a07030e83cc9fb8ba78453629c7bd",
+ "parent": "505dc4dff5738a618ec8bf1fceeade098ed61a1a",
+ "date": "2025-10-03",
+ "subject": "Fix mobile interface compaction",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41488
+}

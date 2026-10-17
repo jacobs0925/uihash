@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "330bdb1d9e972c9c1614cb7829856dc0cf0e73ec",
+ "date": "2025-10-05",
+ "pr": null,
+ "title": "Fix: Make SimpleHeader fixed on homepage",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2668 later commits"
+}

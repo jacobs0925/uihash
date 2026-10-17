@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "28fd72fb18593004687de8e15c9a3165e801d0b6",
+ "parent": "75fb8b73a332365d6a7e239746c2ae6eb79fa7fb",
+ "date": "2025-10-06",
+ "subject": "Refactor partner profile card benefits",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42151
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "6913d905b5d9b8b013a47cdc72d1b81acc0c8b89",
+ "date": "2025-10-06",
+ "pr": null,
+ "title": "Refactor: Hide all scrollbars globally",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2619 later commits"
+}

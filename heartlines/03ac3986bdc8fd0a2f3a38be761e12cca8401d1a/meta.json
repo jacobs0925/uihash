@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "03ac3986bdc8fd0a2f3a38be761e12cca8401d1a",
+ "parent": "f695c9a7505e6377989345dbd2d67daa6b004e8e",
+ "date": "2025-10-06",
+ "subject": "Fix Terms page icon cutoff",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Terms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 55485
+}

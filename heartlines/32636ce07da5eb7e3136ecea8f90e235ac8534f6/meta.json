@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "32636ce07da5eb7e3136ecea8f90e235ac8534f6",
+ "parent": "e2660e567299c9c2bd3dafc63e5ea13a3bc5df89",
+ "date": "2025-10-08",
+ "subject": "Add 3 more WebP images to carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/elderly-couple-warm-vintage-living-room.webp",
+  "src/assets/elderly-friends-cats-city-apartment.webp",
+  "src/assets/elderly-women-peace-retro-living-room.webp",
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42575
+}

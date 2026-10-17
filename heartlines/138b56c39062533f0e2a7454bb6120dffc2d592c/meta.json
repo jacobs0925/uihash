@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "138b56c39062533f0e2a7454bb6120dffc2d592c",
+ "parent": "4a424955fcd9ffacdec904abaad34049a9cd6c78",
+ "date": "2025-10-06",
+ "subject": "feat: Update account page styling and functionality",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/account/AccountLayout.tsx",
+  "src/components/account/AccountProfile.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41877
+}

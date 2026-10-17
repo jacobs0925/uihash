@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "df34ad33839472604b40ab7938e27f4bfbed6217",
+ "parent": "25b7c2781e6a3f8e02cd033f632e300324d6fb6f",
+ "date": "2025-10-08",
+ "subject": "Refactor: Use logo image for watermark",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41693
+}

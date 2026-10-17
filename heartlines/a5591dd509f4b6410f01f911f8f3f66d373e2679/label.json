@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "a5591dd509f4b6410f01f911f8f3f66d373e2679",
+ "date": "2025-10-04",
+ "pr": null,
+ "title": "Refactor safety system",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by cf13fad6, which restored e3fda92d (2 commits discarded)"
+}

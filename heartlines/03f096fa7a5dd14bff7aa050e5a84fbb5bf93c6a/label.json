@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "03f096fa7a5dd14bff7aa050e5a84fbb5bf93c6a",
+ "date": "2025-10-06",
+ "pr": null,
+ "title": "Fix scrolling on pricing page",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 48px → 96px undone by e8235002 \"Visual edit in Lovable\"; padding-top: 48px → 96px undone by e8235002 \"Visual edit in Lovable\"; padding-top: 48px → 96px undone by e8235002 \"Visual edit in Lovable\""
+}

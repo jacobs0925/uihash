@@ -1,0 +1,22 @@
+{
+ "repo": "primerate",
+ "sha": "fd3e696f2dcd32771946d293778f04eefa644b95",
+ "parent": "fe10d08ff54f7985620359d3d02b0ce4bd5fc90e",
+ "date": "2025-10-07",
+ "subject": "Add ability to customize login page background from dashboard",
+ "components": [
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "client/src/contexts/BackgroundContext.tsx",
+  "client/src/pages/AdminDashboard.tsx",
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 56611
+}

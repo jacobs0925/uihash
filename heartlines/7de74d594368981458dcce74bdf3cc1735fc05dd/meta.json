@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "7de74d594368981458dcce74bdf3cc1735fc05dd",
+ "parent": "999c5fd13dad08a869934f2c1cb7226c21759e1d",
+ "date": "2025-10-08",
+ "subject": "Fix: Keep navigation always visible",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/hooks/usePullToReveal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42162
+}

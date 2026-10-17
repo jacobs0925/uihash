@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c19b983c72f505e24c34a9b104929466b2325c75",
+ "parent": "6384bfffb8c201bcc6c3d9b7a5f0fcd91588724c",
+ "date": "2025-10-06",
+ "subject": "Fix privacy page navigation icons and spacing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 56191
+}

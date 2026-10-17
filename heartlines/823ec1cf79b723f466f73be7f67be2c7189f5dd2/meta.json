@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "823ec1cf79b723f466f73be7f67be2c7189f5dd2",
+ "parent": "0260bbc70cdc9a7c50a0c89251d542b6c362bd87",
+ "date": "2025-10-04",
+ "subject": "Refine phone spacing on wide screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41020
+}

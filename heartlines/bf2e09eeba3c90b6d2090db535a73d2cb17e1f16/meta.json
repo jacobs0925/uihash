@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "bf2e09eeba3c90b6d2090db535a73d2cb17e1f16",
+ "parent": "7de74d594368981458dcce74bdf3cc1735fc05dd",
+ "date": "2025-10-08",
+ "subject": "Refactor: Update hero carousel gradient",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42209
+}

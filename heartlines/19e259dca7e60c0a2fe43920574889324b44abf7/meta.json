@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "19e259dca7e60c0a2fe43920574889324b44abf7",
+ "parent": "13042f6d401a07030e83cc9fb8ba78453629c7bd",
+ "date": "2025-10-03",
+ "subject": "Fix: Ensure mobile nav is visible on load",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41174
+}

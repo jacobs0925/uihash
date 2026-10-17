@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "fb7d15966ce88027a3a244b5380cf8a73515e311",
+ "parent": "9070ea1cbfbfec17b92e43bb532dac94dc90bcca",
+ "date": "2025-10-03",
+ "subject": "Fix: Change progress bar text color",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41071
+}

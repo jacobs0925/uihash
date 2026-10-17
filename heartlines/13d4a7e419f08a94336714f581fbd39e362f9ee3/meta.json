@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "13d4a7e419f08a94336714f581fbd39e362f9ee3",
+ "parent": "cb02c6751c67fe809f7404fb07715a5d0aeaf314",
+ "date": "2025-10-06",
+ "subject": "Fix: Implement profile data persistence and display fixes",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/index.tsx",
+  "src/components/NewPersonalQuestionnaire/index.tsx",
+  "src/components/ProfileBuilder.tsx",
+  "src/components/ProfileBuilder/ProfileAnswersDisplay.tsx",
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42200
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "968783cd524c805750c19350153107589d285502",
+ "date": "2025-10-04",
+ "pr": null,
+ "title": "Reverted to commit e3fda92d8350286f0bc45f1f6cda587f93694fc7",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"6. Disclaimer & Safety Information\" → \"6. Disclaimer\" undone by a719800c \"feat: Implement crisis training and update terms\"; text: \"heartlines␟provides relationship coachin\" → \"heartlines␟provides relationship coachin\" undone by a719800c \"feat: Implement crisis training and update terms\"; text: \"6. Disclaimer & Safety Information\" → \"6. Disclaimer\" undone by a719800c \"feat: Implement crisis training and update terms\""
+}

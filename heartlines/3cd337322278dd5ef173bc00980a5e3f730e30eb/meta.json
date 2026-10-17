@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "3cd337322278dd5ef173bc00980a5e3f730e30eb",
+ "parent": "f7702a5136843f054ea6ab5d98c4a52c4077b016",
+ "date": "2025-10-06",
+ "subject": "Fix mobile profile centering and proportions",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/PartnerQuestionnaireLayout.tsx",
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42135
+}

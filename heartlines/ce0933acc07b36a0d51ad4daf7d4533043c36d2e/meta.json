@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "ce0933acc07b36a0d51ad4daf7d4533043c36d2e",
+ "parent": "29282a8980d93cbb26c63960510e9e0cbf40ade0",
+ "date": "2025-10-06",
+ "subject": "Refactor: Standardize navigation menus",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/SimpleHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41803
+}

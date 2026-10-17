@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "305028442f1677314e6010701258016ea0fea1f0",
+ "parent": "3d6fd20a5c6dc6a7de58a569651530838b7f6ee1",
+ "date": "2025-10-07",
+ "subject": "Adjust completion bar position in client quote section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51545
+}

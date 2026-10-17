@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "333547416e30fd89a021c4e98f7ecf11f29fa3de",
+ "parent": "099d2de03147ec6a4a268ee3e0c9895dfcbb429c",
+ "date": "2025-10-06",
+ "subject": "Fix: Adjust spacing for profile incomplete state",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42397
+}

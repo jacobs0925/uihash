@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "b434d3b5531c634ba7dc4c2777950e7457971c6b",
+ "date": "2025-10-04",
+ "pr": null,
+ "title": "Refactor: Implement safety protocols",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2674 later commits"
+}

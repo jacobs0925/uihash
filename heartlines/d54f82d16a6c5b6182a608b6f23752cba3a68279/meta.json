@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d54f82d16a6c5b6182a608b6f23752cba3a68279",
+ "parent": "2d30392032824e2caf97a2b61c50b9b3e5b07bcd",
+ "date": "2025-10-06",
+ "subject": "Fix mobile profile modal height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41491
+}

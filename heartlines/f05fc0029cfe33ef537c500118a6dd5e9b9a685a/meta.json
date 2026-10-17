@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f05fc0029cfe33ef537c500118a6dd5e9b9a685a",
+ "parent": "fc3572f34c37d0fea02cc1e704df7d5518767f2e",
+ "date": "2025-10-06",
+ "subject": "Fix: Adjust nudge height for better visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41420
+}

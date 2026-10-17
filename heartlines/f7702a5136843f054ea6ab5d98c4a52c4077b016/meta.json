@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "f7702a5136843f054ea6ab5d98c4a52c4077b016",
+ "parent": "3ee7627a93d7c4313820fb9a24b1c2a22f3c14e6",
+ "date": "2025-10-06",
+ "subject": "Fix mobile profile visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/PartnerQuestionnaireLayout.tsx",
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42271
+}

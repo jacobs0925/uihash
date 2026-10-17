@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "cb02c6751c67fe809f7404fb07715a5d0aeaf314",
+ "parent": "1804e77655191912f68f26682a6a00c195365a29",
+ "date": "2025-10-06",
+ "subject": "Fix: Prevent desktop chat collapse",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42272
+}

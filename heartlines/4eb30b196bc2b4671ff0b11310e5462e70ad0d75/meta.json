@@ -1,0 +1,25 @@
+{
+ "repo": "heartlines",
+ "sha": "4eb30b196bc2b4671ff0b11310e5462e70ad0d75",
+ "parent": "64f4400ff99e37979415d14c15f3e8d2d6a5aa81",
+ "date": "2025-10-06",
+ "subject": "Refactor: Remove /privacy route",
+ "components": [
+  "App.tsx",
+  "components",
+  "hooks",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/DashboardNavigation.tsx",
+  "src/hooks/useDashboardModalState.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42033
+}

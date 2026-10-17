@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1fd5204687117b680ca365a0bd701b7dfd45cdcd",
+ "parent": "787d1e976d746d69a328445870c92bd88f058ac4",
+ "date": "2025-10-06",
+ "subject": "Fix spacing around coaching button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42013
+}

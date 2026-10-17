@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "36881588b52340168e8d816c9b386df7464cb16b",
+ "parent": "4ec60caf527ffb122aebad5fa592bb7589ba7112",
+ "date": "2025-10-06",
+ "subject": "Fix homepage navigation positioning",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42285
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "e8da46533baff3ff3232c5ee2ee361548a4cdf56",
+ "parent": "3c0c107905961f24235a68701946705814d113f0",
+ "date": "2025-10-04",
+ "subject": "Fix phone distortion by limiting size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41759
+}

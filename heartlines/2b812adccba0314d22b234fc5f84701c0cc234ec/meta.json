@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "2b812adccba0314d22b234fc5f84701c0cc234ec",
+ "parent": "6d5ac84397a3d059350de77d4c0b530315c50cb0",
+ "date": "2025-10-06",
+ "subject": "Refactor: Remove \"Sign in\" text",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 48335
+}

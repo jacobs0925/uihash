@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f084a6d6dd59b619e431228919bd8fd7e4257827",
+ "parent": "54d0ad4e775e383072c78a262c893401962a5e9e",
+ "date": "2025-10-06",
+ "subject": "Refactor: Use star icon for profile tips",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder/ProfileTips.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42300
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "2b812adccba0314d22b234fc5f84701c0cc234ec",
+ "date": "2025-10-06",
+ "pr": null,
+ "title": "Refactor: Remove \"Sign in\" text",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "width: auto → 40px undone by 4a424955 \"Refactor: Update privacy page navigation\"; width: auto → 40px undone by 4a424955 \"Refactor: Update privacy page navigation\"; width: auto → 40px undone by 4a424955 \"Refactor: Update privacy page navigation\""
+}

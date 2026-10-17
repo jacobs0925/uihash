@@ -1,0 +1,29 @@
+{
+ "repo": "heartlines",
+ "sha": "e2660e567299c9c2bd3dafc63e5ea13a3bc5df89",
+ "parent": "f4324d98b31d29b6f925d5e0b9eb29825df0a9d0",
+ "date": "2025-10-08",
+ "subject": "Refactor: Replace carousel PNGs with WebP",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/elderly-asian-couple-modern-apartment.webp",
+  "src/assets/elderly-couple-heritage-living-room.webp",
+  "src/assets/elderly-couple-pride-living-room.webp",
+  "src/assets/elderly-couple-vintage-living-room.webp",
+  "src/assets/elderly-cowboys-hands-together.webp",
+  "src/assets/elderly-cowboys-southwestern-living-room.webp",
+  "src/assets/elderly-man-portrait.webp",
+  "src/assets/elderly-native-american-women.webp",
+  "src/assets/warm-gathering-diverse-souls.webp",
+  "src/components/YearCarousel.tsx",
+  "src/config/criticalResources.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41881
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "1d0ac5c9a46f42c42654dd862c8f55ad5ccfd2c2",
+ "parent": "642774076dbc8759576070b7971f8fcadd32e04e",
+ "date": "2025-10-08",
+ "subject": "feat: Add new images to carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/hero-carousel/asian-couple-serene-moment.webp",
+  "src/assets/hero-carousel/friends-cats-city-view.webp",
+  "src/assets/hero-carousel/man-with-treasured-memory.webp",
+  "src/assets/hero-carousel/retro-peace-living-room.webp",
+  "src/assets/hero-carousel/warm-smiles-vintage-home.webp",
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43827
+}

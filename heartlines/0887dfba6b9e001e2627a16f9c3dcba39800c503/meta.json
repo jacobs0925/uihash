@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0887dfba6b9e001e2627a16f9c3dcba39800c503",
+ "parent": "2e7e2e8162cdfe11311ccbb7f021d9b0b5385256",
+ "date": "2025-10-06",
+ "subject": "Add spacing to ProfileBuilder",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42001
+}

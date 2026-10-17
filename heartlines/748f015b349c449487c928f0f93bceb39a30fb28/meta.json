@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "748f015b349c449487c928f0f93bceb39a30fb28",
+ "parent": "28fd72fb18593004687de8e15c9a3165e801d0b6",
+ "date": "2025-10-06",
+ "subject": "Update profile tips content",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder/ProfileTips.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42597
+}

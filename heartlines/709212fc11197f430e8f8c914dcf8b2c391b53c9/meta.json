@@ -1,0 +1,41 @@
+{
+ "repo": "heartlines",
+ "sha": "709212fc11197f430e8f8c914dcf8b2c391b53c9",
+ "parent": "b52145b6c7ebc544d85eaf76be57876b6a22553d",
+ "date": "2025-10-15",
+ "subject": "Refactor: Lowercase profile text elements",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/PartnerQuestionnaireHeader.tsx",
+  "src/components/NewPartnerProfile/components/questions/PartnerAgeCard.tsx",
+  "src/components/NewPartnerProfile/components/questions/PartnerAttachmentCard.tsx",
+  "src/components/NewPartnerProfile/components/questions/PartnerCommunicationResponseCard.tsx",
+  "src/components/NewPartnerProfile/components/questions/PartnerConflictCard.tsx",
+  "src/components/NewPartnerProfile/components/questions/PartnerFamilyDynamicCard.tsx",
+  "src/components/NewPartnerProfile/components/questions/PartnerGenderCard.tsx",
+  "src/components/NewPartnerProfile/components/questions/PartnerHeartbreakBetrayalCard.tsx",
+  "src/components/NewPartnerProfile/components/questions/PartnerLoveLanguageCard.tsx",
+  "src/components/NewPartnerProfile/components/questions/PartnerOrientationCard.tsx",
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireHeader.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/HowYouOperate/ConflictStyleQuestion.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/HowYouOperate/LoveLanguageQuestion.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/HowYouOperate/StressResponseQuestion.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/WhoYouAre/AgeSelectionCard.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/WhoYouAre/GenderSelectionCard.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/WhoYouAre/OrientationSelectionCard.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/YourFoundation/AttachmentStyleQuestion.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/YourFoundation/FamilyStructureQuestion.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/YourFoundation/HeartbreakBetrayalQuestion.tsx",
+  "src/components/NewPersonalQuestionnaire/components/shared/OptionalGroup.tsx",
+  "src/components/PartnerProfileQuestionnaire/PartnerPronounsSelection.tsx",
+  "src/components/PersonalProfileQuestionnaire/AgeSelection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47723
+}

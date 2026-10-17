@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f5565b6e32e1bfbdccd5f803469bd32defe985e2",
+ "parent": "b3bb0ee4f1c3b532c3570cb1d17e263cfd1380da",
+ "date": "2025-10-16",
+ "subject": "Refactor: Reduce tagline image size",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 53131
+}

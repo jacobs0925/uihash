@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1460d8a70d605fbb630ba8abe654cb3206b44193",
+ "parent": "3b7bcf52175b81d69c1da9ee078546f10aa917c3",
+ "date": "2025-10-16",
+ "subject": "Fix: Reduce spacing above \"our moment\" section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 61871
+}

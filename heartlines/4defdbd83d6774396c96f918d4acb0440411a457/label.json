@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "4defdbd83d6774396c96f918d4acb0440411a457",
+ "date": "2025-10-14",
+ "pr": null,
+ "title": "Fix: Adjust phone icon size for consistency",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2121 later commits"
+}

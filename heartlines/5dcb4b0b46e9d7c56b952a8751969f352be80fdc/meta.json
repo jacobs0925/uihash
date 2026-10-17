@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5dcb4b0b46e9d7c56b952a8751969f352be80fdc",
+ "parent": "2a57f7336c881f5ba8cc217dfc9a19dbe39276e5",
+ "date": "2025-10-14",
+ "subject": "Update footer text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SiteFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 61676
+}

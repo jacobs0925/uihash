@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "586deb00ab983a1f5cfc1d3bc74d3f45e5d90028",
+ "parent": "705ca72d4c9d696a3ebc6f51513f05b1bded499a",
+ "date": "2025-10-16",
+ "subject": "Fix: Update nav avatar to empty heart",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47074
+}

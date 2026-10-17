@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "1baafc3b0eb56e4f0aa7e59b5c34f631332220f7",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Refactor: Level up Mission page design",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "border-top-width: 4px → 1px undone by 4743500c \"Reverted to commit 549d901223ad72c72ed163b3c43c6a0156063d01\"; padding-top: 32px → 0px undone by 4743500c \"Reverted to commit 549d901223ad72c72ed163b3c43c6a0156063d01\"; padding-right: 32px → 0px undone by 4743500c \"Reverted to commit 549d901223ad72c72ed163b3c43c6a0156063d01\""
+}

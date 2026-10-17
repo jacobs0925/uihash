@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "881e3c03345e5eb568ffee7b9dbde96159f5c711",
+ "parent": "91b05394e270334442cc2e3d992536ce6040f3c7",
+ "date": "2025-10-14",
+ "subject": "Fix text and icon sizing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47679
+}

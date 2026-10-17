@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "c0a8ebc411eb34632d6b8e25b70504ca761e74da",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Reverted to commit e13be84da893f31912c82c35540f5f157bbaa5b7",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: flex → block undone by e63d0ac7 \"feat: Replace globe emoji with icon\"; display: flex → block undone by e63d0ac7 \"feat: Replace globe emoji with icon\""
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "3485bfb790d2465d230b8cc43a116c1aceca9182",
+ "parent": "a2878df091a7dfe2b9a60fa103607b20fafd16df",
+ "date": "2025-10-15",
+ "subject": "Reverted to commit bccdcc778d179ff728fbcb1fde86c67e90fbe7fc",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder/CardAvatar.tsx",
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47127
+}

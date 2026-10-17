@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2a6d13c8c7da8d841d2d376dbb8dc6ccdc51bd97",
+ "parent": "cc19f22fe574939c0fd9c93b9d22b986116dd066",
+ "date": "2025-10-14",
+ "subject": "Fix: Move phone icon to right",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47238
+}

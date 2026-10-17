@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8d30e2a4a94e4b4bc1af53a20a04299f07b57e30",
+ "parent": "58288db673459cecf6332d26ce7e13cdf903183c",
+ "date": "2025-10-14",
+ "subject": "Fix: Update homepage nav CTA to \"get started\"",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47350
+}

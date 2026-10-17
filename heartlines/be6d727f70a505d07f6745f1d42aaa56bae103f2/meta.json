@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "be6d727f70a505d07f6745f1d42aaa56bae103f2",
+ "parent": "f189d17954b4b2d4065dc33d2f47e22354144b03",
+ "date": "2025-10-15",
+ "subject": "Fix: Center initials and ensure consistent size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx",
+  "src/components/ProfileBuilder/CardAvatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47625
+}

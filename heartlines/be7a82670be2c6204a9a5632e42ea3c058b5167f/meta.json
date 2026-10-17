@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "be7a82670be2c6204a9a5632e42ea3c058b5167f",
+ "parent": "1baafc3b0eb56e4f0aa7e59b5c34f631332220f7",
+ "date": "2025-10-15",
+ "subject": "Refactor: Implement profile save plan",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/Demographics/PersonalIdentity.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/WhoYouAre/NamePronounsCard.tsx",
+  "src/components/SaveIndicator.tsx",
+  "src/hooks/usePersonalProfileData.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48501
+}

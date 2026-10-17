@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "797e6d0e71b6cd4d1fa2b22bbc7ccc990043d89c",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Fix: Add scroll class to mission page",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "overflow-x: ∅ → hidden undone by 9080f223 \"Reverted to commit 598b70d59366853cbfc4b9f63762f73541e05493\"; overflow-x: ∅ → hidden undone by 9080f223 \"Reverted to commit 598b70d59366853cbfc4b9f63762f73541e05493\"; overflow-x: ∅ → hidden undone by 9080f223 \"Reverted to commit 598b70d59366853cbfc4b9f63762f73541e05493\""
+}

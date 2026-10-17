@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "1d5ccfad71d9a69e4f8175a07f2148c88e003d3a",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Fix: Update Privacy & Security page accuracy",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2059 later commits"
+}

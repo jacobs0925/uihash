@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e53947547f917a2037d1766eb885c210cfe311e3",
+ "parent": "5f3ca3cbc4fb13002a824422425a914527babd9c",
+ "date": "2025-10-14",
+ "subject": "Refactor: Add conditional navigation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47398
+}

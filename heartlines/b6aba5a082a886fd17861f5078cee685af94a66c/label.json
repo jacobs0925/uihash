@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "b6aba5a082a886fd17861f5078cee685af94a66c",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Remove \"chat with kai\" button",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2005 later commits"
+}

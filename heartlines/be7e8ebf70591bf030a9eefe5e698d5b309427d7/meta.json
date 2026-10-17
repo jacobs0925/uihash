@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "be7e8ebf70591bf030a9eefe5e698d5b309427d7",
+ "parent": "95b46672c6f1fb06e6225dfcba521b43d6cb51b1",
+ "date": "2025-10-15",
+ "subject": "Fix: Increase avatar initial font size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AvatarUpload.tsx",
+  "src/components/NewPartnerProfile/components/questions/PartnerNamePronounsCard.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/WhoYouAre/NamePronounsCard.tsx",
+  "src/components/PersonalProfileQuestionnaire/QuestionnaireSection1.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47281
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a1badfc735b108b8eee85db897a153a754979a9f",
+ "parent": "96cb72fae5524b79a756f25d160c1c192282d2d6",
+ "date": "2025-10-16",
+ "subject": "feat: Update privacy features section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 10,
+ "ms": 61314
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "b944aab2ea232585b6d7a442c3eb31d86bc48832",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Reverted to commit ab86ea54236658f62cad1b8326a2a47e2f532d98",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "position: relative → ∅ undone by 43f28c18 \"Reverted to commit be7a82670be2c6204a9a5632e42ea3c058b5167f\"; display: block → grid undone by 43f28c18 \"Reverted to commit be7a82670be2c6204a9a5632e42ea3c058b5167f\"; margin-bottom: 0px → 24px undone by 43f28c18 \"Reverted to commit be7a82670be2c6204a9a5632e42ea3c058b5167f\""
+}

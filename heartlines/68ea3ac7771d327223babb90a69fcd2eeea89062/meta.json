@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "68ea3ac7771d327223babb90a69fcd2eeea89062",
+ "parent": "c0a8ebc411eb34632d6b8e25b70504ca761e74da",
+ "date": "2025-10-16",
+ "subject": "Fix: Position \"powered by laurie ai\" with absolute positioning",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 62851
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "6f683664a6222d1609cb2f0e45adbd67ff963a74",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "feat: Implement Mission page redesign",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: block → flex undone by ab86ea54 \"Refactor \"Our Moment\" section\"; display: block → flex undone by ab86ea54 \"Refactor \"Our Moment\" section\"; display: block → flex undone by ab86ea54 \"Refactor \"Our Moment\" section\""
+}

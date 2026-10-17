@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "a9ab5b5fd066316f81c7f8bf6b6d0d49dd85f480",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Update hero image",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2036 later commits"
+}

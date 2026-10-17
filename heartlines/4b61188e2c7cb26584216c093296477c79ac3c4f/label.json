@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "4b61188e2c7cb26584216c093296477c79ac3c4f",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Fix: Apply brand font to \"heartlines\"",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2002 later commits"
+}

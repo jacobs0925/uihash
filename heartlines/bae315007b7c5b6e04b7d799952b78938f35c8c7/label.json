@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "bae315007b7c5b6e04b7d799952b78938f35c8c7",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Remove element from privacy page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2058 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "5d0a55f3efcdfe57ba728fda2cf8d044fbb7dfbb",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Reverted to commit 25208f6bb3ea8c630e47c9dbcad799ae715baaaa",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "align-items: flex-start → center undone by eab5a846 \"Align elements to the left\"; align-items: flex-start → center undone by eab5a846 \"Align elements to the left\"; align-items: flex-start → center undone by eab5a846 \"Align elements to the left\""
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "a1af5969aae4db69514828965a95671e8f9ad8c2",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Refactor: Change \"company\" to \"organization\"",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2031 later commits"
+}

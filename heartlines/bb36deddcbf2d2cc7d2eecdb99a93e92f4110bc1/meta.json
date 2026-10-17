@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "bb36deddcbf2d2cc7d2eecdb99a93e92f4110bc1",
+ "parent": "454245875535f39b0293bcfc9bf3d3d944cce8ba",
+ "date": "2025-10-14",
+ "subject": "Fix: Lowercase chat header text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47220
+}

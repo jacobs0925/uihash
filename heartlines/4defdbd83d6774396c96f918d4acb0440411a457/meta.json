@@ -1,0 +1,25 @@
+{
+ "repo": "heartlines",
+ "sha": "4defdbd83d6774396c96f918d4acb0440411a457",
+ "parent": "52059fd0c3da2f0ec730a089624cb121d51a989f",
+ "date": "2025-10-14",
+ "subject": "Fix: Adjust phone icon size for consistency",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/NavigationPullTab.tsx",
+  "src/components/SimpleHeader.tsx",
+  "src/components/chat/ChatLayout.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 72836
+}

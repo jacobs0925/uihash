@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2e2fb7e7286f1ff111cf5f4cb6de0a60ab2ba69b",
+ "parent": "537f3efdebe25b45b368d4cdbff78f5ffd45374b",
+ "date": "2025-10-16",
+ "subject": "Restore heart shape to NavAvatar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NavAvatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46351
+}

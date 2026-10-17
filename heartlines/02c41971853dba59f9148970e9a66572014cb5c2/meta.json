@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "02c41971853dba59f9148970e9a66572014cb5c2",
+ "parent": "881e3c03345e5eb568ffee7b9dbde96159f5c711",
+ "date": "2025-10-14",
+ "subject": "Fix: Adjust text wrapping on ultra-wide screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47627
+}

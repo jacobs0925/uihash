@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0d2d51c5a9ec15ba2086285cabb6c87775561d3b",
+ "parent": "7ade7f1c3b7f2f305fdafcf9c9088566aa59bd19",
+ "date": "2025-10-15",
+ "subject": "Fix: Defer profile completion event dispatch",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useDashboardModalHandlers.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47572
+}

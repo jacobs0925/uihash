@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "03c015c50e27a14c16dbc9f89b0e2a0741373b7e",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Reverted to commit be7a82670be2c6204a9a5632e42ea3c058b5167f",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"ai isn't going anywhere. and neither is \" → \"ai isn't going anywhere. and neither are\" undone by 0e99c326 \"feat: Implement spinning globe and update text\"; text: \"ai isn't going anywhere. and neither is \" → \"ai isn't going anywhere. and neither are\" undone by 0e99c326 \"feat: Implement spinning globe and update text\"; text: \"ai isn't going anywhere. and neither is \" → \"ai isn't going anywhere. and neither are\" undone by 0e99c326 \"feat: Implement spinning globe and update text\""
+}

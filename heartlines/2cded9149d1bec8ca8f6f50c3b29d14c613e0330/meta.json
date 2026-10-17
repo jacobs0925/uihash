@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2cded9149d1bec8ca8f6f50c3b29d14c613e0330",
+ "parent": "d1816fda121838f675518ab4d98de05d59c30f37",
+ "date": "2025-10-14",
+ "subject": "Refactor CTA button styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HowItWorksSwipe.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47291
+}

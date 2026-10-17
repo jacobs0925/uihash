@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "eab5a846ea27cc7ad4d2112bbca463fd5a5612e3",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Align elements to the left",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 5d0a55f3, which restored 25208f6b (1 commit discarded)"
+}

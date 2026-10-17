@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "110ad929e5be52a0f8ae9ad84db3e8a367aa9876",
+ "parent": "794c96fe061a636ad02b4a16ffe937b2824ee65a",
+ "date": "2025-10-14",
+ "subject": "Remove eye emoji from CTA",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47201
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "e13be84da893f31912c82c35540f5f157bbaa5b7",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Adjust tagline image size and position",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1995 later commits"
+}

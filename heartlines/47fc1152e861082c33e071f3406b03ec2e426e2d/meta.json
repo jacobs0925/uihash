@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "47fc1152e861082c33e071f3406b03ec2e426e2d",
+ "parent": "15fdfdd4344d4f25eb9da13fec4ca9fc2487141a",
+ "date": "2025-10-14",
+ "subject": "Fix: Correct gradient direction in HeroCarousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx",
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47273
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d1816fda121838f675518ab4d98de05d59c30f37",
+ "parent": "93dd88225c4d79abe4513cb74d9ba10e0e9f5ee9",
+ "date": "2025-10-14",
+ "subject": "Refactor: Update carousel CTA button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HowItWorksSwipe.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47609
+}

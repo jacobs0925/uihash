@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "0e99c3267b0fe954d1a35875d799b7e4004510b6",
+ "parent": "be7a82670be2c6204a9a5632e42ea3c058b5167f",
+ "date": "2025-10-15",
+ "subject": "feat: Implement spinning globe and update text",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/components/Globe.tsx",
+  "src/index.css",
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 64786
+}

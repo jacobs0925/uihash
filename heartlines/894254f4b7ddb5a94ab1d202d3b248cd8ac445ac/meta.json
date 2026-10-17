@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "894254f4b7ddb5a94ab1d202d3b248cd8ac445ac",
+ "parent": "8c468c2e360058ad9020d42319d1896b05e914c5",
+ "date": "2025-10-15",
+ "subject": "Refactor: Replace Settings icon with CardAvatar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47525
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "15fdfdd4344d4f25eb9da13fec4ca9fc2487141a",
+ "parent": "1e6b9a146d1b4b130a964adf686fca52f5868669",
+ "date": "2025-10-14",
+ "subject": "feat: Add \"Chat with Kai\" CTA to phone animation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47082
+}

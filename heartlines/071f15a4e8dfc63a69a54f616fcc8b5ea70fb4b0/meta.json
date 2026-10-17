@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "071f15a4e8dfc63a69a54f616fcc8b5ea70fb4b0",
+ "parent": "54f9b3e0fad4af1c8e25e722c6b4ea8ace97ac55",
+ "date": "2025-10-14",
+ "subject": "Fix: Improve year number gradient contrast",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx",
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47395
+}

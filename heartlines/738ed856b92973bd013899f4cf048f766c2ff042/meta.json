@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "738ed856b92973bd013899f4cf048f766c2ff042",
+ "parent": "9b041ba4054d49da7b8d9b2b42b6f6caa0087904",
+ "date": "2025-10-14",
+ "subject": "Fix button width and hover effects",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47082
+}

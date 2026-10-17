@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "02cfa2cf1c02ec1bc3970d58dc23a0528243a80f",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Improve text layout",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "color: rgba(255, 255, 255, 0.9) → ∅ undone by 6efe20b7 \"Refactor: Move \"Powered by Laurie AI\" section\"; font-weight: 300 → ∅ undone by 6efe20b7 \"Refactor: Move \"Powered by Laurie AI\" section\"; font-size: 20px → 18px undone by 6efe20b7 \"Refactor: Move \"Powered by Laurie AI\" section\""
+}

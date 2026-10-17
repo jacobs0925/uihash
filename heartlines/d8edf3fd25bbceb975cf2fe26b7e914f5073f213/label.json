@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "d8edf3fd25bbceb975cf2fe26b7e914f5073f213",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Center hero text elements",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1989 later commits"
+}

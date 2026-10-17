@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a1af5969aae4db69514828965a95671e8f9ad8c2",
+ "parent": "b2954e3642d4cabb693ee6e823130ab1b3242db6",
+ "date": "2025-10-15",
+ "subject": "Refactor: Change \"company\" to \"organization\"",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 51547
+}

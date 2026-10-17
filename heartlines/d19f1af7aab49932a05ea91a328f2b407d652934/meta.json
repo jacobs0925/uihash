@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "d19f1af7aab49932a05ea91a328f2b407d652934",
+ "parent": "22962130e71448531068308c8589c8e3fbeb5279",
+ "date": "2025-10-14",
+ "subject": "Fix: Ensure consistent phone icon sizing on desktop",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/NavigationPullTab.tsx",
+  "src/components/SimpleHeader.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47955
+}

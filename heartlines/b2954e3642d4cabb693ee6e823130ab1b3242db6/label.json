@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "b2954e3642d4cabb693ee6e823130ab1b3242db6",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Refactor: Update \"Join the Movement\" section",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "margin-bottom: 24px → 0px undone by b944aab2 \"Reverted to commit ab86ea54236658f62cad1b8326a2a47e2f532d98\"; margin-bottom: 24px → 0px undone by b944aab2 \"Reverted to commit ab86ea54236658f62cad1b8326a2a47e2f532d98\"; margin-bottom: 24px → 0px undone by b944aab2 \"Reverted to commit ab86ea54236658f62cad1b8326a2a47e2f532d98\""
+}

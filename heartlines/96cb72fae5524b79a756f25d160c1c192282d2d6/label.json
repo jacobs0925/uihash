@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "96cb72fae5524b79a756f25d160c1c192282d2d6",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Reverted to commit 1460d8a70d605fbb630ba8abe654cb3206b44193",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "fill: ∅ → rgb(236, 122, 81) undone by c0a8ebc4 \"Reverted to commit e13be84da893f31912c82c35540f5f157bbaa5b7\"; fill: ∅ → rgb(236, 122, 81) undone by c0a8ebc4 \"Reverted to commit e13be84da893f31912c82c35540f5f157bbaa5b7\""
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "80d516f8668005c0b815882753b40608e39ae173",
+ "parent": "4e02b97cf0a93938e7c354a64741ab6467c0a0a9",
+ "date": "2025-10-15",
+ "subject": "Fix: Resolve SVG ID collision in CardAvatar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder/CardAvatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47741
+}

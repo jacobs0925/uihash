@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4b82a17dea0e54b7c114a96ef75b2581b8b830b4",
+ "parent": "279689f0f9d2ec1739a0edb38445634d9029cedc",
+ "date": "2025-10-16",
+ "subject": "feat: Add \"build with us\" button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 53193
+}

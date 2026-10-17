@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b3bebde570bf5125cbadbfba4fb0401bb3892e89",
+ "parent": "2a6d13c8c7da8d841d2d376dbb8dc6ccdc51bd97",
+ "date": "2025-10-14",
+ "subject": "Fix: Update \"Get Started\" button text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47398
+}

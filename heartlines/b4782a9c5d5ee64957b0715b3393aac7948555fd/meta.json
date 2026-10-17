@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b4782a9c5d5ee64957b0715b3393aac7948555fd",
+ "parent": "d224d33c91e3abf24233c2e3f238476667b34f7f",
+ "date": "2025-10-14",
+ "subject": "Refactor: Update landing page button text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47182
+}

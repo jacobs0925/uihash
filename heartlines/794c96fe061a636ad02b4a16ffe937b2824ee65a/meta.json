@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "794c96fe061a636ad02b4a16ffe937b2824ee65a",
+ "parent": "ef7ff5eafa2939aee62678c4556acc1f23cc16e5",
+ "date": "2025-10-14",
+ "subject": "Fix: Use brand hex colors for year gradient",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx",
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47159
+}

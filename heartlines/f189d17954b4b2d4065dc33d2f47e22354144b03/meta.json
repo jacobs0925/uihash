@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f189d17954b4b2d4065dc33d2f47e22354144b03",
+ "parent": "be7e8ebf70591bf030a9eefe5e698d5b309427d7",
+ "date": "2025-10-15",
+ "subject": "Fix: Make avatar initial larger and consistent",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47403
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "52b107f20204b8586777179caf5703f4e5aa5bde",
+ "parent": "d4bfac00b81dacba5a234b91be021b18ec7304ae",
+ "date": "2025-10-14",
+ "subject": "Fix: Adjust navigation header sizing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47541
+}

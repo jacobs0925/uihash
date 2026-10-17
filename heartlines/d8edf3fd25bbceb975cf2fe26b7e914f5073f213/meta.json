@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d8edf3fd25bbceb975cf2fe26b7e914f5073f213",
+ "parent": "ea4b16a6fdefc057eb3b4b683264491bbd854636",
+ "date": "2025-10-16",
+ "subject": "Refactor: Center hero text elements",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 52591
+}

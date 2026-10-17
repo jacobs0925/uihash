@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "64a8d739c3437431c29da509aa48eb6e4493675c",
+ "parent": "738ed856b92973bd013899f4cf048f766c2ff042",
+ "date": "2025-10-14",
+ "subject": "Fix: Convert homepage CTA buttons to lowercase",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/LandingPageFallback.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47130
+}

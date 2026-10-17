@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "ea4b16a6fdefc057eb3b4b683264491bbd854636",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Remove redundant \"powered by laurie ai\" image",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1990 later commits"
+}

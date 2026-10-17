@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "03686b0e5a116ec5404cb4de7dc954374249b2d2",
+ "parent": "7bf2342dee1e3964ce4a0194181211c9498cb9f4",
+ "date": "2025-10-15",
+ "subject": "Refactor: Use heart avatar in nav",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47760
+}

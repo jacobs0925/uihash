@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "37cfd947917df230b8e644a03f9fde59d4f9b25e",
+ "parent": "d5aae8587ddcf84aea1b4cff54999271803cba92",
+ "date": "2025-10-15",
+ "subject": "Remove sections from Mission page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 57543
+}

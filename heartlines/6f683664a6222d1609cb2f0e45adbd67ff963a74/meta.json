@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "6f683664a6222d1609cb2f0e45adbd67ff963a74",
+ "parent": "9a9c88353e5656672594efe055cd94e3b624d254",
+ "date": "2025-10-15",
+ "subject": "feat: Implement Mission page redesign",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/assets/heartlines-flip-phone.png",
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 14,
+ "ms": 70187
+}

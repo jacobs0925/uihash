@@ -1,0 +1,29 @@
+{
+ "repo": "heartlines",
+ "sha": "95b46672c6f1fb06e6225dfcba521b43d6cb51b1",
+ "parent": "d6d2ad5b6ad125bcf709c4e095d1fe3335e018ff",
+ "date": "2025-10-15",
+ "subject": "Refactor: Make avatar initials lowercase",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx",
+  "src/components/AvatarUpload.tsx",
+  "src/components/ChatHeader.tsx",
+  "src/components/NewPartnerProfile/components/PartnerQuestionnaireHeader.tsx",
+  "src/components/NewPartnerProfile/components/questions/PartnerNamePronounsCard.tsx",
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireHeader.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/WhoYouAre/NamePronounsCard.tsx",
+  "src/components/PersonalProfileQuestionnaire/PhotoUpload.tsx",
+  "src/components/PersonalProfileQuestionnaire/QuestionnaireSection1.tsx",
+  "src/components/ProfileBuilder.tsx",
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47261
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "1f6dced4dbae6d2c12e6cc3c0fdbe4dd46bd430b",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Remove \"powered by laurie ai\" tagline",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2049 later commits"
+}

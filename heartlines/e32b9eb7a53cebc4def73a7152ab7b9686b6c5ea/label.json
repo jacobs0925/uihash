@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "e32b9eb7a53cebc4def73a7152ab7b9686b6c5ea",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor DuckIcon to use shapes",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by 96cb72fa, which restored 1460d8a7 (3 commits discarded)"
+}

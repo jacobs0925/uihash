@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "f4ee5dde0a35b85a8c0473a5804f2917e7464fd6",
+ "parent": "4169874827f8b79937b9b954aec8692834a24c3b",
+ "date": "2025-10-15",
+ "subject": "Fix: Adjust header element sizing and alignment",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/NavAvatar.tsx",
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47955
+}

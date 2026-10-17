@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "549d901223ad72c72ed163b3c43c6a0156063d01",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Update Mission page sections",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: grid → block undone by aec0a33d \"Visual edit in Lovable\"; margin-bottom: 24px → 0px undone by aec0a33d \"Visual edit in Lovable\"; padding-top: 0px → 32px undone by aec0a33d \"Visual edit in Lovable\""
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ea4b16a6fdefc057eb3b4b683264491bbd854636",
+ "parent": "5b2db317d5d9a687e199a5cbbb941163142af6a0",
+ "date": "2025-10-16",
+ "subject": "Remove redundant \"powered by laurie ai\" image",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 61889
+}

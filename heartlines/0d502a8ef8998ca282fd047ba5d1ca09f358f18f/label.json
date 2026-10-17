@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "0d502a8ef8998ca282fd047ba5d1ca09f358f18f",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor mission page text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2015 later commits"
+}

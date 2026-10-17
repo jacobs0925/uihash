@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "d5aae8587ddcf84aea1b4cff54999271803cba92",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Refactor: Replace hero image with Shrikhand header",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 0px → 48px undone by 1f33707d \"Visual edit in Lovable\"; padding-bottom: 0px → 48px undone by 1f33707d \"Visual edit in Lovable\"; padding-top: 0px → 48px undone by 1f33707d \"Visual edit in Lovable\""
+}

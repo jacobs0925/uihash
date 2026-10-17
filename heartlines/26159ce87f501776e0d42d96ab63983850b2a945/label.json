@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "26159ce87f501776e0d42d96ab63983850b2a945",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Adjust tagline margin",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1979 later commits"
+}

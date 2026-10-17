@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b6aba5a082a886fd17861f5078cee685af94a66c",
+ "parent": "9080f22355f51c2930836b37ac3b429f83480886",
+ "date": "2025-10-16",
+ "subject": "Remove \"chat with kai\" button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 52691
+}

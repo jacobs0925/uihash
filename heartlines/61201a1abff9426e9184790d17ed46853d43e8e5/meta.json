@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "61201a1abff9426e9184790d17ed46853d43e8e5",
+ "parent": "c27e5fb43ba5eb22d4dab80a28f88372be536fc7",
+ "date": "2025-10-14",
+ "subject": "Fix year number gradient",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47952
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "363977167093f9ca2abfd62949e8547d99a2847a",
+ "parent": "64a8d739c3437431c29da509aa48eb6e4493675c",
+ "date": "2025-10-14",
+ "subject": "Fix: Convert homepage text to lowercase",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/LandingPageFallback.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 9,
+ "ms": 51432
+}

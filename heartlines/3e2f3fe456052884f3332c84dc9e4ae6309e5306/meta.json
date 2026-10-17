@@ -1,0 +1,25 @@
+{
+ "repo": "heartlines",
+ "sha": "3e2f3fe456052884f3332c84dc9e4ae6309e5306",
+ "parent": "14155170a28fbc27902debbe3cf13633dd58c757",
+ "date": "2025-10-14",
+ "subject": "Fix: Increase mobile phone nav icon size",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/NavigationPullTab.tsx",
+  "src/components/SimpleHeader.tsx",
+  "src/components/chat/ChatLayout.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47236
+}

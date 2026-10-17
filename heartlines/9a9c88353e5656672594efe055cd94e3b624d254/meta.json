@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9a9c88353e5656672594efe055cd94e3b624d254",
+ "parent": "9fddafe621da93994b1d1f0dcb298bb73b2c3475",
+ "date": "2025-10-15",
+ "subject": "Fix: Make mission page scrollable",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47722
+}

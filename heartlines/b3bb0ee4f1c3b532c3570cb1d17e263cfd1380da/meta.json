@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "b3bb0ee4f1c3b532c3570cb1d17e263cfd1380da",
+ "parent": "6924e7d6a6926fae0e03e26dc70821d3fb8beb00",
+ "date": "2025-10-16",
+ "subject": "Refactor: Replace text tagline with image",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/assets/tagline-lockup.png",
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 62187
+}

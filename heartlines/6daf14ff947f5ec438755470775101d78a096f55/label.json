@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "6daf14ff947f5ec438755470775101d78a096f55",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor DuckIcon to outline style",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by 96cb72fa, which restored 1460d8a7 (3 commits discarded)"
+}

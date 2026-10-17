@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "3a9dbe5dd63baac02163caf9db6c0e867643f403",
+ "parent": "43f28c180d85d04ec106a5aace18394349de45dc",
+ "date": "2025-10-16",
+ "subject": "feat: Add duck icon and increase phone icon size",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/SimpleHeader.tsx",
+  "src/components/icons/DuckIcon.tsx",
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 9,
+ "ms": 70129
+}

@@ -1,0 +1,37 @@
+{
+ "repo": "heartlines",
+ "sha": "705ca72d4c9d696a3ebc6f51513f05b1bded499a",
+ "parent": "a1badfc735b108b8eee85db897a153a754979a9f",
+ "date": "2025-10-16",
+ "subject": "Refactor: Change Kai to lowercase",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/branding.ts",
+  "src/components/AIChatMessage.tsx",
+  "src/components/ChatBubble.tsx",
+  "src/components/Demographics/DemographicsPage1.tsx",
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/NewPartnerProfile/components/PartnerQuestionnaireFooter.tsx",
+  "src/components/NewPersonalQuestionnaire/components/EnhancedQuestionnaireFooter.tsx",
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireCompletion.tsx",
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireFooter.tsx",
+  "src/components/NewPersonalQuestionnaire/components/WelcomeBanner.tsx",
+  "src/components/OnboardingStepNudge.tsx",
+  "src/components/PrivacySettings.tsx",
+  "src/components/ProductPhoneDemo.tsx",
+  "src/components/ProfileBuilder/ProfileCard.tsx",
+  "src/components/ProfileBuilder/ProfileTips.tsx",
+  "src/components/ProfileCompletionOptions.tsx",
+  "src/components/SignUpModal.tsx",
+  "src/components/UnlockCoachingButton.tsx",
+  "src/components/sidebar/KaiIntroCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46641
+}

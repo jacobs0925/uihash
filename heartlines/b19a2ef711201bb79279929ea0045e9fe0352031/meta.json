@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "b19a2ef711201bb79279929ea0045e9fe0352031",
+ "parent": "5dcb4b0b46e9d7c56b952a8751969f352be80fdc",
+ "date": "2025-10-14",
+ "subject": "Fix: Prevent double refresh of profile button",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/OnboardingStepNudge.tsx",
+  "src/hooks/useOptimizedProfileCompletion.tsx",
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47305
+}

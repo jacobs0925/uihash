@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "598b70d59366853cbfc4b9f63762f73541e05493",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Redesign Duck icon",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "stroke-width: ∅ → 0.5px undone by 6daf14ff \"Refactor DuckIcon to outline style\"; stroke-width: ∅ → 0.5px undone by 6daf14ff \"Refactor DuckIcon to outline style\"; stroke-width: ∅ → 0.5px undone by 6daf14ff \"Refactor DuckIcon to outline style\""
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2c5c9ebc0e0ba5b955730fa7446b926e78b5ca86",
+ "parent": "95e9810add28eab8b1b77e06e99e0d728dc007fe",
+ "date": "2025-10-15",
+ "subject": "Refactor: Make avatar ring more sleek",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/avatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47906
+}

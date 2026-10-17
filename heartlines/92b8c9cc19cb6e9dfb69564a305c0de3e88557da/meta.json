@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "92b8c9cc19cb6e9dfb69564a305c0de3e88557da",
+ "parent": "39085ce37ab2bec942e41db9bec2f9e9028a41b3",
+ "date": "2025-10-16",
+ "subject": "Fix: Adjust tagline alignment",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 61675
+}

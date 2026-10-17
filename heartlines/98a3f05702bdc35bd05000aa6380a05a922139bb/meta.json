@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "98a3f05702bdc35bd05000aa6380a05a922139bb",
+ "parent": "26159ce87f501776e0d42d96ab63983850b2a945",
+ "date": "2025-10-16",
+ "subject": "Adjust left margin",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 61707
+}

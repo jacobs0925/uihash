@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "246a7ddba0550e4b8d41974b8a7b568508e80ec0",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "feat: Add tagline image to Mission page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2001 later commits"
+}

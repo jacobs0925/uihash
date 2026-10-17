@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "33f62b856ccc6b83a7fcd3a501503aa38da54b4e",
+ "parent": "5d0a55f3efcdfe57ba728fda2cf8d044fbb7dfbb",
+ "date": "2025-10-16",
+ "subject": "Fix: Align tagline with \"why\" heading",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 61967
+}

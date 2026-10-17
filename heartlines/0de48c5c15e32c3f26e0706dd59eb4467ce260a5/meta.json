@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0de48c5c15e32c3f26e0706dd59eb4467ce260a5",
+ "parent": "5eea700fa88581a89a00033a24dae22c869b3d19",
+ "date": "2025-10-14",
+ "subject": "Fix: Increase navigation icon size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48636
+}

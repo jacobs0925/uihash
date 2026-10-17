@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "d224d33c91e3abf24233c2e3f238476667b34f7f",
+ "parent": "110ad929e5be52a0f8ae9ad84db3e8a367aa9876",
+ "date": "2025-10-14",
+ "subject": "Fix: Apply gradient and drop shadow to year numbers",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx",
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47217
+}

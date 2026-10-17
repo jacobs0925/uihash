@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "246a7ddba0550e4b8d41974b8a7b568508e80ec0",
+ "parent": "4b61188e2c7cb26584216c093296477c79ac3c4f",
+ "date": "2025-10-16",
+ "subject": "feat: Add tagline image to Mission page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/assets/tagline-image.png",
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 53920
+}

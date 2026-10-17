@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "25208f6bb3ea8c630e47c9dbcad799ae715baaaa",
+ "parent": "4df127b0eeec9f838e25a1a008f265139b3d6965",
+ "date": "2025-10-16",
+ "subject": "Refactor: Adjust \"powered laurie ai\" text size",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 61635
+}

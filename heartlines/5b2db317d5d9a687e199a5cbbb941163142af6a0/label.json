@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "5b2db317d5d9a687e199a5cbbb941163142af6a0",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Align \"our why\" and \"laurie ai\"",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "position: relative → ∅ undone by 68ea3ac7 \"Fix: Position \"powered by laurie ai\" with absolute positioning\"; position: relative → ∅ undone by 68ea3ac7 \"Fix: Position \"powered by laurie ai\" with absolute positioning\"; position: relative → ∅ undone by 68ea3ac7 \"Fix: Position \"powered by laurie ai\" with absolute positioning\""
+}

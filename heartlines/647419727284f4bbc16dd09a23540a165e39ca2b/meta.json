@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "647419727284f4bbc16dd09a23540a165e39ca2b",
+ "parent": "bae315007b7c5b6e04b7d799952b78938f35c8c7",
+ "date": "2025-10-15",
+ "subject": "Fix: Slow down tooltip appearance",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47773
+}

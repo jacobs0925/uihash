@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "ab86ea54236658f62cad1b8326a2a47e2f532d98",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Refactor \"Our Moment\" section",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "margin-right: 0px → auto undone by 3cc7bd9d \"Refactor: Improve Mission page design\"; margin-right: 0px → auto undone by 3cc7bd9d \"Refactor: Improve Mission page design\"; margin-right: 0px → auto undone by 3cc7bd9d \"Refactor: Improve Mission page design\""
+}

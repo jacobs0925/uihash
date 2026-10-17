@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "2219e56739f8c74b6cfea85e318febf106c5a395",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Reverted to commit 33f62b856ccc6b83a7fcd3a501503aa38da54b4e",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-left: 680px → 360px undone by 33d90884 \"Refactor: Align duck icon under \"y\"\"; margin-left: 680px → 360px undone by 33d90884 \"Refactor: Align duck icon under \"y\"\"; margin-left: 680px → 360px undone by 33d90884 \"Refactor: Align duck icon under \"y\"\""
+}

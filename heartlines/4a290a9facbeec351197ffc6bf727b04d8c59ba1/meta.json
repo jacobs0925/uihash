@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4a290a9facbeec351197ffc6bf727b04d8c59ba1",
+ "parent": "586deb00ab983a1f5cfc1d3bc74d3f45e5d90028",
+ "date": "2025-10-16",
+ "subject": "Update privacy bullets",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46663
+}

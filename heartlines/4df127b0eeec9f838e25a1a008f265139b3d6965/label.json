@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "4df127b0eeec9f838e25a1a008f265139b3d6965",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Reduce spacing between sections",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1988 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "f7c3e4d25f77ec784b21b39aba714f1047cce031",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Fix text line breaks",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2003 later commits"
+}

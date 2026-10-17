@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "d5aae8587ddcf84aea1b4cff54999271803cba92",
+ "parent": "e7ef3f528b97cffa4fe0183c46a8ba616d9b6a64",
+ "date": "2025-10-15",
+ "subject": "Refactor: Replace hero image with Shrikhand header",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/assets/mission-hero-banner.png",
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 60631
+}

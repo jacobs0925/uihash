@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5d9d8d458c0213b4a56190099c8243efc3bea074",
+ "parent": "8c511a55f067f5785f36048784cc1eae0e41b5b8",
+ "date": "2025-10-16",
+ "subject": "Refactor: Improve spacing on Mission page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 53315
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "14bfbb60a10803db5de97cff7dbbdb1ab88f9e70",
+ "parent": "2cded9149d1bec8ca8f6f50c3b29d14c613e0330",
+ "date": "2025-10-14",
+ "subject": "Refactor: Update profile page and navigation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NavigationPullTab.tsx",
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47012
+}

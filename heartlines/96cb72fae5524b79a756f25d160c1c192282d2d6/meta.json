@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "96cb72fae5524b79a756f25d160c1c192282d2d6",
+ "parent": "e32b9eb7a53cebc4def73a7152ab7b9686b6c5ea",
+ "date": "2025-10-16",
+ "subject": "Reverted to commit 1460d8a70d605fbb630ba8abe654cb3206b44193",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/icons/DuckIcon.tsx",
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 10,
+ "ms": 61322
+}

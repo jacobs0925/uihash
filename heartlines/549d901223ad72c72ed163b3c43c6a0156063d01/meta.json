@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "549d901223ad72c72ed163b3c43c6a0156063d01",
+ "parent": "ab86ea54236658f62cad1b8326a2a47e2f532d98",
+ "date": "2025-10-15",
+ "subject": "Update Mission page sections",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 10,
+ "ms": 71544
+}

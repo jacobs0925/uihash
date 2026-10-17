@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e32b9eb7a53cebc4def73a7152ab7b9686b6c5ea",
+ "parent": "6daf14ff947f5ec438755470775101d78a096f55",
+ "date": "2025-10-16",
+ "subject": "Refactor DuckIcon to use shapes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/icons/DuckIcon.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 53052
+}

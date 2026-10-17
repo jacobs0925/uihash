@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "0e99c3267b0fe954d1a35875d799b7e4004510b6",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "feat: Implement spinning globe and update text",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 03c015c5, which restored be7a8267 (1 commit discarded)"
+}

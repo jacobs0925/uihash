@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1e95b0ed12009a0797c6bec77786f486a3fe3475",
+ "parent": "0de48c5c15e32c3f26e0706dd59eb4467ce260a5",
+ "date": "2025-10-14",
+ "subject": "Fix: Update phone icon size in chat layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47326
+}

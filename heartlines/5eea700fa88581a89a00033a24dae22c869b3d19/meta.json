@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5eea700fa88581a89a00033a24dae22c869b3d19",
+ "parent": "52b107f20204b8586777179caf5703f4e5aa5bde",
+ "date": "2025-10-14",
+ "subject": "Fix: Match profile page nav bar size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47259
+}

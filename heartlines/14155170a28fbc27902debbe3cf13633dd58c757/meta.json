@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "14155170a28fbc27902debbe3cf13633dd58c757",
+ "parent": "d19f1af7aab49932a05ea91a328f2b407d652934",
+ "date": "2025-10-14",
+ "subject": "Fix: Update PrivacySecurity phone icon size",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48537
+}

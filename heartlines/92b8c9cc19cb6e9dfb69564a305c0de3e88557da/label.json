@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "92b8c9cc19cb6e9dfb69564a305c0de3e88557da",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Fix: Adjust tagline alignment",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1980 later commits"
+}

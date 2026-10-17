@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "37cfd947917df230b8e644a03f9fde59d4f9b25e",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Remove sections from Mission page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2033 later commits"
+}

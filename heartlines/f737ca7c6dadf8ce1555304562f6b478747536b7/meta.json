@@ -1,0 +1,33 @@
+{
+ "repo": "heartlines",
+ "sha": "f737ca7c6dadf8ce1555304562f6b478747536b7",
+ "parent": "86c3e0559c9629e88942154f4989f219a1864ed5",
+ "date": "2025-10-15",
+ "subject": "Fix: Lowercase profile answer options",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Demographics/BackgroundLifestyle.tsx",
+  "src/components/Demographics/PersonalIdentity.tsx",
+  "src/components/NewPartnerProfile/components/questions/PartnerNamePronounsCard.tsx",
+  "src/components/NewPartnerProfile/constants.ts",
+  "src/components/NewPersonalQuestionnaire/components/sections/HowYouOperate/constants.ts",
+  "src/components/NewPersonalQuestionnaire/components/sections/WhoYouAre/NamePronounsCard.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/YourFoundation/constants.ts",
+  "src/components/NewPersonalQuestionnaire/components/sections/YourRelationship/constants.ts",
+  "src/components/PartnerProfileQuestionnaire/PartnerAgeSelection.tsx",
+  "src/components/PartnerProfileQuestionnaire/PartnerGenderSelection.tsx",
+  "src/components/PartnerProfileQuestionnaire/PartnerOrientationSelection.tsx",
+  "src/components/PartnerProfileQuestionnaire/PartnerPronounsSelection.tsx",
+  "src/components/PersonalProfileQuestionnaire/AgeSelection.tsx",
+  "src/components/PersonalProfileQuestionnaire/PronounsSelection.tsx",
+  "src/components/PersonalProfileQuestionnaire/QuestionnaireSection1.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47207
+}

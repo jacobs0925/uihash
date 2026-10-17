@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "6efe20b7c293a087f2f2a8ede7c81331d5505406",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Move \"Powered by Laurie AI\" section",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by c0a8ebc4, which restored e13be84d (1 commit discarded)"
+}

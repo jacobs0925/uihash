@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "3a9dbe5dd63baac02163caf9db6c0e867643f403",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "feat: Add duck icon and increase phone icon size",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "height: auto → 1px undone by 3cc7bd9d \"Refactor: Improve Mission page design\"; margin-right: 0px → auto undone by 3cc7bd9d \"Refactor: Improve Mission page design\"; height: auto → 1px undone by 3cc7bd9d \"Refactor: Improve Mission page design\""
+}

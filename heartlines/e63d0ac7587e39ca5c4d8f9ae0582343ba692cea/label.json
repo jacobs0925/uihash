@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "e63d0ac7587e39ca5c4d8f9ae0582343ba692cea",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "feat: Replace globe emoji with icon",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2021 later commits"
+}

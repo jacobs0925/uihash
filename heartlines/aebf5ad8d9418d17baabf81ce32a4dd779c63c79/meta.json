@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "aebf5ad8d9418d17baabf81ce32a4dd779c63c79",
+ "parent": "ba1b7bc8fff68fd0b43ae96250eb018305ddb8ec",
+ "date": "2025-10-15",
+ "subject": "Update \"Our Moment\" section text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 51761
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "347afd2814264c093c7defb05a9c261f5b1d8e39",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Update icons and sizes",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by 43f28c18, which restored be7a8267 (3 commits discarded)"
+}

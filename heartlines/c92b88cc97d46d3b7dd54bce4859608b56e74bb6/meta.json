@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c92b88cc97d46d3b7dd54bce4859608b56e74bb6",
+ "parent": "023259d74c7ae59e535fe907ffd878c9a8bf7d37",
+ "date": "2025-10-15",
+ "subject": "Fix logo positioning on homepage",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47610
+}

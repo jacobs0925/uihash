@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "023259d74c7ae59e535fe907ffd878c9a8bf7d37",
+ "date": "2025-10-14",
+ "pr": null,
+ "title": "Refactor: Convert marketing page text to lowercase",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2093 later commits"
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "a2878df091a7dfe2b9a60fa103607b20fafd16df",
+ "parent": "bccdcc778d179ff728fbcb1fde86c67e90fbe7fc",
+ "date": "2025-10-15",
+ "subject": "Fix: Adjust CardAvatar sizing for visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder/CardAvatar.tsx",
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48626
+}

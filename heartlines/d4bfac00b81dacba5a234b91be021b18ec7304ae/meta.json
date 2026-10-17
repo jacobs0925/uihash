@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d4bfac00b81dacba5a234b91be021b18ec7304ae",
+ "parent": "bb36deddcbf2d2cc7d2eecdb99a93e92f4110bc1",
+ "date": "2025-10-14",
+ "subject": "Refactor: Add lowercase class to chat messages",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47366
+}

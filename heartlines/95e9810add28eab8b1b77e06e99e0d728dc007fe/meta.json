@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "95e9810add28eab8b1b77e06e99e0d728dc007fe",
+ "parent": "4fafaa28f914ebc7b1403b04d91bd97c7aeeabb0",
+ "date": "2025-10-15",
+ "subject": "Refactor: User menu to icons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50105
+}

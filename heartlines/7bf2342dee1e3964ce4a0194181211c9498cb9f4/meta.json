@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7bf2342dee1e3964ce4a0194181211c9498cb9f4",
+ "parent": "0a717b68e3ba76e47a9ee081281ea294d8eb9795",
+ "date": "2025-10-15",
+ "subject": "Refactor: Adjust avatar initial positioning",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder/CardAvatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47706
+}

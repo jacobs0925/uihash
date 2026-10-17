@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "33d908841ee8c76ed2a52efcd471e22d6103ae3d",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Align duck icon under \"y\"",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 2219e567, which restored 33f62b85 (1 commit discarded)"
+}

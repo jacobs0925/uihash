@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d6d2ad5b6ad125bcf709c4e095d1fe3335e018ff",
+ "parent": "f3dc886ea8206e15a6e7f5a2471dff2e1ef4b850",
+ "date": "2025-10-15",
+ "subject": "feat: Add delay to tooltip appearance",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48635
+}

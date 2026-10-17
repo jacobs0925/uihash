@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "93dd88225c4d79abe4513cb74d9ba10e0e9f5ee9",
+ "date": "2025-10-14",
+ "pr": null,
+ "title": "Fix: Lowercase footer text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2104 later commits"
+}

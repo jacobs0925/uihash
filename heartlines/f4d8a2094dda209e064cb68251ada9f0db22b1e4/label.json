@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "f4d8a2094dda209e064cb68251ada9f0db22b1e4",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Fix: Redesign DuckIcon for clarity",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2011 later commits"
+}

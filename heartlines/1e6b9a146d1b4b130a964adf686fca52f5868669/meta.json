@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1e6b9a146d1b4b130a964adf686fca52f5868669",
+ "parent": "fea08318d96e2339c29643677d52c05c965a97ae",
+ "date": "2025-10-14",
+ "subject": "feat: Add glow effect to hero CTA",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 55147
+}

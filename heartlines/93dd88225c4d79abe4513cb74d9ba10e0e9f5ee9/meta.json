@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "93dd88225c4d79abe4513cb74d9ba10e0e9f5ee9",
+ "parent": "8e3a59eeede880ce2a5cde8638aac9304e876a78",
+ "date": "2025-10-14",
+ "subject": "Fix: Lowercase footer text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SiteFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 62338
+}

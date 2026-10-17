@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "91ece14b3f86c94d8720c3c50cfd3be5ce5221c1",
+ "parent": "430e6658f0f755247f9bdcc9ec5e821eab9cd331",
+ "date": "2025-10-16",
+ "subject": "Refactor: Pass initial to NavAvatar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46661
+}

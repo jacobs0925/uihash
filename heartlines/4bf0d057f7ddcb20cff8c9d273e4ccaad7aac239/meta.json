@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4bf0d057f7ddcb20cff8c9d273e4ccaad7aac239",
+ "parent": "b901fcfba2a833fa7827d3e7682e6b9a71bf9be4",
+ "date": "2025-10-15",
+ "subject": "Fix: Standardize navigation icon size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SimpleHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 60368
+}

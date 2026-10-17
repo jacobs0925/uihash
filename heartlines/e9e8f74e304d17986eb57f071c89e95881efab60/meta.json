@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e9e8f74e304d17986eb57f071c89e95881efab60",
+ "parent": "aebf5ad8d9418d17baabf81ce32a4dd779c63c79",
+ "date": "2025-10-15",
+ "subject": "Refactor \"Our Moment\" section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 51213
+}

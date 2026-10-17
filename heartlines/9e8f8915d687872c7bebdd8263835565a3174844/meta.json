@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9e8f8915d687872c7bebdd8263835565a3174844",
+ "parent": "91917960ea35eef3e6fadbe8d72bf32a2e33780d",
+ "date": "2025-10-15",
+ "subject": "feat: Add \"Our Moment\" section with 90s design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 58739
+}

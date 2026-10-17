@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "aebf5ad8d9418d17baabf81ce32a4dd779c63c79",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Update \"Our Moment\" section text",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "flex-direction: row → column undone by e9e8f74e \"Refactor \"Our Moment\" section\"; justify-content: center → normal undone by e9e8f74e \"Refactor \"Our Moment\" section\"; align-items: normal → center undone by e9e8f74e \"Refactor \"Our Moment\" section\""
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "9080f22355f51c2930836b37ac3b429f83480886",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Reverted to commit 598b70d59366853cbfc4b9f63762f73541e05493",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "color: rgb(255, 255, 255) → rgba(255, 255, 255, 0.9) undone by c0a8ebc4 \"Reverted to commit e13be84da893f31912c82c35540f5f157bbaa5b7\"; color: rgb(255, 255, 255) → rgba(255, 255, 255, 0.9) undone by c0a8ebc4 \"Reverted to commit e13be84da893f31912c82c35540f5f157bbaa5b7\"; text: \"ai isn't going anywhere.\" → \"ai isn't going anywhere. and neither is \" undone by f7c3e4d2 \"Fix text line breaks\""
+}

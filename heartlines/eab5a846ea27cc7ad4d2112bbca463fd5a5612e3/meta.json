@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "eab5a846ea27cc7ad4d2112bbca463fd5a5612e3",
+ "parent": "25208f6bb3ea8c630e47c9dbcad799ae715baaaa",
+ "date": "2025-10-16",
+ "subject": "Align elements to the left",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 53151
+}

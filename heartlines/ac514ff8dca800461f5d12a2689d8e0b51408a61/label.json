@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "ac514ff8dca800461f5d12a2689d8e0b51408a61",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Remove \"Love Belongs Here\" section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2022 later commits"
+}

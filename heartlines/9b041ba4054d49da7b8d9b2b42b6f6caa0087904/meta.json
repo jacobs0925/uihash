@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "9b041ba4054d49da7b8d9b2b42b6f6caa0087904",
+ "parent": "8d30e2a4a94e4b4bc1af53a20a04299f07b57e30",
+ "date": "2025-10-14",
+ "subject": "Fix: Adjust Heartlines logo and splash screen z-index",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FirstVisitSplash.tsx",
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47175
+}

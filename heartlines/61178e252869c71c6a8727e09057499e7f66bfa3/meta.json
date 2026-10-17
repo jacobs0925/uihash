@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "61178e252869c71c6a8727e09057499e7f66bfa3",
+ "parent": "98a3f05702bdc35bd05000aa6380a05a922139bb",
+ "date": "2025-10-16",
+ "subject": "Adjust tagline margins",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 62109
+}

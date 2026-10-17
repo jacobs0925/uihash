@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "b2954e3642d4cabb693ee6e823130ab1b3242db6",
+ "parent": "37cfd947917df230b8e644a03f9fde59d4f9b25e",
+ "date": "2025-10-15",
+ "subject": "Refactor: Update \"Join the Movement\" section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/assets/laurie-ai-logo.png",
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 8,
+ "ms": 68480
+}

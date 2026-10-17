@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "6924e7d6a6926fae0e03e26dc70821d3fb8beb00",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Replace tagline image with text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2000 later commits"
+}

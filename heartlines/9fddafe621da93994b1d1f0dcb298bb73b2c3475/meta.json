@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "9fddafe621da93994b1d1f0dcb298bb73b2c3475",
+ "parent": "f4ee5dde0a35b85a8c0473a5804f2917e7464fd6",
+ "date": "2025-10-15",
+ "subject": "Fix avatar scaling with valid Tailwind classes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NavAvatar.tsx",
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47391
+}

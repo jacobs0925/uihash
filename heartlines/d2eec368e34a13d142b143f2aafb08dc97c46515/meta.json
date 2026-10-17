@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d2eec368e34a13d142b143f2aafb08dc97c46515",
+ "parent": "6e2474971cad18b2042bcb7fac3a85363d8e41be",
+ "date": "2025-10-11",
+ "subject": "Fix: Remove duplicate chat header on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42337
+}

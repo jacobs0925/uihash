@@ -5,8 +5,8 @@
  "date": "2025-10-01",
  "pr": null,
  "title": "Refactor: Show only person icon",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2979 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-clip: border-box → ∅ undone by feaf9868 \"Fix hamburger button hover state\"; background-clip: border-box → ∅ undone by feaf9868 \"Fix hamburger button hover state\"; background-clip: border-box → ∅ undone by feaf9868 \"Fix hamburger button hover state\""
 }

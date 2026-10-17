@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "196510972cfa62e62ec11f264921bd24b0b0f935",
+ "parent": "9b99a1bc907571e3ca1b60fd7db35e80556447e4",
+ "date": "2025-10-12",
+ "subject": "Standardize spacing in Auth forms",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41948
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ec3f48a922826d16090edee91f365f688c323907",
+ "parent": "635aa4eb0de14f2fb485426357795653636bd3b7",
+ "date": "2025-10-12",
+ "subject": "Fix: Adjust mobile chat input position",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42650
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e940aa6536acff358413faeafdd1cae62a278410",
+ "parent": "145853aefbaab070d77eb53b7dd3776718f52787",
+ "date": "2025-10-09",
+ "subject": "Fix button alignment on pricing page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 47122
+}

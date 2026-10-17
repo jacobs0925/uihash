@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7043ee32240ded575283f6fe215181eec1455361",
+ "parent": "2e5153df3d2a388ddc3c9d6cac10d1b0e5bd9046",
+ "date": "2025-10-09",
+ "subject": "Fix button spacing in ProfileBuilder",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43019
+}

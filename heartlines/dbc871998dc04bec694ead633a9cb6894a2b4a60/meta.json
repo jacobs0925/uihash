@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "dbc871998dc04bec694ead633a9cb6894a2b4a60",
+ "parent": "7a35b2b0c4b0c97701cd23565447b6807cf03874",
+ "date": "2025-10-12",
+ "subject": "Fix: Make avatar ring thinner",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/avatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42182
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ec29aefe2c10de2d6af0ca417e18a38a77a38098",
+ "parent": "ae2992931dad2702012b8315188a5a4955784e92",
+ "date": "2025-10-12",
+ "subject": "Fix: Increase logo size on auth pages",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42164
+}

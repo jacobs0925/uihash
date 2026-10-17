@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "d186a9a7d64834d66cc7b223c145a7ed239ee627",
+ "parent": "17139afe4e484f4aa1ef01bd22ea783841d89376",
+ "date": "2025-10-10",
+ "subject": "Fix: Restructure mobile chat layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42365
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f5d0542dfb96b6e82a181cf27c46e51bafe9c2fb",
+ "parent": "5be61138e732c2ccdd08078e18af980628ac1726",
+ "date": "2025-10-11",
+ "subject": "Fix: Prevent scroll-to-top button reappearance on down scroll",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42330
+}

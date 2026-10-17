@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ae1068fe0b8f3c7b937328f500c80fccf00bc4ce",
+ "parent": "0248d662c8c3f5a9f547cc2a5c255210289d4ea8",
+ "date": "2025-10-11",
+ "subject": "Fix: Show scroll to top button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42399
+}

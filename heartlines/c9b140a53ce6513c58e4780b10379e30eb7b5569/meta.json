@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "c9b140a53ce6513c58e4780b10379e30eb7b5569",
+ "parent": "6e173c1a9a014b51ed885ac9fec81e7c81195285",
+ "date": "2025-10-11",
+ "subject": "Fix: Align mobile chat elements vertically",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx",
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42183
+}

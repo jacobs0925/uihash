@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3ab3012d0637a63bce39eab5b51fb982c47be5ba",
+ "parent": "60971e1fa89ea05d776864472580c41e2445cad8",
+ "date": "2025-10-09",
+ "subject": "Fix: Ensure chat input is visible on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42874
+}

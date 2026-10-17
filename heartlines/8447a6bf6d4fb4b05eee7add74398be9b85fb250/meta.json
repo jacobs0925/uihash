@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8447a6bf6d4fb4b05eee7add74398be9b85fb250",
+ "parent": "49467450b3a473a9569083145fda8317e0d8f504",
+ "date": "2025-10-11",
+ "subject": "Add margin to Kai's avatar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42606
+}

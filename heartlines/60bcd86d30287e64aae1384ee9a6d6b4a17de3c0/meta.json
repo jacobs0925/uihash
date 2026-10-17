@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "60bcd86d30287e64aae1384ee9a6d6b4a17de3c0",
+ "parent": "97b960a5808dcecaa4de80476884748fe666c952",
+ "date": "2025-10-12",
+ "subject": "Fix message overlap with input pill",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41811
+}

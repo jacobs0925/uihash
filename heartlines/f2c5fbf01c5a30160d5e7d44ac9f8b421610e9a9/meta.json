@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f2c5fbf01c5a30160d5e7d44ac9f8b421610e9a9",
+ "parent": "df3118b03dc829c780005191c7d4a3a4220748e4",
+ "date": "2025-10-12",
+ "subject": "Fix progress bar spacing and button hover",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42313
+}

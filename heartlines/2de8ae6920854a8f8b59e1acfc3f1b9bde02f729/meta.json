@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "2de8ae6920854a8f8b59e1acfc3f1b9bde02f729",
+ "parent": "1df6034a87002e3ccc84512e06df68c5164fc4d2",
+ "date": "2025-10-10",
+ "subject": "Reverted to commit f87748672577ef7af35115c5b90597522b617c75",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx",
+  "src/components/DashboardHeader.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41881
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "5ba13a6089050cb04a5866668c06f1106a10738f",
+ "parent": "953436b428c4645261f6e18f21f9d2daa0fc9d41",
+ "date": "2025-10-11",
+ "subject": "Rebuild mobile chat interface",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42383
+}

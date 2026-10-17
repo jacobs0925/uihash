@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3257108af7ef1269c130c3a8673fb7e13db27b3f",
+ "parent": "dbc871998dc04bec694ead633a9cb6894a2b4a60",
+ "date": "2025-10-12",
+ "subject": "Refactor: Make avatar ring thinner",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/avatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42085
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2e5153df3d2a388ddc3c9d6cac10d1b0e5bd9046",
+ "parent": "77a8b94df9700dfcc14d7448e2fe6773d20a6411",
+ "date": "2025-10-09",
+ "subject": "Adjust spacing on profile page",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42777
+}

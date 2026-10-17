@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b8a66afdaee41936ae44711482a2cd8170b8d459",
+ "parent": "96ab3c9906361d6e9a2f8a51e6f6f850436b58d6",
+ "date": "2025-10-12",
+ "subject": "Fix: Adjust text position on carousel images",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42399
+}

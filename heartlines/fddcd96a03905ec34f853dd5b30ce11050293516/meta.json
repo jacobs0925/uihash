@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "fddcd96a03905ec34f853dd5b30ce11050293516",
+ "parent": "ec3f48a922826d16090edee91f365f688c323907",
+ "date": "2025-10-12",
+ "subject": "Fix: Move chat input flush with keyboard",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42298
+}

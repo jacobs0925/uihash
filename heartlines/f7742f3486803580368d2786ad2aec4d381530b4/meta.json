@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "f7742f3486803580368d2786ad2aec4d381530b4",
+ "parent": "c9b140a53ce6513c58e4780b10379e30eb7b5569",
+ "date": "2025-10-11",
+ "subject": "Fix: Align avatars and header elements on tablet/desktop",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx",
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42175
+}

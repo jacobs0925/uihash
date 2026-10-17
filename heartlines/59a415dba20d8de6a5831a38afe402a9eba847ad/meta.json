@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "59a415dba20d8de6a5831a38afe402a9eba847ad",
+ "parent": "f7088b126a8ac1f01b27c07916969b905cbe7a3e",
+ "date": "2025-10-10",
+ "subject": "Fix: Adjust mobile header rendering logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42342
+}

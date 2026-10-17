@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d33ea8cfae795925854dcc53cd003c73181dfa3a",
+ "parent": "bb31ab2b69196adf05f10527d046753eaec1ccf7",
+ "date": "2025-10-12",
+ "subject": "Fix: Adjust progress bar position",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42082
+}

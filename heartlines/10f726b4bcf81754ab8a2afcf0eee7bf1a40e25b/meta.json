@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "10f726b4bcf81754ab8a2afcf0eee7bf1a40e25b",
+ "parent": "ba8d00e0fcc1a1fa7bd121dfe1c123acd7511a1c",
+ "date": "2025-10-08",
+ "subject": "Add CTA to \"Why We're Different\" section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43004
+}

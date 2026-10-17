@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "35bffa1b66b7a6bf5dd814ac176f0b41e950649b",
+ "parent": "71a88deec72951d63be8bd27d352e5083bda81ef",
+ "date": "2025-10-12",
+ "subject": "Refactor: Rebuild scroll-to-top arrow component",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/ScrollToTopArrow.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42456
+}

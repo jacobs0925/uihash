@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "7167b15b23b2ec3a52f1a0bfda84a694c5e26533",
+ "date": "2025-10-09",
+ "pr": null,
+ "title": "feat: Adjust header padding for better spacing",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 3942c32b, which restored 7043ee32 (9 commits discarded)"
+}

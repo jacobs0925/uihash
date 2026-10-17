@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "74f355005454f3aa3e9087eae8d2987dbe0b62e6",
+ "parent": "0a3a3e3cc44d7e52d7e48090ba91842f7d342fc6",
+ "date": "2025-10-12",
+ "subject": "Refactor: Improve profile saving logic",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/hooks/usePartnerProfileData.tsx",
+  "src/hooks/usePersonalProfileData.tsx",
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41969
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "bdee09a28c52c29044ced6d44de6cc9c89028826",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Refactor: Remove unnecessary splash screens",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2354 later commits"
+}

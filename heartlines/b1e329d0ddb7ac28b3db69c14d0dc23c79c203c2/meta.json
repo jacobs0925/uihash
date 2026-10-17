@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "b1e329d0ddb7ac28b3db69c14d0dc23c79c203c2",
+ "parent": "cbbd2fc2744ab5727e50c3acff16ae9bc142fe02",
+ "date": "2025-10-10",
+ "subject": "Fix mobile chat input and CSS",
+ "components": [
+  "components",
+  "index.css",
+  "styles"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx",
+  "src/index.css",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42301
+}

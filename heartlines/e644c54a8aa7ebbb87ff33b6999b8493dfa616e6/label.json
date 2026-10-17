@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "e644c54a8aa7ebbb87ff33b6999b8493dfa616e6",
+ "date": "2025-10-09",
+ "pr": null,
+ "title": "Fix: Resolve pricing page scrolling issue",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2470 later commits"
+}

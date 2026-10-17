@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "aad96692a6bc58d7bfcf179657e2b10269c3c380",
+ "parent": "62e4f510c41719d40fed6a3298c3f6bf16e76d37",
+ "date": "2025-10-09",
+ "subject": "Fix: Remove redundant padding from chat header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42884
+}

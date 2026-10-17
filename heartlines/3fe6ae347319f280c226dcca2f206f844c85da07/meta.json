@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3fe6ae347319f280c226dcca2f206f844c85da07",
+ "parent": "35bffa1b66b7a6bf5dd814ac176f0b41e950649b",
+ "date": "2025-10-12",
+ "subject": "Fix: Show arrow when scrolled down",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ScrollToTopArrow.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42172
+}

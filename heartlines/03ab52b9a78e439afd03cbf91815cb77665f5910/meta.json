@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "03ab52b9a78e439afd03cbf91815cb77665f5910",
+ "parent": "860a39a2bc5fedf5a798d2c6315b2d3f6fc8720a",
+ "date": "2025-10-11",
+ "subject": "Refactor scroll button for mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42393
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0258cf2a93a08d9a08e3001f955f4fca14f4e9a6",
+ "parent": "fddcd96a03905ec34f853dd5b30ce11050293516",
+ "date": "2025-10-12",
+ "subject": "Fix: Remove excess padding from chat input",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42268
+}

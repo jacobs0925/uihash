@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b92160883a5fb82927ade4dccd254483235f0994",
+ "parent": "d43aac83a33ff16ea717d2dc6ee58cf7b5fda4f0",
+ "date": "2025-10-12",
+ "subject": "Fix sign-up page layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42302
+}

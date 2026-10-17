@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a602aba483db69517f8a5cb8aff9fb55077836ef",
+ "parent": "46bc09d9b17c91b46e12f26395545cf5e2d38cdd",
+ "date": "2025-10-12",
+ "subject": "Refactor: Adjust sign-in page layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42335
+}

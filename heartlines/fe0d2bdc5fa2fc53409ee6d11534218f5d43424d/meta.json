@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "fe0d2bdc5fa2fc53409ee6d11534218f5d43424d",
+ "parent": "ec29aefe2c10de2d6af0ca417e18a38a77a38098",
+ "date": "2025-10-12",
+ "subject": "Refactor: Increase logo sizes on splash screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHome.tsx",
+  "src/components/FirstVisitSplash.tsx",
+  "src/components/loading/ProductionSplashScreen.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42330
+}

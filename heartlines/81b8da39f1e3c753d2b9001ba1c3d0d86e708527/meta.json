@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "81b8da39f1e3c753d2b9001ba1c3d0d86e708527",
+ "parent": "dd098bb93dbd8b4781a4c6a477fcf669c8226ba7",
+ "date": "2025-10-12",
+ "subject": "Refactor: Adjust chat header padding",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42058
+}

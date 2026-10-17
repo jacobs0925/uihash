@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "b416b89ac346c7884c419e7e427e48f4e76309bc",
+ "parent": "d0ce209f420e1fbdd6ae9cca51336f7c6cf2825e",
+ "date": "2025-10-09",
+ "subject": "Fix height cascade on mobile",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AIInsights.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 52556
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3ca9e8ecc98daa08c5d1fde89f8b1c44a944ac3f",
+ "parent": "a602aba483db69517f8a5cb8aff9fb55077836ef",
+ "date": "2025-10-12",
+ "subject": "Refactor: Reduce sign-in toggle spacing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42231
+}

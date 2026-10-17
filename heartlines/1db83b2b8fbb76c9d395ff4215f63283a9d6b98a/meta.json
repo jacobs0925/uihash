@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1db83b2b8fbb76c9d395ff4215f63283a9d6b98a",
+ "parent": "144ea4822c905fd545df3e3325eb421eb87ea087",
+ "date": "2025-10-12",
+ "subject": "Fix progress bar overlap",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42098
+}

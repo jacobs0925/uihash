@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "cdb68e01c13736ddb700329f5ce7162b2e5397c3",
+ "parent": "e91a034e8cc9b683aebb9ad692e55457d65ca00d",
+ "date": "2025-10-11",
+ "subject": "Fix mobile header alignment",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42367
+}

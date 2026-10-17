@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "3d24efc6ac5efa8d8c36e80b9473116caa98aa2c",
+ "date": "2025-10-09",
+ "pr": null,
+ "title": "Fix body scroll on mobile",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2476 later commits"
+}

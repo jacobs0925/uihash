@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "bdee09a28c52c29044ced6d44de6cc9c89028826",
+ "parent": "f62df4baafd133238213d50e2f54c9b099f18b41",
+ "date": "2025-10-12",
+ "subject": "Refactor: Remove unnecessary splash screens",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/DashboardHome.tsx",
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 46847
+}

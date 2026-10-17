@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "44b5c65343584b252c08090f873a6fdc1a2af297",
+ "parent": "d319adca7a779e01e2f44525bc03395db9e51dad",
+ "date": "2025-10-11",
+ "subject": "Fix: Adjust mobile chat header spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42398
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "030d9b75f1557ba268e2c0214b8253fcc7f8a603",
+ "parent": "44b5c65343584b252c08090f873a6fdc1a2af297",
+ "date": "2025-10-11",
+ "subject": "feat: Add padding to chat input",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/ConversationStarters.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42144
+}

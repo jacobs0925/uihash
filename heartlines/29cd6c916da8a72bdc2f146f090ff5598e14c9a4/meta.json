@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "29cd6c916da8a72bdc2f146f090ff5598e14c9a4",
+ "parent": "ce1b8544be2dc8c4891bde819456870a87dad32f",
+ "date": "2025-10-11",
+ "subject": "Fix: Align Kai avatar in chat messages",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41961
+}

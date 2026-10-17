@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3d24efc6ac5efa8d8c36e80b9473116caa98aa2c",
+ "parent": "0f9a85eefc8281add2d0bafb0c4080f657359d85",
+ "date": "2025-10-09",
+ "subject": "Fix body scroll on mobile",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 97000
+}

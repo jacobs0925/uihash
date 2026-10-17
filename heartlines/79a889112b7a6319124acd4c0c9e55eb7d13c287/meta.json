@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "79a889112b7a6319124acd4c0c9e55eb7d13c287",
+ "parent": "d1b500853160d09088f570f6fe5ebed529628ce0",
+ "date": "2025-10-12",
+ "subject": "Refactor: Streamline plan sign-up flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx",
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42449
+}

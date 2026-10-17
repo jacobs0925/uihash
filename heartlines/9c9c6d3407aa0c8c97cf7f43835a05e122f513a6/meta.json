@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9c9c6d3407aa0c8c97cf7f43835a05e122f513a6",
+ "parent": "729a291fd9971967eb2a9fdec8a7c896795841e3",
+ "date": "2025-10-12",
+ "subject": "Fix: Center sign-in form on desktop",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42414
+}

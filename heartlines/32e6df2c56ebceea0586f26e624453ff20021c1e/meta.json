@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "32e6df2c56ebceea0586f26e624453ff20021c1e",
+ "parent": "26b6dd06a9e58b1d325844ef8486a106722db2eb",
+ "date": "2025-10-11",
+ "subject": "Fix z-index for chat container",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42289
+}

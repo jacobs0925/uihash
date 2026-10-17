@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "86b2548f9eb00ce592db7684abe00c6da80a583c",
+ "parent": "4c6e8f0d992b1a0b8c7a14ebe28f1ff1fc9bc3bb",
+ "date": "2025-10-08",
+ "subject": "feat: Add CTAs to homepage sections",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/SiteFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 66429
+}

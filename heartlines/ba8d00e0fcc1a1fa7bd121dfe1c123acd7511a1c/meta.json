@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ba8d00e0fcc1a1fa7bd121dfe1c123acd7511a1c",
+ "parent": "d4e5cc1e82b7d9021766ef9b62efea9db9cc1872",
+ "date": "2025-10-08",
+ "subject": "feat: Add CTA to How It Works section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43050
+}

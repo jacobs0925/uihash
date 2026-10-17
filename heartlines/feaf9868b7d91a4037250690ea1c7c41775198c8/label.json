@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "feaf9868b7d91a4037250690ea1c7c41775198c8",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Fix hamburger button hover state",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2291 later commits"
+}

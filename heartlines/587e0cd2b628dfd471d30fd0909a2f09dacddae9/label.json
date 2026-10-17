@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "587e0cd2b628dfd471d30fd0909a2f09dacddae9",
+ "date": "2025-10-09",
+ "pr": null,
+ "title": "Refactor: Adjust pricing page layout",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2474 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "fe9d2978279970d445ff6fcb296a94b1cd3929f2",
+ "parent": "b470b6f70f7575a3b13856a182e95cf21b0ccbec",
+ "date": "2025-10-11",
+ "subject": "Fix mobile input whitespace",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42468
+}

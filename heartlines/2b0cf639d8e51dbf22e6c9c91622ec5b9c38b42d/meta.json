@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2b0cf639d8e51dbf22e6c9c91622ec5b9c38b42d",
+ "parent": "6ca6cea15642c408dacfa3320c00f3d6003a9d4e",
+ "date": "2025-10-12",
+ "subject": "Refactor: Persist deletion markers to localStorage",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42238
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "4c6f7e8e60fc32c27d5665e8972fb5689b1b3e2b",
+ "parent": "b1e8108e7f34f3a0484d4c8e7741580e5a925ffd",
+ "date": "2025-10-08",
+ "subject": "Reverted to commit 5e921504718c1ee4c1468b75c9522adb41677082",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/LandingPageFallback.tsx",
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireFooter.tsx",
+  "src/components/UnlockCoachingButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42453
+}

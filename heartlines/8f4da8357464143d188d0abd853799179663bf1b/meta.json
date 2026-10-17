@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "8f4da8357464143d188d0abd853799179663bf1b",
+ "parent": "afce79c6e23c918d9bc5202ee5e3ef6ca66946d0",
+ "date": "2025-10-12",
+ "subject": "Fix: Improve mobile scroll behavior",
+ "components": [
+  "components",
+  "hooks",
+  "styles"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/hooks/usePullToReveal.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42361
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e1f9db7872ddde33c9e2e179dd7e368ad8ac0e5b",
+ "parent": "79a889112b7a6319124acd4c0c9e55eb7d13c287",
+ "date": "2025-10-12",
+ "subject": "Fix: Ensure free plan requires sign-up",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42355
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "26b6dd06a9e58b1d325844ef8486a106722db2eb",
+ "parent": "e2bd0bf0f5a9b43bd2521af8b1de274528e3bc28",
+ "date": "2025-10-11",
+ "subject": "Fix: Add padding to send button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42288
+}

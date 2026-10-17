@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7aa006bb0d23aac79038f43733279f67e627f4e1",
+ "parent": "46719d0435de7f3ceedb157509fecae99d4e182c",
+ "date": "2025-10-12",
+ "subject": "Fix: Match year gradient to CTA button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42292
+}

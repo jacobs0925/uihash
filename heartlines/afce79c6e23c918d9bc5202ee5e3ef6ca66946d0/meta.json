@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "afce79c6e23c918d9bc5202ee5e3ef6ca66946d0",
+ "parent": "0258cf2a93a08d9a08e3001f955f4fca14f4e9a6",
+ "date": "2025-10-12",
+ "subject": "Fix: Add small gap to chat input",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42204
+}

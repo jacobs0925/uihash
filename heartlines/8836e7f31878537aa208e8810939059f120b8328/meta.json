@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8836e7f31878537aa208e8810939059f120b8328",
+ "parent": "fe0d2bdc5fa2fc53409ee6d11534218f5d43424d",
+ "date": "2025-10-12",
+ "subject": "Fix mobile landing page scrolling",
+ "components": [
+  "styles"
+ ],
+ "files": [
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42301
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "17139afe4e484f4aa1ef01bd22ea783841d89376",
+ "parent": "d7eb8d0541aa01148c73ef73c4ac2caca82b501e",
+ "date": "2025-10-10",
+ "subject": "Fix: Adjust chat pill visibility with keyboard",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42350
+}

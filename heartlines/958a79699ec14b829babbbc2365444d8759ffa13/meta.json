@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "958a79699ec14b829babbbc2365444d8759ffa13",
+ "parent": "3f20d1c8b7da29efacf62a16846de23e7847a2ac",
+ "date": "2025-10-12",
+ "subject": "Fix: Remove burgundy separator from carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41803
+}

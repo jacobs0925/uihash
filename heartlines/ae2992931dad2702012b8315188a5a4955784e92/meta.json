@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ae2992931dad2702012b8315188a5a4955784e92",
+ "parent": "7aa006bb0d23aac79038f43733279f67e627f4e1",
+ "date": "2025-10-12",
+ "subject": "feat: Add phone lockup logo to auth pages",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42572
+}

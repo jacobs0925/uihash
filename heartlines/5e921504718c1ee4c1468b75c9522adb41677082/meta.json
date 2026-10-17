@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5e921504718c1ee4c1468b75c9522adb41677082",
+ "parent": "a8a7974005163b6c9b4b0e48ff7eb40379f14d7f",
+ "date": "2025-10-08",
+ "subject": "Fix: Ensure watermark stays fixed",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43247
+}

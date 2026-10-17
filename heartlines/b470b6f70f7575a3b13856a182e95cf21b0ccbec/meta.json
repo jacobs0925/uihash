@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "b470b6f70f7575a3b13856a182e95cf21b0ccbec",
+ "parent": "b1e329d0ddb7ac28b3db69c14d0dc23c79c203c2",
+ "date": "2025-10-10",
+ "subject": "Fix iOS safe area overlap",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatLayout.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42225
+}

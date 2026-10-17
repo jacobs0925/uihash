@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2ebc138dc56de87b6398f5bc97b9ec33c9995e13",
+ "parent": "f87748672577ef7af35115c5b90597522b617c75",
+ "date": "2025-10-10",
+ "subject": "Fix: Adjust chat header position",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42158
+}

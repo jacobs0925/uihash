@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6d6bd272bb52a5730ad4800d50c7f1e8c8ce1cac",
+ "parent": "f7742f3486803580368d2786ad2aec4d381530b4",
+ "date": "2025-10-11",
+ "subject": "Refactor chat header layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42133
+}

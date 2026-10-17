@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1258f619fc358edc5364fbfafb3f098eb79d7ae9",
+ "parent": "abfd77e69873b4fb265992c4bf2b2b7364356c91",
+ "date": "2025-10-12",
+ "subject": "Refactor: Replace PhoneLockup with wordmark",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42119
+}

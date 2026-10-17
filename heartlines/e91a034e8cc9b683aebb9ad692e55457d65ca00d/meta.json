@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "e91a034e8cc9b683aebb9ad692e55457d65ca00d",
+ "parent": "59b2c5acd7e2454b8034d87ebed9363d128a865e",
+ "date": "2025-10-11",
+ "subject": "Fix alignment and Popover loop",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42122
+}

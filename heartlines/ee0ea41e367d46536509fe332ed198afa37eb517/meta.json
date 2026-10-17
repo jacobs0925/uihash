@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ee0ea41e367d46536509fe332ed198afa37eb517",
+ "parent": "bdee09a28c52c29044ced6d44de6cc9c89028826",
+ "date": "2025-10-12",
+ "subject": "feat: Add sign-in link to pricing toast",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42264
+}

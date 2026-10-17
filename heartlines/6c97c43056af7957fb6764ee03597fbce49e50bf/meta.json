@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "6c97c43056af7957fb6764ee03597fbce49e50bf",
+ "parent": "b29637b61d478e694a9366a34cca5780916bdd1e",
+ "date": "2025-10-10",
+ "subject": "Fix: Reorganize mobile chat header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42274
+}

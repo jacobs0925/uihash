@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "0518d99a56deb670ecb5e0e14a14ff1b2142f808",
+ "parent": "2de8ae6920854a8f8b59e1acfc3f1b9bde02f729",
+ "date": "2025-10-10",
+ "subject": "Fix: Conditionally hide DashboardHeader on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx",
+  "src/components/DashboardHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41975
+}

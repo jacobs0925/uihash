@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9a8addd7dbb73fe62faf298159d70a26639c233e",
+ "parent": "4e38426739c99c3592dd5d638a422f03c72b98b7",
+ "date": "2025-10-12",
+ "subject": "Reverted to commit 3257108af7ef1269c130c3a8673fb7e13db27b3f",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42203
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "13522369f90d711cada847ee170b41597fc5e90c",
+ "parent": "e1f9db7872ddde33c9e2e179dd7e368ad8ac0e5b",
+ "date": "2025-10-12",
+ "subject": "Fix: Remove toast notification on sign-in",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42274
+}

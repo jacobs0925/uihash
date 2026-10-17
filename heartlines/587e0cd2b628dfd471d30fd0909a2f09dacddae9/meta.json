@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "587e0cd2b628dfd471d30fd0909a2f09dacddae9",
+ "parent": "74cf183eafe83f5ffddc1a88561e157802cd1cab",
+ "date": "2025-10-09",
+ "subject": "Refactor: Adjust pricing page layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 49277
+}

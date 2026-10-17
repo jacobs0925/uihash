@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b1e53f1ec725fcf89572c8b310dfbc1475752ce3",
+ "parent": "e8cfbded0fea7f25f0ab41b52b11f6eef80d4251",
+ "date": "2025-10-09",
+ "subject": "Fix: Increase bottom padding for chat interface",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43085
+}

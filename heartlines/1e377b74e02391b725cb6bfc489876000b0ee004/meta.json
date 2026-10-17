@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1e377b74e02391b725cb6bfc489876000b0ee004",
+ "parent": "e8fae8a8a8159c825f7962593e1d6048aa90bd7f",
+ "date": "2025-10-10",
+ "subject": "Fix mobile hamburger navigation height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42159
+}

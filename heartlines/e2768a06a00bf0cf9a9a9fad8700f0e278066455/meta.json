@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e2768a06a00bf0cf9a9a9fad8700f0e278066455",
+ "parent": "f5f9a073eefc622899e264dc1cced1d6fee1417d",
+ "date": "2025-10-11",
+ "subject": "Fix: Align Kai avatar in header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42074
+}

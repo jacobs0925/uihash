@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d1b500853160d09088f570f6fe5ebed529628ce0",
+ "parent": "ee0ea41e367d46536509fe332ed198afa37eb517",
+ "date": "2025-10-12",
+ "subject": "Fix: Improve toast notification visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/sonner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42260
+}

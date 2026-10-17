@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0f9a85eefc8281add2d0bafb0c4080f657359d85",
+ "parent": "3a1c8afdcf6675e11106260694e16be28f39097c",
+ "date": "2025-10-09",
+ "subject": "Refactor: Wrap chat components in flex container",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42748
+}

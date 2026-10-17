@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "729a291fd9971967eb2a9fdec8a7c896795841e3",
+ "parent": "2102b7cc20ac2fee4730c06ee915e2672bc017c6",
+ "date": "2025-10-12",
+ "subject": "Fix Account page mobile scrolling",
+ "components": [
+  "components",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/components/account/AccountLayout.tsx",
+  "src/pages/Account.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42603
+}

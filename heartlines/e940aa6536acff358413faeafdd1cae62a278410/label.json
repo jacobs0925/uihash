@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "e940aa6536acff358413faeafdd1cae62a278410",
+ "date": "2025-10-09",
+ "pr": null,
+ "title": "Fix button alignment on pricing page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2468 later commits"
+}

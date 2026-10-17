@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "56cb390037e5e79f9e19fdfebc226d537e3e6dd2",
+ "parent": "ff7f1daa498aedc25dc787dcd353b9055e9947cd",
+ "date": "2025-10-12",
+ "subject": "feat: Add new logo for sign-up",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "public/lovable-uploads/heartlines-signup-logo.svg",
+  "src/branding.ts",
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42094
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "b6e458f73fba23c9deb200957a3dc2ac913333bd",
+ "parent": "c96e2587976c282c7297b15a9626528b7a00c597",
+ "date": "2025-10-09",
+ "subject": "Refactor: Adjust spacing in profile builder",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx",
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42823
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ceb131f3d2402e1d00c3935723728771cf860694",
+ "parent": "958a79699ec14b829babbbc2365444d8759ffa13",
+ "date": "2025-10-12",
+ "subject": "Fix: Remove gradient overlay from carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42414
+}

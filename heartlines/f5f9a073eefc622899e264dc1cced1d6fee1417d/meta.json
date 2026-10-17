@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f5f9a073eefc622899e264dc1cced1d6fee1417d",
+ "parent": "030d9b75f1557ba268e2c0214b8253fcc7f8a603",
+ "date": "2025-10-11",
+ "subject": "Fix: Add mobile padding to chat messages",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42170
+}

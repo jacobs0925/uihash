@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9fa8c4490e068bac97ae56497b593ccd8450b5ec",
+ "parent": "baaa1119afbb39742dc01fa166b637b739d0c38b",
+ "date": "2025-10-12",
+ "subject": "Fix scroll-to-top arrow logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42090
+}

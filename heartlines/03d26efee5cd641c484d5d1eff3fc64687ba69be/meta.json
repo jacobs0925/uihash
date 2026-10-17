@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "03d26efee5cd641c484d5d1eff3fc64687ba69be",
+ "parent": "0a11b8739d89816c032d9d6ceaff07db2524c137",
+ "date": "2025-10-12",
+ "subject": "Fix desktop spacing for sign in",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41812
+}

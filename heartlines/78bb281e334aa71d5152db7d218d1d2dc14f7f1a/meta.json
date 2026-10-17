@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "78bb281e334aa71d5152db7d218d1d2dc14f7f1a",
+ "parent": "3ab3012d0637a63bce39eab5b51fb982c47be5ba",
+ "date": "2025-10-09",
+ "subject": "Fix: Adjust chat layout height for mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43206
+}

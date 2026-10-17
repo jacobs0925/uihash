@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "20ea0a97e95563a948091a21f7d2fe7a54e0a102",
+ "parent": "9a8addd7dbb73fe62faf298159d70a26639c233e",
+ "date": "2025-10-12",
+ "subject": "Fix: Prevent image zoom on mobile hero carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41956
+}

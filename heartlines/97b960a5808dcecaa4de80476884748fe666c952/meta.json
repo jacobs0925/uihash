@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "97b960a5808dcecaa4de80476884748fe666c952",
+ "parent": "81b8da39f1e3c753d2b9001ba1c3d0d86e708527",
+ "date": "2025-10-12",
+ "subject": "Fix message overlap and move avatar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42416
+}

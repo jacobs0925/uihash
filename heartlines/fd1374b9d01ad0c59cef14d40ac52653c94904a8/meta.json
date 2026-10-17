@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "fd1374b9d01ad0c59cef14d40ac52653c94904a8",
+ "parent": "d683b3e135b2e9834b3d6677a0bf1640c711724b",
+ "date": "2025-10-12",
+ "subject": "Refactor: Adjust sign-up layout for mobile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42389
+}

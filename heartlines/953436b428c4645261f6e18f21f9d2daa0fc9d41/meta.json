@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "953436b428c4645261f6e18f21f9d2daa0fc9d41",
+ "parent": "fe9d2978279970d445ff6fcb296a94b1cd3929f2",
+ "date": "2025-10-11",
+ "subject": "Fix chat scrolling and keyboard whitespace",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42460
+}

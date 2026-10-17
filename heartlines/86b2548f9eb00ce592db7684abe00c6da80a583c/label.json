@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "86b2548f9eb00ce592db7684abe00c6da80a583c",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "feat: Add CTAs to homepage sections",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2515 later commits"
+}

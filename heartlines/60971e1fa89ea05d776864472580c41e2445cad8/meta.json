@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "60971e1fa89ea05d776864472580c41e2445cad8",
+ "parent": "56fa898f28b62a313b1a496e089a680212fa5fbe",
+ "date": "2025-10-09",
+ "subject": "Make X button more visible",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/sheet.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42854
+}

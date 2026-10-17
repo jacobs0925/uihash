@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e8cfbded0fea7f25f0ab41b52b11f6eef80d4251",
+ "parent": "393392926ffb9c9419e00f99e64ad3fee9116a0b",
+ "date": "2025-10-09",
+ "subject": "Fix: Adjust chat layout height for padding",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42774
+}

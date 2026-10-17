@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7a35b2b0c4b0c97701cd23565447b6807cf03874",
+ "parent": "13522369f90d711cada847ee170b41597fc5e90c",
+ "date": "2025-10-12",
+ "subject": "feat: Add user avatar to mobile navigation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42356
+}

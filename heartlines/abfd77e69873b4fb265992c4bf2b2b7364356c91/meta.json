@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "abfd77e69873b4fb265992c4bf2b2b7364356c91",
+ "parent": "fd1374b9d01ad0c59cef14d40ac52653c94904a8",
+ "date": "2025-10-12",
+ "subject": "Fix mobile sign-in layout and animations",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42284
+}

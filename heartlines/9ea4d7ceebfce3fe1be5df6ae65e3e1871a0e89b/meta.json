@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9ea4d7ceebfce3fe1be5df6ae65e3e1871a0e89b",
+ "parent": "3710de3a39048aab75ad458de37203096bc0d327",
+ "date": "2025-10-09",
+ "subject": "Fix: Remove conflicting padding in ChatLayout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43204
+}

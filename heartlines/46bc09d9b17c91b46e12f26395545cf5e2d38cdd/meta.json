@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "46bc09d9b17c91b46e12f26395545cf5e2d38cdd",
+ "parent": "acef753c6da636c2e49e6d9dfdc4b9700c417970",
+ "date": "2025-10-12",
+ "subject": "feat: Add back smaller PhoneLockup component",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42126
+}

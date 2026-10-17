@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "6f0405767acbc1d1355879683631e75e48c327d4",
+ "date": "2025-10-09",
+ "pr": null,
+ "title": "Refactor: Use BrandLogo in footer",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 77a8b94d, which restored 63702112 (1 commit discarded)"
+}

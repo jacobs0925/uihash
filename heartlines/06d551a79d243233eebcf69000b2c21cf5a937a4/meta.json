@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "06d551a79d243233eebcf69000b2c21cf5a937a4",
+ "parent": "642b54e5f1eb984f7d993ec2b2a2f8ef1fea6a6d",
+ "date": "2025-10-11",
+ "subject": "Fix: Adjust Kai's avatar position on desktop header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42357
+}

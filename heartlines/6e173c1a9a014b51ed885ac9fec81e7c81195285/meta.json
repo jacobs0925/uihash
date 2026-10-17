@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6e173c1a9a014b51ed885ac9fec81e7c81195285",
+ "parent": "06d551a79d243233eebcf69000b2c21cf5a937a4",
+ "date": "2025-10-11",
+ "subject": "Refactor: Update mobile navigation style",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42295
+}

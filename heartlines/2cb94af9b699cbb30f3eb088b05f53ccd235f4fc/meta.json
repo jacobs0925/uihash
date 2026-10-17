@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "2cb94af9b699cbb30f3eb088b05f53ccd235f4fc",
+ "parent": "e3c790ee130b783967a2fe267cf478d486ced7f4",
+ "date": "2025-10-11",
+ "subject": "feat: Implement mobile header layout changes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42251
+}

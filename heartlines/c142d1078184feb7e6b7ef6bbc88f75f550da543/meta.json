@@ -1,0 +1,26 @@
+{
+ "repo": "heartlines",
+ "sha": "c142d1078184feb7e6b7ef6bbc88f75f550da543",
+ "parent": "680c87f18cf3466f2b1f1d5d3d286a809b484524",
+ "date": "2025-10-10",
+ "subject": "Fix mobile chat UI",
+ "components": [
+  "components",
+  "contexts",
+  "styles"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/DashboardContent.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/contexts/ViewportContext.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42236
+}

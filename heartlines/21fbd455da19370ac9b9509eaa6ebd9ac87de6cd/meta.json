@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "21fbd455da19370ac9b9509eaa6ebd9ac87de6cd",
+ "parent": "196510972cfa62e62ec11f264921bd24b0b0f935",
+ "date": "2025-10-12",
+ "subject": "Fix spacing on sign-in page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41846
+}

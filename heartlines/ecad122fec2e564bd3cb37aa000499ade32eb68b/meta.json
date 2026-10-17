@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ecad122fec2e564bd3cb37aa000499ade32eb68b",
+ "parent": "aad96692a6bc58d7bfcf179657e2b10269c3c380",
+ "date": "2025-10-09",
+ "subject": "Fix: Ensure Kai's avatar always loads",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42912
+}

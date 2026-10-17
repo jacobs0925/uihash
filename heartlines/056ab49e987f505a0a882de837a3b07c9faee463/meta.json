@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "056ab49e987f505a0a882de837a3b07c9faee463",
+ "parent": "994003dc3e161e0df441d3b44bf428f5b2a5ff7c",
+ "date": "2025-10-24",
+ "subject": "Fix: Apply consistent background to homepage",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36679
+}

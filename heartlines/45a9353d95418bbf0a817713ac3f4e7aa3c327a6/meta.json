@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "45a9353d95418bbf0a817713ac3f4e7aa3c327a6",
+ "parent": "f14598f8b8562141fa05f7adf3e113c00aea327c",
+ "date": "2025-10-24",
+ "subject": "Fix: Reduce message avatar size on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35562
+}

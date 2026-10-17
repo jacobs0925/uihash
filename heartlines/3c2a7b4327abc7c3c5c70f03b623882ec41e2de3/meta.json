@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3c2a7b4327abc7c3c5c70f03b623882ec41e2de3",
+ "parent": "0f084d56a8fc6b68306b911d324b2269658576a7",
+ "date": "2025-10-27",
+ "subject": "Fix: Remove bold text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 41687
+}

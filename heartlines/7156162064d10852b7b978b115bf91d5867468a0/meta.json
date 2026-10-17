@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7156162064d10852b7b978b115bf91d5867468a0",
+ "parent": "b7ad683a66e8c14f07651b8f286399338ac85981",
+ "date": "2025-10-27",
+ "subject": "Fix: Make sign-in logo larger on tablet/desktop",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 49433
+}

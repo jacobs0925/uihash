@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "3cb7ef8f1b6afa163fa505b731ca03e9991af779",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Refactor: Make branding font denser",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by 3f62ff63, which restored a922bd87 (3 commits discarded)"
+}

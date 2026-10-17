@@ -7,6 +7,6 @@
  "title": "Refactor: Improve Mission page visual design",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "margin-top: 40px → 64px undone by bedfd638 \"Refactor: Compact page and add gloss\"; margin-top: 40px → 64px undone by bedfd638 \"Refactor: Compact page and add gloss\"; margin-top: 40px → 64px undone by bedfd638 \"Refactor: Compact page and add gloss\""
 }

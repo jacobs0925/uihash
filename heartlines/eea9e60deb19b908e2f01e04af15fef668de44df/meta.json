@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "eea9e60deb19b908e2f01e04af15fef668de44df",
+ "parent": "e69d2d24dea429c7f823905115cfb81daed1f4f9",
+ "date": "2025-10-24",
+ "subject": "Refactor: Add subtle color accents",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/ConversationStarters.tsx",
+  "src/components/ScrollToTopArrow.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/components/chat/DateSeparator.tsx",
+  "src/components/chat/TypingIndicator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37615
+}

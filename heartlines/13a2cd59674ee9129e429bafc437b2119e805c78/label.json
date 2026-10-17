@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "13a2cd59674ee9129e429bafc437b2119e805c78",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Refactor: Update headers and navigation styling",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "backdrop-filter: ∅ → blur(24px) undone by 4dc64f79 \"Fix: Enable scrolling and simplify header on /plans\"; border-bottom-width: ∅ → 1px undone by 4dc64f79 \"Fix: Enable scrolling and simplify header on /plans\"; backdrop-filter: ∅ → blur(24px) undone by 4dc64f79 \"Fix: Enable scrolling and simplify header on /plans\""
+}

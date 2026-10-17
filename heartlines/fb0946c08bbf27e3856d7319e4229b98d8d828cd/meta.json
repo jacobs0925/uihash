@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "fb0946c08bbf27e3856d7319e4229b98d8d828cd",
+ "parent": "14f20ddd1b35c5909b17948c3ea9f43bfd5b3639",
+ "date": "2025-10-23",
+ "subject": "Refactor: Apply premium background to /plans page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 39620
+}

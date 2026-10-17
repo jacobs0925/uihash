@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "4dc64f79c977765ed1c1d2bdfa7e7af02c57c71e",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Fix: Enable scrolling and simplify header on /plans",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "overflow-x: hidden → auto undone by 62f62f53 \"Fix: Remove scrollbar from /plans page\"; overflow-y: hidden → auto undone by 62f62f53 \"Fix: Remove scrollbar from /plans page\"; overflow-x: hidden → auto undone by 62f62f53 \"Fix: Remove scrollbar from /plans page\""
+}

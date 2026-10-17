@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "baf9ccb6430550d22550b8a0bc532a40afe484b0",
+ "parent": "f1f1fc7ddc1f9c60d53d02b622a125597436fbec",
+ "date": "2025-10-24",
+ "subject": "Fix: Apply lighter background to all pages",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/pages/Account.tsx",
+  "src/pages/Contact.tsx",
+  "src/pages/Mission.tsx",
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 46214
+}

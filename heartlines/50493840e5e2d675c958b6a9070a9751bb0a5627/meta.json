@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "50493840e5e2d675c958b6a9070a9751bb0a5627",
+ "parent": "d9a5d90e8bc33d083200fe233e814198fbca76dd",
+ "date": "2025-10-23",
+ "subject": "Fix: Remove unnecessary scrollbars",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37700
+}

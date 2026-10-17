@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "fb2cc3752a34118d09bdf291f4c0c94fea09eb22",
+ "parent": "50493840e5e2d675c958b6a9070a9751bb0a5627",
+ "date": "2025-10-23",
+ "subject": "Fix: Increase padding to prevent text cutoff",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36479
+}

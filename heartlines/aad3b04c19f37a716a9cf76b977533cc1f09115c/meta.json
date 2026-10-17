@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "aad3b04c19f37a716a9cf76b977533cc1f09115c",
+ "parent": "15b12a4b300ead04c9effb9a994ca5c0eeabe7e1",
+ "date": "2025-10-23",
+ "subject": "Fix: Implement absolute positioning for typing indicator",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37116
+}

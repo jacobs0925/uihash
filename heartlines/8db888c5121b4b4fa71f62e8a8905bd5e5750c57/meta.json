@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8db888c5121b4b4fa71f62e8a8905bd5e5750c57",
+ "parent": "445f2f740a2b6206449614c6877c11fbc72d3fc0",
+ "date": "2025-10-24",
+ "subject": "Fix: Increase splash screen logo size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Brand/PhoneLockup.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36422
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "c8062636460b599a8892045fded094e37f5d82cf",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Refactor: Update intro text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1396 later commits"
+}

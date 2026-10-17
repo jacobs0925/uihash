@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "23e5ab34917047964290a611803c9c0bec53ebbe",
+ "parent": "4ed45a503e526ddad7c107849de64746fb970c01",
+ "date": "2025-10-24",
+ "subject": "Refactor: Add italic to year carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36767
+}

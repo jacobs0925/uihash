@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6f9653f468394a96fea424be9563ceb04e1fa22d",
+ "parent": "d56429f2d7c82665093a20b44755d89468a434d3",
+ "date": "2025-10-28",
+ "subject": "Refactor: Adjust DataFlowCards header styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/privacy/DataFlowCards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 44626
+}

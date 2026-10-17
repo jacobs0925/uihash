@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "1593335a731577528dcbc0c13ccfc9dd18737011",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Refactor: Update \"What Heartlines Is\" layout",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "font-weight: 300 → 600 undone by 3c2a7b43 \"Fix: Remove bold text\"; font-weight: 300 → 600 undone by 3c2a7b43 \"Fix: Remove bold text\"; font-weight: 300 → 600 undone by 3c2a7b43 \"Fix: Remove bold text\""
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "d4e77ecbc30690e54cb1051bdb7a596ee7df8065",
+ "parent": "fb0946c08bbf27e3856d7319e4229b98d8d828cd",
+ "date": "2025-10-23",
+ "subject": "Refactor: Apply premium background to navbars",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/SimpleHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 47931
+}

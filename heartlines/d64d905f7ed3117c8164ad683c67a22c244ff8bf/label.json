@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "d64d905f7ed3117c8164ad683c67a22c244ff8bf",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Refactor: Adjust hero section elements",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1385 later commits"
+}

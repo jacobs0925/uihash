@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8855531ea2ca593ca8b014ab56c5a9a3850e10ee",
+ "parent": "a386181bcb6f97fbb11ddec5883fd5f1cf1c21b3",
+ "date": "2025-10-23",
+ "subject": "Fix phone animation background",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34924
+}

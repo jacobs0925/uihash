@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "a48424cd87433cfd68d977dd32e630d4be7970bc",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Fix: Match duck icon colors",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1380 later commits"
+}

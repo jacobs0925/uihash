@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c7c3815b28f06fabd5c31465182c60c06999c187",
+ "parent": "7ade013c21432c7c07e3a94dbbc0f1b9192d698f",
+ "date": "2025-10-24",
+ "subject": "Fix: Allow \"how it works\" to wrap on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37040
+}

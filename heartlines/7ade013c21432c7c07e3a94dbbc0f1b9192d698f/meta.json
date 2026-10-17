@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "7ade013c21432c7c07e3a94dbbc0f1b9192d698f",
+ "parent": "cf67d27e718be03d1492aaafaba81194b97dce67",
+ "date": "2025-10-24",
+ "subject": "Fix: Adjust avatar sizes and heading font",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36710
+}

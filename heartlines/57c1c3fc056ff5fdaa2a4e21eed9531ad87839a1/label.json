@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "57c1c3fc056ff5fdaa2a4e21eed9531ad87839a1",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Fix: Implement CSS optimizations for performance",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1477 later commits"
+}

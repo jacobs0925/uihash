@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "85c8cb26649f1f6b3ab85be5ef550f6568e3052c",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Refactor hero section layout",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by c4f9e529, which restored d64d905f (1 commit discarded)"
+}

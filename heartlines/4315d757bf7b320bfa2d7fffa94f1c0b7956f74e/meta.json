@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4315d757bf7b320bfa2d7fffa94f1c0b7956f74e",
+ "parent": "fb2cc3752a34118d09bdf291f4c0c94fea09eb22",
+ "date": "2025-10-23",
+ "subject": "Fix: Prevent text cutoff on wide screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36722
+}

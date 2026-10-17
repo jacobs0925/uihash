@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c8062636460b599a8892045fded094e37f5d82cf",
+ "parent": "a1c961bcedeceddbd12c81b3f9eda019562308f0",
+ "date": "2025-10-27",
+ "subject": "Refactor: Update intro text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 10,
+ "ms": 43102
+}

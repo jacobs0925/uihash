@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "49f4e76627d84da4b8bec25f54983faf07239c89",
+ "parent": "b49ada427c72ade0f7511e23ff4663e63d582198",
+ "date": "2025-10-24",
+ "subject": "Fix: Adjust pricing page brightness",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/components/PremiumBackground.tsx",
+  "src/index.css",
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 72578
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "75631f32dfad2fff24d6f8937e670bfe3c875edd",
+ "parent": "cf0dcfe33a69fb9fb1a799dbe5af1f36957ffa38",
+ "date": "2025-10-24",
+ "subject": "Fix: Center sign-in module",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 49687
+}

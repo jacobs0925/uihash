@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d758ebd2531b031f7ca63f961fe5a45c6a268893",
+ "parent": "7ecd33a5950ac00bc6b8b19ee677f42c61bdacd5",
+ "date": "2025-10-27",
+ "subject": "Refactor: Update icon styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 51933
+}

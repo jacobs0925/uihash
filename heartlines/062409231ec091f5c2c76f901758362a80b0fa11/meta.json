@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "062409231ec091f5c2c76f901758362a80b0fa11",
+ "parent": "0b51028d9af8a1687041a1365191ae28f8412956",
+ "date": "2025-10-28",
+ "subject": "Remove unnecessary lines from \"Our Moment\"",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41069
+}

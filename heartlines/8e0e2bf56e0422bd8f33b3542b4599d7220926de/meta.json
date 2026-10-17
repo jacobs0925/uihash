@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8e0e2bf56e0422bd8f33b3542b4599d7220926de",
+ "parent": "092f3818c36a95676e8efe1e9d0533d242598e39",
+ "date": "2025-10-24",
+ "subject": "Fix: Increase message font size on tablet and desktop",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37488
+}

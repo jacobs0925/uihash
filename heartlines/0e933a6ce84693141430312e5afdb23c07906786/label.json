@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "0e933a6ce84693141430312e5afdb23c07906786",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Refactor: Balance glassmorphism with editorial design",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 915d53a4, which restored 1be981c7 (1 commit discarded)"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "790404951ad62e9348e5bcff4211b71c85b0fd44",
+ "parent": "707d44443ddcab1eff480c454917535424cc14f9",
+ "date": "2025-10-23",
+ "subject": "Fix: Adjust hero text size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45170
+}

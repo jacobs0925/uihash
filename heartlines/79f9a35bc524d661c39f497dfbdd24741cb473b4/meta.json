@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "79f9a35bc524d661c39f497dfbdd24741cb473b4",
+ "parent": "4a58163c30603da75f24f9c7a9e6d3bb6f8d0735",
+ "date": "2025-10-27",
+ "subject": "Fix: Adjust mobile logo size",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 47319
+}

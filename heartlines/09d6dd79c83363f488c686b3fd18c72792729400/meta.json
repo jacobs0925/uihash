@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "09d6dd79c83363f488c686b3fd18c72792729400",
+ "parent": "207be5155c61801e6dd30d3c157cbf02683df7f0",
+ "date": "2025-10-27",
+ "subject": "Fix sign-in logo centering on mobile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 47202
+}

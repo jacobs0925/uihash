@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "3c2a7b4327abc7c3c5c70f03b623882ec41e2de3",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Fix: Remove bold text",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "font-weight: 600 → 300 undone by 90c0a3c7 \"Visual edit in Lovable\"; font-weight: 600 → 300 undone by 90c0a3c7 \"Visual edit in Lovable\"; font-weight: 600 → 300 undone by 90c0a3c7 \"Visual edit in Lovable\""
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "62f62f53e492da12cc1a1e2026ac414ac046d04e",
+ "parent": "8e0e2bf56e0422bd8f33b3542b4599d7220926de",
+ "date": "2025-10-24",
+ "subject": "Fix: Remove scrollbar from /plans page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 40657
+}

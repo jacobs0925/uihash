@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "4dc64f79c977765ed1c1d2bdfa7e7af02c57c71e",
+ "parent": "451e06f5fa7e0b58b5ebe91d3a48973a0b080da1",
+ "date": "2025-10-24",
+ "subject": "Fix: Enable scrolling and simplify header on /plans",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 12,
+ "ms": 68559
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "d758ebd2531b031f7ca63f961fe5a45c6a268893",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Refactor: Update icon styling",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1394 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "6f0c1437c1fc0ed8fbb2ebc7c2c1b6ef3404ea6c",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Reverted to commit 1be981c786601763a0ba88df37a779c136e01691",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "max-width: 896px → 768px undone by 6ffb4a57 \"Refactor: Redesign mission page for premium feel\"; padding-top: 128px → 64px undone by 6ffb4a57 \"Refactor: Redesign mission page for premium feel\"; padding-bottom: 128px → 64px undone by 6ffb4a57 \"Refactor: Redesign mission page for premium feel\""
+}

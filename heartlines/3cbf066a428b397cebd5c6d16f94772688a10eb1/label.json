@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "3cbf066a428b397cebd5c6d16f94772688a10eb1",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "feat: Implement native app-like mobile coach interface",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1431 later commits"
+}

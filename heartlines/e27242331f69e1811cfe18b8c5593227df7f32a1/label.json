@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "e27242331f69e1811cfe18b8c5593227df7f32a1",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Remove CTA heading and adjust padding",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1364 later commits"
+}

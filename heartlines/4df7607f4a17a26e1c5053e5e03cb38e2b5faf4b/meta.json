@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4df7607f4a17a26e1c5053e5e03cb38e2b5faf4b",
+ "parent": "afe661a4cdc0ef8c068fb1ca817e8fa380c90c44",
+ "date": "2025-10-27",
+ "subject": "Update Heartlines section styling and content",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 41220
+}

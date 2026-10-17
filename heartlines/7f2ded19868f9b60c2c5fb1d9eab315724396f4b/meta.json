@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7f2ded19868f9b60c2c5fb1d9eab315724396f4b",
+ "parent": "a3ab994fa5fa2351790724b35ab4475a8009b263",
+ "date": "2025-10-23",
+ "subject": "Fix mobile homepage purple background",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35109
+}

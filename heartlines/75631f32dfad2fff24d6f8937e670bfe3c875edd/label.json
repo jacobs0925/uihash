@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "75631f32dfad2fff24d6f8937e670bfe3c875edd",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Fix: Center sign-in module",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1435 later commits"
+}

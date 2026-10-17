@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "ba83fd2e70f64febc3abb6fa255d9ab2048ab828",
+ "date": "2025-10-23",
+ "pr": null,
+ "title": "Fix Pricing page darkness",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 5f7f2dd6, which restored 17fca2ce (1 commit discarded)"
+}

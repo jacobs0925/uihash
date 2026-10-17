@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "e17cc11154f32e03481a915b1d36ace9e23eeeab",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Refactor: Simplify header text",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1369 later commits"
+}

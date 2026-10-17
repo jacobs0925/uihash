@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "15b12a4b300ead04c9effb9a994ca5c0eeabe7e1",
+ "parent": "3a2f7712dddbc5188c1d26fef44602e3e69cfe75",
+ "date": "2025-10-23",
+ "subject": "Refactor: Implement collapsing container fix",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37637
+}

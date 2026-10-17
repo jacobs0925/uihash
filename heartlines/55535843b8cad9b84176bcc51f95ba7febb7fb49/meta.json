@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "55535843b8cad9b84176bcc51f95ba7febb7fb49",
+ "parent": "ba3fa45e317cd5b8298481ec89a04be22001960d",
+ "date": "2025-10-28",
+ "subject": "Refactor: Tighten spacing in \"What heartlines Is\"",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40724
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b4d20f6bdd1c49d3032980c0cd3f23feed9090d2",
+ "parent": "70f0be71288465a27b55055f9bb521c77751a135",
+ "date": "2025-10-28",
+ "subject": "Refactor: Update Privacy & Security header",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 44514
+}

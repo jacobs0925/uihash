@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2b65abddea3c0d60143c421c5d6bfbf72d9d9e44",
+ "parent": "333348e88039d1b94ca2c5c5b3d1048be10db324",
+ "date": "2025-10-23",
+ "subject": "Refactor: Improve copy typography and design",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34573
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b3603397a856936754f1f5c6cc9c65df7923dfa0",
+ "parent": "1593335a731577528dcbc0c13ccfc9dd18737011",
+ "date": "2025-10-27",
+ "subject": "Visual edit in Lovable",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 14,
+ "ms": 45974
+}

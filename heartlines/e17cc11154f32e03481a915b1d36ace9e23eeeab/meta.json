@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e17cc11154f32e03481a915b1d36ace9e23eeeab",
+ "parent": "b7d5c3477b4b45760ac31417ea4f1682bf6d6bff",
+ "date": "2025-10-28",
+ "subject": "Refactor: Simplify header text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 17,
+ "ms": 95196
+}

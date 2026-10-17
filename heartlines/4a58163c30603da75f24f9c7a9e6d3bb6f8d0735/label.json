@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "4a58163c30603da75f24f9c7a9e6d3bb6f8d0735",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Refactor: Reduce sign-in logo size on mobile",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1407 later commits"
+}

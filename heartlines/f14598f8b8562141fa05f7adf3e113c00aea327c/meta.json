@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f14598f8b8562141fa05f7adf3e113c00aea327c",
+ "parent": "ce84839afff3b755b1df2361760855a5d20b35d9",
+ "date": "2025-10-24",
+ "subject": "Fix: Update profile header styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36212
+}

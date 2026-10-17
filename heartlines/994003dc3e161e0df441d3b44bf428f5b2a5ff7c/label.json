@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "994003dc3e161e0df441d3b44bf428f5b2a5ff7c",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Fix: Apply consistent background to all pages",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1522 later commits"
+}

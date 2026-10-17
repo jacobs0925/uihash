@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7ecd33a5950ac00bc6b8b19ee677f42c61bdacd5",
+ "parent": "c8062636460b599a8892045fded094e37f5d82cf",
+ "date": "2025-10-27",
+ "subject": "Refactor: Update header treatments",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 50924
+}

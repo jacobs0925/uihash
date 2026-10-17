@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "fd8327cb6b72ad194124062b9f2b2b8d673249cc",
+ "parent": "ebbed359f35f99a1f924e1e20b6de192c98c83dd",
+ "date": "2025-10-24",
+ "subject": "Refactor: Improve header styling and size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37872
+}

@@ -7,6 +7,6 @@
  "title": "Refactor: Align \"Our Moment\" section styles",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "font-size: 18px → 20px undone by bedfd638 \"Refactor: Compact page and add gloss\"; font-size: 18px → 20px undone by bedfd638 \"Refactor: Compact page and add gloss\"; font-size: 18px → 20px undone by bedfd638 \"Refactor: Compact page and add gloss\""
 }

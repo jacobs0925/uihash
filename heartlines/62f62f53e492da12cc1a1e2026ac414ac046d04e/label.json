@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "62f62f53e492da12cc1a1e2026ac414ac046d04e",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Fix: Remove scrollbar from /plans page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1487 later commits"
+}

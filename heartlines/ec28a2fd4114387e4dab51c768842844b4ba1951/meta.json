@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ec28a2fd4114387e4dab51c768842844b4ba1951",
+ "parent": "d6126fa8e7c19b909ba42d303b807234969ed100",
+ "date": "2025-10-28",
+ "subject": "Refactor: Update Mission page copy",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 7,
+ "ms": 56781
+}

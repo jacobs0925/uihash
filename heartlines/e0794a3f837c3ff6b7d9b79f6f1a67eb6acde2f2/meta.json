@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e0794a3f837c3ff6b7d9b79f6f1a67eb6acde2f2",
+ "parent": "45a9353d95418bbf0a817713ac3f4e7aa3c327a6",
+ "date": "2025-10-24",
+ "subject": "Fix: Revert profile header font to Shrikhand",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34610
+}

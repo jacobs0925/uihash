@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "6f9653f468394a96fea424be9563ceb04e1fa22d",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Refactor: Adjust DataFlowCards header styling",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-bottom: 24px → 0px undone by d56429f2 \"Refactor: Style data flow description\"; margin-bottom: 24px → 0px undone by d56429f2 \"Refactor: Style data flow description\"; margin-bottom: 24px → 0px undone by d56429f2 \"Refactor: Style data flow description\""
+}

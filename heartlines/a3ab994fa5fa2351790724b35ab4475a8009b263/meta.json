@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a3ab994fa5fa2351790724b35ab4475a8009b263",
+ "parent": "5fe306fb82b0b7f7a6a0138aa777f11752938aa4",
+ "date": "2025-10-23",
+ "subject": "Fix dark chat bubbles on small screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatBubble.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34844
+}

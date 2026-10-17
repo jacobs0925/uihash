@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "270b46544b0bc5c01cc91499599369b1e94c373a",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Reverted to commit 49f4e76627d84da4b8bec25f54983faf07239c89",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-image: linear-gradient(to right bottom, rgb(51, 0, 9), rgb(102, 0, 17), rgb(51, 0, 9)) → linear-gradient(to right bottom, rgb(102, 0, 17), rgb(128, 0, 21), rgb(102, 0, 17)) undone by ccf3d066 \"Fix: Apply consistent backgrounds everywhere\"; background-image: linear-gradient(to right bottom, rgb(51, 0, 9), rgb(102, 0, 17), rgb(51, 0, 9)) → linear-gradient(to right bottom, rgb(102, 0, 17), rgb(128, 0, 21), rgb(102, 0, 17)) undone by ccf3d066 \"Fix: Apply consistent backgrounds everywhere\"; background-image: linear-gradient(to right bottom, rgb(51, 0, 9), rgb(102, 0, 17), rgb(51, 0, 9)) → linear-gradient(to right bottom, rgb(102, 0, 17), rgb(128, 0, 21), rgb(102, 0, 17)) undone by ccf3d066 \"Fix: Apply consistent backgrounds everywhere\""
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "c0d9b8545b6276fbfbaed90279af3a1c03d9effc",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Fix sign-up page centering and logo loading",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1414 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "451e06f5fa7e0b58b5ebe91d3a48973a0b080da1",
+ "parent": "f731de4b8ec017452c10283f1f239da3a29794a0",
+ "date": "2025-10-24",
+ "subject": "Fix: Match header style on plans page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 41094
+}

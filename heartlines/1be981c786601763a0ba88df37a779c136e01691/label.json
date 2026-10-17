@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "1be981c786601763a0ba88df37a779c136e01691",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Refactor: Update mission page content",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"is built by laurie ai\" → \"because if ai can help people connect,\" undone by 90c0a3c7 \"Visual edit in Lovable\"; text: \"is built by laurie ai\" → \"because if ai can help people connect,\" undone by 90c0a3c7 \"Visual edit in Lovable\"; text: \"is built by laurie ai\" → \"because if ai can help people connect,\" undone by 90c0a3c7 \"Visual edit in Lovable\""
+}

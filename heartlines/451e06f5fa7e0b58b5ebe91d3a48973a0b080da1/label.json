@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "451e06f5fa7e0b58b5ebe91d3a48973a0b080da1",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Fix: Match header style on plans page",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "box-shadow: ∅ → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px undone by 4dc64f79 \"Fix: Enable scrolling and simplify header on /plans\"; box-shadow: ∅ → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px undone by 4dc64f79 \"Fix: Enable scrolling and simplify header on /plans\"; box-shadow: ∅ → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px undone by 4dc64f79 \"Fix: Enable scrolling and simplify header on /plans\""
+}

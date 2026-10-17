@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "186863997e1570a565cbefb114d3c1abf342096e",
+ "parent": "73893b40db8e7cd7d21f147c0b47aa00339e765f",
+ "date": "2025-10-24",
+ "subject": "Fix: Remove unused typing indicator import",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/TypingIndicator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36909
+}

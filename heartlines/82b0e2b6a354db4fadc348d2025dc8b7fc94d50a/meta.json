@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "82b0e2b6a354db4fadc348d2025dc8b7fc94d50a",
+ "parent": "62f62f53e492da12cc1a1e2026ac414ac046d04e",
+ "date": "2025-10-24",
+ "subject": "Fix: Ensure color consistency with HSL variables",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 50936
+}

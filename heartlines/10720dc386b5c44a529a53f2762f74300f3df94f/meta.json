@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "10720dc386b5c44a529a53f2762f74300f3df94f",
+ "parent": "57c1c3fc056ff5fdaa2a4e21eed9531ad87839a1",
+ "date": "2025-10-24",
+ "subject": "Fix: Reduce avatar sizes in Kai animation demo",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35559
+}

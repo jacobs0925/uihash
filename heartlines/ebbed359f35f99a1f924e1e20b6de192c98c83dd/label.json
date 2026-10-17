@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "ebbed359f35f99a1f924e1e20b6de192c98c83dd",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Refactor: Adjust chat background and timeline gradient",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1510 later commits"
+}

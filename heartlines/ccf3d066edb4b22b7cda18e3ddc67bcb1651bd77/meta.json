@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "ccf3d066edb4b22b7cda18e3ddc67bcb1651bd77",
+ "parent": "270b46544b0bc5c01cc91499599369b1e94c373a",
+ "date": "2025-10-24",
+ "subject": "Fix: Apply consistent backgrounds everywhere",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 57592
+}

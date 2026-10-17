@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "5b11e063f1e9419ad1fc2b063d54ea15cb6b9f46",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Fix: Enable mobile scrolling on specific pages",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1416 later commits"
+}

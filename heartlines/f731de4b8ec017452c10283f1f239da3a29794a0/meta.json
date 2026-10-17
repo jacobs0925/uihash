@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f731de4b8ec017452c10283f1f239da3a29794a0",
+ "parent": "b7dedd1382b2b0695c7f8d9016e51424668f0dbe",
+ "date": "2025-10-24",
+ "subject": "Fix: Match Auth page background to homepage",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 53396
+}

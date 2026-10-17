@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "b49ada427c72ade0f7511e23ff4663e63d582198",
+ "date": "2025-10-23",
+ "pr": null,
+ "title": "feat: Add premium dynamic background to all pages",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-image: ∅ → linear-gradient(to right bottom, rgb(51, 0, 9), rgb(102, 0, 17), rgb(51, 0, 9)) undone by 994003dc \"Fix: Apply consistent background to all pages\"; background-size: ∅ → auto undone by 994003dc \"Fix: Apply consistent background to all pages\"; background-position: ∅ → 0% 0% undone by 994003dc \"Fix: Apply consistent background to all pages\""
+}

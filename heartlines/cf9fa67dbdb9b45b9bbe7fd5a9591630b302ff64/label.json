@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "cf9fa67dbdb9b45b9bbe7fd5a9591630b302ff64",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Refactor: Enhance Duck icon",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1393 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "03ae23f6fe2b47ac457e244e71937f8ec41ca923",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Fix backgrounds for consistency",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 270b4654, which restored 49f4e766 (1 commit discarded)"
+}

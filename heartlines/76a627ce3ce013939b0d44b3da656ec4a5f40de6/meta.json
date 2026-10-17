@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "76a627ce3ce013939b0d44b3da656ec4a5f40de6",
+ "parent": "b93d4d174032e241ef771d540a033bdd590bc3b2",
+ "date": "2025-10-28",
+ "subject": "Refactor: Update \"What Heartlines Is\" section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 8,
+ "ms": 44786
+}

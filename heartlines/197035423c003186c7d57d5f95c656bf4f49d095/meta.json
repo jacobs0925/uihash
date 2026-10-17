@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "197035423c003186c7d57d5f95c656bf4f49d095",
+ "parent": "56293ff59c4cbd664094de4fa36354a31d575060",
+ "date": "2025-10-23",
+ "subject": "Refactor: Implement gradient ring for chat input",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 38015
+}

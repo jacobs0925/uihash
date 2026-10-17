@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "26aea06e395dcb90d75a7d8de6d50ac2dce7911c",
+ "parent": "f6c7b9f51656f13a684f6747621f36328be46a01",
+ "date": "2025-10-24",
+ "subject": "Refactor: Adjust chat layout and alignment",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36692
+}

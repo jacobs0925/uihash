@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "afe661a4cdc0ef8c068fb1ca817e8fa380c90c44",
+ "parent": "93acdd86a355a8dd70ad16ec937f3debc5ac6252",
+ "date": "2025-10-27",
+ "subject": "Update \"our why\" header style",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 8,
+ "ms": 65983
+}

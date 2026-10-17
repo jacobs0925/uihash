@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "b2e8c61c13f81c0e09f88343951f72e7f74ccbcf",
+ "parent": "26aea06e395dcb90d75a7d8de6d50ac2dce7911c",
+ "date": "2025-10-24",
+ "subject": "Refactor: Increase avatar sizes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/AIChatMessage.tsx",
+  "src/components/chat/ChatHeader.tsx",
+  "src/components/ui/avatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36380
+}

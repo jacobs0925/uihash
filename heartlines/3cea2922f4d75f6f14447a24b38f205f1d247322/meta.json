@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3cea2922f4d75f6f14447a24b38f205f1d247322",
+ "parent": "2c257ee99f9e6d648c2254fdcbfd296d8c98fff5",
+ "date": "2025-10-24",
+ "subject": "feat: Add mobile top navigation to coach interface",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 38900
+}

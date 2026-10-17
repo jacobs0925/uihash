@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "03bcd59498ce5dd0d5860c4c8046a6f2d0829d2e",
+ "parent": "55535843b8cad9b84176bcc51f95ba7febb7fb49",
+ "date": "2025-10-28",
+ "subject": "Fix: Compact \"What it's not\" section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 7,
+ "ms": 44170
+}

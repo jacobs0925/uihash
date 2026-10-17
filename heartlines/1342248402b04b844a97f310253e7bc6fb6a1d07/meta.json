@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1342248402b04b844a97f310253e7bc6fb6a1d07",
+ "parent": "5b11e063f1e9419ad1fc2b063d54ea15cb6b9f46",
+ "date": "2025-10-27",
+ "subject": "Fix: Center sign-in form vertically",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 52067
+}

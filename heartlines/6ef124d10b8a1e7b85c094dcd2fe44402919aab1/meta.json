@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6ef124d10b8a1e7b85c094dcd2fe44402919aab1",
+ "parent": "056ab49e987f505a0a882de837a3b07c9faee463",
+ "date": "2025-10-24",
+ "subject": "Fix: Lighten timeline cards",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37145
+}

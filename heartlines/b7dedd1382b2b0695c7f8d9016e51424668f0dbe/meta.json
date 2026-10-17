@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b7dedd1382b2b0695c7f8d9016e51424668f0dbe",
+ "parent": "52a801b11df4c6c430f4c2b2221e7b3d4a8f6d42",
+ "date": "2025-10-24",
+ "subject": "Fix: Remove dark container on mobile input",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37603
+}

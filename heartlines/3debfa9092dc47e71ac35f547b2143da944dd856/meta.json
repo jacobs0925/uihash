@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3debfa9092dc47e71ac35f547b2143da944dd856",
+ "parent": "3f543a013dcaa21556aacbaaf13dcae73e180de6",
+ "date": "2025-10-24",
+ "subject": "Reverted to commit 8deb8e59f30a83d551c9d34c7d9e5e13e3db2985",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35932
+}

@@ -5,8 +5,8 @@
  "date": "2025-10-06",
  "pr": null,
  "title": "Fix privacy page navigation icons and spacing",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2582 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 32px → 80px undone by e2724233 \"Remove CTA heading and adjust padding\"; padding-bottom: 32px → 80px undone by e2724233 \"Remove CTA heading and adjust padding\"; padding-top: 32px → 80px undone by e2724233 \"Remove CTA heading and adjust padding\""
 }

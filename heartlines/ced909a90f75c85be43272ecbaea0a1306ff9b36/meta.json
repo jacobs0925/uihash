@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "ced909a90f75c85be43272ecbaea0a1306ff9b36",
+ "parent": "cd08356d2c7840fb34802710684b2259baa372f5",
+ "date": "2025-10-24",
+ "subject": "Fix: Apply desktop styling to mobile/tablet",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx",
+  "src/components/chat/ChatHeader.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36752
+}

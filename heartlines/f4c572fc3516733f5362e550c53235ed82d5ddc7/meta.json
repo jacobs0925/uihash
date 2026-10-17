@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f4c572fc3516733f5362e550c53235ed82d5ddc7",
+ "parent": "9ec2e49ea651317ba92528720f2686ca2f700452",
+ "date": "2025-10-24",
+ "subject": "Refactor chat input glow and border",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37598
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "0f084d56a8fc6b68306b911d324b2269658576a7",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Fix: Update duck icon and typography on mission page",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "row-gap: 12px → 16px undone by 6f0c1437 \"Reverted to commit 1be981c786601763a0ba88df37a779c136e01691\"; column-gap: 12px → 16px undone by 6f0c1437 \"Reverted to commit 1be981c786601763a0ba88df37a779c136e01691\"; width: 44px → 36px undone by 6f0c1437 \"Reverted to commit 1be981c786601763a0ba88df37a779c136e01691\""
+}

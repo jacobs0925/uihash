@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "a9df86c1391a09b28b5223549532f16a89066858",
+ "parent": "82b0e2b6a354db4fadc348d2025dc8b7fc94d50a",
+ "date": "2025-10-24",
+ "subject": "Refactor: Make account page more compact",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/account/AccountLayout.tsx",
+  "src/components/account/AccountProfile.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35665
+}

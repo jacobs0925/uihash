@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "329b997ea84add66654af537aebe0b9aff0d5294",
+ "parent": "186863997e1570a565cbefb114d3c1abf342096e",
+ "date": "2025-10-24",
+ "subject": "Refactor: Implement 3-layer gradient glow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37047
+}

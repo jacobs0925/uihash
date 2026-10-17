@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "71ccc42463580804af1780e03d2e305286a410fe",
+ "parent": "aad3b04c19f37a716a9cf76b977533cc1f09115c",
+ "date": "2025-10-23",
+ "subject": "Remove typing indicator",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37944
+}

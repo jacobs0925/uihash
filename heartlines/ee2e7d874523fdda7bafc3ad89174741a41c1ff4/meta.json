@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ee2e7d874523fdda7bafc3ad89174741a41c1ff4",
+ "parent": "18a8f013e148aba840258d66eaa5d4133dac2d0f",
+ "date": "2025-10-28",
+ "subject": "Refactor: Update Meet Kai section copy",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40426
+}

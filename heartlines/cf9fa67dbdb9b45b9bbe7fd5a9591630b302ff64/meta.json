@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "cf9fa67dbdb9b45b9bbe7fd5a9591630b302ff64",
+ "parent": "d758ebd2531b031f7ca63f961fe5a45c6a268893",
+ "date": "2025-10-27",
+ "subject": "Refactor: Enhance Duck icon",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/icons/DuckIcon.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 14,
+ "ms": 42649
+}

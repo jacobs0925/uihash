@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0dbd14af4a61e23d1853cb538516fc7c02384c90",
+ "parent": "6c16127fbb66875c730822955d9a0cdcd833f95f",
+ "date": "2025-10-27",
+ "subject": "Refactor: Make sign-in compact on mobile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 51165
+}

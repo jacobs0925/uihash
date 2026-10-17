@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b7ad683a66e8c14f07651b8f286399338ac85981",
+ "parent": "0dbd14af4a61e23d1853cb538516fc7c02384c90",
+ "date": "2025-10-27",
+ "subject": "Fix mobile centering on Auth page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 48027
+}

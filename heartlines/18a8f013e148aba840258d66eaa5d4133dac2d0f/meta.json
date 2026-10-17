@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "18a8f013e148aba840258d66eaa5d4133dac2d0f",
+ "parent": "e27242331f69e1811cfe18b8c5593227df7f32a1",
+ "date": "2025-10-28",
+ "subject": "Refactor: Update Kai description text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 7,
+ "ms": 43456
+}

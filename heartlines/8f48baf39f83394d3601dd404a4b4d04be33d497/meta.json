@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8f48baf39f83394d3601dd404a4b4d04be33d497",
+ "parent": "634dc4a729b3fbf64df0f9fe765f144fee505df7",
+ "date": "2025-10-29",
+ "subject": "Refactor: Add line break in mission statement",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 38462
+}

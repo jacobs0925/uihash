@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "baf9ccb6430550d22550b8a0bc532a40afe484b0",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Fix: Apply lighter background to all pages",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1523 later commits"
+}

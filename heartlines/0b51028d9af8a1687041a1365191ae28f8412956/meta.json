@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0b51028d9af8a1687041a1365191ae28f8412956",
+ "parent": "03bcd59498ce5dd0d5860c4c8046a6f2d0829d2e",
+ "date": "2025-10-28",
+ "subject": "Update emphasis text styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41818
+}

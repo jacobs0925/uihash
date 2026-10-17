@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "fb0946c08bbf27e3856d7319e4229b98d8d828cd",
+ "date": "2025-10-23",
+ "pr": null,
+ "title": "Refactor: Apply premium background to /plans page",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-image: ∅ → linear-gradient(to right bottom, rgb(51, 0, 9), rgb(102, 0, 17), rgb(51, 0, 9)) undone by 994003dc \"Fix: Apply consistent background to all pages\"; background-size: ∅ → auto undone by 994003dc \"Fix: Apply consistent background to all pages\"; background-position: ∅ → 0% 0% undone by 994003dc \"Fix: Apply consistent background to all pages\""
+}

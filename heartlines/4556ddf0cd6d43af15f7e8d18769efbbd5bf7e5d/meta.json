@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "4556ddf0cd6d43af15f7e8d18769efbbd5bf7e5d",
+ "parent": "b7111e1ed5c935d51011519f2247bd01408ce4a8",
+ "date": "2025-10-24",
+ "subject": "Fix chat header and input cutoff",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36289
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "5d5139e9af496c2159b6077a32e6463aacdb0b2c",
+ "date": "2025-10-28",
+ "pr": null,
+ "title": "Implement \"Powered by Laurie AI\" section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1376 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5fe306fb82b0b7f7a6a0138aa777f11752938aa4",
+ "parent": "8855531ea2ca593ca8b014ab56c5a9a3850e10ee",
+ "date": "2025-10-23",
+ "subject": "Fix persistent dark backgrounds",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 35214
+}

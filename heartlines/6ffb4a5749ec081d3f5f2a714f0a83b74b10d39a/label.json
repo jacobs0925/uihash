@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "6ffb4a5749ec081d3f5f2a714f0a83b74b10d39a",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Refactor: Redesign mission page for premium feel",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 6f0c1437, which restored 1be981c7 (2 commits discarded)"
+}

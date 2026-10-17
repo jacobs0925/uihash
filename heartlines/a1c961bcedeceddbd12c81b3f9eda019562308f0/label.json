@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "a1c961bcedeceddbd12c81b3f9eda019562308f0",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Reverted to commit 1593335a731577528dcbc0c13ccfc9dd18737011",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "text: \"we can't stop it — and we can't ignore i\" → \"we can't stop it—and we can't ignore it.\" undone by b3603397 \"Visual edit in Lovable\"; background-image: linear-gradient(to right, rgb(244, 114, 182), rgb(236, 122, 81), rgb(236, 145, 81)) → linear-gradient(to right, rgb(252, 231, 243), rgb(254, 215, 170), rgb(252, 231, 243)) undone by b3603397 \"Visual edit in Lovable\"; letter-spacing: normal → 1.8px undone by b3603397 \"Visual edit in Lovable\""
+}

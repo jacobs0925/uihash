@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b87303beee9599e55efaf1466a3a467070f2eac0",
+ "parent": "90c0a3c7c2ea31d2a95cac574822c58240ba37ba",
+ "date": "2025-10-27",
+ "subject": "Reverted to commit d64d905f7ed3117c8164ad683c67a22c244ff8bf",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 17,
+ "ms": 65573
+}

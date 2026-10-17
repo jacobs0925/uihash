@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e69d2d24dea429c7f823905115cfb81daed1f4f9",
+ "parent": "7d3ae04c0bc27496d627b1a51835fa435d4b66cf",
+ "date": "2025-10-24",
+ "subject": "Remove years from carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37578
+}

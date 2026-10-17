@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "cf67d27e718be03d1492aaafaba81194b97dce67",
+ "parent": "f92f152b82f16da671f99405bf5223880d2bfc83",
+ "date": "2025-10-24",
+ "subject": "Fix: Prevent heading wrap",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36070
+}

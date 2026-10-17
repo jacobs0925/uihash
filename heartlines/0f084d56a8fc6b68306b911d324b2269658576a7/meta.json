@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "0f084d56a8fc6b68306b911d324b2269658576a7",
+ "parent": "6f0c1437c1fc0ed8fbb2ebc7c2c1b6ef3404ea6c",
+ "date": "2025-10-27",
+ "subject": "Fix: Update duck icon and typography on mission page",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/icons/DuckIcon.tsx",
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 19,
+ "ms": 65345
+}

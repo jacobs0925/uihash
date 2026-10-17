@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f05bcdaa21e878ea22ca817e97c1ab13eddbcb3c",
+ "parent": "b265e903ee8fa42efd9075529909b86621d34031",
+ "date": "2025-10-24",
+ "subject": "Fix: Lighten chat message bubbles for mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 36487
+}

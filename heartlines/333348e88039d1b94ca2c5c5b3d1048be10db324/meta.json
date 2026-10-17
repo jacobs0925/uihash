@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "333348e88039d1b94ca2c5c5b3d1048be10db324",
+ "parent": "7f2ded19868f9b60c2c5fb1d9eab315724396f4b",
+ "date": "2025-10-23",
+ "subject": "Refactor: Use premium gradient background",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34991
+}

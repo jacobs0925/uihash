@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "992e1c7474cf2ac33ed34cd9796edac0cedc9cbd",
+ "parent": "8990accb4421efadacbe0e6c5cabc254bd8477c8",
+ "date": "2025-10-24",
+ "subject": "Fix: Adjust avatar sizes in Kai animation demo",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 34913
+}

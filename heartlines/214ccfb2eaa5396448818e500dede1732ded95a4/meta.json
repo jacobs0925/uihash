@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "214ccfb2eaa5396448818e500dede1732ded95a4",
+ "parent": "81f88d7fdecc9f8ce3b7e6bbdc6248e7d8b00c64",
+ "date": "2025-10-24",
+ "subject": "Revert timeline line changes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37449
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8d78f7e90b07828bc2e94e3c92872485d4376c44",
+ "parent": "b2e8c61c13f81c0e09f88343951f72e7f74ccbcf",
+ "date": "2025-10-24",
+ "subject": "Fix: Increase spacing between avatars and messages",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37137
+}

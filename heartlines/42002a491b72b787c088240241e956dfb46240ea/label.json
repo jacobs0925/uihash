@@ -7,6 +7,6 @@
  "title": "Refactor: Rebuild Mission page",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "background-image: ∅ → linear-gradient(to right bottom, rgb(77, 0, 13), rgb(102, 0, 17), rgb(136, 19, 55)) undone by 6f683664 \"feat: Implement Mission page redesign\"; background-size: ∅ → auto undone by 6f683664 \"feat: Implement Mission page redesign\"; background-position: ∅ → 0% 0% undone by 6f683664 \"feat: Implement Mission page redesign\""
 }

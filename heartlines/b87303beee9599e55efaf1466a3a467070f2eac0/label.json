@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "b87303beee9599e55efaf1466a3a467070f2eac0",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Reverted to commit d64d905f7ed3117c8164ad683c67a22c244ff8bf",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "text: \"we can't stop it — and we can't ignore i\" → \"we can't stop it—and we can't ignore it.\" undone by b93d4d17 \"Fix: Add spaces around em dash\"; text: \"we can't stop it — and we can't ignore i\" → \"we can't stop it—and we can't ignore it.\" undone by b93d4d17 \"Fix: Add spaces around em dash\"; text: \"we can't stop it — and we can't ignore i\" → \"we can't stop it—and we can't ignore it.\" undone by b93d4d17 \"Fix: Add spaces around em dash\""
+}

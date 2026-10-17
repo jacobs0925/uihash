@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0b71a190cf79d62f29c719601f65f8aa00292c0d",
+ "parent": "2e168edc02ec1e42d3b76e6e827358fd864f3e5b",
+ "date": "2025-10-29",
+ "subject": "Remove email icon from Contact page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 38282
+}

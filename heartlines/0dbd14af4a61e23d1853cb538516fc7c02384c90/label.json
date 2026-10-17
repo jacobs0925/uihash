@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "0dbd14af4a61e23d1853cb538516fc7c02384c90",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Refactor: Make sign-in compact on mobile",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "width: 349px → 221px undone by 71561620 \"Fix: Make sign-in logo larger on tablet/desktop\"; width: 349px → 221px undone by 71561620 \"Fix: Make sign-in logo larger on tablet/desktop\"; width: 349px → 221px undone by 71561620 \"Fix: Make sign-in logo larger on tablet/desktop\""
+}

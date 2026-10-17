@@ -5,8 +5,8 @@
  "date": "2025-10-23",
  "pr": null,
  "title": "Fix: Center auth form module",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1575 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "justify-content: center → flex-start undone by 75631f32 \"Fix: Center sign-in module\"; justify-content: center → flex-start undone by 75631f32 \"Fix: Center sign-in module\"; justify-content: center → flex-start undone by 75631f32 \"Fix: Center sign-in module\""
 }

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "1342248402b04b844a97f310253e7bc6fb6a1d07",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Fix: Center sign-in form vertically",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1415 later commits"
+}

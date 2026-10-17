@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d56429f2d7c82665093a20b44755d89468a434d3",
+ "parent": "17447d3e26e249c67f1849ed878b8da6a529b8cc",
+ "date": "2025-10-28",
+ "subject": "Refactor: Style data flow description",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/privacy/DataFlowCards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 8,
+ "ms": 45868
+}

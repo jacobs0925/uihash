@@ -5,8 +5,8 @@
  "date": "2025-10-09",
  "pr": null,
  "title": "Fix: Resolve pricing page scrolling issue",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2470 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "position: ∅ → fixed undone by 4dc64f79 \"Fix: Enable scrolling and simplify header on /plans\"; top: ∅ → 0px undone by 4dc64f79 \"Fix: Enable scrolling and simplify header on /plans\"; position: ∅ → fixed undone by 4dc64f79 \"Fix: Enable scrolling and simplify header on /plans\""
 }

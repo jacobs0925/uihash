@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6c16127fbb66875c730822955d9a0cdcd833f95f",
+ "parent": "c0d9b8545b6276fbfbaed90279af3a1c03d9effc",
+ "date": "2025-10-27",
+ "subject": "Fix sign-up page spacing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 10,
+ "ms": 56231
+}

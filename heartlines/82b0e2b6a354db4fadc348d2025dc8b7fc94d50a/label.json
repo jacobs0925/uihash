@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "82b0e2b6a354db4fadc348d2025dc8b7fc94d50a",
+ "date": "2025-10-24",
+ "pr": null,
+ "title": "Fix: Ensure color consistency with HSL variables",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1486 later commits"
+}

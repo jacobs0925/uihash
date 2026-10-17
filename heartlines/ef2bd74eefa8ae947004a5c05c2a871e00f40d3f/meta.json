@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ef2bd74eefa8ae947004a5c05c2a871e00f40d3f",
+ "parent": "4df7607f4a17a26e1c5053e5e03cb38e2b5faf4b",
+ "date": "2025-10-27",
+ "subject": "Update Heartlines font",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 42843
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "d4e77ecbc30690e54cb1051bdb7a596ee7df8065",
+ "date": "2025-10-23",
+ "pr": null,
+ "title": "Refactor: Apply premium background to navbars",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-size: ∅ → auto undone by 994003dc \"Fix: Apply consistent background to all pages\"; background-position: ∅ → 0% 0% undone by 994003dc \"Fix: Apply consistent background to all pages\"; background-size: ∅ → auto undone by 994003dc \"Fix: Apply consistent background to all pages\""
+}

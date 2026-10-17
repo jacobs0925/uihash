@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "3cb7ef8f1b6afa163fa505b731ca03e9991af779",
+ "parent": "5e3702b085fe8520a8ab6b0a55d547e220cc34b0",
+ "date": "2025-10-24",
+ "subject": "Refactor: Make branding font denser",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/Brand/HeartlinesWordmark.tsx",
+  "src/components/SiteFooter.tsx",
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 47921
+}

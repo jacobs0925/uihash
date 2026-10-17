@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "9da4c1050a8c85f27b63b94b7b300a419f53d1bb",
+ "parent": "8e0e295da0f9e4766c4330b0925518d4f367a349",
+ "date": "2025-10-23",
+ "subject": "Fix: Implement complete message animation fix",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx",
+  "src/components/chat/TypingIndicator.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37831
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "ef2bd74eefa8ae947004a5c05c2a871e00f40d3f",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Update Heartlines font",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1400 later commits"
+}

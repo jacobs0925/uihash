@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8ca6793c116af7710c094377bd0f7cb05d1fccf6",
+ "parent": "ccf3d066edb4b22b7cda18e3ddc67bcb1651bd77",
+ "date": "2025-10-24",
+ "subject": "Fix: Remove overlay background from coach page",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39702
+}

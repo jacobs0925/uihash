@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "7156162064d10852b7b978b115bf91d5867468a0",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Fix: Make sign-in logo larger on tablet/desktop",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1410 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "31633a26fb13d7dca543bca5803f1ffd5d7fae6b",
+ "parent": "8d697a311c23f40457a8b3aec93dbe2f5743917c",
+ "date": "2025-10-16",
+ "subject": "Fix CSS for fixed header",
+ "components": [
+  "styles"
+ ],
+ "files": [
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47092
+}

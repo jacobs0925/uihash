@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "bc8975c1833f7be82c63100e9e3c8d3574c5b54f",
+ "parent": "5b54349cc2bd69bdcaf094396436fe10e8dafda4",
+ "date": "2025-10-18",
+ "subject": "Fix: Clear v2 profile keys on auth cleanup",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47475
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "c67186612c6701a158725f1fa5410e3d0dad7566",
+ "parent": "3d2d933559c0299d7613306ca83c64ea4ce5046c",
+ "date": "2025-10-17",
+ "subject": "Fix: Resolve white space on mobile",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx",
+  "src/index.css",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 57977
+}

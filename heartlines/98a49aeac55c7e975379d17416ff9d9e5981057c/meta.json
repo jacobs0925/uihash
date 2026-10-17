@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "98a49aeac55c7e975379d17416ff9d9e5981057c",
+ "parent": "09e55bc90ff5c01a01082744d7811892ac129c45",
+ "date": "2025-10-18",
+ "subject": "feat: Add usage progress bar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx",
+  "src/components/chat/UsageProgressBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46976
+}

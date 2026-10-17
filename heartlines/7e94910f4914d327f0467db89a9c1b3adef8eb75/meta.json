@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7e94910f4914d327f0467db89a9c1b3adef8eb75",
+ "parent": "37807a4330a17b265b850ae97e03d5699c0f54a2",
+ "date": "2025-10-18",
+ "subject": "Refactor: Add spacing and borders to modal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48359
+}

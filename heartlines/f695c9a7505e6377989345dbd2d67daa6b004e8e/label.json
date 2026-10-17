@@ -5,8 +5,8 @@
  "date": "2025-10-06",
  "pr": null,
  "title": "Apply Shrikhand font to heading",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2573 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "font-family: Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif → Shrikhand, Inter, system-ui, sans-serif undone by 9bee6172 \"Visual edit in Lovable\"; font-family: Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif → Shrikhand, Inter, system-ui, sans-serif undone by 9bee6172 \"Visual edit in Lovable\"; font-family: Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif → Shrikhand, Inter, system-ui, sans-serif undone by 9bee6172 \"Visual edit in Lovable\""
 }

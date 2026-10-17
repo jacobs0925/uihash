@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4e25a041fc771729a705a5b9338e1199a0b6f62c",
+ "parent": "e7669738aabeab795f874b2f06a8b6a889248fc0",
+ "date": "2025-10-17",
+ "subject": "feat: Optimize partner profile loading",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardModals.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47141
+}

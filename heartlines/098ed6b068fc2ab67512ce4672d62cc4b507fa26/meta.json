@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "098ed6b068fc2ab67512ce4672d62cc4b507fa26",
+ "parent": "00c5f3f66cb7bdf8b6ea62cd5996162812c05821",
+ "date": "2025-10-17",
+ "subject": "Reverted to commit 97df9aab7b885a85c2c69a0310b5eb2f817e82c7",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/flip-phone-new.png",
+  "src/components/SimpleHeader.tsx",
+  "src/components/icons/FlipPhoneIcon.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 91124
+}

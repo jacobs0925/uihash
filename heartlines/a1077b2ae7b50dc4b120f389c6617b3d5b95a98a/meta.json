@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a1077b2ae7b50dc4b120f389c6617b3d5b95a98a",
+ "parent": "633944f98c5daba50cc09affac9dcd746f1723c0",
+ "date": "2025-10-17",
+ "subject": "Fix: Reduce spacing between CTA and next section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47799
+}

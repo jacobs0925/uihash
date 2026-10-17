@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "964d3b091bca6de129538a789fb1ce55d558f62a",
+ "parent": "e032e5d7fdc74eb364b3f3f0d5aa897ae85d597f",
+ "date": "2025-10-18",
+ "subject": "Fix: Unblock personal profile name input",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/sections/WhoYouAre/NamePronounsCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47974
+}

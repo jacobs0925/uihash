@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "950a6d5c1ccbe5b64ee7e46c00fc925b7632133f",
+ "parent": "bd9dd7e576b4acd99972dd2d17ad5572024e7ddd",
+ "date": "2025-10-16",
+ "subject": "Reduce blank space on Privacy page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 68361
+}

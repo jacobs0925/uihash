@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "50f42e536731e6f9064854a07024815c51b89a76",
+ "parent": "58c7e2b9009113fbce16b4fc8c99e9f854376227",
+ "date": "2025-10-16",
+ "subject": "Remove logo from carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47940
+}

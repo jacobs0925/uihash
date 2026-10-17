@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d0c1a9d72e9e5e4041c59dfde55c05c9c8b01ea5",
+ "parent": "29bb46a8b6c0b64e4ead1c8545bde315508e874a",
+ "date": "2025-10-17",
+ "subject": "Fix: Improve email extraction in AuthCallback",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AuthCallback.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47823
+}

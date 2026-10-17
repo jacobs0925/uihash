@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7424ab95107f56f7e116137b42b406c97bd0b46a",
+ "parent": "1c4fcecbc476be118639f9bbf66d37e45a12a62d",
+ "date": "2025-10-16",
+ "subject": "Fix: Always show person icon for avatar fallback",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AvatarUpload.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47083
+}

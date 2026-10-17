@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "6cb064c2531aca422fe1c66145d60adb010873c9",
+ "parent": "018f99bf21defdcb29464986e5963eb668fb2c1c",
+ "date": "2025-10-16",
+ "subject": "Fix: Update avatar components to show person icon",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PersonalProfileQuestionnaire/PhotoUpload.tsx",
+  "src/components/PersonalProfileQuestionnaire/QuestionnaireSection1.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47271
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7eaec9ae45c7ae30c444bf3c642570a938bcf3e0",
+ "parent": "c561b9043efc0d1b76822205fd8e0bfea66d41f1",
+ "date": "2025-10-17",
+ "subject": "Update modal text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48268
+}

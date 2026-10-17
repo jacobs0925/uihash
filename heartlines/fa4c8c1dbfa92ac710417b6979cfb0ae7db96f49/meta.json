@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "fa4c8c1dbfa92ac710417b6979cfb0ae7db96f49",
+ "parent": "c64b41c9dd9d5dddee7faae3b9fe36a9078d4934",
+ "date": "2025-10-16",
+ "subject": "Fix tablet scrolling on homepage",
+ "components": [
+  "styles"
+ ],
+ "files": [
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46988
+}

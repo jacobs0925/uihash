@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2622fe0fd0c73d9fa9d59c46de22373203a28b62",
+ "parent": "e65fe6ca8c37b84c5f8a640b1aa6c8da05208006",
+ "date": "2025-10-17",
+ "subject": "Fix: Adjust splash screen timing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FirstVisitSplash.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46972
+}

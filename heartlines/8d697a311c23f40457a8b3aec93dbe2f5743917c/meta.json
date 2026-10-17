@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "8d697a311c23f40457a8b3aec93dbe2f5743917c",
+ "parent": "4485802508c5313b9524486ac7ea495e759b2712",
+ "date": "2025-10-16",
+ "subject": "feat: Implement mobile auth loading fixes",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/AuthGuard.tsx",
+  "src/components/loading/LoadingState.tsx",
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47022
+}

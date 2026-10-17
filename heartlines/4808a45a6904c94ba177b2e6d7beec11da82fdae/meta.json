@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4808a45a6904c94ba177b2e6d7beec11da82fdae",
+ "parent": "1facbc9b577a6714aa670055f2d46a28ee35884f",
+ "date": "2025-10-18",
+ "subject": "Fix: Validate required fields before showing button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/CleanQuestionnaireFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47104
+}

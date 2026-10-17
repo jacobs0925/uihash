@@ -2,5 +2,7 @@
  "mission|default||same-data|svg (same data, drawn differently)|added: svg",
  "mission|default||same-data|svg (same data, drawn differently)|removed: svg",
  "mission|focus||same-data|svg (same data, drawn differently)|added: svg",
- "mission|focus||same-data|svg (same data, drawn differently)|removed: svg"
+ "mission|focus||same-data|svg (same data, drawn differently)|removed: svg",
+ "mission|hover||same-data|svg (same data, drawn differently)|added: svg",
+ "mission|hover||same-data|svg (same data, drawn differently)|removed: svg"
 ]

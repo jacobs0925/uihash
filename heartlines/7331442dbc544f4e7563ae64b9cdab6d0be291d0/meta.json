@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "7331442dbc544f4e7563ae64b9cdab6d0be291d0",
+ "parent": "d0c1a9d72e9e5e4041c59dfde55c05c9c8b01ea5",
+ "date": "2025-10-17",
+ "subject": "Refactor: Simplify auth callback flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx",
+  "src/pages/AuthCallback.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47733
+}

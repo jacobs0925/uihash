@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "57a28e55f100ea19dd0d7d2e5732a36fc05fa867",
+ "parent": "594955f39c7bcfc395f40284414ad767e067d2a4",
+ "date": "2025-10-18",
+ "subject": "Fix: Restore mobile chat interface layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/DashboardContent.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47151
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "35b71b88c3314fab8102fdb0be72eb849af62c38",
+ "parent": "4f62ca7eeeef7bf88104f7e99c7197f262536184",
+ "date": "2025-10-17",
+ "subject": "Fix dialog overlay background",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/dialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48982
+}

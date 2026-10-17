@@ -1,0 +1,31 @@
+{
+ "repo": "heartlines",
+ "sha": "4db70149a7f47668aa625c4741cccd6d52b29fee",
+ "parent": "2622fe0fd0c73d9fa9d59c46de22373203a28b62",
+ "date": "2025-10-17",
+ "subject": "Refactor: Implement rebranding plan",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/account/AccountOverview.tsx",
+  "src/components/account/AccountSubscription.tsx",
+  "src/components/account/AccountUsageAnalytics.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/components/modals/UpgradeModal.tsx",
+  "src/data/pricingPlans.ts",
+  "src/hooks/useOptimizedSubscription.ts",
+  "src/hooks/useSubscription.ts",
+  "src/pages/BillingSuccess.tsx",
+  "src/pages/Pricing.tsx",
+  "supabase/functions/check-subscription/index.ts",
+  "supabase/functions/create-checkout/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 10,
+ "ms": 51209
+}

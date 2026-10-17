@@ -1,0 +1,31 @@
+{
+ "repo": "heartlines",
+ "sha": "32ea28eb1901fb064e817029d3eb9ce925f74f87",
+ "parent": "03c4291af0195341c501a70b8736d00bc6634be6",
+ "date": "2025-10-18",
+ "subject": "Reverted to commit e0f564fde7b5d2f9e8ab7262b391299bf86e2c2e",
+ "components": [
+  "components",
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "src/components/account/AccountUsageAnalytics.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/components/chat/UsageProgressBar.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/hooks/useUserRole.ts",
+  "src/pages/Auth.tsx",
+  "src/pages/AuthCallback.tsx",
+  "src/utils/authCleanup.ts",
+  "supabase/functions/send-auth-email/_templates/email-confirmation.tsx",
+  "supabase/migrations/20251017225257_5e648995-6cc4-447c-a642-c74d6bf0bc62.sql",
+  "supabase/migrations/20251018062609_2465484b-3d93-4df1-8aeb-54a55df1db2e.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46731
+}

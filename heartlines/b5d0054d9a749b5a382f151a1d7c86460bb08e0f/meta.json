@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b5d0054d9a749b5a382f151a1d7c86460bb08e0f",
+ "parent": "444924fb0bcf5d658d4e54584ab48298afbcd1d1",
+ "date": "2025-10-18",
+ "subject": "Fix chat interface to stretch to bottom",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51947
+}

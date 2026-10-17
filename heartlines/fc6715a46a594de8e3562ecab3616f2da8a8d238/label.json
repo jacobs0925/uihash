@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "fc6715a46a594de8e3562ecab3616f2da8a8d238",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Refactor: Increase flip phone icon size",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1876 later commits"
+}

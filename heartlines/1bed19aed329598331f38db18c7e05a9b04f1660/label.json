@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "1bed19aed329598331f38db18c7e05a9b04f1660",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Update privacy page hero and remove security header",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "font-family: Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif → Shrikhand, Inter, system-ui, sans-serif undone by 9bee6172 \"Visual edit in Lovable\"; text: \"we're obsessed with protecting your conv\" → \"we're obsessed with protecting your conv\" undone by 9bee6172 \"Visual edit in Lovable\"; font-family: Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif → Shrikhand, Inter, system-ui, sans-serif undone by 9bee6172 \"Visual edit in Lovable\""
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "1c4fcecbc476be118639f9bbf66d37e45a12a62d",
+ "parent": "b2060c9d67624c253c4f44a40e671e4a6099b6c4",
+ "date": "2025-10-16",
+ "subject": "Refactor: Adjust layout for account and privacy pages",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/account/AccountLayout.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 67812
+}

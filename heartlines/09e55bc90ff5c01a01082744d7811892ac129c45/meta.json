@@ -1,0 +1,25 @@
+{
+ "repo": "heartlines",
+ "sha": "09e55bc90ff5c01a01082744d7811892ac129c45",
+ "parent": "daa04c35ad682bbda608c496e6080195c1c97a6a",
+ "date": "2025-10-18",
+ "subject": "Reverted to commit 1af8842903fbe8848e921a64b14eb02084ae500c",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/DashboardContent.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/integrations/supabase/client.ts",
+  "src/utils/authCleanup.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46840
+}

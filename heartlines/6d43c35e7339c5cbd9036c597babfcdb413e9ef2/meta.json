@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "6d43c35e7339c5cbd9036c597babfcdb413e9ef2",
+ "parent": "2d56b989c1ac2b69930612078ea2a4aec25fb660",
+ "date": "2025-10-18",
+ "subject": "feat: Implement smart tab handling for email confirmation",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx",
+  "src/pages/AuthCallback.tsx",
+  "src/utils/authChannel.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46856
+}

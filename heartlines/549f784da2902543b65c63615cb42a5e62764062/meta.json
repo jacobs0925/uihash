@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "549f784da2902543b65c63615cb42a5e62764062",
+ "parent": "a67f8903c3b94f03c4cc391806290fe0862ba5c9",
+ "date": "2025-10-16",
+ "subject": "Fix: Increase text size on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47133
+}

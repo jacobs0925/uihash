@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a9342c8de3ba487d57164ef2c698d9b6bb8f177a",
+ "parent": "e1d5a98320e63f4754330bbd0e6d20f07e72a01b",
+ "date": "2025-10-17",
+ "subject": "Fix: Make NavAvatar initial visible",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NavAvatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47492
+}

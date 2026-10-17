@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "27fa5ac86bd2a505a8349f5faabb5b1a7f3a4a05",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Fix text readability and header font",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "font-family: Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif → Shrikhand, Inter, system-ui, sans-serif undone by 286facc2 \"Fix: Remove italic styling from header\"; font-family: Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif → Shrikhand, Inter, system-ui, sans-serif undone by 286facc2 \"Fix: Remove italic styling from header\"; font-family: Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif → Shrikhand, Inter, system-ui, sans-serif undone by 286facc2 \"Fix: Remove italic styling from header\""
+}

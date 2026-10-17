@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1120071964cfa30f8ded5cff5eaec1b2c6c5e735",
+ "parent": "2e2fb7e7286f1ff111cf5f4cb6de0a60ab2ba69b",
+ "date": "2025-10-16",
+ "subject": "Reverted to commit 537f3efdebe25b45b368d4cdbff78f5ffd45374b",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NavAvatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 54461
+}

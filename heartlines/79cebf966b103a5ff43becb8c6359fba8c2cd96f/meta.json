@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "79cebf966b103a5ff43becb8c6359fba8c2cd96f",
+ "parent": "94684f3f667aee1633ec53d350047942d2174540",
+ "date": "2025-10-18",
+ "subject": "Fix: Prevent name deletion issue",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/sections/WhoYouAre/NamePronounsCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47625
+}

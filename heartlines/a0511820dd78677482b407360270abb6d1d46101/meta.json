@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "a0511820dd78677482b407360270abb6d1d46101",
+ "parent": "07f50ce1452335e19e0c376cc67bf590b8235153",
+ "date": "2025-10-16",
+ "subject": "Refactor: Remove FAQ and adjust spacing",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/privacy/DataFlowCards.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 71700
+}

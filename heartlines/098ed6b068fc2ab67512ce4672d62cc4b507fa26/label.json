@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "098ed6b068fc2ab67512ce4672d62cc4b507fa26",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Reverted to commit 97df9aab7b885a85c2c69a0310b5eb2f817e82c7",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "@src: flip-phone-new-VSmNLLGo.png#8238374edeb1 → flip-phone-CGsYhbg-.svg#d993dc641f03 undone by 43da1be5 \"Fix: Revert flip phone icon size and design\"; @src: flip-phone-new-VSmNLLGo.png#8238374edeb1 → flip-phone-CGsYhbg-.svg#d993dc641f03 undone by 43da1be5 \"Fix: Revert flip phone icon size and design\"; @src: flip-phone-new-VSmNLLGo.png#8238374edeb1 → flip-phone-CGsYhbg-.svg#d993dc641f03 undone by 43da1be5 \"Fix: Revert flip phone icon size and design\""
+}

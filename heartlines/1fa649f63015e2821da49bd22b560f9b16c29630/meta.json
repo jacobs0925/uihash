@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1fa649f63015e2821da49bd22b560f9b16c29630",
+ "parent": "1ad7b9a38823d5047fd9a54bd215e0f7358a30cf",
+ "date": "2025-10-17",
+ "subject": "Fix: Improve UpgradeModal contrast",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49065
+}

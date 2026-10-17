@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "fdc10513faa6fcc2df5fe2dbdf34d5545e3ee010",
+ "parent": "2ddb3580533788e85d174bb4c73dfa24ecbf7136",
+ "date": "2025-10-07",
+ "subject": "Update refund calculation for FHA MIP based on remaining months",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51601
+}

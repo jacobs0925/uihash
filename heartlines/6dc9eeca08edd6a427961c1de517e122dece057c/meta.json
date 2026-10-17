@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6dc9eeca08edd6a427961c1de517e122dece057c",
+ "parent": "df18a36c0cdda3a443d25f558543d936644ca1b2",
+ "date": "2025-10-17",
+ "subject": "Fix: Adjust pink circle size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NavAvatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48024
+}

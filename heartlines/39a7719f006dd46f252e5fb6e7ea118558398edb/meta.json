@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "39a7719f006dd46f252e5fb6e7ea118558398edb",
+ "parent": "5558de74d794292cfbdc168e3b025da116333ac8",
+ "date": "2025-10-16",
+ "subject": "Fix button hover text color",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/account/AccountSecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47391
+}

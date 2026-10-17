@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "f1f9dea0b4fd6743c8a3658befbfc89d88610bb0",
+ "parent": "8090498fd45a16dd74f16d84b75995c392f0f336",
+ "date": "2025-10-17",
+ "subject": "Fix email confirmation redirect flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx",
+  "src/pages/AuthCallback.tsx",
+  "supabase/functions/send-auth-email/_templates/email-confirmation.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47655
+}

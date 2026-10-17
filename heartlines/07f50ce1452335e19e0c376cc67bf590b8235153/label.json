@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "07f50ce1452335e19e0c376cc67bf590b8235153",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Apply lowercase styling",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1950 later commits"
+}

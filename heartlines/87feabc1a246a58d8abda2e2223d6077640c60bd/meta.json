@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "87feabc1a246a58d8abda2e2223d6077640c60bd",
+ "parent": "4db371481ff26ec65c8f11e1fd5b2c1bd88f146b",
+ "date": "2025-10-18",
+ "subject": "Fix: useNavigate must be used within a Router",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 31,
+ "ms": 61353
+}

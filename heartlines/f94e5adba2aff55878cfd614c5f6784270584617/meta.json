@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "f94e5adba2aff55878cfd614c5f6784270584617",
+ "parent": "02039b78b6edf4fa5df92c1b5e4fc1be36b8731a",
+ "date": "2025-10-16",
+ "subject": "Fix image cropping on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx",
+  "src/components/PhotoSplitBanner.tsx",
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47252
+}

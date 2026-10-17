@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a7577a236cf8587364a064e82156f0d3dc481d6b",
+ "parent": "371a7ad5e862b79e3b476c4dd1dc477481dbe0a9",
+ "date": "2025-10-16",
+ "subject": "Reverted to commit 9bee6172703c60aa34542d0267dcce5f37eedf08",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/privacy/SecurityDeepDive.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 7,
+ "ms": 89657
+}

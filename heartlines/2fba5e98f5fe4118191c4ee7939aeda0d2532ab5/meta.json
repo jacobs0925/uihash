@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "2fba5e98f5fe4118191c4ee7939aeda0d2532ab5",
+ "parent": "eb4938910dcdf4779b20684a612a29eaec886495",
+ "date": "2025-10-17",
+ "subject": "Refactor: Update NavAvatar to use Heart icon",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NavAvatar.tsx",
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47216
+}

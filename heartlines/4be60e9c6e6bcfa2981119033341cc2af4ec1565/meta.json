@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "4be60e9c6e6bcfa2981119033341cc2af4ec1565",
+ "parent": "1bed19aed329598331f38db18c7e05a9b04f1660",
+ "date": "2025-10-16",
+ "subject": "Remove marketing speak text and FAQs",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/privacy/DataFlowCards.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 54515
+}

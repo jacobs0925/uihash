@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "da4ef913e600911509569fe9b89ac60b33c69ff2",
+ "parent": "4516546bcbf32421ac70d7c5ccec917fa3189cfc",
+ "date": "2025-10-18",
+ "subject": "Fix dashboard content layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51945
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e032e5d7fdc74eb364b3f3f0d5aa897ae85d597f",
+ "parent": "79cebf966b103a5ff43becb8c6359fba8c2cd96f",
+ "date": "2025-10-18",
+ "subject": "Reverted to commit 94684f3f667aee1633ec53d350047942d2174540",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/sections/WhoYouAre/NamePronounsCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47450
+}

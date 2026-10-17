@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "371a7ad5e862b79e3b476c4dd1dc477481dbe0a9",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Visual edit in Lovable",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by a7577a23, which restored 9bee6172 (1 commit discarded)"
+}

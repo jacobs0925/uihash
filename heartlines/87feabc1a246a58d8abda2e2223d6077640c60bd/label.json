@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "87feabc1a246a58d8abda2e2223d6077640c60bd",
+ "date": "2025-10-18",
+ "pr": null,
+ "title": "Fix: useNavigate must be used within a Router",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 594955f3, which restored 1af88429 (36 commits discarded)"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "a0511820dd78677482b407360270abb6d1d46101",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Remove FAQ and adjust spacing",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 96px → 64px undone by aaaecc82 \"feat: Enhance privacy and security section\"; padding-top: 96px → 64px undone by aaaecc82 \"feat: Enhance privacy and security section\"; padding-top: 96px → 64px undone by aaaecc82 \"feat: Enhance privacy and security section\""
+}

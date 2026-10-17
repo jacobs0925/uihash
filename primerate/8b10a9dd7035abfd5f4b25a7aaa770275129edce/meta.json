@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8b10a9dd7035abfd5f4b25a7aaa770275129edce",
+ "parent": "9a0ffe942bb73e82902f3dc4095db8cda8a6e71f",
+ "date": "2025-10-07",
+ "subject": "Update FHA MIP calculations with default values and clearer labels",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60592
+}

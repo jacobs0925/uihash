@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4db371481ff26ec65c8f11e1fd5b2c1bd88f146b",
+ "parent": "8da76eaf0b44f206b3b22825a09024689c3a1f6a",
+ "date": "2025-10-18",
+ "subject": "Refactor: Use navigate for seamless logout",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 27,
+ "ms": 61684
+}

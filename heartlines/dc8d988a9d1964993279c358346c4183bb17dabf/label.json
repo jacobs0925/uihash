@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "dc8d988a9d1964993279c358346c4183bb17dabf",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Fix: Match flip phone icon size to homepage",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1872 later commits"
+}

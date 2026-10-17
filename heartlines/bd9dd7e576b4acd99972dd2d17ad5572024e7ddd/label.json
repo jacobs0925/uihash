@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "bd9dd7e576b4acd99972dd2d17ad5572024e7ddd",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Fix text color",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1911 later commits"
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "a9063bae13403df31da10ca079c33497c324cd20",
+ "parent": "ed3e20ad820756c096b6d9b9932c548c0dfa6f89",
+ "date": "2025-10-17",
+ "subject": "Fix admin authorization bypass",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/account/AccountUsageAnalytics.tsx",
+  "src/hooks/useUserRole.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251017225257_5e648995-6cc4-447c-a642-c74d6bf0bc62.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47623
+}

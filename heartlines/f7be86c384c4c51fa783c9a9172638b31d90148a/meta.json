@@ -1,0 +1,31 @@
+{
+ "repo": "heartlines",
+ "sha": "f7be86c384c4c51fa783c9a9172638b31d90148a",
+ "parent": "ba33db0a9f27089493e77a2436a6e101653cca05",
+ "date": "2025-10-17",
+ "subject": "Fix: Improve mobile loading and error handling",
+ "components": [
+  "components",
+  "contexts",
+  "hooks",
+  "main.tsx"
+ ],
+ "files": [
+  "src/components/AuthGuard.tsx",
+  "src/components/FirstVisitSplash.tsx",
+  "src/components/MobileErrorBoundary.tsx",
+  "src/components/PerformanceOptimizedApp.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/contexts/ViewportContext.tsx",
+  "src/hooks/useOptimizedMobile.tsx",
+  "src/main.tsx",
+  "src/styles/mobile-optimizations.css",
+  "src/utils/iosDetection.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46789
+}

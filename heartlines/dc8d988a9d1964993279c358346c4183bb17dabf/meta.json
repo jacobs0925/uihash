@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "dc8d988a9d1964993279c358346c4183bb17dabf",
+ "parent": "44588d75284de600eb6e1a686e935aa38d4be587",
+ "date": "2025-10-17",
+ "subject": "Fix: Match flip phone icon size to homepage",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/SimpleHeader.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 70223
+}

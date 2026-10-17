@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "4485802508c5313b9524486ac7ea495e759b2712",
+ "parent": "17a3863afdcd065e55d44b453b436f1770f18aef",
+ "date": "2025-10-16",
+ "subject": "Refactor: Optimize mobile loading performance",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FirstVisitSplash.tsx",
+  "src/components/ui/avatar.tsx",
+  "src/config/criticalResources.ts",
+  "src/hooks/useResourceLoader.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47220
+}

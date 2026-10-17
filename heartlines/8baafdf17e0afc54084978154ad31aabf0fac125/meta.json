@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8baafdf17e0afc54084978154ad31aabf0fac125",
+ "parent": "6d43c35e7339c5cbd9036c597babfcdb413e9ef2",
+ "date": "2025-10-18",
+ "subject": "Fix relationship status logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PersonalProfileQuestionnaire/QuestionnaireSection2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46815
+}

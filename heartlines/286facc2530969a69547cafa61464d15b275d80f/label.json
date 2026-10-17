@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "286facc2530969a69547cafa61464d15b275d80f",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Fix: Remove italic styling from header",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "font-family: Shrikhand, Inter, system-ui, sans-serif → Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif undone by 742a6678 \"Refactor: Improve Data Flow Cards readability\"; font-family: Shrikhand, Inter, system-ui, sans-serif → Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif undone by 742a6678 \"Refactor: Improve Data Flow Cards readability\"; font-family: Shrikhand, Inter, system-ui, sans-serif → Inter, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif undone by 742a6678 \"Refactor: Improve Data Flow Cards readability\""
+}

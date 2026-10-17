@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "a2f7eeba552ba22ac9fb1d69f54c6c46802de0ad",
+ "date": "2025-10-18",
+ "pr": null,
+ "title": "Fix white screens with burgundy background",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 594955f3, which restored 1af88429 (36 commits discarded)"
+}

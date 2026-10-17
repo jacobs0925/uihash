@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c247ef5b9d4c5404822274153785b47bd83fd5fd",
+ "parent": "654e262bc7149204650597d8f4a09217bcb2ded9",
+ "date": "2025-10-16",
+ "subject": "Fix: Render heart shape correctly in NavAvatar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NavAvatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45919
+}

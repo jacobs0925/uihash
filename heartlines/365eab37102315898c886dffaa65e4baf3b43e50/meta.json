@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "365eab37102315898c886dffaa65e4baf3b43e50",
+ "parent": "964d3b091bca6de129538a789fb1ce55d558f62a",
+ "date": "2025-10-18",
+ "subject": "Add \"Add your person\" button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/CleanQuestionnaireFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47217
+}

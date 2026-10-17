@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "4516546bcbf32421ac70d7c5ccec917fa3189cfc",
+ "parent": "9d3affa7f8a814cadb7e43324452091f7f8e71ae",
+ "date": "2025-10-18",
+ "subject": "Fix navigation menu text and chat layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 53536
+}

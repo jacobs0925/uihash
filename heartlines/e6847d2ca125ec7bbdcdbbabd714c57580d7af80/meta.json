@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e6847d2ca125ec7bbdcdbbabd714c57580d7af80",
+ "parent": "abc025063f2e14587751fda1657a6883d12eb770",
+ "date": "2025-10-16",
+ "subject": "Fix: Make logo stay fixed on top corner",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47109
+}

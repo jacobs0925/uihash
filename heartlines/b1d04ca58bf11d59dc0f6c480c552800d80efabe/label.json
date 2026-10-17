@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "b1d04ca58bf11d59dc0f6c480c552800d80efabe",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Refactor: Update flip phone icon",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "width: 144px → 160px undone by eea69a59 \"Reverted to commit 97df9aab7b885a85c2c69a0310b5eb2f817e82c7\"; height: 144px → 160px undone by eea69a59 \"Reverted to commit 97df9aab7b885a85c2c69a0310b5eb2f817e82c7\"; @src: flip-phone-CGsYhbg-.svg#d993dc641f03 → flip-phone-new-VSmNLLGo.png#8238374edeb1 undone by eea69a59 \"Reverted to commit 97df9aab7b885a85c2c69a0310b5eb2f817e82c7\""
+}

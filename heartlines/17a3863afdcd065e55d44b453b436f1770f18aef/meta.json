@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "17a3863afdcd065e55d44b453b436f1770f18aef",
+ "parent": "da4d50a7b5e16a27afbadaf2a5f099a9038f2b3b",
+ "date": "2025-10-16",
+ "subject": "Optimize mobile chat performance",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx",
+  "src/components/chat/MemoizedChatContainer.tsx",
+  "src/components/chat/MemoizedChatInputSection.tsx",
+  "src/hooks/useKeyboardDetection.tsx",
+  "src/hooks/useProgressiveAccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47004
+}

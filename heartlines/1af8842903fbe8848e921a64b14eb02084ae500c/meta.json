@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1af8842903fbe8848e921a64b14eb02084ae500c",
+ "parent": "45087087b1b2fd87bb9f0ca08f5d01814e8fdfaf",
+ "date": "2025-10-17",
+ "subject": "Refactor: Lowercase all text and update plan",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47696
+}

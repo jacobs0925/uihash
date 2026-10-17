@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "3d2d933559c0299d7613306ca83c64ea4ce5046c",
+ "parent": "7812452e91122a1701c5e51cf90b756acff7733f",
+ "date": "2025-10-17",
+ "subject": "Fix: Resolve pronoun selection state synchronization",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/sections/WhoYouAre/NamePronounsCard.tsx",
+  "src/components/NewPersonalQuestionnaire/components/shared/SingleSelect.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47631
+}

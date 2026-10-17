@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "1bed19aed329598331f38db18c7e05a9b04f1660",
+ "parent": "a7577a236cf8587364a064e82156f0d3dc481d6b",
+ "date": "2025-10-16",
+ "subject": "Refactor: Update privacy page hero and remove security header",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/privacy/SecurityDeepDive.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 71080
+}

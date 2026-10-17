@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1b84235a7bf163e006f8d2a5e03c32c10a1fb254",
+ "parent": "742a6678d707674d8805545e27c95a79574dcf48",
+ "date": "2025-10-16",
+ "subject": "Fix email address",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/privacy/SecurityDeepDive.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 55933
+}

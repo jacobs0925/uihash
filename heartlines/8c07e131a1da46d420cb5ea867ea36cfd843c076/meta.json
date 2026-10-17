@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8c07e131a1da46d420cb5ea867ea36cfd843c076",
+ "parent": "46b242d3412c1b171bfe7b977b67bca285e292d1",
+ "date": "2025-10-16",
+ "subject": "Fix: Remove tagline from header and footer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47130
+}

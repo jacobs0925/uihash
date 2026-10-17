@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "633944f98c5daba50cc09affac9dcd746f1723c0",
+ "parent": "c9348350ef0da0bada1cb34fafc0672d82b811bc",
+ "date": "2025-10-17",
+ "subject": "Fix: Add space below CTA button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47610
+}

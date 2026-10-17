@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "44725efee8fdc206181d16c86c9c171a70aa349e",
+ "parent": "4e488a42c70965e7df112e083fd3a65d2325d48c",
+ "date": "2025-10-16",
+ "subject": "Fix: Adjust text casing and remove section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/account/AccountLayout.tsx",
+  "src/components/account/AccountProfile.tsx",
+  "src/components/account/AccountSecurity.tsx",
+  "src/components/account/AccountSubscription.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 50994
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "11e55004577b0d68342d6cdd5e273e961dd74e04",
+ "parent": "98610858c89dfbc48f7840c1a0f36092c15e8055",
+ "date": "2025-10-18",
+ "subject": "Fix AIChat max-height constraint",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52217
+}

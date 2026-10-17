@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "fb9c5e27a128c822506b3e26215404be765f0c72",
+ "parent": "e2cb2726457d51f45761a97069f59a7054406df6",
+ "date": "2025-10-18",
+ "subject": "Refactor: Add glow to input at limit",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48884
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "13b4c2c601624a83a837a1096ea4622c15dcc390",
+ "parent": "86be42bfd2c78e7e007923985df7f7a47a54b602",
+ "date": "2025-10-18",
+ "subject": "Fix toast close button color",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/toast.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52248
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2bd2e78496b52949659f6668f23e2356b3e8e019",
+ "parent": "b3b0681e6b6a82395d4ecd2c7f53f543e53c0bad",
+ "date": "2025-10-16",
+ "subject": "Fix text color",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47099
+}

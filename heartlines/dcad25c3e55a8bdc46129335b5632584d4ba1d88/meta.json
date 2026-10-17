@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "dcad25c3e55a8bdc46129335b5632584d4ba1d88",
+ "parent": "b1f5e01df0d048667c0b298f117f224a52069457",
+ "date": "2025-10-17",
+ "subject": "Refactor NavAvatar component",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NavAvatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47818
+}

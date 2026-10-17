@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6d5c84cc75c991ad872978e01f5256f1f3029744",
+ "parent": "8b10a9dd7035abfd5f4b25a7aaa770275129edce",
+ "date": "2025-10-07",
+ "subject": "Update FHA MIP cost calculation and add refund value field",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51734
+}

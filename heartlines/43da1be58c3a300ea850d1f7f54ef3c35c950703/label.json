@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "43da1be58c3a300ea850d1f7f54ef3c35c950703",
+ "date": "2025-10-17",
+ "pr": null,
+ "title": "Fix: Revert flip phone icon size and design",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 00c5f3f6, which restored b1d04ca5 (1 commit discarded)"
+}

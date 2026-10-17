@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "742a6678d707674d8805545e27c95a79574dcf48",
+ "parent": "f8380f1ef2b1b40c30518b58dd22dc9dcf2af46a",
+ "date": "2025-10-16",
+ "subject": "Refactor: Improve Data Flow Cards readability",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/privacy/DataFlowCards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 71689
+}

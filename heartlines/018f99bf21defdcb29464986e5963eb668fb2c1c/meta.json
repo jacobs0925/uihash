@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "018f99bf21defdcb29464986e5963eb668fb2c1c",
+ "parent": "7424ab95107f56f7e116137b42b406c97bd0b46a",
+ "date": "2025-10-16",
+ "subject": "Fix: Adjust pricing card layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/account/AccountSubscription.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46840
+}

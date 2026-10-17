@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "cf8d1497c5bbf80eed2c647abf5430824869a11f",
+ "parent": "17c838617ebe9f352ed2f49a9d481ad22954d61e",
+ "date": "2025-10-16",
+ "subject": "Refactor hero carousel styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46953
+}

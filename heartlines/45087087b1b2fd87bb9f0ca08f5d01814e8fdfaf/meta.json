@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "45087087b1b2fd87bb9f0ca08f5d01814e8fdfaf",
+ "parent": "7c6bc848fa86e48740911211199b2f61e445893f",
+ "date": "2025-10-17",
+ "subject": "Fix \"Maybe Later\" button hover effect",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47613
+}

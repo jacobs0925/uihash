@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7ac217eb7c1a166c965416aa3dfb58f16c673d79",
+ "parent": "df8616129dcbb5113077a871539cbe8de8bcaa59",
+ "date": "2025-10-18",
+ "subject": "Refactor button logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/CleanQuestionnaireFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47722
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "89855ba36791e00cf8074453d2e1e53b71bee61e",
+ "parent": "e0f564fde7b5d2f9e8ab7262b391299bf86e2c2e",
+ "date": "2025-10-18",
+ "subject": "Fix: Prevent questionnaire completion redirect",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useDashboardModalHandlers.tsx",
+  "src/hooks/useDashboardModals.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47288
+}

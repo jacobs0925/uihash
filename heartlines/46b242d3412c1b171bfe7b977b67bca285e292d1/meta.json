@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "46b242d3412c1b171bfe7b977b67bca285e292d1",
+ "parent": "15d46c3a6f917f36f72cdce9935033b52d0105f9",
+ "date": "2025-10-16",
+ "subject": "Fix: Use valid Tailwind classes for icon size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/NavigationPullTab.tsx",
+  "src/components/SimpleHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 68626
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "bcea5e9963bd5cee5f7451b4a7a5507825fa230e",
+ "parent": "b5d0054d9a749b5a382f151a1d7c86460bb08e0f",
+ "date": "2025-10-18",
+ "subject": "Fix broken flex chain in DashboardContent",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52230
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "1c4fcecbc476be118639f9bbf66d37e45a12a62d",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Adjust layout for account and privacy pages",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1938 later commits"
+}

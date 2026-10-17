@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0e9bcc923b09432c85df8794ad5dc73a43d96e10",
+ "parent": "a9063bae13403df31da10ca079c33497c324cd20",
+ "date": "2025-10-17",
+ "subject": "feat: Implement 80% usage alert banner",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47470
+}

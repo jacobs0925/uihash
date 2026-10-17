@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "daa04c35ad682bbda608c496e6080195c1c97a6a",
+ "parent": "57a28e55f100ea19dd0d7d2e5732a36fc05fa867",
+ "date": "2025-10-18",
+ "subject": "Fix: Improve session persistence",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "src/integrations/supabase/client.ts",
+  "src/utils/authCleanup.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46967
+}

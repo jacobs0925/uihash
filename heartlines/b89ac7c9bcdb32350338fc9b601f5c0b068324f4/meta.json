@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b89ac7c9bcdb32350338fc9b601f5c0b068324f4",
+ "parent": "6dc9eeca08edd6a427961c1de517e122dece057c",
+ "date": "2025-10-17",
+ "subject": "Fix: Ensure Shrikhand font is applied",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NavAvatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48331
+}

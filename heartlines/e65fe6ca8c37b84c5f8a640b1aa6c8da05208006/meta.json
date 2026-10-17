@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e65fe6ca8c37b84c5f8a640b1aa6c8da05208006",
+ "parent": "350b855905dfc760bb004571825febcc4719f36a",
+ "date": "2025-10-17",
+ "subject": "Fix: Display \"let's get real\" button to all users",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47195
+}

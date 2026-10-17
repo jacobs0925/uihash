@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "4be60e9c6e6bcfa2981119033341cc2af4ec1565",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Remove marketing speak text and FAQs",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1942 later commits"
+}

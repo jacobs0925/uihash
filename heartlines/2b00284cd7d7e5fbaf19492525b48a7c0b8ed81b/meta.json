@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "2b00284cd7d7e5fbaf19492525b48a7c0b8ed81b",
+ "parent": "13b4c2c601624a83a837a1096ea4622c15dcc390",
+ "date": "2025-10-18",
+ "subject": "Fix relationship status conditional logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/EnhancedQuestionnaireFooter.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/YourRelationship.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52367
+}

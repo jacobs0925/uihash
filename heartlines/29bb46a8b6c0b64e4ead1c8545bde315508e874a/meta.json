@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "29bb46a8b6c0b64e4ead1c8545bde315508e874a",
+ "parent": "f1f9dea0b4fd6743c8a3658befbfc89d88610bb0",
+ "date": "2025-10-17",
+ "subject": "Refactor: Improve email verification flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx",
+  "src/pages/AuthCallback.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47191
+}

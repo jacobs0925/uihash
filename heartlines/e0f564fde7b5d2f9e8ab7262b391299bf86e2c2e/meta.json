@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e0f564fde7b5d2f9e8ab7262b391299bf86e2c2e",
+ "parent": "7331442dbc544f4e7563ae64b9cdab6d0be291d0",
+ "date": "2025-10-18",
+ "subject": "feat: Redirect first-time sign-ins to profile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47226
+}

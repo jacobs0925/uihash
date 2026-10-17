@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1ad7b9a38823d5047fd9a54bd215e0f7358a30cf",
+ "parent": "6d190fecad62fbbc3c0a17516c55ee55db8919aa",
+ "date": "2025-10-17",
+ "subject": "Refactor: Match UpgradeModal to pricing design",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48965
+}

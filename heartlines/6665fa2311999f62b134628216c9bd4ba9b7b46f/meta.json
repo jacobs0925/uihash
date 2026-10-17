@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6665fa2311999f62b134628216c9bd4ba9b7b46f",
+ "parent": "11e55004577b0d68342d6cdd5e273e961dd74e04",
+ "date": "2025-10-18",
+ "subject": "Fix chat container spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51769
+}

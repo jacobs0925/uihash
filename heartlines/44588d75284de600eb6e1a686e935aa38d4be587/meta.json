@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "44588d75284de600eb6e1a686e935aa38d4be587",
+ "parent": "074cfe0b1c447449bc011b6209791362274b2d1b",
+ "date": "2025-10-17",
+ "subject": "Fix: Remove hardcoded size from Button component",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/SimpleHeader.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 61970
+}

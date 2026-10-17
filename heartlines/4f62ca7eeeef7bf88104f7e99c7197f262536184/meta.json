@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4f62ca7eeeef7bf88104f7e99c7197f262536184",
+ "parent": "9ae346e1c9bf276d9b6b28fdb082cb15fc5f9fdf",
+ "date": "2025-10-17",
+ "subject": "Fix: Make UpgradeModal deep burgundy",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48656
+}

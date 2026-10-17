@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6f4bb29a56a1119070a58d7e658846481cf51a9f",
+ "parent": "6d5c84cc75c991ad872978e01f5256f1f3029744",
+ "date": "2025-10-07",
+ "subject": "Update refund value calculation based on remaining months input",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51495
+}

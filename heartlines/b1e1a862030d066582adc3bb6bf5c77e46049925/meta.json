@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b1e1a862030d066582adc3bb6bf5c77e46049925",
+ "parent": "e5edae5ef4e3ba4a3d5a5469e48f07cd7dd47d04",
+ "date": "2025-10-18",
+ "subject": "Fix: Remove pink circle from nav avatar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NavAvatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47822
+}

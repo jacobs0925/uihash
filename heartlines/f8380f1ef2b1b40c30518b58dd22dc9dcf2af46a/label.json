@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "f8380f1ef2b1b40c30518b58dd22dc9dcf2af46a",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Fix dark text in security deep dive",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1953 later commits"
+}

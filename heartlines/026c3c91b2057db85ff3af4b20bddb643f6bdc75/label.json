@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "026c3c91b2057db85ff3af4b20bddb643f6bdc75",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Refactor: Reduce vertical spacing",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 128px → 64px undone by aaaecc82 \"feat: Enhance privacy and security section\"; padding-bottom: 128px → 64px undone by aaaecc82 \"feat: Enhance privacy and security section\"; padding-top: 128px → 64px undone by aaaecc82 \"feat: Enhance privacy and security section\""
+}

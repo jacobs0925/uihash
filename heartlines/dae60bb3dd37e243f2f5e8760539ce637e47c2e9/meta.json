@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "dae60bb3dd37e243f2f5e8760539ce637e47c2e9",
+ "parent": "0e7a3e4aff75cf28fffb124f418d3f4086b29c26",
+ "date": "2025-10-18",
+ "subject": "Fix profile data persistence on sign-up",
+ "components": [
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/utils/authCleanup.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52058
+}

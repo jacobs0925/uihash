@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "bd9dd7e576b4acd99972dd2d17ad5572024e7ddd",
+ "parent": "836d377177488d8c9d502ac2c69d27f9fb741e9a",
+ "date": "2025-10-16",
+ "subject": "Fix text color",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 52561
+}

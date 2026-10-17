@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7c6bc848fa86e48740911211199b2f61e445893f",
+ "parent": "7eaec9ae45c7ae30c444bf3c642570a938bcf3e0",
+ "date": "2025-10-17",
+ "subject": "Fix UpgradeModal message text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48191
+}

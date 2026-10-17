@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "891a5cbca2ce77187f95077b8257006ae4fca315",
+ "parent": "4808a45a6904c94ba177b2e6d7beec11da82fdae",
+ "date": "2025-10-18",
+ "subject": "Fix: Remove Kai's typing indicators",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47201
+}

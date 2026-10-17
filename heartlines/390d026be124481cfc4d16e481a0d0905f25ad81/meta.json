@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "390d026be124481cfc4d16e481a0d0905f25ad81",
+ "parent": "b5ef06875629910095b87209d8bf1bf59c3694ee",
+ "date": "2025-10-18",
+ "subject": "Refactor: Enhance welcome banner",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/WelcomeBanner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52648
+}

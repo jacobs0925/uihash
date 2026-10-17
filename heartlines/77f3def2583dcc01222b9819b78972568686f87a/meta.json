@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "77f3def2583dcc01222b9819b78972568686f87a",
+ "parent": "a9342c8de3ba487d57164ef2c698d9b6bb8f177a",
+ "date": "2025-10-17",
+ "subject": "Add pink circle to avatar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NavAvatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47369
+}

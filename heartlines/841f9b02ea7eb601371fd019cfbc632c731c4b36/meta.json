@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "841f9b02ea7eb601371fd019cfbc632c731c4b36",
+ "parent": "39a7719f006dd46f252e5fb6e7ea118558398edb",
+ "date": "2025-10-16",
+ "subject": "Refactor: Make switch more circular",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/switch.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47519
+}

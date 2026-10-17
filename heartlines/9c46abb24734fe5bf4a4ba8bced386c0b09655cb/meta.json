@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9c46abb24734fe5bf4a4ba8bced386c0b09655cb",
+ "parent": "ebc99a46536bea5dd589395967b0240973e4abd3",
+ "date": "2025-10-14",
+ "subject": "Fix: Reduce logo size and reposition",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48434
+}

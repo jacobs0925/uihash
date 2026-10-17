@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ebc99a46536bea5dd589395967b0240973e4abd3",
+ "parent": "d687f4ae385602d36ddb7a83e2e0326707f4b766",
+ "date": "2025-10-14",
+ "subject": "Fix: Increase logo size again",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48212
+}

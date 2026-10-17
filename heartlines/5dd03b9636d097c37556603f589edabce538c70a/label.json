@@ -5,8 +5,8 @@
  "date": "2025-10-09",
  "pr": null,
  "title": "Fix \"Most Popular\" badge and page scrolling",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2473 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-color: ∅ → rgba(255, 255, 255, 0.15) undone by 4443b4b3 \"Fix: Remove background from phone icon button\"; backdrop-filter: ∅ → blur(12px) undone by 4443b4b3 \"Fix: Remove background from phone icon button\""
 }

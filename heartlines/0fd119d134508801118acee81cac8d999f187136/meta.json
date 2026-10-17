@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "0fd119d134508801118acee81cac8d999f187136",
+ "parent": "17dbe688dd813f01c6d18f762e4ca3d4c04c5e9b",
+ "date": "2025-10-12",
+ "subject": "Refactor: Implement chat message visibility plan",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/components/chat/MemoizedChatContainer.tsx",
+  "src/components/chat/MemoizedChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45256
+}

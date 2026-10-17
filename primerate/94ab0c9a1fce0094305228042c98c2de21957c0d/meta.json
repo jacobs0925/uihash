@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "94ab0c9a1fce0094305228042c98c2de21957c0d",
+ "parent": "7f3d0517d1f4bb51d873f329e32c689686937a45",
+ "date": "2025-10-07",
+ "subject": "Update card appearance to complement other card borders",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51340
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a4a905dd4336167054f77e0fac93f0985e7090b4",
+ "parent": "2d4f3aaa8e7c93a4aa257b75d34c46928fb2d132",
+ "date": "2025-10-13",
+ "subject": "Reverted to commit 200bde173100d60d0338c83b6c8abb9bcfd97644",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47385
+}

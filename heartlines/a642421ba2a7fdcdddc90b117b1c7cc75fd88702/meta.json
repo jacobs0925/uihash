@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a642421ba2a7fdcdddc90b117b1c7cc75fd88702",
+ "parent": "8f616928e6cbfac994ffa27663f07a8f79430e2e",
+ "date": "2025-10-13",
+ "subject": "Fix initialization error",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45637
+}

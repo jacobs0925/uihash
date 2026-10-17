@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "186c3db0de61604f0aed25e505fb7c3817a9f9b8",
+ "parent": "d0d4f09ccc9a24a3e70d0db0a74bbd08a28fd7b4",
+ "date": "2025-10-07",
+ "subject": "Update the left border color on the add client page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51445
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a8ece5c13d2f001c246854b47d57cbb87f74848f",
+ "parent": "3c7e695a9bbeffccda2191947af3c9e4f9e9ea7d",
+ "date": "2025-10-12",
+ "subject": "Refactor: Adjust desktop spacing on sign-up page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44671
+}

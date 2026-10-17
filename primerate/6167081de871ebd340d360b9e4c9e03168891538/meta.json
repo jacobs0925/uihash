@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6167081de871ebd340d360b9e4c9e03168891538",
+ "parent": "db5e0b3c97491b6271bd85e64d285c52439bd078",
+ "date": "2025-10-07",
+ "subject": "Update card styling to match the third card's appearance",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51747
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8f305dd72adb942586889ea41d6d175975b78dae",
+ "parent": "0fda2ca59c39a5511c1732207925d0cfde319652",
+ "date": "2025-10-13",
+ "subject": "Fix hero section text layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47895
+}

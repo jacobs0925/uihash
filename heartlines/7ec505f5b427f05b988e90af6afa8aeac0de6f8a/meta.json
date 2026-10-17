@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "7ec505f5b427f05b988e90af6afa8aeac0de6f8a",
+ "parent": "23a4aad5f16a63b451be0d507c0afacc21b7f2bd",
+ "date": "2025-10-12",
+ "subject": "Fix: Ensure chat input is always visible on mobile",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45497
+}

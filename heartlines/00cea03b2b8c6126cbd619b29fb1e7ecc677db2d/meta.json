@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "00cea03b2b8c6126cbd619b29fb1e7ecc677db2d",
+ "parent": "865589cda4dd0a0bdda7720c46eb120cd92d5350",
+ "date": "2025-10-13",
+ "subject": "Fix: Increase button opacity for desktop/tablet",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/OnboardingStepNudge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43736
+}

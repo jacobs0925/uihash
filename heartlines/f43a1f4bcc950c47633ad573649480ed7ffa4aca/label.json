@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "f43a1f4bcc950c47633ad573649480ed7ffa4aca",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Fix: Ensure \"aren't rom-coms.\" stays on one line",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2215 later commits"
+}

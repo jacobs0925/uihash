@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "b4cbd3a178fb3ed7f939d9beb39c0922124b66f5",
+ "parent": "9bcd961b485e623ce9ecfee512c9ab5209fa0381",
+ "date": "2025-10-07",
+ "subject": "Update calculations for third-party services to include new data",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx",
+  "client/src/pages/admin/AdminAddClient.tsx.backup"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 63005
+}

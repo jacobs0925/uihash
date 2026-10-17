@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "040f6fd9ddbef02adbce64e94ab8590508c16559",
+ "parent": "1c495630fc3f7e96e3f2fbc8c716a271617831eb",
+ "date": "2025-10-07",
+ "subject": "Change the color of the home icon to red when FHA loan category is selected",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52056
+}

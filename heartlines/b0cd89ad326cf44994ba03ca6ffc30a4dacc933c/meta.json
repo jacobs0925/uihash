@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b0cd89ad326cf44994ba03ca6ffc30a4dacc933c",
+ "parent": "2ea2ac938b3dddfa10abc8bdadac3d794af343ca",
+ "date": "2025-10-14",
+ "subject": "Refactor: Apply premium glow to landing page CTAs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48160
+}

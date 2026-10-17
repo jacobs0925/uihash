@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "43f07ea7ea8ac2e7a282f6da380aa4db49c38725",
+ "parent": "134b874c5223f943b84b1c02246b5ccb502a6b73",
+ "date": "2025-10-13",
+ "subject": "Fix: Add padding to chat for button visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44079
+}

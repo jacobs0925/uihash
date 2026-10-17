@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "47511c24ffb5e60ffbfdc6cf19bf1ef48e31d684",
+ "parent": "c2b266aee56cb592341056fc0e6e49a19fb82858",
+ "date": "2025-10-14",
+ "subject": "Fix: Adjust logo position and size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47588
+}

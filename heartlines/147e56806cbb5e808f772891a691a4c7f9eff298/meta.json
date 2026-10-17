@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "147e56806cbb5e808f772891a691a4c7f9eff298",
+ "parent": "6f9afa83e47bbef0a40d1b4017d41c84b306fcca",
+ "date": "2025-10-12",
+ "subject": "Fix profile data persistence",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45510
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1f67adcdbd4b61fa0bfdcb12eadb3c2860f1d187",
+ "parent": "aded41552b3cc1ad3316d61f34e782407c0668d0",
+ "date": "2025-10-07",
+ "subject": "Update loan category title to show MIP when FHA cash out is selected",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51760
+}

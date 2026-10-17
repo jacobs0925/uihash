@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "e9a284a14ba0aeda9de693d5895b5e7bf3143fc6",
+ "date": "2025-10-14",
+ "pr": null,
+ "title": "Fix: Ensure flip phone nav is consistent",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2155 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "86338c92cb00dc554ebaef7c3760eb18a0ecc134",
+ "parent": "6d58859a6cb82b9bdc45ad50384b89ae727d17c8",
+ "date": "2025-10-13",
+ "subject": "Fix: Increase sign-in page logo size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Brand/PhoneLockup.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47387
+}

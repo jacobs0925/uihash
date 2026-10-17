@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ea937bd4a20fa4f2e55ccef8b3e182c945dee089",
+ "parent": "c433b594b73dda1b009f2e28b1fa6562fc1ea3ab",
+ "date": "2025-10-07",
+ "subject": "Automatically calculate and display estimated MIP credit based on loan balance and factor",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51994
+}

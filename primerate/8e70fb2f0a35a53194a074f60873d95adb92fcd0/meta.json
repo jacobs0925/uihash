@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8e70fb2f0a35a53194a074f60873d95adb92fcd0",
+ "parent": "ad89a94fe39ef9032ad891b84d2edd5e788db8da",
+ "date": "2025-10-07",
+ "subject": "Add settings icon next to the FHA Upfront MIP title",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51677
+}

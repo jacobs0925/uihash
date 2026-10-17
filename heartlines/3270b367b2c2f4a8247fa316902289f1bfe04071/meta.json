@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "3270b367b2c2f4a8247fa316902289f1bfe04071",
+ "parent": "bb97b2fb8d88980c2ce8aa5245ca144ac5ef8d02",
+ "date": "2025-10-13",
+ "subject": "Fix: Ensure chat interface is fully visible",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/DashboardContent.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 56814
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "9f1b053db58d33f2f75a678793d22aff0a924644",
+ "date": "2025-10-14",
+ "pr": null,
+ "title": "Refactor: Adjust desktop icon sizes",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2150 later commits"
+}

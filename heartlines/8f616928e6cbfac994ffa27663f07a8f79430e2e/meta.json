@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "8f616928e6cbfac994ffa27663f07a8f79430e2e",
+ "parent": "147e56806cbb5e808f772891a691a4c7f9eff298",
+ "date": "2025-10-13",
+ "subject": "Fix: Update profile completion cache logic",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useProfileStoreV2.tsx",
+  "src/utils/calculationCache.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45298
+}

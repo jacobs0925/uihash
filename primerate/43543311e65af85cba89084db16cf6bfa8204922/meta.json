@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "43543311e65af85cba89084db16cf6bfa8204922",
+ "parent": "021461ea10da61ddd7d7e6bb0b0e1af4ea134121",
+ "date": "2025-10-07",
+ "subject": "Remove unused options for adding custom loan terms",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 54389
+}

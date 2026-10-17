@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9a43de97d0f17aaeec3d783c60c3415cb1501d2b",
+ "parent": "35c146f037e72454d545fe2c636fcd5c44901260",
+ "date": "2025-10-13",
+ "subject": "Add parenthetical text to subtitle",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44336
+}

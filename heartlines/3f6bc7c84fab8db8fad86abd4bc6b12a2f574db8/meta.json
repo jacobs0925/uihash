@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "3f6bc7c84fab8db8fad86abd4bc6b12a2f574db8",
+ "parent": "1025ae49b0a7b763f7c0d8014c117cef222878e7",
+ "date": "2025-10-13",
+ "subject": "Fix: Clear caches immediately on field update",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/usePersonalProfileData.tsx",
+  "src/hooks/useProfileStoreV2.tsx",
+  "src/hooks/useProgressiveAccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44619
+}

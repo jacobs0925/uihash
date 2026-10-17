@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "e7a228d03bcb6ed3ab0ada922cf369616a6b4f79",
+ "parent": "70c6c0b88e094eb38abb4a02a98ec954775c2259",
+ "date": "2025-10-13",
+ "subject": "Fix: Ensure profile nudge button updates instantly",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx",
+  "src/hooks/usePersonalProfileData.tsx",
+  "src/utils/calculationCache.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45222
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "29208671ffdedf888642be2b971148b283ae202f",
+ "parent": "8e50e75b9a0ef86665f51131c8c4b2dc6891a845",
+ "date": "2025-10-13",
+ "subject": "Fix: Adjust desktop spacing for CTA button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FloatingCTAButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49219
+}

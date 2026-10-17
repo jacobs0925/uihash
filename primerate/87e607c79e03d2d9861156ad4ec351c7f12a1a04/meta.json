@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "87e607c79e03d2d9861156ad4ec351c7f12a1a04",
+ "parent": "b4cbd3a178fb3ed7f939d9beb39c0922124b66f5",
+ "date": "2025-10-07",
+ "subject": "Add fields for processing and credit report services to client data entry",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52141
+}

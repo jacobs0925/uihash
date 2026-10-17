@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "14f66ae271835d36b2fa769f047a7d6bcfb4be55",
+ "parent": "dc18719ccd397c8f07ced71f4ea5ffc97dba7169",
+ "date": "2025-10-07",
+ "subject": "Update loan category display to show house icon next to title for FHA loans",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52240
+}

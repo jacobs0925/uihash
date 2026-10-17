@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "da3d7d3a89a1b1d814c99cca54d7f481376ccde7",
+ "parent": "211775a327cb89c8d43726ae987e5f7e3b4ff77e",
+ "date": "2025-10-13",
+ "subject": "Fix: Hide messages behind profile button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43828
+}

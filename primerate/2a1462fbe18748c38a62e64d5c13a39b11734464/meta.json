@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2a1462fbe18748c38a62e64d5c13a39b11734464",
+ "parent": "a5e9f1c339124ce24a5389ad7b440296102d3ee1",
+ "date": "2025-10-07",
+ "subject": "Add a new card to the quote tab that appears between existing cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52070
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "76e8bad4bf28b17dabf8816a3afa452636c817a7",
+ "parent": "c980724c11aa4cae4685ea31eb4220fa905b0b04",
+ "date": "2025-10-07",
+ "subject": "Remove horizontal lines from client interest and savings sections",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51394
+}

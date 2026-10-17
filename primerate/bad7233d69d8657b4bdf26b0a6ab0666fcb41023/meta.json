@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "bad7233d69d8657b4bdf26b0a6ab0666fcb41023",
+ "parent": "c27ef7d1b5f32a13a5ba345f2c1693dca0fc2037",
+ "date": "2025-10-07",
+ "subject": "Improve loan term input usability and clarity for clients",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52215
+}

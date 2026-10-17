@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "55511e1f089e40c39e8d78045987e9e018edf255",
+ "parent": "8a20bac0e3200b79308e420f5a20bf0cc9105bce",
+ "date": "2025-10-13",
+ "subject": "Refactor email verification and hero alignment",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48312
+}

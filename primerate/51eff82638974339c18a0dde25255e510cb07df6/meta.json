@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "51eff82638974339c18a0dde25255e510cb07df6",
+ "parent": "934d4920ed49da0a8a37484931d2c74c4ce811ce",
+ "date": "2025-10-07",
+ "subject": "Update icon and tooltip text for FHA MIP on the add client page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51538
+}

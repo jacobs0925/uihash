@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "121bfc5e3a82d6bbdccae6a86dd3947493a4752b",
+ "parent": "feaf9868b7d91a4037250690ea1c7c41775198c8",
+ "date": "2025-10-12",
+ "subject": "Fix: Adjust mobile navigation padding",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/SimpleHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52106
+}

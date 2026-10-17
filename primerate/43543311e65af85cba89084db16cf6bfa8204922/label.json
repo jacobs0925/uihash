@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "43543311e65af85cba89084db16cf6bfa8204922",
+ "date": "2025-10-07",
+ "pr": null,
+ "title": "Remove unused options for adding custom loan terms",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1101 later commits"
+}

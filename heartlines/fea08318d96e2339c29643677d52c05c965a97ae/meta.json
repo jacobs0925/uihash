@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "fea08318d96e2339c29643677d52c05c965a97ae",
+ "parent": "f61092a2b4ac9bc37e4282bb14b3d02417266b5e",
+ "date": "2025-10-14",
+ "subject": "Apply glow effect to nav CTAs",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47774
+}

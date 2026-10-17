@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "ab5b7a506458a1a78127e9d370a7958519ecd2bc",
+ "parent": "bd5fefb2d0924fa1a7cb9b97bb076b09dbe96a10",
+ "date": "2025-10-14",
+ "subject": "Refactor: Universal icon-only navigation menu",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/SimpleHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46431
+}

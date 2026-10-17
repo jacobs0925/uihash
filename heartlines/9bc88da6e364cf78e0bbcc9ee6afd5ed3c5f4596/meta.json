@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "9bc88da6e364cf78e0bbcc9ee6afd5ed3c5f4596",
+ "parent": "dc7acfb8373dbe1e760876f4b4825ccc958edf24",
+ "date": "2025-10-14",
+ "subject": "feat: Increase flip phone icon size",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/NavigationPullTab.tsx",
+  "src/components/SimpleHeader.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 75209
+}

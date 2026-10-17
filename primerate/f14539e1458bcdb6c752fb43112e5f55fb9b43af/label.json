@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "f14539e1458bcdb6c752fb43112e5f55fb9b43af",
+ "date": "2025-10-07",
+ "pr": null,
+ "title": "Add automatic calculation for FHA MIP estimated credit based on loan details",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by 0ad481ba, which restored c433b594 (4 commits discarded)"
+}

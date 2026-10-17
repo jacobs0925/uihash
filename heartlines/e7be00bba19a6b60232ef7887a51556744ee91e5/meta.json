@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e7be00bba19a6b60232ef7887a51556744ee91e5",
+ "parent": "9553f5873c7cb801e6165271648e7bb52ff7b740",
+ "date": "2025-10-14",
+ "subject": "Fix: Make Heartlines watermark fixed",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47786
+}

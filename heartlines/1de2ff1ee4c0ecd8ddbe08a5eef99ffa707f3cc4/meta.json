@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1de2ff1ee4c0ecd8ddbe08a5eef99ffa707f3cc4",
+ "parent": "84cc60ea8ab06bb549187243ac6a5f90cb638a8e",
+ "date": "2025-10-13",
+ "subject": "Fix: Position chat button above messages",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44923
+}

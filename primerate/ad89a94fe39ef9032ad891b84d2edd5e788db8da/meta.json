@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "ad89a94fe39ef9032ad891b84d2edd5e788db8da",
+ "parent": "cf4a3ea1cd6605d60e21cadd3b249ea1df15321d",
+ "date": "2025-10-07",
+ "subject": "Add processing and credit report services to client addition form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx",
+  "client/src/pages/admin/AdminAddClient.tsx.backup"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52164
+}

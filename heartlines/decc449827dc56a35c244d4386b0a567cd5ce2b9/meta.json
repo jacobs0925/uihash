@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "decc449827dc56a35c244d4386b0a567cd5ce2b9",
+ "parent": "c5884d69465d513665d1e7fd76c9291f0eaad1de",
+ "date": "2025-10-13",
+ "subject": "Fix: Clear completion flag on modal close",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useDashboardModalHandlers.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44233
+}

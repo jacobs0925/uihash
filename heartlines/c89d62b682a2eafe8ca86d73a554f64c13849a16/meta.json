@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "c89d62b682a2eafe8ca86d73a554f64c13849a16",
+ "parent": "ba79a1d12ab8d6418a7bd58273f4afc1301c5a5c",
+ "date": "2025-10-13",
+ "subject": "feat: Implement synchronous profile updates",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx",
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44079
+}

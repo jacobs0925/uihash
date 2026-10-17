@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "22fd947c517682f0b238895273b1b8a93c6dac96",
+ "parent": "ebd69477cea925f3bee918348d76746d83abbdf6",
+ "date": "2025-10-13",
+ "subject": "Refactor: Remove badge from onboarding nudge",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/OnboardingStepNudge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43002
+}

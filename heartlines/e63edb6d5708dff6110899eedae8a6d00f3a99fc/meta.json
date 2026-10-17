@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "e63edb6d5708dff6110899eedae8a6d00f3a99fc",
+ "parent": "a8ece5c13d2f001c246854b47d57cbb87f74848f",
+ "date": "2025-10-12",
+ "subject": "Refactor: Enhance onboarding nudge aesthetic",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/OnboardingStepNudge.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44928
+}

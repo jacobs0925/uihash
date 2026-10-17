@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "04c215c312610c566f6daf9429ba966579ec7a85",
+ "parent": "cd5436787fbc2e887b4898dc38a011738f6b02fe",
+ "date": "2025-10-13",
+ "subject": "Fix: Implement questionnaire completion validation",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/CleanQuestionnaireFooter.tsx",
+  "src/hooks/useDashboardModalHandlers.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44927
+}

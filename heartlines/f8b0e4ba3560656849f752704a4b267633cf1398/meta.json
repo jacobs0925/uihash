@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f8b0e4ba3560656849f752704a4b267633cf1398",
+ "parent": "c9d8513b65828f90f57a77c8f9ccf6e34b2b809b",
+ "date": "2025-10-14",
+ "subject": "Refactor: Adjust logo position",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49275
+}

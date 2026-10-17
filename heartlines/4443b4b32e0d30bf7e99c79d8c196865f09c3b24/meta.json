@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "4443b4b32e0d30bf7e99c79d8c196865f09c3b24",
+ "parent": "9bc88da6e364cf78e0bbcc9ee6afd5ed3c5f4596",
+ "date": "2025-10-14",
+ "subject": "Fix: Remove background from phone icon button",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/SimpleHeader.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 123351
+}

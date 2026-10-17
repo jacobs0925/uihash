@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "1025ae49b0a7b763f7c0d8014c117cef222878e7",
+ "parent": "e7a228d03bcb6ed3ab0ada922cf369616a6b4f79",
+ "date": "2025-10-13",
+ "subject": "Fix: Resolve modal refresh loop on \"Unlock Coaching\"",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useDashboardModalHandlers.tsx",
+  "src/hooks/useDashboardModalState.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45058
+}

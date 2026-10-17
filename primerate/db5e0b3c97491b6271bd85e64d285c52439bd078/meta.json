@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "db5e0b3c97491b6271bd85e64d285c52439bd078",
+ "parent": "a6584889d7277e9742d9d51a0c90918cd64b68e2",
+ "date": "2025-10-07",
+ "subject": "Add a new card holder below existing quote cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51701
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "f2014ed545153b4b3c4f62a2c572f65b18a16822",
+ "parent": "83521d8fb5bd550f020782fe05c39da55197a19f",
+ "date": "2025-10-13",
+ "subject": "Refactor: Remove client-side encryption",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/PrivacySettings.tsx",
+  "src/components/account/AccountSecurity.tsx",
+  "src/hooks/useChatHistory.tsx",
+  "src/utils/encryption.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47604
+}

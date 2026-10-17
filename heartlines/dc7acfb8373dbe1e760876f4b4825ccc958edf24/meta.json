@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "dc7acfb8373dbe1e760876f4b4825ccc958edf24",
+ "parent": "e9a284a14ba0aeda9de693d5895b5e7bf3143fc6",
+ "date": "2025-10-14",
+ "subject": "Fix: Ensure Heartlines logo stays fixed on mobile",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49204
+}

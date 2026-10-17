@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3122a02ccfb626fa1e77c63d032a327891de26cd",
+ "parent": "67630ff94420d2ac34da21cd76c7286aeb62f84e",
+ "date": "2025-10-13",
+ "subject": "Refactor: Adjust landing page text sizing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48604
+}

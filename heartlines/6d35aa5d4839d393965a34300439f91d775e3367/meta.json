@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6d35aa5d4839d393965a34300439f91d775e3367",
+ "parent": "618260187b94478751a24960338daafd602d07fa",
+ "date": "2025-10-13",
+ "subject": "Fix: Change button text to \"Get Started\"",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44303
+}

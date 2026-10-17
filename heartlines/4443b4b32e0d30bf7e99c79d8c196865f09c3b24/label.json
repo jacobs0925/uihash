@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "4443b4b32e0d30bf7e99c79d8c196865f09c3b24",
+ "date": "2025-10-14",
+ "pr": null,
+ "title": "Fix: Remove background from phone icon button",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2152 later commits"
+}

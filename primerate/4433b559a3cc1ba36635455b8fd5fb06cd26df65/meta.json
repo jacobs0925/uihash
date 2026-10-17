@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4433b559a3cc1ba36635455b8fd5fb06cd26df65",
+ "parent": "94ab0c9a1fce0094305228042c98c2de21957c0d",
+ "date": "2025-10-07",
+ "subject": "Move interest payoff section and ensure it remains part of loan amount calculation",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51615
+}

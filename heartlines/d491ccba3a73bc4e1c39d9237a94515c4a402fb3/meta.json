@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "d491ccba3a73bc4e1c39d9237a94515c4a402fb3",
+ "parent": "dd9cc946f7e286282fd001a3ccaf6f72d79938cb",
+ "date": "2025-10-13",
+ "subject": "Refactor: Improve real-time profile validation",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx",
+  "src/hooks/useProfileStoreV2.tsx",
+  "src/hooks/useProgressiveAccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44847
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b3877e4540f72191066d3b0e2c584e14322388ad",
+ "parent": "51980eeb8ee3f27664c37887bdbc524dbe21beff",
+ "date": "2025-10-13",
+ "subject": "Fix: Adjust CTA button visibility threshold",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FloatingCTAButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47009
+}

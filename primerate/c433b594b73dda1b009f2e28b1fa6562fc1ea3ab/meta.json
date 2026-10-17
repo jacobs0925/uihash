@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c433b594b73dda1b009f2e28b1fa6562fc1ea3ab",
+ "parent": "d0015d0d0ba497e34c94bf348492387fd98dc7a1",
+ "date": "2025-10-07",
+ "subject": "Add informational pop-up for FHA MIP settings",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51856
+}

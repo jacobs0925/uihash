@@ -1,0 +1,25 @@
+{
+ "repo": "heartlines",
+ "sha": "12d4f100af0704bfad9a8e9bd585c466a67c3874",
+ "parent": "e46e2fd129ac15167aa96ac64c4f63a4cb4d0c32",
+ "date": "2025-10-13",
+ "subject": "Reverted to commit b3877e4540f72191066d3b0e2c584e14322388ad",
+ "components": [
+  "App.tsx",
+  "components",
+  "contexts"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/FloatingCTAButton.tsx",
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/LandingPage.tsx",
+  "src/contexts/AnimationContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46366
+}

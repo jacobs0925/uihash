@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5a4718f29a10f5793825eb390a0b311e1098ba9d",
+ "parent": "86338c92cb00dc554ebaef7c3760eb18a0ecc134",
+ "date": "2025-10-13",
+ "subject": "Refactor: Apply Inter font to images",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47634
+}

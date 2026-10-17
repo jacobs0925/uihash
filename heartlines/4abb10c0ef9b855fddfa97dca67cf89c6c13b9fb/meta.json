@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4abb10c0ef9b855fddfa97dca67cf89c6c13b9fb",
+ "parent": "3122a02ccfb626fa1e77c63d032a327891de26cd",
+ "date": "2025-10-13",
+ "subject": "Fix: Increase chat padding when profile nudge is visible",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48382
+}

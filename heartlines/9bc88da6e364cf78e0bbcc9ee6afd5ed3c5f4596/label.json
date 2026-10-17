@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "9bc88da6e364cf78e0bbcc9ee6afd5ed3c5f4596",
+ "date": "2025-10-14",
+ "pr": null,
+ "title": "feat: Increase flip phone icon size",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "width: 48px → 64px undone by 9f1b053d \"Refactor: Adjust desktop icon sizes\"; height: 48px → 64px undone by 9f1b053d \"Refactor: Adjust desktop icon sizes\"; width: 48px → 64px undone by 9f1b053d \"Refactor: Adjust desktop icon sizes\""
+}

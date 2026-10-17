@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "90a1ed57d34d3b96edd22d0595fb2e8b089cdb68",
+ "parent": "8d75d3d83615d63204c8553c78c66250a7f6e746",
+ "date": "2025-10-13",
+ "subject": "Refactor: Slow down animations",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/OnboardingStepNudge.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44037
+}

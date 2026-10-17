@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c7af271d57214370429d280e940f0ae1223504f2",
+ "parent": "31bc62d99d4e67c7d4f60a57cf18a92a0e478f2f",
+ "date": "2025-10-14",
+ "subject": "Fix: Adjust logo visibility on small screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47542
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "618260187b94478751a24960338daafd602d07fa",
+ "parent": "43f07ea7ea8ac2e7a282f6da380aa4db49c38725",
+ "date": "2025-10-13",
+ "subject": "Fix: Ensure chat input is always visible",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43971
+}

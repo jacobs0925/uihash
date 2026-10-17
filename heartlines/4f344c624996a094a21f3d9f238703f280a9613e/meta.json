@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4f344c624996a094a21f3d9f238703f280a9613e",
+ "parent": "a642421ba2a7fdcdddc90b117b1c7cc75fd88702",
+ "date": "2025-10-13",
+ "subject": "Fix: Persist deleted profile fields",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44391
+}

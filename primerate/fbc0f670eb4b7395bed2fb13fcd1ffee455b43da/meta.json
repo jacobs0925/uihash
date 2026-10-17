@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "fbc0f670eb4b7395bed2fb13fcd1ffee455b43da",
+ "parent": "90a296f66abf009f3bb44938d3085337bbf58178",
+ "date": "2025-10-07",
+ "subject": "Update spacing for loan term selection in client quote section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51921
+}

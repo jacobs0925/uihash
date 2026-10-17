@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "878ffc2158db0796292b3c35b39f15985e58dd41",
+ "parent": "14f66ae271835d36b2fa769f047a7d6bcfb4be55",
+ "date": "2025-10-07",
+ "subject": "Align loan term selection with other form elements on the add client page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51588
+}

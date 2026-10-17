@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "17dbe688dd813f01c6d18f762e4ca3d4c04c5e9b",
+ "parent": "7ec505f5b427f05b988e90af6afa8aeac0de6f8a",
+ "date": "2025-10-12",
+ "subject": "Fix account page overlap",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/account/AccountLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45623
+}

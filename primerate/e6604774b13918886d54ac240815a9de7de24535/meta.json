@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e6604774b13918886d54ac240815a9de7de24535",
+ "parent": "87e607c79e03d2d9861156ad4ec351c7f12a1a04",
+ "date": "2025-10-07",
+ "subject": "Update loan calculation to include escrow reserves in new loan amount",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52146
+}

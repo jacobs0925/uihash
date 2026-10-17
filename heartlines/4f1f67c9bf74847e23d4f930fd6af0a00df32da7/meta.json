@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4f1f67c9bf74847e23d4f930fd6af0a00df32da7",
+ "parent": "121bfc5e3a82d6bbdccae6a86dd3947493a4752b",
+ "date": "2025-10-12",
+ "subject": "Fix: Reduce mobile sign-up spacing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44510
+}

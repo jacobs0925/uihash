@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "211775a327cb89c8d43726ae987e5f7e3b4ff77e",
+ "parent": "00cea03b2b8c6126cbd619b29fb1e7ecc677db2d",
+ "date": "2025-10-13",
+ "subject": "Reverted to commit 865589cda4dd0a0bdda7720c46eb120cd92d5350",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/OnboardingStepNudge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43593
+}

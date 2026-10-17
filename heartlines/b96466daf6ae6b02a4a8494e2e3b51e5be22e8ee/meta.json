@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b96466daf6ae6b02a4a8494e2e3b51e5be22e8ee",
+ "parent": "e7be00bba19a6b60232ef7887a51556744ee91e5",
+ "date": "2025-10-14",
+ "subject": "Fix: Replace wordmark with phone lockup logo",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48571
+}

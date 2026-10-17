@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "0854b42a230723e3d3b540e640380ca12e7c70de",
+ "parent": "ebedb254bf740bda001b11234dcf04b843c10c0e",
+ "date": "2025-10-13",
+ "subject": "Refactor: Implement plan to fix immediate chat locking",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/NewPersonalQuestionnaire/utils/optimizedValidation.ts",
+  "src/hooks/useProgressiveAccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44353
+}

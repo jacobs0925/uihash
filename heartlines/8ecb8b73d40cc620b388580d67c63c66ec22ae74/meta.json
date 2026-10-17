@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8ecb8b73d40cc620b388580d67c63c66ec22ae74",
+ "parent": "4f344c624996a094a21f3d9f238703f280a9613e",
+ "date": "2025-10-13",
+ "subject": "Refactor: Make onboarding nudge compact",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/OnboardingStepNudge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43822
+}

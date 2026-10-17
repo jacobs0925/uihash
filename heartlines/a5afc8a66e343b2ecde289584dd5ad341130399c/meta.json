@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "a5afc8a66e343b2ecde289584dd5ad341130399c",
+ "parent": "5a4718f29a10f5793825eb390a0b311e1098ba9d",
+ "date": "2025-10-13",
+ "subject": "Fix text scaling and CTA position",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FloatingCTAButton.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48299
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "51980eeb8ee3f27664c37887bdbc524dbe21beff",
+ "parent": "1917056c3a551935737b1c2ebd2f81d150fd809d",
+ "date": "2025-10-13",
+ "subject": "Fix CTA button and tagline on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FloatingCTAButton.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46966
+}

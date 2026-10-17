@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "93fec28fdfbd0edcd03d6d38911094c4a99f9166",
+ "parent": "f6f3d2c108464ca60f4595ef8ef12ecbd76c82fb",
+ "date": "2025-10-07",
+ "subject": "Add an option to create new loan terms within the client adding form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51526
+}

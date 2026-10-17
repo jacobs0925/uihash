@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "30e1b84b762aaa16f5a68ee37d2a9592d558cb27",
+ "parent": "a5afc8a66e343b2ecde289584dd5ad341130399c",
+ "date": "2025-10-13",
+ "subject": "Fix CTA button and watermark positioning",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FloatingCTAButton.tsx",
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48184
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "f4578fb3bf33de1f1ad79b45a814946fceee3fa9",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Fix chat interface visibility on desktop/tablet",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 06a0b57a, which restored bb97b2fb (2 commits discarded)"
+}

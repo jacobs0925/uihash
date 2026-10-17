@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6d58859a6cb82b9bdc45ad50384b89ae727d17c8",
+ "parent": "8b5dd989b2332c1bcf8c7a4ef0a7e956fc82e87b",
+ "date": "2025-10-13",
+ "subject": "Fix: Adjust spacing and logo size on signup",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47934
+}

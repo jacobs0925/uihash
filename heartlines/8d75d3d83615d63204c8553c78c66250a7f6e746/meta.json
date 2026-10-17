@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8d75d3d83615d63204c8553c78c66250a7f6e746",
+ "parent": "8ecb8b73d40cc620b388580d67c63c66ec22ae74",
+ "date": "2025-10-13",
+ "subject": "Fix button text to include unlock Kai",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/OnboardingStepNudge.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44043
+}

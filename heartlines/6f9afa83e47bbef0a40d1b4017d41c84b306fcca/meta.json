@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "6f9afa83e47bbef0a40d1b4017d41c84b306fcca",
+ "parent": "95b8fa35793fef7658accb9e6a402b88664a5eea",
+ "date": "2025-10-12",
+ "subject": "Fix: Improve scroll behavior and arrow visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/ScrollToTopArrow.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45504
+}

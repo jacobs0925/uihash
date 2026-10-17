@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "c5884d69465d513665d1e7fd76c9291f0eaad1de",
+ "parent": "0854b42a230723e3d3b540e640380ca12e7c70de",
+ "date": "2025-10-13",
+ "subject": "Fix: Prevent profile modal loop after completion",
+ "components": [
+  "components",
+  "hooks",
+  "pages"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/hooks/useDashboardModalHandlers.tsx",
+  "src/hooks/useProgressiveAccess.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 55406
+}

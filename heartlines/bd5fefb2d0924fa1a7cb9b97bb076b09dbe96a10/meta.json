@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "bd5fefb2d0924fa1a7cb9b97bb076b09dbe96a10",
+ "parent": "12d4f100af0704bfad9a8e9bd585c466a67c3874",
+ "date": "2025-10-14",
+ "subject": "Fix: Make watermark fixed on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/YearCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47486
+}

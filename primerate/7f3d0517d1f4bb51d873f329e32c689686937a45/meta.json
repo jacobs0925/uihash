@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7f3d0517d1f4bb51d873f329e32c689686937a45",
+ "parent": "00f912f6c7f2712bcfb19d4418eb517c39a723c4",
+ "date": "2025-10-07",
+ "subject": "Rearrange loan details to group escrow reserves with loan amount calculations",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51101
+}

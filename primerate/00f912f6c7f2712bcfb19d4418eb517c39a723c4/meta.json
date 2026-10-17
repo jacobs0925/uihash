@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "00f912f6c7f2712bcfb19d4418eb517c39a723c4",
+ "parent": "6167081de871ebd340d360b9e4c9e03168891538",
+ "date": "2025-10-07",
+ "subject": "Update layout to insert a new card section in the client addition form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50958
+}

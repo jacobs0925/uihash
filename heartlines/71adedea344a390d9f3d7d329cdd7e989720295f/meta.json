@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "71adedea344a390d9f3d7d329cdd7e989720295f",
+ "parent": "b011bd707f4c6a51b386ed2d59b5f7d672606e32",
+ "date": "2025-10-29",
+ "subject": "Refactor: Optimize /mission page for mobile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 13,
+ "ms": 79402
+}

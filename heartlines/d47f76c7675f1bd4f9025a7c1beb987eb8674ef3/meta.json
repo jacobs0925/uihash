@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d47f76c7675f1bd4f9025a7c1beb987eb8674ef3",
+ "parent": "7cf05a8e10770c2e5b504d2c01f46ee552dcf10e",
+ "date": "2025-10-31",
+ "subject": "Fix: Remove mobile-only chat container styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59771
+}

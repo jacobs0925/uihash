@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5e9f13fd3dc9034e80efaee4cc8ab48fab15847c",
+ "parent": "2d2eb0b7dc98933f7e7cd78f6eb3ab4d41f3cae6",
+ "date": "2025-10-30",
+ "subject": "Refactor: Implement premium design enhancements",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59637
+}

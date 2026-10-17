@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "1b7b453155d77c10a91e57b10089afebd45c17bf",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Fix: Adjust duck icon positioning on mobile",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1324 later commits"
+}

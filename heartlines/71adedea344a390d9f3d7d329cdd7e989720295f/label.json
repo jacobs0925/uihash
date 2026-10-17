@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "71adedea344a390d9f3d7d329cdd7e989720295f",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Refactor: Optimize /mission page for mobile",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1329 later commits"
+}

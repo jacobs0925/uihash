@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c26edcee04448299197a147b2b8247211150011f",
+ "parent": "25ae81842f09390dce6fc755e84efd414d1b2cc7",
+ "date": "2025-10-31",
+ "subject": "Refactor chat header for mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59406
+}

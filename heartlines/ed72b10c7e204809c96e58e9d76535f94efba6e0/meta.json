@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "ed72b10c7e204809c96e58e9d76535f94efba6e0",
+ "parent": "67c79d30a5990e5b8e572e1afefab59e23da4a4a",
+ "date": "2025-11-01",
+ "subject": "Fix: Disable backdrop filter on iOS mobile",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60224
+}

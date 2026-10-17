@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3d5ac263d14a998054075958ca433d9d7a1a3824",
+ "parent": "48abc9a0514fc3fc05b1877464985788530f97ad",
+ "date": "2025-10-30",
+ "subject": "Fix: Align columns in Meet Kai section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58942
+}

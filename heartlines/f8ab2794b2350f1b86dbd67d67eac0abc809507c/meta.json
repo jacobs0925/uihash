@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "f8ab2794b2350f1b86dbd67d67eac0abc809507c",
+ "parent": "a3749e2606c2a3135e9010a83ca211e8bbdd429a",
+ "date": "2025-11-01",
+ "subject": "Refactor: Implement remaining chat phases",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/AIChatMessage.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatHeader.tsx",
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59298
+}

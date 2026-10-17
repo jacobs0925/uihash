@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "247df66479d46a2a8fae1cd8cfd61a63f56c1bb3",
+ "parent": "758a7aaed4ce17733bbc088198be0eb3e0b07083",
+ "date": "2025-10-31",
+ "subject": "Fix: Add top padding to mobile chat layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59455
+}

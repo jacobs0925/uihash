@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "4e8eef18ce36d5cb5e36343aa3f40b4efbb31e36",
+ "parent": "fee62acaa0048ac4d0ff18cf4a30914ca4ad2d8b",
+ "date": "2025-10-29",
+ "subject": "Reverted to commit 3a863316d034a6e0c3d8e6ddf8cea6f85e62fe93",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/privacy/DataFlowCards.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 17,
+ "ms": 116080
+}

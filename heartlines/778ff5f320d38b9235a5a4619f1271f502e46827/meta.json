@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "778ff5f320d38b9235a5a4619f1271f502e46827",
+ "parent": "07a42748788a78ad63d358e0eaac65f9afad3913",
+ "date": "2025-11-02",
+ "subject": "Refactor: Improve mobile keyboard scrolling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59133
+}

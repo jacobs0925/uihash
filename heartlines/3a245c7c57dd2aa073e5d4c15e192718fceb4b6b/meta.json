@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3a245c7c57dd2aa073e5d4c15e192718fceb4b6b",
+ "parent": "f6b01d7e7542709d75235fc7f6e69dfbee454120",
+ "date": "2025-11-01",
+ "subject": "Fix mobile spacing to natural level",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59598
+}

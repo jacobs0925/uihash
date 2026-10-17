@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "b011bd707f4c6a51b386ed2d59b5f7d672606e32",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Fix: Remove rapid pulsing on mobile buttons",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1330 later commits"
+}

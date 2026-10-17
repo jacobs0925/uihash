@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "1517e3864c1a3819a80337070b259755a2b61586",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Refactor header font sizes",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1325 later commits"
+}

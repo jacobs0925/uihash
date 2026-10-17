@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "fee62acaa0048ac4d0ff18cf4a30914ca4ad2d8b",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "feat: Reposition CTA buttons next to fifth card",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 4e8eef18, which restored 3a863316 (1 commit discarded)"
+}

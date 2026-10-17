@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7124096e013a89e4e3ed223e3498dd53e91719a5",
+ "parent": "c26edcee04448299197a147b2b8247211150011f",
+ "date": "2025-10-31",
+ "subject": "Fix: Make chat bubbles transparent on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58575
+}

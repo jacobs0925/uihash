@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2b9aac792eabad63bbda487d6aa44c03392e88f7",
+ "parent": "c368f5bd2670e2714ad1399bc0e835eeaf313a25",
+ "date": "2025-10-07",
+ "subject": "Improve calculations for FHA upfront MIP in client portal",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50888
+}

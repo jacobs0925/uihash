@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d33fca5c67a0ce74ff77bfd5c8b4655424a85474",
+ "parent": "71adedea344a390d9f3d7d329cdd7e989720295f",
+ "date": "2025-10-29",
+ "subject": "Fix duck icon positioning on mobile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 55442
+}

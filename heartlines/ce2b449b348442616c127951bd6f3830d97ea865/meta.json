@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "ce2b449b348442616c127951bd6f3830d97ea865",
+ "parent": "1b01aba497e20c086b8996e07ee6e323ccb9c605",
+ "date": "2025-11-01",
+ "subject": "Fix: Use premium burgundy for chat background",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/components/chat/ChatLayout.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59650
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "c86b40d6f7af9985403ac2e9566a4dac005036a4",
+ "parent": "76bdcac77cc4d2a408225230b99cab2d9acea36f",
+ "date": "2025-10-29",
+ "subject": "feat: Add conversation length and session duration stats",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/admin/AdminOverviewCards.tsx",
+  "src/hooks/useAdminAnalytics.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/AdminDashboard.tsx",
+  "supabase/migrations/20251029231930_09eb3d6a-4c75-43b9-8006-15d249e63e03.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59723
+}

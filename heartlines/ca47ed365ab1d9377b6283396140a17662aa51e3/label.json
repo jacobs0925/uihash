@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "ca47ed365ab1d9377b6283396140a17662aa51e3",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Fix: Align pricing cards on desktop",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1322 later commits"
+}

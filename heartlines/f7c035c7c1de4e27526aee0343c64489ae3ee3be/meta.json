@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "f7c035c7c1de4e27526aee0343c64489ae3ee3be",
+ "parent": "28c552b53f7e5338ddf395eeea5fd2554650882a",
+ "date": "2025-10-29",
+ "subject": "Fix security definer view",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/account/AccountLayout.tsx",
+  "supabase/migrations/20251029235309_29e7b58d-be39-4097-aaef-aaa44f6dcae0.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59861
+}

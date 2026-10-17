@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b802a50cbc70878355ca5fd926807aa7a262dae1",
+ "parent": "b0284517b97921dd4bbfd709fe6ccc9ad70a3892",
+ "date": "2025-10-29",
+ "subject": "Refactor: Consolidate security features",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/privacy/SecurityDeepDive.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 14,
+ "ms": 61968
+}

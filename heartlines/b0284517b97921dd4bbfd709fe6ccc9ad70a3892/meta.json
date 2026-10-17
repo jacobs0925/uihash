@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "b0284517b97921dd4bbfd709fe6ccc9ad70a3892",
+ "parent": "f3401ab4821bc3e76d2816f4d38df370035ce87e",
+ "date": "2025-10-29",
+ "subject": "Refactor account navigation logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/SimpleHeader.tsx",
+  "src/components/SiteFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 70637
+}

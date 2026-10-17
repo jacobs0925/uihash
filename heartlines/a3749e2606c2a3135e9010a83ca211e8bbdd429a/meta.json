@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "a3749e2606c2a3135e9010a83ca211e8bbdd429a",
+ "parent": "0d003eb96e2423e8d5fc181624acd4fc646c78e0",
+ "date": "2025-11-01",
+ "subject": "Refactor: Implement mobile chat foundation",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 67127
+}

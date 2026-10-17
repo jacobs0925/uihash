@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "c4f9e529f030bc9ecf72a9ec7fd7b6de60545952",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Reverted to commit d64d905f7ed3117c8164ad683c67a22c244ff8bf",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-top: 0px → 8px undone by 71adedea \"Refactor: Optimize /mission page for mobile\"; margin-left: 0px → 280px undone by 71adedea \"Refactor: Optimize /mission page for mobile\"; margin-top: 0px → 8px undone by 71adedea \"Refactor: Optimize /mission page for mobile\""
+}

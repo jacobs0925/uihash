@@ -5,8 +5,8 @@
  "date": "2025-10-16",
  "pr": null,
  "title": "feat: Enhance privacy and security section",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1955 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: block → grid undone by 4e8eef18 \"Reverted to commit 3a863316d034a6e0c3d8e6ddf8cea6f85e62fe93\"; display: block → grid undone by 4e8eef18 \"Reverted to commit 3a863316d034a6e0c3d8e6ddf8cea6f85e62fe93\"; display: block → grid undone by 4e8eef18 \"Reverted to commit 3a863316d034a6e0c3d8e6ddf8cea6f85e62fe93\""
 }

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "9d6c1c69501779e2c604542344d67942c491c180",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Fix: Position CTA buttons as 6th grid item",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1332 later commits"
+}

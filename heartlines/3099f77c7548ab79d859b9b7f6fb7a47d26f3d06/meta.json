@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3099f77c7548ab79d859b9b7f6fb7a47d26f3d06",
+ "parent": "3bf3bad2d41d4588bc8077c5ead4504abcd3f4d1",
+ "date": "2025-11-02",
+ "subject": "Fix desktop/tablet message cutoff",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60007
+}

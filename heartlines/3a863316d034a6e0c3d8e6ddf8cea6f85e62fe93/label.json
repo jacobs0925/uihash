@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "3a863316d034a6e0c3d8e6ddf8cea6f85e62fe93",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Fix: Align security feature headers horizontally",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1335 later commits"
+}

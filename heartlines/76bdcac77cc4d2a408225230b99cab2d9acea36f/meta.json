@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "76bdcac77cc4d2a408225230b99cab2d9acea36f",
+ "parent": "947e0d7d8df73c68c564401e70b8f5c202717361",
+ "date": "2025-10-29",
+ "subject": "Refactor: Update admin dashboard analytics",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/admin/AdminOverviewCards.tsx",
+  "src/hooks/useAdminAnalytics.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/AdminDashboard.tsx",
+  "supabase/migrations/20251029231410_1a972719-05ac-484f-8318-37c8b2ab3b08.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59425
+}

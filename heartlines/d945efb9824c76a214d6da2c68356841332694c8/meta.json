@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "d945efb9824c76a214d6da2c68356841332694c8",
+ "parent": "28196c37a93f65023813b757be23ee7c1243cf9c",
+ "date": "2025-11-01",
+ "subject": "Refactor: Make mobile chat edge-to-edge",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 68239
+}

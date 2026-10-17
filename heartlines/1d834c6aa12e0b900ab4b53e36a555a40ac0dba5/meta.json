@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1d834c6aa12e0b900ab4b53e36a555a40ac0dba5",
+ "parent": "5eaa3bcc53acb718404e405ef8f65b693be265b3",
+ "date": "2025-10-31",
+ "subject": "Fix: Adjust message bubble opacity on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59973
+}

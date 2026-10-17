@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b011bd707f4c6a51b386ed2d59b5f7d672606e32",
+ "parent": "b76baf220629a25a18b73c4b3b6e8ae62058fa97",
+ "date": "2025-10-29",
+ "subject": "Fix: Remove rapid pulsing on mobile buttons",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 75212
+}

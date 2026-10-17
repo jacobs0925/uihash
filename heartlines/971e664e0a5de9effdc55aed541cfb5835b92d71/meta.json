@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "971e664e0a5de9effdc55aed541cfb5835b92d71",
+ "parent": "b1af787839b6020080c12475c46e0ff4c34a05fd",
+ "date": "2025-11-02",
+ "subject": "Refactor: Implement native mobile scrolling",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatLayout.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59811
+}

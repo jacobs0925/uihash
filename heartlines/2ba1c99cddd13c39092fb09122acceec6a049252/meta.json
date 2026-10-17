@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2ba1c99cddd13c39092fb09122acceec6a049252",
+ "parent": "8c359af2480954431fd6d669013284e324fb7b70",
+ "date": "2025-11-01",
+ "subject": "Refactor: Optimize ConversationStarters for mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConversationStarters.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58835
+}

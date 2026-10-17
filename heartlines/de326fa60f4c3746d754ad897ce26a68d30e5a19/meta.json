@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "de326fa60f4c3746d754ad897ce26a68d30e5a19",
+ "parent": "fe6fd5e1406d294ac728fcec34fe66af82389ea9",
+ "date": "2025-11-02",
+ "subject": "feat: Auto-scroll on chat pill selection",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/MemoizedChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58978
+}

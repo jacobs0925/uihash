@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "01a03d50130c5fe92ed4bd15a3fa0159eb9a1a43",
+ "parent": "2180fdc94672fc7d52d274a433f1e9de58237f07",
+ "date": "2025-10-31",
+ "subject": "Fix: Apply true burgundy to mobile chat",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60435
+}

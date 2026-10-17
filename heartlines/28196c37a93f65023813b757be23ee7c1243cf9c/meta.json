@@ -1,0 +1,26 @@
+{
+ "repo": "heartlines",
+ "sha": "28196c37a93f65023813b757be23ee7c1243cf9c",
+ "parent": "f8ab2794b2350f1b86dbd67d67eac0abc809507c",
+ "date": "2025-11-01",
+ "subject": "Reverted to commit 0d2156ccb49c619f9b612c5bd438451b96cf71ab",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/AIChatMessage.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatHeader.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/components/chat/ChatLayout.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 67587
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a9ba03ebf28765efb8787d23f580aa65087cbc76",
+ "parent": "b63fc62ab45a07cbd1365242875341bc9a63d010",
+ "date": "2025-10-31",
+ "subject": "Fix: Make body background white on mobile",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59301
+}

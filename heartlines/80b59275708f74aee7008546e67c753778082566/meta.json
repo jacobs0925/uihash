@@ -1,0 +1,25 @@
+{
+ "repo": "heartlines",
+ "sha": "80b59275708f74aee7008546e67c753778082566",
+ "parent": "8a601fb8c9c99644ad50ba55aa6baede52921cbf",
+ "date": "2025-11-01",
+ "subject": "Fix: Resolve persistent purple rectangle on mobile",
+ "components": [
+  "components",
+  "index.css",
+  "styles"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/components/chat/ChatLayout.tsx",
+  "src/index.css",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59511
+}

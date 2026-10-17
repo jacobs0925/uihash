@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "653fde2421a44f22a6b87f40271b1bf10f36181e",
+ "parent": "0a598ac2c4db41b2af5ebff841db765b2c1fd51b",
+ "date": "2025-10-31",
+ "subject": "Refactor: Remove redundant background colors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59639
+}

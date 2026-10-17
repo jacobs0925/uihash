@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "d0b8bf32b7476cca928058370c2938e2dddd3676",
+ "parent": "5e9f13fd3dc9034e80efaee4cc8ab48fab15847c",
+ "date": "2025-10-30",
+ "subject": "feat: Implement elevated \"Meet Kai\" section design",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "index.html",
+  "src/assets/kai-premium-portrait.png",
+  "src/components/LandingPage.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59168
+}

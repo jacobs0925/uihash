@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0a598ac2c4db41b2af5ebff841db765b2c1fd51b",
+ "parent": "2c7f015946f2b34129dd00423cb32af4d02f8c4d",
+ "date": "2025-10-31",
+ "subject": "Fix: Remove redundant background from ChatContainer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59828
+}

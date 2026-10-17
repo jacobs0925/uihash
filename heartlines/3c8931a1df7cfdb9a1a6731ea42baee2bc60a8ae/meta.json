@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3c8931a1df7cfdb9a1a6731ea42baee2bc60a8ae",
+ "parent": "1aad02eb0cba2d4e09938c3b6533679bd84c8937",
+ "date": "2025-10-29",
+ "subject": "Refactor: Add gradient accents to chat starters",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConversationStarters.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 54141
+}

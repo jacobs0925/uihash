@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f0edd55ab7b28a8c792d064211b42facf69837cd",
+ "parent": "470a96a7f7d3011a08938e3edd694846347ad8ac",
+ "date": "2025-10-30",
+ "subject": "Refactor: Reorganize \"Meet Kai\" section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59425
+}

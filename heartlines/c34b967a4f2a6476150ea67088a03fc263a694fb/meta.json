@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c34b967a4f2a6476150ea67088a03fc263a694fb",
+ "parent": "5c177ba90b2aba8fc2eaebc1b4b4e833cbd669ab",
+ "date": "2025-10-29",
+ "subject": "feat: Implement \"Meet Kai\" redesign",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 54257
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "541ddec91027b9487d19f46639ec88ed1a7128c9",
+ "parent": "3af1ed458d09c006a872d60eec0e5c0846ea2993",
+ "date": "2025-10-29",
+ "subject": "Fix: Update tagline punctuation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 54550
+}

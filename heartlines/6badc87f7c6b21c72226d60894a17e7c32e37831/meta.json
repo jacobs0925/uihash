@@ -1,0 +1,25 @@
+{
+ "repo": "heartlines",
+ "sha": "6badc87f7c6b21c72226d60894a17e7c32e37831",
+ "parent": "bf927abff88240cf9521d13261c4ccc95ad47dc4",
+ "date": "2025-11-01",
+ "subject": "Refactor: Improve mobile chat UI",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatHeader.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/components/chat/ChatLayout.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 67594
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "686d27373b4a029eea2b3b3a3873a5c3fcfe1372",
+ "parent": "a193d141ab9e699506905a8561dea2112aeea01b",
+ "date": "2025-11-02",
+ "subject": "Reverted to commit 29fe44904d0c40ce3ca9daba0cb6a5e42a0ec408",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59575
+}

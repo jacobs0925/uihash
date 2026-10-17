@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "25ae81842f09390dce6fc755e84efd414d1b2cc7",
+ "parent": "2b248da2f6d702aa633de2e164f81258b2f065f5",
+ "date": "2025-10-31",
+ "subject": "Fix: Make mobile chat interface edge-to-edge",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59314
+}

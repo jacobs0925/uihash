@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "b802a50cbc70878355ca5fd926807aa7a262dae1",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Refactor: Consolidate security features",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1336 later commits"
+}

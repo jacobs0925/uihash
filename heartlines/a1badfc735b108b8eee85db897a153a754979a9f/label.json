@@ -7,6 +7,6 @@
  "title": "feat: Update privacy features section",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "display: grid → block undone by aaaecc82 \"feat: Enhance privacy and security section\"; display: grid → block undone by aaaecc82 \"feat: Enhance privacy and security section\"; display: grid → block undone by aaaecc82 \"feat: Enhance privacy and security section\""
 }

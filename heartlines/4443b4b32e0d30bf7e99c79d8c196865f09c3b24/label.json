@@ -5,8 +5,8 @@
  "date": "2025-10-14",
  "pr": null,
  "title": "Fix: Remove background from phone icon button",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2152 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "border-top-width: 1px → ∅ undone by 71adedea \"Refactor: Optimize /mission page for mobile\"; border-right-width: 1px → ∅ undone by 71adedea \"Refactor: Optimize /mission page for mobile\""
 }

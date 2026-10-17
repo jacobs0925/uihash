@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3a863316d034a6e0c3d8e6ddf8cea6f85e62fe93",
+ "parent": "b802a50cbc70878355ca5fd926807aa7a262dae1",
+ "date": "2025-10-29",
+ "subject": "Fix: Align security feature headers horizontally",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/privacy/SecurityDeepDive.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 61986
+}

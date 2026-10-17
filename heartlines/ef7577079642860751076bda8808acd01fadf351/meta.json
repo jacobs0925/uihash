@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "ef7577079642860751076bda8808acd01fadf351",
+ "parent": "4ef8371f5487a05a5efd436eece7ba9f3b384a24",
+ "date": "2025-11-01",
+ "subject": "Fix: Match mobile chat background to navigation color",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatHeader.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/components/chat/ChatLayout.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 68060
+}

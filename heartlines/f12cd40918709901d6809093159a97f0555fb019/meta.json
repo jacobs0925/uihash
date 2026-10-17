@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "f12cd40918709901d6809093159a97f0555fb019",
+ "parent": "cfeb967b2022fe16dff6626d43c5e17955f6c474",
+ "date": "2025-10-31",
+ "subject": "Fix: Remove purple box background on mobile",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 68516
+}

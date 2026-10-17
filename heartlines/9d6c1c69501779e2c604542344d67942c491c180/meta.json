@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "9d6c1c69501779e2c604542344d67942c491c180",
+ "parent": "4e8eef18ce36d5cb5e36343aa3f40b4efbb31e36",
+ "date": "2025-10-29",
+ "subject": "Fix: Position CTA buttons as 6th grid item",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/privacy/DataFlowCards.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 89287
+}

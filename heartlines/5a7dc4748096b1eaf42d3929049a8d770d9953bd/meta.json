@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5a7dc4748096b1eaf42d3929049a8d770d9953bd",
+ "parent": "ca47ed365ab1d9377b6283396140a17662aa51e3",
+ "date": "2025-10-29",
+ "subject": "Refactor: Make \"Meet Kai\" section more compact",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 54820
+}

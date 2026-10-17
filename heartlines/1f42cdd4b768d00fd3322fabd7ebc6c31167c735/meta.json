@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "1f42cdd4b768d00fd3322fabd7ebc6c31167c735",
+ "parent": "a88aca978691c1557fb07b0c577840dc7a59f245",
+ "date": "2025-11-01",
+ "subject": "Reorder chat headers on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/chat/ChatHeader.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59459
+}

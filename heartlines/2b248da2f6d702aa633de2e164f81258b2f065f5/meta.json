@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "2b248da2f6d702aa633de2e164f81258b2f065f5",
+ "parent": "47e7c274507d3c4bc42c110f343a266e50251ed6",
+ "date": "2025-10-31",
+ "subject": "Refactor: Unify mobile coach page color",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 67716
+}

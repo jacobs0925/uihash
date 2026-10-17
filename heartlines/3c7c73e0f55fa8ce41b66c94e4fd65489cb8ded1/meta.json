@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3c7c73e0f55fa8ce41b66c94e4fd65489cb8ded1",
+ "parent": "a90359402afd56b02d361b3435e1d54c5276b7a3",
+ "date": "2025-10-30",
+ "subject": "Refactor: Adjust Kai avatar zoom",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59275
+}

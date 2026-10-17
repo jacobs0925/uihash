@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "14ef64d134b222a96cafdaed9f4f554e6fb7b7d5",
+ "parent": "25ee36b5893cf4117d346dfbac32da4cffa8efa9",
+ "date": "2025-11-03",
+ "subject": "Fix mobile auto-scroll cutoff",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59430
+}

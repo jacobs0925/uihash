@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a90359402afd56b02d361b3435e1d54c5276b7a3",
+ "parent": "3d5ac263d14a998054075958ca433d9d7a1a3824",
+ "date": "2025-10-30",
+ "subject": "Fix: Center align left column content",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59874
+}

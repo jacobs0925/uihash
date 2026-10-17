@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "0c52a4fd388e8da0205c8ff4bbd8cf778e2a300a",
+ "parent": "65bedbaf9f9b5c846b795a5180d81f35b9505d81",
+ "date": "2025-11-03",
+ "subject": "Fix: Hide mobile scrollbar completely",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59859
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b1af787839b6020080c12475c46e0ff4c34a05fd",
+ "parent": "51731cb21fd0e7248efeeff650e5850ff22ff87e",
+ "date": "2025-11-02",
+ "subject": "Fix: Apply fixed positioning to mobile chat layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60175
+}

@@ -7,6 +7,6 @@
  "title": "Refactor: Convert data flow to accordion",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "display: flex → block undone by a1badfc7 \"feat: Update privacy features section\"; display: flex → block undone by a1badfc7 \"feat: Update privacy features section\"; display: flex → block undone by a1badfc7 \"feat: Update privacy features section\""
 }

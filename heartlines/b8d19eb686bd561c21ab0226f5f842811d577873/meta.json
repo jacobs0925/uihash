@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b8d19eb686bd561c21ab0226f5f842811d577873",
+ "parent": "6dfc0009f45ce7522078a892a641bc444d664dc2",
+ "date": "2025-10-30",
+ "subject": "Update landing page tagline copy",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59994
+}

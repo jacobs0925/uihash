@@ -1,0 +1,34 @@
+{
+ "repo": "heartlines",
+ "sha": "c226785f4771ee9b06e3f164f1cbfbeaef6959ea",
+ "parent": "3c8931a1df7cfdb9a1a6731ea42baee2bc60a8ae",
+ "date": "2025-10-29",
+ "subject": "Refactor: Implement Admin Dashboard and Model Update",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/AIChatMessage.tsx",
+  "src/components/DashboardHeader.tsx",
+  "src/components/admin/AdminCostChart.tsx",
+  "src/components/admin/AdminOverviewCards.tsx",
+  "src/components/admin/AdminUserDetailsModal.tsx",
+  "src/components/admin/AdminUsersTable.tsx",
+  "src/hooks/useAdminAnalytics.ts",
+  "src/hooks/useAdminUserDetails.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/AdminDashboard.tsx",
+  "src/utils/modelPricing.ts",
+  "supabase/functions/anthropic-chat/index.ts",
+  "supabase/migrations/20251029221059_a55fe170-d0a1-4a7e-9e6a-b56ecea2d307.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 83184
+}

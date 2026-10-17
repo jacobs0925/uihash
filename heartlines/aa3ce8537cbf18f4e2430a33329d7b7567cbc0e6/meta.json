@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "aa3ce8537cbf18f4e2430a33329d7b7567cbc0e6",
+ "parent": "ce2b449b348442616c127951bd6f3830d97ea865",
+ "date": "2025-11-01",
+ "subject": "Refactor: Add semantic class names",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatHeader.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/components/chat/ChatLayout.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59228
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "167d7c7be11ce47046545593a0e7bc7c273d2a6a",
+ "parent": "c815a5b33da4c895702052281c357812a9eecd9f",
+ "date": "2025-10-31",
+ "subject": "Fix: Apply tablet message bubble styles to mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59499
+}

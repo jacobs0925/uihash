@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "8be9d46991813aa47f31fad0d003717062faf761",
+ "parent": "de326fa60f4c3746d754ad897ce26a68d30e5a19",
+ "date": "2025-11-02",
+ "subject": "Fix mobile chat scroll",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59690
+}

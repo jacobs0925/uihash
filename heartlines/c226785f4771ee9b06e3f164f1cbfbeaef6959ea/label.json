@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "c226785f4771ee9b06e3f164f1cbfbeaef6959ea",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Refactor: Implement Admin Dashboard and Model Update",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1311 later commits"
+}

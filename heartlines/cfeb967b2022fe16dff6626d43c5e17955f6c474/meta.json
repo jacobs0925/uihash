@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "cfeb967b2022fe16dff6626d43c5e17955f6c474",
+ "parent": "7124096e013a89e4e3ed223e3498dd53e91719a5",
+ "date": "2025-10-31",
+ "subject": "Refactor: Adjust header and avatar spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx",
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59856
+}

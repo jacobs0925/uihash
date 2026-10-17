@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "52a969dd4accf8129d92cdcc8c435cb639cebb76",
+ "parent": "5c06407ff4626065aa6f3f97069a15372bd6fc1e",
+ "date": "2025-11-01",
+ "subject": "Fix mobile chat spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60140
+}

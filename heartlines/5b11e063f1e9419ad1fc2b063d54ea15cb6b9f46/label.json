@@ -5,8 +5,8 @@
  "date": "2025-10-27",
  "pr": null,
  "title": "Fix: Enable mobile scrolling on specific pages",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1416 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "position: ∅ → relative undone by fee62aca \"feat: Reposition CTA buttons next to fifth card\"; position: ∅ → relative undone by fee62aca \"feat: Reposition CTA buttons next to fifth card\"; position: ∅ → relative undone by fee62aca \"feat: Reposition CTA buttons next to fifth card\""
 }

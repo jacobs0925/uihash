@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "947e0d7d8df73c68c564401e70b8f5c202717361",
+ "parent": "944dffe3f9505548551f22be02ddaa7e4f54de05",
+ "date": "2025-10-29",
+ "subject": "Refactor: Improve admin dashboard text visibility",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/admin/AdminOverviewCards.tsx",
+  "src/components/admin/AdminUsersTable.tsx",
+  "src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59798
+}

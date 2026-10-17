@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "25ee36b5893cf4117d346dfbac32da4cffa8efa9",
+ "parent": "0c52a4fd388e8da0205c8ff4bbd8cf778e2a300a",
+ "date": "2025-11-03",
+ "subject": "Fix: Mobile left menu not working",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59240
+}

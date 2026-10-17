@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "7cf05a8e10770c2e5b504d2c01f46ee552dcf10e",
+ "parent": "f12cd40918709901d6809093159a97f0555fb019",
+ "date": "2025-10-31",
+ "subject": "Fix: Solid burgundy background on mobile",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/PremiumBackground.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 68456
+}

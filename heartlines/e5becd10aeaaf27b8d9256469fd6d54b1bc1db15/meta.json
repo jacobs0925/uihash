@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e5becd10aeaaf27b8d9256469fd6d54b1bc1db15",
+ "parent": "eb8c85e2876b46e981e158c4f146bb7d0df930d1",
+ "date": "2025-11-10",
+ "subject": "Remove Terms page icon",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Terms.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 73348
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "14dfc2b53f593a580867a95625f6476b33512ef9",
+ "parent": "31f22a818341672eeeba89adf99b1246a855f85f",
+ "date": "2025-11-07",
+ "subject": "Fix mobile upgrade modal layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 66653
+}

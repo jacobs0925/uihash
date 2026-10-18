@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "57d70ac46ee2f1fa6947d385c34be977a4e8abd7",
+ "date": "2025-11-10",
+ "pr": null,
+ "title": "Add PremiumBackground to Privacy",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 882 later commits"
+}

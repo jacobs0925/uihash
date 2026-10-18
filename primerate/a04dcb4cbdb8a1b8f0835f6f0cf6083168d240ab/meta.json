@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a04dcb4cbdb8a1b8f0835f6f0cf6083168d240ab",
+ "parent": "ec8900cbe29f95f8295a7e33d305700ee79d601d",
+ "date": "2025-10-07",
+ "subject": "Adjust text placement for FHA MIP estimate for better alignment",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50927
+}

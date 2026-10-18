@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "53ff22f5efd1850bfd85ff5b5b0b483a2be690bc",
+ "parent": "53c1b84bd5ee44a1bc0dacbc6c133746e7181947",
+ "date": "2025-11-07",
+ "subject": "Apply homepage gradient to welcome title",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WelcomeToKaiDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65450
+}

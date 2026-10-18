@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "b06381be183d257f6372ce42e2eecb5d6b0c0e7c",
+ "parent": "df35da1c9398561969c502661e5cfc03dcc773f7",
+ "date": "2025-11-10",
+ "subject": "Show welcome once after email verification",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AuthCallback.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 66276
+}

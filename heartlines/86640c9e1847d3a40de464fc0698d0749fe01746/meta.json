@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "86640c9e1847d3a40de464fc0698d0749fe01746",
+ "parent": "7990b0f15863ed3c66aa9f6e937960e33e3e95f5",
+ "date": "2025-11-07",
+ "subject": "feat: Add mobile navigation drawer to homepage",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65065
+}

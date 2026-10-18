@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "170505964cc006e08b3884b5525b92d7987670c7",
+ "parent": "a2690a7df0f2db66742487a8408a3f027d34e18f",
+ "date": "2025-11-07",
+ "subject": "Fix 404 on Stripe checkout return",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65265
+}

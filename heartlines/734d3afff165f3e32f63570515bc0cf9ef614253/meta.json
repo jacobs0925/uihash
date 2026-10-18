@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "734d3afff165f3e32f63570515bc0cf9ef614253",
+ "parent": "14dfc2b53f593a580867a95625f6476b33512ef9",
+ "date": "2025-11-07",
+ "subject": "Brighten Upgrade Modal and reorder plans",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65442
+}

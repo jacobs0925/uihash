@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "62d94f0102195aabfa0792128493cb66773c0b19",
+ "parent": "0f0db1da1cb45ef674bc757dfb65322baff9e964",
+ "date": "2025-11-07",
+ "subject": "Fix chat header popover background",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65269
+}

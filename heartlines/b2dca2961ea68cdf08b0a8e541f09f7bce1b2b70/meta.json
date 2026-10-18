@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b2dca2961ea68cdf08b0a8e541f09f7bce1b2b70",
+ "parent": "719c44b7cfc6b98ae00c4b4004f7d7cc9b2e2936",
+ "date": "2025-11-06",
+ "subject": "Fix: Match mobile avatar menu styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 63707
+}

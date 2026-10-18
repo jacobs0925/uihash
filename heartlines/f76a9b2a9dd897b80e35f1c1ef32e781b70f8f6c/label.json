@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "f76a9b2a9dd897b80e35f1c1ef32e781b70f8f6c",
+ "date": "2025-11-09",
+ "pr": null,
+ "title": "Center and scale auth modules",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 6ec43031, which restored 3b88ef7c (2 commits discarded)"
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "a1fb1a33c60e68b9af42a7e996e4ac54d9a401b1",
+ "parent": "8e8a109786cf60ffbd82ab05fdeedaa3f2350a45",
+ "date": "2025-11-07",
+ "subject": "Refactor mobile navigation drawer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/NavigationPullTab.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 64773
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f8b45b3150795d0066c3d678fecab19b25f4d7ff",
+ "parent": "0545eabdb6444f96d895376ea5de5013755cf8dd",
+ "date": "2025-11-07",
+ "subject": "Fix mobile tooltip width",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 63346
+}

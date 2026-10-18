@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "ebe66912f9daacfa3af255d15e8f5d75400eb2e0",
+ "parent": "45fe703afc518390b26b066ac6b83d1d58f96422",
+ "date": "2025-11-08",
+ "subject": "Fix button glow animation conflict",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/CleanPartnerFooter.tsx",
+  "src/components/NewPersonalQuestionnaire/components/CleanQuestionnaireFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65093
+}

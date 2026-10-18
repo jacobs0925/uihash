@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2bc6a1e88c7c0924711746a28c252bd905e4018c",
+ "parent": "904d2f0415b2666af0afa58022833f2eb6436b0f",
+ "date": "2025-11-06",
+ "subject": "Fix drawer transparency",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 63791
+}

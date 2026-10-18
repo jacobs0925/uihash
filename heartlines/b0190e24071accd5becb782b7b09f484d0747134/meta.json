@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "b0190e24071accd5becb782b7b09f484d0747134",
+ "parent": "f8b45b3150795d0066c3d678fecab19b25f4d7ff",
+ "date": "2025-11-07",
+ "subject": "feat: Add sequential dot animation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 63383
+}

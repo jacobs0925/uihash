@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e109688acab77e304a4e8619b5b1f160aea418a1",
+ "parent": "f7fe671701908435ff8ba9449c649f8ee59966db",
+ "date": "2025-10-07",
+ "subject": "Update loan calculation to automatically display FHA MIP cost adjustment",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50795
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "200004264b42b2802dfa2416d645734267ac7cfe",
+ "parent": "29c84698b2bd1f5c4940c30489d1d18677ae5285",
+ "date": "2025-11-07",
+ "subject": "Replace Sparkles icon with Clock",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 63099
+}

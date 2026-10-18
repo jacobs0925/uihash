@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "11aed61eaabbe0b623983aa2bb7e8a4f665d4994",
+ "parent": "14ed1891cfbee5cfda72bf97d1f1dcb11b840cd6",
+ "date": "2025-10-07",
+ "subject": "Update FHA MIP refund estimate terminology for clarity",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50437
+}

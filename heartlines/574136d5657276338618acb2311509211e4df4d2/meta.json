@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "574136d5657276338618acb2311509211e4df4d2",
+ "parent": "3922ec3de525f03bb44a6c5a0bae6d2cfb0f23c5",
+ "date": "2025-11-08",
+ "subject": "Reverted to commit e1dcb6d876d7a5f7fe56763d2916e4def7a21bac",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useStripeMode.ts",
+  "src/pages/Pricing.tsx",
+  "supabase/config.toml",
+  "supabase/functions/check-stripe-mode/index.ts",
+  "supabase/functions/create-checkout/index.ts",
+  "supabase/functions/stripe-webhook/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 66513
+}

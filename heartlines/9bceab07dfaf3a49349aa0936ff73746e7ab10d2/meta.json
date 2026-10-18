@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "9bceab07dfaf3a49349aa0936ff73746e7ab10d2",
+ "parent": "5534758a4ad4380c5753b98a64b6c19b4ba836fb",
+ "date": "2025-11-08",
+ "subject": "Refactor subscription status updates",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/account/SubscriptionStatusBanner.tsx",
+  "src/hooks/useCheckoutSuccess.ts",
+  "src/hooks/useOptimizedSubscription.ts",
+  "src/pages/Dashboard.tsx",
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 70161
+}

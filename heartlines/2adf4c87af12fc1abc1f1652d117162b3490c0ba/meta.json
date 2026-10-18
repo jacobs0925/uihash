@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "2adf4c87af12fc1abc1f1652d117162b3490c0ba",
+ "parent": "ebe66912f9daacfa3af255d15e8f5d75400eb2e0",
+ "date": "2025-11-08",
+ "subject": "Add subtle glow to unlock coaching buttons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/CleanPartnerFooter.tsx",
+  "src/components/NewPersonalQuestionnaire/components/CleanQuestionnaireFooter.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65670
+}

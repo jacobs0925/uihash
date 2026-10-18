@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d9b62fbffcf9002d7c33bc631bb230e3daface9e",
+ "parent": "e5d7c0f1eab0022b8a7aad53409443a03d1a65e6",
+ "date": "2025-11-08",
+ "subject": "Add soft glow to next buttons",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/CleanPartnerFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 66408
+}

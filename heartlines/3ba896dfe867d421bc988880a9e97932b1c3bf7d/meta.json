@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3ba896dfe867d421bc988880a9e97932b1c3bf7d",
+ "parent": "cbfbb4b1ff30def2be8e7c11a78ca61c3fc8031d",
+ "date": "2025-11-06",
+ "subject": "Refactor: Disable mobile avatar menu globally",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 63290
+}

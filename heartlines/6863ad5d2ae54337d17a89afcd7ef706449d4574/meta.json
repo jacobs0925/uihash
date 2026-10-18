@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "6863ad5d2ae54337d17a89afcd7ef706449d4574",
+ "parent": "6c3803640b98783aa8dac1c82b5da83aa1444d53",
+ "date": "2025-11-08",
+ "subject": "Apply coach page navigation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx",
+  "src/components/DashboardHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65445
+}

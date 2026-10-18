@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "eb8c85e2876b46e981e158c4f146bb7d0df930d1",
+ "date": "2025-11-10",
+ "pr": null,
+ "title": "Harmonize Privacy Background",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 881 later commits"
+}

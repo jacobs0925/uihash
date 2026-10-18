@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "99e4cb08c8074cdb524743966e6feddbde5568b8",
+ "date": "2025-11-09",
+ "pr": null,
+ "title": "Adjust spacing on Mission page",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 6ec43031, which restored 3b88ef7c (2 commits discarded)"
+}

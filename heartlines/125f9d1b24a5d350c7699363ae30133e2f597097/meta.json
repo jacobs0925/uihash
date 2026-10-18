@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "125f9d1b24a5d350c7699363ae30133e2f597097",
+ "parent": "a4590c6ad03173473331765e0cdec5285470465e",
+ "date": "2025-11-06",
+ "subject": "Refactor: Make mobile avatar drawer slim",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 64343
+}

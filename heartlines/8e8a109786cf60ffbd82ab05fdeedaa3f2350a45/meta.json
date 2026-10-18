@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "8e8a109786cf60ffbd82ab05fdeedaa3f2350a45",
+ "parent": "fe818d8208ed2e3a16031187f29f6d61377c0795",
+ "date": "2025-11-07",
+ "subject": "Refactor FlipPhoneIcon animation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WelcomeToKaiDialog.tsx",
+  "src/components/icons/FlipPhoneIcon.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 64341
+}

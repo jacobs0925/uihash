@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "6ec430310238f3a9ec18bf17f2b7206208247243",
+ "date": "2025-11-09",
+ "pr": null,
+ "title": "Reverted to commit 3b88ef7c189903bc99e48aa06e33d7492e1327d8",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 32px → 64px undone by 99e4cb08 \"Adjust spacing on Mission page\"; padding-bottom: 32px → 64px undone by 99e4cb08 \"Adjust spacing on Mission page\"; padding-top: 24px → 48px undone by 99e4cb08 \"Adjust spacing on Mission page\""
+}

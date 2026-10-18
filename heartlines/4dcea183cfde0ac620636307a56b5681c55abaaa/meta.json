@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4dcea183cfde0ac620636307a56b5681c55abaaa",
+ "parent": "1b356fa8d1034d0176f392091a0e49e930ef2f5a",
+ "date": "2025-11-08",
+ "subject": "Refine mobile drawer visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 63947
+}

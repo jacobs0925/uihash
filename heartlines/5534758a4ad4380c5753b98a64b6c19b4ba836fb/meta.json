@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "5534758a4ad4380c5753b98a64b6c19b4ba836fb",
+ "parent": "260f00757efc65bc572d69c82af3aef79872fd6f",
+ "date": "2025-11-08",
+ "subject": "Fix user role hook and redirect",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useUserRole.ts",
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 64995
+}

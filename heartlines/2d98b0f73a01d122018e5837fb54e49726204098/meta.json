@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2d98b0f73a01d122018e5837fb54e49726204098",
+ "parent": "a6ac7707ad10795ec5e844999daac44235d3a056",
+ "date": "2025-11-06",
+ "subject": "Reverted to commit 0d788f827afd2a77c9342bf098461453b946bc81",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62967
+}

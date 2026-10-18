@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5a21e14e600e01869cf067f1b471ab93ab23a421",
+ "parent": "18c6f7a302517ac5ca5edcd1d87429451933a3f2",
+ "date": "2025-11-07",
+ "subject": "Update CTA button text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WelcomeToKaiDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65626
+}

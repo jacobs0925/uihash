@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "16223d12b4be09bc5621c91e9d22887d02038b7d",
+ "parent": "8ccfbc46b3bf37612628f65d6f62920afac04e98",
+ "date": "2025-10-07",
+ "subject": "Update FHA MIP calculations and rearrange input fields for clarity",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50335
+}

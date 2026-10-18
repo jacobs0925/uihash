@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d6c2342f5cb1b7a079f237232662e6463b6c2416",
+ "parent": "6e492b27c297dfcbdfa2966b34392a78d446da49",
+ "date": "2025-11-06",
+ "subject": "Remove glow heart from avatar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NavAvatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61913
+}

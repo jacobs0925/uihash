@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "f6295b8987f5a444bcb3dbc6c14f28a8da267851",
+ "date": "2025-11-09",
+ "pr": null,
+ "title": "Fix Auth page layout responsiveness",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "max-height: 800px → ∅ undone by f76a9b2a \"Center and scale auth modules\"; padding-top: 16px → 32px undone by f76a9b2a \"Center and scale auth modules\"; padding-bottom: 16px → 32px undone by f76a9b2a \"Center and scale auth modules\""
+}

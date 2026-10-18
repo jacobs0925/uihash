@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "260f00757efc65bc572d69c82af3aef79872fd6f",
+ "parent": "574136d5657276338618acb2311509211e4df4d2",
+ "date": "2025-11-08",
+ "subject": "Fix Stripe checkout redirect",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 66265
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4d0bc1346ad9ae2c129a80c22ba54f09f3601363",
+ "parent": "b4eb5a004bdb7b7d86efb73b32f3c11eac078720",
+ "date": "2025-11-07",
+ "subject": "Fix: Restore padding to chat interface",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 64611
+}

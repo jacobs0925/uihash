@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "a7ea5eae550e84965095a9e7e603aadd3b5981aa",
+ "parent": "89eb25796c327dfbfe5a1137832d6b154c6134ee",
+ "date": "2025-11-09",
+ "subject": "Fix new user welcome experience",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/QuestionnaireLayout.tsx",
+  "src/components/NewPersonalQuestionnaire/components/WelcomeBanner.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 69699
+}

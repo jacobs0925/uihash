@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b5333a481ec1b06db3cb89798c58adaf144f3a24",
+ "parent": "99e4dcbfd2f230f67d136911374d62babb8d8d01",
+ "date": "2025-11-07",
+ "subject": "Fix: Add tooltip to mobile chat header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65136
+}

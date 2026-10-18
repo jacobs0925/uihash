@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "99e4dcbfd2f230f67d136911374d62babb8d8d01",
+ "parent": "3ba896dfe867d421bc988880a9e97932b1c3bf7d",
+ "date": "2025-11-07",
+ "subject": "Fix: Ensure solid background on mobile chat",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx",
+  "src/index.css",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 68608
+}

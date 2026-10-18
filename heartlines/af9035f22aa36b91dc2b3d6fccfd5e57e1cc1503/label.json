@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "af9035f22aa36b91dc2b3d6fccfd5e57e1cc1503",
+ "date": "2025-11-06",
+ "pr": null,
+ "title": "Reverted to commit ba9f2919a671948ed9507e1750425f78c4c1e13b",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "width: 100% → auto undone by df74eb29 \"Fix: Align account button in footer\"; width: 100% → auto undone by df74eb29 \"Fix: Align account button in footer\"; width: 100% → auto undone by df74eb29 \"Fix: Align account button in footer\""
+}

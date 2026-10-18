@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "4710b3750e2fb230be086d8ac921ebba9e239ce2",
+ "parent": "c3b5035e5ef47ffcf73f03720954a0290dc28f6a",
+ "date": "2025-11-07",
+ "subject": "Add glow to locked chat input",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 64934
+}

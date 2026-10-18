@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f7fe671701908435ff8ba9449c649f8ee59966db",
+ "parent": "11aed61eaabbe0b623983aa2bb7e8a4f665d4994",
+ "date": "2025-10-07",
+ "subject": "Update loan calculator styling and field labels for clarity",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50507
+}

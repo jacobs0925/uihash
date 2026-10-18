@@ -1,0 +1,25 @@
+{
+ "repo": "heartlines",
+ "sha": "07b60b3d31bf1bd50a0882038f35900470a4ed21",
+ "parent": "0131f535ab0654978f0e98f49345f6f4756bc427",
+ "date": "2025-11-07",
+ "subject": "feat: Add welcome dialog for new users",
+ "components": [
+  "components",
+  "hooks",
+  "pages"
+ ],
+ "files": [
+  "src/components/DashboardModals.tsx",
+  "src/components/WelcomeToKaiDialog.tsx",
+  "src/hooks/useDashboardModalState.tsx",
+  "src/hooks/useDashboardModals.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 69721
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "3922ec3de525f03bb44a6c5a0bae6d2cfb0f23c5",
+ "parent": "cb912a6e1ba61684c6261de0b3f4b60cdd7f78e6",
+ "date": "2025-11-08",
+ "subject": "Add test mode indicator to UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useStripeMode.ts",
+  "src/pages/Pricing.tsx",
+  "supabase/config.toml",
+  "supabase/functions/check-stripe-mode/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65596
+}

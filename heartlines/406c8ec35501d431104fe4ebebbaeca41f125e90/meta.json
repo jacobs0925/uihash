@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "406c8ec35501d431104fe4ebebbaeca41f125e90",
+ "parent": "d6c2342f5cb1b7a079f237232662e6463b6c2416",
+ "date": "2025-11-06",
+ "subject": "Remove small heart accent",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NavAvatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62547
+}

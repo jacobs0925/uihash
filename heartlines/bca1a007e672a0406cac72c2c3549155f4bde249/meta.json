@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "bca1a007e672a0406cac72c2c3549155f4bde249",
+ "parent": "898b44664b77f38cd4bf7241105c821cf946bfc3",
+ "date": "2025-11-07",
+ "subject": "Refactor: Update welcome dialog styles",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WelcomeToKaiDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65856
+}

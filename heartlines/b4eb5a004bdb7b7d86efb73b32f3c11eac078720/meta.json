@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "b4eb5a004bdb7b7d86efb73b32f3c11eac078720",
+ "parent": "04d6279bc0bd744b0535128dab31a07cf291677b",
+ "date": "2025-11-07",
+ "subject": "Fix chat interface scaling issues",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 63306
+}

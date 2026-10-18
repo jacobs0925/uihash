@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "fb3da00eff58567f74c3c78457f565d4ab2a7b97",
+ "parent": "90acc5c57a1e4764d878612f36f858e4058898f1",
+ "date": "2025-10-07",
+ "subject": "Update FHA MIP calculation to display refunds accurately",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-Suggested-Improvements-1-Better-Variable-Naming-The-label-says-FHA-Upfront-MIP-but-you-re-showing-1759875159880_1759875159880.txt",
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50277
+}

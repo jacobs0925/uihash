@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0f0db1da1cb45ef674bc757dfb65322baff9e964",
+ "parent": "873b14b5e4bf711791e6747db02603f3b7a57ae0",
+ "date": "2025-11-07",
+ "subject": "Fix mobile popover opacity",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 64326
+}

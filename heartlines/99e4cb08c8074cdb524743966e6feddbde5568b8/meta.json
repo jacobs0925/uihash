@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "99e4cb08c8074cdb524743966e6feddbde5568b8",
+ "parent": "f76a9b2a9dd897b80e35f1c1ef32e781b70f8f6c",
+ "date": "2025-11-09",
+ "subject": "Adjust spacing on Mission page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 92338
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f649bc2d601ec1682b24b91bb47762eef9a86207",
+ "parent": "57f23e16c1986439640f7e054006bd93d9124205",
+ "date": "2025-11-07",
+ "subject": "Change button text to \"opening checkout...\"",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 66413
+}

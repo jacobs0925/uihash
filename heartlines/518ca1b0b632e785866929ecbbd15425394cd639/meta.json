@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "518ca1b0b632e785866929ecbbd15425394cd639",
+ "parent": "69fa55e8763c4ab3fcf3d4191019257846c0e31c",
+ "date": "2025-11-07",
+ "subject": "Fix mobile modal overflow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65651
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3e55ec6651c3be894500e1b7d7506465b61e2fd0",
+ "parent": "8fed0b558294b119650e15c9f01d819ee7e4d74c",
+ "date": "2025-11-07",
+ "subject": "Update welcome dialog copy",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/WelcomeToKaiDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65297
+}

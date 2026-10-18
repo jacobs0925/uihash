@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c3b5035e5ef47ffcf73f03720954a0290dc28f6a",
+ "parent": "45a8f62f88633030ea9c86d7a8d93c2cb890d243",
+ "date": "2025-11-07",
+ "subject": "Keep upgrade buttons always active",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65292
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "1b356fa8d1034d0176f392091a0e49e930ef2f5a",
+ "date": "2025-11-08",
+ "pr": null,
+ "title": "Implement persistent sidebar navigation",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 6c380364, which restored 47d0245c (2 commits discarded)"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f6295b8987f5a444bcb3dbc6c14f28a8da267851",
+ "parent": "53fa4e0f21635bbfda57a0deb42cedb804549611",
+ "date": "2025-11-09",
+ "subject": "Fix Auth page layout responsiveness",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 7,
+ "ms": 98966
+}

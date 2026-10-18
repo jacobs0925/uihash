@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "09c5c20f8881ec4b4c52d1a8663ec3a6eb57b27d",
+ "date": "2025-11-09",
+ "pr": null,
+ "title": "Hide mobile avatar and center auth modules",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "padding-top: 32px → 24px undone by 6ec43031 \"Reverted to commit 3b88ef7c189903bc99e48aa06e33d7492e1327d8\"; padding-right: 32px → 24px undone by 6ec43031 \"Reverted to commit 3b88ef7c189903bc99e48aa06e33d7492e1327d8\"; padding-bottom: 32px → 24px undone by 6ec43031 \"Reverted to commit 3b88ef7c189903bc99e48aa06e33d7492e1327d8\""
+}

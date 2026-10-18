@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6e492b27c297dfcbdfa2966b34392a78d446da49",
+ "parent": "1202e7b0d22417f6ccac791d047dfbd6a11667e9",
+ "date": "2025-11-06",
+ "subject": "Remove small heart icon",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NavAvatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 69767
+}

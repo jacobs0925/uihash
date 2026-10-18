@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "43cdbb42090fb33ab4c063dfbd6d54f6f74c789f",
+ "parent": "fba34feccfa3c374e68b37d296ce3d0af82bf807",
+ "date": "2025-11-10",
+ "subject": "Protect multi-select fields",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 66936
+}

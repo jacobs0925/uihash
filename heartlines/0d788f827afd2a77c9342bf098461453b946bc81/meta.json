@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0d788f827afd2a77c9342bf098461453b946bc81",
+ "parent": "583b4d3858f30a82e90b1bef21b9da2f4aff73c7",
+ "date": "2025-11-06",
+ "subject": "Refactor: Optimize mobile user avatar menu",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 156364
+}

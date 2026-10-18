@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "0d788f827afd2a77c9342bf098461453b946bc81",
+ "date": "2025-11-06",
+ "pr": null,
+ "title": "Refactor: Optimize mobile user avatar menu",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1004 later commits"
+}

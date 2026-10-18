@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "45fe703afc518390b26b066ac6b83d1d58f96422",
+ "parent": "d9b62fbffcf9002d7c33bc631bb230e3daface9e",
+ "date": "2025-11-08",
+ "subject": "Fix button glow animation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/CleanPartnerFooter.tsx",
+  "src/components/NewPersonalQuestionnaire/components/CleanQuestionnaireFooter.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65775
+}

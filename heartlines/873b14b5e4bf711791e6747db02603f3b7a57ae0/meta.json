@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "873b14b5e4bf711791e6747db02603f3b7a57ae0",
+ "parent": "4b89bce52fa84c03a985151eb95a207adcb37673",
+ "date": "2025-11-07",
+ "subject": "Fix mobile popover background",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 63457
+}

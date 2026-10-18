@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "3393baa7522a135b95e3324d16de359a32be4ae0",
+ "date": "2025-11-06",
+ "pr": null,
+ "title": "Remove top right navigation icon",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 85840d77, which restored c48f0f32 (7 commits discarded)"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e2fe9ec91527e847582e685b3cbeb1f8b96eba15",
+ "parent": "48cd38a1f7808ce2480544f5f4159b3da9fe6800",
+ "date": "2025-11-07",
+ "subject": "Make mobile chat header edge-to-edge",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 66018
+}

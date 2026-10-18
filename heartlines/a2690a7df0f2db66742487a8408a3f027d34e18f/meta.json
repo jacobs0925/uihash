@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a2690a7df0f2db66742487a8408a3f027d34e18f",
+ "parent": "e2fe9ec91527e847582e685b3cbeb1f8b96eba15",
+ "date": "2025-11-07",
+ "subject": "Update tooltip colors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/tooltip.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 64524
+}

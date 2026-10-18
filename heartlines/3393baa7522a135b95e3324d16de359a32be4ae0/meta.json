@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3393baa7522a135b95e3324d16de359a32be4ae0",
+ "parent": "c42e20ad223035916c1730b1593e3f81134d212b",
+ "date": "2025-11-06",
+ "subject": "Remove top right navigation icon",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 68390
+}

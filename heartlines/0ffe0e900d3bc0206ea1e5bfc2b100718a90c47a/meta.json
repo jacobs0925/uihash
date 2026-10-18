@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0ffe0e900d3bc0206ea1e5bfc2b100718a90c47a",
+ "parent": "372c92a3d850de8411cf4d0fb03854adb82c1de3",
+ "date": "2025-11-07",
+ "subject": "Remove alert icon from chat input",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65627
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "504213630ff923292f615484bb296c3186479d50",
+ "parent": "93f33f798ce7f84e10b5b37660fcdb216c301810",
+ "date": "2025-11-07",
+ "subject": "Fix subscription refresh after upgrade",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx",
+  "src/pages/BillingSuccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 66229
+}

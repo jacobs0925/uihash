@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "da544ce0724859ff5421787777ffd221838e724a",
+ "parent": "4ee5e93d97d0f74d7246e6879a4e8330c40bf30f",
+ "date": "2025-11-07",
+ "subject": "Fix: Remove close button from mobile nav",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/ui/sheet.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 67137
+}

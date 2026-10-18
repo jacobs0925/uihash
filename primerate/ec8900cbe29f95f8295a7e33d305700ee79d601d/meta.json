@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ec8900cbe29f95f8295a7e33d305700ee79d601d",
+ "parent": "e109688acab77e304a4e8619b5b1f160aea418a1",
+ "date": "2025-10-07",
+ "subject": "Update FHA MIP estimate label and add explanatory text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50912
+}

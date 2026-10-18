@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "e5becd10aeaaf27b8d9256469fd6d54b1bc1db15",
+ "date": "2025-11-10",
+ "pr": null,
+ "title": "Remove Terms page icon",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 880 later commits"
+}

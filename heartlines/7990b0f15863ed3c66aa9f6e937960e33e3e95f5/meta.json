@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "7990b0f15863ed3c66aa9f6e937960e33e3e95f5",
+ "parent": "fcaeaa8b1571b5bb0dee7e696e99acf18fec236f",
+ "date": "2025-11-07",
+ "subject": "Refactor: Make mobile nav drawers sleek",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 64245
+}

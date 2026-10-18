@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "0f0806d3982784455f679e466822aa9a45860f2f",
+ "parent": "43cdbb42090fb33ab4c063dfbd6d54f6f74c789f",
+ "date": "2025-11-10",
+ "subject": "Implement real-time profile updates",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/usePersonalProfileData.tsx",
+  "src/hooks/useProgressiveAccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 67350
+}

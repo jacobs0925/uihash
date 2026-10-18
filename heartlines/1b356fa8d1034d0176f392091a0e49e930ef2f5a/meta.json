@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "1b356fa8d1034d0176f392091a0e49e930ef2f5a",
+ "parent": "47d0245c25541ff5ec2d204c2292224c260cdb23",
+ "date": "2025-11-08",
+ "subject": "Implement persistent sidebar navigation",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 103378
+}

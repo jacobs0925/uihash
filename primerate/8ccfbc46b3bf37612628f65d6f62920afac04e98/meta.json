@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8ccfbc46b3bf37612628f65d6f62920afac04e98",
+ "parent": "fb3da00eff58567f74c3c78457f565d4ab2a7b97",
+ "date": "2025-10-07",
+ "subject": "Update client form to include new FHA MIP estimate calculations and inputs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50406
+}

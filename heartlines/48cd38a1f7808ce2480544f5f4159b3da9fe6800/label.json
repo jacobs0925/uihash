@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "48cd38a1f7808ce2480544f5f4159b3da9fe6800",
+ "date": "2025-11-07",
+ "pr": null,
+ "title": "Fix footer alignment",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 946 later commits"
+}

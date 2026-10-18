@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "fba34feccfa3c374e68b37d296ce3d0af82bf807",
+ "parent": "bf5939a2537d78f4f205e57747c5615578cbe72f",
+ "date": "2025-11-10",
+ "subject": "Slow down welcome animation",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useProgressiveAccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 67344
+}

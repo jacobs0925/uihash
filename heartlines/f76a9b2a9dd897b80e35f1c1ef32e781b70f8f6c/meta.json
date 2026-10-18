@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f76a9b2a9dd897b80e35f1c1ef32e781b70f8f6c",
+ "parent": "3b88ef7c189903bc99e48aa06e33d7492e1327d8",
+ "date": "2025-11-09",
+ "subject": "Center and scale auth modules",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 13,
+ "ms": 98614
+}

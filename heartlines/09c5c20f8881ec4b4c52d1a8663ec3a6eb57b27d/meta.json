@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "09c5c20f8881ec4b4c52d1a8663ec3a6eb57b27d",
+ "parent": "6ec430310238f3a9ec18bf17f2b7206208247243",
+ "date": "2025-11-09",
+ "subject": "Hide mobile avatar and center auth modules",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 6,
+ "ms": 98615
+}

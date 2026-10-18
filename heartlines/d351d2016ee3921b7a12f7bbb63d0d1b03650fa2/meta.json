@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d351d2016ee3921b7a12f7bbb63d0d1b03650fa2",
+ "parent": "803e24f4ff3b4cab94cf75f867cdb7f81b4b6908",
+ "date": "2025-11-10",
+ "subject": "Remove all skeleton loaders",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 66009
+}

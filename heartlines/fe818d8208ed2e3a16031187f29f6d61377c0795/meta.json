@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "fe818d8208ed2e3a16031187f29f6d61377c0795",
+ "parent": "5a21e14e600e01869cf067f1b471ab93ab23a421",
+ "date": "2025-11-07",
+ "subject": "Add wiggle animation to icon",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/icons/FlipPhoneIcon.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65225
+}

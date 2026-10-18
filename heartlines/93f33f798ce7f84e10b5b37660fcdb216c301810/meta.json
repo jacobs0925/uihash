@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "93f33f798ce7f84e10b5b37660fcdb216c301810",
+ "parent": "c8e9df9cf52324e5b460d7887a3e30b1876fd3da",
+ "date": "2025-11-07",
+ "subject": "Fix mobile flashing on chat input glow",
+ "components": [
+  "styles"
+ ],
+ "files": [
+  "src/styles/performance-mobile.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65106
+}

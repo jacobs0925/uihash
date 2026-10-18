@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "4ee5e93d97d0f74d7246e6879a4e8330c40bf30f",
+ "parent": "7b40d7177e4c5bf48295cab162d10ecc750615d2",
+ "date": "2025-11-07",
+ "subject": "Fix homepage text casing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/SimpleHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 64274
+}

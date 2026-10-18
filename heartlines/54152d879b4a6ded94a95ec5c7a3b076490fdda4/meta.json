@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "54152d879b4a6ded94a95ec5c7a3b076490fdda4",
+ "parent": "c4bdc697b635067c6fea07f2156a071771e81e0b",
+ "date": "2026-04-12",
+ "subject": "Removed slides and enlarged year text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88029
+}

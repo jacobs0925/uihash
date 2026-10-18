@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "25396a6433747155632d29c123d1fdfe3a44d3de",
+ "parent": "211109324351692fb81221f744801b188db034fe",
+ "date": "2026-04-13",
+ "subject": "Center Asia slide image",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87999
+}

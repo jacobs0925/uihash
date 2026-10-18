@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "ca787ae7aef243adba82bafdaf9af30e5815c0c7",
+ "parent": "228a1cf19d2743055c77b232bd1ce4195fe82fae",
+ "date": "2026-07-29",
+ "subject": "Applied brand typography",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/pages/Showcase.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88837
+}

@@ -1,0 +1,34 @@
+{
+ "repo": "heartlines",
+ "sha": "698441ac616d099fe83fb063d1b697abfc19951c",
+ "parent": "3eca41768cab6176d7347b22a7fe3b6d82cf216d",
+ "date": "2026-07-28",
+ "subject": "Fixed fetchPriority and 404",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/App.tsx",
+  "src/components/chat/AIChatMessage.tsx",
+  "src/components/chat/ChatContainer.tsx",
+  "src/components/chat/ChatHeader.tsx",
+  "src/components/landing/HeroCarousel.tsx",
+  "src/components/landing/HeroPhoneScroll.tsx",
+  "src/components/landing/LandingPage.tsx",
+  "src/components/landing/ProductPhoneDemo.tsx",
+  "src/components/landing/UnlockCoachingButton.tsx",
+  "src/components/landing/YearCarousel.tsx",
+  "src/components/profile/AvatarUpload.tsx",
+  "src/pages/Auth.tsx",
+  "src/pages/NotFound.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 97368
+}

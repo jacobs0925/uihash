@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3f53549f43841ae6cd6e6c653cf392105c127354",
+ "parent": "2deef751db64caab4438bf235adc233d128496d0",
+ "date": "2026-04-12",
+ "subject": "Increase 2088 image scale",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90018
+}

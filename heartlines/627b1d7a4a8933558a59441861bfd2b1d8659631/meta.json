@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "627b1d7a4a8933558a59441861bfd2b1d8659631",
+ "parent": "41cfee34dc5edefe2f5c4c0f3b9939596de4bb46",
+ "date": "2026-02-15",
+ "subject": "Update Card 02 description",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87303
+}

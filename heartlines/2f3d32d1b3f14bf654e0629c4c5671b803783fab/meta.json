@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "2f3d32d1b3f14bf654e0629c4c5671b803783fab",
+ "parent": "13ac5124a9b981dd466442eef02f9903676d9b00",
+ "date": "2026-04-11",
+ "subject": "Landing page refresh visuals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/hero-carousel/man-with-treasured-memory.webp",
+  "src/components/HeroCarousel.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87708
+}

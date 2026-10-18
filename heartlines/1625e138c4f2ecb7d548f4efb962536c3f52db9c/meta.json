@@ -1,0 +1,32 @@
+{
+ "repo": "heartlines",
+ "sha": "1625e138c4f2ecb7d548f4efb962536c3f52db9c",
+ "parent": "ec152a1a96ca1aac13c138b2e658b210850ff485",
+ "date": "2026-04-10",
+ "subject": "Phase 1 cleanup applied",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "PHASE_4_SUMMARY.md",
+  "src/components/Brand/HeartlinesWordmark.tsx",
+  "src/components/Brand/PhoneLockup.tsx",
+  "src/components/DashboardHeader.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/MemoizedDashboardContent.tsx",
+  "src/components/MemoizedProfileBuilder.tsx",
+  "src/components/SplashScreen.tsx",
+  "src/components/YearCarousel.tsx",
+  "src/components/brand/HeartlinesWordmark.tsx",
+  "src/components/brand/PhoneLockup.tsx",
+  "src/components/loading/ProductionSplashScreen.tsx",
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 100703
+}

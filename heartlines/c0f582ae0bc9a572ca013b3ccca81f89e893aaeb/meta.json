@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c0f582ae0bc9a572ca013b3ccca81f89e893aaeb",
+ "parent": "503936eafadea76ea81c45e748b186dfcc79770a",
+ "date": "2026-04-13",
+ "subject": "Update carousel taglines",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87182
+}

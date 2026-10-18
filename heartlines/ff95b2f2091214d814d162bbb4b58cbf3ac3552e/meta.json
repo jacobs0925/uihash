@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ff95b2f2091214d814d162bbb4b58cbf3ac3552e",
+ "parent": "54994c147fe260264bf43d8e653902defb78c6b9",
+ "date": "2026-02-15",
+ "subject": "Refine Bento Card typography",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 89108
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4ebc791568b3e5ac45cfc4075ba79e13353e9696",
+ "parent": "1a7863e7440a51a32055314f90c4307430d34467",
+ "date": "2026-04-11",
+ "subject": "Add grainy film texture",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88339
+}

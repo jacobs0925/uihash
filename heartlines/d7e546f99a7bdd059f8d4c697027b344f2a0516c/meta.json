@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "d7e546f99a7bdd059f8d4c697027b344f2a0516c",
+ "parent": "839061d6f34e30b41ed2e0a8cc2f1b8bd3b727b0",
+ "date": "2026-02-15",
+ "subject": "Update Bento Subtitles",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88402
+}

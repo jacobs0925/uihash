@@ -1,0 +1,27 @@
+{
+ "repo": "heartlines",
+ "sha": "0de6c88c1b964d0b68d1640b7b4586b503194cf7",
+ "parent": "636cd574c6687d482508c0db71b6a06e642cf9fd",
+ "date": "2026-03-21",
+ "subject": "Cleaned up frontend scaffolding",
+ "components": [
+  "components",
+  "main-production.tsx",
+  "main.tsx"
+ ],
+ "files": [
+  "package-lock.json",
+  "package.json",
+  "src/components/PerformanceOptimizedApp.tsx",
+  "src/components/ProductionApp.tsx",
+  "src/components/ProductionDashboard.tsx",
+  "src/main-production.tsx",
+  "src/main.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 92598
+}

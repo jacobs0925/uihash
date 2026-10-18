@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "94ed19a5c065237255ff027d786f1049d5093b82",
+ "parent": "18ec680e92832d4470623296e0d95e86b00a20e8",
+ "date": "2026-04-12",
+ "subject": "Enhance mobile timeline reveal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90185
+}

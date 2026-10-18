@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "de62e2ad73f207c88fb630e9443f0c49b7a90582",
+ "parent": "542418ede3d93de42ceb024e6854cac0f1d9ce9b",
+ "date": "2026-07-29",
+ "subject": "Scaled hero text to 2 lines",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Showcase.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87412
+}

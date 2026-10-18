@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "542418ede3d93de42ceb024e6854cac0f1d9ce9b",
+ "parent": "65aefdf5e728719acea30952211b33f224c59229",
+ "date": "2026-07-29",
+ "subject": "Linked header to current convo",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/showcase/KaiScreenRecording.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88533
+}

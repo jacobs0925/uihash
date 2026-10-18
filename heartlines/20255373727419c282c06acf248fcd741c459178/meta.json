@@ -1,0 +1,35 @@
+{
+ "repo": "heartlines",
+ "sha": "20255373727419c282c06acf248fcd741c459178",
+ "parent": "59076dcc4d6aca0f2a038ead3aa89ff17f837dcc",
+ "date": "2026-04-10",
+ "subject": "Phase 3 cleanup implemented",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/AICoachEngine.tsx",
+  "src/components/AIInsights.tsx",
+  "src/components/APIKeyInput.tsx",
+  "src/components/Company.tsx",
+  "src/components/FrostedHeartShowcase.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/MemoizedChatContainer.tsx",
+  "src/components/ProfileCompletionOptions.tsx",
+  "src/components/sidebar/SidebarContent.tsx",
+  "src/hooks/useDataMigration.tsx",
+  "src/hooks/useDebouncedPersistence.tsx",
+  "src/hooks/useInputStateTracking.tsx",
+  "src/hooks/usePerformanceSafeguards.tsx",
+  "src/hooks/usePullToReveal.tsx",
+  "src/hooks/useResourceLoader.ts",
+  "src/utils/aiResponseCoordinator.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87806
+}

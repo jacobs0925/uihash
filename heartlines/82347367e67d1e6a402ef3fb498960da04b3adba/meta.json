@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "82347367e67d1e6a402ef3fb498960da04b3adba",
+ "parent": "ff8772e58845705c4d58207bf01f6a361127c394",
+ "date": "2026-02-14",
+ "subject": "Align landing page cards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87328
+}

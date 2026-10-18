@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2deef751db64caab4438bf235adc233d128496d0",
+ "parent": "58c3d7284d17526f3f2ac6c4bf1d4669f509c268",
+ "date": "2026-04-12",
+ "subject": "Zoom out retro image in carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87360
+}

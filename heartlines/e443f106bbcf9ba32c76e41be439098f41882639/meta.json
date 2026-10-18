@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "e443f106bbcf9ba32c76e41be439098f41882639",
+ "parent": "3f53549f43841ae6cd6e6c653cf392105c127354",
+ "date": "2026-04-12",
+ "subject": "Reverted to commit 19d39e13c359df3cc1f4ad8256f7a720ec236a7d",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87544
+}

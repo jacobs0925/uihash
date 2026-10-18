@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2af6df160cb0a3da7498a5190e9ce7bb05cc00d1",
+ "parent": "8c6449406d538f0ca87c36613f2ffd6fb099e66d",
+ "date": "2026-04-12",
+ "subject": "Toned down how it works text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86656
+}

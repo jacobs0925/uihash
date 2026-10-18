@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "65aefdf5e728719acea30952211b33f224c59229",
+ "parent": "a27e6e7818cb247591392c6e2ceb50f7cc33cc9b",
+ "date": "2026-07-29",
+ "subject": "Padded phone for visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/showcase/KaiScreenRecording.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86162
+}

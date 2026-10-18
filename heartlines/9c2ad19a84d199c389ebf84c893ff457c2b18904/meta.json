@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "9c2ad19a84d199c389ebf84c893ff457c2b18904",
+ "parent": "a8071fe61d8f52ca05e8b32a1c35306254e14197",
+ "date": "2026-02-15",
+ "subject": "Globe icon and burgundy cards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88550
+}

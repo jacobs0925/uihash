@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "228a1cf19d2743055c77b232bd1ce4195fe82fae",
+ "parent": "541204b223dcad2e9650dde9245d0cc24f1d75d7",
+ "date": "2026-07-29",
+ "subject": "Added demo page at /showcase/demo",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/App.tsx",
+  "src/components/showcase/KaiScreenRecording.tsx",
+  "src/pages/ShowcaseDemo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88299
+}

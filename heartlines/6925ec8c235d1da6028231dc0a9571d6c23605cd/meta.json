@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6925ec8c235d1da6028231dc0a9571d6c23605cd",
+ "parent": "b1f6529360b92c791b8e54fd049980f8decf95d2",
+ "date": "2026-02-15",
+ "subject": "Enhance Bento Card Idle Motion",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 89323
+}

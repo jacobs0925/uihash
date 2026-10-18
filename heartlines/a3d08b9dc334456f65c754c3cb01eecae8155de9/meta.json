@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "a3d08b9dc334456f65c754c3cb01eecae8155de9",
+ "parent": "de62e2ad73f207c88fb630e9443f0c49b7a90582",
+ "date": "2026-07-29",
+ "subject": "Fixed mobile viewport height",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/components/showcase/KaiScreenRecording.tsx",
+  "src/pages/Showcase.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86811
+}

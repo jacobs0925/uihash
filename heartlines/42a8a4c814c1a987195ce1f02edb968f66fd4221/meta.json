@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "42a8a4c814c1a987195ce1f02edb968f66fd4221",
+ "parent": "3d744d7c811cd9722da45187a76844dcdad8f2ac",
+ "date": "2026-05-09",
+ "subject": "Fixed chat header line issue",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/components/landing/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87690
+}

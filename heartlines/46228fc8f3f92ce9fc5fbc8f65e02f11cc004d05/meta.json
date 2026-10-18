@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "46228fc8f3f92ce9fc5fbc8f65e02f11cc004d05",
+ "parent": "38d754e965727d1704a843cccc4e23129444f1ca",
+ "date": "2026-04-10",
+ "subject": "Refactor HeroAvatar Flicker",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 89014
+}

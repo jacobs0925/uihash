@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "fb329ad763d0ece67098f2928ef7349679d4c89a",
+ "parent": "463002dab36896297ed7bb474db4f1ab45118b8b",
+ "date": "2026-02-15",
+ "subject": "Reverted to commit 6be3721059b896b9edc1deed281a2a5c109222fa",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88392
+}

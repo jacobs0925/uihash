@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "3d744d7c811cd9722da45187a76844dcdad8f2ac",
+ "parent": "3165577cec089c803a49e43e3a32d7c35bd8040c",
+ "date": "2026-05-09",
+ "subject": "Reduced mobile section padding",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".lovable/memory/design/homepage-spacing-standardization.md",
+  ".lovable/plan.md",
+  "src/components/landing/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86588
+}

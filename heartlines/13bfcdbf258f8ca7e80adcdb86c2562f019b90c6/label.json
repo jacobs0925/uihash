@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "13bfcdbf258f8ca7e80adcdb86c2562f019b90c6",
+ "date": "2026-04-13",
+ "pr": null,
+ "title": "Update footer tagline",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 76 later commits"
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "090890f06d514f11c476a6aed7296dc2788fd8ae",
+ "parent": "873a0ee902a0d03e5a5e1025b2246e07e579c7f8",
+ "date": "2026-04-12",
+ "subject": "Add motion across landing page",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90325
+}

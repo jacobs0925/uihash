@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "015fe534bbec421ef28987f70c8f6c70a8c9854b",
+ "parent": "875feed2b7538b4c5b69f60e82eb56d702486fe3",
+ "date": "2025-12-20",
+ "subject": "Fix brand guidelines colors",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/brand/BrandColorSwatch.tsx",
+  "src/pages/BrandGuidelines.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 13,
+ "ms": 138149
+}

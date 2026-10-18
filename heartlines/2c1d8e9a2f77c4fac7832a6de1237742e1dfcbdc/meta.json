@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "2c1d8e9a2f77c4fac7832a6de1237742e1dfcbdc",
+ "parent": "9395e88b211a5e86ae9950961c50ec6ccea6a15c",
+ "date": "2026-04-10",
+ "subject": "Drop 2-param function overload",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useProfileStoreV2.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260410012913_447363fd-26fb-4736-9fb2-ab32c5ba76b0.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 91017
+}

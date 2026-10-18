@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "13bfcdbf258f8ca7e80adcdb86c2562f019b90c6",
+ "parent": "0d48b01c34a3a1f796b3e5b72885e7e9a1211dea",
+ "date": "2026-04-13",
+ "subject": "Update footer tagline",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SiteFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 114186
+}

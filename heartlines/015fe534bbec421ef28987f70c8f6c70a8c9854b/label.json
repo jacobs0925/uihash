@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "015fe534bbec421ef28987f70c8f6c70a8c9854b",
+ "date": "2025-12-20",
+ "pr": null,
+ "title": "Fix brand guidelines colors",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 286 later commits"
+}

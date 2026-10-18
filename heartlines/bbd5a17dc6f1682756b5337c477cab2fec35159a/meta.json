@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "bbd5a17dc6f1682756b5337c477cab2fec35159a",
+ "parent": "ea2cc2bd83a7a90c0846a3e8a6fbbe7c04751a13",
+ "date": "2026-04-11",
+ "subject": "Increase film grain intensity",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86679
+}

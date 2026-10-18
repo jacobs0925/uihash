@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "bc5e1e745f29f884e6bc1ad97eab1e60ceb44a1d",
+ "parent": "6b731bcd4ef8d86a7855877cd6598dee71b607cd",
+ "date": "2026-02-13",
+ "subject": "Align content with flex-1",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 85824
+}

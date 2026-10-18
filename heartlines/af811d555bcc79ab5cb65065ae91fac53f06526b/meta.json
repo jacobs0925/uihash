@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "af811d555bcc79ab5cb65065ae91fac53f06526b",
+ "parent": "5f9fab431bd5ce115e467557a14479d13d18922b",
+ "date": "2026-04-12",
+ "subject": "Increase year size on carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 89694
+}

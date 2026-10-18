@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8c6449406d538f0ca87c36613f2ffd6fb099e66d",
+ "parent": "4612c93fca00d8502ba684e62970364e9579dfb7",
+ "date": "2026-04-12",
+ "subject": "Boost film grain on carousel",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87310
+}

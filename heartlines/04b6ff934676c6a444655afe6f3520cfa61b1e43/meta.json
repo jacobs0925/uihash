@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "04b6ff934676c6a444655afe6f3520cfa61b1e43",
+ "parent": "aa22d3ec9d3ce8ac682fd7b3bae04a8acdd5c942",
+ "date": "2026-07-29",
+ "subject": "Trimmed & capped phone size",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/components/showcase/KaiScreenRecording.tsx",
+  "src/data/showcaseThanksgiving.ts",
+  "src/pages/Showcase.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86524
+}

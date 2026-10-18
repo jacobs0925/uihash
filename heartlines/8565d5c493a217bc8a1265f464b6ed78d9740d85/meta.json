@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "8565d5c493a217bc8a1265f464b6ed78d9740d85",
+ "parent": "77887a6f8075cd12decce6d5874a64b55eea8c90",
+ "date": "2026-04-12",
+ "subject": "Fix kai avatars and tagline",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx",
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86100
+}

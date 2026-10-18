@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "59dc5610241e544c6403fbc171c7c99cf3bb7a6f",
+ "parent": "ef0c3eee935ed8784c8cf15c2234d21867f2c223",
+ "date": "2026-07-29",
+ "subject": "Widened phone display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/showcase/KaiScreenRecording.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88388
+}

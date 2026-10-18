@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "d2b8e097bd033b1843b594197373a928913c21a2",
+ "parent": "0e5a6845e281d27d31a22ca4ab3b485347df7c31",
+ "date": "2026-02-15",
+ "subject": "Reordered Bento Grid layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87442
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "9fdaadcd29fc87bd3a6183fde94638995ac7af23",
+ "parent": "b65308a796b8fc86d4b71cb9319967dcdd445910",
+ "date": "2026-04-12",
+ "subject": "Circle avatars and update image",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/hero-carousel/retro-peace-living-room.webp",
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87030
+}

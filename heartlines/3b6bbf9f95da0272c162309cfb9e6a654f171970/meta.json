@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "3b6bbf9f95da0272c162309cfb9e6a654f171970",
+ "parent": "87c151f1325ec7475b00cc5da0d2984465396eec",
+ "date": "2026-02-15",
+ "subject": "Enhance Bento Grid visuals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 89347
+}

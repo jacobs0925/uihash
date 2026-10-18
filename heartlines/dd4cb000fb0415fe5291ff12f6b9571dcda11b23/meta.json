@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "dd4cb000fb0415fe5291ff12f6b9571dcda11b23",
+ "parent": "5562e60013db17e7f2a6eebcbf54102af5493ab1",
+ "date": "2026-02-15",
+ "subject": "Reverted to commit fc189057dcfc06ca48b2d8e4d64aca9e7c047f5d",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86831
+}

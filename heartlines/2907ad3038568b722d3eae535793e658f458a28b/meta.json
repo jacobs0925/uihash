@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2907ad3038568b722d3eae535793e658f458a28b",
+ "parent": "47982d2b256bd1253a3af2ca423720eb407c9fb5",
+ "date": "2026-04-11",
+ "subject": "Shift text and deepen grain",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86747
+}

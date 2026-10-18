@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "db0fa9dcd18199a6612ecb43336825c8c6c0dbd1",
+ "parent": "bcbc4d2b92e7639cf9539825c1e20256e8c83a79",
+ "date": "2026-02-15",
+ "subject": "Enhance timeline with animation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 89555
+}

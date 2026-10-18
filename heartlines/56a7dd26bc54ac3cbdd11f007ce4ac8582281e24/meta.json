@@ -1,0 +1,25 @@
+{
+ "repo": "heartlines",
+ "sha": "56a7dd26bc54ac3cbdd11f007ce4ac8582281e24",
+ "parent": "0de6c88c1b964d0b68d1640b7b4586b503194cf7",
+ "date": "2026-03-21",
+ "subject": "Fix priority code generator migration",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx",
+  "src/pages/Pricing.tsx",
+  "src/pages/PrivacySecurity.tsx",
+  "supabase/functions/text-to-speech/index.ts",
+  "supabase/functions/voice-to-text/index.ts",
+  "supabase/migrations/20260321191135_2b408c53-0c2a-4a3c-b874-7c4ff918fc88.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87139
+}

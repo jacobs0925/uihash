@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "0deb474e925f192065b26a1c5fa4b4a0d8b48f40",
+ "parent": "4b8d6f61c532956917b9254dd46163f9c282be18",
+ "date": "2026-07-29",
+ "subject": "Bumped reload interval to 65s",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/components/showcase/KaiScreenRecording.tsx",
+  "src/pages/ShowcaseDemo.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88968
+}

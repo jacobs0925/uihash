@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "3165577cec089c803a49e43e3a32d7c35bd8040c",
+ "parent": "3ee89fb7c1adeb3464ac95d52c0d4618ce76171c",
+ "date": "2026-04-21",
+ "subject": "Increased landing section spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".lovable/memory/design/homepage-spacing-standardization.md",
+  "src/components/landing/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90604
+}

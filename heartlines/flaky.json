@@ -16,6 +16,7 @@
  "mission|hover||same-data|div (same data, drawn differently)|added: div",
  "mission|hover||same-data|div (same data, drawn differently)|removed: div",
  "mission|hover||same-data|h1 (same data, drawn differently)|added: h1 (\"our why\")",
+ "mission|hover||same-data|img (same data, drawn differently)|added: img",
  "mission|hover||same-data|span (same data, drawn differently)|added: span (\"heartlines\")",
  "mission|hover||same-data|span (same data, drawn differently)|removed: span (\"heartlines\")",
  "mission|hover||same-data|svg (same data, drawn differently)|added: svg",

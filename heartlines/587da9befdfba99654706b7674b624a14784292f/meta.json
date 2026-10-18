@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "587da9befdfba99654706b7674b624a14784292f",
+ "parent": "2f85a99960a2d6b6b2cf1dc384c2ddad87265245",
+ "date": "2026-02-15",
+ "subject": "Improve visual spacing in cards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87886
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "19d39e13c359df3cc1f4ad8256f7a720ec236a7d",
+ "parent": "69748655b66470a1ae76590c0e5bef2fc04b37a3",
+ "date": "2026-04-12",
+ "subject": "Zoomed Asian couple slide",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87502
+}

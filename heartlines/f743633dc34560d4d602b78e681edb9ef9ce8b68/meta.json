@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f743633dc34560d4d602b78e681edb9ef9ce8b68",
+ "parent": "5071463d487d9d5d2df00ef7387b14aeae79a564",
+ "date": "2026-02-15",
+ "subject": "Redesigned CommunityIcon SVG",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87728
+}

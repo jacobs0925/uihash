@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "420d255fba0519d9e0ef73f9ed190435a81a45ce",
+ "parent": "8b1b3bdfe8a9dad253c519bb7c623b73ab05d12b",
+ "date": "2026-04-13",
+ "subject": "Add flip phone icon to footer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SiteFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 115822
+}

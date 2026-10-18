@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "c21f090cb5de944b34e0d0be97433377d61d4e5b",
+ "parent": "4b3c73028343e9e47f6f43df0be4031cdae3a1e8",
+ "date": "2026-04-12",
+ "subject": "Circular avatars and tagline updated",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx",
+  "src/components/HeroPhoneScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87813
+}

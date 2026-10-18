@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "d0d8be60ae07569ccea6f818f5a5561f38384898",
+ "parent": "a0a77537775217a7691ca2d96eaf42d63acca81d",
+ "date": "2026-04-11",
+ "subject": "Shrink hero year text and edit images",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/hero-carousel/couple-on-couch.webp",
+  "src/assets/hero-carousel/man-with-treasured-memory.webp",
+  "src/assets/hero-carousel/warm-smiles-vintage-home.webp",
+  "src/components/HeroCarousel.tsx",
+  "src/components/ui/timeline.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 89170
+}

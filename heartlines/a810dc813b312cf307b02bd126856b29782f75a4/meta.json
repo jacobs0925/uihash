@@ -1,0 +1,33 @@
+{
+ "repo": "heartlines",
+ "sha": "a810dc813b312cf307b02bd126856b29782f75a4",
+ "parent": "d78a47cae6c43706b45fdf6b1c6cb37196c18d61",
+ "date": "2026-04-10",
+ "subject": "Phase 2 cleanup executed",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/BurgundyNavCarrot.tsx",
+  "src/components/ChatHeader.tsx",
+  "src/components/LandingPageFallback.tsx",
+  "src/components/LazyPageSkeleton.tsx",
+  "src/components/LazySection.tsx",
+  "src/components/ProductionErrorBoundary.tsx",
+  "src/components/ResourceMonitor.tsx",
+  "src/components/SaveIndicator.tsx",
+  "src/components/ScrollToTopArrow.tsx",
+  "src/hooks/useCleanupManager.tsx",
+  "src/hooks/useManagedTimer.tsx",
+  "src/hooks/useOptimizedCallback.tsx",
+  "src/hooks/useProductionLogging.tsx",
+  "src/hooks/useRenderOptimization.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86578
+}

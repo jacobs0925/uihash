@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "68fe3094dce8d2e149c48a4f55472df2d7f8f8dc",
+ "parent": "209bc24818bf2daaa131affb1b273e87fb84bcd6",
+ "date": "2026-02-15",
+ "subject": "Update Bento card copy and badge",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90089
+}

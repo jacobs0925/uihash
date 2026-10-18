@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4b8d6f61c532956917b9254dd46163f9c282be18",
+ "parent": "04b6ff934676c6a444655afe6f3520cfa61b1e43",
+ "date": "2026-07-29",
+ "subject": "Centered phone frame on all screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/showcase/KaiScreenRecording.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86437
+}

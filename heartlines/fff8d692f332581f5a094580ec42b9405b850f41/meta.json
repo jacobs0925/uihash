@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "fff8d692f332581f5a094580ec42b9405b850f41",
+ "parent": "3e6dc4a44ba5af38d2c5b101edf1f23e0e2bdce1",
+ "date": "2026-04-12",
+ "subject": "Compact spacing around sections",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88781
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "6267afe001b391e2dcad4dfb28698caa28522a10",
+ "parent": "42a8a4c814c1a987195ce1f02edb968f66fd4221",
+ "date": "2026-05-09",
+ "subject": "Fixed hero phone clipping",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/components/landing/HeroPhoneScroll.tsx",
+  "src/components/landing/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88638
+}

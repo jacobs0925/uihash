@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "cfbfb54219de5d51a4199981e5db9738dcba1744",
+ "parent": "3df738845d91721d74524dd8a83f76044fe18ff9",
+ "date": "2026-08-02",
+ "subject": "Strengthened Grain and cleared nav",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  ".lovable/plan/hero-carousel-more-grain-no-cropped-heads-2026-08-02.md",
+  "src/components/landing/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 67669
+}

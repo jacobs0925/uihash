@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "77fa52b753462a3823381ef7b5e83dba0e2c26ec",
+ "parent": "54be061feec9c54ce5b5160830bda8f35d12b4d9",
+ "date": "2025-10-02",
+ "subject": "Assistant checkpoint: Made Lease Calculator fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/lease-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 82099
+}

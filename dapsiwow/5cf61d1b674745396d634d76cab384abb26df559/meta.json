@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "5cf61d1b674745396d634d76cab384abb26df559",
+ "parent": "7c59a0c5ebe7698bfbae723bde735cf70f2452ba",
+ "date": "2025-10-04",
+ "subject": "Assistant checkpoint: Made Mortgage Calculator fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 7,
+ "ms": 135564
+}

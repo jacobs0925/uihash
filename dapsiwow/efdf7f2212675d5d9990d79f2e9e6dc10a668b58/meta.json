@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "efdf7f2212675d5d9990d79f2e9e6dc10a668b58",
+ "parent": "9aba7c6bf717da64fde0ce7864f5a6af0180e9a1",
+ "date": "2025-10-03",
+ "subject": "Assistant checkpoint: Added professional PDF report generation to loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 93320
+}

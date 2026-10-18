@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "c12bd923846c1e58504f6b531ab03899527f062d",
+ "parent": "38d9a1486cb86a500bffe35c7cff6080818e6310",
+ "date": "2026-08-16",
+ "subject": "Adjusted phone screen to fit",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  ".lovable/plan/showcase-phone-always-fully-visible-top-and-bottom-2026-08-16.md",
+  "src/components/showcase/KaiScreenRecording.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 70236
+}

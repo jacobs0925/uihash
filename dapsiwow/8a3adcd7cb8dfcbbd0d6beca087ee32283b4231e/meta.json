@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8a3adcd7cb8dfcbbd0d6beca087ee32283b4231e",
+ "parent": "cc5a7de4c9ae52b606c76c361becfc5172e21278",
+ "date": "2025-10-04",
+ "subject": "Add functionality to export loan comparison data as a PDF document",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1759587541442.png",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 96230
+}

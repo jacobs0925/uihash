@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "de2f84f3182ebf9e95e1616a842385c9d6f934b9",
+ "parent": "7d9877ce8b8b2dbc52b85696d590ffcd2921372d",
+ "date": "2025-10-04",
+ "subject": "Improve the PDF export format for loan calculator results and add site name",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 97287
+}

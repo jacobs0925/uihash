@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "8f90f308f722f50b1246ee79a9fd0ab4b0f1b2ad",
+ "date": "2025-10-05",
+ "pr": null,
+ "title": "Assistant checkpoint: Update EMI calculator buttons to match mortgage calculator style",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 3026 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "54be061feec9c54ce5b5160830bda8f35d12b4d9",
+ "parent": "e403e9470be9f4a9edd063683fc5dd2afef72d7a",
+ "date": "2025-10-02",
+ "subject": "Assistant checkpoint: Make Credit Card Calculator fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/credit-card-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 85760
+}

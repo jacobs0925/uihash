@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "44b6af211f4168df6577abc0dcdbe4519fe38b32",
+ "parent": "2ca96c5433a50e644f8f0be8719a99d72b04e27c",
+ "date": "2025-10-04",
+ "subject": "Improve mortgage calculator SEO and content for better search rankings",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 128795
+}

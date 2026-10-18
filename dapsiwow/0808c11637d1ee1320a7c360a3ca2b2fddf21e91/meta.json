@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "0808c11637d1ee1320a7c360a3ca2b2fddf21e91",
+ "parent": "5c23cf10ebd17460bce655cb4a2762ec4f9f4c69",
+ "date": "2025-10-05",
+ "subject": "Add interactive scrolling and PDF export to payment schedule",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 109481
+}

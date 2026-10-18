@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "fd60e45bdfdf29fb9211093c57cef42e4717082e",
+ "date": "2025-10-03",
+ "pr": null,
+ "title": "Enhance loan calculator with new features and user experience improvements",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 3187 later commits"
+}

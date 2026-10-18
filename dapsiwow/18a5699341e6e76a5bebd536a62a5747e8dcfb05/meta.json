@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "18a5699341e6e76a5bebd536a62a5747e8dcfb05",
+ "parent": "1933cd10e4b1325c208dbc1ce8d15957a52bd863",
+ "date": "2025-10-05",
+ "subject": "Update EMI calculator UI to resemble a loan calculator interface",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 5,
+ "ms": 112935
+}

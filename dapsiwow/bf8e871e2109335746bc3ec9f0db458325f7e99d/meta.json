@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "bf8e871e2109335746bc3ec9f0db458325f7e99d",
+ "parent": "ca5ed76e452f86c91081e8d98beba23c0e95464a",
+ "date": "2025-10-03",
+ "subject": "Improve loan calculator print view to professional report format",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1759508056712.png",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 94660
+}

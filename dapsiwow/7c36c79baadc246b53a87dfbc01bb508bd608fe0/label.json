@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "7c36c79baadc246b53a87dfbc01bb508bd608fe0",
+ "date": "2025-10-04",
+ "pr": null,
+ "title": "Assistant checkpoint: Remove FAQ section from mortgage calculator",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 3061 later commits"
+}

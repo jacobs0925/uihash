@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "490d87ecd085eb5766385f660983a0aceaee7ebb",
+ "date": "2025-10-04",
+ "pr": null,
+ "title": "Restored to '8e7da54acca192cf21290af6697f56134648e30a'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Our mortgage calculator provides highly \" → \"Our mortgage calculator provides highly \" undone by 4d608c5e \"Assistant checkpoint: Moved trust signals above How to Use section\"; text: \"Our mortgage calculator provides highly \" → \"Our mortgage calculator provides highly \" undone by 4d608c5e \"Assistant checkpoint: Moved trust signals above How to Use section\"; text: \"Our mortgage calculator provides highly \" → \"Our mortgage calculator provides highly \" undone by 4d608c5e \"Assistant checkpoint: Moved trust signals above How to Use section\""
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "5796a32106e4140cbbf149119a6a00e185d8ce42",
+ "date": "2025-10-04",
+ "pr": null,
+ "title": "Enhance mortgage calculator page for search engines and ad revenue",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgba(255, 255, 255, 0.9) → rgb(247, 246, 249) undone by 7d1f6cb9 \"Assistant checkpoint: Updated Mortgage Calculator to match Loan Calculator\"; box-shadow: rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.25) 0px 25px 50px -12px → rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px 0px, rgba(0, 0, 0, 0.1) 0px 10px 15px -3px, rgba(0, 0, 0, 0.1) 0px 4px 6px -4px undone by 7d1f6cb9 \"Assistant checkpoint: Updated Mortgage Calculator to match Loan Calculator\"; display: flex → block undone by 7d1f6cb9 \"Assistant checkpoint: Updated Mortgage Calculator to match Loan Calculator\""
+}

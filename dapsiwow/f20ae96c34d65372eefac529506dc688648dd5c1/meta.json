@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "f20ae96c34d65372eefac529506dc688648dd5c1",
+ "parent": "aa86c3961cf08f4d99b27ace8839d1fda33c15f2",
+ "date": "2025-10-03",
+ "subject": "Allow loan calculator summary to print across multiple pages",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 89101
+}

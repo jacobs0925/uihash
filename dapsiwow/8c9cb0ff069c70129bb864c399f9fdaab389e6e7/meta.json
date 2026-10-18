@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8c9cb0ff069c70129bb864c399f9fdaab389e6e7",
+ "parent": "2ed52e187cf646a88eaa7ff4e79c56ef83156f3b",
+ "date": "2025-10-04",
+ "subject": "Add a visually appealing PDF export for mortgage calculator results",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 94889
+}

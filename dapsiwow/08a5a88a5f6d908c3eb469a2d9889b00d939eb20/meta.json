@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "08a5a88a5f6d908c3eb469a2d9889b00d939eb20",
+ "parent": "fe743d32f23f1ac20c3b654e279dc07d0baaa955",
+ "date": "2025-10-03",
+ "subject": "Improve the loan calculator's print preview and layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 87175
+}

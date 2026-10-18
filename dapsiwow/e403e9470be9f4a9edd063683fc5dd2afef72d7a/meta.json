@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e403e9470be9f4a9edd063683fc5dd2afef72d7a",
+ "parent": "4b3154fe149c07546719bbac8228eb0f50d89663",
+ "date": "2025-10-02",
+ "subject": "Assistant checkpoint: Made Education Loan Calculator fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/education-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 88906
+}

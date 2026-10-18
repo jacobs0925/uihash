@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "1588f80a8b6b4aea1c8df30fd44d94a4a252f55d",
+ "parent": "9d117644b167df19c180f25fdf6ddf2d09047552",
+ "date": "2026-07-29",
+ "subject": "Added embed code to showcase",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/ShowcaseEmbed.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 70292
+}

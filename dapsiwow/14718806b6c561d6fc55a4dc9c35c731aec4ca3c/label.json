@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "14718806b6c561d6fc55a4dc9c35c731aec4ca3c",
+ "date": "2025-10-04",
+ "pr": null,
+ "title": "Improve website design and responsiveness for better user experience",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 3068 later commits"
+}

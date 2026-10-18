@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a655a03b6be63cd614adf753f86f237d034addd1",
+ "parent": "35ff377776fa516e5dbc062390a8cc27917cabf1",
+ "date": "2025-10-03",
+ "subject": "Assistant checkpoint",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "client/public/dapsiwow-print-logo.svg",
+  "client/src/components/LoanPrintReport.tsx",
+  "client/src/index.css",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 88725
+}

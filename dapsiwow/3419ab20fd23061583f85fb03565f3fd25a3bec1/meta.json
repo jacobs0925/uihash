@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "3419ab20fd23061583f85fb03565f3fd25a3bec1",
+ "parent": "c3a7b9a7cb0fea436cf25cc0ff5eb795c25a8612",
+ "date": "2025-10-05",
+ "subject": "Add mortgage calculator features to the EMI calculator including sharing and charting",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1759636898550.png",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 107472
+}

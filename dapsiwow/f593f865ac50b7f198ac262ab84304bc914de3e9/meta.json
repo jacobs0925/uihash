@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "f593f865ac50b7f198ac262ab84304bc914de3e9",
+ "parent": "d93a9d47e82da4afbadeed909584d3ad8065a4bc",
+ "date": "2025-10-04",
+ "subject": "Assistant checkpoint: Updated amortization schedule to match mortgage calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 93144
+}

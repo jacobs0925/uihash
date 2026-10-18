@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "96f358b75978da3bf37b7e6227996909290ddf01",
+ "parent": "d7a3675daed7ac86654ebeffc1c48cb54b7f76be",
+ "date": "2025-10-04",
+ "subject": "Assistant checkpoint: Updated loan calculator table styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 99745
+}

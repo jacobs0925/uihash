@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "7d1f6cb9385f226b37c6f3a6a5e12d0a01b0d546",
+ "date": "2025-10-04",
+ "pr": null,
+ "title": "Assistant checkpoint: Updated Mortgage Calculator to match Loan Calculator",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: block → grid undone by c5b5502c \"Add comprehensive details and calculations to the mortgage affordability analysis\"; padding-right: 16px → 0px undone by c5b5502c \"Add comprehensive details and calculations to the mortgage affordability analysis\"; padding-left: 16px → 0px undone by c5b5502c \"Add comprehensive details and calculations to the mortgage affordability analysis\""
+}

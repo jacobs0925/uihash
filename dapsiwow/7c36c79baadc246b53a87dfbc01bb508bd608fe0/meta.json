@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "7c36c79baadc246b53a87dfbc01bb508bd608fe0",
+ "parent": "5a0ece8443b6b4835894f87715b10e9b1bc73339",
+ "date": "2025-10-04",
+ "subject": "Assistant checkpoint: Remove FAQ section from mortgage calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 100120
+}

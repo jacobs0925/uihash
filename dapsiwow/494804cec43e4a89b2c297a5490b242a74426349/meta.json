@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "494804cec43e4a89b2c297a5490b242a74426349",
+ "parent": "0437fc024b08fafac90bf0e1e6b7d1bf110752b5",
+ "date": "2025-10-03",
+ "subject": "Assistant checkpoint: Remove print functionality from loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 87138
+}

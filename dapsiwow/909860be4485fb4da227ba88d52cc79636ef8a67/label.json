@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "909860be4485fb4da227ba88d52cc79636ef8a67",
+ "date": "2025-10-02",
+ "pr": null,
+ "title": "Assistant checkpoint: Made footer fully responsive",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by ec19a868, which restored 4fd4c160 (1 commit discarded)"
+}

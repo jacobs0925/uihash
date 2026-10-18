@@ -1,0 +1,28 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e20ff9de784ef32e4a401225eedea41030494456",
+ "parent": "a655a03b6be63cd614adf753f86f237d034addd1",
+ "date": "2025-10-03",
+ "subject": "Restored to '494804cec43e4a89b2c297a5490b242a74426349'",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Untitled design (5)_1759510312247.png",
+  "attached_assets/image_1759510317710.png",
+  "attached_assets/image_1759510429379.png",
+  "attached_assets/image_1759510435979.png",
+  "client/public/dapsiwow-print-logo.svg",
+  "client/src/components/LoanPrintReport.tsx",
+  "client/src/index.css",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 85967
+}

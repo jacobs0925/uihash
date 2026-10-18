@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "eb163a3e5c20eea458ed722cf76f96a2ebfa1e5d",
+ "date": "2025-10-05",
+ "pr": null,
+ "title": "Align EMI calculator results design with mortgage calculator layout",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 3014 later commits"
+}

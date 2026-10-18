@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "0dac9a56426213f67f268ac76025de66ffdce17c",
+ "parent": "ec1019dd5361c15db626cac04868d31ce448bd8c",
+ "date": "2025-10-04",
+ "subject": "Add option to download loan calculation results as a PDF file",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 108058
+}

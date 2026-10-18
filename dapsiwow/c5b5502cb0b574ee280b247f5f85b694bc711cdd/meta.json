@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "c5b5502cb0b574ee280b247f5f85b694bc711cdd",
+ "parent": "dbdee19812d5b1a8f5f6a933b1e0781fb135e31c",
+ "date": "2025-10-04",
+ "subject": "Add comprehensive details and calculations to the mortgage affordability analysis",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 22,
+ "ms": 113679
+}

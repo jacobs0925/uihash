@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ec19a8681acc4c790537b34e72bae342b9e09e0c",
+ "parent": "909860be4485fb4da227ba88d52cc79636ef8a67",
+ "date": "2025-10-02",
+ "subject": "Restored to '4fd4c160fd4551014113883fa666d9a03facc577'",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 19,
+ "ms": 133166
+}

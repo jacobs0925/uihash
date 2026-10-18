@@ -1,0 +1,31 @@
+{
+ "repo": "heartlines",
+ "sha": "b7af06fc6b1848daf05285d4a9773dd1bb4fdad6",
+ "parent": "7a717b2cbc726efdeb0f512dd0c0c10365e29273",
+ "date": "2026-08-02",
+ "subject": "Updated hero carousel imports",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  ".lovable/plan/hero-carousel-cheesier-more-character-forward-portraits-2026-08-02.md",
+  "src/assets/hero-carousel/cheesy/asian-couple.jpg",
+  "src/assets/hero-carousel/cheesy/couple-on-couch.jpg",
+  "src/assets/hero-carousel/cheesy/cowboys-with-wheelchair.jpg",
+  "src/assets/hero-carousel/cheesy/friends-with-cats.jpg",
+  "src/assets/hero-carousel/cheesy/joyful-heritage-living-room.jpg",
+  "src/assets/hero-carousel/cheesy/man-with-framed-memory.jpg",
+  "src/assets/hero-carousel/cheesy/native-american-women.jpg",
+  "src/assets/hero-carousel/cheesy/pride-couple.jpg",
+  "src/assets/hero-carousel/cheesy/retro-peace.jpg",
+  "src/assets/hero-carousel/cheesy/warm-gathering.jpg",
+  "src/components/landing/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 68610
+}

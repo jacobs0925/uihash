@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "9505edcc03b11be4740204369b6439009f125b55",
+ "parent": "ad0016b61ee5e483e183956001025ac640a91eca",
+ "date": "2025-10-05",
+ "subject": "Update EMI calculator payment schedule to match loan calculator functionality",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 104252
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "7d1f6cb9385f226b37c6f3a6a5e12d0a01b0d546",
+ "parent": "e306729ff6f0fc1a7dcc995f90bbf343c9c6153e",
+ "date": "2025-10-04",
+ "subject": "Assistant checkpoint: Updated Mortgage Calculator to match Loan Calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 26,
+ "ms": 123538
+}

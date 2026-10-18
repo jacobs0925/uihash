@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e306729ff6f0fc1a7dcc995f90bbf343c9c6153e",
+ "parent": "23e14f1e02d28a1cea7fcb459c9924eaf4eb41d4",
+ "date": "2025-10-04",
+ "subject": "Assistant checkpoint: Removed sidebar AdSense placeholder",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 6,
+ "ms": 142271
+}

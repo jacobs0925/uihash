@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "e306729ff6f0fc1a7dcc995f90bbf343c9c6153e",
+ "date": "2025-10-04",
+ "pr": null,
+ "title": "Assistant checkpoint: Removed sidebar AdSense placeholder",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 3131 later commits"
+}

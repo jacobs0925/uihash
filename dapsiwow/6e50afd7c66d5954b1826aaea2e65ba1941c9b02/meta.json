@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "6e50afd7c66d5954b1826aaea2e65ba1941c9b02",
+ "parent": "d8cdad5d29552c26d265f48f01d74e6d9c0f47f0",
+ "date": "2025-10-04",
+ "subject": "Assistant checkpoint: Made amortization schedule header clickable to hide",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 94325
+}

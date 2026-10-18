@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "128e2767bc70d37e9f6b50c4b14b498f8ca5f68b",
+ "date": "2025-10-04",
+ "pr": null,
+ "title": "Restored to 'bc54cbf5fd1c8c283c648eb3d940891d0e944f0f'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "flex-direction: column-reverse → column undone by f9475547 \"Assistant checkpoint\"; flex-direction: column-reverse → column undone by f9475547 \"Assistant checkpoint\"; flex-direction: column-reverse → column undone by f9475547 \"Assistant checkpoint\""
+}

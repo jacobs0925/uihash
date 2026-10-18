@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "72815dca3098fb08dd013a743b1f185b96578a1a",
+ "parent": "799db1d1ac55adce2b47819cb5027e5130c0b6ad",
+ "date": "2025-10-04",
+ "subject": "Remove print functionality and zero display from mortgage calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1759544156592.png",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 87883
+}

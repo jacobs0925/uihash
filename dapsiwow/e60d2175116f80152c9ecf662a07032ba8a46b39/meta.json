@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e60d2175116f80152c9ecf662a07032ba8a46b39",
+ "parent": "b1061f6edcf7f810f4693e519a3aab95c5bb6229",
+ "date": "2025-10-04",
+ "subject": "Assistant checkpoint",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 19,
+ "ms": 109444
+}

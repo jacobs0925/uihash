@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "c5b5502cb0b574ee280b247f5f85b694bc711cdd",
+ "date": "2025-10-04",
+ "pr": null,
+ "title": "Add comprehensive details and calculations to the mortgage affordability analysis",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-bottom: 32px → 24px undone by e60d2175 \"Assistant checkpoint\"; display: grid → flex undone by e60d2175 \"Assistant checkpoint\"; display: block → flex undone by e60d2175 \"Assistant checkpoint\""
+}

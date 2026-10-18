@@ -1,0 +1,4 @@
+[
+ "tools/mortgage-calculator|hover||loss|hover feedback|hovering no longer changes 1 element: img.w-8; in the base hover changed transform: none → matrix(1.05, 0, 0, 1.05, 0, 0)",
+ "tools/mortgage-calculator|hover||same-data|img (same data, drawn differently)|transform: matrix(1.05, 0, 0, 1.05, 0, 0) → ∅"
+]

@@ -1,0 +1,31 @@
+{
+ "repo": "heartlines",
+ "sha": "832d38b1b74fa2436d2920ed3dde75af8fca7001",
+ "parent": "33059e8da2af8dbb3950ff1c97e1c4385f3d4b95",
+ "date": "2026-08-02",
+ "subject": "Regenerated 10 slides with 75+ subjects",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  ".lovable/plan/hero-carousel-no-cropped-heads-everyone-reads-70-2026-08-02.md",
+  "src/assets/hero-carousel/cheesy/asian-couple.jpg",
+  "src/assets/hero-carousel/cheesy/couple-on-couch.jpg",
+  "src/assets/hero-carousel/cheesy/cowboys-with-wheelchair.jpg",
+  "src/assets/hero-carousel/cheesy/friends-with-cats.jpg",
+  "src/assets/hero-carousel/cheesy/joyful-heritage-living-room.jpg",
+  "src/assets/hero-carousel/cheesy/man-with-framed-memory.jpg",
+  "src/assets/hero-carousel/cheesy/native-american-women.jpg",
+  "src/assets/hero-carousel/cheesy/pride-couple.jpg",
+  "src/assets/hero-carousel/cheesy/retro-peace.jpg",
+  "src/assets/hero-carousel/cheesy/warm-gathering.jpg",
+  "src/components/landing/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 69462
+}

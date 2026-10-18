@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "1cdd98c1b57903d2529d727737ba7b1ca19d6955",
+ "date": "2025-10-05",
+ "pr": null,
+ "title": "Rearrange calculator layout to place results below configuration options",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 3038 later commits"
+}

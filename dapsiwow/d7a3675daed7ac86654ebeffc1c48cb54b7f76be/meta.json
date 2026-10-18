@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d7a3675daed7ac86654ebeffc1c48cb54b7f76be",
+ "parent": "fb2d48c9b61252e692d13ae06d900b1b081d396f",
+ "date": "2025-10-04",
+ "subject": "Assistant checkpoint: Made amortization table horizontally scrollable",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "client/src/index.css",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 97069
+}

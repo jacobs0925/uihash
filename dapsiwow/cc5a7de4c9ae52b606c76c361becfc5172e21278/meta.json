@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "cc5a7de4c9ae52b606c76c361becfc5172e21278",
+ "parent": "9b8f2c18a4fcf3f723465a3fdc0edbe11b07060a",
+ "date": "2025-10-04",
+ "subject": "Add functionality to download loan amortization schedules as PDFs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 94474
+}

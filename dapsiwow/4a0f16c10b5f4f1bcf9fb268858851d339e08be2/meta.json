@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4a0f16c10b5f4f1bcf9fb268858851d339e08be2",
+ "parent": "fa67484bfb35f5f3537080d85645b2dea7abdf01",
+ "date": "2025-10-05",
+ "subject": "Assistant checkpoint: Add Schedule, Chart, Share & PDF export to EMI calc",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 128776
+}

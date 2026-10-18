@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a1f75c076c3ff5ae9dac21265200aa22da723c11",
+ "parent": "f593f865ac50b7f198ac262ab84304bc914de3e9",
+ "date": "2025-10-04",
+ "subject": "Assistant checkpoint: Added responsive table for mobile screens",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 99277
+}

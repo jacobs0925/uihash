@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9d117644b167df19c180f25fdf6ddf2d09047552",
+ "parent": "b9a30323f03d21ce825d7bfdbc94c4d5088dbd29",
+ "date": "2026-07-29",
+ "subject": "Removed subtext under Kai",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/showcase/KaiScreenRecording.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 72878
+}

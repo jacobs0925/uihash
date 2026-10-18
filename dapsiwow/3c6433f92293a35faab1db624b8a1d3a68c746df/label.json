@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "3c6433f92293a35faab1db624b8a1d3a68c746df",
+ "date": "2025-10-03",
+ "pr": null,
+ "title": "Assistant checkpoint: Fix missing result state variable",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 3152 later commits"
+}

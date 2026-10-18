@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "429219529cd2eecb91781a26d1f46de1fb18c06e",
+ "parent": "917e35b1b733feb226260da9f2da221156faffe6",
+ "date": "2025-10-04",
+ "subject": "Add horizontal drag scrolling to the mortgage calculator table",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1759595438432.png",
+  "client/src/pages/mortgage-calculator.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 114493
+}

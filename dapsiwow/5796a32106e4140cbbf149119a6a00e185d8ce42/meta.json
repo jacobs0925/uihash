@@ -1,0 +1,26 @@
+{
+ "repo": "dapsiwow",
+ "sha": "5796a32106e4140cbbf149119a6a00e185d8ce42",
+ "parent": "96636963249fa973b23258af1caf999063bb8b56",
+ "date": "2025-10-04",
+ "subject": "Enhance mortgage calculator page for search engines and ad revenue",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/Pasted-Project-Goal-Upgrade-the-Mortgage-Calculator-tool-page-for-SEO-Google-ranking-and-AdSense-complia-1759552286599_1759552286600.txt",
+  "client/src/pages/mortgage-calculator.tsx",
+  "package-lock.json",
+  "package.json"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 34,
+ "ms": 149032
+}

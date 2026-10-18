@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e148656cf4073d8aaef8516dee1ee778c39b6262",
+ "parent": "d2f5afb27ad3d888297b92a5d0153f1c581042ff",
+ "date": "2025-10-04",
+ "subject": "Make the mortgage calculator results chart fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 96288
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d88fab7d8c49fe2a24a27753b525ee9d3fe53477",
+ "parent": "b9bf1e6b1e7cbc83209e06f3394c6b173c0e6430",
+ "date": "2025-10-05",
+ "subject": "Add loan amortization schedule and improved charts to EMI calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1759641703528.png",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 105379
+}

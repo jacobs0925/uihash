@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "3c6433f92293a35faab1db624b8a1d3a68c746df",
+ "parent": "b213d7d0ca2fd6157672375ad66fa115c2e3d2f9",
+ "date": "2025-10-03",
+ "subject": "Assistant checkpoint: Fix missing result state variable",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 89291
+}

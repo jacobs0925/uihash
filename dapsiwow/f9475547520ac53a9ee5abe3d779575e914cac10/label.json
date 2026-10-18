@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "f9475547520ac53a9ee5abe3d779575e914cac10",
+ "date": "2025-10-04",
+ "pr": null,
+ "title": "Assistant checkpoint",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 128e2767, which restored bc54cbf5 (1 commit discarded)"
+}

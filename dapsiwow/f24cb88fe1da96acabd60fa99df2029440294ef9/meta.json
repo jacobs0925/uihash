@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "f24cb88fe1da96acabd60fa99df2029440294ef9",
+ "parent": "c7e7eb830b4be13007ea2d0ec668ae9f0bb91f98",
+ "date": "2025-10-02",
+ "subject": "Assistant checkpoint: Made Currency Percentage Change Calculator fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/currency-percentage-change-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 86262
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "4a0f16c10b5f4f1bcf9fb268858851d339e08be2",
+ "date": "2025-10-05",
+ "pr": null,
+ "title": "Assistant checkpoint: Add Schedule, Chart, Share & PDF export to EMI calc",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by ca229c15, which restored fa67484b (1 commit discarded)"
+}

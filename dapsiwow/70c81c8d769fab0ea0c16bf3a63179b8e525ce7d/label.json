@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "70c81c8d769fab0ea0c16bf3a63179b8e525ce7d",
+ "date": "2025-10-05",
+ "pr": null,
+ "title": "Assistant checkpoint: Made EMI Calculator fully responsive across all screen sizes",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 3030 later commits"
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "017824d490ffbbc21352b36f443ec534fb9b90bc",
+ "parent": "17337f5d7e0e4d6bd009782f46a19692b24720f3",
+ "date": "2025-10-04",
+ "subject": "Improve the appearance of the loan calculator PDF export",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 101033
+}

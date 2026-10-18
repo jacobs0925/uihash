@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "837ec6d5e93bee797ee5a4b597094bef0a771f9b",
+ "parent": "1a9478a38ab63c6989105d31d78f3636b3c4f442",
+ "date": "2025-10-03",
+ "subject": "Improve the display of loan calculator results",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1759495301424.png",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 88010
+}

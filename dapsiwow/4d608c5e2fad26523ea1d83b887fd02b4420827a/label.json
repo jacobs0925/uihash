@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "4d608c5e2fad26523ea1d83b887fd02b4420827a",
+ "date": "2025-10-04",
+ "pr": null,
+ "title": "Assistant checkpoint: Moved trust signals above How to Use section",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 490d87ec, which restored 8e7da54a (1 commit discarded)"
+}

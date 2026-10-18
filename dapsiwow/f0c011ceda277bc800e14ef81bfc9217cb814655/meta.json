@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "f0c011ceda277bc800e14ef81bfc9217cb814655",
+ "parent": "14abe22975dfcb44b370dfb42f0e45258f2dd94b",
+ "date": "2025-10-04",
+ "subject": "Assistant checkpoint: Mobile-friendly amortization schedule",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 98220
+}

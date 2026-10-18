@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "7c59a0c5ebe7698bfbae723bde735cf70f2452ba",
+ "parent": "7d1f6cb9385f226b37c6f3a6a5e12d0a01b0d546",
+ "date": "2025-10-04",
+ "subject": "Assistant checkpoint: Enhanced mortgage calculator charts with better visuals",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 98374
+}

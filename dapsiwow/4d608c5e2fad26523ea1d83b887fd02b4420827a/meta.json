@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4d608c5e2fad26523ea1d83b887fd02b4420827a",
+ "parent": "8e7da54acca192cf21290af6697f56134648e30a",
+ "date": "2025-10-04",
+ "subject": "Assistant checkpoint: Moved trust signals above How to Use section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 119699
+}

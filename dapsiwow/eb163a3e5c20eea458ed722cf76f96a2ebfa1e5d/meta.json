@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "eb163a3e5c20eea458ed722cf76f96a2ebfa1e5d",
+ "parent": "eca04a02b825942e4ce66920d61d7e134d32e8b6",
+ "date": "2025-10-05",
+ "subject": "Align EMI calculator results design with mortgage calculator layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 6,
+ "ms": 135841
+}

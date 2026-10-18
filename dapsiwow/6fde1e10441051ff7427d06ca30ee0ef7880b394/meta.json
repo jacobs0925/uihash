@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "6fde1e10441051ff7427d06ca30ee0ef7880b394",
+ "parent": "86229c802e739f01d5e2684670406920f76159f5",
+ "date": "2025-10-04",
+ "subject": "Assistant checkpoint: Made amortization header clickable",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 94802
+}

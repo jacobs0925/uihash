@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d3a351961ebaafdf3f978d0374413332b7ef817e",
+ "parent": "5695b30f5f368edd16a9d7c4d0a098f1977d4ab1",
+ "date": "2025-10-04",
+ "subject": "Add ability to export mortgage amortization schedule as PDF",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1759586994895.png",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 93297
+}

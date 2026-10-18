@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ea554a9e9f53eeb14c81757fe97ce8d7688f91a4",
+ "parent": "835c6cc6d56b70c397a0918766444089cd5e8efa",
+ "date": "2025-10-04",
+ "subject": "Assistant checkpoint: Remove SEO content below FAQ section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 105990
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0af79f21374b68272c53a55e97907464a9537e9c",
+ "parent": "a3246fc384cc4187dd2f8ba24473c5925e1b05ff",
+ "date": "2025-11-03",
+ "subject": "Fix: Change orb colors to burgundy tones",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PremiumBackground.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 91011
+}

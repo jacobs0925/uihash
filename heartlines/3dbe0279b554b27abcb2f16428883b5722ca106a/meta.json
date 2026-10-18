@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3dbe0279b554b27abcb2f16428883b5722ca106a",
+ "parent": "9ceb09718dcf3e90791811352bd980b4be9c4884",
+ "date": "2025-11-03",
+ "subject": "Fix: Reapply mobile background styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60142
+}

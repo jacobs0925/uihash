@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "294083e60a7967382e24bbb3c2f4059387269641",
+ "parent": "d85b5d3b06b33c6a4dabd70e4e8820ac1d00b810",
+ "date": "2025-11-05",
+ "subject": "Fix: Adjust mobile chat input padding",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59820
+}

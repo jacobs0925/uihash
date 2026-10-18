@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "e5fef72c8b144eb4aa97aa90f700576670fc86ad",
+ "parent": "84f0e7d162d95dca6c55cc659c024d66e83281f6",
+ "date": "2025-11-05",
+ "subject": "Fix mobile chat padding dynamically",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/MemoizedChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59748
+}

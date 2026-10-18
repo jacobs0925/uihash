@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ff4bb95c801993c07cec9931a1bf43948610913b",
+ "parent": "12fcde5fc0bb5ce1e5db34f6cadede9eab0786f3",
+ "date": "2025-11-06",
+ "subject": "Fix avatar glow clipping",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59362
+}

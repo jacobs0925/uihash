@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9ff6b53f8a4bb28aeaa9325c7196d7607b4369fd",
+ "parent": "df89ef37714474dc83db5eefa0a83ee785d82d3d",
+ "date": "2025-11-04",
+ "subject": "Fix profile update logic",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useProgressiveAccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59423
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "89d17ba2bcdf699d0903c73b0638b49e4d33ffc1",
+ "parent": "b214b7aeae8665595d77a5c6747cc78f1e7e07b8",
+ "date": "2025-11-06",
+ "subject": "Fix background z-index on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PremiumBackground.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 74847
+}

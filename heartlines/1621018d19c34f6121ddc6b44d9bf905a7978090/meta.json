@@ -1,0 +1,25 @@
+{
+ "repo": "heartlines",
+ "sha": "1621018d19c34f6121ddc6b44d9bf905a7978090",
+ "parent": "7ee271586d5e673c40d2832551c4726f86f62c57",
+ "date": "2025-11-04",
+ "subject": "Fix iOS chat glow",
+ "components": [
+  "components",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatHeader.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/pages/Dashboard.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 67354
+}

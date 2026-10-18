@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "a6edba1a393e8b406bf7b5baf11222e6b099dc47",
+ "parent": "1bdafee5ae034aa26ff6b374c5fbdaec0e1253db",
+ "date": "2025-11-05",
+ "subject": "Fix mobile chat header overlap",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59698
+}

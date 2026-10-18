@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1bdafee5ae034aa26ff6b374c5fbdaec0e1253db",
+ "parent": "c6c2744934894b8e39a1b2402d64c792b3ad597e",
+ "date": "2025-11-05",
+ "subject": "Fix: Add spacing to chat input",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60028
+}

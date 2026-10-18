@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "64df62622c4d1f0ded54d0d9181b95f02812662c",
+ "parent": "5a4619b98d4ebf62ca0e03b0fa66f011c2567368",
+ "date": "2025-11-03",
+ "subject": "Fix: Make mobile chat bottom bar transparent",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60052
+}

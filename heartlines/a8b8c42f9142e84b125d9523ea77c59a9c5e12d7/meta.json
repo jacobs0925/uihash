@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "a8b8c42f9142e84b125d9523ea77c59a9c5e12d7",
+ "parent": "3a728b9516954140883adcefa068fb4cb94a38cb",
+ "date": "2025-11-03",
+ "subject": "Fix inline style color parsing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59420
+}

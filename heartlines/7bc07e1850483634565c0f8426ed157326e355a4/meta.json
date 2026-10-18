@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7bc07e1850483634565c0f8426ed157326e355a4",
+ "parent": "53fd830e5e342a74a64cbc0e284c82a676d24397",
+ "date": "2025-11-03",
+ "subject": "Fix global background color",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 96637
+}

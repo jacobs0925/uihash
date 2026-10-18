@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "759b0c3b3b4a53fc48a8bcd6d308e4a532c73a15",
+ "parent": "fd52dbfb00c01917238747d2d07449892fa809e0",
+ "date": "2025-11-06",
+ "subject": "Fix profile card layout on tablet",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60931
+}

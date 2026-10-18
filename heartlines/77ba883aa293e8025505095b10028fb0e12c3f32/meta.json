@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "77ba883aa293e8025505095b10028fb0e12c3f32",
+ "parent": "9ff6b53f8a4bb28aeaa9325c7196d7607b4369fd",
+ "date": "2025-11-04",
+ "subject": "Refactor: Update backgrounds to burgundy-800",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AdminDashboard.tsx",
+  "src/pages/BillingSuccess.tsx",
+  "src/pages/Dashboard.tsx",
+  "src/pages/NotFound.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 67896
+}

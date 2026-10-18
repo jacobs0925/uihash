@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "7edf03cb7680bd0785702892c7dda7cddd9a4eef",
+ "date": "2025-11-06",
+ "pr": null,
+ "title": "Refactor mobile navigation",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by af9035f2, which restored ba9f2919 (25 commits discarded)"
+}

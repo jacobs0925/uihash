@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "13aa54e0d3025e8b44a6e0c4ce436b4d484bcbe8",
+ "parent": "0ac9ed02ba5cda2945e82de997a1dead2b700cce",
+ "date": "2025-11-05",
+ "subject": "Fix chat footer transparency",
+ "components": [
+  "styles"
+ ],
+ "files": [
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60597
+}

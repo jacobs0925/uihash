@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "3a728b9516954140883adcefa068fb4cb94a38cb",
+ "parent": "fa1e7f00d5a7d7dad3a827bad7e3e702bbbd2647",
+ "date": "2025-11-03",
+ "subject": "Fix hardcoded purple backgrounds",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60099
+}

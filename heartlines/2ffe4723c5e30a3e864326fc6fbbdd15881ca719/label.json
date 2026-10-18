@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "2ffe4723c5e30a3e864326fc6fbbdd15881ca719",
+ "date": "2025-11-04",
+ "pr": null,
+ "title": "Reverted to commit 396744c55e79bd688a15cb1ac04a0c2a5c66899c",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "margin-bottom: 24px → 16px undone by 6fef64a4 \"Fix /plans header on mobile\"; padding-right: 8px → 0px undone by 6fef64a4 \"Fix /plans header on mobile\"; padding-left: 8px → 0px undone by 6fef64a4 \"Fix /plans header on mobile\""
+}

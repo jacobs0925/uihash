@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "98fc1f13de8216e4ec54a5e136dc28bd7d2170b0",
+ "date": "2025-11-05",
+ "pr": null,
+ "title": "Fix: Ensure consistent CTA gradient",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1079 later commits"
+}

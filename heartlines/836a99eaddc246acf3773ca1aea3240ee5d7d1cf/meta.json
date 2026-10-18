@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "836a99eaddc246acf3773ca1aea3240ee5d7d1cf",
+ "parent": "759b0c3b3b4a53fc48a8bcd6d308e4a532c73a15",
+ "date": "2025-11-06",
+ "subject": "Fix mobile coach page background",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60949
+}

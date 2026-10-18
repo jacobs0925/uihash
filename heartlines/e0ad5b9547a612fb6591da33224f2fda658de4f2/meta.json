@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e0ad5b9547a612fb6591da33224f2fda658de4f2",
+ "parent": "db896d66565d034cb9b38c4af631737d2a65cb26",
+ "date": "2025-11-04",
+ "subject": "Fix redirect on locked profile",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useDashboardModalHandlers.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58856
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "95c1e3305d2ea41b9b2fe788e3e78d1da1b17a8a",
+ "date": "2025-11-04",
+ "pr": null,
+ "title": "Fix gradient header visibility",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1119 later commits"
+}

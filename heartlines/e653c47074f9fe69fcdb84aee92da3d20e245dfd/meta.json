@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e653c47074f9fe69fcdb84aee92da3d20e245dfd",
+ "parent": "761fadfb8113fe5f8de80f3ce7d61719b0a77187",
+ "date": "2025-11-03",
+ "subject": "Fix: Prevent text overlap on homepage",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60023
+}

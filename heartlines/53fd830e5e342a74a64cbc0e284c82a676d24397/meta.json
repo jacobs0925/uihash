@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "53fd830e5e342a74a64cbc0e284c82a676d24397",
+ "parent": "a8b8c42f9142e84b125d9523ea77c59a9c5e12d7",
+ "date": "2025-11-03",
+ "subject": "Fix mobile CSS color values",
+ "components": [
+  "styles"
+ ],
+ "files": [
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60021
+}

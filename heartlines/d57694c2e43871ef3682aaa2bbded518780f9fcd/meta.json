@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "d57694c2e43871ef3682aaa2bbded518780f9fcd",
+ "parent": "89d17ba2bcdf699d0903c73b0638b49e4d33ffc1",
+ "date": "2025-11-06",
+ "subject": "Fix profile page background visibility",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/PremiumBackground.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 88828
+}

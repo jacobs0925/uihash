@@ -1,0 +1,26 @@
+{
+ "repo": "heartlines",
+ "sha": "a3246fc384cc4187dd2f8ba24473c5925e1b05ff",
+ "parent": "9659c96675b935dbd17dd396b5beb0c6f6690706",
+ "date": "2025-11-03",
+ "subject": "Fix: Unify chat interface colors",
+ "components": [
+  "components",
+  "index.css",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/index.css",
+  "src/pages/Dashboard.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 95185
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ebf3e0eb3260cd114df3a37e8feb149b18860a49",
+ "parent": "9f1fbf06e187a2819cdc130a4849047bd26a139b",
+ "date": "2025-11-03",
+ "subject": "Refactor: Adjust mobile burgundy hue",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60027
+}

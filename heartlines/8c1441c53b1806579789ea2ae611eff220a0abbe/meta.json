@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "8c1441c53b1806579789ea2ae611eff220a0abbe",
+ "parent": "123ba5ea1a9ddbace8c1499bd1f6837e5a7d04df",
+ "date": "2025-11-06",
+ "subject": "feat: Integrate scroll-to-top arrow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61387
+}

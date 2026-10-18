@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5118164c5bce1dc21f4a2f18091616e1fceae372",
+ "parent": "1f943e2368ded9442d6821607acb534ba0f3a350",
+ "date": "2025-11-05",
+ "subject": "Fix mobile input focus scroll",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59987
+}

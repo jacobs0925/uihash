@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "d57694c2e43871ef3682aaa2bbded518780f9fcd",
+ "date": "2025-11-06",
+ "pr": null,
+ "title": "Fix profile page background visibility",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1042 later commits"
+}

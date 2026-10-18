@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "094ef1cd45f0d2827dc884911907a1ecd32a6665",
+ "parent": "3efce5e63236a016d9ae5bc891e9058983e7d7dd",
+ "date": "2025-11-05",
+ "subject": "Fix mobile message positioning",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60358
+}

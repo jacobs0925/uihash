@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d85b5d3b06b33c6a4dabd70e4e8820ac1d00b810",
+ "parent": "02aaec4e97ae2bfa80a2d01ec8cf7d2f0c39e621",
+ "date": "2025-11-05",
+ "subject": "Fix: Remove scroll to top arrow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59478
+}

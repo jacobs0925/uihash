@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2a4c22ab909e11869d182d77b0029f864587d29d",
+ "parent": "2687b37b6b43bd999a076ee38fb4be01f9c99fc1",
+ "date": "2025-11-05",
+ "subject": "Fix chat interface background",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConversationStarters.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59475
+}

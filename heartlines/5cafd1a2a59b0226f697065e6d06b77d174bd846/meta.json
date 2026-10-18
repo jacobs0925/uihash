@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5cafd1a2a59b0226f697065e6d06b77d174bd846",
+ "parent": "b5ba8530083bb5f38d60dfb76ede9f7c758c8d20",
+ "date": "2025-11-05",
+ "subject": "Fix: Prevent chat bubbles from hiding",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60344
+}

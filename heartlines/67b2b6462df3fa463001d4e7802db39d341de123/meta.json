@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "67b2b6462df3fa463001d4e7802db39d341de123",
+ "parent": "31fa04313c3ac5fa7a63dce91926bd1fbec01b2a",
+ "date": "2025-11-06",
+ "subject": "Fix muted colors on mobile/tablet",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/ConversationStarters.tsx",
+  "src/components/DashboardHeader.tsx",
+  "src/components/HowItWorksSwipe.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60202
+}

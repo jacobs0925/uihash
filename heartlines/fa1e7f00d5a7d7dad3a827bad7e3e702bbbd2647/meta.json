@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "fa1e7f00d5a7d7dad3a827bad7e3e702bbbd2647",
+ "parent": "3ec85acfd9dd2e55b0068e564800165898abcb61",
+ "date": "2025-11-03",
+ "subject": "Fix purple interface on iPhone",
+ "components": [
+  "index.css",
+  "styles"
+ ],
+ "files": [
+  "src/index.css",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60158
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "db896d66565d034cb9b38c4af631737d2a65cb26",
+ "date": "2025-11-04",
+ "pr": null,
+ "title": "Fix spacing on plan page CTA buttons",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1132 later commits"
+}

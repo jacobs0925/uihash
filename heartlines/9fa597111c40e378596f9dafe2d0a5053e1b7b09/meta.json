@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "9fa597111c40e378596f9dafe2d0a5053e1b7b09",
+ "parent": "5b4b8445048fcc1a19288a05b200a8c46f54f68f",
+ "date": "2025-11-05",
+ "subject": "Refactor checkout success flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Dashboard.tsx",
+  "supabase/functions/create-checkout/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 68154
+}

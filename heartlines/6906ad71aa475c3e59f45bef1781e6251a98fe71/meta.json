@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "6906ad71aa475c3e59f45bef1781e6251a98fe71",
+ "parent": "8c50b260660daca16e888d5db4ac1374b6393900",
+ "date": "2025-11-06",
+ "subject": "Fix mobile navigation menu issues",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/SignInButton.tsx",
+  "src/components/ui/popover.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60979
+}

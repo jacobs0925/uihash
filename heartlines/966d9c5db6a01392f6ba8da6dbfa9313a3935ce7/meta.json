@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "966d9c5db6a01392f6ba8da6dbfa9313a3935ce7",
+ "parent": "e46e19a63091da827f83284beca7ac60952d2b7c",
+ "date": "2025-11-05",
+ "subject": "Fix mobile chat padding",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60179
+}

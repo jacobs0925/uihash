@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "f82dd0ac733599b3da4e9c119694196091e88046",
+ "date": "2025-11-04",
+ "pr": null,
+ "title": "Fix header visibility on plans page",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 7c0525b3, which restored 396744c5 (2 commits discarded)"
+}

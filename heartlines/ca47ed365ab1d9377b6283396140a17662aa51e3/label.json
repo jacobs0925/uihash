@@ -5,8 +5,8 @@
  "date": "2025-10-29",
  "pr": null,
  "title": "Fix: Align pricing cards on desktop",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1322 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "min-height: ∅ → 200px undone by 396744c5 \"Fix pricing page layout\"; min-height: ∅ → 200px undone by 396744c5 \"Fix pricing page layout\"; min-height: ∅ → 200px undone by 396744c5 \"Fix pricing page layout\""
 }

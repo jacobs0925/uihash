@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "b214b7aeae8665595d77a5c6747cc78f1e7e07b8",
+ "parent": "47be0ec67da7ead6fa955cb46aab75b199bbbaa4",
+ "date": "2025-11-06",
+ "subject": "Fix: Make premium background visible on all devices",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/PremiumBackground.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 67563
+}

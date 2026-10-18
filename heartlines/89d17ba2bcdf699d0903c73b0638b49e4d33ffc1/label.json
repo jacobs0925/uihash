@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "89d17ba2bcdf699d0903c73b0638b49e4d33ffc1",
+ "date": "2025-11-06",
+ "pr": null,
+ "title": "Fix background z-index on mobile",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1043 later commits"
+}

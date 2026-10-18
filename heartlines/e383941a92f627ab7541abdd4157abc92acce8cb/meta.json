@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e383941a92f627ab7541abdd4157abc92acce8cb",
+ "parent": "3c28c619f400bdd58c0af705175ee9b42de66c00",
+ "date": "2025-11-05",
+ "subject": "Fix: Improve Billing Success Page styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/BillingSuccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60463
+}

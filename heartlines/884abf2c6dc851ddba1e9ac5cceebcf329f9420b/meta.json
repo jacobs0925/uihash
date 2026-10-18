@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "884abf2c6dc851ddba1e9ac5cceebcf329f9420b",
+ "parent": "813d89da54bec4816faba556f3a38fc31b42dc35",
+ "date": "2025-11-04",
+ "subject": "Fix real-time access level updates",
+ "components": [
+  "hooks",
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useProgressiveAccess.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 67682
+}

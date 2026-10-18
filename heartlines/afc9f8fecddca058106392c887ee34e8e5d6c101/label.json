@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "afc9f8fecddca058106392c887ee34e8e5d6c101",
+ "date": "2025-11-04",
+ "pr": null,
+ "title": "Fix: Make pricing cards compact on tablet",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1134 later commits"
+}

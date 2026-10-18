@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "a087eee54a8fb4381a0b2acb8ba9c08627bc6e87",
+ "date": "2025-11-03",
+ "pr": null,
+ "title": "Refactor: Apply solid background color",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1146 later commits"
+}

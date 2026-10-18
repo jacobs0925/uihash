@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5648b115f258fcd39882d7babb2a97d5c36e23d9",
+ "parent": "8bd6a84e2f5bd4cf4e4ab17afa1b78a7191e04ab",
+ "date": "2025-11-05",
+ "subject": "Fix: Adjust chat container positioning",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59918
+}

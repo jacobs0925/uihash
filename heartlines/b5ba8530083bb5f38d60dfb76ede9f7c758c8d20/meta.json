@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b5ba8530083bb5f38d60dfb76ede9f7c758c8d20",
+ "parent": "c12110a1649f3a293036d2a216a8b35588b06bfe",
+ "date": "2025-11-05",
+ "subject": "Fix: Apply desktop spacing to tablet",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59491
+}

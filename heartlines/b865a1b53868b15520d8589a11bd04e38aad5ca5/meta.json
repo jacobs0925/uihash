@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "b865a1b53868b15520d8589a11bd04e38aad5ca5",
+ "parent": "0575f67597f01916c9234b328bacae7078a89403",
+ "date": "2025-11-04",
+ "subject": "feat: Add subscription status banner",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/account/SubscriptionStatusBanner.tsx",
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60023
+}

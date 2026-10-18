@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "68bf61bf19867a72e360921f6faf329ad07d4cd9",
+ "parent": "ba9f2919a671948ed9507e1750425f78c4c1e13b",
+ "date": "2025-11-06",
+ "subject": "Fix: Reduce avatar glow effects",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx",
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59568
+}

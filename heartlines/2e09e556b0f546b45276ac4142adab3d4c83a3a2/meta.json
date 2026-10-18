@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2e09e556b0f546b45276ac4142adab3d4c83a3a2",
+ "parent": "e8133cf09d2e1f5aadf10d2fcdc1e562baa95521",
+ "date": "2025-11-03",
+ "subject": "Fix text wrapping on homepage",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60054
+}

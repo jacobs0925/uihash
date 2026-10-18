@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "40870d2ec0516da7471eff3dc5bade031b3a2f96",
+ "parent": "13aa54e0d3025e8b44a6e0c4ce436b4d484bcbe8",
+ "date": "2025-11-05",
+ "subject": "Fix: Keep send button color consistent",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60020
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "7ee271586d5e673c40d2832551c4726f86f62c57",
+ "date": "2025-11-04",
+ "pr": null,
+ "title": "Reverted to commit 9659c96675b935dbd17dd396b5beb0c6f6690706",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-color: rgb(102, 0, 17) → rgb(92, 0, 28) undone by 2687b37b \"Fix color inconsistencies\"; background-color: rgb(102, 0, 17) → rgb(92, 0, 28) undone by 2687b37b \"Fix color inconsistencies\"; background-color: rgb(102, 0, 17) → rgb(92, 0, 28) undone by 2687b37b \"Fix color inconsistencies\""
+}

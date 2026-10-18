@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "9f2f3f862a54a9888e81c2f1be165c0bd9a40a5a",
+ "parent": "f5c1f8f33e3c777190a7ebc05953943d32c3f6dd",
+ "date": "2025-11-05",
+ "subject": "Fix mobile chat interface cutoff",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60626
+}

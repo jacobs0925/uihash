@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1bf315145be10a4ba01e0414b17124d00f981be6",
+ "parent": "d2ab3b4665f5efd4a70e12b181ba3a4a1cd002d1",
+ "date": "2025-11-06",
+ "subject": "Fix: Increase avatar padding on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58965
+}

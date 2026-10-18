@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "78494ebcd55b4efe1218316e3a89c739dbd6e89b",
+ "parent": "54294fb450c57ef98220f46c86d002997765de78",
+ "date": "2025-11-05",
+ "subject": "Fix coach interface color",
+ "components": [
+  "styles"
+ ],
+ "files": [
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59466
+}

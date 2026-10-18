@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "f5c1f8f33e3c777190a7ebc05953943d32c3f6dd",
+ "parent": "41f56110329da5a2c8a4750961e6198e1f7266fa",
+ "date": "2025-11-05",
+ "subject": "Refactor: Update navigation and chat auto-scroll",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/DashboardHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60564
+}

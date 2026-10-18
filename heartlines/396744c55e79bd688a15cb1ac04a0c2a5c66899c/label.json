@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "396744c55e79bd688a15cb1ac04a0c2a5c66899c",
+ "date": "2025-11-04",
+ "pr": null,
+ "title": "Fix pricing page layout",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1125 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "db896d66565d034cb9b38c4af631737d2a65cb26",
+ "parent": "9c4647b986b62af7ade923a1d3631ca593e0bd6a",
+ "date": "2025-11-04",
+ "subject": "Fix spacing on plan page CTA buttons",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 63401
+}

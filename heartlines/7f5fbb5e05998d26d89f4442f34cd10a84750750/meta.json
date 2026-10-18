@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7f5fbb5e05998d26d89f4442f34cd10a84750750",
+ "parent": "ebf3e0eb3260cd114df3a37e8feb149b18860a49",
+ "date": "2025-11-03",
+ "subject": "Fix: Change mobile AI chat bubble gradient",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60150
+}

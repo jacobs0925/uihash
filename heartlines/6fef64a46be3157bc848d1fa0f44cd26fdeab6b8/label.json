@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "6fef64a46be3157bc848d1fa0f44cd26fdeab6b8",
+ "date": "2025-11-04",
+ "pr": null,
+ "title": "Fix /plans header on mobile",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 2ffe4723, which restored 396744c5 (1 commit discarded)"
+}

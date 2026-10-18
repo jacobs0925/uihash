@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "0af79f21374b68272c53a55e97907464a9537e9c",
+ "date": "2025-11-03",
+ "pr": null,
+ "title": "Fix: Change orb colors to burgundy tones",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by 7ee27158, which restored 9659c966 (3 commits discarded)"
+}

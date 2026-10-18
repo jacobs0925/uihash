@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "28987324d2b387cb37f02b73ed7b48b8934904ef",
+ "parent": "6407057e68e0b7cbc0ab375155b6f28d8ad4336c",
+ "date": "2025-11-05",
+ "subject": "Fix: Show messages remaining in banner",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/account/SubscriptionStatusBanner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60489
+}

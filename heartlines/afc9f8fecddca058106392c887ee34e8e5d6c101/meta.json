@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "afc9f8fecddca058106392c887ee34e8e5d6c101",
+ "parent": "99c688cab90d5becd36e37ba57b028aa4757e251",
+ "date": "2025-11-04",
+ "subject": "Fix: Make pricing cards compact on tablet",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 85591
+}

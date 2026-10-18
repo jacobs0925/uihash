@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "76e8ea787ba42a7420b567a9878d4b7ebff9b009",
+ "parent": "40870d2ec0516da7471eff3dc5bade031b3a2f96",
+ "date": "2025-11-05",
+ "subject": "Fix \"What's on your mind?\" visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConversationStarters.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60582
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2ffe4723c5e30a3e864326fc6fbbdd15881ca719",
+ "parent": "6fef64a46be3157bc848d1fa0f44cd26fdeab6b8",
+ "date": "2025-11-04",
+ "subject": "Reverted to commit 396744c55e79bd688a15cb1ac04a0c2a5c66899c",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 87174
+}

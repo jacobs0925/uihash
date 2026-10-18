@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5b4b8445048fcc1a19288a05b200a8c46f54f68f",
+ "parent": "d4ef79d15a188f223ea1e0704beff3007f6ba57f",
+ "date": "2025-11-05",
+ "subject": "Fix BillingSuccess redirect logic",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/BillingSuccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59942
+}

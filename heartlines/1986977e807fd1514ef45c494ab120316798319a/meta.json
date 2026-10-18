@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1986977e807fd1514ef45c494ab120316798319a",
+ "parent": "76e8ea787ba42a7420b567a9878d4b7ebff9b009",
+ "date": "2025-11-05",
+ "subject": "Fix: Remove chat bubble shadows on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59909
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "a8b0e628550e445ae00a8893e9f67010a10b98dd",
+ "parent": "2d5e2af6af6d8e61d9056aa253ecfa01ce3d7577",
+ "date": "2025-11-05",
+ "subject": "Fix: Adjust mobile layout for scrolling",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatLayout.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59727
+}

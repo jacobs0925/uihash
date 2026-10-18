@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ab2a7a09b050fe25e96b6d00876f1e591affcb05",
+ "parent": "0ae8ea2a4e4fd0b559dcf028100104d37cdc0d90",
+ "date": "2025-11-06",
+ "subject": "Fix: Enable auto-scroll on input focus",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60456
+}

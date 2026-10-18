@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "6c729830f0bb08ecbe1edd54dc066fa031811e7a",
+ "parent": "17bb67572fa2e7e0098bc2d4941b65d1f39d5267",
+ "date": "2025-11-05",
+ "subject": "Refactor: Unify mobile and tablet chat rendering",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59802
+}

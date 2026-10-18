@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "95c79acf344c6909d06d165f5ba5a7851d238837",
+ "parent": "2e09e556b0f546b45276ac4142adab3d4c83a3a2",
+ "date": "2025-11-03",
+ "subject": "Fix mobile chat bubble styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59952
+}

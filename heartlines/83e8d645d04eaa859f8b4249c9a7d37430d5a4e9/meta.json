@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "83e8d645d04eaa859f8b4249c9a7d37430d5a4e9",
+ "parent": "759210828a8ceb071809211292bc9039f3eaf2df",
+ "date": "2025-11-06",
+ "subject": "Fix: Match tablet chat layout to desktop",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx",
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60534
+}

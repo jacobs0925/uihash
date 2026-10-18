@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3ec85acfd9dd2e55b0068e564800165898abcb61",
+ "parent": "4ae907d1db725f38aa95553d032b0668e9d366c7",
+ "date": "2025-11-03",
+ "subject": "Fix: Remove purple shadows from chat bubbles",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60797
+}

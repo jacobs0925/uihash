@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1202e7b0d22417f6ccac791d047dfbd6a11667e9",
+ "parent": "6bc5d80dcd988b54826e56a06032d2fbd4cf6bf7",
+ "date": "2025-11-06",
+ "subject": "Remove user avatar button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 64070
+}

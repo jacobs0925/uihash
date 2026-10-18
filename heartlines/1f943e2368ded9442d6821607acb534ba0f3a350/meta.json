@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1f943e2368ded9442d6821607acb534ba0f3a350",
+ "parent": "a9bd44ab3c4c72ae0eae14d7273fe1504d00f4ca",
+ "date": "2025-11-05",
+ "subject": "Fix mobile nav z-index and performance",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60522
+}

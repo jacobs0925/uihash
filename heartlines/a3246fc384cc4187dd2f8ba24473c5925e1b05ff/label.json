@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "a3246fc384cc4187dd2f8ba24473c5925e1b05ff",
+ "date": "2025-11-03",
+ "pr": null,
+ "title": "Fix: Unify chat interface colors",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by 7ee27158, which restored 9659c966 (3 commits discarded)"
+}

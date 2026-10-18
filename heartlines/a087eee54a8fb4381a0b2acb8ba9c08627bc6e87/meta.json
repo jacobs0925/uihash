@@ -1,0 +1,25 @@
+{
+ "repo": "heartlines",
+ "sha": "a087eee54a8fb4381a0b2acb8ba9c08627bc6e87",
+ "parent": "59a81b7577021c76c02692efde709ebb6769a95d",
+ "date": "2025-11-03",
+ "subject": "Refactor: Apply solid background color",
+ "components": [
+  "components",
+  "index.css",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/index.css",
+  "src/pages/Dashboard.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 94671
+}

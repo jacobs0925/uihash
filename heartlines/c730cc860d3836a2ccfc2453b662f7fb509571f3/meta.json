@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c730cc860d3836a2ccfc2453b662f7fb509571f3",
+ "parent": "0af79f21374b68272c53a55e97907464a9537e9c",
+ "date": "2025-11-04",
+ "subject": "Fix: Remove gradient and blur from chat layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60548
+}

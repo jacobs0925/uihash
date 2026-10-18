@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "95936c844da0e8a9f299d1796f5475431f91088e",
+ "date": "2025-11-04",
+ "pr": null,
+ "title": "Fix header visibility on mobile",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1118 later commits"
+}

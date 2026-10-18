@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0ae8ea2a4e4fd0b559dcf028100104d37cdc0d90",
+ "parent": "df74eb29aa8c55635ab1ad76331fbbf1d0940f97",
+ "date": "2025-11-06",
+ "subject": "Fix: Update landing page timeline title",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60480
+}

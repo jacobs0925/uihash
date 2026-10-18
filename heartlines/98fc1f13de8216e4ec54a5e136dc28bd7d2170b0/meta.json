@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "98fc1f13de8216e4ec54a5e136dc28bd7d2170b0",
+ "parent": "31c1f538fd4dc1dc8776ec286b503278cd710343",
+ "date": "2025-11-05",
+ "subject": "Fix: Ensure consistent CTA gradient",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/HowItWorksSwipe.tsx",
+  "src/components/LandingPage.tsx",
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 69661
+}

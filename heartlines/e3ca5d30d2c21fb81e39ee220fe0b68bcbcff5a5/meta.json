@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e3ca5d30d2c21fb81e39ee220fe0b68bcbcff5a5",
+ "parent": "48d532c0d2bf24e6eb18a23e5cf703a64a433835",
+ "date": "2025-11-06",
+ "subject": "Fix: Extend chat input on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59895
+}

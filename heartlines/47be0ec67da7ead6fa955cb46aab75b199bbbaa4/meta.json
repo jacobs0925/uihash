@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "47be0ec67da7ead6fa955cb46aab75b199bbbaa4",
+ "parent": "02786445855bc9d0752767080438d1e78fa44955",
+ "date": "2025-11-06",
+ "subject": "Fix mobile navigation transparency",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59712
+}

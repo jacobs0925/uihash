@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "df74eb29aa8c55635ab1ad76331fbbf1d0940f97",
+ "date": "2025-11-06",
+ "pr": null,
+ "title": "Fix: Align account button in footer",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by af9035f2, which restored ba9f2919 (25 commits discarded)"
+}

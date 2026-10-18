@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d4ef79d15a188f223ea1e0704beff3007f6ba57f",
+ "parent": "e383941a92f627ab7541abdd4157abc92acce8cb",
+ "date": "2025-11-05",
+ "subject": "Refactor BillingSuccess page styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/BillingSuccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59901
+}

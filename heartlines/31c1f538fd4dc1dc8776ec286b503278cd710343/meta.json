@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "31c1f538fd4dc1dc8776ec286b503278cd710343",
+ "parent": "28987324d2b387cb37f02b73ed7b48b8934904ef",
+ "date": "2025-11-05",
+ "subject": "feat: Add avatar pulsing for thinking indicator",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx",
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61033
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "8c50b260660daca16e888d5db4ac1374b6393900",
+ "parent": "76b30eb3cf298308db31e98a63564d14670970cd",
+ "date": "2025-11-06",
+ "subject": "Fix mobile navigation z-index issues",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61017
+}

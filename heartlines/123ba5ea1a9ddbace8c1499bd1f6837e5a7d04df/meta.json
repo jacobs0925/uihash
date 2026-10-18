@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "123ba5ea1a9ddbace8c1499bd1f6837e5a7d04df",
+ "parent": "836a99eaddc246acf3773ca1aea3240ee5d7d1cf",
+ "date": "2025-11-06",
+ "subject": "Fix mobile chat page background color",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/components/chat/ChatLayout.tsx",
+  "src/index.css",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 68618
+}

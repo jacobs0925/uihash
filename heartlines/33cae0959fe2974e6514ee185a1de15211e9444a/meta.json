@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "33cae0959fe2974e6514ee185a1de15211e9444a",
+ "parent": "7d65bdfcadea91262753009fe7aa51685322b0d5",
+ "date": "2025-12-14",
+ "subject": "Add retry button and auto retry",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/AIChatMessage.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatMessageHandler.tsx",
+  "src/components/chat/MemoizedChatContainer.tsx",
+  "src/types/AIInsights.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 89091
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d9bbe7d8f3562060ffd173c02ac9cce72cafb848",
+ "parent": "18e1f97548acbf3e4d99aeb752f84dabab43b17d",
+ "date": "2025-12-14",
+ "subject": "Add Kai limit message",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatMessageHandler.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90444
+}

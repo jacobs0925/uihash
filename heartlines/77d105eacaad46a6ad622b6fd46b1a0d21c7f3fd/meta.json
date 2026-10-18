@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "77d105eacaad46a6ad622b6fd46b1a0d21c7f3fd",
+ "parent": "664076823e29d9b1f688fb46a9a4c91526124d7f",
+ "date": "2025-12-14",
+ "subject": "Fix partner profile isolation",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/hooks/usePartnerProfileData.tsx",
+  "src/hooks/usePartnerProfileData.tsx",
+  "src/hooks/usePartnerProfiles.ts",
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90947
+}

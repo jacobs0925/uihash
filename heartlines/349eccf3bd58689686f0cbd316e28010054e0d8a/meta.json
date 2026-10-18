@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "349eccf3bd58689686f0cbd316e28010054e0d8a",
+ "parent": "9e591238ce963cf41169f061fa662be27c453137",
+ "date": "2025-12-06",
+ "subject": "Add waitlist auto-email",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/WaitlistForm.tsx",
+  "supabase/config.toml",
+  "supabase/functions/confirm-waitlist/_templates/waitlist-confirmation.tsx",
+  "supabase/functions/confirm-waitlist/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 84495
+}

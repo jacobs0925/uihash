@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9e591238ce963cf41169f061fa662be27c453137",
+ "parent": "a0eb7ff7699021aa47a82823d57f72b449f764fa",
+ "date": "2025-12-06",
+ "subject": "Remove toast notification",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/WaitlistForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 81931
+}

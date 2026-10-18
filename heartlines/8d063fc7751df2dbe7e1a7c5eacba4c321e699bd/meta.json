@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8d063fc7751df2dbe7e1a7c5eacba4c321e699bd",
+ "parent": "29156c8275c2df6c19f5accebb33f0c399e95323",
+ "date": "2025-12-14",
+ "subject": "Uniform partner card styling and subtle upgrade button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90929
+}

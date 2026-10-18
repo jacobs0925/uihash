@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "5cd9f31749abf208313419cd5f005787d0ff3149",
+ "parent": "054e7a3e68a56fa92a33884fc72b4b6b37749d7b",
+ "date": "2025-11-29",
+ "subject": "Add trial and CAC metrics",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/admin/AdminRevenueCards.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/types/admin.ts",
+  "supabase/migrations/20251129005527_cf50d205-f72a-4d98-956e-b3e8ae7f1b33.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86478
+}

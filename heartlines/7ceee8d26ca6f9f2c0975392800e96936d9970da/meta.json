@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7ceee8d26ca6f9f2c0975392800e96936d9970da",
+ "parent": "222a1c99a9fefb075df96b0075948650d652f638",
+ "date": "2025-12-06",
+ "subject": "Increase desktop padding in UpgradeModal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 85000
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9f89110460ae108e79f10a61e2aed292296de5fe",
+ "parent": "a6eb95b5fafa9db2d70a285dbe1a1d2bc8b705c1",
+ "date": "2025-12-14",
+ "subject": "Skinnier upgrade area",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 92106
+}

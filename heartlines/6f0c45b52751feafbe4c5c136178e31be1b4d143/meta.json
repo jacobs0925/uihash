@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6f0c45b52751feafbe4c5c136178e31be1b4d143",
+ "parent": "25f37ee2245dd401f42805a65090acaf9aadd26a",
+ "date": "2025-12-14",
+ "subject": "Balance profile cards height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 91944
+}

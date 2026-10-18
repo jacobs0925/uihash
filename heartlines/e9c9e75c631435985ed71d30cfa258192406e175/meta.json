@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e9c9e75c631435985ed71d30cfa258192406e175",
+ "parent": "3eb7466adf439f5b29d8cd8244005a1d478317bb",
+ "date": "2025-12-14",
+ "subject": "Separate select from edit actions",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 91074
+}

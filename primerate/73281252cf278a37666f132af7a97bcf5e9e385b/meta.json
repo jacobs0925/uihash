@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "73281252cf278a37666f132af7a97bcf5e9e385b",
+ "parent": "3b5f2d3123029f0fae7e232feb0ebbfc81cdd8dd",
+ "date": "2025-10-07",
+ "subject": "Remove duplicate loan amount input field and associated code",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52193
+}

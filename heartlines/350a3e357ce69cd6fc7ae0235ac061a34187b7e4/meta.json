@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "350a3e357ce69cd6fc7ae0235ac061a34187b7e4",
+ "parent": "ea79c0ccf8c0b784d4ce466e906939e37cd1e07c",
+ "date": "2025-12-14",
+ "subject": "Wrap benefits and button bottom",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder/ProfileCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 89202
+}

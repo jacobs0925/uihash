@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7303ecbdcd4a29650f7b1b5daaa5fcba1fd5b635",
+ "parent": "1cd24c234b9799591021b2a06af10c53fe7dc9e9",
+ "date": "2025-10-08",
+ "subject": "Remove home icon from client add page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50402
+}

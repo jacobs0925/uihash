@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "dafa71f31d688c9fef8241a0935ab7d537a852b5",
+ "parent": "d9fe121f29fdde8a270182d805d3194ba254b236",
+ "date": "2025-12-14",
+ "subject": "Thinner upgrade CTA box",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90103
+}

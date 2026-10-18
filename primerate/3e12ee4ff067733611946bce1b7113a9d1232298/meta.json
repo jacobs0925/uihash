@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3e12ee4ff067733611946bce1b7113a9d1232298",
+ "parent": "b5ecdd7ca1bda218713bef25fdda6eb1463e81e8",
+ "date": "2025-10-08",
+ "subject": "Update loan calculations to accurately reflect FHA MIP estimates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 59165
+}

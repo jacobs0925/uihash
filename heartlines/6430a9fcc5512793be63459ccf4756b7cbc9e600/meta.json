@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6430a9fcc5512793be63459ccf4756b7cbc9e600",
+ "parent": "820eee48042073dd913479db0d8b3754d283d6d2",
+ "date": "2025-12-14",
+ "subject": "Remove upgrade banner",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90956
+}

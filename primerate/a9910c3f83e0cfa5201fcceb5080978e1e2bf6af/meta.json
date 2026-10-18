@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a9910c3f83e0cfa5201fcceb5080978e1e2bf6af",
+ "parent": "e6de0a001e08bc5fec94504bbc67400ae617678e",
+ "date": "2025-10-08",
+ "subject": "Align text indicating upfront MIP balance credit to the right",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51058
+}

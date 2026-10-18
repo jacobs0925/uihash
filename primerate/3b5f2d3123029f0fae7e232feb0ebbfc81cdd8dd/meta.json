@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3b5f2d3123029f0fae7e232feb0ebbfc81cdd8dd",
+ "parent": "d717952cab690b7400581999ca0c63dd8c5d28f7",
+ "date": "2025-10-07",
+ "subject": "Add automatic calculation for adjusted FHA MIP based on loan amount",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52213
+}

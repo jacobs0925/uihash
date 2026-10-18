@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9e8b24ff04b678d1beef904bd170c8b2064c525d",
+ "parent": "e080e979b373b655ca2d27a14a3228cc3b903907",
+ "date": "2025-10-08",
+ "subject": "Make the new loan amount field read-only and auto-populate it",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 53266
+}

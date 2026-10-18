@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ed92876c09aff5a259f46ce88774619b09e8c34d",
+ "parent": "9eb6b58c8bfb2283025ff5f2b7a8a7285cc40924",
+ "date": "2025-12-05",
+ "subject": "Fix chat history updates",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useChatHistory.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 82639
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "18e1f97548acbf3e4d99aeb752f84dabab43b17d",
+ "parent": "de26494275059ba85963d8cba68dfc2dd92bc76a",
+ "date": "2025-12-14",
+ "subject": "Compact desktop profile cards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder/ProfileCard.tsx",
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90238
+}

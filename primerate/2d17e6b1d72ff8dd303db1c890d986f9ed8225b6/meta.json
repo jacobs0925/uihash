@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2d17e6b1d72ff8dd303db1c890d986f9ed8225b6",
+ "parent": "2b3a8bf97c3a19144ac58c12bb93f82041aab7b5",
+ "date": "2025-10-08",
+ "subject": "Reduce empty space by moving a separation line one row higher",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50520
+}

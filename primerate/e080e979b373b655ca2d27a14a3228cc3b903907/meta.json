@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e080e979b373b655ca2d27a14a3228cc3b903907",
+ "parent": "7303ecbdcd4a29650f7b1b5daaa5fcba1fd5b635",
+ "date": "2025-10-08",
+ "subject": "Save FHA MIP estimate only when the user confirms the changes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50539
+}

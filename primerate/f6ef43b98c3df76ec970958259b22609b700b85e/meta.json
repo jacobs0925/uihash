@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f6ef43b98c3df76ec970958259b22609b700b85e",
+ "parent": "a9910c3f83e0cfa5201fcceb5080978e1e2bf6af",
+ "date": "2025-10-08",
+ "subject": "Update input field to display adjusted FHA MIP cost",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50039
+}

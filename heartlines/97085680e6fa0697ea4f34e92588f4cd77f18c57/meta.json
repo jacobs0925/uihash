@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "97085680e6fa0697ea4f34e92588f4cd77f18c57",
+ "parent": "fb29ef032d0e1564b6057eda43671a553d77cbba",
+ "date": "2025-12-06",
+ "subject": "Add preflight waitlist check",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/useWaitlistStatus.ts",
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 93656
+}

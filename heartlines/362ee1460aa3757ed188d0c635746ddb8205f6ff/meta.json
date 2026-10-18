@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "362ee1460aa3757ed188d0c635746ddb8205f6ff",
+ "parent": "e54fda0889236ed452564ee91274980f79c0e060",
+ "date": "2025-12-06",
+ "subject": "Improve avatar loading speed",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroPhoneScroll.tsx",
+  "src/components/ProductPhoneDemo.tsx",
+  "src/components/UnlockCoachingButton.tsx",
+  "src/components/chat/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86530
+}

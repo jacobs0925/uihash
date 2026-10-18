@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1cd24c234b9799591021b2a06af10c53fe7dc9e9",
+ "parent": "22ae5e005d4e91aee61b3b8fa831efd7ba38733f",
+ "date": "2025-10-08",
+ "subject": "Update the label for FHA MIP cost to reflect upfront MIP",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50520
+}

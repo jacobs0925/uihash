@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e5fa8494834143a9c8613f4ccaaaad5817d95b96",
+ "parent": "6c090ef59d3faaa5b4ffa4f8775542dc0b494e4e",
+ "date": "2025-12-14",
+ "subject": "Align card headers",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88802
+}

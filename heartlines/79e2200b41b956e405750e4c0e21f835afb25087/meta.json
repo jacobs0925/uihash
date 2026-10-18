@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "79e2200b41b956e405750e4c0e21f835afb25087",
+ "parent": "e5fa8494834143a9c8613f4ccaaaad5817d95b96",
+ "date": "2025-12-14",
+ "subject": "Clear partner name on focus",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/questions/PartnerNamePronounsCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87311
+}

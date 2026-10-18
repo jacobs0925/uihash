@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "11eab68c79e7ca6e44690410e5ab76275048c567",
+ "parent": "373b5f7ad449497bd73e00175db1b22db337044c",
+ "date": "2025-10-08",
+ "subject": "Update loan amount calculation to use rate column totals",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx",
+  "client/src/pages/admin/sedWWRs2s"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47754
+}

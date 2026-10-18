@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e6de0a001e08bc5fec94504bbc67400ae617678e",
+ "parent": "2d17e6b1d72ff8dd303db1c890d986f9ed8225b6",
+ "date": "2025-10-08",
+ "subject": "Adjust spacing on the add client form for better visual appeal",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50542
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "09df9ff24a31596e97e4bbbe251f2166a51fcfdd",
+ "parent": "37c7df76f5b5d7a5101684bb152a5d31e02a724c",
+ "date": "2025-10-08",
+ "subject": "Adjust layout of mortgage cost information on admin client page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50455
+}

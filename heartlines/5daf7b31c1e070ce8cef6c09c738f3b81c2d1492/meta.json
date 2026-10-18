@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5daf7b31c1e070ce8cef6c09c738f3b81c2d1492",
+ "parent": "5cd9f31749abf208313419cd5f005787d0ff3149",
+ "date": "2025-11-29",
+ "subject": "Make Revenue cards text white",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/admin/AdminRevenueCards.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86574
+}

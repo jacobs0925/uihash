@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "d9e75d0f36322c289a3c54767d938b633dee08bd",
+ "parent": "6264dbf04c71b3712a8a9207fa9a3e2370069bd3",
+ "date": "2025-12-14",
+ "subject": "Improve partner name updates",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/hooks/usePartnerProfileData.tsx",
+  "src/hooks/usePartnerProfiles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 92012
+}

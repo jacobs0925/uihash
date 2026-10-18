@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "fa88f7a319d0cb1cfec4c3f93a3629e5053ce4f5",
+ "parent": "fd55a3300762a86d4cae3d6f692ea806605e658e",
+ "date": "2025-12-06",
+ "subject": "Improve avatar loading for Kai",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx",
+  "src/components/ChatHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 85345
+}

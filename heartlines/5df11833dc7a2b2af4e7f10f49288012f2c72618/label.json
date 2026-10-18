@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "5df11833dc7a2b2af4e7f10f49288012f2c72618",
+ "date": "2025-12-13",
+ "pr": null,
+ "title": "Add data export feature",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 371 later commits"
+}

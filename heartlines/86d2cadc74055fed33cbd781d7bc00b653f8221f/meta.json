@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "86d2cadc74055fed33cbd781d7bc00b653f8221f",
+ "parent": "af063cb696fac06135de6512002b4e07e4e622e5",
+ "date": "2025-11-28",
+ "subject": "Add cache alerting system",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/admin/AdminCacheMetricsChart.tsx",
+  "src/components/admin/CacheAlertBanner.tsx",
+  "src/hooks/useCacheAlerts.ts",
+  "src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 91117
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "644fb041a3974cc13dc92d9fc3510c925d4669a7",
+ "parent": "3d59b132c723d2af5cdc6b599da8ba6238d36c21",
+ "date": "2025-12-13",
+ "subject": "Delay carousel until splash ends",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroCarousel.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88475
+}

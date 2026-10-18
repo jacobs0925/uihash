@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "79663e0f34211a1a31d6102c40f4ad514be6b475",
+ "parent": "684c8cdf2579c886f7cbc86e4a5e1fc307cb601d",
+ "date": "2025-12-14",
+ "subject": "Move scroll arrow to right side",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 89566
+}

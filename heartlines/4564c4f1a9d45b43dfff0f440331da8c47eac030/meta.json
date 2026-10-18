@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "4564c4f1a9d45b43dfff0f440331da8c47eac030",
+ "parent": "876f2dc3912673e0f05e7d8a4aa8d738e50e4e4b",
+ "date": "2025-12-14",
+ "subject": "Pass explicit profile ID to NewPartnerProfile",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DashboardModals.tsx",
+  "src/components/NewPartnerProfile/hooks/usePartnerProfileData.tsx",
+  "src/components/NewPartnerProfile/index.tsx",
+  "src/pages/Account.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 101266
+}

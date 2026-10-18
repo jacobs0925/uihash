@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "1032efaba9c8a633b8b323bbcf3bdb2b1c45a795",
+ "parent": "e0a20508541e602b54460d356d8c9b411b480330",
+ "date": "2025-12-15",
+ "subject": "Hide grace timer display",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/questions/PartnerNamePronounsCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88965
+}

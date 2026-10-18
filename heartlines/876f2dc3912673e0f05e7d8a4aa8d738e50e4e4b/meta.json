@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "876f2dc3912673e0f05e7d8a4aa8d738e50e4e4b",
+ "parent": "5bca29021becb13e97b747c06f9b4c04e10f9cee",
+ "date": "2025-12-14",
+ "subject": "Limit profile list to 3",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 91295
+}

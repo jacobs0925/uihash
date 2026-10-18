@@ -1,0 +1,25 @@
+{
+ "repo": "heartlines",
+ "sha": "7a90a8cd27d0148e79c97e1a384b5a8669af3fac",
+ "parent": "0eae49590ea381bd5bca361e94f95b98f203833c",
+ "date": "2025-11-30",
+ "subject": "Add API metrics dashboard",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/admin/AdminApiHealthChart.tsx",
+  "src/hooks/useAdminApiMetrics.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/AdminDashboard.tsx",
+  "supabase/functions/anthropic-chat/index.ts",
+  "supabase/migrations/20251130204357_7c304acd-afba-4384-bce4-6c9b447c91a6.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 88117
+}

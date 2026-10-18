@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "64ac0d218346caed89abc7a56b1abc89e8932e87",
+ "parent": "7090770ac561395ca8cd8a18bb9c1dd1a0af6fa4",
+ "date": "2025-12-14",
+ "subject": "Align profile cards on desktop",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder/ProfileCard.tsx",
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90332
+}

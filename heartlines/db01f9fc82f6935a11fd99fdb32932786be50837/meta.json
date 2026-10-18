@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "db01f9fc82f6935a11fd99fdb32932786be50837",
+ "parent": "e39f89bed5a47420d95771d702826eab19863776",
+ "date": "2025-12-14",
+ "subject": "Fix partner profile carryover",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 89780
+}

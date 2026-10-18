@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "5b03d627d6383f58232769c7bb095e7b98800c1b",
+ "parent": "ff243d8134e05c6e0c4dd80847ac6875a23f0756",
+ "date": "2025-12-06",
+ "subject": "Add real-time budget monitor",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/admin/AdminBudgetMonitor.tsx",
+  "src/hooks/useAdminBudgetAnalytics.ts",
+  "src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 89356
+}

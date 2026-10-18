@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d7d18db378ae0356dbad5e418509490ee2c3489e",
+ "parent": "664921cf5d361619a48c7584b2d2b12b1dde4689",
+ "date": "2025-12-14",
+ "subject": "Move scroll arrow below cards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90494
+}

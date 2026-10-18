@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "e0a20508541e602b54460d356d8c9b411b480330",
+ "parent": "fe287e7eb0573c3941cd9be693d1cedae00ef844",
+ "date": "2025-12-15",
+ "subject": "Make profiles load instantly",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx",
+  "src/hooks/usePartnerProfiles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88239
+}

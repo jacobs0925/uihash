@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "fe287e7eb0573c3941cd9be693d1cedae00ef844",
+ "parent": "d5128ac1dd517d3058e98b59b9e2859131076b53",
+ "date": "2025-12-15",
+ "subject": "Add 3-min name grace period",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/questions/PartnerNamePronounsCard.tsx",
+  "src/hooks/usePartnerNameLock.ts",
+  "src/hooks/usePartnerProfiles.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251215175205_2eeb2ba6-aef0-41fc-9824-80f960e255fa.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 89588
+}

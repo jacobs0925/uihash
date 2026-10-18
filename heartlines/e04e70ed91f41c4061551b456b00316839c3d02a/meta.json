@@ -1,0 +1,30 @@
+{
+ "repo": "heartlines",
+ "sha": "e04e70ed91f41c4061551b456b00316839c3d02a",
+ "parent": "f9935f0d8766642dfeea5d40a07431c946aab0cf",
+ "date": "2025-12-02",
+ "subject": "Add memory-aware patterns",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/AICoachEngine.tsx",
+  "src/components/chat/ChatMessageHandler.tsx",
+  "src/hooks/useRelationshipPatterns.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/services/patternDetectionService.ts",
+  "src/utils/aiResponseCoordinator.ts",
+  "src/utils/conversationalPrompt.ts",
+  "src/utils/prompt/promptTemplate.ts",
+  "supabase/config.toml",
+  "supabase/functions/detect-patterns/index.ts",
+  "supabase/migrations/20251202012626_3ab1f47a-da80-435c-badc-c94481310a52.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86646
+}

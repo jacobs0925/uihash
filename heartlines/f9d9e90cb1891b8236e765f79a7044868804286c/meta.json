@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "f9d9e90cb1891b8236e765f79a7044868804286c",
+ "parent": "00ed15a43ef38a2ade3a64c0c95a7577d191a2a7",
+ "date": "2025-12-03",
+ "subject": "Handle limit_reached gracefully",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatMessageHandler.tsx",
+  "src/services/aiService.ts",
+  "src/utils/aiResponseCoordinator.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 84189
+}

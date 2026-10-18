@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "d8ec46035ed8303f2d3c444768d14098fb39709a",
+ "parent": "6f0c45b52751feafbe4c5c136178e31be1b4d143",
+ "date": "2025-12-14",
+ "subject": "Make profile cards equal height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx",
+  "src/components/ProfileBuilder/ProfileCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 89486
+}

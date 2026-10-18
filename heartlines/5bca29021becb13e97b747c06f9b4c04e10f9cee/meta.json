@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "5bca29021becb13e97b747c06f9b4c04e10f9cee",
+ "parent": "11ea7785c307fc4666ae8a83d222e57f26d4677f",
+ "date": "2025-12-14",
+ "subject": "Pass profile ID via modal",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/DashboardContent.tsx",
+  "src/components/ProfileBuilder.tsx",
+  "src/hooks/useDashboardModalHandlers.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 89657
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a0eb7ff7699021aa47a82823d57f72b449f764fa",
+ "parent": "7650d9c3098e3ff99d7b5e481f24138f1b6c2dcf",
+ "date": "2025-12-06",
+ "subject": "Update waitlist subcopy text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/WaitlistForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 83804
+}

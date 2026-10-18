@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "29156c8275c2df6c19f5accebb33f0c399e95323",
+ "parent": "3130ef6cc38ef6a6b17c3accc3d6ef9a045834f5",
+ "date": "2025-12-14",
+ "subject": "Improve dynamic profile descriptions",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90160
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d690630b94bd4c14adffd7223a866219107dd0dd",
+ "parent": "97085680e6fa0697ea4f34e92588f4cd77f18c57",
+ "date": "2025-12-06",
+ "subject": "Update waitlist copy to Gen Z",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/WaitlistForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 83460
+}

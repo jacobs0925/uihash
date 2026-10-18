@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b5ecdd7ca1bda218713bef25fdda6eb1463e81e8",
+ "parent": "11eab68c79e7ca6e44690410e5ab76275048c567",
+ "date": "2025-10-08",
+ "subject": "Improve calculation of FHA MIP costs for new clients",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47775
+}

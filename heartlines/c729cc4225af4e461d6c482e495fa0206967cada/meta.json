@@ -1,0 +1,26 @@
+{
+ "repo": "heartlines",
+ "sha": "c729cc4225af4e461d6c482e495fa0206967cada",
+ "parent": "fddf1a8606dbe0d7554f9b1d128f9fc78841276e",
+ "date": "2025-12-06",
+ "subject": "Add viral waitlist system",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/auth/WaitlistForm.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Auth.tsx",
+  "supabase/config.toml",
+  "supabase/functions/check-launch-budget/index.ts",
+  "supabase/functions/notify-waitlist/index.ts",
+  "supabase/migrations/20251206202809_67aeadf2-6031-426d-8740-5d2f8cbf144b.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 96393
+}

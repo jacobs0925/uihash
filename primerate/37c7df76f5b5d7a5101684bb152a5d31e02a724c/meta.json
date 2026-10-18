@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "37c7df76f5b5d7a5101684bb152a5d31e02a724c",
+ "parent": "b6432875c2a82fca5629b33512b6a03f57c2dafd",
+ "date": "2025-10-08",
+ "subject": "Improve loan estimate display by adjusting MIP balance wording and size",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49968
+}

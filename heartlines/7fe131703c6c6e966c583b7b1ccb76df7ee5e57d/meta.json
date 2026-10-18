@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7fe131703c6c6e966c583b7b1ccb76df7ee5e57d",
+ "parent": "51d9219fed66374a9368f5588783ede5945b78a1",
+ "date": "2025-11-30",
+ "subject": "Fix conversation starters prompts",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ConversationStarters.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86627
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "3d59b132c723d2af5cdc6b599da8ba6238d36c21",
+ "date": "2025-12-13",
+ "pr": null,
+ "title": "Improve glass hover border glow",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 369 later commits"
+}

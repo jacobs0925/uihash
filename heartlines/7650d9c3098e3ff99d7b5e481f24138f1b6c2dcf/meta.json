@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "7650d9c3098e3ff99d7b5e481f24138f1b6c2dcf",
+ "parent": "d690630b94bd4c14adffd7223a866219107dd0dd",
+ "date": "2025-12-06",
+ "subject": "Update waitlist form visuals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/auth/WaitlistForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 82759
+}

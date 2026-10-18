@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "27aa31346fe4ce057b2a6721f0d8d36b050312ec",
+ "parent": "69e666abaec36eb42983e9035cab9ed736eee680",
+ "date": "2025-12-14",
+ "subject": "Match add partner button size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 89046
+}

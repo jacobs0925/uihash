@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "3e12ee4ff067733611946bce1b7113a9d1232298",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Update loan calculations to accurately reflect FHA MIP estimates",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by ed0a1c24, which restored 7303ecbd (15 commits discarded)"
+}

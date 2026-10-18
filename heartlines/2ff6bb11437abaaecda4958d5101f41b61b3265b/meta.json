@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2ff6bb11437abaaecda4958d5101f41b61b3265b",
+ "parent": "5b03d627d6383f58232769c7bb095e7b98800c1b",
+ "date": "2025-12-06",
+ "subject": "Center UpgradeModal header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 84714
+}

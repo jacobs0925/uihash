@@ -1,0 +1,24 @@
+{
+ "repo": "heartlines",
+ "sha": "afdbf8158bbc883578d8171569add09f293f4ab0",
+ "parent": "644fb041a3974cc13dc92d9fc3510c925d4669a7",
+ "date": "2025-12-13",
+ "subject": "Add multi-profile support",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx",
+  "src/components/modals/UpgradeModal.tsx",
+  "src/components/profile/PartnerProfileManager.tsx",
+  "src/hooks/usePartnerProfiles.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20251213235117_9fa9ec2e-d0c7-4de5-91c1-0d9724e8ae6b.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90524
+}

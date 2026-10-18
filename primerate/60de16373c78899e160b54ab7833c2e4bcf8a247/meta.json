@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "60de16373c78899e160b54ab7833c2e4bcf8a247",
+ "parent": "73281252cf278a37666f132af7a97bcf5e9e385b",
+ "date": "2025-10-08",
+ "subject": "Update FHA MIP estimate calculation to include prior refund",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 52023
+}

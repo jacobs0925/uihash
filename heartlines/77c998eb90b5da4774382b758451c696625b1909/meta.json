@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "77c998eb90b5da4774382b758451c696625b1909",
+ "parent": "6a35121af7e392a60c6c0ceb167196363ebabd08",
+ "date": "2025-12-14",
+ "subject": "Tighten upgrade section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 87406
+}

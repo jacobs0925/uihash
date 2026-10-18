@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "11ea7785c307fc4666ae8a83d222e57f26d4677f",
+ "parent": "db01f9fc82f6935a11fd99fdb32932786be50837",
+ "date": "2025-12-14",
+ "subject": "Implement virgin profile marker",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/hooks/usePartnerProfileData.tsx",
+  "src/hooks/usePartnerProfileData.tsx",
+  "src/hooks/usePartnerProfiles.ts",
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 86321
+}

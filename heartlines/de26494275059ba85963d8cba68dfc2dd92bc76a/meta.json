@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "de26494275059ba85963d8cba68dfc2dd92bc76a",
+ "parent": "b87806d9b8659d6ae24d4d3727d18703a0d69550",
+ "date": "2025-12-14",
+ "subject": "Move header closer to nav",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 90986
+}

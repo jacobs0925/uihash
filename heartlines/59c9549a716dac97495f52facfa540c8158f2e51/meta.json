@@ -1,0 +1,26 @@
+{
+ "repo": "heartlines",
+ "sha": "59c9549a716dac97495f52facfa540c8158f2e51",
+ "parent": "ed92876c09aff5a259f46ce88774619b09e8c34d",
+ "date": "2025-12-05",
+ "subject": "Enhance cross-session memory",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/AIInsights.tsx",
+  "src/components/chat/ChatEffects.tsx",
+  "src/components/chat/ChatMessageHandler.tsx",
+  "src/hooks/useRelationshipPatterns.tsx",
+  "src/services/patternDetectionService.ts",
+  "src/utils/prompt/promptTemplate.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 83295
+}

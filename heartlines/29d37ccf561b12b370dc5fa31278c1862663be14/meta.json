@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "29d37ccf561b12b370dc5fa31278c1862663be14",
+ "parent": "e424d3a89e2c02c895eaa3b938d081fa5e07bf1d",
+ "date": "2025-12-14",
+ "subject": "Make partner list scrollable",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 91487
+}

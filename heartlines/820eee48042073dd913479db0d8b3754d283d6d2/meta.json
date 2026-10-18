@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "820eee48042073dd913479db0d8b3754d283d6d2",
+ "parent": "d9e75d0f36322c289a3c54767d938b633dee08bd",
+ "date": "2025-12-14",
+ "subject": "Change their name default",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/questions/PartnerNamePronounsCard.tsx",
+  "src/components/NewPartnerProfile/hooks/usePartnerProfileData.tsx",
+  "src/hooks/usePartnerProfiles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88722
+}

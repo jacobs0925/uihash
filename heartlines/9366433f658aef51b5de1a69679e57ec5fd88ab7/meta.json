@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9366433f658aef51b5de1a69679e57ec5fd88ab7",
+ "parent": "79663e0f34211a1a31d6102c40f4ad514be6b475",
+ "date": "2025-12-14",
+ "subject": "Fix desktop card clipping",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/profile/PartnerProfileManager.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 88413
+}

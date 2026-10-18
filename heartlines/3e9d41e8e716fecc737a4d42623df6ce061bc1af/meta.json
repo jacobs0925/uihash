@@ -1,0 +1,27 @@
+{
+ "repo": "heartlines",
+ "sha": "3e9d41e8e716fecc737a4d42623df6ce061bc1af",
+ "parent": "6821d2607dc3e82184d5351fc147ea67951bc834",
+ "date": "2025-11-29",
+ "subject": "Add revenue dashboard components",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/admin/AdminRevenueCards.tsx",
+  "src/components/admin/AdminRevenueChart.tsx",
+  "src/components/admin/AdminSubscriptionBreakdown.tsx",
+  "src/hooks/useSubscriptionAnalytics.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/AdminDashboard.tsx",
+  "src/types/admin.ts",
+  "supabase/migrations/20251129003111_71782103-eeed-4ebe-b019-3301a1b6db0c.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 92545
+}

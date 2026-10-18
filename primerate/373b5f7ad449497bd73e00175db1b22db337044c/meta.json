@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "373b5f7ad449497bd73e00175db1b22db337044c",
+ "parent": "9e8b24ff04b678d1beef904bd170c8b2064c525d",
+ "date": "2025-10-08",
+ "subject": "Fix error when initializing loan amount calculation for new FHA MIP cost",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47735
+}

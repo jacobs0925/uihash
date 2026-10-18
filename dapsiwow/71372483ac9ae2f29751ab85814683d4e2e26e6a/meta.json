@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "71372483ac9ae2f29751ab85814683d4e2e26e6a",
+ "parent": "f46a676434f8a94787243a0c462c758bf6d7f066",
+ "date": "2025-10-08",
+ "subject": "Restored to '3c6915f7cbafb13f6e8afdc3af044fd97c85b52c'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/.latest.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 124351
+}

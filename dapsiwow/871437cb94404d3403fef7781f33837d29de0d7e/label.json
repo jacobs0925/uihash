@@ -5,8 +5,8 @@
  "date": "2025-10-08",
  "pr": null,
  "title": "Make the mortgage calculator's usage instructions fully responsive",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2912 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 32px → 40px undone by 4bbadd93 \"Assistant checkpoint: Update testimonials section design\"; padding-right: 32px → 40px undone by 4bbadd93 \"Assistant checkpoint: Update testimonials section design\"; padding-bottom: 32px → 40px undone by 4bbadd93 \"Assistant checkpoint: Update testimonials section design\""
 }

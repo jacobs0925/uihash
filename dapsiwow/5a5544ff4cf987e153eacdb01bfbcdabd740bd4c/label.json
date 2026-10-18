@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "5a5544ff4cf987e153eacdb01bfbcdabd740bd4c",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Add related financial calculators section to compound interest page",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by 71372483, which restored 3c6915f7 (4 commits discarded)"
+}

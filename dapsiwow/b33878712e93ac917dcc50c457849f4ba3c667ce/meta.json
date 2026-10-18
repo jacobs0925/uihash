@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b33878712e93ac917dcc50c457849f4ba3c667ce",
+ "parent": "14c3886bcf44752617e2b1df87aaef2430e37933",
+ "date": "2025-10-08",
+ "subject": "Make the loan calculator FAQ section responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 144932
+}

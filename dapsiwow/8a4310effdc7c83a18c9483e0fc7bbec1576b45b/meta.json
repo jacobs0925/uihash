@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8a4310effdc7c83a18c9483e0fc7bbec1576b45b",
+ "parent": "566cd93f61b50327afe35d67ada54ac062288f79",
+ "date": "2025-10-08",
+ "subject": "Update compound interest calculator guide with new styling and hover effects",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 134956
+}

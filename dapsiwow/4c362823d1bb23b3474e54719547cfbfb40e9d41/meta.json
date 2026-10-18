@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4c362823d1bb23b3474e54719547cfbfb40e9d41",
+ "parent": "237014bcb56e425c1b9833c4f27f565d96cd109f",
+ "date": "2025-10-09",
+ "subject": "Assistant checkpoint: Updated user count to 3.2M+",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 132482
+}

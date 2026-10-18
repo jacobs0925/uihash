@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b69d87025e83a7da53a9fd9b3f536c8852479d74",
+ "parent": "06aa1885c914fd4bbfa0982336bd3d410d4788b6",
+ "date": "2025-10-09",
+ "subject": "Assistant checkpoint: Add icons to loan calculator recommendations",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 131470
+}

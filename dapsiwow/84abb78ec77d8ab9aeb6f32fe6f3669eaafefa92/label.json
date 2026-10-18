@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "84abb78ec77d8ab9aeb6f32fe6f3669eaafefa92",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Improve loan calculator layout and responsiveness for all devices",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2820 later commits"
+}

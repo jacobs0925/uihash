@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "6d6f1071a15be29d0108d69c0303dda34486e566",
+ "parent": "acb482df05869269d83fba86fdddf387d3afbdc4",
+ "date": "2025-10-08",
+ "subject": "Restored to '4398e3c43f938a2a36c26e5b8e25a997b8007564'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/.latest.json",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 5,
+ "ms": 125657
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "84cb0235fe2f648b056b95c2d632614ef0e4b272",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Update the Simple Interest Calculator to match the Loan Calculator UI and add SEO content",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2749 later commits"
+}

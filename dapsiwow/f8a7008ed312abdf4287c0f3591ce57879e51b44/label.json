@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "f8a7008ed312abdf4287c0f3591ce57879e51b44",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Update loan calculator to improve visual appeal and user experience",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2696 later commits"
+}

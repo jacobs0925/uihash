@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "0e1ece98868dca782231efb851d9a2ec0b928433",
+ "date": "2026-10-15",
+ "pr": "10211",
+ "title": "[EuiFlyoutMenu] Align menu height with compact AppHeader (49px) (#10211)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "14 visual-test baselines updated"
+}

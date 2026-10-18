@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "6be616e1ad2cf579a93311a1edd4c7b0e15a5e75",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Improve spacing between calculator sections for better readability",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2789 later commits"
+}

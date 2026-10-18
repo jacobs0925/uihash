@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a673f27963e9965bbbef7fc6ee645d51d5234708",
+ "parent": "ee00a8d92605685170649b427adc3d4a929d2ddb",
+ "date": "2025-10-09",
+ "subject": "Assistant checkpoint: Update mortgage calculator action buttons layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 118767
+}

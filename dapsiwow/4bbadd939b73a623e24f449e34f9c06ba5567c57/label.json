@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "4bbadd939b73a623e24f449e34f9c06ba5567c57",
+ "date": "2025-10-09",
+ "pr": null,
+ "title": "Assistant checkpoint: Update testimonials section design",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2662 later commits"
+}

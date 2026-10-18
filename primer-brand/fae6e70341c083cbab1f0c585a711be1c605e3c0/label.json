@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "fae6e70341c083cbab1f0c585a711be1c605e3c0",
+ "date": "2026-04-15",
+ "pr": "1315",
+ "title": "[Brand Refactor] Card, Token and Icon component updates (#1315)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "76 visual-test baselines updated"
+}

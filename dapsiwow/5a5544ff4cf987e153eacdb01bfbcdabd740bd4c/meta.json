@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "5a5544ff4cf987e153eacdb01bfbcdabd740bd4c",
+ "parent": "3c6915f7cbafb13f6e8afdc3af044fd97c85b52c",
+ "date": "2025-10-08",
+ "subject": "Add related financial calculators section to compound interest page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 124067
+}

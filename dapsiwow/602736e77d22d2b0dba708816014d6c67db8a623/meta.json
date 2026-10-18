@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "602736e77d22d2b0dba708816014d6c67db8a623",
+ "parent": "04968139316a5e96d9df928932f0f21ab5add542",
+ "date": "2025-10-08",
+ "subject": "Improve the visual design of the mortgage calculator usage guide",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 139922
+}

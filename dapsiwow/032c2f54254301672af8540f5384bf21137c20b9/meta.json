@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "032c2f54254301672af8540f5384bf21137c20b9",
+ "parent": "3c8e93862661ebe46e4bf0c8f6f32a68d4812388",
+ "date": "2025-10-08",
+ "subject": "Make EMI calculator content sections responsive like the loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 20,
+ "ms": 148575
+}

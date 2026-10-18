@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "602736e77d22d2b0dba708816014d6c67db8a623",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Improve the visual design of the mortgage calculator usage guide",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgba(255, 255, 255, 0.9) → rgb(247, 246, 249) undone by 4bbadd93 \"Assistant checkpoint: Update testimonials section design\"; background-size: ∅ → auto undone by 4bbadd93 \"Assistant checkpoint: Update testimonials section design\"; background-color: rgba(255, 255, 255, 0.9) → rgb(247, 246, 249) undone by 4bbadd93 \"Assistant checkpoint: Update testimonials section design\""
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8e14c3427a857f78784cdbd1c8367ae2b55a51aa",
+ "parent": "fa2bc5841de4fa47789ffe8199eca493f3164c7e",
+ "date": "2025-10-08",
+ "subject": "Add chart, share, and export PDF features to the compound interest calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 117090
+}

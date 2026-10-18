@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "b77b66e8727bfaec5c9b1c232f3d8fce63eff390",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Make mortgage calculator content sections responsive",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-top: 32px → 40px undone by 4bbadd93 \"Assistant checkpoint: Update testimonials section design\"; padding-right: 32px → 40px undone by 4bbadd93 \"Assistant checkpoint: Update testimonials section design\"; padding-bottom: 32px → 40px undone by 4bbadd93 \"Assistant checkpoint: Update testimonials section design\""
+}

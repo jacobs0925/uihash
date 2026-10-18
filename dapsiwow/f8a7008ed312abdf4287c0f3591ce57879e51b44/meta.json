@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "f8a7008ed312abdf4287c0f3591ce57879e51b44",
+ "parent": "8a4310effdc7c83a18c9483e0fc7bbec1576b45b",
+ "date": "2025-10-08",
+ "subject": "Update loan calculator to improve visual appeal and user experience",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 168385
+}

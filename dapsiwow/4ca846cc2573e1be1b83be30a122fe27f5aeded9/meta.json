@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4ca846cc2573e1be1b83be30a122fe27f5aeded9",
+ "parent": "37ee58254a8acc4aa759a9278bdb68ea6f5f1b5b",
+ "date": "2025-10-09",
+ "subject": "Assistant checkpoint: Add testimonials section to mortgage calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 157838
+}

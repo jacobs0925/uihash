@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "87cfebfa6d869ef047b9abfe62d589f83135d25c",
+ "parent": "28c41f87daf7d0b5a6f371ad50b921fb191dfd51",
+ "date": "2025-10-08",
+ "subject": "Update interest calculator to match loan calculator functionality",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1759942632450.png",
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 126030
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "8a4310effdc7c83a18c9483e0fc7bbec1576b45b",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Update compound interest calculator guide with new styling and hover effects",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2697 later commits"
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "524030493af7915c90e4b0a2dc5839342c01e6c9",
+ "parent": "f4b8864203e54c0a4c5d8153914853b28a6a5469",
+ "date": "2025-10-08",
+ "subject": "Update financial calculator links to match the loan calculator section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 6,
+ "ms": 123814
+}

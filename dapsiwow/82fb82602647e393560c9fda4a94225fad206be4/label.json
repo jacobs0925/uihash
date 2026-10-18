@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "82fb82602647e393560c9fda4a94225fad206be4",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Redesign the Compound Interest Calculator tool page and add SEO content",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "backdrop-filter: ∅ → blur(4px) undone by 8a4310ef \"Update compound interest calculator guide with new styling and hover effects\"; backdrop-filter: ∅ → blur(4px) undone by 8a4310ef \"Update compound interest calculator guide with new styling and hover effects\"; backdrop-filter: ∅ → blur(4px) undone by 8a4310ef \"Update compound interest calculator guide with new styling and hover effects\""
+}

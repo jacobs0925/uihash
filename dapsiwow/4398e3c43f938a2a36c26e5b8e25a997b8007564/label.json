@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "4398e3c43f938a2a36c26e5b8e25a997b8007564",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Add related financial calculators to the simple interest page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2710 later commits"
+}

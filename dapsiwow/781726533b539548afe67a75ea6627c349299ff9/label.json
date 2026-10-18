@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "781726533b539548afe67a75ea6627c349299ff9",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Update financial calculators section to match loan calculator's design",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by 6d6f1071, which restored 4398e3c4 (3 commits discarded)"
+}

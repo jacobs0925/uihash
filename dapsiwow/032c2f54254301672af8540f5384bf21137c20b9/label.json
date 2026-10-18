@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "032c2f54254301672af8540f5384bf21137c20b9",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Make EMI calculator content sections responsive like the loan calculator",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2810 later commits"
+}

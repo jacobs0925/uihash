@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "616bb83d6bfa97f424862a7806ed0231d5a91d6c",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Improve calculator responsiveness for various screen sizes",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2766 later commits"
+}

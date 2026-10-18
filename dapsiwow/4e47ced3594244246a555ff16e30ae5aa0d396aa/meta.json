@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4e47ced3594244246a555ff16e30ae5aa0d396aa",
+ "parent": "0026771ff022431015d9bdbae3fb3b514a4bca02",
+ "date": "2025-10-09",
+ "subject": "Improve mortgage calculator sharing with detailed results and social media options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 121231
+}

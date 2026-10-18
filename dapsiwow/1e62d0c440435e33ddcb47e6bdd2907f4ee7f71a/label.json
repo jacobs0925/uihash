@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "1e62d0c440435e33ddcb47e6bdd2907f4ee7f71a",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Improve EMI calculator usage instructions with updated styling",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2693 later commits"
+}

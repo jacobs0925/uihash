@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "3a96155e43416bfe251f040d2079b4984d6c7233",
+ "parent": "b4226f761fe5cbe6e9b820da489bc1b817222ec1",
+ "date": "2025-10-08",
+ "subject": "Update PDF output design to match loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1759944913861.png",
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 121291
+}

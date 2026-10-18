@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "4c362823d1bb23b3474e54719547cfbfb40e9d41",
+ "date": "2025-10-09",
+ "pr": null,
+ "title": "Assistant checkpoint: Updated user count to 3.2M+",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2663 later commits"
+}

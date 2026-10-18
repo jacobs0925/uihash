@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "41980bb0111c2072f6a7fc19c9e3666be39ebfec",
+ "parent": "e01ad6e29782db9d729bb85fdf6976ed29117165",
+ "date": "2025-10-08",
+ "subject": "Restored to '3c0a41e5a1310443febe8e673bbc45523582967e'",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/.latest.json",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 117123
+}

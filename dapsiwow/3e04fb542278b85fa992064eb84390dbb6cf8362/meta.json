@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "3e04fb542278b85fa992064eb84390dbb6cf8362",
+ "parent": "a7d5fbf23409a216bdf26ac19712d5c955a34377",
+ "date": "2025-10-09",
+ "subject": "Assistant checkpoint: Made People Also Use section fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 156237
+}

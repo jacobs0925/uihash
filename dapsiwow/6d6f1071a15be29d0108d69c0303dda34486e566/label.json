@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "6d6f1071a15be29d0108d69c0303dda34486e566",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Restored to '4398e3c43f938a2a36c26e5b8e25a997b8007564'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgb(247, 246, 249) → rgba(255, 255, 255, 0.9) undone by 78172653 \"Update financial calculators section to match loan calculator's design\"; background-image: linear-gradient(to right, rgb(238, 242, 255), rgb(250, 245, 255)) → ∅ undone by 78172653 \"Update financial calculators section to match loan calculator's design\"; background-size: auto → ∅ undone by 78172653 \"Update financial calculators section to match loan calculator's design\""
+}

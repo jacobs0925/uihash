@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ec8c9b2ae9462afa6dc84a548d81dc9f1e30024a",
+ "parent": "4e47ced3594244246a555ff16e30ae5aa0d396aa",
+ "date": "2025-10-09",
+ "subject": "Improve security for social sharing links in mortgage calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 122345
+}

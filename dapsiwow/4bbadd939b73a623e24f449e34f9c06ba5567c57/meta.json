@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4bbadd939b73a623e24f449e34f9c06ba5567c57",
+ "parent": "4c362823d1bb23b3474e54719547cfbfb40e9d41",
+ "date": "2025-10-09",
+ "subject": "Assistant checkpoint: Update testimonials section design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 11,
+ "ms": 150503
+}

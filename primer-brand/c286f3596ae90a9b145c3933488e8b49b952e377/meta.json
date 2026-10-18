@@ -1,0 +1,21 @@
+{
+ "repo": "primer-brand",
+ "sha": "c286f3596ae90a9b145c3933488e8b49b952e377",
+ "parent": "35fe61f4b5a2b6da75012d81c2193fa1f8a129ae",
+ "date": "2026-04-22",
+ "subject": "Fix PricingOptions items and header labels backgrounds (#1323)",
+ "pr": "1323",
+ "components": [
+  "PricingOptions"
+ ],
+ "files": [
+  "packages/react/src/PricingOptions/PricingOptions.module.css",
+  "packages/react/src/PricingOptions/PricingOptions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 10,
+ "ms": 245645
+}

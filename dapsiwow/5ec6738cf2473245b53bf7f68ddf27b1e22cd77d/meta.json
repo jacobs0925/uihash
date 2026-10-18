@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "5ec6738cf2473245b53bf7f68ddf27b1e22cd77d",
+ "parent": "3c0a41e5a1310443febe8e673bbc45523582967e",
+ "date": "2025-10-08",
+ "subject": "Remove the automatic scroll-to-top functionality",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 121180
+}

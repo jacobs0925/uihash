@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "4ca846cc2573e1be1b83be30a122fe27f5aeded9",
+ "date": "2025-10-09",
+ "pr": null,
+ "title": "Assistant checkpoint: Add testimonials section to mortgage calculator",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by ae0faa7c, which restored 37ee5825 (1 commit discarded)"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "30d512dd1551288aaf9667620bb49776b3471c21",
+ "date": "2026-04-17",
+ "pr": "1318",
+ "title": "Add overview flex suite templates (#1318)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "5 visual-test baselines updated"
+}

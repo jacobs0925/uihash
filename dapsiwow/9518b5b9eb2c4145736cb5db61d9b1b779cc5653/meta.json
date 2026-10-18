@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "9518b5b9eb2c4145736cb5db61d9b1b779cc5653",
+ "parent": "af59fa720b5a3bc0fd03e4e6cea92c04c5b30f42",
+ "date": "2025-10-08",
+ "subject": "Improve the appearance of the related financial calculators section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/salary-to-hourly-calculator.tsx",
+  "client/src/pages/simple-interest-calculator.tsx",
+  "client/src/pages/stock-profit-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 143529
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "9518b5b9eb2c4145736cb5db61d9b1b779cc5653",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Improve the appearance of the related financial calculators section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2701 later commits"
+}

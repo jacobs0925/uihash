@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "84abb78ec77d8ab9aeb6f32fe6f3669eaafefa92",
+ "parent": "05f170eb20eb5d4b8f6b3b3af2bb7ff165a82143",
+ "date": "2025-10-08",
+ "subject": "Improve loan calculator layout and responsiveness for all devices",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1759919117850.png",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 123035
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "524030493af7915c90e4b0a2dc5839342c01e6c9",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Update financial calculator links to match the loan calculator section",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "border-top-width: 2px → ∅ undone by aefff8fd \"Update compound interest calculator content with new keywords\"; border-right-width: 2px → ∅ undone by aefff8fd \"Update compound interest calculator content with new keywords\"; border-bottom-width: 2px → ∅ undone by aefff8fd \"Update compound interest calculator content with new keywords\""
+}

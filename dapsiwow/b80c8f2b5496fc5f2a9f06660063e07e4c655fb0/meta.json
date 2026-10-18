@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b80c8f2b5496fc5f2a9f06660063e07e4c655fb0",
+ "parent": "e39cc5b08671251b683c1531a472237cc734f455",
+ "date": "2025-10-08",
+ "subject": "Improve calculator layout and responsiveness across devices",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1759897119451.png",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 124700
+}

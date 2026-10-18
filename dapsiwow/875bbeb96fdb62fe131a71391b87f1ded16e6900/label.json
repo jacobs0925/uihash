@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "875bbeb96fdb62fe131a71391b87f1ded16e6900",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Make the EMI calculator's usage instructions fully responsive",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2904 later commits"
+}

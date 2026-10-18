@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "9f3e077d8eb780384658501b4cb3d21db7e3cd52",
+ "parent": "766ff0b78e931e7baefbee3c99b14edb0a91afee",
+ "date": "2025-10-06",
+ "subject": "Assistant checkpoint: Update mortgage results section styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 131315
+}

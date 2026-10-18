@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "036ecbb2a63f4d2a1309f764694df1752a03c430",
+ "parent": "f57bd72697878abd26b6429c2004f4ae84dec8fe",
+ "date": "2025-10-08",
+ "subject": "Add clickable website link to PDF output footer",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1759899454375.png",
+  "client/src/pages/business-loan-calculator.tsx",
+  "client/src/pages/emi-calculator.tsx",
+  "client/src/pages/loan-calculator.tsx",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 130129
+}

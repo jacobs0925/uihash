@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "5f95689291a7a205719022a0f462c00b2a06556e",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Improve responsiveness of business loan calculator FAQ section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2858 later commits"
+}

@@ -5,8 +5,8 @@
  "date": "2025-10-03",
  "pr": null,
  "title": "Enhance loan calculator with new features and user experience improvements",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 3187 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text-align: start → ∅ undone by 40bf500d \"Make the loan term comparison section responsive\"; font-size: 16px → ∅ undone by 40bf500d \"Make the loan term comparison section responsive\"; font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, sans-serif → ∅ undone by 40bf500d \"Make the loan term comparison section responsive\""
 }

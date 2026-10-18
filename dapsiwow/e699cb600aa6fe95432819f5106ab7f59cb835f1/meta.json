@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e699cb600aa6fe95432819f5106ab7f59cb835f1",
+ "parent": "8c525e2e059ef7348f6113756c81eec287d78097",
+ "date": "2025-10-07",
+ "subject": "Assistant checkpoint: Add payment frequency & extra payments to Business Loan Calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 143322
+}

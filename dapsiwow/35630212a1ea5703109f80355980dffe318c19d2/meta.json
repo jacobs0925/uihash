@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "35630212a1ea5703109f80355980dffe318c19d2",
+ "parent": "de834b9c28eefa0e817090e38921d49d6ab7eecc",
+ "date": "2025-10-08",
+ "subject": "Make the loan calculator disclaimer responsive on all devices",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 162712
+}

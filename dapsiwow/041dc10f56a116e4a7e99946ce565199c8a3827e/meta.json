@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "041dc10f56a116e4a7e99946ce565199c8a3827e",
+ "parent": "8651e4f1cbd6a2c4e0149bd6f713d23cf0e639cb",
+ "date": "2025-10-06",
+ "subject": "Align amortization schedule PDF export with loan calculator functionality",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 126233
+}

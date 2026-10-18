@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e820bf2053a24644c70d7c6ef4a006cea55776da",
+ "parent": "979bfb518b15796672af8c96c97b1ad55636e1a0",
+ "date": "2025-10-06",
+ "subject": "Add last updated and verification details to mortgage calculator page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1759757259272.png",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 144684
+}

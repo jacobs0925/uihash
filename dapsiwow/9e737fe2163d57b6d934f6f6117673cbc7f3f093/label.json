@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "9e737fe2163d57b6d934f6f6117673cbc7f3f093",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Make loan calculator section responsive on all devices",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "line-height: 24px → 1.625 undone by d67fa9e0 \"Make the loan calculator formula explanation section responsive\"; line-height: 24px → 1.625 undone by d67fa9e0 \"Make the loan calculator formula explanation section responsive\"; line-height: 24px → 1.625 undone by d67fa9e0 \"Make the loan calculator formula explanation section responsive\""
+}

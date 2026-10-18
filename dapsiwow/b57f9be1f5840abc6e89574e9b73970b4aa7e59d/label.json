@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "b57f9be1f5840abc6e89574e9b73970b4aa7e59d",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Make the business loan calculator section responsive across devices",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2883 later commits"
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "305a4d2eaa6a9a27d342b27771f91c4501d25933",
+ "parent": "089bcb5ca83eb4cac361a7738535e85acba5f34d",
+ "date": "2025-10-08",
+ "subject": "Remove percentage labels from loan calculator visualization",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 125191
+}

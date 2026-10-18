@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "6e0e0836a247d4aaef532a5ed0e89add70ba6a4b",
+ "parent": "489e74e68910e70faf255273cee5df0901f651d3",
+ "date": "2025-10-07",
+ "subject": "Adapt business loan calculator to match mortgage calculator features",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1759842572019.png",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 126732
+}

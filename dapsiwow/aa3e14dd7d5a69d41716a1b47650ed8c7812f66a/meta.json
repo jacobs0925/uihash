@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "aa3e14dd7d5a69d41716a1b47650ed8c7812f66a",
+ "parent": "f7feb13227de82843b582d97c912216a4d572ecb",
+ "date": "2025-10-08",
+ "subject": "Update loan calculator to display detailed loan information",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1759898956953.png",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 127517
+}

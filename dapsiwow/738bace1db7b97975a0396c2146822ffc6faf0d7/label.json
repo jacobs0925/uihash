@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "738bace1db7b97975a0396c2146822ffc6faf0d7",
+ "date": "2025-10-06",
+ "pr": null,
+ "title": "Update business loan calculator with new design and SEO content",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "font-size: 24px → 18px undone by 5f956892 \"Improve responsiveness of business loan calculator FAQ section\"; line-height: 32px → 28px undone by 5f956892 \"Improve responsiveness of business loan calculator FAQ section\"; font-size: 24px → 18px undone by 5f956892 \"Improve responsiveness of business loan calculator FAQ section\""
+}

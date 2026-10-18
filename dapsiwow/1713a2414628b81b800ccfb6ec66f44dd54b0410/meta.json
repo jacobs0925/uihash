@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "1713a2414628b81b800ccfb6ec66f44dd54b0410",
+ "parent": "7e5245c65270455fd17d681f2fd095fbea49574b",
+ "date": "2025-10-07",
+ "subject": "Remove the payment schedule button from the loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1759822776277.png",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 124838
+}

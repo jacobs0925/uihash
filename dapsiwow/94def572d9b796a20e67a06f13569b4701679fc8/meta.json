@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "94def572d9b796a20e67a06f13569b4701679fc8",
+ "parent": "b06eb785ca61fcdae1082b1f70af6299e37aa9f4",
+ "date": "2025-10-08",
+ "subject": "Make the loan calculator page responsive across devices",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1759909395351.png",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 178030
+}

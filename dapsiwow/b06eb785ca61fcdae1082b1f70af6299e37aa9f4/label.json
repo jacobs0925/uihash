@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "b06eb785ca61fcdae1082b1f70af6299e37aa9f4",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Make financial calculator section responsive on all devices",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2862 later commits"
+}

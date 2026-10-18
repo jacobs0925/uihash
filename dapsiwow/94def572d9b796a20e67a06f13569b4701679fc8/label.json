@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "94def572d9b796a20e67a06f13569b4701679fc8",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Make the loan calculator page responsive across devices",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2861 later commits"
+}

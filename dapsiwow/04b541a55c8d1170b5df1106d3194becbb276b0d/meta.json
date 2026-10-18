@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "04b541a55c8d1170b5df1106d3194becbb276b0d",
+ "parent": "aa3e14dd7d5a69d41716a1b47650ed8c7812f66a",
+ "date": "2025-10-08",
+ "subject": "Enhance business loan calculator with detailed sharing options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1759899117543.png",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 129995
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8651e4f1cbd6a2c4e0149bd6f713d23cf0e639cb",
+ "parent": "b05688c0c0a893e86a1aa3805b1e7594ce33af9d",
+ "date": "2025-10-06",
+ "subject": "Assistant checkpoint: Redesigned Mortgage Calculator with clean UI and SEO content",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 46,
+ "ms": 164083
+}

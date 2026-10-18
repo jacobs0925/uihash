@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "7e5245c65270455fd17d681f2fd095fbea49574b",
+ "parent": "2acb33cd087a9a7e295cd771af52cbcd2c688b4b",
+ "date": "2025-10-07",
+ "subject": "Remove payment schedule button from business loan results",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 123947
+}

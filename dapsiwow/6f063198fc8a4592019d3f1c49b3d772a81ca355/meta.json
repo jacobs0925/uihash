@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "6f063198fc8a4592019d3f1c49b3d772a81ca355",
+ "parent": "e1cb2d8021089a8a2517666e34dc3c85bc75023f",
+ "date": "2025-10-06",
+ "subject": "Restored to 'a4ffa4384b7012eb9d7bd76f5d47ab9ad0113440'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 132267
+}

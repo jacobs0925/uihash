@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "cf5e395d9d98fa6c1025c347fb26a28c9730a82c",
+ "parent": "87ea161a345abca07e8931e3cd193c35b801db5f",
+ "date": "2025-10-08",
+ "subject": "Update business loan calculator with enhanced funding keywords and details",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 149416
+}

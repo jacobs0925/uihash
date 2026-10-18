@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b06eb785ca61fcdae1082b1f70af6299e37aa9f4",
+ "parent": "1dfead6c237459c62b71a965409d67bcd17e7a86",
+ "date": "2025-10-08",
+ "subject": "Make financial calculator section responsive on all devices",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 8,
+ "ms": 154708
+}

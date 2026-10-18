@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "bb020c7ff1d057138cf414e84eb84b17acad5b4c",
+ "parent": "d6489b07d07fa2af7dd93ce22b69215e535bcdd5",
+ "date": "2025-10-08",
+ "subject": "Make loan calculator instructions fully responsive on all devices",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 8,
+ "ms": 194894
+}

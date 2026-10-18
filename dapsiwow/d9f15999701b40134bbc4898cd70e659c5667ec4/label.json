@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "d9f15999701b40134bbc4898cd70e659c5667ec4",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Improve responsiveness of the loan calculator explanation section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2843 later commits"
+}

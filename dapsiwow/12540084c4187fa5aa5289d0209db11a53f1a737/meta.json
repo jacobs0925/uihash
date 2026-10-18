@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "12540084c4187fa5aa5289d0209db11a53f1a737",
+ "parent": "3ec1d01920d55bc29c0cb2680e3b6cf265662fa2",
+ "date": "2025-10-08",
+ "subject": "Make the \"What is a Business Loan Calculator?\" section fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 153367
+}

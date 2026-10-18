@@ -1,0 +1,34 @@
+{
+ "repo": "dapsiwow",
+ "sha": "3aac159cbc249d81bd1457d091fae4e57316738b",
+ "parent": "215bfce37482badeb6016a56c7ab6122b071107e",
+ "date": "2025-10-07",
+ "subject": "Restored to '445710245cf49fa022b8290393d69a6253bf0d0d'",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/App.tsx",
+  "client/src/data/tools.ts",
+  "client/src/lib/api.ts",
+  "client/src/pages/pdf-encryption-tool.tsx",
+  "package-lock.json",
+  "package.json",
+  "server/index.ts",
+  "server/routes.ts",
+  "server/storage.ts",
+  "server/vite.ts",
+  "shared/schema.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 135987
+}

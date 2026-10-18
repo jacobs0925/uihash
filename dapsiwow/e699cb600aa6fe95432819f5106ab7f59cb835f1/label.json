@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "e699cb600aa6fe95432819f5106ab7f59cb835f1",
+ "date": "2025-10-07",
+ "pr": null,
+ "title": "Assistant checkpoint: Add payment frequency & extra payments to Business Loan Calculator",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 54004175, which restored 8c525e2e (1 commit discarded)"
+}

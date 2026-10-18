@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "153c30b4a4d1d0e05ff74864613553ba05d1adf8",
+ "date": "2025-10-07",
+ "pr": null,
+ "title": "Align business loan calculator UI with the loan calculator design",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2961 later commits"
+}

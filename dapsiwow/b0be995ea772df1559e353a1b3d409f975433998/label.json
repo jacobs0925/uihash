@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "b0be995ea772df1559e353a1b3d409f975433998",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Make the Business Loan Calculator's FAQ section responsive",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2865 later commits"
+}

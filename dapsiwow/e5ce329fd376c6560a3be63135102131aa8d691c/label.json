@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "e5ce329fd376c6560a3be63135102131aa8d691c",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Improve loan comparison section to work on all devices",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2871 later commits"
+}

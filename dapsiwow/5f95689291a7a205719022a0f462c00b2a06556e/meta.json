@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "5f95689291a7a205719022a0f462c00b2a06556e",
+ "parent": "480d3447c1af40792dcdc97c57c1c784d574366f",
+ "date": "2025-10-08",
+ "subject": "Improve responsiveness of business loan calculator FAQ section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 9,
+ "ms": 208856
+}

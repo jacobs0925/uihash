@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d9f15999701b40134bbc4898cd70e659c5667ec4",
+ "parent": "0fbc7f228326bed8d4f220d6e714e9f6b0f1784a",
+ "date": "2025-10-08",
+ "subject": "Improve responsiveness of the loan calculator explanation section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 9,
+ "ms": 185447
+}

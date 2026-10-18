@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "801e5695b9311611abed8a5db54f7847dc8d72b5",
+ "parent": "35d41afa595c250d6f16aba849332fa9682211dc",
+ "date": "2025-10-05",
+ "subject": "Assistant checkpoint: Redesigned EMI Calculator with modern layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 10,
+ "ms": 140129
+}

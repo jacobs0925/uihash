@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "40bf500df68d129baba5a22c8e98cc75479a3146",
+ "parent": "ccd6704338c19e00fc99a68ab136faffb5260511",
+ "date": "2025-10-08",
+ "subject": "Make the loan term comparison section responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 7,
+ "ms": 214563
+}

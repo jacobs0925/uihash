@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "821ec5abdaf2f7685cc3e02ef822560b766337c5",
+ "date": "2025-10-05",
+ "pr": null,
+ "title": "Assistant checkpoint: Update EMI results section design to match loan calculator",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "margin-bottom: 24px → 32px undone by ca229c15 \"Restored to 'fa67484bfb35f5f3537080d85645b2dea7abdf01'\"; margin-bottom: 24px → 32px undone by ca229c15 \"Restored to 'fa67484bfb35f5f3537080d85645b2dea7abdf01'\"; margin-bottom: 24px → 32px undone by ca229c15 \"Restored to 'fa67484bfb35f5f3537080d85645b2dea7abdf01'\""
+}

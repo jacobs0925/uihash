@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "871437cb94404d3403fef7781f33837d29de0d7e",
+ "parent": "35ec9234e312940e7fd966e1906e7694c073bce3",
+ "date": "2025-10-08",
+ "subject": "Make the mortgage calculator's usage instructions fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 8,
+ "ms": 195931
+}

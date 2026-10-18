@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "5a07ac8b850dd48c9028e52d6d9a29ee423337ed",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Make the business loan payment calculation steps fully responsive",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2898 later commits"
+}

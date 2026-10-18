@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "3b3a7b14234c751181854697361eced6e3154f54",
+ "parent": "982c2d7b2af3d72ebb0b69870b5c369f1aa0955b",
+ "date": "2025-10-08",
+ "subject": "Update mortgage calculator with improved SEO keywords and schema markup",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 9,
+ "ms": 146673
+}

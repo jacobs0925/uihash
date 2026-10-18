@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b0be995ea772df1559e353a1b3d409f975433998",
+ "parent": "f2c5e798f8c8568b7d74736252859fc5a4ab94ef",
+ "date": "2025-10-08",
+ "subject": "Make the Business Loan Calculator's FAQ section responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/.latest.json",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 177929
+}

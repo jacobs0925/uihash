@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e5ce329fd376c6560a3be63135102131aa8d691c",
+ "parent": "1fc5de043e864127c2e5fbe7f4e43020e6ec44ad",
+ "date": "2025-10-08",
+ "subject": "Improve loan comparison section to work on all devices",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 5,
+ "ms": 177699
+}

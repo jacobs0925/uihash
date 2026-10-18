@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "01eb9033532d7888c660b48cccfb5a08b6a91404",
+ "parent": "6678ae7cfb93f894b4211b1973a8ca45a9e9c784",
+ "date": "2025-10-07",
+ "subject": "Add option to show or hide loan payment schedule",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1759824219632.png",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 127387
+}

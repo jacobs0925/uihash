@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d67fa9e0e92e4f22bd58f7d48b248015a68f5091",
+ "parent": "9d461fa94686adcd61af7f5466e4a0e8a205a493",
+ "date": "2025-10-08",
+ "subject": "Make the loan calculator formula explanation section responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 178306
+}

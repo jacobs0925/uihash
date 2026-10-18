@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6096d124e14c74c31d95b7c83657958176d816c6",
+ "parent": "bcbb3da166299a516ae529937bf40170763bcf73",
+ "date": "2025-11-12",
+ "subject": "Add fetchPriority high to UnlockCoachingButton",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/UnlockCoachingButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 67653
+}

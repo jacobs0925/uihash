@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c21dcb6e52c82a0a36a515fcf624a516b5e49594",
+ "parent": "c375290532bac2a8e6f8665e9c996870c75e87b9",
+ "date": "2025-11-12",
+ "subject": "Redesign mobile plan banner",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/account/SubscriptionStatusBanner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 68601
+}

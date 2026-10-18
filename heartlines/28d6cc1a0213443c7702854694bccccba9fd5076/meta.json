@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "28d6cc1a0213443c7702854694bccccba9fd5076",
+ "parent": "04f128686cf6ef9ae80d1bc81c043ebcbff35f04",
+ "date": "2025-11-18",
+ "subject": "Tighten homepage nav spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 80671
+}

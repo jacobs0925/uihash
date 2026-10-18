@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "beb4fd71c19edfa397172ffc2ed59049f072af75",
+ "parent": "da31cfd7ef86acef195b3a79f3c660c6b9b49b50",
+ "date": "2025-11-17",
+ "subject": "Sync breathing glow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/UnlockCoachingButton.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75088
+}

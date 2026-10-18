@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "dfad54bac9e63117b220db49bfb6a8d20f0dbec9",
+ "parent": "a83deaacc9548966951caad05072aab336043ec9",
+ "date": "2025-11-10",
+ "subject": "Reduce avatar glow on mobile and tablet",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 68388
+}

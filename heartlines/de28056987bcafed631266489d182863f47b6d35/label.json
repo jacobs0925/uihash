@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "de28056987bcafed631266489d182863f47b6d35",
+ "date": "2025-11-13",
+ "pr": null,
+ "title": "Make orbs more visible",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by ab708a2e, which restored 25d09a34 (3 commits discarded)"
+}

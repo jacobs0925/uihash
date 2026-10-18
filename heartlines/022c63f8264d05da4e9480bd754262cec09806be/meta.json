@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "022c63f8264d05da4e9480bd754262cec09806be",
+ "parent": "64fee4ef2ec09e75b6ec8013032644e8f2da5b7f",
+ "date": "2025-11-17",
+ "subject": "Save to user-specific key",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75518
+}

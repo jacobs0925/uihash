@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "63c81bdf77e2dab7ce184d71c6a9d526e8be3d6c",
+ "parent": "2824920dc1c66117da66f4835b4d25742da485a5",
+ "date": "2025-11-18",
+ "subject": "Grow avatar breathing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/UnlockCoachingButton.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75936
+}

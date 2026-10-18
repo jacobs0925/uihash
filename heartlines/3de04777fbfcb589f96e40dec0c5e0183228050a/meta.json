@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3de04777fbfcb589f96e40dec0c5e0183228050a",
+ "parent": "710740839d5c0c5bac7defc0e230d9c2dd081054",
+ "date": "2025-11-18",
+ "subject": "Increase Kai avatar size in CTA",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/UnlockCoachingButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75887
+}

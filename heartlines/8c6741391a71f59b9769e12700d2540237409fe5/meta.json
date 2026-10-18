@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8c6741391a71f59b9769e12700d2540237409fe5",
+ "parent": "4ff19cbbdb6dae0536f6d31dc007e2d9e10e6396",
+ "date": "2025-11-12",
+ "subject": "Increase header glow opacity",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75437
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3467afd0c49b91d04c84aa9e16269abc14ddcf41",
+ "parent": "f07d54febc15a77538d251acfcea5a690a514637",
+ "date": "2025-11-12",
+ "subject": "Enhance button glow visually",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/UnlockCoachingButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 74815
+}

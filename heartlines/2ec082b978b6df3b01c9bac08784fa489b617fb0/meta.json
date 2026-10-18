@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2ec082b978b6df3b01c9bac08784fa489b617fb0",
+ "parent": "10a751dae961454bfd305ed849ba5ce52add62f4",
+ "date": "2025-11-12",
+ "subject": "Make account label match Dashboard",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SimpleHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 74168
+}

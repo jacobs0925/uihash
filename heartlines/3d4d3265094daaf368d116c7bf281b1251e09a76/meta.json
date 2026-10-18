@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3d4d3265094daaf368d116c7bf281b1251e09a76",
+ "parent": "c9c552f481c07efe6047792bb1dfe6495281f500",
+ "date": "2025-11-17",
+ "subject": "Remove avatar overflow clipping",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/avatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 76058
+}

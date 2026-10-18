@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "16afec2e9730706e4ed2f76e84b17f986639e063",
+ "parent": "0cf2212d1cb5dc18410e12b50dbcf18418abb072",
+ "date": "2025-11-12",
+ "subject": "Enhance profile header desktop size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 67684
+}

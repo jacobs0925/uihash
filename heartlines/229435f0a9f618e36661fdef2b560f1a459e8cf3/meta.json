@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "229435f0a9f618e36661fdef2b560f1a459e8cf3",
+ "parent": "ab708a2e4bb80e923d11cff4d1a5d41826a6a2c1",
+ "date": "2025-11-13",
+ "subject": "Reduce desktop splash timing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FirstVisitSplash.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75068
+}

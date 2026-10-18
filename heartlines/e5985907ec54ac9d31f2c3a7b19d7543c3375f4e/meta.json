@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "e5985907ec54ac9d31f2c3a7b19d7543c3375f4e",
+ "parent": "4154eb645d76374cf19920d585709df51fa2dbff",
+ "date": "2025-11-12",
+ "subject": "Improve splash loading sequence",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/FirstVisitSplash.tsx",
+  "src/config/criticalResources.ts",
+  "src/hooks/useResourceLoader.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 69035
+}

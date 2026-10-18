@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "191133d49bb04b4d5d437e2a0ef6772cf84256bb",
+ "parent": "ed576fc183624692ea8dcf97bf7d80f5a17050b8",
+ "date": "2025-11-10",
+ "subject": "Implement fresh data read in questionnaire",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 66033
+}

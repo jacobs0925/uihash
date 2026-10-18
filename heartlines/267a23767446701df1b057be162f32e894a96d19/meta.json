@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "267a23767446701df1b057be162f32e894a96d19",
+ "parent": "ff769fff7a944a54a2eb620a2f03417c8d413bc2",
+ "date": "2025-11-17",
+ "subject": "Remove profile background orbs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 72272
+}

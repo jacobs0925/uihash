@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e02e61168e0723b134e9cd301226885a8aaf4f3b",
+ "parent": "ea8bde8617cdd4f5b7f0c4a9c27f5d374ff923a5",
+ "date": "2025-11-13",
+ "subject": "Wrap header on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75067
+}

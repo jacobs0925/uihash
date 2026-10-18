@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "1d264efeb3f54702f97f04d193d7aa3a2d0acea7",
+ "parent": "2abfa9748997b2b872a6070496e8c9e876f39d36",
+ "date": "2025-11-17",
+ "subject": "Glassy button with float avatar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/UnlockCoachingButton.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 73560
+}

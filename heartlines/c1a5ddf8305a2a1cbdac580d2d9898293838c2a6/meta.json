@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c1a5ddf8305a2a1cbdac580d2d9898293838c2a6",
+ "parent": "63c81bdf77e2dab7ce184d71c6a9d526e8be3d6c",
+ "date": "2025-11-18",
+ "subject": "Allow avatar breathing outside bounds",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/UnlockCoachingButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75496
+}

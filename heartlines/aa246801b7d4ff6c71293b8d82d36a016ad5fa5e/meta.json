@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "aa246801b7d4ff6c71293b8d82d36a016ad5fa5e",
+ "parent": "628d711b024928ad4b4afbf100afc545231dd30a",
+ "date": "2025-11-10",
+ "subject": "Initialize cached fields from localStorage",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 66551
+}

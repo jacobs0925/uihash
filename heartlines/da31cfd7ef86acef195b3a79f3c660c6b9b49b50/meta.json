@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "da31cfd7ef86acef195b3a79f3c660c6b9b49b50",
+ "parent": "de253c92663d18f3581bc4b35ff5c5cf8543a88f",
+ "date": "2025-11-17",
+ "subject": "Tiny dummy change unlockbutton",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/UnlockCoachingButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75461
+}

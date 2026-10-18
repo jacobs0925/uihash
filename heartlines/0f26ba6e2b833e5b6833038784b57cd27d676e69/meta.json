@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "0f26ba6e2b833e5b6833038784b57cd27d676e69",
+ "parent": "9cb4c6c76b26d70945fd0f105ac10ed44d1b1a09",
+ "date": "2025-11-17",
+ "subject": "Improve progressive access flow",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useDashboardModalHandlers.tsx",
+  "src/hooks/useProgressiveAccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75452
+}

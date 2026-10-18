@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2824920dc1c66117da66f4835b4d25742da485a5",
+ "parent": "acb5fa5b70e1bc902e6571a4bf479d011706ebc1",
+ "date": "2025-11-18",
+ "subject": "Remove avatar pulsing on hover",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/UnlockCoachingButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 76321
+}

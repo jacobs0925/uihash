@@ -5,8 +5,8 @@
  "date": "2025-11-06",
  "pr": null,
  "title": "Fix profile page background visibility",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1042 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-image: linear-gradient(to right, rgba(236, 122, 81, 0.2), rgba(244, 114, 182, 0.15), rgba(251, 146, 60, 0.2)) → linear-gradient(to right, rgba(236, 122, 81, 0.4), rgba(244, 114, 182, 0.3), rgba(251, 146, 60, 0.4)) undone by ee57c383 \"Substitute Subtle Right Orb\"; background-image: linear-gradient(to right, rgba(236, 122, 81, 0.2), rgba(244, 114, 182, 0.15), rgba(251, 146, 60, 0.2)) → linear-gradient(to right, rgba(236, 122, 81, 0.4), rgba(244, 114, 182, 0.3), rgba(251, 146, 60, 0.4)) undone by ee57c383 \"Substitute Subtle Right Orb\"; background-image: linear-gradient(to right, rgba(236, 122, 81, 0.2), rgba(244, 114, 182, 0.15), rgba(251, 146, 60, 0.2)) → linear-gradient(to right, rgba(236, 122, 81, 0.4), rgba(244, 114, 182, 0.3), rgba(251, 146, 60, 0.4)) undone by ee57c383 \"Substitute Subtle Right Orb\""
 }

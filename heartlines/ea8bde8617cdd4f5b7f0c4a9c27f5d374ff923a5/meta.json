@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ea8bde8617cdd4f5b7f0c4a9c27f5d374ff923a5",
+ "parent": "1a2a1ac64dba162d4200919ef78607088b347abf",
+ "date": "2025-11-13",
+ "subject": "Improve header wrapping on profile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 74388
+}

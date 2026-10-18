@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "5f22eeb8223c76782382dd421a2b95d92718be54",
+ "date": "2025-11-12",
+ "pr": null,
+ "title": "Enhance profile cards styling",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 834 later commits"
+}

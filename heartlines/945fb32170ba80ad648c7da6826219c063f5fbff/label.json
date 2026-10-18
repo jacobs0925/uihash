@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "945fb32170ba80ad648c7da6826219c063f5fbff",
+ "date": "2025-11-13",
+ "pr": null,
+ "title": "Promote right orb prominence",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by ab708a2e, which restored 25d09a34 (3 commits discarded)"
+}

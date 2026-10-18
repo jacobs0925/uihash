@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "5f22eeb8223c76782382dd421a2b95d92718be54",
+ "parent": "213266e1ea191cc99ea018e8bd6a462da98086ef",
+ "date": "2025-11-12",
+ "subject": "Enhance profile cards styling",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/ProfileBuilder/ProfileCard.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 218609
+}

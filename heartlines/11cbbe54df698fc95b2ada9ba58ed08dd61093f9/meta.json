@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "11cbbe54df698fc95b2ada9ba58ed08dd61093f9",
+ "parent": "5a393a746577c9615dc603f7fbbff2f1ee620b7a",
+ "date": "2025-11-10",
+ "subject": "Make chat outline pink",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65391
+}

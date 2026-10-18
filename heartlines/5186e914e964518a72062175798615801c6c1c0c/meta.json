@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5186e914e964518a72062175798615801c6c1c0c",
+ "parent": "3bfa6c489febc2e971760d0a314d502fad1c014e",
+ "date": "2025-11-13",
+ "subject": "Enhance Kai Avatar Glow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/UnlockCoachingButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75197
+}

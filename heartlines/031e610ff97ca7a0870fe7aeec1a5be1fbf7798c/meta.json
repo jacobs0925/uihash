@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "031e610ff97ca7a0870fe7aeec1a5be1fbf7798c",
+ "parent": "1d264efeb3f54702f97f04d193d7aa3a2d0acea7",
+ "date": "2025-11-17",
+ "subject": "Enhance profile button glow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/UnlockCoachingButton.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 76526
+}

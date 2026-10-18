@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "ff769fff7a944a54a2eb620a2f03417c8d413bc2",
+ "parent": "6e05c503a33f99850170165942474b79e3ec159e",
+ "date": "2025-11-17",
+ "subject": "Make storage user-specific",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useProfileStoreV2.tsx",
+  "src/utils/authCleanup.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75054
+}

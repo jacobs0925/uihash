@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "4e043e0ceda8ac4280798251c5ece3545c35bbd2",
+ "parent": "acd02f502618682d0314e56433d0ed513444356c",
+ "date": "2025-11-18",
+ "subject": "Improve avatar glow sync",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/UnlockCoachingButton.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 78622
+}

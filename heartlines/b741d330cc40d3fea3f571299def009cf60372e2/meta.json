@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b741d330cc40d3fea3f571299def009cf60372e2",
+ "parent": "191133d49bb04b4d5d437e2a0ef6772cf84256bb",
+ "date": "2025-11-10",
+ "subject": "Remove requestAnimationFrame delays",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useProfileStoreV2.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 66520
+}

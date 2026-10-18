@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d05514037d65425476976180d9faeda47154bb42",
+ "parent": "8813b826eb73645bdaf5a898d9dfeace50facabe",
+ "date": "2025-11-13",
+ "subject": "Adjust header wrap on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 77283
+}

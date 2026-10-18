@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "220600ce92741f2005d536eecc10904e69a52200",
+ "parent": "f03454c94ada9af8a9320a3d8c9ff9a2d8f46445",
+ "date": "2025-11-18",
+ "subject": "Adjust mobile header size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 76304
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "25d09a347eff6e9ad752dcde93ab229cf37d754b",
+ "date": "2025-11-13",
+ "pr": null,
+ "title": "Add balanced right orb in coach",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 803 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "eb6f17fdd01cdc2e8409a865933244c5c25f4289",
+ "parent": "8c6741391a71f59b9769e12700d2540237409fe5",
+ "date": "2025-11-12",
+ "subject": "Simplify Profile Card Hover",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder/ProfileCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75726
+}

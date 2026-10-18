@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "51ae66166f48e6c425fb0a89aa7f70245c80e236",
+ "parent": "1ba4b407e4702d6f19abcb218c578e1bae733267",
+ "date": "2025-11-10",
+ "subject": "Dispatch update event on questionnaire close",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 66055
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "eab43d096d64dbad731c4ffe7dda480d7b9053b2",
+ "parent": "f3e0f732a34791ec6c1ed3db7e416d3b2d26542c",
+ "date": "2025-11-13",
+ "subject": "Scale down desktop header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 76064
+}

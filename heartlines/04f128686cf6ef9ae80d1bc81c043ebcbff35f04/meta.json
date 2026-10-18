@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "04f128686cf6ef9ae80d1bc81c043ebcbff35f04",
+ "parent": "8c881001d19d5c2d9468c8957569a739379dda4e",
+ "date": "2025-11-18",
+ "subject": "Revise landing page nav popover",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 79154
+}

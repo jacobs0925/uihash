@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ed576fc183624692ea8dcf97bf7d80f5a17050b8",
+ "parent": "0cc5b7f1f6a9583c2c8a84ce72098b47966f5a02",
+ "date": "2025-11-10",
+ "subject": "Add updateTrigger reactivity",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/usePersonalProfileData.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 72734
+}

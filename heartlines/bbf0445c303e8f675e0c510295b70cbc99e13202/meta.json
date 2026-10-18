@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "bbf0445c303e8f675e0c510295b70cbc99e13202",
+ "parent": "b9951be6893485725ffad5c684dc2ceb9e0f35ca",
+ "date": "2025-11-12",
+ "subject": "Center banner and real-time updates",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/account/SubscriptionStatusBanner.tsx",
+  "src/hooks/useOptimizedSubscription.ts",
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 69209
+}

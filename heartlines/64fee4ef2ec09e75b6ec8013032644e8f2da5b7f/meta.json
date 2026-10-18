@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "64fee4ef2ec09e75b6ec8013032644e8f2da5b7f",
+ "parent": "064b1edabdf05e6ab0d7f985f2ca2eba13db1f34",
+ "date": "2025-11-17",
+ "subject": "Improve live profile updates",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75942
+}

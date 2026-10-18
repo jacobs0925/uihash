@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "eef6468196d3e591afa49130120f7a81eb5d1b16",
+ "parent": "b326ebb6715b6a507c965c60ca56b82c2e4be2b1",
+ "date": "2025-11-12",
+ "subject": "Make chat bubbles glass outline",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatMessage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75143
+}

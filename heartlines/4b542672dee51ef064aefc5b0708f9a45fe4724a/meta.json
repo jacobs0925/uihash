@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4b542672dee51ef064aefc5b0708f9a45fe4724a",
+ "parent": "54ca70f08da71452b965002ac747b3fd9bf1e413",
+ "date": "2025-11-12",
+ "subject": "Sync SimpleHeader Desktop Nav with DashboardHeader",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SimpleHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75715
+}

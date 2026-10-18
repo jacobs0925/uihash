@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "1c2dc3714f0bebb736f44a979a9093f8cd2539e5",
+ "parent": "9ee6fc7d48242f79779af9db87e0f2145fe610ec",
+ "date": "2025-11-17",
+ "subject": "Disable autofill on profiles",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPartnerProfile/components/questions/PartnerNamePronounsCard.tsx",
+  "src/components/NewPersonalQuestionnaire/components/sections/WhoYouAre/NamePronounsCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 73865
+}

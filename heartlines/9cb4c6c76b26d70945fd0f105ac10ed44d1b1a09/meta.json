@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9cb4c6c76b26d70945fd0f105ac10ed44d1b1a09",
+ "parent": "697d53a1aded5e2ebd52534f272c3d3a175d6581",
+ "date": "2025-11-17",
+ "subject": "Sync data after modal close",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useDashboardModalHandlers.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75211
+}

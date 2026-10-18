@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "b9951be6893485725ffad5c684dc2ceb9e0f35ca",
+ "parent": "c21dcb6e52c82a0a36a515fcf624a516b5e49594",
+ "date": "2025-11-12",
+ "subject": "Center mobile banner text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/account/SubscriptionStatusBanner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 68010
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2abfa9748997b2b872a6070496e8c9e876f39d36",
+ "parent": "c12f05ee206713b2962b2f2b3e52c23d6817a5f9",
+ "date": "2025-11-17",
+ "subject": "Replace profile button with UnlockCoachingButton",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75486
+}

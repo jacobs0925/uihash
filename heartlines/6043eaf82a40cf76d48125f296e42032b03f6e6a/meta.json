@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "6043eaf82a40cf76d48125f296e42032b03f6e6a",
+ "parent": "a1fac6395bc1e0b0413fd74843a5aa25005689dc",
+ "date": "2025-11-12",
+ "subject": "Reverted to commit f07d54febc15a77538d251acfcea5a690a514637",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/UnlockCoachingButton.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 74193
+}

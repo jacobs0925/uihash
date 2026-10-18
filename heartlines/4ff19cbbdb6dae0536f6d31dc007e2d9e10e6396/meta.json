@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4ff19cbbdb6dae0536f6d31dc007e2d9e10e6396",
+ "parent": "6043eaf82a40cf76d48125f296e42032b03f6e6a",
+ "date": "2025-11-12",
+ "subject": "Make header brighter with 200s",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 74251
+}

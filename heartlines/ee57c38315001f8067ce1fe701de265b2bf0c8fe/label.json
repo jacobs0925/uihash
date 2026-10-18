@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "ee57c38315001f8067ce1fe701de265b2bf0c8fe",
+ "date": "2025-11-13",
+ "pr": null,
+ "title": "Substitute Subtle Right Orb",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 795 later commits"
+}

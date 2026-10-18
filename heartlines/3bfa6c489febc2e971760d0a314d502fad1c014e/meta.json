@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3bfa6c489febc2e971760d0a314d502fad1c014e",
+ "parent": "eab43d096d64dbad731c4ffe7dda480d7b9053b2",
+ "date": "2025-11-13",
+ "subject": "Reduce desktop header size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 75014
+}

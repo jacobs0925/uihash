@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "41392ec3fab39c580d1f7d8a49dff5152d162bd2",
+ "parent": "f49b193314514840c5bbf33b33a0237449b0f54d",
+ "date": "2025-11-18",
+ "subject": "Shrink mobile avatar",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/UnlockCoachingButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 77578
+}

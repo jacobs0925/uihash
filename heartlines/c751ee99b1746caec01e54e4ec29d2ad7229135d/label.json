@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "c751ee99b1746caec01e54e4ec29d2ad7229135d",
+ "date": "2025-11-13",
+ "pr": null,
+ "title": "Make orbs blur 100px",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by ab708a2e, which restored 25d09a34 (3 commits discarded)"
+}

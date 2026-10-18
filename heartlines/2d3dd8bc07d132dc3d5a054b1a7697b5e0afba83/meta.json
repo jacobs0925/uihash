@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2d3dd8bc07d132dc3d5a054b1a7697b5e0afba83",
+ "parent": "8abf2c108d21f0360740ca57163664e3f68e0d0a",
+ "date": "2025-11-12",
+ "subject": "Mute current plan CTA and handle loading",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 68924
+}

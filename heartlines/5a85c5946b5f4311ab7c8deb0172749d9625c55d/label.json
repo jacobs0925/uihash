@@ -5,8 +5,8 @@
  "date": "2025-10-03",
  "pr": null,
  "title": "Fix: Add spacing to pricing page header",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2721 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-bottom: 32px → 48px undone by 8abf2c10 \"Center Pricing Banner Spacing\"; margin-bottom: 32px → 48px undone by 8abf2c10 \"Center Pricing Banner Spacing\"; margin-bottom: 32px → 48px undone by 8abf2c10 \"Center Pricing Banner Spacing\""
 }

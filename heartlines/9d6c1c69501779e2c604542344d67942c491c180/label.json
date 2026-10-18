@@ -5,8 +5,8 @@
  "date": "2025-10-29",
  "pr": null,
  "title": "Fix: Position CTA buttons as 6th grid item",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1332 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "grid-template-columns: repeat(5, minmax(0px, 1fr)) → repeat(6, minmax(0px, 1fr)) undone by 2085f68d \"Rework desktop CTAs placement\"; grid-template-columns: repeat(5, minmax(0px, 1fr)) → repeat(6, minmax(0px, 1fr)) undone by 2085f68d \"Rework desktop CTAs placement\"; grid-template-columns: repeat(5, minmax(0px, 1fr)) → repeat(6, minmax(0px, 1fr)) undone by 2085f68d \"Rework desktop CTAs placement\""
 }

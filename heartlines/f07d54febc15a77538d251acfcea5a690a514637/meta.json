@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f07d54febc15a77538d251acfcea5a690a514637",
+ "parent": "5f22eeb8223c76782382dd421a2b95d92718be54",
+ "date": "2025-11-12",
+ "subject": "Round progress to milestones",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useOptimizedProfileCompletion.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 74795
+}

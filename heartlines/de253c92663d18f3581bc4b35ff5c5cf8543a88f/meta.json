@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "de253c92663d18f3581bc4b35ff5c5cf8543a88f",
+ "parent": "031e610ff97ca7a0870fe7aeec1a5be1fbf7798c",
+ "date": "2025-11-17",
+ "subject": "Slow avatar breathing and glow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/UnlockCoachingButton.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 73619
+}

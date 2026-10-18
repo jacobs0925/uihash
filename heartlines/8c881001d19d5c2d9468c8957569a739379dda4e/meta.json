@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8c881001d19d5c2d9468c8957569a739379dda4e",
+ "parent": "c9c7003ad7ae6fa96a38c87913631bdba636f39d",
+ "date": "2025-11-18",
+ "subject": "Replace header nav with popover",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SimpleHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 80741
+}

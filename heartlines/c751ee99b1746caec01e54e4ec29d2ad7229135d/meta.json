@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c751ee99b1746caec01e54e4ec29d2ad7229135d",
+ "parent": "945fb32170ba80ad648c7da6826219c063f5fbff",
+ "date": "2025-11-13",
+ "subject": "Make orbs blur 100px",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/PremiumBackground.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 100087
+}

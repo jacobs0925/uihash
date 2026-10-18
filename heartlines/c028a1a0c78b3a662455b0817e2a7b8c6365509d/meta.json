@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c028a1a0c78b3a662455b0817e2a7b8c6365509d",
+ "parent": "53d71f53c6b173e6129bcba9d6e4cdc3c50eba93",
+ "date": "2025-11-25",
+ "subject": "Remove light orbs from auth",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 71912
+}

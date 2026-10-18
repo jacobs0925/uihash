@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "cbf9b03d3569ca8b84ff26c5662cb018d3a8f310",
+ "parent": "3a90f4afd851d7d0e432279a492c12ea38099014",
+ "date": "2025-11-21",
+ "subject": "Visual edit in Lovable",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61083
+}

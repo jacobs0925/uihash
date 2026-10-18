@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "385ecfc90fec4c160b87e187f5115229e9b5e153",
+ "parent": "79a4c038a69bb38a31ba6489522b0f638bb0a5c8",
+ "date": "2025-11-25",
+ "subject": "Reduce flip phone icon size on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 55739
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "381b3cbd814395e09e0df249daf91e47bd5b3e7a",
+ "parent": "1029459d600648283206a2cf611860f308a51e0f",
+ "date": "2025-11-20",
+ "subject": "Make hover glassy white border",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61393
+}

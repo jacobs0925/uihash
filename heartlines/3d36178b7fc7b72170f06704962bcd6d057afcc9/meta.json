@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3d36178b7fc7b72170f06704962bcd6d057afcc9",
+ "parent": "c3679c768f35b716ef330e3951af5b92bdfd64a6",
+ "date": "2025-11-21",
+ "subject": "Increase pricing grid margin",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57667
+}

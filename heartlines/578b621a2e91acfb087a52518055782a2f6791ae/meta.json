@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "578b621a2e91acfb087a52518055782a2f6791ae",
+ "parent": "1b8d358ec95a960f0a1d0aef523c4a64e8c15a9e",
+ "date": "2025-11-25",
+ "subject": "Enable magic link login",
+ "components": [
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "src/pages/Auth.tsx",
+  "supabase/functions/send-auth-email/_templates/magic-link.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 71126
+}

@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "c028a1a0c78b3a662455b0817e2a7b8c6365509d",
+ "date": "2025-11-25",
+ "pr": null,
+ "title": "Remove light orbs from auth",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by acb8dfc2, which restored 9ecbf1e7 (53 commits discarded)"
+}

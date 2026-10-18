@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3c9b5b869ad751e49406d4acc8ec50aa5859ec1d",
+ "parent": "d4830293ca194a462c3a20f8caf58737eac4af06",
+ "date": "2025-11-22",
+ "subject": "Enable desktop scroll for account",
+ "components": [
+  "styles"
+ ],
+ "files": [
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59138
+}

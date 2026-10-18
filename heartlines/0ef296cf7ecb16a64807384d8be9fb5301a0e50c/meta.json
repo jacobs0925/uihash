@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0ef296cf7ecb16a64807384d8be9fb5301a0e50c",
+ "parent": "381410344d9eef7625297a641fc3f6626cdcf0bb",
+ "date": "2025-11-25",
+ "subject": "Add header breathing room",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 1,
+ "ms": 77920
+}

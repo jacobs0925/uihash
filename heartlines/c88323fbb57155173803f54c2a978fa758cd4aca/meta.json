@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c88323fbb57155173803f54c2a978fa758cd4aca",
+ "parent": "195395f7e9aed8e9ecd726214dfdfd883b4b40b2",
+ "date": "2025-11-22",
+ "subject": "Improve checkout redirect UX",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58377
+}

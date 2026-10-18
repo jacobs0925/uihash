@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d24ba2221b10d306b5be2e0313cdbc8baf2284c8",
+ "parent": "9b91fd5da4de9685a590b37f8fc9d11a25611eb7",
+ "date": "2025-11-20",
+ "subject": "Refine toast visuals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/sonner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58809
+}

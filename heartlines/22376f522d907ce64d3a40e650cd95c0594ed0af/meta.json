@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "22376f522d907ce64d3a40e650cd95c0594ed0af",
+ "parent": "6e0d5fb9512d33949d9bc59012ba254899458172",
+ "date": "2025-11-28",
+ "subject": "Remove heart icon from nav",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61758
+}

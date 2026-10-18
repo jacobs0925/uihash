@@ -7,6 +7,6 @@
  "title": "Reverted to commit 7043ee32240ded575283f6fe215181eec1455361",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "padding-top: 20px → 12px undone by 7167b15b \"feat: Adjust header padding for better spacing\"; padding-bottom: 20px → 12px undone by 7167b15b \"feat: Adjust header padding for better spacing\"; padding-top: 20px → 12px undone by 7167b15b \"feat: Adjust header padding for better spacing\""
 }

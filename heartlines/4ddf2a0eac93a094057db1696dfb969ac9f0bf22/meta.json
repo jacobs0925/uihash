@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4ddf2a0eac93a094057db1696dfb969ac9f0bf22",
+ "parent": "574ff95609f41710374b92e2567459482ae3755b",
+ "date": "2025-11-28",
+ "subject": "Fix mobile keyboard on tap",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59523
+}

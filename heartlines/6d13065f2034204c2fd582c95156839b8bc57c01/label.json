@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "6d13065f2034204c2fd582c95156839b8bc57c01",
+ "date": "2025-11-20",
+ "pr": null,
+ "title": "Nudge header spacing",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 712 later commits"
+}

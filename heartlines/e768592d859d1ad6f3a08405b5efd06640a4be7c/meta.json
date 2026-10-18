@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e768592d859d1ad6f3a08405b5efd06640a4be7c",
+ "parent": "5f5c5f1675728376ac52394ba67935f2bc21cc12",
+ "date": "2025-11-25",
+ "subject": "Fix coach nav padding",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 76834
+}

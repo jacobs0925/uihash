@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "99903d785e6535602ab7da257745cee89c39569f",
+ "parent": "b01c3de30802710c0c8b7c5f744aab52bbac2407",
+ "date": "2025-11-28",
+ "subject": "Ensure Kai avatar loads eagerly",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/LandingPage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65209
+}

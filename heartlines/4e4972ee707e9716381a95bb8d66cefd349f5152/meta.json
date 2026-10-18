@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "4e4972ee707e9716381a95bb8d66cefd349f5152",
+ "parent": "ddbb02bc2015dc183224317f4f7472fdd7e65571",
+ "date": "2025-11-27",
+ "subject": "Improve auth autofill fields",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/SignUpModal.tsx",
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 66888
+}

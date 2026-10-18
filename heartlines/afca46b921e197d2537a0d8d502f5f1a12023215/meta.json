@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "afca46b921e197d2537a0d8d502f5f1a12023215",
+ "parent": "d073de281efcd464e2e2734d67aa5452364aec7b",
+ "date": "2025-11-28",
+ "subject": "Refactor iOS focus handlers",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61684
+}

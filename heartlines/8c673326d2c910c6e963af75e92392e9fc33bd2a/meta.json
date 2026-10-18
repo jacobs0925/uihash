@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "8c673326d2c910c6e963af75e92392e9fc33bd2a",
+ "parent": "f4b1e08ee0a6ebf0dbe8a890dc892ad148eb5bac",
+ "date": "2025-11-28",
+ "subject": "Auto-scroll always on",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62307
+}

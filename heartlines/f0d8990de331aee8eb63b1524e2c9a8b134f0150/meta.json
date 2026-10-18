@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "f0d8990de331aee8eb63b1524e2c9a8b134f0150",
+ "parent": "f8e6afaf8dd1cdc42a39ae976a2e99e9ff9fd431",
+ "date": "2025-11-28",
+ "subject": "Increase mobile spacer height",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61757
+}

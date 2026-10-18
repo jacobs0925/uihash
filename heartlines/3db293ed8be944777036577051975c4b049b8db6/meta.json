@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3db293ed8be944777036577051975c4b049b8db6",
+ "parent": "81cb606c87cfdf9b83193163de708f66478a29e5",
+ "date": "2025-11-27",
+ "subject": "Remove auth background orbs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 71028
+}

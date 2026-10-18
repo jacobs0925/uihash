@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "9c38ac0421176b6442b65d2c0fd25c1b2403a371",
+ "date": "2025-11-20",
+ "pr": null,
+ "title": "Increase pricing header spacing",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 714 later commits"
+}

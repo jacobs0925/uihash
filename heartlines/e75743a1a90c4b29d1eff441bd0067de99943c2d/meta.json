@@ -1,0 +1,26 @@
+{
+ "repo": "heartlines",
+ "sha": "e75743a1a90c4b29d1eff441bd0067de99943c2d",
+ "parent": "c8bd3337da1987c837f348e466b369889669c5e0",
+ "date": "2025-11-25",
+ "subject": "Fix cross-browser email verify",
+ "components": [
+  "App.tsx",
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/contexts/AuthContext.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/AuthConfirm.tsx",
+  "supabase/functions/send-auth-email/_templates/email-confirmation.tsx",
+  "supabase/functions/send-auth-email/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58559
+}

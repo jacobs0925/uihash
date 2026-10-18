@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "9ae1caacc7cbd00ff58101790518ed64a9a426e1",
+ "parent": "cd1dac167b0ca59c40f5fef8c9d33f101bf0e8e2",
+ "date": "2025-11-26",
+ "subject": "Fix keyboard loading state",
+ "components": [
+  "components",
+  "hooks"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/hooks/useProgressiveAccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59987
+}

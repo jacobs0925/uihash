@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "4935314c4e6a3121747c579379da97fbd84bf5bd",
+ "parent": "0aca94520389b5223000d46c23aef5d292b1ad0d",
+ "date": "2025-11-21",
+ "subject": "Increase chat persistence to 24h",
+ "components": [
+  "hooks"
+ ],
+ "files": [
+  "src/hooks/useChatHistory.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57597
+}

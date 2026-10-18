@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9ecbf1e7a0be324164be069ebe7fbfaf24d98d15",
+ "parent": "ca0571b0f571f1d4b497f5fad0055277618b857c",
+ "date": "2025-11-24",
+ "subject": "Center mobile splash logo",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SplashScreen.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59739
+}

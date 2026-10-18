@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "7c436730d62adb827ea9c6eddaf2e742dabe9e46",
+ "parent": "afca46b921e197d2537a0d8d502f5f1a12023215",
+ "date": "2025-11-28",
+ "subject": "Fix chrome mobile touch action",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/styles/performance-mobile.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60430
+}

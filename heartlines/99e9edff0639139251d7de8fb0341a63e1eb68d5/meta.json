@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "99e9edff0639139251d7de8fb0341a63e1eb68d5",
+ "parent": "f76adc658d9380aefcb16f412d2349c5772908a8",
+ "date": "2025-11-23",
+ "subject": "Improve auth email feedback",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx",
+  "supabase/functions/send-auth-email/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 70253
+}

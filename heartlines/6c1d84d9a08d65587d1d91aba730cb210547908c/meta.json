@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "6c1d84d9a08d65587d1d91aba730cb210547908c",
+ "parent": "540273ae7331ca2853ba88f9f75c104fd61b57d5",
+ "date": "2025-11-24",
+ "subject": "Add last message scroll helper",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58842
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "5ebb211fc643ef294986f77e1740f24b2f4f31cc",
+ "parent": "60d976e35d2613b9385fffb23cc739b0977c66a8",
+ "date": "2025-11-28",
+ "subject": "Improve profile load on sign-in",
+ "components": [
+  "contexts",
+  "hooks"
+ ],
+ "files": [
+  "src/contexts/AuthContext.tsx",
+  "src/hooks/useProfileStoreV2.tsx",
+  "src/hooks/useProgressiveAccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59596
+}

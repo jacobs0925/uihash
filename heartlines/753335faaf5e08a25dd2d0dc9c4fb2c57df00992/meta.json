@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "753335faaf5e08a25dd2d0dc9c4fb2c57df00992",
+ "parent": "9c38ac0421176b6442b65d2c0fd25c1b2403a371",
+ "date": "2025-11-20",
+ "subject": "Increase trust badges text size",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 10,
+ "ms": 65376
+}

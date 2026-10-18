@@ -1,0 +1,27 @@
+{
+ "repo": "heartlines",
+ "sha": "cf60bcd344eb661a1b26de754456e830f17b6904",
+ "parent": "67690aaa11cf782cdcbfccd825f0c70dc7f50881",
+ "date": "2025-11-25",
+ "subject": "Add conversation memory system",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AICoachEngine.tsx",
+  "src/components/chat/ChatMessageHandler.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/utils/aiResponseCoordinator.ts",
+  "src/utils/conversationMemory.ts",
+  "src/utils/conversationalPrompt.ts",
+  "src/utils/prompt/promptTemplate.ts",
+  "supabase/functions/anthropic-chat/index.ts",
+  "supabase/migrations/20251125210541_43523e82-2aa5-4721-a22e-1f1089091a51.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59632
+}

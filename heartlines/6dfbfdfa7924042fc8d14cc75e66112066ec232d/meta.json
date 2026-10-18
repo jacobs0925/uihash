@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6dfbfdfa7924042fc8d14cc75e66112066ec232d",
+ "parent": "172d405915704d50f6573224838c5f0611f5f55b",
+ "date": "2025-11-25",
+ "subject": "Sync PrivacySecurity styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 88335
+}

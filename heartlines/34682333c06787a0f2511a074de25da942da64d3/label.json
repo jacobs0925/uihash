@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "34682333c06787a0f2511a074de25da942da64d3",
+ "date": "2025-11-20",
+ "pr": null,
+ "title": "Replace send button with plain button",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 719 later commits"
+}

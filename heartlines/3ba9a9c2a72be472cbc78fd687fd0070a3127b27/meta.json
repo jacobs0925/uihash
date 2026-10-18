@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3ba9a9c2a72be472cbc78fd687fd0070a3127b27",
+ "parent": "918deb677e712b0981095ce53d6747503da94783",
+ "date": "2025-11-28",
+ "subject": "Scroll to bottom on banner",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 64626
+}

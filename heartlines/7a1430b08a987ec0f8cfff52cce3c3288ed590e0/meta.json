@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "7a1430b08a987ec0f8cfff52cce3c3288ed590e0",
+ "parent": "5e275021c6d773749842d1ab80b0183682f36cde",
+ "date": "2025-11-23",
+ "subject": "Improve welcome flow robustness",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AuthCallback.tsx",
+  "src/pages/Dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 56301
+}

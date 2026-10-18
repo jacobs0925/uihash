@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "578b621a2e91acfb087a52518055782a2f6791ae",
+ "date": "2025-11-25",
+ "pr": null,
+ "title": "Enable magic link login",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by c8bd3337, which restored 1b8d358e (4 commits discarded)"
+}

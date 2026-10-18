@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a11adf44fc7320ef1d6673a56d97a0efa7b89a82",
+ "parent": "9942e9a86e5acf54a8a6b62b8596b01a040f311e",
+ "date": "2025-11-25",
+ "subject": "Remove icon pulse effect",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 7,
+ "ms": 78616
+}

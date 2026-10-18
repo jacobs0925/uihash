@@ -1,0 +1,22 @@
+{
+ "repo": "heartlines",
+ "sha": "b9cf651ac36bde76cdbd7ae0dbd50dd0a8870025",
+ "parent": "dd6e96e68227e1c3e9b88bc4349fc4beebd73ac9",
+ "date": "2025-11-26",
+ "subject": "Revert mobile chat layout",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58676
+}

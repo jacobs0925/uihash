@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "53103205ba651a6492a8b5c0dad7cadd3d5d019d",
+ "parent": "13a65cc2981cd7e6c1d1ef355e2eb53aececa34e",
+ "date": "2025-11-25",
+ "subject": "Add breathing room on desktops",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/SimpleHeader.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 114434
+}

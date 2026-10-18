@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "d044a3ecc000044537766d9527450a4cba0c71fe",
+ "date": "2025-11-28",
+ "pr": null,
+ "title": "Remove SignInButton across nav",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 538 later commits"
+}

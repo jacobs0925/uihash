@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "34682333c06787a0f2511a074de25da942da64d3",
+ "parent": "76901fa59f75417a905d0bc96bbdeb66064ad051",
+ "date": "2025-11-20",
+ "subject": "Replace send button with plain button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 2,
+ "ms": 81040
+}

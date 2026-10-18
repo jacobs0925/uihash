@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "0c180e462a45ee1985d0817761099dcf6d070fac",
+ "parent": "ea804f953b177cd8b69f592db95a576f89fd33e8",
+ "date": "2025-11-28",
+ "subject": "Add limit banner hook",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/MemoizedChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61823
+}

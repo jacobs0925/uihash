@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "7b0094fd7f54816a7f3f32d736f0ed80acaf3722",
+ "parent": "71329d00aa94557beca98fae6ed4b3c03d2fea91",
+ "date": "2025-11-28",
+ "subject": "Increase flipphone nav spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/SimpleHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62455
+}

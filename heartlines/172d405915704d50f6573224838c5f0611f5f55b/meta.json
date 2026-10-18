@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "172d405915704d50f6573224838c5f0611f5f55b",
+ "parent": "53103205ba651a6492a8b5c0dad7cadd3d5d019d",
+ "date": "2025-11-25",
+ "subject": "Boost flip phone icon size",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/SimpleHeader.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 136619
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "ea804f953b177cd8b69f592db95a576f89fd33e8",
+ "parent": "3ba9a9c2a72be472cbc78fd687fd0070a3127b27",
+ "date": "2025-11-28",
+ "subject": "Compact mobile limit banner",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61457
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "fabf28f3e5088e2b535a1ac0b3c0b875a23cdb1a",
+ "parent": "a11adf44fc7320ef1d6673a56d97a0efa7b89a82",
+ "date": "2025-11-25",
+ "subject": "Show mobile logo on sign-in",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 66265
+}

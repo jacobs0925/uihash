@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "381410344d9eef7625297a641fc3f6626cdcf0bb",
+ "parent": "46939144ab275ea5becfd35a13c9c3dc43f9893f",
+ "date": "2025-11-25",
+ "subject": "Swap feedback and partnerships cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 2,
+ "ms": 68799
+}

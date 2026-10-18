@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "46939144ab275ea5becfd35a13c9c3dc43f9893f",
+ "parent": "87e893b055bd21abbec61f2a0ad752b8a7b3a777",
+ "date": "2025-11-25",
+ "subject": "Add glow to privacy CTA",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 65745
+}

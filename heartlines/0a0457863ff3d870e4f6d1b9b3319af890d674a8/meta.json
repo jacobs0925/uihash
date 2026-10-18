@@ -1,0 +1,27 @@
+{
+ "repo": "heartlines",
+ "sha": "0a0457863ff3d870e4f6d1b9b3319af890d674a8",
+ "parent": "32f7271a4efd942e809ee42afee757165e38cc1d",
+ "date": "2025-11-26",
+ "subject": "Reverted to commit c935106fc439821d3766deacead6351398c906b0",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx",
+  "src/components/DashboardHeader.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/SimpleHeader.tsx",
+  "src/components/SplashScreen.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Auth.tsx",
+  "src/pages/Mission.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 5,
+ "ms": 107546
+}

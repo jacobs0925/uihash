@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "32c5b57fbc2928ec8e8ee8c2e87ed9190d1d5b5a",
+ "parent": "6d13065f2034204c2fd582c95156839b8bc57c01",
+ "date": "2025-11-20",
+ "subject": "Balance header spacing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 75334
+}

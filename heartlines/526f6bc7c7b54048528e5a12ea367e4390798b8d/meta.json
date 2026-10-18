@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "526f6bc7c7b54048528e5a12ea367e4390798b8d",
+ "parent": "2b7399ccc170d765a7654642cd55794f8546b766",
+ "date": "2025-11-22",
+ "subject": "Fix tablet scroll",
+ "components": [
+  "components",
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/components/account/AccountLayout.tsx",
+  "src/pages/Account.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 80462
+}

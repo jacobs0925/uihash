@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "0a0457863ff3d870e4f6d1b9b3319af890d674a8",
+ "date": "2025-11-26",
+ "pr": null,
+ "title": "Reverted to commit c935106fc439821d3766deacead6351398c906b0",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "transform: matrix(1, 0, 0, 1, 0, 0) → ∅ undone by d044a3ec \"Remove SignInButton across nav\"; transform: matrix(1, 0, 0, 1, 0, 0) → ∅ undone by d044a3ec \"Remove SignInButton across nav\"; transform: matrix(1, 0, 0, 1, 0, 0) → ∅ undone by d044a3ec \"Remove SignInButton across nav\""
+}

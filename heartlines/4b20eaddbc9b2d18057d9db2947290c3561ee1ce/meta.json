@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "4b20eaddbc9b2d18057d9db2947290c3561ee1ce",
+ "parent": "34682333c06787a0f2511a074de25da942da64d3",
+ "date": "2025-11-20",
+ "subject": "Improve form text visibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/input.tsx",
+  "src/components/ui/textarea.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58596
+}

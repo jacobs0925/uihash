@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "76901fa59f75417a905d0bc96bbdeb66064ad051",
+ "parent": "1c32e4407a93ebc5b5bf5d518020ed16edb59d53",
+ "date": "2025-11-20",
+ "subject": "Refine send button hover",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58411
+}

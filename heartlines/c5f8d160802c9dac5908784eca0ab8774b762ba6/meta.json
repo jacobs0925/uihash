@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c5f8d160802c9dac5908784eca0ab8774b762ba6",
+ "parent": "4b3256337a1deacd44e553f988b0b5293efedb5a",
+ "date": "2025-11-21",
+ "subject": "Increase spacing in UpgradeModal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57434
+}

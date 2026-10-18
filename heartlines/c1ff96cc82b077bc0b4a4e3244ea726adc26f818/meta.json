@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "c1ff96cc82b077bc0b4a4e3244ea726adc26f818",
+ "parent": "ca6f4b25a3d7a641ddc2831d14074926462fe356",
+ "date": "2025-11-22",
+ "subject": "Remove account-page-scroll CSS",
+ "components": [
+  "pages",
+  "styles"
+ ],
+ "files": [
+  "src/pages/Account.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 82200
+}

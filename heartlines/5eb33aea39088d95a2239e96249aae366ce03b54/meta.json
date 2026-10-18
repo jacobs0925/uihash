@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5eb33aea39088d95a2239e96249aae366ce03b54",
+ "parent": "674f036013eecf0fdd5c731da623fb4c7b3ce20a",
+ "date": "2025-11-23",
+ "subject": "Remove verification toast",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 69117
+}

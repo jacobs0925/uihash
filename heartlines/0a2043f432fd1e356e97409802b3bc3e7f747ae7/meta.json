@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0a2043f432fd1e356e97409802b3bc3e7f747ae7",
+ "parent": "23acf52f6dc5399ce86ab738b2f396dcf396a36e",
+ "date": "2025-11-27",
+ "subject": "Update DashboardHeader drawer icon-only",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59464
+}

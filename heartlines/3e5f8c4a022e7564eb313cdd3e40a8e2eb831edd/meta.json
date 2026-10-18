@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3e5f8c4a022e7564eb313cdd3e40a8e2eb831edd",
+ "parent": "526f6bc7c7b54048528e5a12ea367e4390798b8d",
+ "date": "2025-11-22",
+ "subject": "Make toast more playful",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ui/sonner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60662
+}

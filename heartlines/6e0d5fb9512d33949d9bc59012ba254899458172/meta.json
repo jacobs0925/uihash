@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "6e0d5fb9512d33949d9bc59012ba254899458172",
+ "parent": "46b9565577882eb6db5e0b47ec0e3ec94d974d71",
+ "date": "2025-11-28",
+ "subject": "Remove NavAvatar initial",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 63843
+}

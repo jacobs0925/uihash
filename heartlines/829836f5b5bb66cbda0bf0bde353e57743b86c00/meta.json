@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "829836f5b5bb66cbda0bf0bde353e57743b86c00",
+ "parent": "4ae3a6adf0a6554289a691edc21d1eb59c78fbbc",
+ "date": "2025-11-22",
+ "subject": "Reverted to commit ff4df7d601f166217081dade2691735ca402212a",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/account/AccountSubscription.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59426
+}

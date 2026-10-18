@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "e768592d859d1ad6f3a08405b5efd06640a4be7c",
+ "date": "2025-11-25",
+ "pr": null,
+ "title": "Fix coach nav padding",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "padding-top: 0px → 24px undone by 2d019337 \"Reverted to commit 1b8d358ec95a960f0a1d0aef523c4a64e8c15a9e\"; padding-top: 0px → 24px undone by 2d019337 \"Reverted to commit 1b8d358ec95a960f0a1d0aef523c4a64e8c15a9e\"; padding-top: 0px → 24px undone by acb8dfc2 \"Reverted to commit 9ecbf1e7a0be324164be069ebe7fbfaf24d98d15\""
+}

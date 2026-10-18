@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "73b5d02d9c2a8a364736054a557bd097827367c2",
+ "parent": "378d1358e5b283a40208acf83eff70f979a7754a",
+ "date": "2025-11-21",
+ "subject": "Adjust critical limit to 3 left",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57438
+}

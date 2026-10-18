@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "3b05280a70fefe7046b8366d2a9b913096f12dbe",
+ "parent": "5edfe18c2e68d845e51f51707a20e8e1a6cc5817",
+ "date": "2025-11-28",
+ "subject": "Fix legacy prompt path",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatMessageHandler.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62480
+}

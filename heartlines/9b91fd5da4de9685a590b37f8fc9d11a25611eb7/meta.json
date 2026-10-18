@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9b91fd5da4de9685a590b37f8fc9d11a25611eb7",
+ "parent": "15c9d71648be616a5bd47d0eefe54375c5685b0a",
+ "date": "2025-11-19",
+ "subject": "Adjust Tablet Card Sizing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ProfileBuilder/ProfileCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65342
+}

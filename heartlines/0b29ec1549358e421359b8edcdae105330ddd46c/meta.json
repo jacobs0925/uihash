@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0b29ec1549358e421359b8edcdae105330ddd46c",
+ "parent": "dc8fc7e612cf9cc86b1af55c0d9f10592a5d4352",
+ "date": "2025-11-28",
+ "subject": "Adjust desktop spacer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62564
+}

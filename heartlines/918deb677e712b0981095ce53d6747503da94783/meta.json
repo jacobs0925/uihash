@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "918deb677e712b0981095ce53d6747503da94783",
+ "parent": "7c436730d62adb827ea9c6eddaf2e742dabe9e46",
+ "date": "2025-11-28",
+ "subject": "Remove nearLimit banner",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/chat/ChatInputSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 63031
+}

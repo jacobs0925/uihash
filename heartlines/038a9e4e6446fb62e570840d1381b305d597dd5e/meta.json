@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "038a9e4e6446fb62e570840d1381b305d597dd5e",
+ "parent": "23d039e92b284ccfa72eb76d1befb97b5ba044a7",
+ "date": "2025-11-24",
+ "subject": "Smart scroll mobile chat",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58943
+}

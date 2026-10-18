@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "378d1358e5b283a40208acf83eff70f979a7754a",
+ "parent": "c6b1a70f1ff9065af725ded7e5d58d4af0951ceb",
+ "date": "2025-11-21",
+ "subject": "Condense UpgradeModal spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59456
+}

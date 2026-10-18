@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d044a3ecc000044537766d9527450a4cba0c71fe",
+ "parent": "22376f522d907ce64d3a40e650cd95c0594ed0af",
+ "date": "2025-11-28",
+ "subject": "Remove SignInButton across nav",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/SignInButton.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 120782
+}

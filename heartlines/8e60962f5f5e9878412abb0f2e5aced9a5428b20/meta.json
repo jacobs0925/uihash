@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "8e60962f5f5e9878412abb0f2e5aced9a5428b20",
+ "parent": "9568157cd7abc4cbdcf40e93824dfc6c3dc43596",
+ "date": "2025-11-27",
+ "subject": "Center chat input padding",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AIChatInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 7,
+ "ms": 58875
+}

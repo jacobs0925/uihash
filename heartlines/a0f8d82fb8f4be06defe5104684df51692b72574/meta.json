@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a0f8d82fb8f4be06defe5104684df51692b72574",
+ "parent": "5ebb211fc643ef294986f77e1740f24b2f4f31cc",
+ "date": "2025-11-28",
+ "subject": "Remove stress response question",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/NewPersonalQuestionnaire/components/sections/HowYouOperate.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 63860
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "87e893b055bd21abbec61f2a0ad752b8a7b3a777",
+ "parent": "e4ab8a5d2531a5a565f44d2002f20e35f786c39e",
+ "date": "2025-11-25",
+ "subject": "Remove fixed height on PrivacySecurity header",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 61703
+}

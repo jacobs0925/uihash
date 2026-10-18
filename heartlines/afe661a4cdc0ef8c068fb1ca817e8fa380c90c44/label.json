@@ -5,8 +5,8 @@
  "date": "2025-10-27",
  "pr": null,
  "title": "Update \"our why\" header style",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1402 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "user-select: ∅ → none undone by 753335fa \"Increase trust badges text size\""
 }

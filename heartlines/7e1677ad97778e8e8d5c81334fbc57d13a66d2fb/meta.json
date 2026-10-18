@@ -1,0 +1,26 @@
+{
+ "repo": "heartlines",
+ "sha": "7e1677ad97778e8e8d5c81334fbc57d13a66d2fb",
+ "parent": "2dad628ed3f2473850df81282a387111edd29201",
+ "date": "2025-11-28",
+ "subject": "Reverted to commit c7cd653ae7a827d3a0ca9ca5f5d53d022840554d",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx",
+  "src/components/LandingPage.tsx",
+  "src/components/SimpleHeader.tsx",
+  "src/services/aiService.ts",
+  "src/utils/aiResponseCoordinator.ts",
+  "src/utils/prompt/promptTemplate.ts",
+  "supabase/functions/anthropic-chat/index.ts",
+  "supabase/functions/anthropic-chat/lightPrompt.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62177
+}

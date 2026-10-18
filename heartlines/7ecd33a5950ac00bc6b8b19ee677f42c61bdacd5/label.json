@@ -7,6 +7,6 @@
  "title": "Refactor: Update header treatments",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "background-image: linear-gradient(to right, rgb(244, 114, 182), rgb(236, 122, 81), rgb(236, 145, 81)) → linear-gradient(to right, rgb(252, 231, 243), rgb(254, 215, 170), rgb(252, 231, 243)) undone by 90c0a3c7 \"Visual edit in Lovable\"; transform: ∅ → matrix(1, 0, 0, 1, 0, 0) undone by 90c0a3c7 \"Visual edit in Lovable\"; text-shadow: none → rgba(236, 72, 153, 0.4) 0px 2px 10px, rgba(251, 146, 60, 0.3) 0px 4px 16px undone by 90c0a3c7 \"Visual edit in Lovable\""
 }

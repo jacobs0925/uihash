@@ -1,0 +1,20 @@
+{
+ "repo": "heartlines",
+ "sha": "f8e6afaf8dd1cdc42a39ae976a2e99e9ff9fd431",
+ "parent": "0c180e462a45ee1985d0817761099dcf6d070fac",
+ "date": "2025-11-28",
+ "subject": "Enhance mobile close button",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx",
+  "src/components/ui/dialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60849
+}

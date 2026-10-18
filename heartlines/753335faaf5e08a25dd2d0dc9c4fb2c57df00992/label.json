@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "753335faaf5e08a25dd2d0dc9c4fb2c57df00992",
+ "date": "2025-11-20",
+ "pr": null,
+ "title": "Increase trust badges text size",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 713 later commits"
+}

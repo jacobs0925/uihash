@@ -1,0 +1,23 @@
+{
+ "repo": "heartlines",
+ "sha": "dd6e96e68227e1c3e9b88bc4349fc4beebd73ac9",
+ "parent": "f5700f8a73fde0ce565a291b5bf112cc5b3e7df4",
+ "date": "2025-11-26",
+ "subject": "Fix mobile chat keyboard",
+ "components": [
+  "components",
+  "styles"
+ ],
+ "files": [
+  "src/components/AIChat.tsx",
+  "src/components/ChatContainer.tsx",
+  "src/components/chat/ChatInputSection.tsx",
+  "src/styles/mobile-optimizations.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58017
+}

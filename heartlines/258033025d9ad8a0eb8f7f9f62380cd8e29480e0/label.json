@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "258033025d9ad8a0eb8f7f9f62380cd8e29480e0",
+ "date": "2025-11-20",
+ "pr": null,
+ "title": "Adjust pricing header size",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 715 later commits"
+}

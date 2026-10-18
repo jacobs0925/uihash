@@ -7,6 +7,6 @@
  "title": "Reverted to commit 3a863316d034a6e0c3d8e6ddf8cea6f85e62fe93",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "display: flex → grid undone by fee62aca \"feat: Reposition CTA buttons next to fifth card\"; position: ∅ → relative undone by fee62aca \"feat: Reposition CTA buttons next to fifth card\"; grid-template-columns: ∅ → repeat(5, minmax(0px, 1fr)) undone by fee62aca \"feat: Reposition CTA buttons next to fifth card\""
 }

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "2b7399ccc170d765a7654642cd55794f8546b766",
+ "parent": "1c9d28b35637620b79f19ce400347eedf97f455f",
+ "date": "2025-11-22",
+ "subject": "Adjust tablet grid to 2x2",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/account/AccountSubscription.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58238
+}

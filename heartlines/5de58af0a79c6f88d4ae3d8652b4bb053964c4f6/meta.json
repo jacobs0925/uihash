@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "5de58af0a79c6f88d4ae3d8652b4bb053964c4f6",
+ "parent": "7a1430b08a987ec0f8cfff52cce3c3288ed590e0",
+ "date": "2025-11-23",
+ "subject": "Remove email resen toast",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 67519
+}

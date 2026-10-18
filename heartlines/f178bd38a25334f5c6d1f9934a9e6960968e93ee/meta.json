@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "f178bd38a25334f5c6d1f9934a9e6960968e93ee",
+ "parent": "be42a050219e9052e88cf7fcb08b4f2c61060163",
+ "date": "2025-11-27",
+ "subject": "Add mobile drawer to header",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/SimpleHeader.tsx",
+  "src/pages/PrivacySecurity.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 117369
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0af3556bf65a5a60b4774ed4a4e259dcbf1320e2",
+ "parent": "9fa1d71baec3c93930f88d7596a49676cec9f4a0",
+ "date": "2025-11-25",
+ "subject": "Fix magic link flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AuthCallback.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 62719
+}

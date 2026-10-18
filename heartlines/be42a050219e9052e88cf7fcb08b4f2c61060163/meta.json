@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "be42a050219e9052e88cf7fcb08b4f2c61060163",
+ "parent": "8805e59657f61f704efb9b6895f574b970736e1b",
+ "date": "2025-11-27",
+ "subject": "Enable sign-in username autofill",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/SignUpModal.tsx",
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 65158
+}

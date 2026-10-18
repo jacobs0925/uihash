@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "3db293ed8be944777036577051975c4b049b8db6",
+ "date": "2025-11-27",
+ "pr": null,
+ "title": "Remove auth background orbs",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 570 later commits"
+}

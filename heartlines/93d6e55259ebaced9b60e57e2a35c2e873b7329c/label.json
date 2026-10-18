@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "93d6e55259ebaced9b60e57e2a35c2e873b7329c",
+ "date": "2025-11-20",
+ "pr": null,
+ "title": "Glassify contact page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 724 later commits"
+}

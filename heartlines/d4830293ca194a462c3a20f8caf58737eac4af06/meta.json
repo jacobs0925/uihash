@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "d4830293ca194a462c3a20f8caf58737eac4af06",
+ "parent": "ba6e793818e272eb10d2e7639418bb83ae325a8b",
+ "date": "2025-11-22",
+ "subject": "Fix account layout scroll",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/account/AccountLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57679
+}

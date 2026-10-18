@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c096bda0871a6b6a326b7120e32e4d57062abe0c",
+ "parent": "c028a1a0c78b3a662455b0817e2a7b8c6365509d",
+ "date": "2025-11-25",
+ "subject": "Center mobile sign-in form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 65945
+}

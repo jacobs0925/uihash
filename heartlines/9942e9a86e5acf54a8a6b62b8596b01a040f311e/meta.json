@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "9942e9a86e5acf54a8a6b62b8596b01a040f311e",
+ "parent": "0ef296cf7ecb16a64807384d8be9fb5301a0e50c",
+ "date": "2025-11-25",
+ "subject": "Disable floating animation on mobile",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59267
+}

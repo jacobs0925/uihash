@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e4ab8a5d2531a5a565f44d2002f20e35f786c39e",
+ "parent": "e768592d859d1ad6f3a08405b5efd06640a4be7c",
+ "date": "2025-11-25",
+ "subject": "Fix compact coach padding",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DashboardHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 55332
+}

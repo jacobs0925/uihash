@@ -5,8 +5,8 @@
  "date": "2025-11-06",
  "pr": null,
  "title": "Refactor: Optimize mobile user avatar menu",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1004 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "transform: matrix(1, 0, 0, 1, 0, 0) → ∅ undone by ca0571b0 \"Add logout to all nav menus\"; transform: matrix(1, 0, 0, 1, 0, 0) → ∅ undone by ca0571b0 \"Add logout to all nav menus\"; transform: matrix(1, 0, 0, 1, 0, 0) → ∅ undone by ca0571b0 \"Add logout to all nav menus\""
 }

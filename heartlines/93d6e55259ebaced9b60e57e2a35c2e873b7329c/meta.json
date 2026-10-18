@@ -1,0 +1,21 @@
+{
+ "repo": "heartlines",
+ "sha": "93d6e55259ebaced9b60e57e2a35c2e873b7329c",
+ "parent": "fa9c4b2a8b2e457b81b2d0fd415d4b582c967444",
+ "date": "2025-11-20",
+ "subject": "Glassify contact page",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/index.css",
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 12,
+ "ms": 98480
+}

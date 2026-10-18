@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "fa9c4b2a8b2e457b81b2d0fd415d4b582c967444",
+ "parent": "d24ba2221b10d306b5be2e0313cdbc8baf2284c8",
+ "date": "2025-11-20",
+ "subject": "Add Sparkles icon to toast",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Contact.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 66893
+}

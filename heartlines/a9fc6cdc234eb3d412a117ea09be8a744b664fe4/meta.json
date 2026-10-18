@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "a9fc6cdc234eb3d412a117ea09be8a744b664fe4",
+ "parent": "acc2104591acc1c9054cccee9cec2cfedbc0a406",
+ "date": "2025-11-23",
+ "subject": "Improve signup feedback UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Auth.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 68223
+}

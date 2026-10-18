@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "ce8666d7e000249d61caa96175fc4f855fbc717f",
+ "date": "2025-11-20",
+ "pr": null,
+ "title": "Visual edit in Lovable",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 717 later commits"
+}

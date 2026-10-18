@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "e7973da5531f7ee6e99c2d5e8174fedfb6e8bb52",
+ "parent": "9b999d2027990d9c5931b2ce5859f0cc1c011d1c",
+ "date": "2025-11-25",
+ "subject": "Fix CTA positioning on mobile",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59515
+}

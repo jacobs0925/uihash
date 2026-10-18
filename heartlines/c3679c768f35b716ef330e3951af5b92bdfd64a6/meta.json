@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c3679c768f35b716ef330e3951af5b92bdfd64a6",
+ "parent": "ed13153569f277f24cf2ee4eec30e317e79f0952",
+ "date": "2025-11-21",
+ "subject": "Compact UpgradeModal layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/modals/UpgradeModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58206
+}

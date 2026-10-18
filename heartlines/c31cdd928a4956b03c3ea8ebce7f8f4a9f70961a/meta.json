@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "c31cdd928a4956b03c3ea8ebce7f8f4a9f70961a",
+ "parent": "ce8666d7e000249d61caa96175fc4f855fbc717f",
+ "date": "2025-11-20",
+ "subject": "Sync plans header styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Pricing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 83307
+}

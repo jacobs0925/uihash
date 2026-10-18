@@ -1,0 +1,12 @@
+{
+ "app": "heartlines",
+ "group": "heartlines",
+ "sha": "32c5b57fbc2928ec8e8ee8c2e87ed9190d1d5b5a",
+ "date": "2025-11-20",
+ "pr": null,
+ "title": "Balance header spacing",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 711 later commits"
+}

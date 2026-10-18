@@ -1,0 +1,19 @@
+{
+ "repo": "heartlines",
+ "sha": "0f2fad3ee433c9ae7dd668aad6f7e07286f0cc1b",
+ "parent": "f0d8990de331aee8eb63b1524e2c9a8b134f0150",
+ "date": "2025-11-28",
+ "subject": "Set mobile spacer to 33px",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ChatContainer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61842
+}

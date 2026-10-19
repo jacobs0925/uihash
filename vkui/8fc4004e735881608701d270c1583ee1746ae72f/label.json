@@ -1,0 +1,12 @@
+{
+ "app": "vkui",
+ "group": "vkui",
+ "sha": "8fc4004e735881608701d270c1583ee1746ae72f",
+ "date": "2026-05-15",
+ "pr": "8613",
+ "title": "feat: unstable_ExpressiveSpinner (#8613)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "1 visual-test baselines updated"
+}

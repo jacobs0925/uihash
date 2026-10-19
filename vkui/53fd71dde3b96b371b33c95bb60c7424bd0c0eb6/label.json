@@ -1,0 +1,12 @@
+{
+ "app": "vkui",
+ "group": "vkui",
+ "sha": "53fd71dde3b96b371b33c95bb60c7424bd0c0eb6",
+ "date": "2026-03-30",
+ "pr": "9523",
+ "title": "fix(CellButton): remove inheritance (#9523)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "10 visual-test baselines updated"
+}

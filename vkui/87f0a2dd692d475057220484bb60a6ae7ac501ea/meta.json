@@ -1,0 +1,20 @@
+{
+ "repo": "vkui",
+ "sha": "87f0a2dd692d475057220484bb60a6ae7ac501ea",
+ "parent": "33916a1c99376959b514203fd3b994bf3eff6569",
+ "date": "2026-06-04",
+ "subject": "fix(PTR): content overflow clip (#9881)",
+ "pr": "9881",
+ "components": [
+  "PullToRefresh"
+ ],
+ "files": [
+  "packages/vkui/src/components/PullToRefresh/PullToRefresh.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 398872
+}

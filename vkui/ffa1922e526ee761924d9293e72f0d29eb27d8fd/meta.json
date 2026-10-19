@@ -1,0 +1,20 @@
+{
+ "repo": "vkui",
+ "sha": "ffa1922e526ee761924d9293e72f0d29eb27d8fd",
+ "parent": "bf650066475038f1662dc9c29ea42733d97e4f63",
+ "date": "2026-07-01",
+ "subject": "feat(View): horizontal transition (#10000)",
+ "pr": "10000",
+ "components": [
+  "View"
+ ],
+ "files": [
+  "packages/vkui/src/components/View/View.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 87446
+}

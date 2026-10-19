@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "22abc2caa70fe788c83939ca105d1ba2514321a9",
+ "parent": "cbf5da86f709c41245997041b18f24c275e04386",
+ "date": "2025-11-01",
+ "subject": "Add first and last name inputs to signup and display default avatar on profile",
+ "components": [
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/contexts/AuthContext.tsx",
+  "client/src/pages/profile.tsx",
+  "client/src/pages/signup.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 154380
+}

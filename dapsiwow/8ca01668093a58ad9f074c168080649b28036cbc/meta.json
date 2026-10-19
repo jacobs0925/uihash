@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8ca01668093a58ad9f074c168080649b28036cbc",
+ "parent": "106096801685ec10ff07cdda5375a2b6b31c5334",
+ "date": "2025-10-30",
+ "subject": "Show all tool calculation histories in user profile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/loan-calculator.tsx",
+  "client/src/pages/mortgage-calculator.tsx",
+  "client/src/pages/profile.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 154218
+}

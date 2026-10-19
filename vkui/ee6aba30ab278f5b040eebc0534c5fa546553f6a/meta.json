@@ -1,0 +1,28 @@
+{
+ "repo": "vkui",
+ "sha": "ee6aba30ab278f5b040eebc0534c5fa546553f6a",
+ "parent": "5a98fea5d176be6f3379c77f859e228741cdd76f",
+ "date": "2026-07-22",
+ "subject": "feat: rm ModalPageFooter (#10068)",
+ "pr": "10068",
+ "components": [
+  "ModalPage",
+  "ModalPageFooter"
+ ],
+ "files": [
+  "packages/vkui/src/components/ModalPage/ModalPage.module.css",
+  "packages/vkui/src/components/ModalPage/ModalPage.stories.tsx",
+  "packages/vkui/src/components/ModalPage/types.ts",
+  "packages/vkui/src/components/ModalPageFooter/ModalPageFooter.module.css",
+  "packages/vkui/src/components/ModalPageFooter/ModalPageFooter.test.tsx",
+  "packages/vkui/src/components/ModalPageFooter/ModalPageFooter.tsx",
+  "packages/vkui/src/index.ts",
+  "website/content/components/modal-page.mdx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 664875
+}

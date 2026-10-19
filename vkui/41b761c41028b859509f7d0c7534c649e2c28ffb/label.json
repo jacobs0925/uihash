@@ -1,0 +1,12 @@
+{
+ "app": "vkui",
+ "group": "vkui",
+ "sha": "41b761c41028b859509f7d0c7534c649e2c28ffb",
+ "date": "2026-05-06",
+ "pr": "9782",
+ "title": "feat(WriteBar): add sub components (#9782)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "4 visual-test baselines updated"
+}

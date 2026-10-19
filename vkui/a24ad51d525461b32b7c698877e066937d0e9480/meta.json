@@ -1,0 +1,20 @@
+{
+ "repo": "vkui",
+ "sha": "a24ad51d525461b32b7c698877e066937d0e9480",
+ "parent": "ffa1922e526ee761924d9293e72f0d29eb27d8fd",
+ "date": "2026-07-02",
+ "subject": "fix(FormField): cursor not-allowed for disabled (#10006)",
+ "pr": "10006",
+ "components": [
+  "FormField"
+ ],
+ "files": [
+  "packages/vkui/src/components/FormField/FormField.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 54971
+}

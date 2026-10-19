@@ -1,0 +1,12 @@
+{
+ "app": "vkui",
+ "group": "vkui",
+ "sha": "c259d4f4d966e624d9d145dab32292bcf7e41584",
+ "date": "2026-02-10",
+ "pr": "9415",
+ "title": "feat(FormLayoutGroup): add noPadding (#9415)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "10 visual-test baselines updated"
+}

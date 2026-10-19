@@ -1,0 +1,32 @@
+{
+ "repo": "vkui",
+ "sha": "75a0990680d2d2378e87d47ac9a89cc4565699cd",
+ "parent": "b464b3653af90da66cf48dd0ab44c6d0f10aa78d",
+ "date": "2026-04-27",
+ "subject": "feat: calendar time use combobox (#9749)",
+ "pr": "9749",
+ "components": [
+  "CalendarTime"
+ ],
+ "files": [
+  "packages/vkui/src/components/Calendar/__image_snapshots__/calendar-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Calendar/__image_snapshots__/calendar-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/CalendarTime/CalendarTime.module.css",
+  "packages/vkui/src/components/CalendarTime/CalendarTime.test.tsx",
+  "packages/vkui/src/components/CalendarTime/CalendarTime.tsx",
+  "packages/vkui/src/components/CalendarTime/CalendarTimePicker.tsx",
+  "packages/vkui/src/components/CalendarTime/ComboBox.tsx",
+  "packages/vkui/src/components/DateInput/DateInput.test.tsx",
+  "packages/vkui/src/helpers/math.ts",
+  "packages/vkui/src/lib/dom.tsx"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/Calendar/__image_snapshots__/calendar-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Calendar/__image_snapshots__/calendar-vkcom-chromium-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 25005
+}

@@ -1,0 +1,45 @@
+{
+ "repo": "vkui",
+ "sha": "41b761c41028b859509f7d0c7534c649e2c28ffb",
+ "parent": "2605996181166216e3eda7b1aa348edeea8f1ebf",
+ "date": "2026-05-06",
+ "subject": "feat(WriteBar): add sub components (#9782)",
+ "pr": "9782",
+ "components": [
+  "WriteBar"
+ ],
+ "files": [
+  "packages/vkui/package.json",
+  "packages/vkui/src/components/WriteBar/WriteBar.module.css",
+  "packages/vkui/src/components/WriteBar/WriteBar.test.tsx",
+  "packages/vkui/src/components/WriteBar/WriteBar.tsx",
+  "packages/vkui/src/components/WriteBar/WriteBarFormField/WriteBarFormField.module.css",
+  "packages/vkui/src/components/WriteBar/WriteBarFormField/WriteBarFormField.tsx",
+  "packages/vkui/src/components/WriteBar/WriteBarFormField/WriteBarFormFieldInlineAfter/WriteBarFormFieldInlineAfter.module.css",
+  "packages/vkui/src/components/WriteBar/WriteBarFormField/WriteBarFormFieldInlineAfter/WriteBarFormFieldInlineAfter.tsx",
+  "packages/vkui/src/components/WriteBar/WriteBarRoot/WriteBarRoot.module.css",
+  "packages/vkui/src/components/WriteBar/WriteBarRoot/WriteBarRoot.tsx",
+  "packages/vkui/src/components/WriteBar/WriteBarRoot/WriteBarRootBeforeOrAfter/WriteBarRootBeforeOrAfter.module.css",
+  "packages/vkui/src/components/WriteBar/WriteBarRoot/WriteBarRootBeforeOrAfter/WriteBarRootBeforeOrAfter.tsx",
+  "packages/vkui/src/components/WriteBar/WriteBarTextarea/WriteBarTextarea.module.css",
+  "packages/vkui/src/components/WriteBar/WriteBarTextarea/WriteBarTextarea.tsx",
+  "packages/vkui/src/components/WriteBar/__image_snapshots__/writebar-icons-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/WriteBar/__image_snapshots__/writebar-icons-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/WriteBar/__image_snapshots__/writebar-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/WriteBar/__image_snapshots__/writebar-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/testing/utils.tsx",
+  "website/content/components/write-bar.mdx",
+  "yarn.lock"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/WriteBar/__image_snapshots__/writebar-icons-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/WriteBar/__image_snapshots__/writebar-icons-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/WriteBar/__image_snapshots__/writebar-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/WriteBar/__image_snapshots__/writebar-ios-webkit-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 60083
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "vkui",
+ "sha": "f71eeea00f919e5809ef355b76a35f7afca6aecc",
+ "parent": "5af992fae6430ef252ceb41ef9c656ed7c084326",
+ "date": "2026-07-21",
+ "subject": "feat(Gallery): add `showArrows=\"always\"` (#10070)",
+ "pr": "10070",
+ "components": [
+  "CarouselBase"
+ ],
+ "files": [
+  "packages/vkui/src/components/CarouselBase/CarouselBase.module.css",
+  "packages/vkui/src/components/CarouselBase/CarouselBase.tsx",
+  "packages/vkui/src/components/CarouselBase/ScrollArrows.tsx",
+  "packages/vkui/src/components/CarouselBase/types.ts",
+  "packages/vkui/src/components/Gallery/Gallery.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 81037
+}

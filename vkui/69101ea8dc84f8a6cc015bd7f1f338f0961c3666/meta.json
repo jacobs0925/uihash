@@ -1,0 +1,41 @@
+{
+ "repo": "vkui",
+ "sha": "69101ea8dc84f8a6cc015bd7f1f338f0961c3666",
+ "parent": "ad7f6954661043a405d94727165fa47361821042",
+ "date": "2026-06-15",
+ "subject": "fix(SegmentedControl): slider border and shadow (#9919)",
+ "pr": "9919",
+ "components": [
+  "SegmentedControl"
+ ],
+ "files": [
+  "packages/vkui/src/components/SegmentedControl/SegmentedControl.module.css",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-vkcom-webkit-light-1-snap.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/SegmentedControl/__image_snapshots__/segmentedcontrol-vkcom-webkit-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 33170
+}

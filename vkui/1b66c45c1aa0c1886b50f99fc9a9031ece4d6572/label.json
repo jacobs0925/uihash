@@ -1,0 +1,12 @@
+{
+ "app": "vkui",
+ "group": "vkui",
+ "sha": "1b66c45c1aa0c1886b50f99fc9a9031ece4d6572",
+ "date": "2026-03-13",
+ "pr": "9582",
+ "title": "feat: revert sticky positioning (#9582)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "77 visual-test baselines updated"
+}

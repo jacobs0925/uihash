@@ -1,0 +1,12 @@
+{
+ "app": "vkui",
+ "group": "vkui",
+ "sha": "e526cec11bd773bd305e0382754938de43a84435",
+ "date": "2026-02-27",
+ "pr": "9522",
+ "title": "fix(SplitCol): remove height (#9522)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "height: 100% → auto undone by 1b66c45c \"feat: revert sticky positioning (#9582)\"; height: 100% → auto undone by 1b66c45c \"feat: revert sticky positioning (#9582)\"; height: 100% → auto undone by 1b66c45c \"feat: revert sticky positioning (#9582)\""
+}

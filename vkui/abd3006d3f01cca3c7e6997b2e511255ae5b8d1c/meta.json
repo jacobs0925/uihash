@@ -1,0 +1,20 @@
+{
+ "repo": "vkui",
+ "sha": "abd3006d3f01cca3c7e6997b2e511255ae5b8d1c",
+ "parent": "ef0ce6f063b12240d92f04ecf2e98a1f30f49e6e",
+ "date": "2026-03-02",
+ "subject": "fix(CustomScrollView): fallback only for pointer fine (#9538)",
+ "pr": "9538",
+ "components": [
+  "CustomScrollView"
+ ],
+ "files": [
+  "packages/vkui/src/components/CustomScrollView/CustomScrollView.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 49568
+}

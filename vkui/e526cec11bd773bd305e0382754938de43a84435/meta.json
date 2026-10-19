@@ -1,0 +1,20 @@
+{
+ "repo": "vkui",
+ "sha": "e526cec11bd773bd305e0382754938de43a84435",
+ "parent": "fb5934ecba702b0dfbef64498a59b5cc813e02be",
+ "date": "2026-02-27",
+ "subject": "fix(SplitCol): remove height (#9522)",
+ "pr": "9522",
+ "components": [
+  "SplitCol"
+ ],
+ "files": [
+  "packages/vkui/src/components/SplitCol/SplitCol.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 52477
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "vkui",
+ "sha": "30da9c2abd8f21f3fafb1d0a52e9e9071dc33d8e",
+ "parent": "229405d73a1cbb47df3260588e34549f666008a8",
+ "date": "2026-04-24",
+ "subject": "fix(FlexItem): fix override flex prop by layout props (#9753)",
+ "pr": "9753",
+ "components": [
+  "Flex"
+ ],
+ "files": [
+  "packages/vkui/src/components/Flex/FlexItem/FlexItem.module.css",
+  "packages/vkui/src/components/Flex/FlexItem/FlexItem.test.tsx",
+  "packages/vkui/src/components/Flex/FlexItem/FlexItem.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 386975
+}

@@ -1,0 +1,46 @@
+{
+ "repo": "vkui",
+ "sha": "53fd71dde3b96b371b33c95bb60c7424bd0c0eb6",
+ "parent": "05354170b42403b956ea9990821b309994325b7a",
+ "date": "2026-03-30",
+ "subject": "fix(CellButton): remove inheritance (#9523)",
+ "pr": "9523",
+ "components": [
+  "CellButton",
+  "SimpleCell"
+ ],
+ "files": [
+  "packages/vkui/src/components/CellButton/CellButton.e2e-playground.tsx",
+  "packages/vkui/src/components/CellButton/CellButton.module.css",
+  "packages/vkui/src/components/CellButton/CellButton.tsx",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-vkcom-webkit-light-1-snap.png",
+  "packages/vkui/src/components/SimpleCell/SimpleCell.module.css",
+  "website/content/components/cell-button.mdx"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/CellButton/__image_snapshots__/cellbutton-vkcom-webkit-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 44331
+}

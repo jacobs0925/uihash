@@ -1,0 +1,12 @@
+{
+ "app": "vkui",
+ "group": "vkui",
+ "sha": "69101ea8dc84f8a6cc015bd7f1f338f0961c3666",
+ "date": "2026-06-15",
+ "pr": "9919",
+ "title": "fix(SegmentedControl): slider border and shadow (#9919)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "10 visual-test baselines updated"
+}

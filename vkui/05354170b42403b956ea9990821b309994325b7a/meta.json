@@ -1,0 +1,25 @@
+{
+ "repo": "vkui",
+ "sha": "05354170b42403b956ea9990821b309994325b7a",
+ "parent": "139963a3c555f65f9530d7a6be0b4ebf94b53981",
+ "date": "2026-03-30",
+ "subject": "feat: add justifySelf (#9609)",
+ "pr": "9609",
+ "components": [
+  "Flex"
+ ],
+ "files": [
+  "packages/vkui/src/components/Flex/Flex.tsx",
+  "packages/vkui/src/components/Flex/FlexItem/FlexItem.module.css",
+  "packages/vkui/src/components/Flex/FlexItem/FlexItem.tsx",
+  "packages/vkui/src/lib/layouts/layoutProps.ts",
+  "packages/vkui/src/lib/layouts/types.ts",
+  "tools/postcss-layout-classes/postcss-layout-classes.test.js.snapshot"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 403231
+}

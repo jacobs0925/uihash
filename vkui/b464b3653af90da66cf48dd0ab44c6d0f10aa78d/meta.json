@@ -1,0 +1,24 @@
+{
+ "repo": "vkui",
+ "sha": "b464b3653af90da66cf48dd0ab44c6d0f10aa78d",
+ "parent": "6863cdb66f6ba0919d721f08f9d48bafefc316a7",
+ "date": "2026-04-27",
+ "subject": "feat(PullToRefresh): remove FixedLayout using (#9745)",
+ "pr": "9745",
+ "components": [
+  "PullToRefresh"
+ ],
+ "files": [
+  "packages/vkui/playwright/index.tsx",
+  "packages/vkui/src/components/FixedLayout/ParentWidthWrapper.tsx",
+  "packages/vkui/src/components/PullToRefresh/PullToRefresh.module.css",
+  "packages/vkui/src/components/PullToRefresh/PullToRefresh.tsx",
+  "packages/vkui/src/lib/layouts/resolveLayoutProps.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 395695
+}

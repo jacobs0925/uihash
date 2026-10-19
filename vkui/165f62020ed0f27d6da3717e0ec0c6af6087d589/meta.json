@@ -1,0 +1,22 @@
+{
+ "repo": "vkui",
+ "sha": "165f62020ed0f27d6da3717e0ec0c6af6087d589",
+ "parent": "f71eeea00f919e5809ef355b76a35f7afca6aecc",
+ "date": "2026-07-21",
+ "subject": "fix(Separator): rm global class (#10069)",
+ "pr": "10069",
+ "components": [
+  "Separator"
+ ],
+ "files": [
+  "packages/vkui/src/components/ModalPage/ModalPageInternal.tsx",
+  "packages/vkui/src/components/Separator/Separator.module.css",
+  "packages/vkui/src/hooks/useAdaptivityWithJSMediaQueries.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 64482
+}

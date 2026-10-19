@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "6807db05587613fd3a89fd41d826421393f7d4fe",
+ "date": "2025-11-02",
+ "pr": null,
+ "title": "Created a checkpoint",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1923 later commits"
+}

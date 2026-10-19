@@ -1,0 +1,46 @@
+{
+ "repo": "vkui",
+ "sha": "4f5173a4e84c876dfe7822a36e3d69ab9e8e4b09",
+ "parent": "a427cdc507d9192763e461bb2f561a633daf0bd7",
+ "date": "2026-06-08",
+ "subject": "fix(Snackbar): mode dark use ColorSchemeProvider (#9834)",
+ "pr": "9834",
+ "components": [
+  "Snackbar"
+ ],
+ "files": [
+  "packages/vkui/src/components/Snackbar/__image_snapshots__/snackbar-mode-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Snackbar/__image_snapshots__/snackbar-mode-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/Basic.module.css",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/Basic.tsx",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-vkcom-webkit-light-1-snap.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/Snackbar/__image_snapshots__/snackbar-mode-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Snackbar/__image_snapshots__/snackbar-mode-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/__image_snapshots__/snackbarbasic-vkcom-webkit-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62553
+}

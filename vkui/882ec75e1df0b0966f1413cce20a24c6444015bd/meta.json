@@ -1,0 +1,23 @@
+{
+ "repo": "vkui",
+ "sha": "882ec75e1df0b0966f1413cce20a24c6444015bd",
+ "parent": "dd8b1c821ef837d434ae721010715bb0aac42709",
+ "date": "2026-06-15",
+ "subject": "build(deps-dev): Bump @biomejs/biome from 2.4.16 to 2.5.0 (#9933)",
+ "pr": "9933",
+ "components": [
+  "FormField"
+ ],
+ "files": [
+  "package.json",
+  "packages/vkui/package.json",
+  "packages/vkui/src/components/FormField/FormField.module.css",
+  "yarn.lock"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 58446
+}

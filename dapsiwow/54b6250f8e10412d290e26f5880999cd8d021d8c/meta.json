@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "54b6250f8e10412d290e26f5880999cd8d021d8c",
+ "parent": "3b1327f4fe708865112260e1358d65f37542c784",
+ "date": "2025-10-31",
+ "subject": "Reduce animation on the \"Calculate Loan\" button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1761877573399.png",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 175658
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "00bf389e1a515641b67a9eacb103f7568f9dc37d",
+ "date": "2025-11-01",
+ "pr": null,
+ "title": "Created a checkpoint",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by 0bcd3ed1, which restored 2bb4bc16 (4 commits discarded)"
+}

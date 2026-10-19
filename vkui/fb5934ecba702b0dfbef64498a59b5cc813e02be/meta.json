@@ -1,0 +1,45 @@
+{
+ "repo": "vkui",
+ "sha": "fb5934ecba702b0dfbef64498a59b5cc813e02be",
+ "parent": "a34f49d794eb96ef7856ffbf254a910ebaae38ff",
+ "date": "2026-02-27",
+ "subject": "fix(PanelHeader): fix z-index for static panel-header (#9521)",
+ "pr": "9521",
+ "components": [
+  "PanelHeader"
+ ],
+ "files": [
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-filled-true-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-filled-true-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-filled-true-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-filled-true-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-filled-true-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-filled-true-vkcom-webkit-light-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-vkcom-webkit-light-1-snap.png",
+  "packages/vkui/src/components/PanelHeader/PanelHeader.module.css"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-filled-true-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-filled-true-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-filled-true-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-filled-true-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-filled-true-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-filled-true-vkcom-webkit-light-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/FixedLayout/__image_snapshots__/fixedlayout-with-vertical-top-vkcom-webkit-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 63891
+}

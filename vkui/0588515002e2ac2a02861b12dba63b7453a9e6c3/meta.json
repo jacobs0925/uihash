@@ -1,0 +1,23 @@
+{
+ "repo": "vkui",
+ "sha": "0588515002e2ac2a02861b12dba63b7453a9e6c3",
+ "parent": "1a348caa38fd786c630487db4381a5a1800b3ebb",
+ "date": "2026-05-04",
+ "subject": "build(deps-dev): Bump @biomejs/biome from 2.4.13 to 2.4.14 (#9780)",
+ "pr": "9780",
+ "components": [
+  "GridAvatar"
+ ],
+ "files": [
+  "package.json",
+  "packages/vkui/package.json",
+  "packages/vkui/src/components/GridAvatar/GridAvatar.module.css",
+  "yarn.lock"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 47074
+}

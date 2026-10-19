@@ -1,0 +1,21 @@
+{
+ "repo": "vkui",
+ "sha": "d78dac75512ab35af8f14855663c62b6a63f079e",
+ "parent": "0c762933d0d6a9a06552dd1011e67661f60135a2",
+ "date": "2026-03-23",
+ "subject": "chore(Flex): rm gap (#9623)",
+ "pr": "9623",
+ "components": [
+  "Flex"
+ ],
+ "files": [
+  "packages/vkui/src/components/Flex/Flex.module.css",
+  "website/content/components/flex.mdx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 420926
+}

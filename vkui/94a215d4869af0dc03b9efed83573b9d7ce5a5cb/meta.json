@@ -1,0 +1,20 @@
+{
+ "repo": "vkui",
+ "sha": "94a215d4869af0dc03b9efed83573b9d7ce5a5cb",
+ "parent": "aac6acf1df3c9b2ea92026dcee65e2d3d06e5713",
+ "date": "2026-02-02",
+ "subject": "fix(Calendar): nav button border-radius (#9416)",
+ "pr": "9416",
+ "components": [
+  "CalendarHeader"
+ ],
+ "files": [
+  "packages/vkui/src/components/CalendarHeader/CalendarHeader.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 47951
+}

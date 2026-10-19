@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a56f45e9cc8fcdc35960dce2d52a07b6056a20ee",
+ "parent": "3fa3bda420d5068d8e3c99e7367e0d8c3516acfa",
+ "date": "2025-11-02",
+ "subject": "Assistant checkpoint: Updated dark mode backgrounds for FAQ and How It Works sections",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 153306
+}

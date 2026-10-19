@@ -1,0 +1,12 @@
+{
+ "app": "vkui",
+ "group": "vkui",
+ "sha": "f7e675981be75b2b97816910747658b725ef247b",
+ "date": "2026-04-22",
+ "pr": "9751",
+ "title": "feat(ContentBadge): extend appearance prop with custom colors (#9751)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "10 visual-test baselines updated"
+}

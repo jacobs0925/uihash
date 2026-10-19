@@ -1,0 +1,43 @@
+{
+ "repo": "vkui",
+ "sha": "c259d4f4d966e624d9d145dab32292bcf7e41584",
+ "parent": "a372d660a642b5f50dd6e2f3496f3ed7cea95777",
+ "date": "2026-02-10",
+ "subject": "feat(FormLayoutGroup): add noPadding (#9415)",
+ "pr": "9415",
+ "components": [
+  "FormLayoutGroup"
+ ],
+ "files": [
+  "packages/vkui/src/components/FormLayoutGroup/FormLayoutGroup.e2e-playground.tsx",
+  "packages/vkui/src/components/FormLayoutGroup/FormLayoutGroup.module.css",
+  "packages/vkui/src/components/FormLayoutGroup/FormLayoutGroup.tsx",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-vkcom-webkit-light-1-snap.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/FormLayoutGroup/__image_snapshots__/formlayoutgroup-vkcom-webkit-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 59514
+}

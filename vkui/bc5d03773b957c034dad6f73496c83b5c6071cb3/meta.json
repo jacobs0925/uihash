@@ -1,0 +1,38 @@
+{
+ "repo": "vkui",
+ "sha": "bc5d03773b957c034dad6f73496c83b5c6071cb3",
+ "parent": "b3bf4ce912dd86908bea7591e0407b77bafa4b98",
+ "date": "2026-04-10",
+ "subject": "fix: rm unused css (#9641)",
+ "pr": "9641",
+ "components": [
+  "ActionSheetItem",
+  "Avatar",
+  "CustomSelect",
+  "FormItem"
+ ],
+ "files": [
+  "packages/vkui-docs-theme/src/components/Navbar/Navbar.module.css",
+  "packages/vkui-docs-theme/src/components/Sidebar/MobileSidebar/MobileSidebar.module.css",
+  "packages/vkui-docs-theme/src/mdx/PackageManagers/PackageManagers.module.css",
+  "packages/vkui/src/components/ActionSheetItem/ActionSheetItem.module.css",
+  "packages/vkui/src/components/Avatar/Avatar.module.css",
+  "packages/vkui/src/components/CustomSelect/CustomSelect.module.css",
+  "packages/vkui/src/components/FormItem/FormItem.module.css",
+  "packages/vkui/src/components/ModalCardBase/ModalCardBase.module.css",
+  "packages/vkui/src/components/PanelHeader/PanelHeader.module.css",
+  "packages/vkui/src/components/Removable/Removable.module.css",
+  "packages/vkui/src/components/Snackbar/subcomponents/Basic/Basic.module.css",
+  "packages/vkui/src/components/View/View.module.css",
+  "website/components/mdx/Overview/Overview.module.css",
+  "website/components/mdx/Playground/PlaygroundPreview/PlaygroundPreview.module.css",
+  "website/components/mdx/PropsTable/PropsTable.module.css",
+  "website/components/mdx/Typography/Typography.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 0,
+ "ms": 68181
+}

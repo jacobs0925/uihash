@@ -1,0 +1,22 @@
+{
+ "repo": "vkui",
+ "sha": "23623dc2a43f6fc608fe4706154c8854ac913995",
+ "parent": "c074f743236acce1d0a5342b30addea2f96e28dc",
+ "date": "2026-06-05",
+ "subject": "fix(Search): fix truncate after text (#9893)",
+ "pr": "9893",
+ "components": [
+  "Search"
+ ],
+ "files": [
+  "packages/vkui/src/components/Search/Search.module.css",
+  "packages/vkui/src/components/Search/Search.stories.tsx",
+  "packages/vkui/src/components/Search/Search.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 29534
+}

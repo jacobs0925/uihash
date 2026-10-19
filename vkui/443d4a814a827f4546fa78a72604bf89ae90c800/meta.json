@@ -1,0 +1,42 @@
+{
+ "repo": "vkui",
+ "sha": "443d4a814a827f4546fa78a72604bf89ae90c800",
+ "parent": "6882168d1235976de0b359b4d8e8a705b5296bee",
+ "date": "2026-02-13",
+ "subject": "fix(Textarea): placeholder padding (#9481)",
+ "pr": "9481",
+ "components": [
+  "Textarea"
+ ],
+ "files": [
+  "packages/vkui/src/components/Textarea/Textarea.e2e-playground.tsx",
+  "packages/vkui/src/components/Textarea/Textarea.module.css",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-vkcom-webkit-light-1-snap.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Textarea/__image_snapshots__/textarea-vkcom-webkit-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 51102
+}

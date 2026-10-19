@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "54b6250f8e10412d290e26f5880999cd8d021d8c",
+ "date": "2025-10-31",
+ "pr": null,
+ "title": "Reduce animation on the \"Calculate Loan\" button",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2009 later commits"
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "vkui",
+ "sha": "39efac9bee23259669208b147014d1503631bffd",
+ "parent": "6272af3988fa4ebfd094831aeed1a1d32b9867b2",
+ "date": "2026-06-11",
+ "subject": "fix(PopoutWrapper): css only child (#9922)",
+ "pr": "9922",
+ "components": [
+  "PopoutWrapper"
+ ],
+ "files": [
+  "packages/vkui/src/components/PopoutWrapper/PopoutWrapper.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 29042
+}

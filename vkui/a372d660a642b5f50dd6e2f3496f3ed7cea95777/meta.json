@@ -1,0 +1,36 @@
+{
+ "repo": "vkui",
+ "sha": "a372d660a642b5f50dd6e2f3496f3ed7cea95777",
+ "parent": "0528ba915b59e52c6be1cd32406f4265ff89df96",
+ "date": "2026-02-10",
+ "subject": "feat: rm opacityDisableAccessibilty (#9473)",
+ "pr": "9473",
+ "components": [
+  "CarouselBase",
+  "Checkbox",
+  "ContentCard",
+  "CustomSelectOption"
+ ],
+ "files": [
+  "packages/vkui/src/components/CarouselBase/CarouselBase.module.css",
+  "packages/vkui/src/components/Checkbox/CheckboxSimple/CheckboxSimple.module.css",
+  "packages/vkui/src/components/ContentCard/ContentCard.module.css",
+  "packages/vkui/src/components/CustomSelectOption/CustomSelectOption.module.css",
+  "packages/vkui/src/components/FormField/FormField.module.css",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalScroll.module.css",
+  "packages/vkui/src/components/IconButton/IconButton.module.css",
+  "packages/vkui/src/components/Removable/Removable.module.css",
+  "packages/vkui/src/components/Search/Search.module.css",
+  "packages/vkui/src/components/SelectionControl/SelectionControl.module.css",
+  "packages/vkui/src/components/SimpleCell/SimpleCell.module.css",
+  "packages/vkui/src/components/Slider/Slider.module.css",
+  "packages/vkui/src/components/SubnavigationButton/SubnavigationButton.module.css",
+  "packages/vkui/src/components/TabsItem/TabsItem.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 78435
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "vkui",
+ "sha": "0e4e5e3c092b55497cea44238f8769f2d1d26746",
+ "parent": "443d4a814a827f4546fa78a72604bf89ae90c800",
+ "date": "2026-02-13",
+ "subject": "fix(Calendar): nowrap for select (#9480)",
+ "pr": "9480",
+ "components": [
+  "CustomSelectOption"
+ ],
+ "files": [
+  "packages/vkui/src/components/CalendarTime/CalendarTimePicker.tsx",
+  "packages/vkui/src/components/CustomSelectOption/CustomSelectOption.module.css",
+  "packages/vkui/src/components/CustomSelectOption/CustomSelectOption.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 48648
+}

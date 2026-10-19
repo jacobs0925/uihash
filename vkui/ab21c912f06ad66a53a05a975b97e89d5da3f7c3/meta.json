@@ -1,0 +1,20 @@
+{
+ "repo": "vkui",
+ "sha": "ab21c912f06ad66a53a05a975b97e89d5da3f7c3",
+ "parent": "df50528dff094edee69c43bd19ff8ad179acaaf4",
+ "date": "2026-02-26",
+ "subject": "fix(PanelHeader): fix float mode (#9516)",
+ "pr": "9516",
+ "components": [
+  "PanelHeader"
+ ],
+ "files": [
+  "packages/vkui/src/components/PanelHeader/PanelHeader.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 75522
+}

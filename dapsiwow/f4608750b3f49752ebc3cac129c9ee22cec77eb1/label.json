@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "f4608750b3f49752ebc3cac129c9ee22cec77eb1",
+ "date": "2025-10-31",
+ "pr": null,
+ "title": "Reduce button animations across all finance tools",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2007 later commits"
+}

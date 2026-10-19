@@ -1,0 +1,26 @@
+{
+ "repo": "vkui",
+ "sha": "c1c7ba98599399cc6233a5cf5879ea9f6fa078a1",
+ "parent": "4e17e5a45b3d75d857a0ba97bfe855bb8963dec6",
+ "date": "2026-05-15",
+ "subject": "fix: rename WriteBar.Root.* to  WriteBar.* (#9823)",
+ "pr": "9823",
+ "components": [
+  "WriteBar"
+ ],
+ "files": [
+  "packages/vkui/src/components/WriteBar/WriteBar.tsx",
+  "packages/vkui/src/components/WriteBar/WriteBarBeforeOrAfter/WriteBarBeforeOrAfter.module.css",
+  "packages/vkui/src/components/WriteBar/WriteBarBeforeOrAfter/WriteBarBeforeOrAfter.tsx",
+  "packages/vkui/src/components/WriteBar/WriteBarRoot/WriteBarRoot.tsx",
+  "packages/vkui/src/components/WriteBar/WriteBarRoot/WriteBarRootBeforeOrAfter/WriteBarRootBeforeOrAfter.module.css",
+  "packages/vkui/src/components/WriteBar/WriteBarRoot/WriteBarRootBeforeOrAfter/WriteBarRootBeforeOrAfter.tsx",
+  "website/content/components/write-bar.mdx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 66945
+}

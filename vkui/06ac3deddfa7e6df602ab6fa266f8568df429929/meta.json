@@ -1,0 +1,26 @@
+{
+ "repo": "vkui",
+ "sha": "06ac3deddfa7e6df602ab6fa266f8568df429929",
+ "parent": "8fbbf1f923d261096646d580fe62af298b80397f",
+ "date": "2026-04-13",
+ "subject": "fix(ImageBase): add container for image to cut filter blur effect (#9706)",
+ "pr": "9706",
+ "components": [
+  "ImageBase"
+ ],
+ "files": [
+  "packages/vkui/src/components/ImageBase/ImageBase.e2e-playground.tsx",
+  "packages/vkui/src/components/ImageBase/ImageBase.e2e.tsx",
+  "packages/vkui/src/components/ImageBase/ImageBase.module.css",
+  "packages/vkui/src/components/ImageBase/ImageBase.tsx",
+  "packages/vkui/src/components/ImageBase/__image_snapshots__/imagebase-image-with-filter-android-chromium-light-1-snap.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/ImageBase/__image_snapshots__/imagebase-image-with-filter-android-chromium-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 76718
+}

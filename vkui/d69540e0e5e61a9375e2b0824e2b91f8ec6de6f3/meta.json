@@ -1,0 +1,44 @@
+{
+ "repo": "vkui",
+ "sha": "d69540e0e5e61a9375e2b0824e2b91f8ec6de6f3",
+ "parent": "4fc3cf940112c2178eaf905585f408957d455128",
+ "date": "2026-01-28",
+ "subject": "feat(Button): add elevation (#9379)",
+ "pr": "9379",
+ "components": [
+  "Button"
+ ],
+ "files": [
+  "packages/vkui/src/components/Button/Button.e2e-playground.tsx",
+  "packages/vkui/src/components/Button/Button.module.css",
+  "packages/vkui/src/components/Button/Button.tsx",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-vkcom-webkit-light-1-snap.png",
+  "packages/vkui/src/types.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/Button/__image_snapshots__/button-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Button/__image_snapshots__/button-vkcom-webkit-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 79475
+}

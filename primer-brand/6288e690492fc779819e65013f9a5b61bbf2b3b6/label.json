@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "6288e690492fc779819e65013f9a5b61bbf2b3b6",
+ "date": "2026-07-28",
+ "pr": "1413",
+ "title": "Hero batch updates: Add ActionMenu to Hero and ButtonGroup changes, full-bleed media and more (#1413)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "30 visual-test baselines updated"
+}

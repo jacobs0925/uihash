@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "808df8a6c084a43f7f3d3c43386f3b171dae1c47",
+ "date": "2026-07-27",
+ "pr": "1365",
+ "title": "[Brand Refactor] River and RiverAccordion updates (#1365)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "42 visual-test baselines updated"
+}

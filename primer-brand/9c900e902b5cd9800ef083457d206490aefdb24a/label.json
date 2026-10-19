@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "9c900e902b5cd9800ef083457d206490aefdb24a",
+ "date": "2026-05-29",
+ "pr": "1359",
+ "title": "[Brand Refactor] Button + form control updates (#1359)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "245 visual-test baselines updated"
+}

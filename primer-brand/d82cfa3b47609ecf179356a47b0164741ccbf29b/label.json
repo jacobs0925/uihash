@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "d82cfa3b47609ecf179356a47b0164741ccbf29b",
+ "date": "2026-05-29",
+ "pr": "1353",
+ "title": "[Brand Refactor] Media playlist component + SubNav and Pagination fix (#1353)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "28 visual-test baselines updated"
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "primer-brand",
+ "sha": "03fcd314a5afb8c92e757f0792aeafaf009a07fe",
+ "parent": "f3a70ed8e2a160ccb4129e4ef21ecaf34ed113e8",
+ "date": "2026-06-15",
+ "subject": "Fix Card arrow overflow in Safari (#1374)",
+ "pr": "1374",
+ "components": [
+  "Card"
+ ],
+ "files": [
+  ".changeset/public-breads-melt.md",
+  "packages/react/src/Card/Card.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nFixes an issue where a `Card` with `ctaVariant=\"arrow\"` and a long `ctaText` overflowed and reflowed its content in Safari.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 1,
+ "ms": 157774
+}

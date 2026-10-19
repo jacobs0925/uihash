@@ -1,0 +1,50 @@
+{
+ "repo": "primer-brand",
+ "sha": "bca51bc13ddb2df7c3f8b6b17b8812195468d1cb",
+ "parent": "baa0861d4a05aabd703dd62059b85caf743f97d3",
+ "date": "2026-08-10",
+ "subject": "[Brand refactor] Testimonial fixes (#1439)",
+ "pr": "1439",
+ "components": [
+  "Testimonial",
+  "recipes"
+ ],
+ "files": [
+  ".changeset/fix-responsive-expressive-testimonial.md",
+  ".changeset/major-years-unite.md",
+  "packages/react/src/Testimonial/Testimonial.features.stories.tsx",
+  "packages/react/src/Testimonial/Testimonial.module.css",
+  "packages/react/src/Testimonial/Testimonial.module.css.d.ts",
+  "packages/react/src/Testimonial/Testimonial.stories.module.css",
+  "packages/react/src/Testimonial/Testimonial.stories.module.css.d.ts",
+  "packages/react/src/Testimonial/Testimonial.test.tsx",
+  "packages/react/src/Testimonial/Testimonial.tsx",
+  "packages/react/src/Testimonial/Testimonial.visual.spec.ts",
+  "packages/react/src/Testimonial/Testimonial.visual.spec.ts-snapshots/Visual-Comparison-Testimonial-Mobile-viewport-35ca3-essive-Mobile-Testimonial-Expressive-Mobile-1-darwin.png",
+  "packages/react/src/Testimonial/Testimonial.visual.spec.ts-snapshots/Visual-Comparison-Testimonial-Tablet-viewport-4c3d3-essive-Tablet-Testimonial-Expressive-Tablet-1-darwin.png",
+  "packages/react/src/Testimonial/Testimonial.visual.spec.ts-snapshots/Visual-Comparison-Testimonial-Testimonial-Expressive-1-darwin.png",
+  "packages/react/src/Testimonial/Testimonial.visual.spec.ts-snapshots/Visual-Comparison-Testimonial-Testimonial-Expressive-Dark-1-darwin.png",
+  "packages/react/src/Testimonial/Testimonial.visual.spec.ts-snapshots/Visual-Comparison-Testimonial-Testimonial-Expressive-With-Background-1-darwin.png",
+  "packages/react/src/recipes/Flexsuite/Category/FlexSuiteSecurityCategory/FlexSuiteSecurityCategory.tsx",
+  "packages/react/src/recipes/Flexsuite/Category/FlexSuiteSecurityCategory/FlexSuiteSecurityCategory.visual.spec.ts-snapshots/Visual-Comparison-FlexSuiteSecurityCategory-FlexSuiteSecurityCategory-Security-1-darwin.png",
+  "packages/react/src/recipes/Flexsuite/Details/FlexSuiteAIDetailsPlaylist/FlexSuiteAIDetailsPlaylist.tsx",
+  "packages/react/src/recipes/Flexsuite/Overview/FlexSuiteAIOverview.module.css",
+  "packages/react/src/recipes/Flexsuite/Overview/FlexSuiteAIOverview.module.css.d.ts",
+  "packages/react/src/recipes/Flexsuite/Overview/FlexSuiteAIOverview.tsx",
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakoutTabs-RiverBreakoutTabs-With-rivers-1-darwin.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/Testimonial/Testimonial.visual.spec.ts-snapshots/Visual-Comparison-Testimonial-Mobile-viewport-35ca3-essive-Mobile-Testimonial-Expressive-Mobile-1-darwin.png",
+  "packages/react/src/Testimonial/Testimonial.visual.spec.ts-snapshots/Visual-Comparison-Testimonial-Tablet-viewport-4c3d3-essive-Tablet-Testimonial-Expressive-Tablet-1-darwin.png",
+  "packages/react/src/Testimonial/Testimonial.visual.spec.ts-snapshots/Visual-Comparison-Testimonial-Testimonial-Expressive-1-darwin.png",
+  "packages/react/src/Testimonial/Testimonial.visual.spec.ts-snapshots/Visual-Comparison-Testimonial-Testimonial-Expressive-Dark-1-darwin.png",
+  "packages/react/src/Testimonial/Testimonial.visual.spec.ts-snapshots/Visual-Comparison-Testimonial-Testimonial-Expressive-With-Background-1-darwin.png",
+  "packages/react/src/recipes/Flexsuite/Category/FlexSuiteSecurityCategory/FlexSuiteSecurityCategory.visual.spec.ts-snapshots/Visual-Comparison-FlexSuiteSecurityCategory-FlexSuiteSecurityCategory-Security-1-darwin.png",
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakoutTabs-RiverBreakoutTabs-With-rivers-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nUpdate expressive `Testimonial` typography, spacing, and responsive composition to match the design.\n\n---\n'@primer/react-brand': patch\n---\n\nAdded `width: 100%` to all `River` components to fix layout regression on tablet viewports\n",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 16,
+ "ms": 222061
+}

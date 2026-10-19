@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "29cf9f0ec459f1f3d9791073459eef2ae497d96f",
+ "date": "2026-07-21",
+ "pr": "1400",
+ "title": "Remove all deprecated recipes + update MCP tool guidance (#1400)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "39 visual-test baselines updated"
+}

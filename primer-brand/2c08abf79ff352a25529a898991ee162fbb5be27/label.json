@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "2c08abf79ff352a25529a898991ee162fbb5be27",
+ "date": "2026-05-28",
+ "pr": "1354",
+ "title": "Add river footsteps recipe (#1354)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "2 visual-test baselines updated"
+}

@@ -1,0 +1,29 @@
+{
+ "repo": "primer-brand",
+ "sha": "bfabda2d622cbcaebdf4ddd674bece1712a69570",
+ "parent": "b4c9ff25b9020dd71d9667cdf4fc99aa4c2699aa",
+ "date": "2026-09-09",
+ "subject": "Reduce scope of font declarations in our reset.css (#1465)",
+ "pr": "1465",
+ "components": [
+  "Button",
+  "IDE",
+  "MinimalFooter",
+  "VideoPlayer"
+ ],
+ "files": [
+  ".changeset/calm-fonts-inherit.md",
+  "package-lock.json",
+  "packages/react/src/Button/Button.module.css",
+  "packages/react/src/IDE/IDE.module.css",
+  "packages/react/src/MinimalFooter/MinimalFooter.module.css",
+  "packages/react/src/VideoPlayer/VideoPlayer.module.css",
+  "packages/react/src/css/reset.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nUpdated the global reset for `input`, `button`, `textarea`, and `select` elements to inherit only `font-family` instead of the entire `font` shorthand.\n\n```diff\ninput,\nbutton,\ntextarea,\nselect {\n-  font: inherit;\n+  font-family: inherit;\n}\n```\n\n⚠️ Controls now retain their existing `font-size`, `font-style`, `font-weight`, `line-height`, and other `font-*` values.\n\nPrimer Brand control components preserve their previous typography through component-scoped styles.\n\nYou must set these manually going forward if you previously relied on the `font-*` declarations from the `reset.css`.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 2,
+ "ms": 381732
+}

@@ -1,0 +1,34 @@
+{
+ "repo": "primer-brand",
+ "sha": "24c02009ba256b8365dda84eb2347317aa306957",
+ "parent": "49205a25c1c6b259c5c9a7b9c8abdd11d7ec208f",
+ "date": "2026-04-24",
+ "subject": "Add pricing options message (#1330)",
+ "pr": "1330",
+ "components": [
+  "PricingOptions"
+ ],
+ "files": [
+  ".changeset/smooth-mugs-walk.md",
+  "apps/next-docs/content/components/PricingOptions/index.mdx",
+  "apps/next-docs/content/components/PricingOptions/react.tsx",
+  "packages/design-tokens/src/tokens/functional/components/pricing-options/colors.json",
+  "packages/react/src/PricingOptions/PricingOptions.features.stories.tsx",
+  "packages/react/src/PricingOptions/PricingOptions.module.css",
+  "packages/react/src/PricingOptions/PricingOptions.module.css.d.ts",
+  "packages/react/src/PricingOptions/PricingOptions.test.tsx",
+  "packages/react/src/PricingOptions/PricingOptions.tsx",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Actions-Message-1-darwin.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Actions-Message-With-Actions-1-darwin.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Actions-Message-1-darwin.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Actions-Message-With-Actions-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': minor\n---\n\nMajor updates to `PricingOptions` with new features, layout fixes, and design refinements.\n\n> [!WARNING]  \n> Breaking changes in this release\n\n- `PricingOptions.Label` is no longer a wrapper around the `Label` component. It now renders as plain text in a dedicated header row above the pricing columns. Props like `size` and `color` are no longer supported.\n\n```diff\n <PricingOptions.Item>\n-  <PricingOptions.Label size=\"medium\" color=\"green\">Recommended</PricingOptions.Label>\n+  <PricingOptions.Label>Recommended</PricingOptions.Label>\n   <PricingOptions.Heading>Pro</PricingOptions.Heading>\n </PricingOptions.Item>\n```\n\nOther new features:\n\n- **`infoTooltip` prop on `PricingOptions.FeatureListItem`**: Adds an info icon with tooltip. See [usage example](https://primer.style/brand/components/PricingOptions).\n- `PricingOptions.ActionsMessage` can be used to add supplemental information to the CTA area.\n- **`PricingOptions.MenuAction` sub-component**: A wrapper for rendering `ActionMenu` inside the actions area. See [With Menu Action story](https://primer.style/brand/storybook?path=/story/components-pricingoptions-features--with-menu-action).\n- **`PricingOptions.testIds.menuAction`**: `PricingOptions.MenuAction` now exposes a dedicated default test id instead of sharing `PricingOptions__primaryAction`.\n- **`style` prop on `PricingOptions`** can now be forwarded to the `PricingOptions` root element.\n",
+ "recipe": 1,
+ "stories": 66,
+ "findings": 0,
+ "ms": 163788
+}

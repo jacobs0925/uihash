@@ -1,0 +1,44 @@
+{
+ "repo": "primer-brand",
+ "sha": "430307f840d162e88d8bded405e53626e99fe666",
+ "parent": "4dea1ea49c3da5ff7cd82dd7ff96310af76a57b8",
+ "date": "2026-09-02",
+ "subject": "update river accordion (#1458)",
+ "pr": "1458",
+ "components": [
+  "river"
+ ],
+ "files": [
+  ".changeset/tidy-rivers-flow.md",
+  "apps/next-docs/content/components/RiverAccordion/index.mdx",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.gridline.stories.tsx",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.module.css",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.module.css.d.ts",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.test.tsx",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.tsx",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-Mobile-viewp-14e0b--Gridline-without-visual-background-narrow-1-darwin.png",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-RiverAccordion-Align-End-1-darwin.png",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-RiverAccordion-Align-Start-1-darwin.png",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-RiverAccordion-Default-1-darwin.png",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-RiverAccordion-Gridline-variant-1-darwin.png",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-RiverAccordion-Gridline-variant-end-1-darwin.png",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-RiverAccordion-Gridline-without-visual-background-1-darwin.png",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-Tablet-viewp-b7c58-e-tablet-RiverAccordion-Gridline-tablet-1-darwin.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-Mobile-viewp-14e0b--Gridline-without-visual-background-narrow-1-darwin.png",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-RiverAccordion-Align-End-1-darwin.png",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-RiverAccordion-Align-Start-1-darwin.png",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-RiverAccordion-Default-1-darwin.png",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-RiverAccordion-Gridline-variant-1-darwin.png",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-RiverAccordion-Gridline-variant-end-1-darwin.png",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-RiverAccordion-Gridline-without-visual-background-1-darwin.png",
+  "packages/react/src/river/RiverAccordion/RiverAccordion.visual.spec.ts-snapshots/Visual-Comparison-RiverAccordion-Tablet-viewp-b7c58-e-tablet-RiverAccordion-Gridline-tablet-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nMultiple updates to `RiverAccordion`\n\n- Added `hasBackground` to `RiverAccordion.Visual` to optionally disable the default background color\n- Added `leadingVisual` to `RiverAccordion.Heading` so that icons can be used in the accordion triggers\n- Updated `RiverAccordion.Visual` to use a `6px` border radius\n- ⚠️ `RiverAccordion.Visual` now uses `height: auto` to preserve native aspect ratio.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 146467
+}

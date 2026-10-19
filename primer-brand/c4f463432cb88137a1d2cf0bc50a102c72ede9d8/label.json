@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "c4f463432cb88137a1d2cf0bc50a102c72ede9d8",
+ "date": "2026-04-30",
+ "pr": "1332",
+ "title": "Update CTABanner and deprecate Bento (#1332)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "9 visual-test baselines updated"
+}

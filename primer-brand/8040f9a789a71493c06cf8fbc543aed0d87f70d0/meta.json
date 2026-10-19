@@ -1,0 +1,21 @@
+{
+ "repo": "primer-brand",
+ "sha": "8040f9a789a71493c06cf8fbc543aed0d87f70d0",
+ "parent": "bca51bc13ddb2df7c3f8b6b17b8812195468d1cb",
+ "date": "2026-08-11",
+ "subject": "add inline padding to FAQ gridline variant (#1441)",
+ "pr": "1441",
+ "components": [
+  "FAQ"
+ ],
+ "files": [
+  ".changeset/wide-faq-gridlines.md",
+  "packages/react/src/FAQ/FAQ.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nUpdated the `FAQ` gridline variant to include inline padding by default for narrow viewports.\n",
+ "recipe": 1,
+ "stories": 39,
+ "findings": 0,
+ "ms": 77966
+}

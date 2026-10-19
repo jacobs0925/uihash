@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "caae8a620dd5f737c38a6946015259d469cf6b5e",
+ "date": "2026-07-09",
+ "pr": "1389",
+ "title": "Update Tiles small viewport density (#1389)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Updates compact `Tiles` density so narrow viewports shows four items per row with smaller icons, while medium (tablet) show six items per row."
+}

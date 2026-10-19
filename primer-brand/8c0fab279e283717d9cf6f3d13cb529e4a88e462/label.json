@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "8c0fab279e283717d9cf6f3d13cb529e4a88e462",
+ "date": "2026-04-22",
+ "pr": "1322",
+ "title": "Add backgroundColor prop to Card and fix text wrapping (#1322)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "4 visual-test baselines updated"
+}

@@ -1,0 +1,34 @@
+{
+ "repo": "primer-brand",
+ "sha": "af3ac051b2a837f78f22fa46f582ebf93c530766",
+ "parent": "7d7800fc74e14d3eb387fa2d0669ca55dffe21b1",
+ "date": "2026-07-03",
+ "subject": "[Brand Refactor] Small fixes batch (#1387)",
+ "pr": "1387",
+ "components": [
+  "MediaPlaylist",
+  "Pillar",
+  "Tiles"
+ ],
+ "files": [
+  ".changeset/media-playlist-narrow-spacing.md",
+  ".changeset/pillar-icon-radius.md",
+  ".changeset/statistic-color-consistency.md",
+  ".changeset/tiles-tablet-columns.md",
+  "packages/react/src/MediaPlaylist/MediaPlaylist.module.css",
+  "packages/react/src/MediaPlaylist/MediaPlaylist.visual.spec.ts-snapshots/Visual-Comparison-MediaPlaylist-Mobile-viewpo-0fbef-w-MediaPlaylist-One-item-playlist-narrow-1-darwin.png",
+  "packages/react/src/MediaPlaylist/MediaPlaylist.visual.spec.ts-snapshots/Visual-Comparison-MediaPlaylist-Mobile-viewpo-e65bf-rrow-MediaPlaylist-Large-playlist-narrow-1-darwin.png",
+  "packages/react/src/Pillar/Pillar.module.css",
+  "packages/react/src/Statistic/Statistic.examples.stories.tsx",
+  "packages/react/src/Tiles/Tiles.module.css"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/MediaPlaylist/MediaPlaylist.visual.spec.ts-snapshots/Visual-Comparison-MediaPlaylist-Mobile-viewpo-0fbef-w-MediaPlaylist-One-item-playlist-narrow-1-darwin.png",
+  "packages/react/src/MediaPlaylist/MediaPlaylist.visual.spec.ts-snapshots/Visual-Comparison-MediaPlaylist-Mobile-viewpo-e65bf-rrow-MediaPlaylist-Large-playlist-narrow-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nAdjusted the spacing in the `MediaPlaylist` component on narrow viewports\n\n---\n'@primer/react-brand': patch\n---\n\nIncreased the `border-radius` of icons in the `Pillar` component to `12px`\n\n---\n'@primer/react-brand': patch\n---\n\nUpdated the `Statistic` social proof example to use consistent text colors\n\n---\n'@primer/react-brand': patch\n---\n\nAdjusted the `Tiles` grid to use three columns on tablet viewports\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 1,
+ "ms": 224740
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "72fd3a696f03f47876f3bf02e6e5187b0e1dc0f1",
+ "date": "2026-08-20",
+ "pr": "1448",
+ "title": "Adds new InlineCode component (#1448)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "29 visual-test baselines updated"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "7d7800fc74e14d3eb387fa2d0669ca55dffe21b1",
+ "date": "2026-07-03",
+ "pr": "1385",
+ "title": "Fixing minor UI bugs in Footnotes, Hero and SectionIntroStacked (#1385)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "12 visual-test baselines updated"
+}

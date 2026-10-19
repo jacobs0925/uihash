@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "f3a70ed8e2a160ccb4129e4ef21ecaf34ed113e8",
+ "date": "2026-06-10",
+ "pr": "1363",
+ "title": "[Brand Refactor] Multiple component + recipe updates (#1363)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "212 visual-test baselines updated"
+}

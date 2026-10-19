@@ -1,0 +1,24 @@
+{
+ "repo": "primer-brand",
+ "sha": "27294bc0c5bcd0d0b0c1b6e8bb4c45237535cc48",
+ "parent": "d82cfa3b47609ecf179356a47b0164741ccbf29b",
+ "date": "2026-05-29",
+ "subject": "fix 3 qa design bugs to flexsuite (#1358)",
+ "pr": "1358",
+ "components": [
+  "LogoSuite",
+  "recipes"
+ ],
+ "files": [
+  "packages/react/src/LogoSuite/LogoSuite.module.css",
+  "packages/react/src/recipes/Flexsuite/Overview/FlexSuiteAIOverview.module.css",
+  "packages/react/src/recipes/Flexsuite/Overview/FlexSuiteAIOverview.module.css.d.ts",
+  "packages/react/src/recipes/Flexsuite/Overview/FlexSuiteAIOverview.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 4,
+ "ms": 378596
+}

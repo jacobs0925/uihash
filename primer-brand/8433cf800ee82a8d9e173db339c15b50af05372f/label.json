@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "8433cf800ee82a8d9e173db339c15b50af05372f",
+ "date": "2026-07-16",
+ "pr": "1362",
+ "title": "[Brand Refactor] Fixes CTABanner (#1362)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "44 visual-test baselines updated"
+}

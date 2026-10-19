@@ -1,0 +1,20 @@
+{
+ "repo": "primer-brand",
+ "sha": "2b50e3a9772771d608842f5f2ad3e8f43e834c2f",
+ "parent": "8c0fab279e283717d9cf6f3d13cb529e4a88e462",
+ "date": "2026-04-22",
+ "subject": "increase z-index on accent border (#1325)",
+ "pr": "1325",
+ "components": [
+  "PricingOptions"
+ ],
+ "files": [
+  "packages/react/src/PricingOptions/PricingOptions.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 172916
+}

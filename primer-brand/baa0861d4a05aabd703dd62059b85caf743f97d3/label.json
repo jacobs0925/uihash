@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "baa0861d4a05aabd703dd62059b85caf743f97d3",
+ "date": "2026-08-10",
+ "pr": "1438",
+ "title": "Card full-bleed images, Statistic recipe + improve MCP guidance for gridliens (#1438)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "5 visual-test baselines updated"
+}

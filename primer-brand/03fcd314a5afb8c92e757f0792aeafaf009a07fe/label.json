@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "03fcd314a5afb8c92e757f0792aeafaf009a07fe",
+ "date": "2026-06-15",
+ "pr": "1374",
+ "title": "Fix Card arrow overflow in Safari (#1374)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Fixes an issue where a `Card` with `ctaVariant=\"arrow\"` and a long `ctaText` overflowed and reflowed its content in Safari."
+}

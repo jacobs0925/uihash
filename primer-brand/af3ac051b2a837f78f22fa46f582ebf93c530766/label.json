@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "af3ac051b2a837f78f22fa46f582ebf93c530766",
+ "date": "2026-07-03",
+ "pr": "1387",
+ "title": "[Brand Refactor] Small fixes batch (#1387)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "2 visual-test baselines updated"
+}

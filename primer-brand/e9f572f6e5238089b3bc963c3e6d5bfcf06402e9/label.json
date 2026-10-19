@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "e9f572f6e5238089b3bc963c3e6d5bfcf06402e9",
+ "date": "2026-07-09",
+ "pr": "1393",
+ "title": "RiverBreakoutTabs + Card layout adjustments (#1393)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "70 visual-test baselines updated"
+}

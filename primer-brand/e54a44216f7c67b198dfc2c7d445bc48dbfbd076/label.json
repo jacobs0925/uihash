@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "e54a44216f7c67b198dfc2c7d445bc48dbfbd076",
+ "date": "2026-05-11",
+ "pr": "1344",
+ "title": "[Brand Refactor] Button updates (#1344)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "border-top-width: 1px → 2px undone by 9c900e90 \"[Brand Refactor] Button + form control updates (#1359)\"; border-right-width: 1px → 2px undone by 9c900e90 \"[Brand Refactor] Button + form control updates (#1359)\"; border-bottom-width: 1px → 2px undone by 9c900e90 \"[Brand Refactor] Button + form control updates (#1359)\""
+}

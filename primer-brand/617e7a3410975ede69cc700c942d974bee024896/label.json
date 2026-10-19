@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "617e7a3410975ede69cc700c942d974bee024896",
+ "date": "2026-05-27",
+ "pr": "1339",
+ "title": "Fix gridlines horizontal overflow scrollbars (#1339)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Fixed horizontal scrollbar overflow caused by gridlines pseudo-elements in `Tiles`, `River`, `RiverBreakout`, `RiverAccordion`, and `SectionIntroStacked` on systems with classic always-visible scrollbars (Windows, Linux, macOS with \"Always show scrollbars\")."
+}

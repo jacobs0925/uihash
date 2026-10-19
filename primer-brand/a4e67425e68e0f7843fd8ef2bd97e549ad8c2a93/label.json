@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "a4e67425e68e0f7843fd8ef2bd97e549ad8c2a93",
+ "date": "2026-06-10",
+ "pr": "1364",
+ "title": "[Brand Refactor] Tiles gridlines update (#1364)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "1 visual-test baselines updated"
+}

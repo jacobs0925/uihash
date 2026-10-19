@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "5cbb4149ac98444fd66a8c2b1837a278149e684c",
+ "date": "2026-07-16",
+ "pr": "1360",
+ "title": "[Brand Refactor] Fixes SectionIntro layout (#1360)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "19 visual-test baselines updated"
+}

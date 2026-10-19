@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "2525c2825e66c8a5b83464c2a893543dc13ab70d",
+ "date": "2026-05-10",
+ "pr": "1345",
+ "title": "Pillar component updates (#1345)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "23 visual-test baselines updated"
+}

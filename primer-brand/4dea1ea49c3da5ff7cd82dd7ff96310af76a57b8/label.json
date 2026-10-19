@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "4dea1ea49c3da5ff7cd82dd7ff96310af76a57b8",
+ "date": "2026-08-28",
+ "pr": "1453",
+ "title": "Update the TextCursorAnimation effect (#1453)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "67 visual-test baselines updated"
+}

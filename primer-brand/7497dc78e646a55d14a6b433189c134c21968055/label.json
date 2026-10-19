@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "7497dc78e646a55d14a6b433189c134c21968055",
+ "date": "2026-07-01",
+ "pr": "1379",
+ "title": "Update token text styles (#1379)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "24 visual-test baselines updated"
+}

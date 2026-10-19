@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "15ca1508a677dd3f06a947214151f690768e3c3a",
+ "date": "2026-04-23",
+ "pr": "1326",
+ "title": "Update Token variants (#1326)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "4 visual-test baselines updated"
+}

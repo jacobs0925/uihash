@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "bfabda2d622cbcaebdf4ddd674bece1712a69570",
+ "date": "2026-09-09",
+ "pr": "1465",
+ "title": "Reduce scope of font declarations in our reset.css (#1465)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Updated the global reset for `input`, `button`, `textarea`, and `select` elements to inherit only `font-family` instead of the entire `font` shorthand.\n\n```diff\ninput,\nbutton,\ntextarea,\nselect {\n-  font: inherit;\n+  font-family: inherit;\n}\n```\n\n⚠️ Controls now retain their existing `font-size`, `fon"
+}

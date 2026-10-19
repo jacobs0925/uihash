@@ -1,0 +1,41 @@
+{
+ "repo": "primer-brand",
+ "sha": "8ac13c8367b8ac99abd6e8ca1aca86aa305ec3a8",
+ "parent": "e8b64f0c2ab057d628fad125cc390c4cff665589",
+ "date": "2026-08-05",
+ "subject": "[Brand Refactor] Card fixes (#1428)",
+ "pr": "1428",
+ "components": [
+  "Card"
+ ],
+ "files": [
+  ".changeset/tidy-cards-responsive.md",
+  "apps/next-docs/content/components/Card/react.mdx",
+  "packages/e2e/scripts/playwright/playwright.generate-tests.ts",
+  "packages/react/src/Card/Card.features.stories.tsx",
+  "packages/react/src/Card/Card.module.css",
+  "packages/react/src/Card/Card.stories.tsx",
+  "packages/react/src/Card/Card.tsx",
+  "packages/react/src/Card/Card.visual.spec.ts",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Arrow-CTA-with-long-label-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Arrow-CTA-with-long-label-focus-and-animation-disabled-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Case-studies-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Editorial-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Related-content-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Stacked-1-darwin.png",
+  "packages/react/src/Card/Cards.example.stories.tsx"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Arrow-CTA-with-long-label-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Arrow-CTA-with-long-label-focus-and-animation-disabled-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Case-studies-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Editorial-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Related-content-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Stacked-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nUpdated `Card` responsive spacing, exposed arrow CTA labels on non-hover devices, and removed the hover scale effect.\n",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 19,
+ "ms": 258216
+}

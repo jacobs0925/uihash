@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "3c89bdc8c4cc3ae608478c3844122b9fbb038379",
+ "date": "2026-07-21",
+ "pr": "1411",
+ "title": "Fix NavList  indentation (#1411)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "3 visual-test baselines updated"
+}

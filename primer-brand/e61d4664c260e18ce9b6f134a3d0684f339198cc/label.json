@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "e61d4664c260e18ce9b6f134a3d0684f339198cc",
+ "date": "2026-08-16",
+ "pr": "1444",
+ "title": "card and mcp updates (#1444)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "4 visual-test baselines updated"
+}

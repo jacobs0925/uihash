@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "8ac13c8367b8ac99abd6e8ca1aca86aa305ec3a8",
+ "date": "2026-08-05",
+ "pr": "1428",
+ "title": "[Brand Refactor] Card fixes (#1428)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "6 visual-test baselines updated"
+}

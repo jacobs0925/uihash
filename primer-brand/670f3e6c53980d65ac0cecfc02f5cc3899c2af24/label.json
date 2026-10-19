@@ -1,0 +1,12 @@
+{
+ "app": "primer-brand",
+ "group": "primer-brand",
+ "sha": "670f3e6c53980d65ac0cecfc02f5cc3899c2af24",
+ "date": "2026-05-05",
+ "pr": "1340",
+ "title": "Apply brand refactor styles to Pillar (#1340)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "19 visual-test baselines updated"
+}

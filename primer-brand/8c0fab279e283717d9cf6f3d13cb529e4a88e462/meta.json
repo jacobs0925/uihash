@@ -1,0 +1,49 @@
+{
+ "repo": "primer-brand",
+ "sha": "8c0fab279e283717d9cf6f3d13cb529e4a88e462",
+ "parent": "c286f3596ae90a9b145c3933488e8b49b952e377",
+ "date": "2026-04-22",
+ "subject": "Add backgroundColor prop to Card and fix text wrapping (#1322)",
+ "pr": "1322",
+ "components": [
+  "Card"
+ ],
+ "files": [
+  ".changeset/slick-apes-chew.md",
+  ".github/workflows/update_visual_snapshots.yml",
+  ".github/workflows/visual_test_storybook.yml",
+  "apps/next-docs/content/components/Card/react.mdx",
+  "apps/next-docs/content/components/Card/react.tsx",
+  "apps/storybook/static/locales/de/Card.json",
+  "apps/storybook/static/locales/en/Card.json",
+  "apps/storybook/static/locales/es/Card.json",
+  "apps/storybook/static/locales/fr/Card.json",
+  "apps/storybook/static/locales/ja/Card.json",
+  "apps/storybook/static/locales/pt-BR/Card.json",
+  "package.json",
+  "packages/design-tokens/src/tokens/functional/components/card/colors.json",
+  "packages/e2e/package.json",
+  "packages/react/src/Card/Card.features.stories.tsx",
+  "packages/react/src/Card/Card.module.css",
+  "packages/react/src/Card/Card.module.css.d.ts",
+  "packages/react/src/Card/Card.test.tsx",
+  "packages/react/src/Card/Card.tsx",
+  "packages/react/src/Card/Card.visual.spec.ts",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Align-center-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Background-color-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-CTA-Text-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-With-Inline-Code-Element-1-darwin.png",
+  "packages/react/src/Card/Cards.example.stories.tsx"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Align-center-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-Background-color-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-CTA-Text-1-darwin.png",
+  "packages/react/src/Card/Card.visual.spec.ts-snapshots/Visual-Comparison-Card-Card-With-Inline-Code-Element-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': minor\n---\n\n⚠️ Breaking changes to the `Card` component.\n\n- Removed the `torchlight` Card variant.\n\n  ```diff\n  - <Card variant=\"torchlight\" />\n  + <Card />\n  ```\n\n- `Card.Label` now uses `EyebrowText` under the hood, with `default`, `muted`, and `accent` variants. Migrate previous `size` and `color` usage to the closest supported `variant`.\n\n  ```diff\n  - <Card.Label size=\"200\" color=\"green\">Beta</Card.Label>\n  + <Card.Label variant=\"accent\">Beta</Card.Label>\n  ```\n\n- Added new `ctaVariant` prop with `text`, `arrow`, and `none` options to control how the card's primary action is rendered. Center-aligned CTA links now wrap correctly and omit the trailing arrow so the action remains visually centered.\n- Added `backgroundColor` prop with `default`, `subtle`, and `none` options to control the card background color. `minimal` cards default this prop to `none` to preserve their transparent appearance unless explicitly overridden.\n- Added `leadingVisual` prop for rendering a logo or brand mark above the card content. Note that `leadingVisual` and `Card.Icon` cannot be used together.\n- Added `Card.Tokens` for rendering metadata before or after the main copy, with `position=\"block-start\"` and `position=\"block-end\"` options.\n",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 39,
+ "ms": 443375
+}

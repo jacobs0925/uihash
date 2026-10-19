@@ -1,0 +1,49 @@
+{
+ "repo": "primer-brand",
+ "sha": "2c08abf79ff352a25529a898991ee162fbb5be27",
+ "parent": "617e7a3410975ede69cc700c942d974bee024896",
+ "date": "2026-05-28",
+ "subject": "Add river footsteps recipe (#1354)",
+ "pr": "1354",
+ "components": [
+  "Pillar",
+  "recipes"
+ ],
+ "files": [
+  ".changeset/brave-moons-pull.md",
+  "apps/next-docs/content/components/Pillar/react.mdx",
+  "apps/storybook/static/locales/de/FlexSuiteSecurityCategory.json",
+  "apps/storybook/static/locales/en/FlexSuiteSecurityCategory.json",
+  "apps/storybook/static/locales/es/FlexSuiteSecurityCategory.json",
+  "apps/storybook/static/locales/fr/FlexSuiteSecurityCategory.json",
+  "apps/storybook/static/locales/ja/FlexSuiteSecurityCategory.json",
+  "apps/storybook/static/locales/pt-BR/FlexSuiteSecurityCategory.json",
+  "packages/react/src/Pillar/Pillar.features.stories.tsx",
+  "packages/react/src/Pillar/Pillar.module.css",
+  "packages/react/src/Pillar/Pillar.module.css.d.ts",
+  "packages/react/src/Pillar/Pillar.test.tsx",
+  "packages/react/src/Pillar/Pillar.tsx",
+  "packages/react/src/Pillar/Pillar.visual.spec.ts",
+  "packages/react/src/Pillar/Pillar.visual.spec.ts-snapshots/Visual-Comparison-Pillar-Pillar-Full-Width-1-darwin.png",
+  "packages/react/src/recipes/Flexsuite/Category/FlexSuiteSecurityCategory/FlexSuiteSecurityCategory.content.ts",
+  "packages/react/src/recipes/Flexsuite/Category/FlexSuiteSecurityCategory/FlexSuiteSecurityCategory.tsx",
+  "packages/react/src/recipes/Flexsuite/Category/FlexSuiteSecurityCategory/FlexSuiteSecurityCategory.visual.spec.ts-snapshots/Visual-Comparison-FlexSuiteSecurityCategory-FlexSuiteSecurityCategory-Security-1-darwin.png",
+  "packages/react/src/recipes/Flexsuite/Category/FlexSuiteSecurityCategory/fixtures/images/river-footsteps-chat-mobile.png",
+  "packages/react/src/recipes/Flexsuite/Category/FlexSuiteSecurityCategory/fixtures/images/river-footsteps-chat.png",
+  "packages/react/src/recipes/Flexsuite/Category/FlexSuiteSecurityCategory/fixtures/images/river-footsteps-review-mobile.png",
+  "packages/react/src/recipes/Flexsuite/Category/FlexSuiteSecurityCategory/fixtures/images/river-footsteps-review.png",
+  "packages/react/src/recipes/Flexsuite/Category/FlexSuiteSecurityCategory/fixtures/images/river-footsteps-workflow-mobile.png",
+  "packages/react/src/recipes/Flexsuite/Category/FlexSuiteSecurityCategory/fixtures/images/river-footsteps-workflow.png",
+  "packages/react/src/recipes/Flexsuite/Overview/FlexSuiteAIOverview.module.css",
+  "packages/react/src/recipes/Flexsuite/Overview/FlexSuiteAIOverview.module.css.d.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/Pillar/Pillar.visual.spec.ts-snapshots/Visual-Comparison-Pillar-Pillar-Full-Width-1-darwin.png",
+  "packages/react/src/recipes/Flexsuite/Category/FlexSuiteSecurityCategory/FlexSuiteSecurityCategory.visual.spec.ts-snapshots/Visual-Comparison-FlexSuiteSecurityCategory-FlexSuiteSecurityCategory-Security-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nAdded `fullWidth` prop to `Pillar`. When set, the component removes its default `max-width` constraint so it can fill the available container width.\n\n```tsx\n<Pillar fullWidth>\n  <Pillar.Heading>Heading</Pillar.Heading>\n  <Pillar.Description>Description</Pillar.Description>\n</Pillar>\n```\n",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 25,
+ "ms": 495660
+}

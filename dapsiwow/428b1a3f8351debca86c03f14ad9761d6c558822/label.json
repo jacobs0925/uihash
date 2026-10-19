@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "428b1a3f8351debca86c03f14ad9761d6c558822",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Assistant checkpoint: Remove slider components from Mortgage Calculator",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2040 later commits"
+}

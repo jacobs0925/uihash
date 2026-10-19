@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "dc35064614bd46f44fb4ffc6f03f3cd402402297",
+ "parent": "c9969db4c96985120d5a4ff29ddaac47d97e35f6",
+ "date": "2025-10-28",
+ "subject": "Assistant checkpoint: Reduce Load Sample Text button animation",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/case-converter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 157919
+}

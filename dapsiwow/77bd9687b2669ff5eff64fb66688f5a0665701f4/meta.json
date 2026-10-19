@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "77bd9687b2669ff5eff64fb66688f5a0665701f4",
+ "parent": "4f19d3c904d84656b100ead63b9674a3c8dba8de",
+ "date": "2025-10-30",
+ "subject": "Created a checkpoint",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/lib/calculationHistory.ts",
+  "client/src/lib/firebase.ts",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 154201
+}

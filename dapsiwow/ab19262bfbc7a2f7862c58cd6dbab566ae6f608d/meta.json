@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ab19262bfbc7a2f7862c58cd6dbab566ae6f608d",
+ "parent": "97c5a7b5873ffadce73bc75a7137401d70924c07",
+ "date": "2025-10-28",
+ "subject": "Restored to '2d0144a46ff0da1c321b5149c4848212b66adbcf'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/lorem-ipsum-generator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 169032
+}

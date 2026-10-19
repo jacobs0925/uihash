@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "85a6b1ec75201dd17c86acf3c7edc5d86b66214d",
+ "parent": "4a637066cf23f447be485bc5d2265418b1d3cc14",
+ "date": "2025-10-28",
+ "subject": "Assistant checkpoint: Enhanced Case Converter with advanced features",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/case-converter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 148556
+}

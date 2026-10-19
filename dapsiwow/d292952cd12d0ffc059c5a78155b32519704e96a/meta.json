@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d292952cd12d0ffc059c5a78155b32519704e96a",
+ "parent": "4195252c36af27f5ae9db0fad71a23580306c1cd",
+ "date": "2025-10-27",
+ "subject": "Assistant checkpoint: Increased textarea height for small screens",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/character-counter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 166667
+}

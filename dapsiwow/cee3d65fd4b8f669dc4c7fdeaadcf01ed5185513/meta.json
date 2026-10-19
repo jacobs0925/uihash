@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "cee3d65fd4b8f669dc4c7fdeaadcf01ed5185513",
+ "parent": "cd66076d04a7097ab96ecca8056746139e07b30a",
+ "date": "2025-10-30",
+ "subject": "Assistant checkpoint: Made share section fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 146148
+}

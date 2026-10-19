@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "1bef3b6f748ee2db644302efdb9ffdeb7ce1d5bb",
+ "parent": "ff46c465cb127d5159de308615c62a8524eac8cf",
+ "date": "2025-10-27",
+ "subject": "Assistant checkpoint: Made checkbox smaller",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/paragraph-counter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 164853
+}

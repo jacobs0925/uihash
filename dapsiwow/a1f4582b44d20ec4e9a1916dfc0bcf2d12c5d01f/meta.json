@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a1f4582b44d20ec4e9a1916dfc0bcf2d12c5d01f",
+ "parent": "f369089986a2abbe6b71eafd57ad5f6e4ce63d4e",
+ "date": "2025-10-28",
+ "subject": "Restored to 'df102421e24c3c39cdd71ffbb3f832847f501e5c'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/sentence-counter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 164953
+}

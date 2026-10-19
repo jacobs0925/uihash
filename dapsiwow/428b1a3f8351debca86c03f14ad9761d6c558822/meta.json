@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "428b1a3f8351debca86c03f14ad9761d6c558822",
+ "parent": "f8ed0bc45ea0ed13b46b6e09f07843cd2d456175",
+ "date": "2025-10-29",
+ "subject": "Assistant checkpoint: Remove slider components from Mortgage Calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 187547
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8c6cf928b5fa07fbdb433423680eaed384c94a7e",
+ "parent": "81eb016ce393203f6d679596c4c166ee9662cb55",
+ "date": "2025-10-27",
+ "subject": "Assistant checkpoint: Remove checkbox description text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/paragraph-counter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 162914
+}

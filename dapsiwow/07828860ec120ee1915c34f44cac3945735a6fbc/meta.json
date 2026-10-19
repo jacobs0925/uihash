@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "07828860ec120ee1915c34f44cac3945735a6fbc",
+ "parent": "70f51a2d36bfbf81442cb551ded85062cac36991",
+ "date": "2025-10-28",
+ "subject": "Rearrange text conversion interface to place results below input",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/case-converter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 166296
+}

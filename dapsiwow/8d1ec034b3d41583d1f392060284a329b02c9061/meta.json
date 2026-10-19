@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8d1ec034b3d41583d1f392060284a329b02c9061",
+ "parent": "b4e7e071c1364891ca8999a9d78efc18fee29108",
+ "date": "2025-10-28",
+ "subject": "Assistant checkpoint: Move Text Statistics section below Text Analysis",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/word-counter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 141888
+}

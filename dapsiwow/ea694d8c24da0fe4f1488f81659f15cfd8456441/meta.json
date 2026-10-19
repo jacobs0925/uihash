@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ea694d8c24da0fe4f1488f81659f15cfd8456441",
+ "parent": "60aca5de0363ceaa62736b42e84d21d684d648f0",
+ "date": "2025-10-30",
+ "subject": "Assistant checkpoint: Make loan calculator share section responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 148530
+}

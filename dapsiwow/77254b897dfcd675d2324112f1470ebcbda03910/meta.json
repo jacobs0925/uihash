@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "77254b897dfcd675d2324112f1470ebcbda03910",
+ "parent": "912dca05cd5acaee05827a9e6f5e69b397155a15",
+ "date": "2025-10-27",
+ "subject": "Restored to '7a811a66cfc3542be1e86d56fc558221df9e92c7'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/paragraph-counter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 167515
+}

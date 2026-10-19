@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8bbd7fa39fc67fde9e164f0d59f005dff67016ed",
+ "parent": "91e1ceb332ad95af47f9abeea7109470e288bca4",
+ "date": "2025-10-28",
+ "subject": "Assistant checkpoint: Fix Show button alignment",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/password-strength-checker.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 163364
+}

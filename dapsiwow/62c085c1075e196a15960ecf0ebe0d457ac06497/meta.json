@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "62c085c1075e196a15960ecf0ebe0d457ac06497",
+ "parent": "cc8b2ef366e9ed413941ea2ceee18ff7f851cd2f",
+ "date": "2025-10-29",
+ "subject": "Assistant checkpoint: Enhanced Loan Calculator with validation & accessibility",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 155295
+}

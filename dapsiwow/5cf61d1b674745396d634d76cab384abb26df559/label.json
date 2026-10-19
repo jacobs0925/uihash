@@ -7,6 +7,6 @@
  "title": "Assistant checkpoint: Made Mortgage Calculator fully responsive",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "width: 16px → 20px undone by 748463c9 \"Make mortgage calculator sections responsive\"; height: 16px → 20px undone by 748463c9 \"Make mortgage calculator sections responsive\"; line-height: 20px → 24px undone by 748463c9 \"Make mortgage calculator sections responsive\""
 }

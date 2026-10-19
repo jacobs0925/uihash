@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "5077bdccb7d55e7e754b3d18888eca681238cd13",
+ "date": "2025-10-30",
+ "pr": null,
+ "title": "Assistant checkpoint: Made Mortgage Configuration section fully responsive",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 60aca5de, which restored 2d8c8e1c (1 commit discarded)"
+}

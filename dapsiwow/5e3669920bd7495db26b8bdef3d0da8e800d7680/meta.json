@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "5e3669920bd7495db26b8bdef3d0da8e800d7680",
+ "parent": "fe0b2267aca7f5a405e41a5cca553bcf0ef91fa1",
+ "date": "2025-10-27",
+ "subject": "Assistant checkpoint: Reduce Load Sample Text button size",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/paragraph-counter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 161419
+}

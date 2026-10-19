@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "147b481e7b43570bf02090e6be7e2f4c8aea0011",
+ "parent": "dc35064614bd46f44fb4ffc6f03f3cd402402297",
+ "date": "2025-10-28",
+ "subject": "Assistant checkpoint: Added 6 new case conversion formats",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/case-converter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 147993
+}

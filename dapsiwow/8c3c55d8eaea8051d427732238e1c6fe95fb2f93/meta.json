@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8c3c55d8eaea8051d427732238e1c6fe95fb2f93",
+ "parent": "428b1a3f8351debca86c03f14ad9761d6c558822",
+ "date": "2025-10-30",
+ "subject": "Assistant checkpoint: Made share results section fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 146439
+}

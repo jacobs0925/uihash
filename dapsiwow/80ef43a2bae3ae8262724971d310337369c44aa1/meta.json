@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "80ef43a2bae3ae8262724971d310337369c44aa1",
+ "parent": "43fa2a86d95218a18d35a5a1a6041b6d7cc939e2",
+ "date": "2025-10-22",
+ "subject": "Make the \"Complete Tools Directory\" page responsive across devices",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/all-tools.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 122562
+}

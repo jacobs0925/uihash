@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "242f55d2081e49ac3a476edfba6aeadf0e9c4000",
+ "parent": "cf077debb90e7b008c335c83dc582cd010270cb0",
+ "date": "2025-10-22",
+ "subject": "Update home page search bar to match finance tools styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 122227
+}

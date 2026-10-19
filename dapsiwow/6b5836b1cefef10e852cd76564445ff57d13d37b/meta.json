@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "6b5836b1cefef10e852cd76564445ff57d13d37b",
+ "parent": "debebd61ccf49ba9f7cc7aeb922d41bf140cc8e7",
+ "date": "2025-10-21",
+ "subject": "Add animated visual elements to page hero sections",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1761064620958.png",
+  "client/src/pages/finance-tools.tsx",
+  "client/src/pages/health-tools.tsx",
+  "client/src/pages/text-tools.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 171741
+}

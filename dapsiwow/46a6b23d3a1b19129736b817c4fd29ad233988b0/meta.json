@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "46a6b23d3a1b19129736b817c4fd29ad233988b0",
+ "parent": "20247c02fc73aea97a307af038c06cb74c9dabdf",
+ "date": "2025-10-22",
+ "subject": "Restored to 'd5515b535ae4b7117ba59956e07c443803ede0d0'",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/.latest.json",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 120920
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e4d5bf13ebfe68fd625097b03fd155aea962ca22",
+ "parent": "87bc6a53e4afd2f508273d8d56085b8701ea109e",
+ "date": "2025-10-21",
+ "subject": "Make the website's main headline section adjust to different screen sizes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 170947
+}

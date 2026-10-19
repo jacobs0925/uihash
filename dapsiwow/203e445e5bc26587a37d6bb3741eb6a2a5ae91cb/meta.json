@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "203e445e5bc26587a37d6bb3741eb6a2a5ae91cb",
+ "parent": "391c8c613b230aed7c68c27e5cd5041a43a4e893",
+ "date": "2025-10-19",
+ "subject": "Remove keyboard shortcut hint from search interface",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1760864762354.png",
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 168034
+}

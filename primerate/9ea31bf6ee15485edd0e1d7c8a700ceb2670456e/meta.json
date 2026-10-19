@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9ea31bf6ee15485edd0e1d7c8a700ceb2670456e",
+ "parent": "a53236e4fbd54180c5e7011a99f7848b8561ddb1",
+ "date": "2025-10-08",
+ "subject": "Set the quote tab as the default page for new clients",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 21,
+ "ms": 78625
+}

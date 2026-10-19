@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8fc62339e9617c8487d9dd699d05c065b4aef98c",
+ "parent": "7870eacc5286b46ad2c860f0020de472485870ce",
+ "date": "2025-10-22",
+ "subject": "Improve mobile menu positioning and visibility on header interaction",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1761113279710.png",
+  "attached_assets/image_1761113303535.png",
+  "client/src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 161784
+}

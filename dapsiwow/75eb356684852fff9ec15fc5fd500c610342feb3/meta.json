@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "75eb356684852fff9ec15fc5fd500c610342feb3",
+ "parent": "afff62dfa8445ab23c54b1654c06dda802cc6672",
+ "date": "2025-10-20",
+ "subject": "Improve authentication handling to gracefully degrade when Firebase is not configured",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/contexts/AuthContext.tsx",
+  "client/src/lib/firebase.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 8,
+ "ms": 155235
+}

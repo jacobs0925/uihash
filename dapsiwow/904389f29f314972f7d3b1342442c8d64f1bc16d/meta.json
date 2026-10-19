@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "904389f29f314972f7d3b1342442c8d64f1bc16d",
+ "parent": "fc93c399f0e28816bc324cde3afff6cf13ec8bf4",
+ "date": "2025-10-22",
+ "subject": "Improve header functionality and appearance with performance enhancements",
+ "components": [
+  "components",
+  "hooks",
+  "index.css"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/Header.tsx",
+  "client/src/hooks/use-mobile.tsx",
+  "client/src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 164747
+}

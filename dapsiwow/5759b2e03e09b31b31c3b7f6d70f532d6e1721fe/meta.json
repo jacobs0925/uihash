@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "5759b2e03e09b31b31c3b7f6d70f532d6e1721fe",
+ "parent": "db90bdf0b869747c4fe2501bb56d7253d8b8be16",
+ "date": "2025-10-22",
+ "subject": "Add social sharing options to the loan calculator results",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1761117386677.png",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 120715
+}

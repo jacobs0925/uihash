@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e9f4b8a7ac9b859dd797aade12c17325836c851d",
+ "parent": "ed0a1c249e875befe18292f5ee8fa66edabb1b0a",
+ "date": "2025-10-08",
+ "subject": "Make settings icon red when FHA MIP values are missing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42394
+}

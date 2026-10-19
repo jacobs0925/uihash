@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "e0c265bb080a07bdb4373d1c26555e122aa4c4f6",
+ "date": "2025-10-19",
+ "pr": null,
+ "title": "Remove border around search bar",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2312 later commits"
+}

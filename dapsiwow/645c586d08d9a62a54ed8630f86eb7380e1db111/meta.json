@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "645c586d08d9a62a54ed8630f86eb7380e1db111",
+ "parent": "b293a8e73b61c1b7666be8aad73453c822d8a614",
+ "date": "2025-10-22",
+ "subject": "Fix navigation bar opening unexpectedly on smaller screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 170046
+}

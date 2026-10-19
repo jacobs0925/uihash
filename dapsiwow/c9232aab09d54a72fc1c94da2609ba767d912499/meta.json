@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "c9232aab09d54a72fc1c94da2609ba767d912499",
+ "parent": "253c26b8c0b23743411ee2bd480675e73513306b",
+ "date": "2025-10-18",
+ "subject": "Add security measures to protect user accounts during login and signup",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1760792531044.png",
+  "client/index.html",
+  "client/src/lib/recaptcha.ts",
+  "client/src/pages/login.tsx",
+  "client/src/pages/signup.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 162727
+}

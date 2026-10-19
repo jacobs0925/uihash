@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "5abfac185b7ffebcbcb7c26fa9df73508fac5758",
+ "date": "2025-10-27",
+ "pr": null,
+ "title": "Add a section for other loan calculators to the loan calculator page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2134 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "827dde5327291f57d4329faaaafb3bf99dee2f48",
+ "parent": "cc18528773931c7f03d7b9a8437b9b21f40e8402",
+ "date": "2025-10-21",
+ "subject": "Assistant checkpoint: Update search icon to appear inside input field",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 166001
+}

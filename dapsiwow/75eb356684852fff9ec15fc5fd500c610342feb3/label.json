@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "75eb356684852fff9ec15fc5fd500c610342feb3",
+ "date": "2025-10-20",
+ "pr": null,
+ "title": "Improve authentication handling to gracefully degrade when Firebase is not configured",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2269 later commits"
+}

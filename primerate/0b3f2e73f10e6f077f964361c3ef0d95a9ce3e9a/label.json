@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "0b3f2e73f10e6f077f964361c3ef0d95a9ce3e9a",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Set borrower as the default tab for the admin client add page",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-bottom: 24px → 0px undone by 9ea31bf6 \"Set the quote tab as the default page for new clients\"; display: flex → grid undone by 9ea31bf6 \"Set the quote tab as the default page for new clients\"; padding-top: 16px → 24px undone by 9ea31bf6 \"Set the quote tab as the default page for new clients\""
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8d6d232c4b64a1a506f085c02fd8c7e22d644399",
+ "parent": "e31d847e577199b66cb9a0318bdb6fdeb47cf690",
+ "date": "2025-10-22",
+ "subject": "Prevent unexpected page navigation when clicking on the hero section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/76be646d-97d7-425f-bbbe-02e7672b9389_1761111241931.png",
+  "attached_assets/b30dd606-9884-491e-81bd-4036e0301103_1761111240254.png",
+  "attached_assets/image_1761111214206.png",
+  "attached_assets/image_1761111236998.png",
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 164769
+}

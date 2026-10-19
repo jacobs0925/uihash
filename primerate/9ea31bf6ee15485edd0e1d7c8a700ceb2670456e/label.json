@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "9ea31bf6ee15485edd0e1d7c8a700ceb2670456e",
+ "date": "2025-10-08",
+ "pr": null,
+ "title": "Set the quote tab as the default page for new clients",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1008 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "af863b125144ef3f8736ac74dc88e4300f9ee455",
+ "parent": "246ae4d3f16755d74d7e07c5f11fa5e38853ce51",
+ "date": "2025-10-22",
+ "subject": "Assistant checkpoint: Remove 'All Tools' category filter button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/all-tools.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 128154
+}

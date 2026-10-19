@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "104963e123de8277d55803d09d0adadc69622824",
+ "parent": "0b3f2e73f10e6f077f964361c3ef0d95a9ce3e9a",
+ "date": "2025-10-08",
+ "subject": "Ensure payoff interest updates also update appraisal inspection values",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44820
+}

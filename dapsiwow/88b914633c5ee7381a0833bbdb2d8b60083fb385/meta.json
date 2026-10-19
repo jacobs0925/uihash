@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "88b914633c5ee7381a0833bbdb2d8b60083fb385",
+ "parent": "8266a8c6e1764458bb5a9c21253bc31c3a39a318",
+ "date": "2025-10-22",
+ "subject": "Assistant checkpoint: Remove 'All Tools' tab from Popular Tools section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/PopularToolsSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 128314
+}

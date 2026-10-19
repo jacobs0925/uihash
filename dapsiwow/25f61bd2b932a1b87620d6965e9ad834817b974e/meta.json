@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "25f61bd2b932a1b87620d6965e9ad834817b974e",
+ "parent": "d749c0b64bb09dfe4cfa77e467e6a3695bba5117",
+ "date": "2025-10-20",
+ "subject": "Improve authentication error messages and handling for login and signup",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 51099
+}

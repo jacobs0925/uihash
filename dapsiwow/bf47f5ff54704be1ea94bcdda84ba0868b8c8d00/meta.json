@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "bf47f5ff54704be1ea94bcdda84ba0868b8c8d00",
+ "parent": "ea5bdcb71a60257194ff9ffe9eb2a654c902e4b2",
+ "date": "2025-10-20",
+ "subject": "Improve user authentication by providing clearer error messages",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/contexts/AuthContext.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 43763
+}

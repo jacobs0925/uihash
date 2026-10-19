@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "5abfac185b7ffebcbcb7c26fa9df73508fac5758",
+ "parent": "cc7bef9b2366facc62bef1dc23b8a30d496c6ef9",
+ "date": "2025-10-27",
+ "subject": "Add a section for other loan calculators to the loan calculator page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 136302
+}

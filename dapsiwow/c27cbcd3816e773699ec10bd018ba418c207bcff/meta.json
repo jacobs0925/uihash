@@ -1,0 +1,30 @@
+{
+ "repo": "dapsiwow",
+ "sha": "c27cbcd3816e773699ec10bd018ba418c207bcff",
+ "parent": "2778f78e0c2c4b01b72d258e5621dc539a2af086",
+ "date": "2025-10-18",
+ "subject": "Add user profile and forgot password pages, and enhance login/signup flows",
+ "components": [
+  "App.tsx",
+  "components",
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/App.tsx",
+  "client/src/components/Header.tsx",
+  "client/src/contexts/AuthContext.tsx",
+  "client/src/pages/forgot-password.tsx",
+  "client/src/pages/login.tsx",
+  "client/src/pages/profile.tsx",
+  "client/src/pages/signup.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 166070
+}

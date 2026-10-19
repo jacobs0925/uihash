@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e401627277fd320f983b0502afe9c121957040ff",
+ "parent": "f67c3a75a58c657b91664d8c7d531d2c51755979",
+ "date": "2025-10-22",
+ "subject": "Remove search results dropdown from the hero section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1761130041518.png",
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 123439
+}

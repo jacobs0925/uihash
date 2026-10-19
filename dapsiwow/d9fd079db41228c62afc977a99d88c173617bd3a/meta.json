@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d9fd079db41228c62afc977a99d88c173617bd3a",
+ "parent": "bc13c68f1c7131301a77290cd63489ddb175ac0a",
+ "date": "2025-10-22",
+ "subject": "Prevent unnecessary navigation when search bar is empty",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 163175
+}

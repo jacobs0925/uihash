@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "872641c43ea9df2785454ecafc946008287f1bb1",
+ "parent": "4d3b227528f1e23d7f8fcfc93b0b6573dbc27697",
+ "date": "2025-10-19",
+ "subject": "Make login and signup pages fully responsive on mobile devices",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1760848301786.png",
+  "client/src/pages/login.tsx",
+  "client/src/pages/signup.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 196224
+}

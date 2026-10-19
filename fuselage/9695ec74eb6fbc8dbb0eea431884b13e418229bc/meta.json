@@ -1,0 +1,35 @@
+{
+ "repo": "fuselage",
+ "sha": "9695ec74eb6fbc8dbb0eea431884b13e418229bc",
+ "parent": "a5028b6471def411b60dc91c08290d1c3ad72d1a",
+ "date": "2026-01-28",
+ "subject": "feat(fuselage): add `ButtonGroup` `rtl` support (#1854)",
+ "pr": "1854",
+ "components": [
+  "ButtonGroup"
+ ],
+ "files": [
+  ".changeset/tame-wolves-try.md",
+  "packages/fuselage/src/components/ButtonGroup/ButtonGroup.styles.scss",
+  "packages/fuselage/src/components/ButtonGroup/ButtonGroup.tsx",
+  "packages/fuselage/src/components/Callout/__snapshots__/Callout.spec.tsx.snap",
+  "packages/fuselage/src/components/Contextualbar/__snapshots__/Contextualbar.spec.tsx.snap",
+  "packages/fuselage/src/components/ContextualbarV2/__snapshots__/Contextualbar.spec.tsx.snap",
+  "packages/fuselage/src/components/Menu/V2/__snapshots__/Menu.spec.tsx.snap",
+  "packages/fuselage/src/components/Message/MessageToolbar/__snapshots__/MessageToolbar.spec.tsx.snap",
+  "packages/fuselage/src/components/Modal/__snapshots__/Modal.spec.tsx.snap",
+  "packages/fuselage/src/components/NavBar/__snapshots__/NavBar.spec.tsx.snap",
+  "packages/fuselage/src/components/Sidebar/TopBar/__snapshots__/TopBar.spec.tsx.snap",
+  "packages/fuselage/src/components/Sidebar/__snapshots__/SidebarItem.spec.tsx.snap",
+  "packages/fuselage/src/components/Table/TableSelection/TableSelection.tsx",
+  "packages/fuselage/src/components/Table/__snapshots__/Table.spec.tsx.snap",
+  "packages/fuselage/src/components/Tag/__snapshots__/Tag.spec.tsx.snap",
+  "packages/onboarding-ui/src/forms/RegisterServerForm/__snapshots__/RegisterServerForm.spec.tsx.snap"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@rocket.chat/fuselage': minor\n---\n\nfeat(fuselage): add `ButtonGroup` `rtl` support\n",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 15,
+ "ms": 91121
+}

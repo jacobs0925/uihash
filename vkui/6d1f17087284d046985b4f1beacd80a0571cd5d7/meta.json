@@ -1,0 +1,21 @@
+{
+ "repo": "vkui",
+ "sha": "6d1f17087284d046985b4f1beacd80a0571cd5d7",
+ "parent": "039589a24e1e3aa73f9f3c5d41907465ecd77f32",
+ "date": "2026-08-28",
+ "subject": "fix(PopoutWrapper): rm content (#10237)",
+ "pr": "10237",
+ "components": [
+  "PopoutWrapper"
+ ],
+ "files": [
+  "packages/vkui/src/components/PopoutWrapper/PopoutWrapper.module.css",
+  "packages/vkui/src/components/PopoutWrapper/PopoutWrapper.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 64884
+}

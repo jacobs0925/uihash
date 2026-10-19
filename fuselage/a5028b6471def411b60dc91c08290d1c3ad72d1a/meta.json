@@ -1,0 +1,23 @@
+{
+ "repo": "fuselage",
+ "sha": "a5028b6471def411b60dc91c08290d1c3ad72d1a",
+ "parent": "09bafbee5353ed5a80dab1e362d75890dcffb926",
+ "date": "2026-01-28",
+ "subject": "fix(fuselage): username truncate in system msg with long topics (#1850)",
+ "pr": "1850",
+ "components": [
+  "Message"
+ ],
+ "files": [
+  ".changeset/ten-ends-serve.md",
+  "packages/fuselage/src/components/Message/MessageSystem/MessageSystem.stories.tsx",
+  "packages/fuselage/src/components/Message/MessageSystem/__snapshots__/MessageSystem.spec.tsx.snap",
+  "packages/fuselage/src/components/Message/Messages.styles.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@rocket.chat/fuselage': patch\n---\n\nfix(fuselage): prevent username truncation in system messages with long topics\n",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 1,
+ "ms": 174260
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "0a4d5628e39485858b0de14f51bd3a6051ea9153",
+ "parent": "0858ec4eedce4cb56913ab706b853386bba0671d",
+ "date": "2026-03-17",
+ "subject": "feat(ArrowToggle): add --g-arrow-toggle-transition-duration CSS token (#2611)",
+ "pr": "2611",
+ "components": [
+  "ArrowToggle"
+ ],
+ "files": [
+  "src/components/ArrowToggle/ArrowToggle.scss",
+  "src/components/ArrowToggle/README-ru.md",
+  "src/components/ArrowToggle/README.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45022
+}

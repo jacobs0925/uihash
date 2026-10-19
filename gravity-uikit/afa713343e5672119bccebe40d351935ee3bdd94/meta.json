@@ -1,0 +1,20 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "afa713343e5672119bccebe40d351935ee3bdd94",
+ "parent": "4b914c4a2451586372013ea6cafb3625947deaba",
+ "date": "2026-07-07",
+ "subject": "fix(Alert): fix actions block positioning in horizontal mode (#2733)",
+ "pr": "2733",
+ "components": [
+  "Alert"
+ ],
+ "files": [
+  "src/components/Alert/Alert.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 3,
+ "ms": 74700
+}

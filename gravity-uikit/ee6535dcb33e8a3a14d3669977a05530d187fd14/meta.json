@@ -1,0 +1,20 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "ee6535dcb33e8a3a14d3669977a05530d187fd14",
+ "parent": "0d09d83406ff561694351fa255f3baa7e1a56d4c",
+ "date": "2026-09-08",
+ "subject": "fix(Breadcrumbs): remove negative margins (#2818)",
+ "pr": "2818",
+ "components": [
+  "Breadcrumbs"
+ ],
+ "files": [
+  "src/components/Breadcrumbs/Breadcrumbs.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 33,
+ "findings": 1,
+ "ms": 82293
+}

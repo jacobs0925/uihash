@@ -1,0 +1,22 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "9f24780583628dde4835ca9c3c4938fd093ca0a7",
+ "parent": "b2d5c7e1fcb4f059ca9798801315d4c9356301ca",
+ "date": "2026-02-24",
+ "subject": "fix(FileDropZone): pass `accept` prop to file input and respect `multiple` in drop handler (#2594)",
+ "pr": "2594",
+ "components": [
+  "lab"
+ ],
+ "files": [
+  "src/components/lab/FileDropZone/FileDropZone.Provider.tsx",
+  "src/components/lab/FileDropZone/FileDropZone.scss",
+  "src/components/lab/FileDropZone/parts/FileDropZone.Button.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 57,
+ "findings": 0,
+ "ms": 75325
+}

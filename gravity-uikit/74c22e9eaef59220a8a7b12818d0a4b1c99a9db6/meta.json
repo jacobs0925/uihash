@@ -1,0 +1,22 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "74c22e9eaef59220a8a7b12818d0a4b1c99a9db6",
+ "parent": "7e17e762f2e41572a512cf401c1716844cbb1f25",
+ "date": "2026-01-22",
+ "subject": "feat: some improvements at color picker (#2547)",
+ "pr": "2547",
+ "components": [
+  "lab"
+ ],
+ "files": [
+  "src/components/lab/ColorPicker/ColorPicker.scss",
+  "src/components/lab/ColorPicker/ColorPicker.tsx",
+  "src/components/lab/ColorPicker/components/ColorDisplay/ColorDisplay.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 39,
+ "findings": 12,
+ "ms": 73029
+}

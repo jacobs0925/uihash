@@ -1,0 +1,21 @@
+{
+ "repo": "fuselage",
+ "sha": "fb34f69d9cb7627457d9fff3f23b7f92d397e8d0",
+ "parent": "0ee2597ccc75762e096f65ac3606053ae0026dbd",
+ "date": "2025-11-26",
+ "subject": "chore(fuselage): Update FramedIcon styles (#1787)",
+ "pr": "1787",
+ "components": [
+  "FramedIcon"
+ ],
+ "files": [
+  ".changeset/red-hotels-cross.md",
+  "packages/fuselage/src/components/FramedIcon/FramedIcon.styles.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@rocket.chat/fuselage\": minor\n---\n\nUpdates `FramedIcon` component styles to improve contrast and design system compliance\n",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 4,
+ "ms": 84444
+}

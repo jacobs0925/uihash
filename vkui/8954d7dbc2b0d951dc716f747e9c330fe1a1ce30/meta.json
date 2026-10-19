@@ -1,0 +1,23 @@
+{
+ "repo": "vkui",
+ "sha": "8954d7dbc2b0d951dc716f747e9c330fe1a1ce30",
+ "parent": "0b7ec817fbb13a3d38ba8bc3f616e855b2f39e70",
+ "date": "2026-08-19",
+ "subject": "feat(PullToRefresh): add Button for a11y (#10046)",
+ "pr": "10046",
+ "components": [
+  "PullToRefresh"
+ ],
+ "files": [
+  "packages/vkui/src/components/PullToRefresh/PullToRefresh.module.css",
+  "packages/vkui/src/components/PullToRefresh/PullToRefresh.test.tsx",
+  "packages/vkui/src/components/PullToRefresh/PullToRefresh.tsx",
+  "website/content/components/pull-to-refresh.mdx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 389383
+}

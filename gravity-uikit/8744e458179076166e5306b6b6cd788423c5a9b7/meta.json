@@ -1,0 +1,25 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "8744e458179076166e5306b6b6cd788423c5a9b7",
+ "parent": "882f29f354fe50edf4ac1d80be54dae6d0eb713d",
+ "date": "2026-06-11",
+ "subject": "feat(Skeleton): adjustable skeleton (#2684)",
+ "pr": "2684",
+ "components": [
+  "Skeleton"
+ ],
+ "files": [
+  "src/components/Skeleton/README-ru.md",
+  "src/components/Skeleton/README.md",
+  "src/components/Skeleton/Skeleton.scss",
+  "src/components/Skeleton/Skeleton.tsx",
+  "src/components/Skeleton/__stories__/Skeleton.stories.tsx",
+  "src/components/Skeleton/__stories__/SkeletonShowcase.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 52484
+}

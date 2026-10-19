@@ -1,0 +1,21 @@
+{
+ "repo": "fuselage",
+ "sha": "c4f78b07dc72ab821fb72ff46292f22d1b95d210",
+ "parent": "5ca3a9ce943e2b8989ca1e54c4540370e09504af",
+ "date": "2026-09-15",
+ "subject": "fix(fuselage): update hover bg color for sidebar collapse group (#2207)",
+ "pr": "2207",
+ "components": [
+  "Sidebar"
+ ],
+ "files": [
+  ".changeset/sweet-hands-kneel.md",
+  "packages/fuselage/src/components/Sidebar/Sidebar.styles.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@rocket.chat/fuselage': patch\n---\n\nfix(fuselage): update hover background color for sidebar collapse group\n",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 4,
+ "ms": 120668
+}

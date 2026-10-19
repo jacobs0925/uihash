@@ -1,0 +1,37 @@
+{
+ "repo": "fuselage",
+ "sha": "4eb68c8d33e5704ee24905f272fd085d3244f8f7",
+ "parent": "8e25837006742c4e59579cd0a826ea396373cf1a",
+ "date": "2026-09-10",
+ "subject": "feat(fuselage)!: Restrict border radius and border width token names (#2100)",
+ "pr": "2100",
+ "components": [
+  "Banner",
+  "Tabs"
+ ],
+ "files": [
+  ".changeset/tired-actors-watch.md",
+  "packages/fuselage-tokens/build.js",
+  "packages/fuselage-tokens/config.js",
+  "packages/fuselage-tokens/src/border.json",
+  "packages/fuselage/fuselage.api.md",
+  "packages/fuselage/src/components/AudioPlayer/AudioPlayer.tsx",
+  "packages/fuselage/src/components/Banner/Banner.styles.scss",
+  "packages/fuselage/src/components/Box/colors.stories.tsx",
+  "packages/fuselage/src/components/Box/layout.stories.tsx",
+  "packages/fuselage/src/components/Box/stylingProps.ts",
+  "packages/fuselage/src/components/Box/typography.stories.tsx",
+  "packages/fuselage/src/components/Message/Messages.stories.tsx",
+  "packages/fuselage/src/components/Table/TableCell.tsx",
+  "packages/fuselage/src/components/Tabs/Tabs.styles.scss",
+  "packages/fuselage/src/components/ToastBar/ToastBar.tsx",
+  "packages/fuselage/src/styleTokens.ts",
+  "packages/fuselage/src/styles/lengths.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@rocket.chat/fuselage-tokens': minor\n'@rocket.chat/fuselage': minor\n---\n\nRestricts border radius and border width token names\n",
+ "recipe": 1,
+ "stories": 27,
+ "findings": 0,
+ "ms": 52695
+}

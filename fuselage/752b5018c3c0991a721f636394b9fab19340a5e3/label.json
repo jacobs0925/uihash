@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "752b5018c3c0991a721f636394b9fab19340a5e3",
+ "date": "2026-06-15",
+ "pr": "2017",
+ "title": "feat(fuselage): Add `startAddon` and `endAddon` to `InputBox` (#2017)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "row-gap: normal → 8px undone by 52fdd70b \"fix(fuselage): `InputBox` spacing in leading and trailing addons (#2024)\"; column-gap: normal → 8px undone by 52fdd70b \"fix(fuselage): `InputBox` spacing in leading and trailing addons (#2024)\"; row-gap: normal → 8px undone by 52fdd70b \"fix(fuselage): `InputBox` spacing in leading and trailing addons (#2024)\""
+}

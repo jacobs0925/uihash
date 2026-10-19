@@ -1,0 +1,27 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "a6bb0f429db390d507c7744840a3901b4b8903b6",
+ "parent": "56299d574ac178361f5712b6528e1be0d4d9db24",
+ "date": "2026-08-05",
+ "subject": "fix(SegmentedRadioGroup): changed option-text display type (#2765)",
+ "pr": "2765",
+ "components": [
+  "SegmentedRadioGroup"
+ ],
+ "files": [
+  "src/components/SegmentedRadioGroup/SegmentedRadioGroup.scss",
+  "src/components/SegmentedRadioGroup/__snapshots__/RadioButton.visual.test.tsx-snapshots/SegmentedRadioGroup-option-icon-stays-still-on-auto-max-widths-1-chromium-linux.png",
+  "src/components/SegmentedRadioGroup/__snapshots__/RadioButton.visual.test.tsx-snapshots/SegmentedRadioGroup-option-icon-stays-still-on-auto-max-widths-2-chromium-linux.png",
+  "src/components/SegmentedRadioGroup/__tests__/RadioButton.visual.test.tsx",
+  "src/components/SegmentedRadioGroup/__tests__/helpersPlaywright.tsx"
+ ],
+ "snapshotsUpdated": [
+  "src/components/SegmentedRadioGroup/__snapshots__/RadioButton.visual.test.tsx-snapshots/SegmentedRadioGroup-option-icon-stays-still-on-auto-max-widths-1-chromium-linux.png",
+  "src/components/SegmentedRadioGroup/__snapshots__/RadioButton.visual.test.tsx-snapshots/SegmentedRadioGroup-option-icon-stays-still-on-auto-max-widths-2-chromium-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 58105
+}

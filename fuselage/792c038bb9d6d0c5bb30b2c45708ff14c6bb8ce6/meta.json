@@ -1,0 +1,24 @@
+{
+ "repo": "fuselage",
+ "sha": "792c038bb9d6d0c5bb30b2c45708ff14c6bb8ce6",
+ "parent": "a4dbce5903564ed72981f72335d89292ee7605f0",
+ "date": "2026-05-08",
+ "subject": "fix(fuselage): issues not caught by visual regression testing after Sass rewrite (#1961)",
+ "pr": "1961",
+ "components": [
+  "Avatar",
+  "Chip"
+ ],
+ "files": [
+  ".changeset/ten-cats-occur.md",
+  "packages/fuselage/src/components/Avatar/Avatar.styles.scss",
+  "packages/fuselage/src/components/Chip/Chip.styles.scss",
+  "packages/fuselage/src/styles/primitives/link.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@rocket.chat/fuselage\": patch\n---\n\nfix(fuselage): issues not caught by visual regression testing after Sass rewrite\n",
+ "recipe": 1,
+ "stories": 27,
+ "findings": 6,
+ "ms": 70183
+}

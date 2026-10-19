@@ -1,0 +1,24 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "ff069886ec73490999d8e124b414cf61aecbe8da",
+ "parent": "2e01da592246c1a6d2d274d68adb1631cbb6459e",
+ "date": "2026-08-21",
+ "subject": "fix(Modal): constrain scrollable content to overlay (#2789)",
+ "pr": "2789",
+ "components": [
+  "Modal"
+ ],
+ "files": [
+  "src/components/Dialog/__tests__/Dialog.visual.test.tsx",
+  "src/components/Modal/Modal.scss",
+  "src/components/Modal/Modal.tsx",
+  "src/components/Modal/__tests__/Modal.visual.test.tsx",
+  "src/components/Modal/__tests__/helpers.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 40956
+}

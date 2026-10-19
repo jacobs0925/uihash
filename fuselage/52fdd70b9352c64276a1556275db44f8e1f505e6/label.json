@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "52fdd70b9352c64276a1556275db44f8e1f505e6",
+ "date": "2026-06-23",
+ "pr": "2024",
+ "title": "fix(fuselage): `InputBox` spacing in leading and trailing addons (#2024)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "fix(fuselage): `InputBox` spacing in leading and trailing addons"
+}

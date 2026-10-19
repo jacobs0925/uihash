@@ -1,0 +1,37 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "b7e6b0a522c8ca19084a16ea9d58264b56c07715",
+ "parent": "1e572f243827683714a147f08824bb18f8de52e3",
+ "date": "2026-10-05",
+ "subject": "feat(Modal, Dialog)!: remove deprecated APIs (#2865)",
+ "pr": "2865",
+ "components": [
+  "Dialog"
+ ],
+ "files": [
+  "docs/migration-to-v8-ru.md",
+  "docs/migration-to-v8.md",
+  "src/components/Dialog/Dialog.scss",
+  "src/components/Dialog/Dialog.tsx",
+  "src/components/Dialog/README-ru.md",
+  "src/components/Dialog/README.md",
+  "src/components/Dialog/__stories__/Dialog.stories.tsx",
+  "src/components/Dialog/__stories__/DialogShowcase.tsx",
+  "src/components/Dialog/__tests__/Dialog.test.tsx",
+  "src/components/Dialog/__tests__/Dialog.visual.test.tsx",
+  "src/components/Dialog/__tests__/cases.tsx",
+  "src/components/Drawer/components/Drawer.tsx",
+  "src/components/Modal/Modal.tsx",
+  "src/components/Modal/README-ru.md",
+  "src/components/Modal/README.md",
+  "src/components/Select/__tests__/Select.popup.test.tsx",
+  "src/components/Toaster/__tests__/ToasterProvider.test.tsx",
+  "src/components/theme/__stories__/Theme.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 34883
+}

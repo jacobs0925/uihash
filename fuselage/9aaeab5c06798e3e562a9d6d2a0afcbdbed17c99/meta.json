@@ -1,0 +1,28 @@
+{
+ "repo": "fuselage",
+ "sha": "9aaeab5c06798e3e562a9d6d2a0afcbdbed17c99",
+ "parent": "788a0c3ded109045559e24165269fa1e69341cea",
+ "date": "2026-08-10",
+ "subject": "feat(fuselage)!: Remove the `ghost` variant and the `disabled` prop from `Badge` (#2147)",
+ "pr": "2147",
+ "components": [
+  "Badge"
+ ],
+ "files": [
+  ".changeset/remove-ghost-badge-variant.md",
+  "packages/fuselage/fuselage.api.md",
+  "packages/fuselage/src/components/Badge/Badge.spec.tsx",
+  "packages/fuselage/src/components/Badge/Badge.stories.tsx",
+  "packages/fuselage/src/components/Badge/Badge.styles.scss",
+  "packages/fuselage/src/components/Badge/Badge.tsx",
+  "packages/fuselage/test/snapshots/data-display-badge--disabled-desktop.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/fuselage/test/snapshots/data-display-badge--disabled-desktop.png"
+ ],
+ "changeset": "---\n'@rocket.chat/fuselage': minor\n---\n\nfeat(fuselage)!: Remove the `ghost` variant and the `disabled` prop from `Badge`\n",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 0,
+ "ms": 109788
+}

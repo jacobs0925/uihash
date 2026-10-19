@@ -1,0 +1,40 @@
+{
+ "repo": "fuselage",
+ "sha": "a5f51e722f2d0046ff81436c5749c5f9402ff932",
+ "parent": "5a902319c5c166a04c4e6920d5627e641a094032",
+ "date": "2026-09-10",
+ "subject": "feat(fuselage): Add `joined` ButtonGroup variant with `ghost` button segments (#2164)",
+ "pr": "2164",
+ "components": [
+  "ButtonGroup"
+ ],
+ "files": [
+  ".changeset/button-group-joined.md",
+  "packages/fuselage/fuselage.api.md",
+  "packages/fuselage/src/components/ButtonGroup/ButtonGroup.spec.tsx",
+  "packages/fuselage/src/components/ButtonGroup/ButtonGroup.stories.tsx",
+  "packages/fuselage/src/components/ButtonGroup/ButtonGroup.styles.scss",
+  "packages/fuselage/src/components/ButtonGroup/ButtonGroup.tsx",
+  "packages/fuselage/src/components/ButtonGroup/__snapshots__/ButtonGroup.spec.tsx.snap",
+  "packages/fuselage/src/styles/variables/button-colors.scss",
+  "packages/fuselage/test/snapshots/inputs-buttongroup--joined-desktop.png",
+  "packages/fuselage/test/snapshots/inputs-buttongroup--joined-segmented-desktop.png",
+  "packages/fuselage/test/snapshots/inputs-buttongroup--joined-split-button-desktop.png",
+  "packages/fuselage/test/snapshots/inputs-buttongroup--joined-vertical-desktop.png",
+  "packages/fuselage/test/snapshots/inputs-buttongroup--joined-with-multiple-button-sizes-desktop.png",
+  "packages/fuselage/test/snapshots/inputs-buttongroup--with-icon-buttons-desktop.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/fuselage/test/snapshots/inputs-buttongroup--joined-desktop.png",
+  "packages/fuselage/test/snapshots/inputs-buttongroup--joined-segmented-desktop.png",
+  "packages/fuselage/test/snapshots/inputs-buttongroup--joined-split-button-desktop.png",
+  "packages/fuselage/test/snapshots/inputs-buttongroup--joined-vertical-desktop.png",
+  "packages/fuselage/test/snapshots/inputs-buttongroup--joined-with-multiple-button-sizes-desktop.png",
+  "packages/fuselage/test/snapshots/inputs-buttongroup--with-icon-buttons-desktop.png"
+ ],
+ "changeset": "---\n'@rocket.chat/fuselage': minor\n---\n\nfeat(fuselage): Add `joined` ButtonGroup variant with `ghost` button segments\n",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 0,
+ "ms": 60968
+}

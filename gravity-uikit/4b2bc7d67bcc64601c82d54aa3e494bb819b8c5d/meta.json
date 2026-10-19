@@ -1,0 +1,39 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "4b2bc7d67bcc64601c82d54aa3e494bb819b8c5d",
+ "parent": "e5e59116fd1ac34ae4987a850065db5a6960884a",
+ "date": "2026-07-22",
+ "subject": "fix(Tabs): correctly render custom components + migration guide (#2757)",
+ "pr": "2757",
+ "components": [
+  "tabs"
+ ],
+ "files": [
+  "src/components/Breadcrumbs/BreadcrumbsItem.tsx",
+  "src/components/Button/Button.tsx",
+  "src/components/Link/Link.tsx",
+  "src/components/lab/Menu/MenuItem.tsx",
+  "src/components/lab/Menu/types.ts",
+  "src/components/tabs/Tab.scss",
+  "src/components/tabs/Tab.tsx",
+  "src/components/tabs/TabListCollapseItem/TabListCollapseItem.scss",
+  "src/components/tabs/TabListCollapseItem/TabListCollapseItem.tsx",
+  "src/components/tabs/__stories__/TabList.stories.tsx",
+  "src/components/tabs/__tests__/Tab.test.tsx",
+  "src/components/tabs/constants.ts",
+  "src/components/tabs/hooks/useTab.ts",
+  "src/components/tabs/hooks/useTabListCollapsedChildren.ts",
+  "src/components/tabs/hooks/useTabListGapFromContainer.ts",
+  "src/components/tabs/migration-guide.md",
+  "src/components/tabs/types.ts",
+  "src/components/tabs/utils.ts",
+  "src/components/utils/getLinkRelWithFallback.ts",
+  "src/components/utils/polymorphic.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 33,
+ "findings": 2,
+ "ms": 72310
+}

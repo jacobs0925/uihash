@@ -1,0 +1,26 @@
+{
+ "repo": "fuselage",
+ "sha": "752b5018c3c0991a721f636394b9fab19340a5e3",
+ "parent": "6a21baf14375149f5c3d8cb0eb14eacc958c6d32",
+ "date": "2026-06-15",
+ "subject": "feat(fuselage): Add `startAddon` and `endAddon` to `InputBox` (#2017)",
+ "pr": "2017",
+ "components": [
+  "InputBox"
+ ],
+ "files": [
+  ".changeset/wet-fans-design.md",
+  "packages/fuselage/src/components/InputBox/InputBox.spec.tsx",
+  "packages/fuselage/src/components/InputBox/InputBox.stories.tsx",
+  "packages/fuselage/src/components/InputBox/InputBox.styles.scss",
+  "packages/fuselage/src/components/InputBox/InputBox.tsx",
+  "packages/fuselage/src/components/InputBox/__snapshots__/InputBox.spec.tsx.snap",
+  "packages/fuselage/src/components/InputBox/mixins.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@rocket.chat/fuselage': minor\n---\n\nfeat(fuselage): Add `startAddon` and `endAddon` to `InputBox`\n",
+ "recipe": 1,
+ "stories": 27,
+ "findings": 6,
+ "ms": 129471
+}

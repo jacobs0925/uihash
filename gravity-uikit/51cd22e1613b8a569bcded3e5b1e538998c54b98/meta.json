@@ -1,0 +1,20 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "51cd22e1613b8a569bcded3e5b1e538998c54b98",
+ "parent": "247ef0e7b5a96169649f97c920052b6426773cf4",
+ "date": "2026-09-29",
+ "subject": "fix(Progress)!: component margin removed (#2151)",
+ "pr": "2151",
+ "components": [
+  "Progress"
+ ],
+ "files": [
+  "src/components/Progress/Progress.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 3,
+ "ms": 53199
+}

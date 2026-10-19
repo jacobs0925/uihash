@@ -1,0 +1,21 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "bf767ee28944805ceb60b532b60c62be53b0ceda",
+ "parent": "947560f22e16fb032b3001407d06031424a29b13",
+ "date": "2026-09-23",
+ "subject": "fix(ActionsPanel): collapse actions before truncating the note (#2848)",
+ "pr": "2848",
+ "components": [
+  "ActionsPanel"
+ ],
+ "files": [
+  "src/components/ActionsPanel/components/CollapseActions.scss",
+  "src/components/ActionsPanel/components/CollapseActions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 10,
+ "ms": 61970
+}

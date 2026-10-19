@@ -1,0 +1,22 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "b9ec16871630ad21ba6e81f83881f57ac1331752",
+ "parent": "f59d098acd6b3891f27cbef6b147d88ad5c2cbe1",
+ "date": "2025-11-21",
+ "subject": "fix(AvatarStack): change ordering algorithm for correct logical order li (#2480)",
+ "pr": "2480",
+ "components": [
+  "AvatarStack"
+ ],
+ "files": [
+  "src/components/AvatarStack/AvatarStack.scss",
+  "src/components/AvatarStack/AvatarStack.tsx",
+  "src/components/AvatarStack/AvatarStackItem.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 22,
+ "ms": 71481
+}

@@ -1,0 +1,36 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "b2cfb18196f2adae4d1ca316e1ad79adea76dd31",
+ "parent": "3050ff161a1443c4e302911fa2d81ea9e5fb0461",
+ "date": "2026-10-06",
+ "subject": "feat(Select): sheet title and custom selection indicator (#2879)",
+ "pr": "2879",
+ "components": [
+  "ListItemView",
+  "Select"
+ ],
+ "files": [
+  "docs/migration-from-legacy-list.md",
+  "src/components/ListItemView/ListItemView.scss",
+  "src/components/ListItemView/README.md",
+  "src/components/ListItemView/__tests__/ListItemView.visual.test.tsx",
+  "src/components/ListItemView/__tests__/helpersPlaywright.tsx",
+  "src/components/Select/README-ru.md",
+  "src/components/Select/README.md",
+  "src/components/Select/Select.tsx",
+  "src/components/Select/__stories__/Select.stories.tsx",
+  "src/components/Select/__stories__/SelectShowcase.scss",
+  "src/components/Select/__stories__/Showcase.mdx",
+  "src/components/Select/__tests__/Select.popup.test.tsx",
+  "src/components/Select/components/SelectList/SelectList.tsx",
+  "src/components/Select/components/SelectPopup/SelectPopup.tsx",
+  "src/components/Select/components/SelectPopup/types.ts",
+  "src/components/Select/types.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 0,
+ "ms": 95707
+}

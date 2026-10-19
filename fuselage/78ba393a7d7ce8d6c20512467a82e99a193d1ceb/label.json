@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "78ba393a7d7ce8d6c20512467a82e99a193d1ceb",
+ "date": "2026-04-27",
+ "pr": "1949",
+ "title": "feat(fuselage): Keep sidebar item menu btn visible when expanded (#1949)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "feat(fuselage): Keep sidebar item menu button visible while expanded"
+}

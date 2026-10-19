@@ -1,0 +1,12 @@
+{
+ "app": "gravity-uikit",
+ "group": "gravity-uikit",
+ "sha": "a0492dce7be557ad83ac7385cc0d9310b8ac68cc",
+ "date": "2026-02-17",
+ "pr": "2588",
+ "title": "fix(Slider): fix text color in tooltip (#2588)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "2 visual-test baselines updated"
+}

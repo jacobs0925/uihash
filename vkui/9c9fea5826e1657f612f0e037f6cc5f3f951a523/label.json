@@ -1,0 +1,12 @@
+{
+ "app": "vkui",
+ "group": "vkui",
+ "sha": "9c9fea5826e1657f612f0e037f6cc5f3f951a523",
+ "date": "2026-08-18",
+ "pr": "10183",
+ "title": "fix(Header): margin from design (#10183)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "10 visual-test baselines updated"
+}

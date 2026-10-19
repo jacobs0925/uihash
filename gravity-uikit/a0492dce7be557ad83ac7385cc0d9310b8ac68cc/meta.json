@@ -1,0 +1,25 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "a0492dce7be557ad83ac7385cc0d9310b8ac68cc",
+ "parent": "6cb5ad8655f0d8d66c3d93e73933e4b63c3b31b5",
+ "date": "2026-02-17",
+ "subject": "fix(Slider): fix text color in tooltip (#2588)",
+ "pr": "2588",
+ "components": [
+  "Slider"
+ ],
+ "files": [
+  "src/components/Slider/SliderTooltip/SliderTooltip.scss",
+  "src/components/Slider/__snapshots__/Slider.visual.test.tsx-snapshots/Slider-smoke-range-value-with-error-light-chromium-linux.png",
+  "src/components/Slider/__snapshots__/Slider.visual.test.tsx-snapshots/Slider-smoke-with-error-light-chromium-linux.png"
+ ],
+ "snapshotsUpdated": [
+  "src/components/Slider/__snapshots__/Slider.visual.test.tsx-snapshots/Slider-smoke-range-value-with-error-light-chromium-linux.png",
+  "src/components/Slider/__snapshots__/Slider.visual.test.tsx-snapshots/Slider-smoke-with-error-light-chromium-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 8,
+ "ms": 66894
+}

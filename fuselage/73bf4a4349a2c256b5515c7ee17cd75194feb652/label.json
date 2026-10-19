@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "73bf4a4349a2c256b5515c7ee17cd75194feb652",
+ "date": "2026-08-18",
+ "pr": "2155",
+ "title": "feat(fuselage): Render message mentions as plain text instead of pills (#2155)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "2 visual-test baselines updated"
+}

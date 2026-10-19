@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "cce8e7f7ae5bb261e95936c586ac831366579b7d",
+ "date": "2025-10-15",
+ "pr": "1762",
+ "title": "feat(monorepo): Get rid of stale polyfills (#1762)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Deletes the `@rocket.chat/fuselage-polyfills` package"
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "fuselage",
+ "sha": "5f63640f0a88b0bcf5a725d2ba630b98147824fe",
+ "parent": "064b02a866d3f8c5ca82fcc9e810d082e8f0bbd1",
+ "date": "2026-08-10",
+ "subject": "fix(fuselage): Remove duplicated calendar icon on date inputs in Firefox (#2088)",
+ "pr": "2088",
+ "components": [
+  "InputBox"
+ ],
+ "files": [
+  ".changeset/wise-chairs-show.md",
+  "packages/fuselage/src/components/InputBox/InputBox.styles.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@rocket.chat/fuselage': patch\n---\n\nfix: Remove duplicated calendar icon on date inputs in Firefox\n",
+ "recipe": 1,
+ "stories": 30,
+ "findings": 0,
+ "ms": 50600
+}

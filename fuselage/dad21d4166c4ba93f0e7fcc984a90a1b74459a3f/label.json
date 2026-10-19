@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "dad21d4166c4ba93f0e7fcc984a90a1b74459a3f",
+ "date": "2026-07-28",
+ "pr": "2044",
+ "title": "feat(fuselage): Add menu support to `SidebarCollapseGroup` (#2044)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "feat(fuselage): Add menu support to SidebarCollapseGroup"
+}

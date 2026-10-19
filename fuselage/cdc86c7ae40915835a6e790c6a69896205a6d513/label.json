@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "cdc86c7ae40915835a6e790c6a69896205a6d513",
+ "date": "2026-08-19",
+ "pr": "2162",
+ "title": "feat(fuselage): Update input pseudo states (#2162)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "15 visual-test baselines updated"
+}

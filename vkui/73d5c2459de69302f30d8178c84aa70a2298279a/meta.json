@@ -1,0 +1,20 @@
+{
+ "repo": "vkui",
+ "sha": "73d5c2459de69302f30d8178c84aa70a2298279a",
+ "parent": "9f78c2dc0118bde3a4179e68e451a6be919c9596",
+ "date": "2026-09-22",
+ "subject": "fix(Image): flex-direction column (#10296)",
+ "pr": "10296",
+ "components": [
+  "ImageBase"
+ ],
+ "files": [
+  "packages/vkui/src/components/ImageBase/ImageBase.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 83029
+}

@@ -1,0 +1,12 @@
+{
+ "app": "gravity-uikit",
+ "group": "gravity-uikit",
+ "sha": "3c901cc697a349177dca04314e9cfedccef5f2a1",
+ "date": "2026-10-06",
+ "pr": "2885",
+ "title": "feat(ListItemView)!: align row heights with the controls (#2885)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "6 visual-test baselines updated"
+}

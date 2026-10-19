@@ -1,0 +1,49 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "66807d7be2b7fcd5a941573156d15de636f26c24",
+ "parent": "af893cfafa525186c08135c05ef6da6eb56dbeca",
+ "date": "2025-12-14",
+ "subject": "fix(Select): fix selected option styles (#2530)",
+ "pr": "2530",
+ "components": [
+  "List",
+  "Select"
+ ],
+ "files": [
+  "playwright/core/index.ts",
+  "src/components/Disclosure/__tests__/Disclosure.test.tsx",
+  "src/components/List/List.scss",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-multiple-should-activate-first-selected-option-by-default-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-multiple-should-activate-selected-option-on-hover-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-multiple-should-activate-selected-option-on-navigation-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-multiple-should-activate-unselected-option-on-hover-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-multiple-should-activate-unselected-option-on-navigation-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-single-should-activate-selected-option-by-default-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-single-should-activate-selected-option-on-hover-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-single-should-activate-selected-option-on-navigation-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-single-should-activate-unselected-option-on-hover-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-single-should-activate-unselected-option-on-navigation-light-chromium-linux.png",
+  "src/components/Select/__tests__/Select.visual.test.tsx",
+  "src/components/Select/__tests__/cases.tsx",
+  "src/components/Select/components/SelectList/OptionWrap.tsx",
+  "src/components/Select/components/SelectList/SelectList.scss",
+  "src/components/Select/components/SelectList/SelectList.tsx"
+ ],
+ "snapshotsUpdated": [
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-multiple-should-activate-first-selected-option-by-default-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-multiple-should-activate-selected-option-on-hover-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-multiple-should-activate-selected-option-on-navigation-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-multiple-should-activate-unselected-option-on-hover-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-multiple-should-activate-unselected-option-on-navigation-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-single-should-activate-selected-option-by-default-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-single-should-activate-selected-option-on-hover-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-single-should-activate-selected-option-on-navigation-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-single-should-activate-unselected-option-on-hover-light-chromium-linux.png",
+  "src/components/Select/__snapshots__/Select.visual.test.tsx-snapshots/Select-option-states-single-should-activate-unselected-option-on-navigation-light-chromium-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 95984
+}

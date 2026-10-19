@@ -1,0 +1,30 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "88f252da00ddd6f8eef46038c722bb5adce352bb",
+ "parent": "f3cf8acfaf69982bc90bea275cde38fc5fd3f272",
+ "date": "2026-10-02",
+ "subject": "feat(ClipboardButton): support tooltip props (#2837)",
+ "pr": "2837",
+ "components": [
+  "Toaster"
+ ],
+ "files": [
+  "src/components/ClipboardButton/ClipboardButton.tsx",
+  "src/components/ClipboardButton/README-ru.md",
+  "src/components/ClipboardButton/README.md",
+  "src/components/Toaster/Toast/Toast.scss",
+  "src/components/Toaster/__snapshots__/Toast.visual.test.tsx-snapshots/Toast-inline-popup-remains-visible-outside-the-toast-1-chromium-linux.png",
+  "src/components/Toaster/__snapshots__/Toast.visual.test.tsx-snapshots/Toast-inline-popup-remains-visible-outside-the-toast-2-chromium-linux.png",
+  "src/components/Toaster/__tests__/Toast.visual.test.tsx",
+  "src/components/Toaster/__tests__/ToastWithInlinePopup.tsx"
+ ],
+ "snapshotsUpdated": [
+  "src/components/Toaster/__snapshots__/Toast.visual.test.tsx-snapshots/Toast-inline-popup-remains-visible-outside-the-toast-1-chromium-linux.png",
+  "src/components/Toaster/__snapshots__/Toast.visual.test.tsx-snapshots/Toast-inline-popup-remains-visible-outside-the-toast-2-chromium-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 33904
+}

@@ -1,0 +1,29 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "1e414d35c3990282d720c09dfb8a2e4eb1818636",
+ "parent": "7080b1a507a17af8243f8dcdef3dbbc83434d6af",
+ "date": "2026-07-07",
+ "subject": "fix(Alert): fix alert align styles (#2730)",
+ "pr": "2730",
+ "components": [
+  "Alert"
+ ],
+ "files": [
+  "src/components/Alert/Alert.scss",
+  "src/components/Alert/__snapshots__/Alert.visual.test.tsx-snapshots/Alert-render-story-ActionsLayout-1-chromium-linux.png",
+  "src/components/Alert/__snapshots__/Alert.visual.test.tsx-snapshots/Alert-render-story-ActionsLayout-2-chromium-linux.png",
+  "src/components/Alert/__snapshots__/Alert.visual.test.tsx-snapshots/Alert-render-story-Layout-1-chromium-linux.png",
+  "src/components/Alert/__snapshots__/Alert.visual.test.tsx-snapshots/Alert-render-story-Layout-2-chromium-linux.png"
+ ],
+ "snapshotsUpdated": [
+  "src/components/Alert/__snapshots__/Alert.visual.test.tsx-snapshots/Alert-render-story-ActionsLayout-1-chromium-linux.png",
+  "src/components/Alert/__snapshots__/Alert.visual.test.tsx-snapshots/Alert-render-story-ActionsLayout-2-chromium-linux.png",
+  "src/components/Alert/__snapshots__/Alert.visual.test.tsx-snapshots/Alert-render-story-Layout-1-chromium-linux.png",
+  "src/components/Alert/__snapshots__/Alert.visual.test.tsx-snapshots/Alert-render-story-Layout-2-chromium-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 3,
+ "ms": 74053
+}

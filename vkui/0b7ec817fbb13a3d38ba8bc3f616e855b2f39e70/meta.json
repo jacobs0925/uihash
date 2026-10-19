@@ -1,0 +1,21 @@
+{
+ "repo": "vkui",
+ "sha": "0b7ec817fbb13a3d38ba8bc3f616e855b2f39e70",
+ "parent": "9c9fea5826e1657f612f0e037f6cc5f3f951a523",
+ "date": "2026-08-18",
+ "subject": "feat(SplitLayout): add reverseColumns (#10203)",
+ "pr": "10203",
+ "components": [
+  "SplitLayout"
+ ],
+ "files": [
+  "packages/vkui/src/components/SplitLayout/SplitLayout.module.css",
+  "packages/vkui/src/components/SplitLayout/SplitLayout.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 36749
+}

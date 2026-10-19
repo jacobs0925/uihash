@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "f84a6f6d52a65b3bf2ecfb8c4245221eb57b2ffc",
+ "date": "2026-09-28",
+ "pr": "2234",
+ "title": "fix(fuselage): Keep `Tooltip` arrows pointing at their anchor in RTL (#2234)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "2 visual-test baselines updated"
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "fuselage",
+ "sha": "78ba393a7d7ce8d6c20512467a82e99a193d1ceb",
+ "parent": "ef9dedd02084073731bd9cc008e1268e23b4b9a0",
+ "date": "2026-04-27",
+ "subject": "feat(fuselage): Keep sidebar item menu btn visible when expanded (#1949)",
+ "pr": "1949",
+ "components": [
+  "SidebarV2"
+ ],
+ "files": [
+  ".changeset/hungry-clubs-strive.md",
+  "packages/fuselage/src/components/SidebarV2/SidebarItem/SidebarItem.styles.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@rocket.chat/fuselage': minor\n---\n\nfeat(fuselage): Keep sidebar item menu button visible while expanded\n",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 4,
+ "ms": 84096
+}

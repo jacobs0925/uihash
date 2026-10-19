@@ -1,0 +1,22 @@
+{
+ "repo": "fuselage",
+ "sha": "957a55cd6b31452a7f788c0d4af51bdccffcf89c",
+ "parent": "28b7a4a51c6c5bf72182f3b708965b1abfc36b38",
+ "date": "2026-01-17",
+ "subject": "feat(fuselage): Increase `MessageBlock` margins when placed directly bellow `MessageHeader` (#1832)",
+ "pr": "1832",
+ "components": [
+  "Message"
+ ],
+ "files": [
+  ".changeset/afraid-wombats-repeat.md",
+  "packages/fuselage/src/components/Message/Messages.stories.tsx",
+  "packages/fuselage/src/components/Message/Messages.styles.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n\"@rocket.chat/fuselage\": patch\n---\n\nchore(fuselage): Increase `MessageBlock` margins when placed directly bellow `MessageHeader`\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 145782
+}

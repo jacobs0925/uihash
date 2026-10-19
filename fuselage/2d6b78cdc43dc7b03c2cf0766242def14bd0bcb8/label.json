@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "2d6b78cdc43dc7b03c2cf0766242def14bd0bcb8",
+ "date": "2026-04-02",
+ "pr": "1685",
+ "title": "feat(fuselage): Add accessibility improvements to `Pagination` (#1685)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "feat(fuselage): Add accessibility improvements to `Pagination`"
+}

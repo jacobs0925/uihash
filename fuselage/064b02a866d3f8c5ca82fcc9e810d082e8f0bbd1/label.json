@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "064b02a866d3f8c5ca82fcc9e810d082e8f0bbd1",
+ "date": "2026-08-10",
+ "pr": "2138",
+ "title": "feat(fuselage): quieter message header metadata (#2138)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "29 visual-test baselines updated"
+}

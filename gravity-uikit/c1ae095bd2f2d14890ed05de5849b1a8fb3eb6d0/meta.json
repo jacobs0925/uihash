@@ -1,0 +1,30 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "c1ae095bd2f2d14890ed05de5849b1a8fb3eb6d0",
+ "parent": "5ed9cd16b581d366d175df80fe0c23c72297a173",
+ "date": "2026-10-06",
+ "subject": "feat(Dialog): add disableTransition prop (#2855)",
+ "pr": "2855",
+ "components": [
+  "Modal"
+ ],
+ "files": [
+  "src/components/Dialog/Dialog.tsx",
+  "src/components/Dialog/README-ru.md",
+  "src/components/Dialog/README.md",
+  "src/components/Dialog/__stories__/DialogShowcase.tsx",
+  "src/components/Modal/Modal.scss",
+  "src/components/Modal/Modal.tsx",
+  "src/components/Modal/README-ru.md",
+  "src/components/Modal/README.md",
+  "src/components/Modal/__stories__/Modal.stories.tsx",
+  "src/components/Modal/__tests__/Modal.test.tsx",
+  "src/components/Modal/__tests__/Modal.visual.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 4,
+ "ms": 37000
+}

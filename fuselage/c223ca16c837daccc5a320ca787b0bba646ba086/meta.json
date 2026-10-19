@@ -1,0 +1,21 @@
+{
+ "repo": "fuselage",
+ "sha": "c223ca16c837daccc5a320ca787b0bba646ba086",
+ "parent": "5e5088707fd0c1bdfcfd320797422069e87d36cb",
+ "date": "2026-03-31",
+ "subject": "fix(fuselage): Set default cursor style for `Label` component (#1923)",
+ "pr": "1923",
+ "components": [
+  "Label"
+ ],
+ "files": [
+  ".changeset/salty-sites-matter.md",
+  "packages/fuselage/src/components/Label/Label.styles.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@rocket.chat/fuselage': patch\n---\n\nfix(fuselage): Set default cursor style for Label component\n",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 102828
+}

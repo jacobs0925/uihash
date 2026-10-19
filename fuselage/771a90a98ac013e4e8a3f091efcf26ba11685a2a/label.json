@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "771a90a98ac013e4e8a3f091efcf26ba11685a2a",
+ "date": "2026-09-17",
+ "pr": "2212",
+ "title": "feat(fuselage): Add a `badge` prop to `IconButton` (#2212)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "1 visual-test baselines updated"
+}

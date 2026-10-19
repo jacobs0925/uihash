@@ -1,0 +1,28 @@
+{
+ "repo": "fuselage",
+ "sha": "771a90a98ac013e4e8a3f091efcf26ba11685a2a",
+ "parent": "790fef9425f814a639b29d2a6d20fc0fff366741",
+ "date": "2026-09-17",
+ "subject": "feat(fuselage): Add a `badge` prop to `IconButton` (#2212)",
+ "pr": "2212",
+ "components": [
+  "Button"
+ ],
+ "files": [
+  ".changeset/brown-buttons-shave.md",
+  "packages/fuselage/fuselage.api.md",
+  "packages/fuselage/src/components/Button/Button.styles.scss",
+  "packages/fuselage/src/components/Button/IconButton.spec.tsx",
+  "packages/fuselage/src/components/Button/IconButton.stories.tsx",
+  "packages/fuselage/src/components/Button/IconButton.tsx",
+  "packages/fuselage/test/snapshots/inputs-iconbutton--icon-button-with-dot-desktop.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/fuselage/test/snapshots/inputs-iconbutton--icon-button-with-dot-desktop.png"
+ ],
+ "changeset": "---\n'@rocket.chat/fuselage': minor\n---\n\nfeat(fuselage): `IconButton` accepts a `badge` to pin in its corner\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 6,
+ "ms": 106782
+}

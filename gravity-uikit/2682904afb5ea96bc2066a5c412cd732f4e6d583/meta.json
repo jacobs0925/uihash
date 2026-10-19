@@ -1,0 +1,38 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "2682904afb5ea96bc2066a5c412cd732f4e6d583",
+ "parent": "02894f7fa851530d498776cb22b68ea2235a50dc",
+ "date": "2026-07-06",
+ "subject": "feat(Dialog): introduce responsive size props (#2721)",
+ "pr": "2721",
+ "components": [
+  "Dialog",
+  "Modal"
+ ],
+ "files": [
+  ".storybook/decorators/withMobile.tsx",
+  "src/components/Dialog/ButtonClose/ButtonClose.scss",
+  "src/components/Dialog/ButtonClose/ButtonClose.tsx",
+  "src/components/Dialog/Dialog.scss",
+  "src/components/Dialog/Dialog.tsx",
+  "src/components/Dialog/DialogFooter/DialogFooter.scss",
+  "src/components/Dialog/DialogFooter/DialogFooter.tsx",
+  "src/components/Dialog/DialogHeader/DialogHeader.scss",
+  "src/components/Dialog/DialogHeader/DialogHeader.tsx",
+  "src/components/Dialog/DialogPrivateContext.ts",
+  "src/components/Dialog/README-ru.md",
+  "src/components/Dialog/README.md",
+  "src/components/Modal/Modal.scss",
+  "src/components/Modal/Modal.tsx",
+  "src/components/Modal/README-ru.md",
+  "src/components/Modal/README.md",
+  "src/components/mobile/MobileContext.ts",
+  "src/components/mobile/MobileProvider.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 48297
+}

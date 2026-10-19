@@ -1,0 +1,34 @@
+{
+ "repo": "vkui",
+ "sha": "a814c05fcedd6f83515df191552eef847e49342d",
+ "parent": "ddc48fc79178e3b2eb08dba2f3c4ac29af9a15ea",
+ "date": "2026-07-27",
+ "subject": "Merge pull request #10113 from VKCOM/dependabot/npm_and_yarn/biomejs/biome-2.5.5",
+ "components": [
+  "CardScroll",
+  "FormField",
+  "FormItem",
+  "Header"
+ ],
+ "files": [
+  "package.json",
+  "packages/vkui/package.json",
+  "packages/vkui/src/components/CardScroll/CardScroll.module.css",
+  "packages/vkui/src/components/FormField/FormField.module.css",
+  "packages/vkui/src/components/FormItem/FormItem.module.css",
+  "packages/vkui/src/components/Header/Header.module.css",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalScroll.module.css",
+  "packages/vkui/src/components/IconButton/IconButton.module.css",
+  "packages/vkui/src/components/MiniInfoCell/MiniInfoCell.module.css",
+  "packages/vkui/src/components/ModalPageHeader/ModalPageHeader.module.css",
+  "packages/vkui/src/components/Removable/Removable.module.css",
+  "packages/vkui/src/components/Tabs/Tabs.module.css",
+  "yarn.lock"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 39,
+ "findings": 0,
+ "ms": 121357
+}

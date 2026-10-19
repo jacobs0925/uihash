@@ -1,0 +1,25 @@
+{
+ "repo": "fuselage",
+ "sha": "2d6b78cdc43dc7b03c2cf0766242def14bd0bcb8",
+ "parent": "479a0ec86d2d43c502b9e0b18475e3b27e1d1694",
+ "date": "2026-04-02",
+ "subject": "feat(fuselage): Add accessibility improvements to `Pagination` (#1685)",
+ "pr": "1685",
+ "components": [
+  "Pagination"
+ ],
+ "files": [
+  ".changeset/legal-parrots-dig.md",
+  "packages/fuselage/src/components/Pagination/Pagination.spec.tsx",
+  "packages/fuselage/src/components/Pagination/Pagination.stories.tsx",
+  "packages/fuselage/src/components/Pagination/Pagination.styles.scss",
+  "packages/fuselage/src/components/Pagination/Pagination.tsx",
+  "packages/fuselage/src/components/Pagination/__snapshots__/Pagination.spec.tsx.snap"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@rocket.chat/fuselage': minor\n---\n\nfeat(fuselage): Add accessibility improvements to `Pagination`\n",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 8,
+ "ms": 38544
+}

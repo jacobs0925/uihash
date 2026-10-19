@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "c4f78b07dc72ab821fb72ff46292f22d1b95d210",
+ "date": "2026-09-15",
+ "pr": "2207",
+ "title": "fix(fuselage): update hover bg color for sidebar collapse group (#2207)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "fix(fuselage): update hover background color for sidebar collapse group"
+}

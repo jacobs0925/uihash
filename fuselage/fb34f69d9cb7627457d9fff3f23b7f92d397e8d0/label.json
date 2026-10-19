@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "fb34f69d9cb7627457d9fff3f23b7f92d397e8d0",
+ "date": "2025-11-26",
+ "pr": "1787",
+ "title": "chore(fuselage): Update FramedIcon styles (#1787)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Updates `FramedIcon` component styles to improve contrast and design system compliance"
+}

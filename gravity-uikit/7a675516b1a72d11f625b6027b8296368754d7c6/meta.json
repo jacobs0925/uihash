@@ -1,0 +1,24 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "7a675516b1a72d11f625b6027b8296368754d7c6",
+ "parent": "a2ab4ad0c996bed0786d3b068c78fa990df5db43",
+ "date": "2026-08-28",
+ "subject": "fix(Modal): use responsive viewport units (#2798)",
+ "pr": "2798",
+ "components": [
+  "Dialog",
+  "Modal"
+ ],
+ "files": [
+  "src/components/Dialog/Dialog.scss",
+  "src/components/Modal/Modal.scss",
+  "src/components/Modal/README-ru.md",
+  "src/components/Modal/README.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 47568
+}

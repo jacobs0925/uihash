@@ -1,0 +1,12 @@
+{
+ "app": "gravity-uikit",
+ "group": "gravity-uikit",
+ "sha": "d48efdce997cd5d7a95798d40d4a63ede2af6200",
+ "date": "2026-01-28",
+ "pr": "2549",
+ "title": "feat(Label): add new value for prop size (#2549)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "16 visual-test baselines updated"
+}

@@ -1,0 +1,26 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "389093e2def42bb789e2926e2d1a60d255f99ee4",
+ "parent": "fe708a38eab9c8d54cd6fe8ca67d0c1cf727f3e5",
+ "date": "2026-04-06",
+ "subject": "feat(Drawer): allow DrawerItem to be scrollable (#2640)",
+ "pr": "2640",
+ "components": [
+  "Drawer"
+ ],
+ "files": [
+  "src/components/Drawer/README-ru.md",
+  "src/components/Drawer/README.md",
+  "src/components/Drawer/__stories__/ContentOverflow.tsx",
+  "src/components/Drawer/__stories__/Drawer.stories.tsx",
+  "src/components/Drawer/components/Drawer.scss",
+  "src/components/Drawer/components/Drawer.tsx",
+  "src/components/Drawer/components/DrawerItem.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 10,
+ "ms": 58752
+}

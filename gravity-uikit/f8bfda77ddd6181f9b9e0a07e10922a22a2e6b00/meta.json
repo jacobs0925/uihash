@@ -1,0 +1,20 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "f8bfda77ddd6181f9b9e0a07e10922a22a2e6b00",
+ "parent": "5ca12c7a07b674f5dd5f9e47f810e639790b7886",
+ "date": "2026-01-15",
+ "subject": "feat(Checkbox): add hover to checked state (#2548)",
+ "pr": "2548",
+ "components": [
+  "Checkbox"
+ ],
+ "files": [
+  "src/components/Checkbox/Checkbox.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 56716
+}

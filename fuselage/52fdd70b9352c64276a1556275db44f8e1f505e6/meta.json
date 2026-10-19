@@ -1,0 +1,22 @@
+{
+ "repo": "fuselage",
+ "sha": "52fdd70b9352c64276a1556275db44f8e1f505e6",
+ "parent": "c8265ffca448fe0868c499b4929e246d74e8d185",
+ "date": "2026-06-23",
+ "subject": "fix(fuselage): `InputBox` spacing in leading and trailing addons (#2024)",
+ "pr": "2024",
+ "components": [
+  "InputBox"
+ ],
+ "files": [
+  ".changeset/red-cows-change.md",
+  "packages/fuselage/fuselage.api.md",
+  "packages/fuselage/src/components/InputBox/InputBox.styles.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@rocket.chat/fuselage': patch\n---\n\nfix(fuselage): `InputBox` spacing in leading and trailing addons\n",
+ "recipe": 1,
+ "stories": 30,
+ "findings": 5,
+ "ms": 63690
+}

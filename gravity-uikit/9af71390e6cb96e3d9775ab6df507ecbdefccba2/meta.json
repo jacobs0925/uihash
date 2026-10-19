@@ -1,0 +1,29 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "9af71390e6cb96e3d9775ab6df507ecbdefccba2",
+ "parent": "8c2c9e44d6bd51c8e6be6d8ef553546ba164e205",
+ "date": "2026-09-23",
+ "subject": "feat(HelpMark): use Sheet on mobile (#2850)",
+ "pr": "2850",
+ "components": [
+  "HelpMark"
+ ],
+ "files": [
+  "src/components/HelpMark/HelpMark.scss",
+  "src/components/HelpMark/HelpMark.tsx",
+  "src/components/HelpMark/README.md",
+  "src/components/HelpMark/__snapshots__/HelpMark.visual.test.tsx-snapshots/HelpMark-renders-sheet-instead-of-popover-on-mobile-1-chromium-linux.png",
+  "src/components/HelpMark/__snapshots__/HelpMark.visual.test.tsx-snapshots/HelpMark-renders-sheet-instead-of-popover-on-mobile-2-chromium-linux.png",
+  "src/components/HelpMark/__tests__/HelpMark.test.tsx",
+  "src/components/HelpMark/__tests__/HelpMark.visual.test.tsx"
+ ],
+ "snapshotsUpdated": [
+  "src/components/HelpMark/__snapshots__/HelpMark.visual.test.tsx-snapshots/HelpMark-renders-sheet-instead-of-popover-on-mobile-1-chromium-linux.png",
+  "src/components/HelpMark/__snapshots__/HelpMark.visual.test.tsx-snapshots/HelpMark-renders-sheet-instead-of-popover-on-mobile-2-chromium-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50454
+}

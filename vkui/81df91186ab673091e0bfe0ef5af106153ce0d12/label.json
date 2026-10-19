@@ -1,0 +1,12 @@
+{
+ "app": "vkui",
+ "group": "vkui",
+ "sha": "81df91186ab673091e0bfe0ef5af106153ce0d12",
+ "date": "2026-09-02",
+ "pr": "10219",
+ "title": "feat(Group): add noBlockStartRounding and noBlockEndRounding (#10219)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "10 visual-test baselines updated"
+}

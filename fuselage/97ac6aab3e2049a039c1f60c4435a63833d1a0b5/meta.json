@@ -1,0 +1,36 @@
+{
+ "repo": "fuselage",
+ "sha": "97ac6aab3e2049a039c1f60c4435a63833d1a0b5",
+ "parent": "8a0a812b947feb16ccf9909e9d31a7aef5468bc4",
+ "date": "2026-07-15",
+ "subject": "fix(fuselage): Adjust sizings for unicode emojis (#2086)",
+ "pr": "2086",
+ "components": [
+  "Message"
+ ],
+ "files": [
+  ".changeset/thirty-otters-swim.md",
+  "packages/fuselage/src/components/Message/MessageReactions/MessageReactions.stories.tsx",
+  "packages/fuselage/src/components/Message/MessageReactions/MessageReactions.styles.scss",
+  "packages/fuselage/src/components/Message/MessageReactions/__snapshots__/MessageReactions.spec.tsx.snap",
+  "packages/fuselage/src/components/Message/Messages.stories.tsx",
+  "packages/fuselage/src/components/Message/Messages.styles.scss",
+  "packages/fuselage/src/components/Message/ThreadMessage/ThreadMessage.stories.tsx",
+  "packages/fuselage/src/components/Message/ThreadMessage/ThreadMessage.styles.scss",
+  "packages/fuselage/test/snapshots/message-message--message-with-thread-desktop.png",
+  "packages/fuselage/test/snapshots/message-message--with-sequential-desktop.png",
+  "packages/fuselage/test/snapshots/message-messagereactions--default-desktop.png",
+  "packages/fuselage/test/snapshots/message-threadmessage--with-emoji-desktop.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/fuselage/test/snapshots/message-message--message-with-thread-desktop.png",
+  "packages/fuselage/test/snapshots/message-message--with-sequential-desktop.png",
+  "packages/fuselage/test/snapshots/message-messagereactions--default-desktop.png",
+  "packages/fuselage/test/snapshots/message-threadmessage--with-emoji-desktop.png"
+ ],
+ "changeset": "---\n\"@rocket.chat/fuselage\": patch\n---\n\nFixes misaligned unicode emojis by adding font-size and line-height\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 7,
+ "ms": 163238
+}

@@ -1,0 +1,38 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "c78785ad97de70cedf20a0664d12efe241dd15ae",
+ "parent": "f08b9c23be9c9e1294d6a5905aabb7a7d42e3a47",
+ "date": "2026-10-02",
+ "subject": "refactor(Modal, Dialog)!: remove automatic height animations (#2860)",
+ "pr": "2860",
+ "components": [
+  "Dialog",
+  "Modal"
+ ],
+ "files": [
+  "src/components/Dialog/Dialog.tsx",
+  "src/components/Dialog/DialogBody/DialogBody.scss",
+  "src/components/Dialog/DialogBody/DialogBody.tsx",
+  "src/components/Dialog/DialogPrivateContext.ts",
+  "src/components/Dialog/README-ru.md",
+  "src/components/Dialog/README.md",
+  "src/components/Dialog/__stories__/Dialog.stories.tsx",
+  "src/components/Dialog/__stories__/DynamicHeightStory.tsx",
+  "src/components/Drawer/components/Drawer.tsx",
+  "src/components/Modal/Modal.scss",
+  "src/components/Modal/Modal.tsx",
+  "src/components/Modal/README-ru.md",
+  "src/components/Modal/README.md",
+  "src/components/Modal/__tests__/Modal.visual.test.tsx",
+  "src/hooks/private/index.ts",
+  "src/hooks/private/useAnimateHeight/README.md",
+  "src/hooks/private/useAnimateHeight/index.ts",
+  "src/hooks/private/useAnimateHeight/useAnimateHeight.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 38533
+}

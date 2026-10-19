@@ -1,0 +1,33 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "0469f0e016d4f5a9480f7acc0d302372510eb72f",
+ "parent": "c07382c7c018b9c8e8a599d4ec7ccdb9d405d48c",
+ "date": "2026-09-14",
+ "subject": "feat(List): prepare the core for the Select migration (#2825)",
+ "pr": "2825",
+ "components": [
+  "lab"
+ ],
+ "files": [
+  "src/components/lab/List/List.scss",
+  "src/components/lab/List/List.tsx",
+  "src/components/lab/List/README.md",
+  "src/components/lab/List/SectionHeader.scss",
+  "src/components/lab/List/SectionHeader.tsx",
+  "src/components/lab/List/__tests__/List.test.tsx",
+  "src/components/lab/List/__tests__/ListDnd.test.tsx",
+  "src/components/lab/List/__tests__/ListRangeSelection.test.tsx",
+  "src/components/lab/List/__tests__/ListRoleFocus.test.tsx",
+  "src/components/lab/List/__tests__/ListVirtualization.test.tsx",
+  "src/components/lab/List/__tests__/helpers.tsx",
+  "src/components/lab/List/useList.ts",
+  "src/components/lab/List/utils.ts",
+  "src/components/lab/ListItemView/ListItemView.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 13,
+ "ms": 132806
+}

@@ -1,0 +1,53 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "48b4762503debd5fc01d7739ffcfc02054068705",
+ "parent": "ddf45749d255171aa9e89e29d21759b1ffa5e17c",
+ "date": "2026-08-24",
+ "subject": "fix(ActionTooltip): same height with and without hotkey (#2410)",
+ "pr": "2410",
+ "components": [
+  "ActionTooltip"
+ ],
+ "files": [
+  "src/components/ActionTooltip/ActionTooltip.scss",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-default-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-auto-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-auto-end-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-auto-start-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-bottom-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-bottom-end-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-bottom-start-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-left-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-left-end-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-left-start-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-right-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-right-end-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-right-start-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-top-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-top-end-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-top-start-1-chromium-linux.png"
+ ],
+ "snapshotsUpdated": [
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-default-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-auto-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-auto-end-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-auto-start-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-bottom-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-bottom-end-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-bottom-start-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-left-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-left-end-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-left-start-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-right-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-right-end-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-right-start-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-top-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-top-end-1-chromium-linux.png",
+  "src/components/ActionTooltip/__snapshots__/ActionTooltip.visual.test.tsx-snapshots/ActionTooltip-smoke-placement-top-start-1-chromium-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 43138
+}

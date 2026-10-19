@@ -1,0 +1,45 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "98da73e30020dbe62aa2e1341a6acd2b37714a51",
+ "parent": "377188a04dd67fa5735b03ed1984b7d10fdf7034",
+ "date": "2026-01-29",
+ "subject": "fix(Button): avoid icon shrink (#2563)",
+ "pr": "2563",
+ "components": [
+  "Button"
+ ],
+ "files": [
+  "src/components/Button/Button.scss",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-CustomIcons-dark-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-CustomIcons-light-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-CustomSeparator-dark-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-CustomSeparator-light-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-Default-dark-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-Default-light-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-InteractiveShowcase-dark-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-InteractiveShowcase-light-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-View-dark-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-View-light-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-WithFloatingElements-dark-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-WithFloatingElements-light-chromium-linux.png"
+ ],
+ "snapshotsUpdated": [
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-CustomIcons-dark-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-CustomIcons-light-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-CustomSeparator-dark-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-CustomSeparator-light-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-Default-dark-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-Default-light-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-InteractiveShowcase-dark-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-InteractiveShowcase-light-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-View-dark-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-View-light-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-WithFloatingElements-dark-chromium-linux.png",
+  "src/components/Stepper/__snapshots__/Stepper.visual.test.tsx-snapshots/Stepper-render-story-WithFloatingElements-light-chromium-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 3,
+ "ms": 67046
+}

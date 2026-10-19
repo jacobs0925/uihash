@@ -1,0 +1,20 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "1d5fe54300008dedf688a51a27e7a0eb7a4cf3df",
+ "parent": "fb3ee86c5bb86d54761456493e008d2289f4d783",
+ "date": "2026-03-30",
+ "subject": "fix(Button): fix flat-secondary hover text color (#2632)",
+ "pr": "2632",
+ "components": [
+  "Button"
+ ],
+ "files": [
+  "src/components/Button/Button.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 8,
+ "ms": 74338
+}

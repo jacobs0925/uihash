@@ -1,0 +1,12 @@
+{
+ "app": "gravity-uikit",
+ "group": "gravity-uikit",
+ "sha": "a660ec30883b410e1bdb476829e614e806aa83d2",
+ "date": "2026-10-01",
+ "pr": "2291",
+ "title": "feat(Checkbox,Radio): update indicator size, update label height (#2291)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "19 visual-test baselines updated"
+}

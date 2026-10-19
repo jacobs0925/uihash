@@ -1,0 +1,35 @@
+{
+ "repo": "fuselage",
+ "sha": "c5950940a685f4a1ea223ecd0a3a1bfc7dcf029f",
+ "parent": "04f3689c3c9d308cf05af5cc902a47015e77d46d",
+ "date": "2026-09-10",
+ "subject": "chore(fuselage): Overhaul the build and move it to Vite (#2191)",
+ "pr": "2191",
+ "components": [
+  "Message"
+ ],
+ "files": [
+  ".changeset/fuselage-direction-aware-css.md",
+  ".changeset/fuselage-split-stylesheets.md",
+  ".changeset/fuselage-vite-build.md",
+  "packages/fuselage-tokens/.stylelintignore",
+  "packages/fuselage-tokens/.stylelintrc",
+  "packages/fuselage-tokens/package.json",
+  "packages/fuselage/.babelrc.js",
+  "packages/fuselage/package.json",
+  "packages/fuselage/src/components/Message/MessageGenericPreview/MessageGenericPreview.tsx",
+  "packages/fuselage/src/components/Message/MessageStatusIndicator/MessageStatusIndicator.tsx",
+  "packages/fuselage/src/components/Message/MessageSystem/MessageSystem.tsx",
+  "packages/fuselage/src/components/Message/MessageToolbar/MessageToolbar.styles.scss",
+  "packages/fuselage/tsconfig.json",
+  "packages/fuselage/vite.config.mts",
+  "packages/fuselage/webpack.config.js",
+  "yarn.lock"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@rocket.chat/fuselage': patch\n---\n\nfix(fuselage): Let direction-aware CSS reach the browser\n\n`postcss-logical` was compiling every logical property in the sources down to hardcoded left-to-right physical ones, and `postcss-dir-pseudo-class` was replacing `:dir(rtl)` with the weaker `[dir=\"rtl\"]` ancestor selector, which only matches under an explicit `dir` attribute. Both now ship as authored, so `margin-inline-start`, `inset-inline-end` and the rest flip in right-to-left documents instead of staying pinned to the left, and `:dir()` matches an element's own directionality — including `dir=\"auto\"` resolved from its content. Left-to-right rendering is unchanged.\n\n---\n'@rocket.chat/fuselage': patch\n---\n\nfix(fuselage): Publish separate development and production stylesheets\n\nBoth webpack modes emitted `dist/fuselage.css`, so the production stylesheet overwrote the development one — but with source maps off in production, nothing overwrote `dist/fuselage.css.map`, leaving a map that described a file no longer there. `dist/fuselage.css` is unchanged and remains the minified stylesheet to import; the development build now emits `dist/fuselage.development.css` alongside a source map that matches it.\n\n---\n'@rocket.chat/fuselage': patch\n---\n\nfix(fuselage): Build the package with Vite instead of webpack\n\nThe bundler changed and the published bundles changed with it.\n`dist/fuselage.production.js` drops from 216KB to 126KB (44KB to 32KB\ngzipped) and `dist/fuselage.development.js` from 613KB to 271KB, because\nRollup scope-hoists the modules rather than wrapping each one in webpack's\nruntime. The exported API is identical: the same 282 names with the same\ntypes, and components render the same markup.\n\n`dist/fuselage.css` is unchanged apart from the font reference, now\n`url(./fonts/InterVariable.woff2)` instead of `url(fonts/InterVariable.woff2)`\n— both resolve relative to the stylesheet.\n\nOne artifact is lost: `dist/fuselage.development.css.map` is no longer\npublished. Vite emits no source map for extracted CSS in a build, so the\ndevelopment stylesheet no longer has one.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 96363
+}

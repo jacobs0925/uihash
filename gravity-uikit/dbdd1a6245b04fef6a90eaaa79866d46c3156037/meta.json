@@ -1,0 +1,26 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "dbdd1a6245b04fef6a90eaaa79866d46c3156037",
+ "parent": "c546e6eb16e23987a390f550e297b150fe98fbcc",
+ "date": "2026-06-04",
+ "subject": "feat: allow users to show Drawer without animations (#2691)",
+ "pr": "2691",
+ "components": [
+  "Drawer"
+ ],
+ "files": [
+  "src/components/Drawer/README-ru.md",
+  "src/components/Drawer/README.md",
+  "src/components/Drawer/__stories__/DisableTransition.scss",
+  "src/components/Drawer/__stories__/DisableTransition.tsx",
+  "src/components/Drawer/__stories__/Drawer.stories.tsx",
+  "src/components/Drawer/components/Drawer.scss",
+  "src/components/Drawer/components/Drawer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 5,
+ "ms": 52783
+}

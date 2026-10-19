@@ -1,0 +1,26 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "59bc12f45d80814ac379660b208b2cd72905d72d",
+ "parent": "35ebf9193f47bd00c4961e9ad2be9fef196de325",
+ "date": "2025-12-24",
+ "subject": "fix(Dialog): remove unnecessary overflow on body (#2540)",
+ "pr": "2540",
+ "components": [
+  "Dialog"
+ ],
+ "files": [
+  "src/components/Dialog/ButtonClose/ButtonClose.scss",
+  "src/components/Dialog/Dialog.scss",
+  "src/components/Dialog/DialogBody/DialogBody.scss",
+  "src/components/Dialog/DialogDivider/DialogDivider.scss",
+  "src/components/Dialog/DialogFooter/DialogFooter.scss",
+  "src/components/Dialog/DialogHeader/DialogHeader.scss",
+  "src/components/Dialog/variables.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 44798
+}

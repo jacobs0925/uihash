@@ -1,0 +1,31 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "4d559cf3ab3a451ce7db374b74fde49b16bf01ee",
+ "parent": "c612c35d6611e9168412dea2845389b646c5ac54",
+ "date": "2026-01-27",
+ "subject": "feat: add hideVeil prop to Drawer component (#2556)",
+ "pr": "2556",
+ "components": [
+  "Drawer"
+ ],
+ "files": [
+  "CODEOWNERS",
+  "src/components/Drawer/README-ru.md",
+  "src/components/Drawer/README.md",
+  "src/components/Drawer/__stories__/Drawer.stories.tsx",
+  "src/components/Drawer/__stories__/HideVeil.scss",
+  "src/components/Drawer/__stories__/HideVeil.tsx",
+  "src/components/Drawer/__stories__/Resizable.scss",
+  "src/components/Drawer/__stories__/Resizable.tsx",
+  "src/components/Drawer/__tests__/components.tsx",
+  "src/components/Drawer/components/Drawer.scss",
+  "src/components/Drawer/components/Drawer.tsx",
+  "src/components/Drawer/components/DrawerItem.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 8,
+ "ms": 54780
+}

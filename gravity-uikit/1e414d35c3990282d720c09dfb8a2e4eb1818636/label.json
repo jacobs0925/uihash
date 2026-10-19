@@ -1,0 +1,12 @@
+{
+ "app": "gravity-uikit",
+ "group": "gravity-uikit",
+ "sha": "1e414d35c3990282d720c09dfb8a2e4eb1818636",
+ "date": "2026-07-07",
+ "pr": "2730",
+ "title": "fix(Alert): fix alert align styles (#2730)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "margin-left: 0px → auto undone by afa71334 \"fix(Alert): fix actions block positioning in horizontal mode (#2733)\"; margin-left: 0px → auto undone by afa71334 \"fix(Alert): fix actions block positioning in horizontal mode (#2733)\"; margin-left: 0px → auto undone by afa71334 \"fix(Alert): fix actions block positioning in horizontal mode (#2733)\""
+}

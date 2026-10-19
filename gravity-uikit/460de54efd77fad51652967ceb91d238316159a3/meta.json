@@ -1,0 +1,23 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "460de54efd77fad51652967ceb91d238316159a3",
+ "parent": "33becd64928ab42deb16cdcf3f4f8b60b2f1ed6f",
+ "date": "2026-06-01",
+ "subject": "feat(Spin): add color CSS variable (#2688)",
+ "pr": "2688",
+ "components": [
+  "Spin"
+ ],
+ "files": [
+  "src/components/Spin/README-ru.md",
+  "src/components/Spin/README.md",
+  "src/components/Spin/Spin.scss",
+  "src/components/Spin/__stories__/Spin.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 44462
+}

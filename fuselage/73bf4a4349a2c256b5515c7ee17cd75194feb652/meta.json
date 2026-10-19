@@ -1,0 +1,27 @@
+{
+ "repo": "fuselage",
+ "sha": "73bf4a4349a2c256b5515c7ee17cd75194feb652",
+ "parent": "29574473f3cd9bf7246bcd246a8a78de5035b31e",
+ "date": "2026-08-18",
+ "subject": "feat(fuselage): Render message mentions as plain text instead of pills (#2155)",
+ "pr": "2155",
+ "components": [
+  "Message"
+ ],
+ "files": [
+  ".changeset/mention-layout-unification.md",
+  "packages/fuselage/src/components/Message/Messages.stories.tsx",
+  "packages/fuselage/src/components/Message/Messages.styles.scss",
+  "packages/fuselage/test/snapshots/message-message--default-desktop.png",
+  "packages/fuselage/test/snapshots/message-message--with-mentions-desktop.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/fuselage/test/snapshots/message-message--default-desktop.png",
+  "packages/fuselage/test/snapshots/message-message--with-mentions-desktop.png"
+ ],
+ "changeset": "---\n'@rocket.chat/fuselage': minor\n---\n\nfeat(fuselage): Render message mentions as plain text instead of pills\n",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 17,
+ "ms": 112917
+}

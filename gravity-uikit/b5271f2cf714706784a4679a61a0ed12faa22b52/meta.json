@@ -1,0 +1,23 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "b5271f2cf714706784a4679a61a0ed12faa22b52",
+ "parent": "cfa96d8ee5fc07ac1a175874ee73748ec8a84bbb",
+ "date": "2026-03-13",
+ "subject": "feat(ColorPicker): add optional prop disabled state (#2602)",
+ "pr": "2602",
+ "components": [
+  "lab"
+ ],
+ "files": [
+  "src/components/lab/ColorPicker/ColorPicker.scss",
+  "src/components/lab/ColorPicker/ColorPicker.tsx",
+  "src/components/lab/ColorPicker/components/ColorDisplay/ColorDisplay.tsx",
+  "src/components/lab/ColorPicker/utils.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 57,
+ "findings": 0,
+ "ms": 73666
+}

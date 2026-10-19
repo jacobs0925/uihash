@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "a5028b6471def411b60dc91c08290d1c3ad72d1a",
+ "date": "2026-01-28",
+ "pr": "1850",
+ "title": "fix(fuselage): username truncate in system msg with long topics (#1850)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "fix(fuselage): prevent username truncation in system messages with long topics"
+}

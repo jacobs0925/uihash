@@ -1,0 +1,29 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "a8d29f9fbd2ab2e31aad62730c0189766dfd36bf",
+ "parent": "5a363f87cfbf694e00cd7a77f9b74ee5031c61ed",
+ "date": "2026-10-02",
+ "subject": "refactor(styles)!: update reset button mixin (#2862)",
+ "pr": "2862",
+ "components": [
+  "AvatarStack",
+  "Button",
+  "HelpMark",
+  "Select"
+ ],
+ "files": [
+  "src/components/AvatarStack/AvatarStack.scss",
+  "src/components/Button/Button.scss",
+  "src/components/HelpMark/HelpMark.scss",
+  "src/components/Select/components/SelectClear/SelectClear.scss",
+  "src/components/Select/components/SelectControl/SelectControl.scss",
+  "src/components/tabs/Tab.scss",
+  "styles/mixins.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 101,
+ "ms": 129878
+}

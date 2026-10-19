@@ -1,0 +1,12 @@
+{
+ "app": "gravity-uikit",
+ "group": "gravity-uikit",
+ "sha": "576ace6306a6bff5d0f4111d9bab0e04cf094573",
+ "date": "2026-08-26",
+ "pr": "2795",
+ "title": "fix(SegmentedRadioGroup): revert \"changed option-text display type\" (#2795)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "2 visual-test baselines updated"
+}

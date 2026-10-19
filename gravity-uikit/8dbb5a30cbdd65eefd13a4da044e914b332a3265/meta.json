@@ -1,0 +1,27 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "8dbb5a30cbdd65eefd13a4da044e914b332a3265",
+ "parent": "4f4ddce1a66f960f77596dd58bcfe79805405c98",
+ "date": "2026-03-30",
+ "subject": "feat(Accordion): add CSS token for summary inline padding (#2539)",
+ "pr": "2539",
+ "components": [
+  "Accordion"
+ ],
+ "files": [
+  "src/components/Accordion/AccordionItem/AccordionItem.scss",
+  "src/components/Accordion/AccordionSummary/AccordionSummary.scss",
+  "src/components/Accordion/README-ru.md",
+  "src/components/Accordion/README.md",
+  "src/components/Accordion/__snapshots__/Accordion.visual.test.tsx-snapshots/Accordion-custom---g-accordion-padding-inline-expanded-1-chromium-linux.png",
+  "src/components/Accordion/__tests__/Accordion.visual.test.tsx"
+ ],
+ "snapshotsUpdated": [
+  "src/components/Accordion/__snapshots__/Accordion.visual.test.tsx-snapshots/Accordion-custom---g-accordion-padding-inline-expanded-1-chromium-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 38256
+}

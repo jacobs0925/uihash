@@ -1,0 +1,21 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "2f2fcf9199ebff94e90efc38be7907a4914e80c1",
+ "parent": "65e2728a609470040d9e768ecd7526e1064feacc",
+ "date": "2026-06-23",
+ "subject": "fix(TextInput): replace legacy `Popover` with new one (#2710)",
+ "pr": "2710",
+ "components": [
+  "controls"
+ ],
+ "files": [
+  "src/components/controls/TextInput/TextInput.scss",
+  "src/components/controls/TextInput/TextInput.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 27,
+ "findings": 2,
+ "ms": 61651
+}

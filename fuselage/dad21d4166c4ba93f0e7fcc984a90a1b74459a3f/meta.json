@@ -1,0 +1,28 @@
+{
+ "repo": "fuselage",
+ "sha": "dad21d4166c4ba93f0e7fcc984a90a1b74459a3f",
+ "parent": "bb08f3560c41666c7b3e65cb9d3806aea7b709ca",
+ "date": "2026-07-28",
+ "subject": "feat(fuselage): Add menu support to `SidebarCollapseGroup` (#2044)",
+ "pr": "2044",
+ "components": [
+  "SidebarV2"
+ ],
+ "files": [
+  ".changeset/good-aliens-laugh.md",
+  "packages/fuselage/fuselage.api.md",
+  "packages/fuselage/src/components/SidebarV2/Sidebar.stories.tsx",
+  "packages/fuselage/src/components/SidebarV2/Sidebar.styles.scss",
+  "packages/fuselage/src/components/SidebarV2/SidebarCollapseGroup.tsx",
+  "packages/fuselage/src/components/SidebarV2/SidebarCollapseGroupMenu.tsx",
+  "packages/fuselage/src/components/SidebarV2/SidebarGroupTitle.tsx",
+  "packages/fuselage/src/components/SidebarV2/helpers.tsx",
+  "packages/fuselage/src/components/SidebarV2/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@rocket.chat/fuselage': minor\n---\n\nfeat(fuselage): Add menu support to SidebarCollapseGroup\n",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 8,
+ "ms": 155378
+}

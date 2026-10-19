@@ -1,0 +1,30 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "dadb9ada8fa0827298f6ee79037cdb2273980ea8",
+ "parent": "0a21f5e9bea6133e8e7f80514b9ad93432073b68",
+ "date": "2026-02-18",
+ "subject": "feat: add `useCollapseChildren` hook (#2443)",
+ "pr": "2443",
+ "components": [
+  "Breadcrumbs"
+ ],
+ "files": [
+  "src/components/Breadcrumbs/Breadcrumbs.scss",
+  "src/components/Breadcrumbs/Breadcrumbs.tsx",
+  "src/components/Breadcrumbs/__stories__/Breadcrumbs.stories.tsx",
+  "src/components/Breadcrumbs/__tests__/Breadcrumbs.test.tsx",
+  "src/demo/ShowcaseItem/ShowcaseItem.tsx",
+  "src/hooks/index.ts",
+  "src/hooks/useCollapseChildren/README.md",
+  "src/hooks/useCollapseChildren/__stories__/UseCollapseChildren.stories.scss",
+  "src/hooks/useCollapseChildren/__stories__/UseCollapseChildren.stories.tsx",
+  "src/hooks/useCollapseChildren/index.ts",
+  "src/hooks/useCollapseChildren/useCollapseChildren.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 30,
+ "findings": 3,
+ "ms": 63493
+}

@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "b95ead68a027abaabe2783eb2d53e5244410c331",
+ "date": "2026-09-09",
+ "pr": "2193",
+ "title": "feat(fuselage): Restyle sidebar rows and collapse group headers (#2193)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "8 visual-test baselines updated"
+}

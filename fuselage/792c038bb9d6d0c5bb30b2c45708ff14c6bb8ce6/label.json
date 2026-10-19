@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "792c038bb9d6d0c5bb30b2c45708ff14c6bb8ce6",
+ "date": "2026-05-08",
+ "pr": "1961",
+ "title": "fix(fuselage): issues not caught by visual regression testing after Sass rewrite (#1961)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "fix(fuselage): issues not caught by visual regression testing after Sass rewrite"
+}

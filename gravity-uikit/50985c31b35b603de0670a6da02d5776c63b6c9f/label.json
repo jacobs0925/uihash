@@ -1,0 +1,12 @@
+{
+ "app": "gravity-uikit",
+ "group": "gravity-uikit",
+ "sha": "50985c31b35b603de0670a6da02d5776c63b6c9f",
+ "date": "2026-06-10",
+ "pr": "2614",
+ "title": "feat(FileDropZone): improve file rejection handling and drag feedback (#2614)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "4 visual-test baselines updated"
+}

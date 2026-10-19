@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "0d8e038801972ec29ad2fb1d26da088af05b7b23",
+ "date": "2026-08-11",
+ "pr": "2148",
+ "title": "feat(fuselage-tokens)!: Rework the token build and its output formats (#2148)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "feat(fuselage-tokens)!: Rework the token build and its output formats"
+}

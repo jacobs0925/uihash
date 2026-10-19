@@ -1,0 +1,27 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "2966952328836672ab5131d480908de80d232919",
+ "parent": "c0f56e73f89458cd5c46c9a9dac46f0910a4cece",
+ "date": "2026-09-01",
+ "subject": "fix(Modal): fix mobile styles (#2800)",
+ "pr": "2800",
+ "components": [
+  "Dialog",
+  "Modal"
+ ],
+ "files": [
+  "src/components/Dialog/Dialog.scss",
+  "src/components/Dialog/Dialog.tsx",
+  "src/components/Dialog/__snapshots__/Dialog.visual.test.tsx-snapshots/Dialog-fills-the-mobile-viewport-regardless-of-desktop-width-constraints-1-chromium-linux.png",
+  "src/components/Dialog/__tests__/Dialog.visual.test.tsx",
+  "src/components/Modal/Modal.scss"
+ ],
+ "snapshotsUpdated": [
+  "src/components/Dialog/__snapshots__/Dialog.visual.test.tsx-snapshots/Dialog-fills-the-mobile-viewport-regardless-of-desktop-width-constraints-1-chromium-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 46689
+}

@@ -1,0 +1,12 @@
+{
+ "app": "gravity-uikit",
+ "group": "gravity-uikit",
+ "sha": "cfa96d8ee5fc07ac1a175874ee73748ec8a84bbb",
+ "date": "2026-03-11",
+ "pr": "2608",
+ "title": "feat(AvatarStack): add moreVariant prop and fix 2xs and 3xs size (#2608)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "1 visual-test baselines updated"
+}

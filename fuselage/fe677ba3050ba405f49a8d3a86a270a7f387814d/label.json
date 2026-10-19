@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "fe677ba3050ba405f49a8d3a86a270a7f387814d",
+ "date": "2026-09-28",
+ "pr": "2232",
+ "title": "revert(fuselage): Restore the sidebar rows and collapse group headers (#2232)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "8 visual-test baselines updated"
+}

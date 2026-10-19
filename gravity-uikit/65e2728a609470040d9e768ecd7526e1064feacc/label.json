@@ -1,0 +1,12 @@
+{
+ "app": "gravity-uikit",
+ "group": "gravity-uikit",
+ "sha": "65e2728a609470040d9e768ecd7526e1064feacc",
+ "date": "2026-06-19",
+ "pr": "2146",
+ "title": "feat(Alert): add size props; add css-api; refactor component (#2146)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "22 visual-test baselines updated"
+}

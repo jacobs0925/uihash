@@ -1,0 +1,34 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "cfa96d8ee5fc07ac1a175874ee73748ec8a84bbb",
+ "parent": "01f78bb2cadd29cf7082da3142f205603ae5a97a",
+ "date": "2026-03-11",
+ "subject": "feat(AvatarStack): add moreVariant prop and fix 2xs and 3xs size (#2608)",
+ "pr": "2608",
+ "components": [
+  "AvatarStack"
+ ],
+ "files": [
+  "src/components/AvatarStack/AvatarStack.scss",
+  "src/components/AvatarStack/AvatarStack.tsx",
+  "src/components/AvatarStack/AvatarStackMore.tsx",
+  "src/components/AvatarStack/AvatarStackMoreButton.tsx",
+  "src/components/AvatarStack/README-ru.md",
+  "src/components/AvatarStack/README.md",
+  "src/components/AvatarStack/__snapshots__/AvatarStack.visual.test.tsx-snapshots/AvatarStack-smoke-1-chromium-linux.png",
+  "src/components/AvatarStack/__stories__/AvatarStack.stories.tsx",
+  "src/components/AvatarStack/__tests__/AvatarStack.visual.test.tsx",
+  "src/components/AvatarStack/__tests__/cases.ts",
+  "src/components/AvatarStack/__tests__/helpersPlaywright.tsx",
+  "src/components/AvatarStack/constants.ts",
+  "src/components/AvatarStack/types.ts"
+ ],
+ "snapshotsUpdated": [
+  "src/components/AvatarStack/__snapshots__/AvatarStack.visual.test.tsx-snapshots/AvatarStack-smoke-1-chromium-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 63277
+}

@@ -1,0 +1,12 @@
+{
+ "app": "gravity-uikit",
+ "group": "gravity-uikit",
+ "sha": "a6bb0f429db390d507c7744840a3901b4b8903b6",
+ "date": "2026-08-05",
+ "pr": "2765",
+ "title": "fix(SegmentedRadioGroup): changed option-text display type (#2765)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "text-align: ∅ → center undone by 576ace63 \"fix(SegmentedRadioGroup): revert \"changed option-text display type\" (#2795)\"; line-height: ∅ → 28px undone by 576ace63 \"fix(SegmentedRadioGroup): revert \"changed option-text display type\" (#2795)\"; font-size: ∅ → 13px undone by 576ace63 \"fix(SegmentedRadioGroup): revert \"changed option-text display type\" (#2795)\""
+}

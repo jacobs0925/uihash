@@ -1,0 +1,21 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "f1a0e3f18475d8d9d4f0664abe21a66409b42e74",
+ "parent": "accadd8a61ebbd136e0c14dd325e11ff862da59c",
+ "date": "2026-03-24",
+ "subject": "feat(DialogFooter): render contents only if they exist (#2625)",
+ "pr": "2625",
+ "components": [
+  "Dialog"
+ ],
+ "files": [
+  "src/components/Dialog/DialogFooter/DialogFooter.scss",
+  "src/components/Dialog/DialogFooter/DialogFooter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 44265
+}

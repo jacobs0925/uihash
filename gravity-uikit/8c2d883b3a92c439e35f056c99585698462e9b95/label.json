@@ -1,0 +1,12 @@
+{
+ "app": "gravity-uikit",
+ "group": "gravity-uikit",
+ "sha": "8c2d883b3a92c439e35f056c99585698462e9b95",
+ "date": "2026-10-01",
+ "pr": "2342",
+ "title": "fix(Checkbox, Radio, Switch)!: body-1 font variant for L size (#2342)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "16 visual-test baselines updated"
+}

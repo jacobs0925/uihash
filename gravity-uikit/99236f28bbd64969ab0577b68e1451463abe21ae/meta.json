@@ -1,0 +1,21 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "99236f28bbd64969ab0577b68e1451463abe21ae",
+ "parent": "2f2fcf9199ebff94e90efc38be7907a4914e80c1",
+ "date": "2026-06-23",
+ "subject": "fix(Select): replace legacy `Popover` with new one (#2711)",
+ "pr": "2711",
+ "components": [
+  "Select"
+ ],
+ "files": [
+  "src/components/Select/components/SelectControl/SelectControl.scss",
+  "src/components/Select/components/SelectControl/SelectControl.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 60,
+ "findings": 2,
+ "ms": 82878
+}

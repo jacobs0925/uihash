@@ -1,0 +1,22 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "35a98cb9c620d4ae74a02ce48d2bdcee447b9905",
+ "parent": "0a4d5628e39485858b0de14f51bd3a6051ea9153",
+ "date": "2026-03-17",
+ "subject": "fix(Table): add ability to redefine max height for menu popup (#2612)",
+ "pr": "2612",
+ "components": [
+  "Table"
+ ],
+ "files": [
+  "src/components/Table/README-ru.md",
+  "src/components/Table/README.md",
+  "src/components/Table/hoc/withTableActions/withTableActions.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 45,
+ "findings": 0,
+ "ms": 68976
+}

@@ -1,0 +1,12 @@
+{
+ "app": "gravity-uikit",
+ "group": "gravity-uikit",
+ "sha": "f08b9c23be9c9e1294d6a5905aabb7a7d42e3a47",
+ "date": "2026-10-02",
+ "pr": "2408",
+ "title": "feat(Dialog)!: update layout (#2408)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "22 visual-test baselines updated"
+}

@@ -1,0 +1,36 @@
+{
+ "repo": "fuselage",
+ "sha": "55a8332b3843950c9934264980f2bcd8aa059d50",
+ "parent": "bd43d14c5f38f7488f316ae6db4488f14729bf9b",
+ "date": "2026-10-02",
+ "subject": "feat(fuselage): Restyle the sidebar collapse group header (#2285)",
+ "pr": "2285",
+ "components": [
+  "Sidebar"
+ ],
+ "files": [
+  ".changeset/weak-apes-act.md",
+  "packages/fuselage/fuselage.api.md",
+  "packages/fuselage/src/components/Sidebar/Sidebar.stories.tsx",
+  "packages/fuselage/src/components/Sidebar/Sidebar.styles.scss",
+  "packages/fuselage/src/components/Sidebar/SidebarCollapseGroup.tsx",
+  "packages/fuselage/src/components/Sidebar/SidebarGroupTitle.tsx",
+  "packages/fuselage/test/snapshots/navigation-sidebar--default-desktop.png",
+  "packages/fuselage/test/snapshots/navigation-sidebar-item--condensed-desktop.png",
+  "packages/fuselage/test/snapshots/navigation-sidebar-item--condensed-items-desktop.png",
+  "packages/fuselage/test/snapshots/navigation-sidebar-item--extended-desktop.png",
+  "packages/fuselage/test/snapshots/navigation-sidebar-item--medium-desktop.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/fuselage/test/snapshots/navigation-sidebar--default-desktop.png",
+  "packages/fuselage/test/snapshots/navigation-sidebar-item--condensed-desktop.png",
+  "packages/fuselage/test/snapshots/navigation-sidebar-item--condensed-items-desktop.png",
+  "packages/fuselage/test/snapshots/navigation-sidebar-item--extended-desktop.png",
+  "packages/fuselage/test/snapshots/navigation-sidebar-item--medium-desktop.png"
+ ],
+ "changeset": "---\n'@rocket.chat/fuselage': minor\n---\n\nRestyles the sidebar collapse group header: the chevron now follows the title, the title is regular weight in a secondary color, and collapsed groups are dimmed when `empty` and emphasized when they have an unread badge\n",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 21,
+ "ms": 119877
+}

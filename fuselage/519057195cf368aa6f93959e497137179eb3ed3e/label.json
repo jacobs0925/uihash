@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "519057195cf368aa6f93959e497137179eb3ed3e",
+ "date": "2026-04-30",
+ "pr": "1765",
+ "title": "chore(fuselage): Sass overhaul (#1765)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "border-top-left-radius: 4px → 8px undone by 792c038b \"fix(fuselage): issues not caught by visual regression testing after Sass rewrite (#1961)\"; border-top-right-radius: 4px → 8px undone by 792c038b \"fix(fuselage): issues not caught by visual regression testing after Sass rewrite (#1961)\"; border-bottom-right-radius: 4px → 8px undone by 792c038b \"fix(fuselage): issues not caught by visual regression testing after Sass rewrite (#1961)\""
+}

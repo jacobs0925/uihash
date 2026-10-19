@@ -1,0 +1,22 @@
+{
+ "repo": "fuselage",
+ "sha": "cff98b1b6035591c96ef0b03f05a72f68e4f1653",
+ "parent": "6797e0f5c877ce6890644170d80f848692e605ab",
+ "date": "2026-04-23",
+ "subject": "feat(fuselage): accept `objectFit` css properties on `Avatar` (#1943)",
+ "pr": "1943",
+ "components": [
+  "Avatar"
+ ],
+ "files": [
+  ".changeset/cruel-owls-arrive.md",
+  "packages/fuselage/src/components/Avatar/Avatar.styles.scss",
+  "packages/fuselage/src/components/Avatar/Avatar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@rocket.chat/fuselage': minor\n---\n\nfeat(fuselage): accept all `objectFit` css properties on `Avatar` component\n",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 33881
+}

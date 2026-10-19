@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "f158c54361ce3c6a0973d56fcd302fed4b8c7698",
+ "parent": "1bd1abb93074c6fc842a93647b5c55d1d735eaee",
+ "date": "2025-10-13",
+ "subject": "Update QR scanner to process images client-side using jsQR",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/qr-code-scanner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 118955
+}

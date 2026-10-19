@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "88bb1ef92452b8431cc976733a97572f9cb22854",
+ "parent": "bb7a2a88554c0b86e0098bbfa8626816a1d117c2",
+ "date": "2025-10-14",
+ "subject": "Update ROI calculator testimonials to match loan calculator design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 109723
+}

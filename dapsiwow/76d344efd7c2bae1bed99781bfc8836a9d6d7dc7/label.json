@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "76d344efd7c2bae1bed99781bfc8836a9d6d7dc7",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Assistant checkpoint: Made Related Financial Calculators fully responsive",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2561 later commits"
+}

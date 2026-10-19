@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ba682163c1c76c99e6ab9b8853432f0c83cad14f",
+ "parent": "55c7b30bb0111995da66f95d83221f18fb72dfb0",
+ "date": "2025-10-14",
+ "subject": "Assistant checkpoint: Updated FAQ section with colored left borders",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 112876
+}

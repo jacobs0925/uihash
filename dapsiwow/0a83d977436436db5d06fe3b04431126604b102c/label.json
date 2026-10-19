@@ -5,8 +5,8 @@
  "date": "2025-10-10",
  "pr": null,
  "title": "Add a feature to display and track recently used tools",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2621 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "transform: matrix(1.05, 0, 0, 1.05, 0, 0) → ∅ undone by 799f0b94 \"Improve QR code scanner functionality and UI components\"; transform: matrix(1.05, 0, 0, 1.05, 0, 0) → ∅ undone by 799f0b94 \"Improve QR code scanner functionality and UI components\"; transform: matrix(1.05, 0, 0, 1.05, 0, 0) → ∅ undone by 799f0b94 \"Improve QR code scanner functionality and UI components\""
 }

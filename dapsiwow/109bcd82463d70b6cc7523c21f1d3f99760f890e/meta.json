@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "109bcd82463d70b6cc7523c21f1d3f99760f890e",
+ "parent": "83abce7457d42761e6975b3f5b54199e10031295",
+ "date": "2025-10-14",
+ "subject": "Assistant checkpoint: Add testimonials section to ROI Calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 108558
+}

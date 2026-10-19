@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "05e7033de23d22255b566266ac9dab752cb21c9b",
+ "parent": "4b1f70191c729d61384db3c1661f6d9c59420d2f",
+ "date": "2025-10-18",
+ "subject": "Assistant checkpoint: Fix AuthStatus import in home.tsx",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 110759
+}

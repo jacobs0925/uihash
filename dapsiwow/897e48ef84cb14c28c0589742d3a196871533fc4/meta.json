@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "897e48ef84cb14c28c0589742d3a196871533fc4",
+ "parent": "c9593d6c9de7b74b084be4e2f33e3580c2a19ca2",
+ "date": "2025-10-13",
+ "subject": "Assistant checkpoint: Made Debt Consolidation Calculator fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/debt-consolidation-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 112264
+}

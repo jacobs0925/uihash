@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "bf9d60c64c1b4056883ecca72362f3d96d863a0c",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Assistant checkpoint: Remove breadcrumb navigation from Simple Interest Calculator",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2559 later commits"
+}

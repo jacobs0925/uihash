@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "1b5045fd8e7d4f7f85fc4459b49058f6669b80f1",
+ "parent": "861959fb09e34d641050334736316655a2aac283",
+ "date": "2025-10-18",
+ "subject": "Assistant checkpoint: Fix Firebase auth configuration and errors",
+ "components": [
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  "client/src/contexts/AuthContext.tsx",
+  "client/src/lib/firebase.ts",
+  "client/src/pages/home.tsx",
+  "vercel.json"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 110076
+}

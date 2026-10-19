@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e91e4e8dac001ec0516af288f3d10f9a631750c2",
+ "parent": "bae03a06210867114586b9c7a12d33546008cb8b",
+ "date": "2025-10-10",
+ "subject": "Assistant checkpoint: Update Related Calculators section design to match Business Loan Calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 9,
+ "ms": 180610
+}

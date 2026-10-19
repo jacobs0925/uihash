@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "657ec1909d4d848ec3e943f589836508bdeaa783",
+ "parent": "10a14f2839c8981cd3c658924650964339ae3907",
+ "date": "2025-10-13",
+ "subject": "Restored to '36bcfcd3d8ff422de7a1e07f2d4479013654c7e5'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 13,
+ "ms": 171274
+}

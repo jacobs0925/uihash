@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "0d517f44da8078113de61a9bf278888215c53e85",
+ "parent": "a67a390543e7893c63ff5ddd62840a27d11d94cd",
+ "date": "2025-10-18",
+ "subject": "Add user authentication and management system using Firebase",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/contexts/AuthContext.tsx",
+  "client/src/lib/firebase.ts",
+  "package-lock.json",
+  "package.json"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 114816
+}

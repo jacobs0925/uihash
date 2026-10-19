@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b440f5cbc6e925071e7465f7ceff0199a8804f3c",
+ "parent": "93b56a7d88142e8fcce5a11cd91c6f64350cfbc1",
+ "date": "2025-10-10",
+ "subject": "Assistant checkpoint: Updated Related Calculators section to match design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 170976
+}

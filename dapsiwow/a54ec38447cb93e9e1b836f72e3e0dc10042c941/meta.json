@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a54ec38447cb93e9e1b836f72e3e0dc10042c941",
+ "parent": "80b0b94cff3930ca83387d3254116aa7a5892b14",
+ "date": "2025-10-15",
+ "subject": "Add financial and health calculators to the platform",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1760511279895.png",
+  "attached_assets/image_1760511313117.png",
+  "client/src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 109239
+}

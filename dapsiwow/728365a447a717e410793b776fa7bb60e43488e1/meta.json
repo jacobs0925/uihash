@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "728365a447a717e410793b776fa7bb60e43488e1",
+ "parent": "72200b4b7aa9e7596ae274d5f15d86610ac9b23e",
+ "date": "2025-10-13",
+ "subject": "Restored to '6e9d5e2aa898f669d9ba2e282ff2b56ba2b62744'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/finance-tools.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 114144
+}

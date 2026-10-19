@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "1f95092ad10b6e7c44e3dbda42ea56000890debb",
+ "date": "2025-10-18",
+ "pr": null,
+ "title": "Update Firebase configuration and remove authentication components from home page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2417 later commits"
+}

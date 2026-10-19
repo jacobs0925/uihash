@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "7fae8557edef91172ee5fb645e2e6c0514d3e8f8",
+ "parent": "8567fcbcdab373de6cdf580d6df85bd5433c8d7e",
+ "date": "2025-10-13",
+ "subject": "Assistant checkpoint: Remove Share button from simple interest calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 157079
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "f6efa0ed92beb1328b2b5b745c0523a8719a8987",
+ "parent": "df91ad09feaf37b2e79e1b53c0877e62296338e3",
+ "date": "2025-10-13",
+ "subject": "Assistant checkpoint: Made Personal Finance Dashboard fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/personal-finance-dashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 110450
+}

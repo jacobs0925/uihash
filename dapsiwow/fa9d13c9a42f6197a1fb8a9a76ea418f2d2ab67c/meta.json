@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "fa9d13c9a42f6197a1fb8a9a76ea418f2d2ab67c",
+ "parent": "441f4a29d5e9ed228448f0c05001a1bd6aa69840",
+ "date": "2025-10-17",
+ "subject": "Assistant checkpoint: Updated tax calculator hero gradient background",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/tax-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 107073
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "3b90691080e0478b0a34d822473c1f7c65c67b97",
+ "parent": "48ef164a438d880a77fca8922499f518d48b8288",
+ "date": "2025-10-14",
+ "subject": "Assistant checkpoint: Enhanced ROI Calculator hero section responsiveness",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 108388
+}

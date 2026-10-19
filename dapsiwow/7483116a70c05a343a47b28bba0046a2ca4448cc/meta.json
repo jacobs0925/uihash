@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "7483116a70c05a343a47b28bba0046a2ca4448cc",
+ "parent": "ea64c7c55e4cec1caf3be90ac8a3373ca21726b9",
+ "date": "2025-10-17",
+ "subject": "Update button component with new styles and variants",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/tax-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 109672
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ab6fb663b83092d77e39326689cdd8d39db82305",
+ "parent": "ef640c4c345abaf283ce4851ae1c54a4d403f1f5",
+ "date": "2025-10-14",
+ "subject": "Assistant checkpoint: Made ROI metrics comparison section fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 116316
+}

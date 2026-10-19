@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "6a34e6c86af0d8a492a005e82c307dbded7206ae",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Restored to '6ca3ad999be89e5228fad958bcd2d557fd2abdd3'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-right: 0px → 32px undone by a86d5670 \"Improve the visual style and responsiveness of the website header\"; padding-right: 0px → 32px undone by a86d5670 \"Improve the visual style and responsiveness of the website header\"; padding-right: 0px → 32px undone by a86d5670 \"Improve the visual style and responsiveness of the website header\""
+}

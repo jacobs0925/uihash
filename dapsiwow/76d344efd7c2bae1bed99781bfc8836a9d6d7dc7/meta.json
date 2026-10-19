@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "76d344efd7c2bae1bed99781bfc8836a9d6d7dc7",
+ "parent": "5f83c3a02d0cb6eb4f40bb802978dc25bd8e6d55",
+ "date": "2025-10-13",
+ "subject": "Assistant checkpoint: Made Related Financial Calculators fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 225549
+}

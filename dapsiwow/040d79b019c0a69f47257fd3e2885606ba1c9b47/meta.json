@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "040d79b019c0a69f47257fd3e2885606ba1c9b47",
+ "parent": "5adad5e9f8dc6d0915f52feee39c949a18ad9818",
+ "date": "2025-10-16",
+ "subject": "Assistant checkpoint: Update tool cards for mobile list layout",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/PopularToolsSection.tsx",
+  "client/src/components/RecentToolsSection.tsx",
+  "client/src/components/ToolCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 108673
+}

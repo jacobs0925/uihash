@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "ac6d87718fa9cb6478aac8f8f3fb2ee71702c33d",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Restored to 'dec77d90b908c934e3edf667cf13164b9db727e6'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "text: \"Common loan fees include: origination fe\" → \"Common loan fees include: origination fe\" undone by cd671a89 \"Assistant checkpoint: Fix noindex issue on 3 tool pages\"; text: \"Common loan fees include: origination fe\" → \"Common loan fees include: origination fe\" undone by cd671a89 \"Assistant checkpoint: Fix noindex issue on 3 tool pages\"; text: \"Common loan fees include: origination fe\" → \"Common loan fees include: origination fe\" undone by cd671a89 \"Assistant checkpoint: Fix noindex issue on 3 tool pages\""
+}

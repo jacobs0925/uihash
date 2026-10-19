@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "0735f84768b9dd987b505f7184b7775d1c874489",
+ "parent": "a72512728a8a2c1d08864c7bc904e441810f90dc",
+ "date": "2025-10-11",
+ "subject": "Assistant checkpoint: Made hero section fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/recently-used-tools.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 154803
+}

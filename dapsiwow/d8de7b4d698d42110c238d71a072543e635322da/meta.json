@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d8de7b4d698d42110c238d71a072543e635322da",
+ "parent": "799f0b94fb7e91fbec7fe97a5e62edc486912366",
+ "date": "2025-10-13",
+ "subject": "Update context import paths for tool pages",
+ "components": [
+  "contexts",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/contexts/ToolPageContext.tsx",
+  "client/src/pages/binary-to-text-converter.tsx",
+  "client/src/pages/fake-address-generator.tsx",
+  "client/src/pages/tool-page.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 110531
+}

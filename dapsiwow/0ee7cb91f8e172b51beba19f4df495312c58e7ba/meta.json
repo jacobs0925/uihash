@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "0ee7cb91f8e172b51beba19f4df495312c58e7ba",
+ "parent": "ba682163c1c76c99e6ab9b8853432f0c83cad14f",
+ "date": "2025-10-14",
+ "subject": "Assistant checkpoint: Update ROI Analysis section design to match Loan Calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 110150
+}

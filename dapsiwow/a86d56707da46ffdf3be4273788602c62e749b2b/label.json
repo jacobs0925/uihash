@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "a86d56707da46ffdf3be4273788602c62e749b2b",
+ "date": "2025-10-18",
+ "pr": null,
+ "title": "Improve the visual style and responsiveness of the website header",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by b3401281, which restored 9b3636af (5 commits discarded)"
+}

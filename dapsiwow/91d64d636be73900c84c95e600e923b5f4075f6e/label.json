@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "91d64d636be73900c84c95e600e923b5f4075f6e",
+ "date": "2025-10-16",
+ "pr": null,
+ "title": "Add a dedicated page for managing favorite tools",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2465 later commits"
+}

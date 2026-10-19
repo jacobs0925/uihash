@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "622c56c770bc64c231f19119e09990dfbad4a7c7",
+ "parent": "ab6fb663b83092d77e39326689cdd8d39db82305",
+ "date": "2025-10-14",
+ "subject": "Assistant checkpoint: Updated FAQ section to be fully responsive like EMI calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 112570
+}

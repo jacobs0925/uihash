@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "d7354534cb7d0bfcf0afcf4f7a5ea70fb0299304",
+ "date": "2025-10-14",
+ "pr": null,
+ "title": "Assistant checkpoint: Enhanced header with smooth animations and better UX",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2482 later commits"
+}

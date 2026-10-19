@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "799f0b94fb7e91fbec7fe97a5e62edc486912366",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Improve QR code scanner functionality and UI components",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2544 later commits"
+}

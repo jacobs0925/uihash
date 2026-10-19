@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "95c62bcbd3f9ce55dd0a1cc7173e464bb526f065",
+ "parent": "109bcd82463d70b6cc7523c21f1d3f99760f890e",
+ "date": "2025-10-14",
+ "subject": "Assistant checkpoint: Enhanced testimonials section with professional styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 130474
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "70097d49f8e688580c5c86c570fb095e611ffc98",
+ "parent": "b3addf38144e1ad97969f73ce02aff8427588395",
+ "date": "2025-10-14",
+ "subject": "Assistant checkpoint: Made ROI Calculator fully responsive like loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 113756
+}

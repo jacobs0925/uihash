@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "2d2cd076b4cf1a63af42b9c9c0b1c85b9d014098",
+ "parent": "603d2821513d55b798140c99e3824d4877a92c92",
+ "date": "2025-10-13",
+ "subject": "Assistant checkpoint: Make Loan Comparison Calculator fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-comparison-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 112201
+}

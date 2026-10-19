@@ -1,0 +1,31 @@
+{
+ "repo": "dapsiwow",
+ "sha": "0abc406280476700c7d8550c903edbe901f34faa",
+ "parent": "296556aef59e422a234c608eedcdf5138bfa8058",
+ "date": "2025-10-16",
+ "subject": "Display tool cards properly on mobile screens",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1760601273742.png",
+  "client/src/components/PopularToolsSection.tsx",
+  "client/src/components/ToolCard.tsx",
+  "client/src/pages/all-tools.tsx",
+  "client/src/pages/favorite-tools.tsx",
+  "client/src/pages/finance-tools.tsx",
+  "client/src/pages/health-tools.tsx",
+  "client/src/pages/recently-used-tools.tsx",
+  "client/src/pages/text-tools.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 109372
+}

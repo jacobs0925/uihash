@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d0e949719cf80b294234d21aa3a321f73096140f",
+ "parent": "5e8c92761ec8d9b4b577442fe67c31ae080e1e4f",
+ "date": "2025-10-14",
+ "subject": "Improve ROI calculator page with SEO enhancements and better content",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 108796
+}

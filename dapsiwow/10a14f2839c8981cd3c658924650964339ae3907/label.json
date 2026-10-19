@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "10a14f2839c8981cd3c658924650964339ae3907",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Assistant checkpoint: Made Simple Interest Calculator fully responsive",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 657ec190, which restored 36bcfcd3 (1 commit discarded)"
+}

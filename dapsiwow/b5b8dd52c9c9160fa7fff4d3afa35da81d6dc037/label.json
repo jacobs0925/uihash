@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "b5b8dd52c9c9160fa7fff4d3afa35da81d6dc037",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Restored to '6a34e6c86af0d8a492a005e82c307dbded7206ae'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: block → flex undone by 0243e9d9 \"Improve header responsiveness and professionalism\"; flex-direction: ∅ → row undone by 0243e9d9 \"Improve header responsiveness and professionalism\"; flex-wrap: ∅ → nowrap undone by 0243e9d9 \"Improve header responsiveness and professionalism\""
+}

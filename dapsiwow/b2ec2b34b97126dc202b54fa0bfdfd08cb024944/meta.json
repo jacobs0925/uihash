@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b2ec2b34b97126dc202b54fa0bfdfd08cb024944",
+ "parent": "c1baa0cfff865d7f7ff1da26fda4c881618b08cd",
+ "date": "2025-10-14",
+ "subject": "Add user testimonials to the ROI calculator page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 109485
+}

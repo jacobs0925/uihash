@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "90a37032c03c02ddece0758037e77a0a0a27c4e6",
+ "parent": "70097d49f8e688580c5c86c570fb095e611ffc98",
+ "date": "2025-10-14",
+ "subject": "Assistant checkpoint: Make ROI calculator SEO sections fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 112588
+}

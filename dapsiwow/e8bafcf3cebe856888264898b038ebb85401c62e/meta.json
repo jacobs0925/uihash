@@ -1,0 +1,28 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e8bafcf3cebe856888264898b038ebb85401c62e",
+ "parent": "0d517f44da8078113de61a9bf278888215c53e85",
+ "date": "2025-10-18",
+ "subject": "Add Firebase authentication for user login and signup functionality",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/App.tsx",
+  "client/src/components/AuthStatus.tsx",
+  "client/src/lib/firebase.ts",
+  "client/src/pages/home.tsx",
+  "client/src/pages/login.tsx",
+  "client/src/pages/signup.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 107575
+}

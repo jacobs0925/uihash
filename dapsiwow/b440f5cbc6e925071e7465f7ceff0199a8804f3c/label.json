@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "b440f5cbc6e925071e7465f7ceff0199a8804f3c",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Assistant checkpoint: Updated Related Calculators section to match design",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"The length of your loan significantly af\" → \"The length of your loan significantly af\" undone by e1a51047 \"Assistant checkpoint: Update Related Financial Calculators section design\"; text: \"The length of your loan significantly af\" → \"The length of your loan significantly af\" undone by e1a51047 \"Assistant checkpoint: Update Related Financial Calculators section design\"; text: \"The length of your loan significantly af\" → \"The length of your loan significantly af\" undone by e1a51047 \"Assistant checkpoint: Update Related Financial Calculators section design\""
+}

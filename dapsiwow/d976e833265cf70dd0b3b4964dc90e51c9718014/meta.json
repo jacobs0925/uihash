@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d976e833265cf70dd0b3b4964dc90e51c9718014",
+ "parent": "2d2cd076b4cf1a63af42b9c9c0b1c85b9d014098",
+ "date": "2025-10-13",
+ "subject": "Assistant checkpoint: Make Budget Calculator fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/budget-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 112282
+}

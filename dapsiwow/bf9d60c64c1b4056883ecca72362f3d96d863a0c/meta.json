@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "bf9d60c64c1b4056883ecca72362f3d96d863a0c",
+ "parent": "9cdb0d5324847b8cfc3931adf227b3261ebad54b",
+ "date": "2025-10-13",
+ "subject": "Assistant checkpoint: Remove breadcrumb navigation from Simple Interest Calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 172458
+}

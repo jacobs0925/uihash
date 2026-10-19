@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "03579e2f001aa7306b5abc09e2f98e1013ee36c9",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Assistant checkpoint: Update Simple Interest Calculator button design to match Business Loan Calculator",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2549 later commits"
+}

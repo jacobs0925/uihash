@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "54322bbc5e59a72b14d2ae3746fe1922f66cd36d",
+ "parent": "d976e833265cf70dd0b3b4964dc90e51c9718014",
+ "date": "2025-10-13",
+ "subject": "Assistant checkpoint: Made Future Value Calculator fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/future-value-investment-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 110936
+}

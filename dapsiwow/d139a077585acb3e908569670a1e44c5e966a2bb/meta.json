@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d139a077585acb3e908569670a1e44c5e966a2bb",
+ "parent": "8f56715927a923f43903ddaaa2b32916a35a078a",
+ "date": "2025-10-18",
+ "subject": "Add authentication and logout functionality to the site header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 186635
+}

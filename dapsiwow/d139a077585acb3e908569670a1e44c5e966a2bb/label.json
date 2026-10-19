@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "d139a077585acb3e908569670a1e44c5e966a2bb",
+ "date": "2025-10-18",
+ "pr": null,
+ "title": "Add authentication and logout functionality to the site header",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2438 later commits"
+}

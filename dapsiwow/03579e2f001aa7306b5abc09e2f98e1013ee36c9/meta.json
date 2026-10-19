@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "03579e2f001aa7306b5abc09e2f98e1013ee36c9",
+ "parent": "47c1f0090e667e259bdce4c3141666cdd32b5f98",
+ "date": "2025-10-13",
+ "subject": "Assistant checkpoint: Update Simple Interest Calculator button design to match Business Loan Calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 200693
+}

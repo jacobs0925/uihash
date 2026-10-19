@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "0243e9d948b2142588d5378d810bacbdb5ed160c",
+ "date": "2025-10-18",
+ "pr": null,
+ "title": "Improve header responsiveness and professionalism",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2393 later commits"
+}

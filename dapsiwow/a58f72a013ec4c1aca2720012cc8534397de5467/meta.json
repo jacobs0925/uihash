@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a58f72a013ec4c1aca2720012cc8534397de5467",
+ "parent": "54322bbc5e59a72b14d2ae3746fe1922f66cd36d",
+ "date": "2025-10-13",
+ "subject": "Restored to 'd976e833265cf70dd0b3b4964dc90e51c9718014'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/future-value-investment-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 111510
+}

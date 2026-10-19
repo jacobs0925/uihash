@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "1f95092ad10b6e7c44e3dbda42ea56000890debb",
+ "parent": "702d81aa06bd33e8f153dcd9f6470e986a9b061b",
+ "date": "2025-10-18",
+ "subject": "Update Firebase configuration and remove authentication components from home page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1760758612519.png",
+  "client/src/lib/firebase.ts",
+  "client/src/pages/home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 8,
+ "ms": 125048
+}

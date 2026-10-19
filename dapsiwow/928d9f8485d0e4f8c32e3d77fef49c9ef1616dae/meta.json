@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "928d9f8485d0e4f8c32e3d77fef49c9ef1616dae",
+ "parent": "7483116a70c05a343a47b28bba0046a2ca4448cc",
+ "date": "2025-10-17",
+ "subject": "Simplify tax calculator by removing unused country and currency options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/tax-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 109260
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "cd671a894d93bd18cb34888aee7e3c9d7211b1b2",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Assistant checkpoint: Fix noindex issue on 3 tool pages",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by ac6d8771, which restored dec77d90 (1 commit discarded)"
+}

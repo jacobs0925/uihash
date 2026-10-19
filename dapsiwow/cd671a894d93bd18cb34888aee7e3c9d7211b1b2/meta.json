@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "cd671a894d93bd18cb34888aee7e3c9d7211b1b2",
+ "parent": "dec77d90b908c934e3edf667cf13164b9db727e6",
+ "date": "2025-10-15",
+ "subject": "Assistant checkpoint: Fix noindex issue on 3 tool pages",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/lease-calculator.tsx",
+  "client/src/pages/loan-calculator.tsx",
+  "client/src/pages/protein-intake-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 127652
+}

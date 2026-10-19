@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "df021c1faeb2ddfaff412deb2a12a52c18c7fd9c",
+ "parent": "3174cdaa01107b96d486ce7ba0e0e5fbc5262d00",
+ "date": "2025-10-13",
+ "subject": "Hide tool card descriptions on smaller screens",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 157117
+}

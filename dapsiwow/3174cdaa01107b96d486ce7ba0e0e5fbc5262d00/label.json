@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "3174cdaa01107b96d486ce7ba0e0e5fbc5262d00",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Assistant checkpoint: Updated FAQ section UI to match EMI Calculator",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "padding-top: 32px → 40px undone by 657ec190 \"Restored to '36bcfcd3d8ff422de7a1e07f2d4479013654c7e5'\"; padding-right: 32px → 40px undone by 657ec190 \"Restored to '36bcfcd3d8ff422de7a1e07f2d4479013654c7e5'\"; padding-bottom: 32px → 40px undone by 657ec190 \"Restored to '36bcfcd3d8ff422de7a1e07f2d4479013654c7e5'\""
+}

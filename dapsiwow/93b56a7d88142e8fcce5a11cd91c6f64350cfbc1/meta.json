@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "93b56a7d88142e8fcce5a11cd91c6f64350cfbc1",
+ "parent": "e1a510478edd0e676b82dc89d9d691883b132a80",
+ "date": "2025-10-10",
+ "subject": "Restored to 'e91e4e8dac001ec0516af288f3d10f9a631750c2'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 200180
+}

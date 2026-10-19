@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "2b4e268c9aa7444a7292279411dcc3d14084c8e9",
+ "parent": "d35d183032e7a172f2fdb8257594cd8d73739840",
+ "date": "2025-10-13",
+ "subject": "Assistant checkpoint: Add links to Popular Finance Tools",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/finance-tools.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 112334
+}

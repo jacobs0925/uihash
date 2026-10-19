@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "72200b4b7aa9e7596ae274d5f15d86610ac9b23e",
+ "parent": "6e9d5e2aa898f669d9ba2e282ff2b56ba2b62744",
+ "date": "2025-10-13",
+ "subject": "Assistant checkpoint: Add links to Popular Text Tools section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/finance-tools.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 113523
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "f3ac85c2c2ef2b08c26128392b1b82bc82fb64bb",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Assistant checkpoint: Update header nav label to 'Recently Used'",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2617 later commits"
+}

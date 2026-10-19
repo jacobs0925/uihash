@@ -5,8 +5,8 @@
  "date": "2025-10-08",
  "pr": null,
  "title": "Make the EMI calculator's usage instructions fully responsive",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2904 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "font-size: 16px → 18px undone by 4880d264 \"Restored to 'e7a939f985154ebbe9b3f7ff168d0acb66936ff2'\"; font-size: 16px → 18px undone by 4880d264 \"Restored to 'e7a939f985154ebbe9b3f7ff168d0acb66936ff2'\"; font-size: 16px → 18px undone by 4880d264 \"Restored to 'e7a939f985154ebbe9b3f7ff168d0acb66936ff2'\""
 }

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "1fb04a1a12cfecdd898a032de5a5dbae8edaa720",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Assistant checkpoint: Remove Browse All button from calculators",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "text: \"Shorter tenures mean higher EMIs but sig\" → \"Shorter tenures mean higher EMIs but sig\" undone by ddd62c10 \"Restored to '0233601476b58f2484a3a1473a3893ed94e9345a'\"; text: \"Shorter tenures mean higher EMIs but sig\" → \"Shorter tenures mean higher EMIs but sig\" undone by ddd62c10 \"Restored to '0233601476b58f2484a3a1473a3893ed94e9345a'\"; text: \"Shorter tenures mean higher EMIs but sig\" → \"Shorter tenures mean higher EMIs but sig\" undone by ddd62c10 \"Restored to '0233601476b58f2484a3a1473a3893ed94e9345a'\""
+}

@@ -5,8 +5,8 @@
  "date": "2025-10-09",
  "pr": null,
  "title": "Assistant checkpoint: Update testimonials section design",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2662 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgb(247, 246, 249) → rgba(255, 255, 255, 0.9) undone by 3a784a65 \"Update calculator designs to match business loan calculator\"; background-color: rgb(247, 246, 249) → rgba(255, 255, 255, 0.9) undone by 3a784a65 \"Update calculator designs to match business loan calculator\"; background-color: rgb(247, 246, 249) → rgba(255, 255, 255, 0.9) undone by 3a784a65 \"Update calculator designs to match business loan calculator\""
 }

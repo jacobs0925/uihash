@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "201a7ad7f7218d61b77a94717041342eb480a084",
+ "parent": "cfa2edcae41b5bac24c228380b1e2bf177000aa7",
+ "date": "2025-10-10",
+ "subject": "Add social sharing options to the business loan calculator tool",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 205239
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "dapsiwow",
+ "sha": "1fb04a1a12cfecdd898a032de5a5dbae8edaa720",
+ "parent": "601c61e11b7a60868d77279741bf8741528e93cf",
+ "date": "2025-10-10",
+ "subject": "Assistant checkpoint: Remove Browse All button from calculators",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 311272
+}

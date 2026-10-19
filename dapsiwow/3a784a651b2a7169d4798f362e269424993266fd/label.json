@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "3a784a651b2a7169d4798f362e269424993266fd",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Update calculator designs to match business loan calculator",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "margin-bottom: 0px → 48px undone by 4880d264 \"Restored to 'e7a939f985154ebbe9b3f7ff168d0acb66936ff2'\"; margin-bottom: 0px → 48px undone by 4880d264 \"Restored to 'e7a939f985154ebbe9b3f7ff168d0acb66936ff2'\"; margin-bottom: 0px → 48px undone by 4880d264 \"Restored to 'e7a939f985154ebbe9b3f7ff168d0acb66936ff2'\""
+}

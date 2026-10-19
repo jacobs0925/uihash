@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "ddd62c10ef91937936bdccee3927498bdffd5e48",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Restored to '0233601476b58f2484a3a1473a3893ed94e9345a'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Shorter tenures mean higher EMIs but sig\" → \"Shorter tenures mean higher EMIs but sig\" undone by f1f68c85 \"Assistant checkpoint: Update EMI calculator button layout to match mortgage\"; text: \"Shorter tenures mean higher EMIs but sig\" → \"Shorter tenures mean higher EMIs but sig\" undone by f1f68c85 \"Assistant checkpoint: Update EMI calculator button layout to match mortgage\"; text: \"Shorter tenures mean higher EMIs but sig\" → \"Shorter tenures mean higher EMIs but sig\" undone by f1f68c85 \"Assistant checkpoint: Update EMI calculator button layout to match mortgage\""
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "bc24d71489b82ba9779ab9dfa0dd7330e8dd2d14",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Assistant checkpoint: Add testimonials section to Business Loan Calculator",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2602 later commits"
+}

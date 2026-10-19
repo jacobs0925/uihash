@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4db501541cc5226e1f02bd67bf50345d2741f33d",
+ "parent": "6ca3ad999be89e5228fad958bcd2d557fd2abdd3",
+ "date": "2025-10-10",
+ "subject": "Assistant checkpoint: Redesigned header with professional navigation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 12,
+ "ms": 384423
+}

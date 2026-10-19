@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "f1f68c85cbff661aa5ab3ffc00521e82d28aaf84",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Assistant checkpoint: Update EMI calculator button layout to match mortgage",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by ddd62c10, which restored 02336014 (1 commit discarded)"
+}

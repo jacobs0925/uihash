@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ddfe5492e2df1349fcc4358f6867999a9f35bbda",
+ "parent": "eaf0788eae71e486ad63da9532613bd2548b7921",
+ "date": "2025-10-10",
+ "subject": "Make tool cards fully responsive across all device sizes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/ToolCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 203219
+}

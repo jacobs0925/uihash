@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "bc24d71489b82ba9779ab9dfa0dd7330e8dd2d14",
+ "parent": "2e024966f17a3ff44d4b9814883c355d26105dcc",
+ "date": "2025-10-10",
+ "subject": "Assistant checkpoint: Add testimonials section to Business Loan Calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 296489
+}

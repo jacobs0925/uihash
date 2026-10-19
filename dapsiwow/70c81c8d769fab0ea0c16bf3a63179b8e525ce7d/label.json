@@ -5,8 +5,8 @@
  "date": "2025-10-05",
  "pr": null,
  "title": "Assistant checkpoint: Made EMI Calculator fully responsive across all screen sizes",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 3030 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "row-gap: 24px → 16px undone by 2d6b22d3 \"Assistant checkpoint: Updated Related Financial Calculators section design\"; column-gap: 24px → 16px undone by 2d6b22d3 \"Assistant checkpoint: Updated Related Financial Calculators section design\"; row-gap: 24px → 16px undone by 2d6b22d3 \"Assistant checkpoint: Updated Related Financial Calculators section design\""
 }

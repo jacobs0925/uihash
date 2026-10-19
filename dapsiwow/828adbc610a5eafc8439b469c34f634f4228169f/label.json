@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "828adbc610a5eafc8439b469c34f634f4228169f",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Assistant checkpoint: Update Related Financial Calculators section title",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2627 later commits"
+}

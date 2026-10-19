@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "bc19c7440b0a30c2abebb91ec8cda0ad9027eab0",
+ "parent": "1b8d86a068d0a2d06f459541f06d95705aac3a58",
+ "date": "2025-10-10",
+ "subject": "Restored to 'd12e69f52fd07f74be4e18377367eda9aa1b5456'",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "client/src/components/ToolCard.tsx",
+  "client/src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 203918
+}

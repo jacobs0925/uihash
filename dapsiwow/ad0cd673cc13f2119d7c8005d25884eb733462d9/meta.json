@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ad0cd673cc13f2119d7c8005d25884eb733462d9",
+ "parent": "00912a4f1a7f7038fc4bd16fbd9d2b639b080577",
+ "date": "2025-10-10",
+ "subject": "Assistant checkpoint: Updated EMI calculator buttons to match mortgage design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 152110
+}

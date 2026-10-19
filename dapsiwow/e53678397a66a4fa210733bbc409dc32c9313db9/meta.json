@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e53678397a66a4fa210733bbc409dc32c9313db9",
+ "parent": "bc24d71489b82ba9779ab9dfa0dd7330e8dd2d14",
+ "date": "2025-10-10",
+ "subject": "Assistant checkpoint: Made 'What Our Users Say' section fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 300651
+}

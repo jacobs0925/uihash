@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "2d6b22d32945bb4d3a01989db4190e02a0b65618",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Assistant checkpoint: Updated Related Financial Calculators section design",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 4880d264, which restored e7a939f9 (1 commit discarded)"
+}

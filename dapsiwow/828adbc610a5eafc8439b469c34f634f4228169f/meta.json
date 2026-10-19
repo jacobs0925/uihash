@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "828adbc610a5eafc8439b469c34f634f4228169f",
+ "parent": "76f0766283b3bb81a58e097aa6b597c647f6bcc7",
+ "date": "2025-10-10",
+ "subject": "Assistant checkpoint: Update Related Financial Calculators section title",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 165340
+}

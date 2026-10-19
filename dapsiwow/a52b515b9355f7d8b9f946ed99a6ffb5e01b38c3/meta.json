@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a52b515b9355f7d8b9f946ed99a6ffb5e01b38c3",
+ "parent": "828adbc610a5eafc8439b469c34f634f4228169f",
+ "date": "2025-10-10",
+ "subject": "Assistant checkpoint: Enhanced ToolCard with professional responsive design",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "client/src/components/ToolCard.tsx",
+  "client/src/index.css",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 193750
+}

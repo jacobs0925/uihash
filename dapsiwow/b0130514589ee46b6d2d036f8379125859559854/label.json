@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "b0130514589ee46b6d2d036f8379125859559854",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Assistant checkpoint: Added testimonial sections to 3 calculators",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 797c641c, which restored e5367839 (1 commit discarded)"
+}

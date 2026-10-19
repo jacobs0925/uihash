@@ -1,0 +1,30 @@
+{
+ "repo": "dapsiwow",
+ "sha": "1113039b04cad5c679bac206dd5135f78c6bfb47",
+ "parent": "98e06b96fc01a580f4aebf7f3905076f7dcffad2",
+ "date": "2025-10-10",
+ "subject": "Adjust tool card display and layout for better mobile experience",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/components/PopularToolsSection.tsx",
+  "client/src/components/RecentToolsSection.tsx",
+  "client/src/components/ToolCard.tsx",
+  "client/src/pages/all-tools.tsx",
+  "client/src/pages/finance-tools.tsx",
+  "client/src/pages/health-tools.tsx",
+  "client/src/pages/recently-used-tools.tsx",
+  "client/src/pages/text-tools.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 202658
+}

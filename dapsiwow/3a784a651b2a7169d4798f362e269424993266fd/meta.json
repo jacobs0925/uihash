@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "3a784a651b2a7169d4798f362e269424993266fd",
+ "parent": "275bab1b150fd0d140c6cc269dc1b5fb43a7509d",
+ "date": "2025-10-10",
+ "subject": "Update calculator designs to match business loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/emi-calculator.tsx",
+  "client/src/pages/loan-calculator.tsx",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 30,
+ "ms": 300878
+}

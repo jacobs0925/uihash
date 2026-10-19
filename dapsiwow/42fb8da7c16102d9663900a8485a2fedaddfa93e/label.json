@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "42fb8da7c16102d9663900a8485a2fedaddfa93e",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Assistant checkpoint: Removed icons from Related Calculators section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2629 later commits"
+}

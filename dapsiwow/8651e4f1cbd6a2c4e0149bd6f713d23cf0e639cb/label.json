@@ -5,8 +5,8 @@
  "date": "2025-10-06",
  "pr": null,
  "title": "Assistant checkpoint: Redesigned Mortgage Calculator with clean UI and SEO content",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2983 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: grid → block undone by 3a784a65 \"Update calculator designs to match business loan calculator\"; flex-direction: row → ∅ undone by 3a784a65 \"Update calculator designs to match business loan calculator\"; flex-wrap: nowrap → ∅ undone by 3a784a65 \"Update calculator designs to match business loan calculator\""
 }

@@ -5,8 +5,8 @@
  "date": "2025-10-08",
  "pr": null,
  "title": "Make the business loan tips section fully responsive on all devices",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2887 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "font-size: 18px → 20px undone by 874af005 \"Assistant checkpoint: Updated Related Financial Calculators section styling\"; font-size: 14px → 16px undone by 874af005 \"Assistant checkpoint: Updated Related Financial Calculators section styling\"; line-height: 20px → 24px undone by 874af005 \"Assistant checkpoint: Updated Related Financial Calculators section styling\""
 }

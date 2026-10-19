@@ -5,8 +5,8 @@
  "date": "2025-10-08",
  "pr": null,
  "title": "Update loan calculator page with new keywords and descriptions",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2924 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "text: \"Calculate monthly loan payments, total i\" → \"Calculate monthly loan payments, total i\" undone by 797c641c \"Restored to 'e53678397a66a4fa210733bbc409dc32c9313db9'\"; text: \"Calculate monthly loan payments, total i\" → \"Calculate monthly loan payments, total i\" undone by 797c641c \"Restored to 'e53678397a66a4fa210733bbc409dc32c9313db9'\"; text: \"Calculate monthly loan payments, total i\" → \"Calculate monthly loan payments, total i\" undone by 797c641c \"Restored to 'e53678397a66a4fa210733bbc409dc32c9313db9'\""
 }

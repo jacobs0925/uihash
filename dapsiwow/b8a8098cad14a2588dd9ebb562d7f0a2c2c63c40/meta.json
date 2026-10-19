@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b8a8098cad14a2588dd9ebb562d7f0a2c2c63c40",
+ "parent": "bad7c57f85877a39186375589a7947ba3147d954",
+ "date": "2025-10-10",
+ "subject": "Assistant checkpoint: Update loan calculator share buttons design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 151362
+}

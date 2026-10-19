@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b5b8dd52c9c9160fa7fff4d3afa35da81d6dc037",
+ "parent": "5cc46fcef2b5700cb51ce326a201a2455665694a",
+ "date": "2025-10-10",
+ "subject": "Restored to '6a34e6c86af0d8a492a005e82c307dbded7206ae'",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "client/src/components/Header.tsx",
+  "client/src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 15,
+ "ms": 388711
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "7a31cf9bd80e7bd8ebcc7af5d41ffc961049537e",
+ "parent": "f69e397bab785af812a84cef18594623582631ed",
+ "date": "2025-10-10",
+ "subject": "Limit tool descriptions to two lines on tool cards",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/ToolCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 203292
+}

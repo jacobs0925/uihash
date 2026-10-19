@@ -5,8 +5,8 @@
  "date": "2025-10-08",
  "pr": null,
  "title": "Make the loan calculator page responsive across devices",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2861 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-top: 32px → 40px undone by 874af005 \"Assistant checkpoint: Updated Related Financial Calculators section styling\"; font-size: 14px → 16px undone by 874af005 \"Assistant checkpoint: Updated Related Financial Calculators section styling\"; font-size: 14px → 16px undone by 874af005 \"Assistant checkpoint: Updated Related Financial Calculators section styling\""
 }

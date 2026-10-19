@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "42fb8da7c16102d9663900a8485a2fedaddfa93e",
+ "parent": "a4a9ab7fa7d025e3bbf01b50937496e43239040d",
+ "date": "2025-10-10",
+ "subject": "Assistant checkpoint: Removed icons from Related Calculators section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 9,
+ "ms": 194661
+}

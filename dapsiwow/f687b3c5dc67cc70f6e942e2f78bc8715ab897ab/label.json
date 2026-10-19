@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "f687b3c5dc67cc70f6e942e2f78bc8715ab897ab",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Assistant checkpoint: Add testimonials section to EMI Calculator",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 2634 later commits"
+}

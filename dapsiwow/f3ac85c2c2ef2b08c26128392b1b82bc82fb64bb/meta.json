@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "f3ac85c2c2ef2b08c26128392b1b82bc82fb64bb",
+ "parent": "46df5ee085681f261bf8fe571eb4bcc82bc81622",
+ "date": "2025-10-10",
+ "subject": "Assistant checkpoint: Update header nav label to 'Recently Used'",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 306191
+}

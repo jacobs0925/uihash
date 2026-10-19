@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "5cc46fcef2b5700cb51ce326a201a2455665694a",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Assistant checkpoint: Upgrade header with professional responsive design",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by b5b8dd52, which restored 6a34e6c8 (1 commit discarded)"
+}

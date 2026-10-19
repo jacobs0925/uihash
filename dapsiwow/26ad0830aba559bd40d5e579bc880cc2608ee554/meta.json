@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "26ad0830aba559bd40d5e579bc880cc2608ee554",
+ "parent": "d57f8e48f59eefb65a9a3cbbc67b937655e5ce32",
+ "date": "2025-10-10",
+ "subject": "Assistant checkpoint: Updated Business Loan Calculator social sharing layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 203221
+}

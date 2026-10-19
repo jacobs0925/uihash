@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "874af00527c654c5f904c65baec3a2c6138985d4",
+ "parent": "bc19c7440b0a30c2abebb91ec8cda0ad9027eab0",
+ "date": "2025-10-10",
+ "subject": "Assistant checkpoint: Updated Related Financial Calculators section styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 14,
+ "ms": 267576
+}

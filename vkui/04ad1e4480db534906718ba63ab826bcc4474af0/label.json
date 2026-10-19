@@ -1,0 +1,12 @@
+{
+ "app": "vkui",
+ "group": "vkui",
+ "sha": "04ad1e4480db534906718ba63ab826bcc4474af0",
+ "date": "2025-12-03",
+ "pr": "9247",
+ "title": "BREAKING CHANGE(Textarea): compact padding (#9247)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "20 visual-test baselines updated"
+}

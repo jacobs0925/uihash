@@ -1,0 +1,20 @@
+{
+ "repo": "vkui",
+ "sha": "d5694e14cc33a0b2c02b58dd0651d51639974ce5",
+ "parent": "a6d63f77417c36ab112cb8c23d43c83fd8fcd843",
+ "date": "2026-01-12",
+ "subject": "fix(HorizontalScroll): arrow pointer-events none (#9341)",
+ "pr": "9341",
+ "components": [
+  "HorizontalScroll"
+ ],
+ "files": [
+  "packages/vkui/src/components/HorizontalScroll/HorizontalScroll.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 1496714
+}

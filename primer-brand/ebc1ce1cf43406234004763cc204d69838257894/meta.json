@@ -1,0 +1,34 @@
+{
+ "repo": "primer-brand",
+ "sha": "ebc1ce1cf43406234004763cc204d69838257894",
+ "parent": "184bd2f645a0da2d8dd86af949d0adbea8e9d811",
+ "date": "2026-10-06",
+ "subject": "Fix RiverBreakoutTabs video autoplay (#1487)",
+ "pr": "1487",
+ "components": [
+  "river"
+ ],
+ "files": [
+  ".changeset/plenty-pugs-shave.md",
+  "apps/storybook/static/locales/de/RiverBreakoutTabs.json",
+  "apps/storybook/static/locales/en/RiverBreakoutTabs.json",
+  "apps/storybook/static/locales/es/RiverBreakoutTabs.json",
+  "apps/storybook/static/locales/fr/RiverBreakoutTabs.json",
+  "apps/storybook/static/locales/ja/RiverBreakoutTabs.json",
+  "apps/storybook/static/locales/pt-BR/RiverBreakoutTabs.json",
+  "packages/e2e/scripts/playwright/playwright.generate-tests.ts",
+  "packages/react/src/MinimalVideoPlayer/MinimalVideoPlayer.tsx",
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.examples.stories.tsx",
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.features.stories.tsx",
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.module.css",
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.module.css.d.ts",
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.test.tsx",
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nFixed autoplaying media in `RiverBreakoutTabs` when changing items on narrow viewports.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 128030
+}

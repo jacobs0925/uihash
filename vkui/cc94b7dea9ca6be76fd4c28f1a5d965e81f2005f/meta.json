@@ -1,0 +1,41 @@
+{
+ "repo": "vkui",
+ "sha": "cc94b7dea9ca6be76fd4c28f1a5d965e81f2005f",
+ "parent": "c94c6edfda588ad7d9e3ad86f3dacf7bfd3bacb4",
+ "date": "2025-12-26",
+ "subject": "fix(HorizontalCell): rm max width (#9316)",
+ "pr": "9316",
+ "components": [
+  "HorizontalCell"
+ ],
+ "files": [
+  "packages/vkui/src/components/HorizontalCell/HorizontalCell.module.css",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-vkcom-webkit-light-1-snap.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalCellShowMore/__image_snapshots__/horizontalcellshowmore-normal-size-vkcom-webkit-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 411663
+}

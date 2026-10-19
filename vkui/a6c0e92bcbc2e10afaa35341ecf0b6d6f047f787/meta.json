@@ -1,0 +1,41 @@
+{
+ "repo": "vkui",
+ "sha": "a6c0e92bcbc2e10afaa35341ecf0b6d6f047f787",
+ "parent": "3c64d6926171cd9d943fc7cfb21b3a904bf93fb2",
+ "date": "2025-10-23",
+ "subject": "feat(MiniInfoCell): change chevron color (#9089)",
+ "pr": "9089",
+ "components": [
+  "MiniInfoCell"
+ ],
+ "files": [
+  "packages/vkui/src/components/MiniInfoCell/MiniInfoCell.module.css",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-vkcom-webkit-light-1-snap.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/MiniInfoCell/__image_snapshots__/miniinfocell-vkcom-webkit-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 129306
+}

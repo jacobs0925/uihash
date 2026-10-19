@@ -1,0 +1,26 @@
+{
+ "repo": "vkui",
+ "sha": "3d0e16bc0f168b49e0b5b8caed32518a0b4cf977",
+ "parent": "2162d1da01c6603a88cfcb14360687911b4b7f51",
+ "date": "2025-10-31",
+ "subject": "feat: add align prop to typography (#9112)",
+ "pr": "9112",
+ "components": [
+  "Footer",
+  "Typography"
+ ],
+ "files": [
+  "packages/vkui/src/components/Footer/Footer.module.css",
+  "packages/vkui/src/components/Footer/Footer.tsx",
+  "packages/vkui/src/components/Typography/Typography.module.css",
+  "packages/vkui/src/components/Typography/Typography.test.tsx",
+  "packages/vkui/src/components/Typography/Typography.tsx",
+  "website/content/components/typography.mdx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 42,
+ "findings": 2,
+ "ms": 98957
+}

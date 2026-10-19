@@ -1,0 +1,29 @@
+{
+ "repo": "vkui",
+ "sha": "3c8dde05812a075f0703af7e7a07c086513cc0a1",
+ "parent": "f90c72598eb11a9567ad57c7c2a1799502d75fca",
+ "date": "2025-12-18",
+ "subject": "docs: move v8 todos to v9 (#9313)",
+ "pr": "9313",
+ "components": [
+  "Flex"
+ ],
+ "files": [
+  "packages/vkui/scripts/postcss.cjs",
+  "packages/vkui/src/components/ActionSheet/ActionSheet.tsx",
+  "packages/vkui/src/components/AdaptivityProvider/AdaptivityContext.tsx",
+  "packages/vkui/src/components/Calendar/Calendar.tsx",
+  "packages/vkui/src/components/CalendarRange/CalendarRange.tsx",
+  "packages/vkui/src/components/Flex/Flex.module.css",
+  "packages/vkui/src/components/PanelHeader/PanelHeader.tsx",
+  "packages/vkui/src/components/Spacing/Spacing.tsx",
+  "packages/vkui/src/components/Tappable/Tappable.tsx",
+  "packages/vkui/vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 404837
+}

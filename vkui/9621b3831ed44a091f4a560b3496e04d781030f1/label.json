@@ -1,0 +1,12 @@
+{
+ "app": "vkui",
+ "group": "vkui",
+ "sha": "9621b3831ed44a091f4a560b3496e04d781030f1",
+ "date": "2025-12-10",
+ "pr": "9190",
+ "title": "feat(ContentBadge): update neutral colors (#9190)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "10 visual-test baselines updated"
+}

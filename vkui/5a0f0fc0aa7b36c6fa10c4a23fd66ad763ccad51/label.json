@@ -1,0 +1,12 @@
+{
+ "app": "vkui",
+ "group": "vkui",
+ "sha": "5a0f0fc0aa7b36c6fa10c4a23fd66ad763ccad51",
+ "date": "2025-12-08",
+ "pr": "9252",
+ "title": "feat(PanelHeader): use position sticky (#9252)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "70 visual-test baselines updated"
+}

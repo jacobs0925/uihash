@@ -1,0 +1,53 @@
+{
+ "repo": "vkui",
+ "sha": "f5030e6ce7052d7446ab4d07949ced873642919e",
+ "parent": "26367cf4537eba2c214074489d86de50dc6d1cec",
+ "date": "2025-11-10",
+ "subject": "feat(HorizontalScroll): add withPadding (#9110)",
+ "pr": "9110",
+ "components": [
+  "HorizontalScroll"
+ ],
+ "files": [
+  "packages/vkui/src/components/HorizontalScroll/HorizontalScroll.module.css",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalScroll.tsx",
+  "packages/vkui/src/components/Tabs/Tabs.e2e-playground.tsx",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-layout-fill-mode-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-layout-fill-mode-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-layout-fill-mode-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-layout-fill-mode-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-layout-fill-mode-vkcom-webkit-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-vkcom-webkit-light-1-snap.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-layout-fill-mode-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-layout-fill-mode-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-layout-fill-mode-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-layout-fill-mode-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-layout-fill-mode-vkcom-webkit-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Tabs/__image_snapshots__/tabs-vkcom-webkit-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 1495330
+}

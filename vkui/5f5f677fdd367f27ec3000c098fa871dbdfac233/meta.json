@@ -1,0 +1,27 @@
+{
+ "repo": "vkui",
+ "sha": "5f5f677fdd367f27ec3000c098fa871dbdfac233",
+ "parent": "e00c51b7699efe0ea5cf16ae0bdaa1b0dde69034",
+ "date": "2025-12-18",
+ "subject": "feat(ActionSheet): add slotProps for iosCloseItem and deprecate `mode=\"cancel\"` and `isCancelItem` (#9307)",
+ "pr": "9307",
+ "components": [
+  "ActionSheet"
+ ],
+ "files": [
+  "packages/vkui/src/components/ActionSheet/ActionSheet.test.tsx",
+  "packages/vkui/src/components/ActionSheet/ActionSheet.tsx",
+  "packages/vkui/src/components/ActionSheet/ActionSheetDefaultIosCloseItem.module.css",
+  "packages/vkui/src/components/ActionSheet/ActionSheetDefaultIosCloseItem.tsx",
+  "packages/vkui/src/components/ActionSheetItem/ActionSheetItem.test.tsx",
+  "packages/vkui/src/components/ActionSheetItem/ActionSheetItem.tsx",
+  "packages/vkui/src/components/ActionSheetItem/context.ts",
+  "website/content/components/action-sheet.mdx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 1,
+ "ms": 68779
+}

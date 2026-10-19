@@ -1,0 +1,53 @@
+{
+ "repo": "vkui",
+ "sha": "253a9fb459f4a924bd47cac1b67008686eaac003",
+ "parent": "660ca808e3ee052804e237f322a14d1ff0c9760f",
+ "date": "2025-12-16",
+ "subject": "feat(RichCell): decrease min-height (#9283)",
+ "pr": "9283",
+ "components": [
+  "RichCell"
+ ],
+ "files": [
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-vkcom-webkit-light-1-snap.png",
+  "packages/vkui/src/components/RichCell/RichCell.module.css",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-webkit-light-1-snap.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/FormItem/__image_snapshots__/formitem-vkcom-webkit-light-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-webkit-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 423542
+}

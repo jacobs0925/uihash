@@ -1,0 +1,45 @@
+{
+ "repo": "vkui",
+ "sha": "293757fcbb6aa359da0334215f854535e32ea9af",
+ "parent": "17005baa09dd3ef956c7300041d44655d1e27145",
+ "date": "2025-11-19",
+ "subject": "feat(Banner): add imageTheme=\"auto\" and set it as default (#9188)",
+ "pr": "9188",
+ "components": [
+  "Banner"
+ ],
+ "files": [
+  "packages/vkui/src/components/Banner/Banner.e2e-playground.tsx",
+  "packages/vkui/src/components/Banner/Banner.module.css",
+  "packages/vkui/src/components/Banner/Banner.test.tsx",
+  "packages/vkui/src/components/Banner/Banner.tsx",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-vkcom-webkit-light-1-snap.png",
+  "website/components/mdx/InstallTemplates/InstallTemplates.tsx"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/Banner/__image_snapshots__/banner-vkcom-webkit-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 51623
+}

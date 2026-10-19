@@ -1,0 +1,27 @@
+{
+ "repo": "primer-brand",
+ "sha": "1a64aa27990f3c2d4e6e15a7170f5e81ac6d3cc8",
+ "parent": "4c924855b40975f9f14e8507c3d2a5a7fd4ae8a6",
+ "date": "2026-09-29",
+ "subject": "fix faq heading misalignment (#1478)",
+ "pr": "1478",
+ "components": [
+  "FAQ"
+ ],
+ "files": [
+  ".changeset/tidy-faq-heading.md",
+  "packages/react/src/FAQ/FAQ.visual.spec.ts-snapshots/Visual-Comparison-FAQ-FAQ-Groups-gridline-1-darwin.png",
+  "packages/react/src/FAQ/FAQGroup.module.css",
+  "packages/react/src/recipes/Flexsuite/Overview/FlexSuiteAIOverview.tsx",
+  "packages/react/src/recipes/Flexsuite/Overview/Overview.visual.spec.ts-snapshots/Visual-Comparison-Overview-Overview-AI-1-darwin.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/FAQ/FAQ.visual.spec.ts-snapshots/Visual-Comparison-FAQ-FAQ-Groups-gridline-1-darwin.png",
+  "packages/react/src/recipes/Flexsuite/Overview/Overview.visual.spec.ts-snapshots/Visual-Comparison-Overview-Overview-AI-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nAdded extra `inline-start` padding to `FAQGroup.Heading` on wide breakpoints to better align it with adjacent content. Only applies to the `gridline` variant.\n",
+ "recipe": 1,
+ "stories": 42,
+ "findings": 1,
+ "ms": 85060
+}

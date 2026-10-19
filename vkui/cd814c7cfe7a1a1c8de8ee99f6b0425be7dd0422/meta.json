@@ -1,0 +1,50 @@
+{
+ "repo": "vkui",
+ "sha": "cd814c7cfe7a1a1c8de8ee99f6b0425be7dd0422",
+ "parent": "6f1252dcad759b2958173cae238c5f961f95eec3",
+ "date": "2025-12-19",
+ "subject": "feat(RichCell): add props meta and submeta (#9304)",
+ "pr": "9304",
+ "components": [
+  "RichCell"
+ ],
+ "files": [
+  "packages/codemods/src/transforms/v8/__testfixtures__/rich-cell/basic.input.tsx",
+  "packages/codemods/src/transforms/v8/__tests__/__snapshots__/rich-cell.ts.snap",
+  "packages/codemods/src/transforms/v8/__tests__/rich-cell.ts",
+  "packages/codemods/src/transforms/v8/rich-cell.ts",
+  "packages/vkui/src/components/RichCell/RichCell.e2e-playground.tsx",
+  "packages/vkui/src/components/RichCell/RichCell.module.css",
+  "packages/vkui/src/components/RichCell/RichCell.stories.tsx",
+  "packages/vkui/src/components/RichCell/RichCell.test.tsx",
+  "packages/vkui/src/components/RichCell/RichCell.tsx",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-webkit-light-1-snap.png",
+  "website/content/components/rich-cell.mdx"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/RichCell/__image_snapshots__/richcell-vkcom-webkit-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 409615
+}

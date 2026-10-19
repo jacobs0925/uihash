@@ -1,0 +1,26 @@
+{
+ "repo": "primer-brand",
+ "sha": "f670ae378cce8f1ca3e81307290a56808758f82a",
+ "parent": "1ca31516d5a30eca38feb8f28407f6d01f0567e2",
+ "date": "2026-09-23",
+ "subject": "Fix collapsing rivers inside stack on tablets (#1482)",
+ "pr": "1482",
+ "components": [
+  "river"
+ ],
+ "files": [
+  ".changeset/strict-breads-serve.md",
+  "packages/react/src/river/River/River.examples.stories.tsx",
+  "packages/react/src/river/River/River.visual.spec.ts",
+  "packages/react/src/river/River/River.visual.spec.ts-snapshots/Visual-Comparison-River-Tablet-viewport-test--2d76a-k-tablet-River-Rivers-in-a-stack-tablet-1-darwin.png",
+  "packages/react/src/river/river-shared.module.css"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/river/River/River.visual.spec.ts-snapshots/Visual-Comparison-River-Tablet-viewport-test--2d76a-k-tablet-River-Rivers-in-a-stack-tablet-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nFixed `River` components incorrectly shrinking when nested in a `Stack` at medium (tablet) viewport sizes.\n",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 0,
+ "ms": 122671
+}

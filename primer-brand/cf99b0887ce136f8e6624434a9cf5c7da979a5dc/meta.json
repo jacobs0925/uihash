@@ -1,0 +1,47 @@
+{
+ "repo": "primer-brand",
+ "sha": "cf99b0887ce136f8e6624434a9cf5c7da979a5dc",
+ "parent": "1820cf0c90d1f432fb2eb9a28917602c967c6376",
+ "date": "2026-10-16",
+ "subject": "Add full color logo support to LogoSuite (#1499)",
+ "pr": "1499",
+ "components": [
+  "LogoSuite"
+ ],
+ "files": [
+  ".changeset/few-sails-matter.md",
+  ".changeset/full-color-linked-logos.md",
+  "apps/next-docs/content/components/LogoSuite/react.mdx",
+  "apps/next-docs/content/components/LogoSuite/react.tsx",
+  "package-lock.json",
+  "packages/e2e/scripts/playwright/playwright.generate-tests.ts",
+  "packages/react/src/LogoSuite/LogoSuite.features.stories.tsx",
+  "packages/react/src/LogoSuite/LogoSuite.module.css",
+  "packages/react/src/LogoSuite/LogoSuite.module.css.d.ts",
+  "packages/react/src/LogoSuite/LogoSuite.stories.tsx",
+  "packages/react/src/LogoSuite/LogoSuite.test.tsx",
+  "packages/react/src/LogoSuite/LogoSuite.tsx",
+  "packages/react/src/LogoSuite/LogoSuite.visual.spec.ts",
+  "packages/react/src/LogoSuite/LogoSuite.visual.spec.ts-snapshots/Visual-Comparison-LogoSuite-LogoSuite-GridLine-expressive-kitchen-sink-1-darwin.png",
+  "packages/react/src/LogoSuite/LogoSuite.visual.spec.ts-snapshots/Visual-Comparison-LogoSuite-LogoSuite-GridLine-kitchen-sink-1-darwin.png",
+  "packages/react/src/LogoSuite/LogoSuite.visual.spec.ts-snapshots/Visual-Comparison-LogoSuite-LogoSuite-With-Linked-Icons-1-darwin.png",
+  "packages/react/src/LogoSuite/LogoSuite.visual.spec.ts-snapshots/Visual-Comparison-LogoSuite-LogoSuite-With-Links-1-darwin.png",
+  "packages/react/src/LogoSuite/Logosuite.examples.stories.tsx",
+  "packages/react/src/MinimalVideoPlayer/MinimalVideoPlayer.tsx",
+  "packages/react/src/PlayIcon.tsx",
+  "packages/react/src/fixtures/images/logos/linkedin-color.svg",
+  "packages/react/src/fixtures/images/logos/microsoft-color.svg",
+  "packages/react/src/fixtures/images/logos/xbox-color.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/LogoSuite/LogoSuite.visual.spec.ts-snapshots/Visual-Comparison-LogoSuite-LogoSuite-GridLine-expressive-kitchen-sink-1-darwin.png",
+  "packages/react/src/LogoSuite/LogoSuite.visual.spec.ts-snapshots/Visual-Comparison-LogoSuite-LogoSuite-GridLine-kitchen-sink-1-darwin.png",
+  "packages/react/src/LogoSuite/LogoSuite.visual.spec.ts-snapshots/Visual-Comparison-LogoSuite-LogoSuite-With-Linked-Icons-1-darwin.png",
+  "packages/react/src/LogoSuite/LogoSuite.visual.spec.ts-snapshots/Visual-Comparison-LogoSuite-LogoSuite-With-Links-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nUpdated the play icon in `LogoSuite.Logobar` when `marquee` is enabled\n\n---\n'@primer/brand-css': patch\n'@primer/react-brand': patch\n---\n\n`LogoSuite` updates:\n\n- `LogoSuite.Logobar` logos rendered as links now retain their full colors.\n- `LogoSuite` now supports a `gridline` version.\n",
+ "recipe": 1,
+ "stories": 60,
+ "findings": 32,
+ "ms": 202874
+}

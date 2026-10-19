@@ -1,0 +1,30 @@
+{
+ "repo": "primer-brand",
+ "sha": "1820cf0c90d1f432fb2eb9a28917602c967c6376",
+ "parent": "a42e7505f09bcea679f304cd72597bcccadbe45d",
+ "date": "2026-10-15",
+ "subject": "Fix nested interactive controls in RiverBreakoutTabs (#1496)",
+ "pr": "1496",
+ "components": [
+  "river"
+ ],
+ "files": [
+  ".changeset/quiet-dots-relax.md",
+  "apps/next-docs/content/components/RiverBreakoutTabs/index.mdx",
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.features.stories.tsx",
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.module.css",
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.module.css.d.ts",
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.test.tsx",
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.tsx",
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.visual.spec.ts",
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakoutTabs-RiverBreakoutTabs-With-Buttons-1-darwin.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/river/RiverBreakoutTabs/RiverBreakoutTabs.visual.spec.ts-snapshots/Visual-Comparison-RiverBreakoutTabs-RiverBreakoutTabs-With-Buttons-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nRender `RiverBreakoutTabs.Content` outside desktop tab buttons so nested controls remain independently accessible.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 146251
+}

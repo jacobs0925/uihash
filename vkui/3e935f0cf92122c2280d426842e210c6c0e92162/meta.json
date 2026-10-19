@@ -1,0 +1,32 @@
+{
+ "repo": "vkui",
+ "sha": "3e935f0cf92122c2280d426842e210c6c0e92162",
+ "parent": "cbe5f7fea836e751a5ce49e63102fb1f375c545b",
+ "date": "2025-11-27",
+ "subject": "feat: add common layout props (#9209)",
+ "pr": "9209",
+ "components": [
+  "Box",
+  "Flex",
+  "SimpleGrid"
+ ],
+ "files": [
+  "packages/vkui/src/components/Box/Box.module.css",
+  "packages/vkui/src/components/Box/Box.tsx",
+  "packages/vkui/src/components/Flex/Flex.module.css",
+  "packages/vkui/src/components/Flex/Flex.tsx",
+  "packages/vkui/src/components/RadioGroup/RadioGroup.tsx",
+  "packages/vkui/src/components/Separator/Separator.tsx",
+  "packages/vkui/src/components/SimpleGrid/SimpleGrid.module.css",
+  "packages/vkui/src/components/SimpleGrid/SimpleGrid.tsx",
+  "website/content/components/flex.mdx",
+  "website/content/components/separator.mdx",
+  "website/content/components/simple-grid.mdx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 419628
+}

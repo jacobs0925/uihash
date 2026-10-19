@@ -1,0 +1,21 @@
+{
+ "repo": "vkui",
+ "sha": "6216a3eefed0b9237d69e3eefeebedb19a857de9",
+ "parent": "7856a3e090a35724cb5ef96599c506485449b07e",
+ "date": "2025-11-05",
+ "subject": "feat(SubnavigationBar): add prop noPadding (#9117)",
+ "pr": "9117",
+ "components": [
+  "SubnavigationBar"
+ ],
+ "files": [
+  "packages/vkui/src/components/SubnavigationBar/SubnavigationBar.module.css",
+  "packages/vkui/src/components/SubnavigationBar/SubnavigationBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 54772
+}

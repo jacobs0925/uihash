@@ -1,0 +1,44 @@
+{
+ "repo": "primer-brand",
+ "sha": "d1a668949663927a16c158a11ddf7b3355d73bc1",
+ "parent": "f670ae378cce8f1ca3e81307290a56808758f82a",
+ "date": "2026-09-25",
+ "subject": "Add `gridline` variant to Section (#1477)",
+ "pr": "1477",
+ "components": [
+  "Section"
+ ],
+ "files": [
+  ".changeset/section-gridline-variant.md",
+  "apps/next-docs/content/components/Section/react.mdx",
+  "packages/design-tokens/src/tokens/functional/components/section/section.json",
+  "packages/react/src/Section/Section.features.stories.tsx",
+  "packages/react/src/Section/Section.module.css",
+  "packages/react/src/Section/Section.module.css.d.ts",
+  "packages/react/src/Section/Section.stories.tsx",
+  "packages/react/src/Section/Section.test.tsx",
+  "packages/react/src/Section/Section.tsx",
+  "packages/react/src/Section/Section.visual.spec.ts",
+  "packages/react/src/Section/Section.visual.spec.ts-snapshots/Visual-Comparison-Section-Mobile-viewport-tes-f04f8-ion-Gridline-with-background-color-narrow-1-darwin.png",
+  "packages/react/src/Section/Section.visual.spec.ts-snapshots/Visual-Comparison-Section-Mobile-viewport-test-for-Gridline-Narrow-Section-Gridline-Narrow-1-darwin.png",
+  "packages/react/src/Section/Section.visual.spec.ts-snapshots/Visual-Comparison-Section-Section-Adjacent-Gridline-Sections-1-darwin.png",
+  "packages/react/src/Section/Section.visual.spec.ts-snapshots/Visual-Comparison-Section-Section-Gridline-1-darwin.png",
+  "packages/react/src/Section/Section.visual.spec.ts-snapshots/Visual-Comparison-Section-Section-Gridline-With-Background-Color-1-darwin.png",
+  "packages/react/src/Section/Section.visual.spec.ts-snapshots/Visual-Comparison-Section-Section-Gridline-With-Full-Width-Container-1-darwin.png",
+  "packages/react/src/Section/Section.visual.spec.ts-snapshots/Visual-Comparison-Section-Tablet-viewport-test-for-Gridline-Tablet-Section-Gridline-Tablet-1-darwin.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/Section/Section.visual.spec.ts-snapshots/Visual-Comparison-Section-Mobile-viewport-tes-f04f8-ion-Gridline-with-background-color-narrow-1-darwin.png",
+  "packages/react/src/Section/Section.visual.spec.ts-snapshots/Visual-Comparison-Section-Mobile-viewport-test-for-Gridline-Narrow-Section-Gridline-Narrow-1-darwin.png",
+  "packages/react/src/Section/Section.visual.spec.ts-snapshots/Visual-Comparison-Section-Section-Adjacent-Gridline-Sections-1-darwin.png",
+  "packages/react/src/Section/Section.visual.spec.ts-snapshots/Visual-Comparison-Section-Section-Gridline-1-darwin.png",
+  "packages/react/src/Section/Section.visual.spec.ts-snapshots/Visual-Comparison-Section-Section-Gridline-With-Background-Color-1-darwin.png",
+  "packages/react/src/Section/Section.visual.spec.ts-snapshots/Visual-Comparison-Section-Section-Gridline-With-Full-Width-Container-1-darwin.png",
+  "packages/react/src/Section/Section.visual.spec.ts-snapshots/Visual-Comparison-Section-Tablet-viewport-test-for-Gridline-Tablet-Section-Gridline-Tablet-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/brand-primitives': patch\n'@primer/react-brand': minor\n---\n\nAdd a `gridline` variant to the `Section` component and a design token for customizing its inline padding.\n",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 0,
+ "ms": 63988
+}

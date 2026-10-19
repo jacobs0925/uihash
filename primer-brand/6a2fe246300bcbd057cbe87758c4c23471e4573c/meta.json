@@ -1,0 +1,47 @@
+{
+ "repo": "primer-brand",
+ "sha": "6a2fe246300bcbd057cbe87758c4c23471e4573c",
+ "parent": "d13ac6e9121f7dcd075fb44b3354009505719668",
+ "date": "2026-10-08",
+ "subject": "Fix Tiles to distribute evenly across multiple rows (#1483)",
+ "pr": "1483",
+ "components": [
+  "Tiles"
+ ],
+ "files": [
+  ".changeset/even-tiles-wrap.md",
+  "packages/design-tokens/src/tokens/functional/components/tiles/base.json",
+  "packages/react/src/Tiles/Tiles.features.stories.tsx",
+  "packages/react/src/Tiles/Tiles.module.css",
+  "packages/react/src/Tiles/Tiles.test.tsx",
+  "packages/react/src/Tiles/Tiles.tsx",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tablet-viewport-test--a74b0--rows-tablet-Tiles-Balanced-rows-tablet-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Default-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Default-Variant-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Gridlines-Underfilled-Rows-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Gridlines-Variant-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Maximum-Items-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Multiple-Rows-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Playground-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Static-Items-1-darwin.png",
+  "packages/react/src/recipes/Flexsuite/Overview/Overview.visual.spec.ts-snapshots/Visual-Comparison-Overview-Overview-AI-1-darwin.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tablet-viewport-test--a74b0--rows-tablet-Tiles-Balanced-rows-tablet-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Default-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Default-Variant-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Gridlines-Underfilled-Rows-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Gridlines-Variant-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Maximum-Items-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Multiple-Rows-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Playground-1-darwin.png",
+  "packages/react/src/Tiles/Tiles.visual.spec.ts-snapshots/Visual-Comparison-Tiles-Tiles-Static-Items-1-darwin.png",
+  "packages/react/src/recipes/Flexsuite/Overview/Overview.visual.spec.ts-snapshots/Visual-Comparison-Overview-Overview-AI-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nUpdated `Tiles` to distribute items as evenly as possible across rows at every viewport.\n",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 6,
+ "ms": 74793
+}

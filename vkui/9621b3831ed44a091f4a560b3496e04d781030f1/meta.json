@@ -1,0 +1,43 @@
+{
+ "repo": "vkui",
+ "sha": "9621b3831ed44a091f4a560b3496e04d781030f1",
+ "parent": "a5d9d137c52c787800825c29e5bf67c4f948deb8",
+ "date": "2025-12-10",
+ "subject": "feat(ContentBadge): update neutral colors (#9190)",
+ "pr": "9190",
+ "components": [
+  "ContentBadge"
+ ],
+ "files": [
+  "packages/vkui/src/components/ContentBadge/ContentBadge.e2e-playground.tsx",
+  "packages/vkui/src/components/ContentBadge/ContentBadge.module.css",
+  "packages/vkui/src/components/ContentBadge/ContentBadgeIconSlot.tsx",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-vkcom-webkit-light-1-snap.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-android-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-android-chromium-light-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-ios-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-ios-webkit-light-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-vkcom-chromium-dark-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-vkcom-chromium-light-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-vkcom-firefox-dark-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-vkcom-firefox-light-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-vkcom-webkit-dark-1-snap.png",
+  "packages/vkui/src/components/ContentBadge/__image_snapshots__/contentbadge-vkcom-webkit-light-1-snap.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 54484
+}

@@ -1,0 +1,30 @@
+{
+ "repo": "metabase",
+ "sha": "c0148822de595d3fb0288d78863b3a1c9c90acf5",
+ "parent": "5a30fa4e44dce8fa7810aa482c89ab12c0f8b14b",
+ "date": "2026-10-15",
+ "subject": "Update Anchor component styles (#83333)",
+ "pr": "83333",
+ "components": [
+  "typography/Anchor"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_Components_Feedback_Alert_Feedback.png",
+  ".loki/reference/chrome_laptop_Components_Text_Anchor_Overview.png",
+  "frontend/src/metabase/ui/colors/constants/themes/dark.ts",
+  "frontend/src/metabase/ui/components/typography/Anchor/Anchor.config.tsx",
+  "frontend/src/metabase/ui/components/typography/Anchor/Anchor.mdx",
+  "frontend/src/metabase/ui/components/typography/Anchor/Anchor.module.css",
+  "frontend/src/metabase/ui/components/typography/Anchor/Anchor.stories.tsx",
+  "loki.config.js"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_Components_Feedback_Alert_Feedback.png",
+  ".loki/reference/chrome_laptop_Components_Text_Anchor_Overview.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 115168
+}

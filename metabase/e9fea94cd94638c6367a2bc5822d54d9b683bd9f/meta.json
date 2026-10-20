@@ -1,0 +1,34 @@
+{
+ "repo": "metabase",
+ "sha": "e9fea94cd94638c6367a2bc5822d54d9b683bd9f",
+ "parent": "29a4b7052ca36f6d627d85444ecb00f3b055dd9a",
+ "date": "2026-10-14",
+ "subject": "Uxw 3697 emotion css mantine status (#84318)",
+ "pr": "84318",
+ "components": [
+  "buttons/ActionIcon"
+ ],
+ "files": [
+  "enterprise/frontend/src/metabase-enterprise/audit_app/components/AnalyticsExportStatus.tsx",
+  "enterprise/frontend/src/metabase-enterprise/google_drive/GdriveSyncStatus.tsx",
+  "enterprise/frontend/src/metabase-enterprise/replacement/components/SourceReplacementStatus/SourceReplacementStatus.tsx",
+  "frontend/src/metabase/status/components/DatabaseStatusLarge/DatabaseStatusLarge.tsx",
+  "frontend/src/metabase/status/components/DownloadsStatusLarge/DownloadsStatusLarge.tsx",
+  "frontend/src/metabase/status/components/FileUploadStatusLarge/FileUploadStatusLarge.tsx",
+  "frontend/src/metabase/status/components/PublicStatusListing/PublicStatusListing.styled.tsx",
+  "frontend/src/metabase/status/components/PublicStatusListing/PublicStatusListing.tsx",
+  "frontend/src/metabase/status/components/StatusLarge/StatusLarge.module.css",
+  "frontend/src/metabase/status/components/StatusLarge/StatusLarge.styled.tsx",
+  "frontend/src/metabase/status/components/StatusLarge/StatusLarge.tsx",
+  "frontend/src/metabase/status/components/StatusLarge/index.ts",
+  "frontend/src/metabase/status/components/StatusListing/StatusListing.styled.tsx",
+  "frontend/src/metabase/status/components/StatusListing/StatusListing.tsx",
+  "frontend/src/metabase/ui/components/buttons/ActionIcon/ActionIcon.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 92906
+}

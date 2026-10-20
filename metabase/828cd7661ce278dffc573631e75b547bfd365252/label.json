@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "828cd7661ce278dffc573631e75b547bfd365252",
+ "date": "2026-10-12",
+ "pr": "83518",
+ "title": "GDGT-3288: Restyle Modal to the Figma spec (#83518)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "2 visual-test baselines updated"
+}

@@ -1,0 +1,33 @@
+{
+ "repo": "metabase",
+ "sha": "ab4afe86909dec4ae9d4fb8f335d87fbbaccc4cc",
+ "parent": "2bb755dfb53eca12c3b04936f5aabcd96c85d17e",
+ "date": "2026-10-09",
+ "subject": "GDGT-3284: Built-in tooltips for icon-only SegmentedControl segments (#83746)",
+ "pr": "83746",
+ "components": [
+  "inputs/SegmentedControl"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_Components_Inputs_SegmentedControl_Overview.png",
+  "frontend/src/metabase/common/components/UndoListing.tsx",
+  "frontend/src/metabase/explorations/components/ExplorationSidebar/ExplorationSidebar.tsx",
+  "frontend/src/metabase/metadata/components/FieldOrderPicker/FieldOrderPicker.tsx",
+  "frontend/src/metabase/metadata/components/FieldOrderPicker/FieldOrderPicker.unit.spec.tsx",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/SegmentedControl.mdx",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/SegmentedControl.module.css",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/SegmentedControl.stories.tsx",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/SegmentedControl.unit.spec.tsx",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/index.tsx",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/use-item-tooltip.ts",
+  "frontend/src/metabase/utils/dom.ts"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_Components_Inputs_SegmentedControl_Overview.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 317608
+}

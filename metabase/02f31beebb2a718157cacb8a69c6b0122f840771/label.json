@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "02f31beebb2a718157cacb8a69c6b0122f840771",
+ "date": "2026-10-15",
+ "pr": "83909",
+ "title": "ActionIcon: restyle to Figma (GDGT-2457) (#83909)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "14 visual-test baselines updated"
+}

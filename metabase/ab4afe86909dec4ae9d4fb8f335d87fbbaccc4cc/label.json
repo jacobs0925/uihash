@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "ab4afe86909dec4ae9d4fb8f335d87fbbaccc4cc",
+ "date": "2026-10-09",
+ "pr": "83746",
+ "title": "GDGT-3284: Built-in tooltips for icon-only SegmentedControl segments (#83746)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "1 visual-test baselines updated"
+}

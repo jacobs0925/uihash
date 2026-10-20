@@ -1,0 +1,36 @@
+{
+ "repo": "metabase",
+ "sha": "828cd7661ce278dffc573631e75b547bfd365252",
+ "parent": "eb83504d8ee04bb9a02003572a1b1a880c1b9b4b",
+ "date": "2026-10-12",
+ "subject": "GDGT-3288: Restyle Modal to the Figma spec (#83518)",
+ "pr": "83518",
+ "components": [
+  "overlays/Modal"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_Components_Overlays_Modal_Opened.png",
+  ".loki/reference/chrome_laptop_Design_System_Colors_Default.png",
+  "frontend/src/metabase/common/components/ConfirmModal/ConfirmModal.tsx",
+  "frontend/src/metabase/common/components/Sidesheet/Sidesheet.tsx",
+  "frontend/src/metabase/common/components/Sidesheet/sidesheet.module.css",
+  "frontend/src/metabase/ui/colors/constants/base-colors.ts",
+  "frontend/src/metabase/ui/colors/constants/themes/dark.ts",
+  "frontend/src/metabase/ui/colors/constants/themes/light.ts",
+  "frontend/src/metabase/ui/colors/types/color-keys.ts",
+  "frontend/src/metabase/ui/components/overlays/Modal/Modal.config.tsx",
+  "frontend/src/metabase/ui/components/overlays/Modal/Modal.mdx",
+  "frontend/src/metabase/ui/components/overlays/Modal/Modal.module.css",
+  "frontend/src/metabase/ui/components/overlays/Modal/Modal.stories.tsx",
+  "frontend/src/metabase/ui/components/overlays/Modal/index.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_Components_Overlays_Modal_Opened.png",
+  ".loki/reference/chrome_laptop_Design_System_Colors_Default.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 11,
+ "ms": 137258
+}

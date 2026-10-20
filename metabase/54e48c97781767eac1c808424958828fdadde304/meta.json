@@ -1,0 +1,36 @@
+{
+ "repo": "metabase",
+ "sha": "54e48c97781767eac1c808424958828fdadde304",
+ "parent": "0a05bd8b839ec7c39b127b0f9abfa2dd43df3ecb",
+ "date": "2026-10-20",
+ "subject": "Improve readability of Delete permanently button on dark toasts (#84809)",
+ "pr": "84809",
+ "components": [
+  "buttons/ActionIcon",
+  "buttons/Button"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_Components_Buttons_Button_Variant_On_Dark.png",
+  ".loki/reference/chrome_laptop_Design_System_Colors_Default.png",
+  "frontend/src/metabase/common/components/BulkActionBar/BulkActionButton.tsx",
+  "frontend/src/metabase/common/components/Toaster/Toaster.module.css",
+  "frontend/src/metabase/ui/colors/constants/themes/dark.ts",
+  "frontend/src/metabase/ui/colors/constants/themes/light.ts",
+  "frontend/src/metabase/ui/colors/types/color-keys.ts",
+  "frontend/src/metabase/ui/components/buttons/ActionIcon/ActionIcon.config.tsx",
+  "frontend/src/metabase/ui/components/buttons/ActionIcon/ActionIcon.module.css",
+  "frontend/src/metabase/ui/components/buttons/Button/Button.config.tsx",
+  "frontend/src/metabase/ui/components/buttons/Button/Button.mdx",
+  "frontend/src/metabase/ui/components/buttons/Button/Button.module.css",
+  "frontend/src/metabase/ui/components/buttons/Button/Button.stories.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_Components_Buttons_Button_Variant_On_Dark.png",
+  ".loki/reference/chrome_laptop_Design_System_Colors_Default.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 45,
+ "findings": 2,
+ "ms": 329688
+}

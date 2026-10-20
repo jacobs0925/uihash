@@ -1,0 +1,37 @@
+{
+ "repo": "metabase",
+ "sha": "51cc311efb939d7c2052a519f0c631cfaf0daa64",
+ "parent": "408c465ea8b1484b5faff65cb49fa8a06ba211c4",
+ "date": "2026-10-19",
+ "subject": "GDGT-3362: Move illustrated modals to the centred Modal layout (#84635)",
+ "pr": "84635",
+ "components": [
+  "overlays/Modal"
+ ],
+ "files": [
+  "enterprise/frontend/src/metabase-enterprise/database_replication/DatabaseReplicationModal.tsx",
+  "enterprise/frontend/src/metabase-enterprise/database_replication/DatabaseReplicationSettingUp.tsx",
+  "enterprise/frontend/src/metabase-enterprise/database_replication/DatabaseReplicationSuccess.tsx",
+  "enterprise/frontend/src/metabase-enterprise/google_drive/PausedModal.tsx",
+  "enterprise/frontend/src/metabase-enterprise/metabot/components/MetabotAdmin/MetabotSettingUpModal.tsx",
+  "enterprise/frontend/src/metabase-enterprise/transforms/upsells/components/TransformsSettingUpModal.tsx",
+  "frontend/src/metabase/admin/settings/components/CloudPanel/MigrationStart.tsx",
+  "frontend/src/metabase/collections/components/CollectionHeader/CollectionUploadInfoModal.tsx",
+  "frontend/src/metabase/common/components/ErrorPages/ErrorDiagnosticModal.tsx",
+  "frontend/src/metabase/common/components/upsells/components/UpgradeModal/UpgradeModal.tsx",
+  "frontend/src/metabase/common/components/upsells/components/UpgradeModal/UpgradeModalError.tsx",
+  "frontend/src/metabase/common/components/upsells/components/UpgradeModal/UpgradeModalLoading.tsx",
+  "frontend/src/metabase/common/components/upsells/components/UpgradeModal/use-is-upgrade-setting-up.ts",
+  "frontend/src/metabase/nav/components/AboutModal/AboutModal.tsx",
+  "frontend/src/metabase/query_builder/components/SavedQuestionIntroModal.tsx",
+  "frontend/src/metabase/ui/components/overlays/Modal/Modal.mdx",
+  "frontend/src/metabase/ui/components/overlays/Modal/Modal.module.css",
+  "frontend/src/metabase/ui/components/overlays/Modal/index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 24,
+ "findings": 7,
+ "ms": 167440
+}

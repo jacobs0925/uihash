@@ -1,0 +1,33 @@
+{
+ "repo": "metabase",
+ "sha": "cd43a9aeded29ba4f2e1b7a9c3ffc6a3b2930b77",
+ "parent": "486dc8f05ba8b652caad5065f8e6ef3d2625bc25",
+ "date": "2026-10-20",
+ "subject": "GDGT-3369: Keep tooltips open while the pointer is over them (#84372)",
+ "pr": "84372",
+ "components": [
+  "overlays/Tooltip"
+ ],
+ "files": [
+  "e2e/test/scenarios/data-model/data-model-shared-3.cy.spec.ts",
+  "e2e/test/scenarios/visualizations/tabular/object_detail.cy.spec.js",
+  "frontend/src/metabase/admin/people/components/MembershipSelect/MembershipSelect.tsx",
+  "frontend/src/metabase/admin/permissions/components/PermissionsTable/PermissionsTable.tsx",
+  "frontend/src/metabase/metadata/pages/DataModelV1/components/TablePicker/components/BulkTableVisibilityToggle.tsx",
+  "frontend/src/metabase/metadata/pages/DataModelV1/components/TablePicker/components/TableVisibilityToggle.tsx",
+  "frontend/src/metabase/query_builder/components/view/sidebars/QuestionInfoSidebar/tests/premium.unit.spec.tsx",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/Tooltip.config.tsx",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/Tooltip.mdx",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/Tooltip.module.css",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/Tooltip.tsx",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/Tooltip.unit.spec.tsx",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/use-is-transition-open.ts",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/use-tooltip-event-isolation.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 2,
+ "ms": 106796
+}

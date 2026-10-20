@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "c0148822de595d3fb0288d78863b3a1c9c90acf5",
+ "date": "2026-10-15",
+ "pr": "83333",
+ "title": "Update Anchor component styles (#83333)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "2 visual-test baselines updated"
+}

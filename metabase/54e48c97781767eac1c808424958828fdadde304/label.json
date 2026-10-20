@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "54e48c97781767eac1c808424958828fdadde304",
+ "date": "2026-10-20",
+ "pr": "84809",
+ "title": "Improve readability of Delete permanently button on dark toasts (#84809)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "2 visual-test baselines updated"
+}

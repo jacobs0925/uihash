@@ -1,0 +1,34 @@
+{
+ "repo": "porsche",
+ "sha": "535209f666f8fc9b85698822efa76c193ac158a5",
+ "parent": "0e6ddcba9c41ff52d6278af7f4ecac5345410593",
+ "date": "2026-08-12",
+ "subject": "optimize live and status announcements of carousel (issue/4547) (#4654)",
+ "pr": "4654",
+ "components": [
+  "carousel"
+ ],
+ "files": [
+  "packages/components-js/tests/e2e/specs/carousel.e2e.ts",
+  "packages/components-js/tests/e2e/specs/default-dom.e2e.ts-snapshots/p-carousel.txt",
+  "packages/components-js/tests/unit/fixtures/stats.json",
+  "packages/components-react/projects/react-ssr-wrapper/tests/unit/specs/__snapshots__/react-ssr-wrapper.spec.tsx.snap",
+  "packages/components/CHANGELOG.md",
+  "packages/components/src/components/carousel/__snapshots__/carousel-styles.spec.ts.snap",
+  "packages/components/src/components/carousel/__snapshots__/carousel.spec.ts.snap",
+  "packages/components/src/components/carousel/carousel-styles.ts",
+  "packages/components/src/components/carousel/carousel-utils.spec.ts",
+  "packages/components/src/components/carousel/carousel-utils.ts",
+  "packages/components/src/components/carousel/carousel.spec.ts",
+  "packages/components/src/components/carousel/carousel.tsx",
+  "packages/storefront/projects/skill/tests/specs/skill/gates/__snapshots__/drift.spec.ts.snap",
+  "packages/storefront/src/app/(main)/components/carousel/accessibility/overview.mdx",
+  "packages/storefront/tests/e2e/fixtures/sitemap.json"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "  ([#4665](https://github.com/porsche-design-system/porsche-design-system/pull/4665))\n- `Carousel`: Live region announcing page status after control-driven navigation (prev/next, pagination, drag)\n  ([#4654](https://github.com/porsche-design-system/porsche-design-system/pull/4654))",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 610235
+}

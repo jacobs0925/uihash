@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "6c8e121595bb39cab1b73dcdc7625b9c3f981e0c",
+ "date": "2026-07-06",
+ "pr": "4562",
+ "title": "issue/4516 (#4562)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "15 visual-test baselines updated"
+}

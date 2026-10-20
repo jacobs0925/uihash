@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "a102e1d96a63795778133d9b8c5c93f4111001ca",
+ "date": "2026-07-15",
+ "pr": "4586",
+ "title": "feat/popover-patterns (#4586)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "15 visual-test baselines updated"
+}

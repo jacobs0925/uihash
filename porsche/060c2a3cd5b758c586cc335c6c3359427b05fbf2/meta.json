@@ -1,0 +1,37 @@
+{
+ "repo": "porsche",
+ "sha": "060c2a3cd5b758c586cc335c6c3359427b05fbf2",
+ "parent": "62c9da45996e8881f05c139942cc879f9be51678",
+ "date": "2026-05-12",
+ "subject": "Extract shared dialog logic into isolated component (issue/4364) (#4399)",
+ "pr": "4399",
+ "components": [
+  "flyout",
+  "modal",
+  "sheet"
+ ],
+ "files": [
+  "packages/component-meta/scripts/generateComponentMeta.ts",
+  "packages/components-js/tests/unit/fixtures/stats.json",
+  "packages/components/scripts/generateDSRComponents.ts",
+  "packages/components/src/components/common/dialog-base/dialog-base-styles.ts",
+  "packages/components/src/components/common/dialog-base/dialog-base.tsx",
+  "packages/components/src/components/flyout/flyout-styles.ts",
+  "packages/components/src/components/flyout/flyout-utils.ts",
+  "packages/components/src/components/flyout/flyout.tsx",
+  "packages/components/src/components/modal/modal-styles.ts",
+  "packages/components/src/components/modal/modal-utils.ts",
+  "packages/components/src/components/modal/modal.tsx",
+  "packages/components/src/components/sheet/sheet-styles.ts",
+  "packages/components/src/components/sheet/sheet.tsx",
+  "packages/components/src/styles/dialog-styles.ts",
+  "packages/components/tests/unit/helpers/validateCssAndMatchSnapshot.ts",
+  "packages/storefront/src/app/ag-grid/theme/page.mdx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 556547
+}

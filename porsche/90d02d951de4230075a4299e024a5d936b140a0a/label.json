@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "90d02d951de4230075a4299e024a5d936b140a0a",
+ "date": "2026-06-09",
+ "pr": "4490",
+ "title": "fix(components): use clip-path instead of overflow clip in dialog base to fix Chromium backdrop-filter rendering | sas (#4490)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "21 visual-test baselines updated"
+}

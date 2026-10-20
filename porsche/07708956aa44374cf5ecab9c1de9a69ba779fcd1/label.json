@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "07708956aa44374cf5ecab9c1de9a69ba779fcd1",
+ "date": "2026-06-03",
+ "pr": "4453",
+ "title": "Improve visual coherence between App, Car and Web DS (issue/4447) (#4453)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "177 visual-test baselines updated"
+}

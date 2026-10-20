@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "70b986feeb0ca4b3c252f959eda5255379cd92d4",
+ "date": "2026-06-04",
+ "pr": "4478",
+ "title": "Add indent for summary in Accordion (Issue/4471) (#4478)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "15 visual-test baselines updated"
+}

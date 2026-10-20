@@ -1,0 +1,22 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "88469963ac14528aad8295c4dbb141cc32464aa3",
+ "parent": "01687d7f445e5a9b74b93f15613328d4f1387648",
+ "date": "2026-10-20",
+ "subject": "feat(Skeleton): add --g-skeleton-background-color CSS variable (#2912)",
+ "pr": "2912",
+ "components": [
+  "Skeleton"
+ ],
+ "files": [
+  "src/components/Skeleton/README-ru.md",
+  "src/components/Skeleton/README.md",
+  "src/components/Skeleton/Skeleton.scss"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 0,
+ "ms": 57849
+}

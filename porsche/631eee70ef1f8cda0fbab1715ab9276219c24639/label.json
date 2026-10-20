@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "631eee70ef1f8cda0fbab1715ab9276219c24639",
+ "date": "2026-07-20",
+ "pr": "4602",
+ "title": "fix(components): focus ring color of dialog elements | sas (#4602)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "33 visual-test baselines updated"
+}

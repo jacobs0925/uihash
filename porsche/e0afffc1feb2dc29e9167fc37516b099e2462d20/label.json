@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "e0afffc1feb2dc29e9167fc37516b099e2462d20",
+ "date": "2026-07-10",
+ "pr": "4578",
+ "title": "fix(components): enable user-select text for dialog elements | sas | #4577 (#4578)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "## [4.4.0-rc.1] - 2026-07-10\n\n### Fixed\n\n- `Flyout`, `Modal`, `Sheet` ([#4578](https://github.com/porsche-design-system/porsche-design-system/pull/4578)):\n  - enable selecting text within dialog element\n  - prevent dialog from being dismissed when a text selection started inside the dialog is releas"
+}

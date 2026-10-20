@@ -1,0 +1,24 @@
+{
+ "repo": "porsche",
+ "sha": "615834e55b019d4f2491ec555e04ac979be5d52a",
+ "parent": "c71915eba01c1b342d3e5b40519576077e069bf8",
+ "date": "2026-05-21",
+ "subject": "fix overflow bug of accordion (issue/4444) (#4449)",
+ "pr": "4449",
+ "components": [
+  "accordion"
+ ],
+ "files": [
+  "packages/components-js/tests/e2e/specs/accordion.e2e.ts",
+  "packages/components-react/projects/react-ssr-wrapper/tests/unit/specs/__snapshots__/react-ssr-wrapper.spec.tsx.snap",
+  "packages/components/CHANGELOG.md",
+  "packages/components/src/components/accordion/__snapshots__/accordion-styles.spec.ts.snap",
+  "packages/components/src/components/accordion/accordion-styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "- `Accordion`: not causing scrollbar on outer scroll container (e.g. flyout) when closed with position:absolute slotted content\n  ([#4449](https://github.com/porsche-design-system/porsche-design-system/pull/4449))",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 495256
+}

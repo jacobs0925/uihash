@@ -1,0 +1,28 @@
+{
+ "repo": "porsche",
+ "sha": "16c78f4eabcf9fa2cedf51fb1f19a420f7f960dd",
+ "parent": "7f3903dd6f3ba19b737a69ecab674c82dce3bc6b",
+ "date": "2026-08-11",
+ "subject": "fix(components): z-index issue of header slot | oh | #3950 (#4648)",
+ "pr": "4648",
+ "components": [
+  "button-tile",
+  "link-tile"
+ ],
+ "files": [
+  "packages/components-js/tests/e2e/specs/button-tile.e2e.ts",
+  "packages/components-js/tests/e2e/specs/link-tile.e2e.ts",
+  "packages/components-react/projects/react-ssr-wrapper/tests/unit/specs/__snapshots__/react-ssr-wrapper.spec.tsx.snap",
+  "packages/components/CHANGELOG.md",
+  "packages/components/src/components/button-tile/__snapshots__/button-tile-styles.spec.ts.snap",
+  "packages/components/src/components/button-tile/button-tile-styles.ts",
+  "packages/components/src/components/link-tile/__snapshots__/link-tile-styles.spec.ts.snap",
+  "packages/components/src/components/link-tile/link-tile-styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "- `Link Tile` / `Button Tile`: Interactive content in the header slot (e.g. tags with links/buttons) is clickable again\n  ([#4648](https://github.com/porsche-design-system/porsche-design-system/pull/4648))",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 749203
+}

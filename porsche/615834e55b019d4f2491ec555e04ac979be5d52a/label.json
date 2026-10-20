@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "615834e55b019d4f2491ec555e04ac979be5d52a",
+ "date": "2026-05-21",
+ "pr": "4449",
+ "title": "fix overflow bug of accordion (issue/4444) (#4449)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "- `Accordion`: not causing scrollbar on outer scroll container (e.g. flyout) when closed with position:absolute slotted content\n  ([#4449](https://github.com/porsche-design-system/porsche-design-system/pull/4449))"
+}

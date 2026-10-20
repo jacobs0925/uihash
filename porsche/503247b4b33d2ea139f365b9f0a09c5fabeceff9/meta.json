@@ -1,0 +1,28 @@
+{
+ "repo": "porsche",
+ "sha": "503247b4b33d2ea139f365b9f0a09c5fabeceff9",
+ "parent": "affcdd9f5b1228e9134c99509c29edbc13267586",
+ "date": "2026-07-23",
+ "subject": "Selected state of Segmented Control not A11Y compliant with hover state (Issue/4594) (#4610)",
+ "pr": "4610",
+ "components": [
+  "segmented-control"
+ ],
+ "files": [
+  "packages/components-js/tests/vrt/specs/__screenshots__/segmented-control-1000-hover-chrome.png",
+  "packages/components-react/projects/react-ssr-wrapper/tests/unit/specs/__snapshots__/react-ssr-wrapper.spec.tsx.snap",
+  "packages/components/CHANGELOG.md",
+  "packages/components/src/components/segmented-control/segmented-control-item/__snapshots__/segmented-control-item-styles.spec.ts.snap",
+  "packages/components/src/components/segmented-control/segmented-control-item/segmented-control-item-styles.ts",
+  "packages/storefront/src/components/layout/Canvas.tsx",
+  "packages/storefront/tests/a11y/specs/accessibility.a11y.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/components-js/tests/vrt/specs/__screenshots__/segmented-control-1000-hover-chrome.png"
+ ],
+ "changeset": "### Fixed\n\n- `Segmented Control`: Improved `hover/selected` color visibility of items\n  ([#4610](https://github.com/porsche-design-system/porsche-design-system/pull/4610))\n",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 472224
+}

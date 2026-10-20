@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "16c78f4eabcf9fa2cedf51fb1f19a420f7f960dd",
+ "date": "2026-08-11",
+ "pr": "4648",
+ "title": "fix(components): z-index issue of header slot | oh | #3950 (#4648)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "- `Link Tile` / `Button Tile`: Interactive content in the header slot (e.g. tags with links/buttons) is clickable again\n  ([#4648](https://github.com/porsche-design-system/porsche-design-system/pull/4648))"
+}

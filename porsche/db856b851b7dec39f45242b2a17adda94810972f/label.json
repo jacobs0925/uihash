@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "db856b851b7dec39f45242b2a17adda94810972f",
+ "date": "2026-08-04",
+ "pr": "4563",
+ "title": "p-select & p-multi-select a11y improvements (Issue/4113) (#4563)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "### Added\n\n- `Select`, `Multi Select`: Announcement of filter results in screen readers (currently only in English)\n  ([#4563](https://github.com/porsche-design-system/porsche-design-system/pull/4563))\n\n### Fixed\n\n- `Multi Select`: Announcement of the active/selected option in screen readers\n  ([#45"
+}

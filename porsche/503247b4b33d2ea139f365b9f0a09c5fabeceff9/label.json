@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "503247b4b33d2ea139f365b9f0a09c5fabeceff9",
+ "date": "2026-07-23",
+ "pr": "4610",
+ "title": "Selected state of Segmented Control not A11Y compliant with hover state (Issue/4594) (#4610)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "1 visual-test baselines updated"
+}

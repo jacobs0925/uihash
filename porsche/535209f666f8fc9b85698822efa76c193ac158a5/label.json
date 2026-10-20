@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "535209f666f8fc9b85698822efa76c193ac158a5",
+ "date": "2026-08-12",
+ "pr": "4654",
+ "title": "optimize live and status announcements of carousel (issue/4547) (#4654)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "([#4665](https://github.com/porsche-design-system/porsche-design-system/pull/4665))\n- `Carousel`: Live region announcing page status after control-driven navigation (prev/next, pagination, drag)\n  ([#4654](https://github.com/porsche-design-system/porsche-design-system/pull/4654))"
+}

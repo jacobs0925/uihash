@@ -1,0 +1,24 @@
+{
+ "repo": "fluentui",
+ "sha": "197919507ca78192feebe4eba5e731da97725c62",
+ "parent": "7afb77e5e195ca311f620b68c283d801a841a706",
+ "date": "2025-12-02",
+ "subject": "fix(react-button): update active state styles to include keyboard press events (#35514)",
+ "pr": "35514",
+ "components": [
+  "react-button"
+ ],
+ "files": [
+  "change/@fluentui-react-button-35ed7d98-2adf-4091-bc6d-24c96596ae89.json",
+  "packages/react-components/react-button/library/src/components/Button/useButtonStyles.styles.ts",
+  "packages/react-components/react-button/library/src/components/CompoundButton/useCompoundButtonStyles.styles.ts",
+  "packages/react-components/react-button/library/src/components/SplitButton/useSplitButtonStyles.styles.ts",
+  "packages/react-components/react-button/library/src/components/ToggleButton/useToggleButtonStyles.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix: update active state styles to include keyboard press events",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 32,
+ "ms": 168593
+}

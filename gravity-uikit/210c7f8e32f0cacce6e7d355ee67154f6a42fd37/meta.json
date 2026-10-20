@@ -1,0 +1,21 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "210c7f8e32f0cacce6e7d355ee67154f6a42fd37",
+ "parent": "c240b056157b4c37616a3d330ac391d79f1efbe5",
+ "date": "2026-05-20",
+ "subject": "fix(Sheet): fix height of scroll container when top bar is hidden (#2680)",
+ "pr": "2680",
+ "components": [
+  "Sheet"
+ ],
+ "files": [
+  "src/components/Sheet/Sheet.scss",
+  "src/components/Sheet/Sheet.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 72162
+}

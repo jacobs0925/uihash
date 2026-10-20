@@ -1,0 +1,47 @@
+{
+ "repo": "retail-ui",
+ "sha": "1878927dcd365582023ffff9f95113cf0abc325b",
+ "parent": "de02c6bf4ee6f4c9ecb096c72f967ec64426adcc",
+ "date": "2026-05-26",
+ "subject": "feat(Toast): add adaptive layout for mobile",
+ "components": [
+  "Toast"
+ ],
+ "files": [
+  "packages/react-ui/.creevey/images/SingleToast/static default method with action/use toast static-default-theme-with-action/chrome2022.png",
+  "packages/react-ui/.creevey/images/SingleToast/static default method with action/use toast static-default-theme-with-action/chrome2022Dark.png",
+  "packages/react-ui/.creevey/images/Toast/Mobile Simple Very Long Text With Action/toastShown/chromeMobile.png",
+  "packages/react-ui/.creevey/images/Toast/Mobile Simple Very Long Text/toastShown/chromeMobile.png",
+  "packages/react-ui/.creevey/images/Toast/Mobile Simple With Action/toastShown/chromeMobile.png",
+  "packages/react-ui/.creevey/images/Toast/Toast With Cross/idle/chrome2022/instanceToast.png",
+  "packages/react-ui/.creevey/images/Toast/Toast With Cross/idle/chrome2022Dark/instanceToast.png",
+  "packages/react-ui/.creevey/images/Toast/Toast With Cross/idle/firefox2022/instanceToast.png",
+  "packages/react-ui/.creevey/images/Toast/Toast With Cross/idle/firefox2022Dark/instanceToast.png",
+  "packages/react-ui/.creevey/images/Toast/mobile simple notification/toastShown/chromeMobile.png",
+  "packages/react-ui/components/Toast/ToastView.styles.ts",
+  "packages/react-ui/components/Toast/ToastView.tsx",
+  "packages/react-ui/components/Toast/__creevey__/Toast.creevey.mts",
+  "packages/react-ui/components/Toast/__stories__/Toast.stories.tsx",
+  "packages/react-ui/internal/CloseButtonIcon/CloseButtonIcon.tsx",
+  "packages/react-ui/internal/themes/BasicTheme.ts",
+  "packages/react-ui/internal/themes/DarkTheme6_1.ts",
+  "packages/react-ui/internal/themes/LightTheme6_1.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/react-ui/.creevey/images/SingleToast/static default method with action/use toast static-default-theme-with-action/chrome2022.png",
+  "packages/react-ui/.creevey/images/SingleToast/static default method with action/use toast static-default-theme-with-action/chrome2022Dark.png",
+  "packages/react-ui/.creevey/images/Toast/Mobile Simple Very Long Text With Action/toastShown/chromeMobile.png",
+  "packages/react-ui/.creevey/images/Toast/Mobile Simple Very Long Text/toastShown/chromeMobile.png",
+  "packages/react-ui/.creevey/images/Toast/Mobile Simple With Action/toastShown/chromeMobile.png",
+  "packages/react-ui/.creevey/images/Toast/Toast With Cross/idle/chrome2022/instanceToast.png",
+  "packages/react-ui/.creevey/images/Toast/Toast With Cross/idle/chrome2022Dark/instanceToast.png",
+  "packages/react-ui/.creevey/images/Toast/Toast With Cross/idle/firefox2022/instanceToast.png",
+  "packages/react-ui/.creevey/images/Toast/Toast With Cross/idle/firefox2022Dark/instanceToast.png",
+  "packages/react-ui/.creevey/images/Toast/mobile simple notification/toastShown/chromeMobile.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 24,
+ "findings": 8,
+ "ms": 69545
+}

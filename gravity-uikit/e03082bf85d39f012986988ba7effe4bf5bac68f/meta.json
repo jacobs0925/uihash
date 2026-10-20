@@ -1,0 +1,35 @@
+{
+ "repo": "gravity-uikit",
+ "sha": "e03082bf85d39f012986988ba7effe4bf5bac68f",
+ "parent": "4469f06e57e074aa6f6c19bcac1f8b4681252866",
+ "date": "2026-05-14",
+ "subject": "fix(palette): update pallete icons size (#2672)",
+ "pr": "2672",
+ "components": [
+  "Palette"
+ ],
+ "files": [
+  "src/components/Palette/Palette.scss",
+  "src/components/Palette/__snapshots__/Palette.visual.test.tsx-snapshots/Palette-smoke-hover-1-chromium-linux.png",
+  "src/components/Palette/__snapshots__/Palette.visual.test.tsx-snapshots/Palette-smoke-hover-2-chromium-linux.png",
+  "src/components/Palette/__snapshots__/Palette.visual.test.tsx-snapshots/Palette-smoke-hover-3-chromium-linux.png",
+  "src/components/Palette/__snapshots__/Palette.visual.test.tsx-snapshots/Palette-smoke-hover-4-chromium-linux.png",
+  "src/components/Palette/__snapshots__/Palette.visual.test.tsx-snapshots/Palette-smoke-hover-5-chromium-linux.png",
+  "src/components/Palette/__snapshots__/Palette.visual.test.tsx-snapshots/Palette-smoke-hover-6-chromium-linux.png",
+  "src/components/Palette/__snapshots__/Palette.visual.test.tsx-snapshots/Palette-smoke-smoke-1-chromium-linux.png"
+ ],
+ "snapshotsUpdated": [
+  "src/components/Palette/__snapshots__/Palette.visual.test.tsx-snapshots/Palette-smoke-hover-1-chromium-linux.png",
+  "src/components/Palette/__snapshots__/Palette.visual.test.tsx-snapshots/Palette-smoke-hover-2-chromium-linux.png",
+  "src/components/Palette/__snapshots__/Palette.visual.test.tsx-snapshots/Palette-smoke-hover-3-chromium-linux.png",
+  "src/components/Palette/__snapshots__/Palette.visual.test.tsx-snapshots/Palette-smoke-hover-4-chromium-linux.png",
+  "src/components/Palette/__snapshots__/Palette.visual.test.tsx-snapshots/Palette-smoke-hover-5-chromium-linux.png",
+  "src/components/Palette/__snapshots__/Palette.visual.test.tsx-snapshots/Palette-smoke-hover-6-chromium-linux.png",
+  "src/components/Palette/__snapshots__/Palette.visual.test.tsx-snapshots/Palette-smoke-smoke-1-chromium-linux.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 11,
+ "ms": 113573
+}

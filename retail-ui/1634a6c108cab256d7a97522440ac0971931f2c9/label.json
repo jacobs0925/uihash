@@ -1,0 +1,12 @@
+{
+ "app": "retail-ui",
+ "group": "retail-ui",
+ "sha": "1634a6c108cab256d7a97522440ac0971931f2c9",
+ "date": "2026-09-07",
+ "pr": null,
+ "title": "Revert \"fix(Button): give icon-only buttons square shape\"",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "70 visual-test baselines updated"
+}

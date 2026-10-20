@@ -1,0 +1,12 @@
+{
+ "app": "retail-ui",
+ "group": "retail-ui",
+ "sha": "0a013dafdc746c4c03ee3a09b8851490a1190fde",
+ "date": "2026-07-30",
+ "pr": null,
+ "title": "feat(Radio, Toggle, Checkbox): add comment prop",
+ "label": 1,
+ "source": "revert",
+ "confidence": 0.9,
+ "evidence": "reverted by 24cf88d9 \"Revert \"feat(Radio, Toggle, Checkbox): add comment prop\"\""
+}

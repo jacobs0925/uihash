@@ -1,0 +1,12 @@
+{
+ "app": "fluentui",
+ "group": "fluentui",
+ "sha": "430e23b560d11c778254921d10365777a2728ec4",
+ "date": "2025-11-10",
+ "pr": "35469",
+ "title": "chore: Bump @griffel/react package (#35469)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "patch: chore: Bump @griffel/react package.\nprerelease: chore: Bump @griffel/react package.\npatch: chore: Bump @griffel/react package.\npatch: chore: Bump @griffel/react package.\npatch: chore: Bump @griffel/react package.\npatch: chore: Bump @griffel/react package.\npatch: chore: Bump @griffel/react pac"
+}

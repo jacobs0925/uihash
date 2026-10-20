@@ -1,0 +1,27 @@
+{
+ "repo": "fluentui",
+ "sha": "45e4dba95029a017f0820e2fb6826b8e3d4979a0",
+ "parent": "abdd45ae1cfe631a71e2341c09faadc551642c63",
+ "date": "2025-12-01",
+ "subject": "feat(react-switch): add small variant to the Switch component (#35505)",
+ "pr": "35505",
+ "components": [
+  "react-switch"
+ ],
+ "files": [
+  "apps/vr-tests-react-components/src/stories/Switch.stories.tsx",
+  "change/@fluentui-react-switch-7f4f1aed-8afe-40e1-886d-9eab79ea7cf4.json",
+  "packages/react-components/react-switch/library/etc/react-switch.api.md",
+  "packages/react-components/react-switch/library/src/components/Switch/Switch.types.ts",
+  "packages/react-components/react-switch/library/src/components/Switch/useSwitch.tsx",
+  "packages/react-components/react-switch/library/src/components/Switch/useSwitchStyles.styles.ts",
+  "packages/react-components/react-switch/stories/src/Switch/SwitchSize.stories.tsx",
+  "packages/react-components/react-switch/stories/src/Switch/index.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "minor: feat: add small variant to the Switch component",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 75609
+}

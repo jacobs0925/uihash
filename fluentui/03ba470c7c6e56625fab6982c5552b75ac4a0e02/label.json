@@ -1,0 +1,12 @@
+{
+ "app": "fluentui",
+ "group": "fluentui",
+ "sha": "03ba470c7c6e56625fab6982c5552b75ac4a0e02",
+ "date": "2025-10-22",
+ "pr": "35361",
+ "title": "fix(react-checkbox): avoid stretching checkbox content (#35361)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "patch: fix: add fit-content to max-width"
+}

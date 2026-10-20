@@ -1,0 +1,12 @@
+{
+ "app": "retail-ui",
+ "group": "retail-ui",
+ "sha": "6abebeba5e710a0f7f5bb46d0e07489e9c8813e6",
+ "date": "2025-11-10",
+ "pr": null,
+ "title": "feat: remove feature flags",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "76 visual-test baselines updated"
+}

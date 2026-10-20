@@ -1,0 +1,23 @@
+{
+ "repo": "fluentui",
+ "sha": "77df4fe3220557c4f72d6ce8492b0d198cc1119d",
+ "parent": "60123376d329582d3eb0e33298452027b6b11706",
+ "date": "2025-11-03",
+ "subject": "refactor(react-nav): use Rotate component for icon motion (#35433)",
+ "pr": "35433",
+ "components": [
+  "react-nav"
+ ],
+ "files": [
+  "change/@fluentui-react-nav-11d31fb9-979d-4d29-910a-28efbb156705.json",
+  "packages/react-components/react-nav/library/package.json",
+  "packages/react-components/react-nav/library/src/components/NavCategoryItem/useNavCategoryItem.styles.ts",
+  "packages/react-components/react-nav/library/src/components/NavCategoryItem/useNavCategoryItem.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: refactor(react-nav): use Rotate component for icon motion",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 2,
+ "ms": 85047
+}

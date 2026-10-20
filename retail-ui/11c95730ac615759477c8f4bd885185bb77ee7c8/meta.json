@@ -1,0 +1,20 @@
+{
+ "repo": "retail-ui",
+ "sha": "11c95730ac615759477c8f4bd885185bb77ee7c8",
+ "parent": "6ea94c7820d90e4fc35116f87a78976ede0202e9",
+ "date": "2026-06-24",
+ "subject": "fix(DatePicker,ComboBox,Input): show `cursor: default` & fix selection for disabled state",
+ "components": [
+  "Input"
+ ],
+ "files": [
+  "packages/react-ui/components/Input/Input.styles.ts",
+  "packages/react-ui/internal/InputLikeText/InputLikeText.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 1,
+ "ms": 144596
+}

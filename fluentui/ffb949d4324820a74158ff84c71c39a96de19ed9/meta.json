@@ -1,0 +1,26 @@
+{
+ "repo": "fluentui",
+ "sha": "ffb949d4324820a74158ff84c71c39a96de19ed9",
+ "parent": "52217c6abc71c0c8c3e537f1e2648fb542c30ee0",
+ "date": "2025-11-06",
+ "subject": "fix(menu-grid-preview): style updates on group header and item (#35463)",
+ "pr": "35463",
+ "components": [
+  "react-menu-grid-preview"
+ ],
+ "files": [
+  "change/@fluentui-react-menu-grid-preview-e1e8e251-8e62-413e-b424-48c92d4ea159.json",
+  "packages/react-components/react-menu-grid-preview/library/etc/react-menu-grid-preview.api.md",
+  "packages/react-components/react-menu-grid-preview/library/src/MenuGridGroupHeader.ts",
+  "packages/react-components/react-menu-grid-preview/library/src/components/MenuGridGroupHeader/index.ts",
+  "packages/react-components/react-menu-grid-preview/library/src/components/MenuGridGroupHeader/useMenuGridGroupHeaderStyles.styles.ts",
+  "packages/react-components/react-menu-grid-preview/library/src/components/MenuGridItem/useMenuGridItemStyles.styles.ts",
+  "packages/react-components/react-menu-grid-preview/library/src/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: Update styles and rename menuGridGroupHeaderClassNames to camel case",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 94090
+}

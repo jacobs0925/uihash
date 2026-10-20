@@ -1,0 +1,33 @@
+{
+ "repo": "fluentui",
+ "sha": "71001d8bd93b7586ccfc35c8f79c391ab42afd5c",
+ "parent": "83b5ecf318a3ded91b78b3476b7375ed9c456833",
+ "date": "2025-10-22",
+ "subject": "feat(react-dialog): add support to keep dialog mounted on close (#35211)",
+ "pr": "35211",
+ "components": [
+  "react-dialog"
+ ],
+ "files": [
+  "change/@fluentui-react-dialog-f72ea388-98fb-4fdd-b799-9f56a88adf60.json",
+  "packages/react-components/react-dialog/library/etc/react-dialog.api.md",
+  "packages/react-components/react-dialog/library/src/components/Dialog/Dialog.cy.tsx",
+  "packages/react-components/react-dialog/library/src/components/Dialog/Dialog.types.ts",
+  "packages/react-components/react-dialog/library/src/components/Dialog/useDialog.ts",
+  "packages/react-components/react-dialog/library/src/components/Dialog/useDialogContextValues.ts",
+  "packages/react-components/react-dialog/library/src/components/DialogSurface/DialogSurface.types.ts",
+  "packages/react-components/react-dialog/library/src/components/DialogSurface/useDialogSurface.ts",
+  "packages/react-components/react-dialog/library/src/components/DialogSurface/useDialogSurfaceStyles.styles.ts",
+  "packages/react-components/react-dialog/library/src/contexts/dialogContext.ts",
+  "packages/react-components/react-dialog/stories/project.json",
+  "packages/react-components/react-dialog/stories/src/Dialog/DialogKeepRenderedInTheDOM.stories.tsx",
+  "packages/react-components/react-dialog/stories/src/Dialog/DialogSSR.md",
+  "packages/react-components/react-dialog/stories/src/Dialog/index.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "minor: feat: add support to keep Dialog mounter on close",
+ "recipe": 1,
+ "stories": 45,
+ "findings": 0,
+ "ms": 74601
+}

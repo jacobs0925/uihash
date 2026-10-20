@@ -1,0 +1,25 @@
+{
+ "repo": "fluentui",
+ "sha": "276096c349d3074eb8ebab44379a7367527c507e",
+ "parent": "75fd73137fdf2f00e679c23568cad3d876a00799",
+ "date": "2026-02-12",
+ "subject": "fix(react-nav): update NavSubItemGroup motion handling and fix styles (#35743)",
+ "pr": "35743",
+ "components": [
+  "react-nav"
+ ],
+ "files": [
+  "change/@fluentui-react-nav-81032254-8256-4072-b14d-b3abe2fae93a.json",
+  "packages/react-components/react-nav/library/etc/react-nav.api.md",
+  "packages/react-components/react-nav/library/src/components/NavSubItemGroup/NavSubItemGroup.types.ts",
+  "packages/react-components/react-nav/library/src/components/NavSubItemGroup/useNavSubItemGroup.ts",
+  "packages/react-components/react-nav/library/src/components/NavSubItemGroup/useNavSubItemGroupStyles.styles.ts",
+  "packages/react-components/react-nav/stories/src/Nav/Basic.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix: update NavSubItemGroup motion handling and fix styles",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 1,
+ "ms": 88752
+}

@@ -1,0 +1,42 @@
+{
+ "repo": "retail-ui",
+ "sha": "0456e7a9db57c1644b17abd35efee2910981e88e",
+ "parent": "786cfd819d288791b59151857a7f0216eaadb68e",
+ "date": "2026-06-08",
+ "subject": "feat(TokenInput): add adaptive layout for mobile",
+ "components": [
+  "TokenInput"
+ ],
+ "files": [
+  "packages/react-ui/.creevey/images/DateRangePicker/Mobile Picker/MobilePicker on iphone opened/chromeMobile/MobilePicker on iphone opened.png",
+  "packages/react-ui/.creevey/images/ThemeVersions/6_0/TokenInput mobile 6.0/chromeMobile.png",
+  "packages/react-ui/.creevey/images/TokenInput/Mobile Simple/chromeMobile.png",
+  "packages/react-ui/.creevey/images/TokenInput/validate with onUnexpectedInput/token select/chrome2022/withSelectedTokens.png",
+  "packages/react-ui/.creevey/images/TokenInput/validate with onUnexpectedInput/token select/chrome2022Dark/withSelectedTokens.png",
+  "packages/react-ui/components/Autocomplete/__docs__/Autocomplete.mdx",
+  "packages/react-ui/components/ComboBox/__docs__/ComboBox.mdx",
+  "packages/react-ui/components/DateRangePicker/__creevey__/DateRangePicker.creevey.mts",
+  "packages/react-ui/components/SingleToast/__docs__/SingleToast.mdx",
+  "packages/react-ui/components/Toast/__docs__/Toast.mdx",
+  "packages/react-ui/components/TokenInput/TokenInput.styles.ts",
+  "packages/react-ui/components/TokenInput/TokenInput.tsx",
+  "packages/react-ui/components/TokenInput/TokenInputMenu.tsx",
+  "packages/react-ui/components/TokenInput/TokenInputMobileMenu.tsx",
+  "packages/react-ui/components/TokenInput/TokenInputReducer.ts",
+  "packages/react-ui/components/TokenInput/__docs__/TokenInput.mdx",
+  "packages/react-ui/components/TokenInput/__stories__/TokenInput.stories.tsx",
+  "packages/react-ui/components/TokenInput/__tests__/TokenInput-test.tsx"
+ ],
+ "snapshotsUpdated": [
+  "packages/react-ui/.creevey/images/DateRangePicker/Mobile Picker/MobilePicker on iphone opened/chromeMobile/MobilePicker on iphone opened.png",
+  "packages/react-ui/.creevey/images/ThemeVersions/6_0/TokenInput mobile 6.0/chromeMobile.png",
+  "packages/react-ui/.creevey/images/TokenInput/Mobile Simple/chromeMobile.png",
+  "packages/react-ui/.creevey/images/TokenInput/validate with onUnexpectedInput/token select/chrome2022/withSelectedTokens.png",
+  "packages/react-ui/.creevey/images/TokenInput/validate with onUnexpectedInput/token select/chrome2022Dark/withSelectedTokens.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 120940
+}

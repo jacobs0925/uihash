@@ -1,0 +1,26 @@
+{
+ "repo": "fluentui",
+ "sha": "f9a6d8435efa5aff110f335d10e2fc51656167ee",
+ "parent": "4e21b54d65b4951c8cba94f8a15d16568400b43c",
+ "date": "2026-03-02",
+ "subject": "feat(react-switch): add `disabledFocusable` prop (#35799)",
+ "pr": "35799",
+ "components": [
+  "react-switch"
+ ],
+ "files": [
+  "change/@fluentui-react-switch-disabledFocusable.json",
+  "packages/react-components/react-switch/library/etc/react-switch.api.md",
+  "packages/react-components/react-switch/library/src/components/Switch/Switch.test.tsx",
+  "packages/react-components/react-switch/library/src/components/Switch/Switch.types.ts",
+  "packages/react-components/react-switch/library/src/components/Switch/useSwitch.tsx",
+  "packages/react-components/react-switch/library/src/components/Switch/useSwitchStyles.styles.ts",
+  "packages/react-components/react-switch/stories/src/Switch/SwitchDisabled.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "minor: feat: add disabledFocusable prop to Switch component",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 2,
+ "ms": 86746
+}

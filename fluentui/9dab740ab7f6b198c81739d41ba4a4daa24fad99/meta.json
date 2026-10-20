@@ -1,0 +1,30 @@
+{
+ "repo": "fluentui",
+ "sha": "9dab740ab7f6b198c81739d41ba4a4daa24fad99",
+ "parent": "702b5e6a23d12e92396d643de83ba543d03c8263",
+ "date": "2025-10-24",
+ "subject": "chore(MenuGridRow): base styles (#34948)",
+ "pr": "34948",
+ "components": [
+  "react-menu-grid-preview"
+ ],
+ "files": [
+  "change/@fluentui-react-menu-grid-preview-5bab2334-d816-4bff-a7fd-ed1244b730c2.json",
+  "packages/react-components/react-menu-grid-preview/library/package.json",
+  "packages/react-components/react-menu-grid-preview/library/src/components/MenuGridCell/useMenuGridCell.ts",
+  "packages/react-components/react-menu-grid-preview/library/src/components/MenuGridCell/useMenuGridCellStyles.styles.ts",
+  "packages/react-components/react-menu-grid-preview/library/src/components/MenuGridItem/useMenuGridItemStyles.styles.ts",
+  "packages/react-components/react-menu-grid-preview/library/src/components/MenuGridRow/useMenuGridRowStyles.styles.ts",
+  "packages/react-components/react-menu-grid-preview/stories/src/MenuGrid/MenuGridAsymmetric.stories.tsx",
+  "packages/react-components/react-menu-grid-preview/stories/src/MenuGrid/MenuGridDefault.stories.tsx",
+  "packages/react-components/react-menu-grid-preview/stories/src/MenuGrid/MenuGridGroupingItems.stories.tsx",
+  "packages/react-components/react-menu-grid-preview/stories/src/MenuGrid/MenuGridMoreComplexMenus.stories.tsx",
+  "packages/react-components/react-menu-grid-preview/stories/src/MenuGrid/MenuGridWithSubmenu.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: feat: add styles for MenuGridRow",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 45322
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "retail-ui",
+ "sha": "95840b624e691aef0ff94f10fd990f2aba723cfe",
+ "parent": "51e8377913e0e54b03d49cfa53b83bd575fa93f4",
+ "date": "2026-03-31",
+ "subject": "chore: fix lint",
+ "components": [
+  "FileUploader"
+ ],
+ "files": [
+  "packages/react-ui/components/FileUploader/FileUploader.styles.ts",
+  "packages/react-ui/components/FileUploader/FileUploader.tsx",
+  "packages/react-ui/components/FileUploader/__stories__/FileUploader.stories.tsx",
+  "packages/react-ui/lib/__tests__/isRefableElement.test.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 132666
+}

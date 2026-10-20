@@ -1,0 +1,12 @@
+{
+ "app": "retail-ui",
+ "group": "retail-ui",
+ "sha": "de02c6bf4ee6f4c9ecb096c72f967ec64426adcc",
+ "date": "2026-05-25",
+ "pr": null,
+ "title": "fix(MobilePopup): update mobile layout",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "33 visual-test baselines updated"
+}

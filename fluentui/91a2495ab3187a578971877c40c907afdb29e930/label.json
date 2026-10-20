@@ -1,0 +1,12 @@
+{
+ "app": "fluentui",
+ "group": "fluentui",
+ "sha": "91a2495ab3187a578971877c40c907afdb29e930",
+ "date": "2025-12-11",
+ "pr": "35561",
+ "title": "fix(react-field): constrain Field label size to prevent empty space click activation (#35561)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "patch: fix: constrain Field label size to prevent empty space click activation"
+}

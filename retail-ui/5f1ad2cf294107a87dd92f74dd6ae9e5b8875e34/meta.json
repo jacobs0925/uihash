@@ -1,0 +1,31 @@
+{
+ "repo": "retail-ui",
+ "sha": "5f1ad2cf294107a87dd92f74dd6ae9e5b8875e34",
+ "parent": "701f0c03b0d0925e2de73d3b84c8c49e4ab4a277",
+ "date": "2026-08-05",
+ "subject": "refactor: bump theme to 6.4",
+ "components": [
+  "Input",
+  "SidePage"
+ ],
+ "files": [
+  "packages/react-ui/components/Button/Button.tsx",
+  "packages/react-ui/components/Input/InputLayout/InputLayout.styles.ts",
+  "packages/react-ui/components/Input/InputLayout/InputLayoutAsideText.tsx",
+  "packages/react-ui/components/SidePage/SidePage.styles.ts",
+  "packages/react-ui/components/SidePage/SidePageHeader.tsx",
+  "packages/react-ui/components/TokenInput/TokenInputMenu.tsx",
+  "packages/react-ui/internal/themes/BasicTheme.ts",
+  "packages/react-ui/internal/themes/DarkTheme6_4.ts",
+  "packages/react-ui/internal/themes/LightTheme6_4.ts",
+  "packages/react-ui/lib/theming/ThemeVersions.ts",
+  "packages/react-ui/lib/theming/themes/DarkTheme.ts",
+  "packages/react-ui/lib/theming/themes/LightTheme.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 124836
+}

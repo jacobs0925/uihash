@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d73f3036ac7d262ce04be3d7b3e9c1ce2616b239",
+ "parent": "522e7ae093637097a809dea5a0cd2404a8668f28",
+ "date": "2025-11-02",
+ "subject": "Update button icon for returning to the top of the page",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/ui/back-to-top.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 155838
+}

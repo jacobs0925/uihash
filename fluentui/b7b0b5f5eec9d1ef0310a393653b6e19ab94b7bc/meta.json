@@ -1,0 +1,21 @@
+{
+ "repo": "fluentui",
+ "sha": "b7b0b5f5eec9d1ef0310a393653b6e19ab94b7bc",
+ "parent": "8c7c11a76e42e80d88595ca35ca2c50c88fbe24c",
+ "date": "2025-11-04",
+ "subject": "fix: disabled Calendar buttons get disabled color styles in high contrast mode (#35450)",
+ "pr": "35450",
+ "components": [
+  "react-calendar-compat"
+ ],
+ "files": [
+  "change/@fluentui-react-calendar-compat-b350b9b1-5388-4e33-8940-ba715cd7ff0c.json",
+  "packages/react-components/react-calendar-compat/library/src/components/CalendarDay/useCalendarDayStyles.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix: disabled Calendar buttons get disabled color styles in high contrast mode",
+ "recipe": 1,
+ "stories": 39,
+ "findings": 0,
+ "ms": 76977
+}

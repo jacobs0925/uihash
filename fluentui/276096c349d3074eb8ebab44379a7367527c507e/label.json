@@ -1,0 +1,12 @@
+{
+ "app": "fluentui",
+ "group": "fluentui",
+ "sha": "276096c349d3074eb8ebab44379a7367527c507e",
+ "date": "2026-02-12",
+ "pr": "35743",
+ "title": "fix(react-nav): update NavSubItemGroup motion handling and fix styles (#35743)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "patch: fix: update NavSubItemGroup motion handling and fix styles"
+}

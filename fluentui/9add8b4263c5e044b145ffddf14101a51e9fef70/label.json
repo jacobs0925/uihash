@@ -1,0 +1,12 @@
+{
+ "app": "fluentui",
+ "group": "fluentui",
+ "sha": "9add8b4263c5e044b145ffddf14101a51e9fef70",
+ "date": "2025-11-12",
+ "pr": "35373",
+ "title": "fix(react-tree): `TreeItemPersonaLayout` Renders Tree Appearance (#35373)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "patch: fix: Making TreeItemLayout and TreeItemPersonaLayout render a tree's appearance the same way"
+}

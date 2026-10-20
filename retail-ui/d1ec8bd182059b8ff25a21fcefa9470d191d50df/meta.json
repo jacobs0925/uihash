@@ -1,0 +1,20 @@
+{
+ "repo": "retail-ui",
+ "sha": "d1ec8bd182059b8ff25a21fcefa9470d191d50df",
+ "parent": "c051755c44f8cba20279c3e70d9d9d58603170ad",
+ "date": "2026-05-19",
+ "subject": "fix(tabs): remove useEmotion from docs customization example",
+ "components": [
+  "Tabs"
+ ],
+ "files": [
+  "packages/react-ui/components/Tabs/Indicator.styles.ts",
+  "packages/react-ui/components/Tabs/__docs__/Tabs.docs.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 54,
+ "findings": 0,
+ "ms": 108013
+}

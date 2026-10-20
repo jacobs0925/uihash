@@ -1,0 +1,28 @@
+{
+ "repo": "fluentui",
+ "sha": "aad8765969083497be3a812eaaea7c04bd4030b2",
+ "parent": "3f58fe3150483f5599769f70759bc81c0e034fb2",
+ "date": "2025-11-10",
+ "subject": "fix(react-link): fix link brand and inverted appearance  (#35403)",
+ "pr": "35403",
+ "components": [
+  "react-link"
+ ],
+ "files": [
+  "apps/vr-tests-react-components/src/stories/Link/AnchorLink.stories.tsx",
+  "apps/vr-tests-react-components/src/stories/Link/ButtonLink.stories.tsx",
+  "apps/vr-tests-react-components/src/stories/Link/SpanLink.stories.tsx",
+  "apps/vr-tests-react-components/src/stories/Link/utils.tsx",
+  "change/@fluentui-react-link-be0dc59d-3e7e-4f18-b070-9f094e989eda.json",
+  "change/@fluentui-react-shared-contexts-c6042978-85d9-480f-a2b0-67d6c410a7bc.json",
+  "packages/react-components/react-link/library/src/components/Link/useLinkStyles.styles.ts",
+  "packages/react-components/react-shared-contexts/library/etc/react-shared-contexts.api.md",
+  "packages/react-components/react-shared-contexts/library/src/BackgroundAppearanceContext/BackgroundAppearanceContext.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "minor: feat: add brand appearance variant\nminor: feat: add brand appearance variant for background context",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 0,
+ "ms": 79381
+}

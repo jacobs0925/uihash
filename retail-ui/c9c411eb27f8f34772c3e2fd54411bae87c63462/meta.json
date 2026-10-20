@@ -1,0 +1,20 @@
+{
+ "repo": "retail-ui",
+ "sha": "c9c411eb27f8f34772c3e2fd54411bae87c63462",
+ "parent": "1cc572e07fe823f1fbe14e7e443c50ab56b31fd1",
+ "date": "2026-05-13",
+ "subject": "fix(FileUploader): restore drag and drop animation",
+ "components": [
+  "FileUploader"
+ ],
+ "files": [
+  "packages/react-ui/components/FileUploader/FileUploader.styles.ts",
+  "packages/react-ui/components/FileUploader/__tests__/FileUploader-test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 120652
+}

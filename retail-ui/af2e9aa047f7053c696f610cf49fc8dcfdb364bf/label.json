@@ -1,0 +1,12 @@
+{
+ "app": "retail-ui",
+ "group": "retail-ui",
+ "sha": "af2e9aa047f7053c696f610cf49fc8dcfdb364bf",
+ "date": "2026-07-30",
+ "pr": null,
+ "title": "feat(Radio, Toggle, Checkbox): add comment prop",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "16 visual-test baselines updated"
+}

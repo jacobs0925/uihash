@@ -1,0 +1,41 @@
+{
+ "repo": "retail-ui",
+ "sha": "0c27a46c6b978614af95636b14e17a1a833a2573",
+ "parent": "d1ec8bd182059b8ff25a21fcefa9470d191d50df",
+ "date": "2026-04-03",
+ "subject": "fix(Calendar, DatePicker): use correct hover style for selected day",
+ "components": [
+  "Calendar"
+ ],
+ "files": [
+  "packages/react-ui/.creevey/images/Calendar/Simple Calendar/selected date hover/chrome2022/selected date hover.png",
+  "packages/react-ui/.creevey/images/Calendar/Simple Calendar/selected date hover/firefox2022/selected date hover.png",
+  "packages/react-ui/.creevey/images/Calendar/Simple Calendar/selected weekend date hover/chrome2022/selected holiday date hover.png",
+  "packages/react-ui/.creevey/images/Calendar/Simple Calendar/selected weekend date hover/firefox2022/selected holiday date hover.png",
+  "packages/react-ui/.creevey/images/ThemeVersions/6_0/Calendar 6.0/selected date hover/chrome2022/selected date hover.png",
+  "packages/react-ui/.creevey/images/ThemeVersions/6_0/Calendar 6.0/selected weekend date hover/chrome2022/selected weekend date hover.png",
+  "packages/react-ui/components/Calendar/CalendarDay.tsx",
+  "packages/react-ui/components/Calendar/DayCellView.styles.ts",
+  "packages/react-ui/components/Calendar/__creevey__/Calendar.creevey.mts",
+  "packages/react-ui/components/Calendar/__stories__/Calendar.stories.tsx",
+  "packages/react-ui/internal/ThemePlayground/__creevey__/Theme_6_0.creevey.mts",
+  "packages/react-ui/internal/ThemePlayground/__stories__/Theme_6_0.stories.tsx",
+  "packages/react-ui/internal/themes/DarkTheme6_1.ts",
+  "packages/react-ui/internal/themes/LightTheme6_1.ts",
+  "packages/react-ui/lib/theming/themes/DarkTheme.ts",
+  "packages/react-ui/lib/theming/themes/LightTheme.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/react-ui/.creevey/images/Calendar/Simple Calendar/selected date hover/chrome2022/selected date hover.png",
+  "packages/react-ui/.creevey/images/Calendar/Simple Calendar/selected date hover/firefox2022/selected date hover.png",
+  "packages/react-ui/.creevey/images/Calendar/Simple Calendar/selected weekend date hover/chrome2022/selected holiday date hover.png",
+  "packages/react-ui/.creevey/images/Calendar/Simple Calendar/selected weekend date hover/firefox2022/selected holiday date hover.png",
+  "packages/react-ui/.creevey/images/ThemeVersions/6_0/Calendar 6.0/selected date hover/chrome2022/selected date hover.png",
+  "packages/react-ui/.creevey/images/ThemeVersions/6_0/Calendar 6.0/selected weekend date hover/chrome2022/selected weekend date hover.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 69115
+}

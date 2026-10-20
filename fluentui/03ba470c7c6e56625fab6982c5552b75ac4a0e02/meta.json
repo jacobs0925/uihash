@@ -1,0 +1,21 @@
+{
+ "repo": "fluentui",
+ "sha": "03ba470c7c6e56625fab6982c5552b75ac4a0e02",
+ "parent": "6b3885cb0c984861ea8342fea64e95a2c9668125",
+ "date": "2025-10-22",
+ "subject": "fix(react-checkbox): avoid stretching checkbox content (#35361)",
+ "pr": "35361",
+ "components": [
+  "react-checkbox"
+ ],
+ "files": [
+  "change/@fluentui-react-checkbox-20d17053-23a4-45ec-9aae-79b3f3395f26.json",
+  "packages/react-components/react-checkbox/library/src/components/Checkbox/useCheckboxStyles.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix: add fit-content to max-width",
+ "recipe": 1,
+ "stories": 27,
+ "findings": 1,
+ "ms": 92905
+}

@@ -1,0 +1,12 @@
+{
+ "app": "retail-ui",
+ "group": "retail-ui",
+ "sha": "1878927dcd365582023ffff9f95113cf0abc325b",
+ "date": "2026-05-26",
+ "pr": null,
+ "title": "feat(Toast): add adaptive layout for mobile",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "10 visual-test baselines updated"
+}

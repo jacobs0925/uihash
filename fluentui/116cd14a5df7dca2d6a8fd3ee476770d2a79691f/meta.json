@@ -1,0 +1,41 @@
+{
+ "repo": "fluentui",
+ "sha": "116cd14a5df7dca2d6a8fd3ee476770d2a79691f",
+ "parent": "f17bb7ecaae51c2c01401a7d37e09a7fde13a373",
+ "date": "2026-02-10",
+ "subject": "feat(react-dialog): add appearance to backdrop slot (#35692)",
+ "pr": "35692",
+ "components": [
+  "react-dialog",
+  "react-drawer"
+ ],
+ "files": [
+  "apps/vr-tests-react-components/src/stories/Dialog/Dialog.stories.tsx",
+  "change/@fluentui-react-components-f8ff49c3-56bc-4ab7-92bb-ca31d8f2b6a9.json",
+  "change/@fluentui-react-dialog-e96349b1-d4e8-4754-ac99-d97eb5a1e817.json",
+  "change/@fluentui-react-drawer-e0316a31-a891-42e7-8854-26521bfab9e1.json",
+  "packages/react-components/react-components/etc/react-components.api.md",
+  "packages/react-components/react-components/src/index.ts",
+  "packages/react-components/react-dialog/library/etc/react-dialog.api.md",
+  "packages/react-components/react-dialog/library/src/DialogSurface.ts",
+  "packages/react-components/react-dialog/library/src/components/Dialog/useDialog.ts",
+  "packages/react-components/react-dialog/library/src/components/DialogSurface/DialogSurface.types.ts",
+  "packages/react-components/react-dialog/library/src/components/DialogSurface/index.ts",
+  "packages/react-components/react-dialog/library/src/components/DialogSurface/useDialogSurface.ts",
+  "packages/react-components/react-dialog/library/src/components/DialogSurface/useDialogSurfaceStyles.styles.ts",
+  "packages/react-components/react-dialog/library/src/contexts/dialogBackdropContext.ts",
+  "packages/react-components/react-dialog/library/src/contexts/index.ts",
+  "packages/react-components/react-dialog/library/src/index.ts",
+  "packages/react-components/react-dialog/stories/src/Dialog/DialogBackdropAppearance.md",
+  "packages/react-components/react-dialog/stories/src/Dialog/DialogBackdropAppearance.stories.tsx",
+  "packages/react-components/react-dialog/stories/src/Dialog/index.stories.tsx",
+  "packages/react-components/react-drawer/library/src/components/OverlayDrawer/OverlayDrawerSurface/useOverlayDrawerSurfaceStyles.styles.ts",
+  "packages/react-components/react-drawer/library/src/components/OverlayDrawer/renderOverlayDrawer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "minor: feat: add DialogBackdropProvider to react-dialog\nminor: feat: add appearance to backdrop slot\npatch: fix: use DialogBackdropProvider to fix no dimmed nested dialogs inside OverlayDrawer'",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 0,
+ "ms": 165872
+}

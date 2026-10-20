@@ -1,0 +1,12 @@
+{
+ "app": "fluentui",
+ "group": "fluentui",
+ "sha": "f9a6d8435efa5aff110f335d10e2fc51656167ee",
+ "date": "2026-03-02",
+ "pr": "35799",
+ "title": "feat(react-switch): add `disabledFocusable` prop (#35799)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "minor: feat: add disabledFocusable prop to Switch component"
+}

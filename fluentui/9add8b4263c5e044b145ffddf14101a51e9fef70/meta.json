@@ -1,0 +1,25 @@
+{
+ "repo": "fluentui",
+ "sha": "9add8b4263c5e044b145ffddf14101a51e9fef70",
+ "parent": "f4c7be5af0ed4ccf393e5a9cd8c2b5021e1e4ba5",
+ "date": "2025-11-12",
+ "subject": "fix(react-tree): `TreeItemPersonaLayout` Renders Tree Appearance (#35373)",
+ "pr": "35373",
+ "components": [
+  "react-tree"
+ ],
+ "files": [
+  "apps/vr-tests-react-components/src/stories/Tree.stories.tsx",
+  "change/@fluentui-react-tree-1f082db1-a7ba-4be9-99c5-0bdab5babc54.json",
+  "packages/react-components/react-tree/library/src/components/FlatTree/FlatTree.cy.tsx",
+  "packages/react-components/react-tree/library/src/components/Tree/Tree.cy.tsx",
+  "packages/react-components/react-tree/library/src/components/TreeItemPersonaLayout/useTreeItemPersonaLayoutStyles.styles.ts",
+  "packages/react-components/react-tree/stories/src/Tree/TreeAppearance.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix: Making TreeItemLayout and TreeItemPersonaLayout render a tree's appearance the same way",
+ "recipe": 1,
+ "stories": 66,
+ "findings": 3,
+ "ms": 152163
+}

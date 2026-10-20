@@ -1,0 +1,12 @@
+{
+ "app": "retail-ui",
+ "group": "retail-ui",
+ "sha": "e174015e1d4c67a5bcf193df373577ec6e77a8ff",
+ "date": "2026-08-26",
+ "pr": null,
+ "title": "fix(Radio): match visuals to Figma",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "27 visual-test baselines updated"
+}

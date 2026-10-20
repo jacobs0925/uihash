@@ -1,0 +1,27 @@
+{
+ "repo": "fluentui",
+ "sha": "292e35c7b8d4b55788e94ca0ade72eff9044cfcc",
+ "parent": "048de705a8094eb356bf0992655dd6815c9c5ab2",
+ "date": "2025-11-27",
+ "subject": "fix(react-drawer): reset animation state using width instead of margin (#35523)",
+ "pr": "35523",
+ "components": [
+  "react-drawer"
+ ],
+ "files": [
+  "change/@fluentui-react-drawer-e24abcde-338b-4197-94d5-8619a1516fe5.json",
+  "packages/react-components/react-drawer/library/etc/react-drawer.api.md",
+  "packages/react-components/react-drawer/library/src/components/InlineDrawer/InlineDrawer.types.ts",
+  "packages/react-components/react-drawer/library/src/components/InlineDrawer/useInlineDrawer.ts",
+  "packages/react-components/react-drawer/library/src/components/InlineDrawer/useInlineDrawerStyles.styles.ts",
+  "packages/react-components/react-drawer/library/src/components/OverlayDrawer/useOverlayDrawer.tsx",
+  "packages/react-components/react-drawer/library/src/shared/drawerMotionUtils.test.tsx",
+  "packages/react-components/react-drawer/library/src/shared/drawerMotions.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix: use transition animation instead of margin",
+ "recipe": 1,
+ "stories": 60,
+ "findings": 0,
+ "ms": 133386
+}

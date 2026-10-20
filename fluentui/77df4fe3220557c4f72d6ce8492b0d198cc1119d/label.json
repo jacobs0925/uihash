@@ -1,0 +1,12 @@
+{
+ "app": "fluentui",
+ "group": "fluentui",
+ "sha": "77df4fe3220557c4f72d6ce8492b0d198cc1119d",
+ "date": "2025-11-03",
+ "pr": "35433",
+ "title": "refactor(react-nav): use Rotate component for icon motion (#35433)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "patch: refactor(react-nav): use Rotate component for icon motion"
+}

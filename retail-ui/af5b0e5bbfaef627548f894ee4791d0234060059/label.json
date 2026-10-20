@@ -1,0 +1,12 @@
+{
+ "app": "retail-ui",
+ "group": "retail-ui",
+ "sha": "af5b0e5bbfaef627548f894ee4791d0234060059",
+ "date": "2026-02-12",
+ "pr": null,
+ "title": "feat(Button): add new use=\"accent\" | \"outline\" | \"fill\"",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "360 visual-test baselines updated"
+}

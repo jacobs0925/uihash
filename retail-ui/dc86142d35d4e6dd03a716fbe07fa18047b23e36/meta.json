@@ -1,0 +1,31 @@
+{
+ "repo": "retail-ui",
+ "sha": "dc86142d35d4e6dd03a716fbe07fa18047b23e36",
+ "parent": "d556bb7bf45df44014e473d540b6fa88aa4aa18f",
+ "date": "2026-06-11",
+ "subject": "refactor: update version specific class naming",
+ "components": [
+  "Calendar",
+  "Toast"
+ ],
+ "files": [
+  "packages/react-ui/components/Calendar/CalendarDay.tsx",
+  "packages/react-ui/components/Calendar/DayCellView.styles.ts",
+  "packages/react-ui/components/Toast/ToastView.styles.ts",
+  "packages/react-ui/components/Toast/ToastView.tsx",
+  "packages/react-ui/internal/Menu/Menu.styles.ts",
+  "packages/react-ui/internal/Menu/Menu.tsx",
+  "packages/react-ui/internal/MobilePopup/MobilePopup.styles.ts",
+  "packages/react-ui/internal/MobilePopup/MobilePopup.tsx",
+  "packages/react-ui/internal/MobilePopup/MobilePopupFooter/MobilePopupFooter.styles.ts",
+  "packages/react-ui/internal/MobilePopup/MobilePopupFooter/MobilePopupFooter.tsx",
+  "packages/react-ui/internal/MobilePopup/MobilePopupHeader/MobilePopupHeader.styles.ts",
+  "packages/react-ui/internal/MobilePopup/MobilePopupHeader/MobilePopupHeader.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 57,
+ "findings": 0,
+ "ms": 104706
+}

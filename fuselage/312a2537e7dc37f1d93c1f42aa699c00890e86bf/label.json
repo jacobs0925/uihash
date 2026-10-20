@@ -1,0 +1,12 @@
+{
+ "app": "fuselage",
+ "group": "fuselage",
+ "sha": "312a2537e7dc37f1d93c1f42aa699c00890e86bf",
+ "date": "2026-10-08",
+ "pr": "2273",
+ "title": "fix(fuselage): SplitButton ghost trigger keeps the variant colors (#2273)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "1 visual-test baselines updated"
+}

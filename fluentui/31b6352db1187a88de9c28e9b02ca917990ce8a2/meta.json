@@ -1,0 +1,21 @@
+{
+ "repo": "fluentui",
+ "sha": "31b6352db1187a88de9c28e9b02ca917990ce8a2",
+ "parent": "bb70b49da4e45ec6556228085b36edf6600cf4e7",
+ "date": "2025-11-06",
+ "subject": "fix(react-link): fix incorrect subtle tokens (#35467)",
+ "pr": "35467",
+ "components": [
+  "react-link"
+ ],
+ "files": [
+  "change/@fluentui-react-link-84d34184-015e-487b-9af9-3557c9b4aad6.json",
+  "packages/react-components/react-link/library/src/components/Link/useLinkStyles.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix: incorrect token for subtle appearance",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 0,
+ "ms": 80042
+}

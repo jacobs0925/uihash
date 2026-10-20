@@ -1,0 +1,21 @@
+{
+ "repo": "retail-ui",
+ "sha": "701f0c03b0d0925e2de73d3b84c8c49e4ab4a277",
+ "parent": "831cab37060dda443e3ae92eb152d9c405ca9909",
+ "date": "2026-07-24",
+ "subject": "fix(SidePageHeader): fix close button click area",
+ "components": [
+  "SidePage"
+ ],
+ "files": [
+  "packages/react-ui/components/SidePage/SidePage.styles.ts",
+  "packages/react-ui/components/SidePage/SidePageHeader.tsx",
+  "packages/react-ui/components/SidePage/__stories__/SidePage.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 66,
+ "findings": 1,
+ "ms": 124901
+}

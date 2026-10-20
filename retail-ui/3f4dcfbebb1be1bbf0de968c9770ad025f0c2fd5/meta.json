@@ -1,0 +1,23 @@
+{
+ "repo": "retail-ui",
+ "sha": "3f4dcfbebb1be1bbf0de968c9770ad025f0c2fd5",
+ "parent": "6206463532b4d9750c5a70878e3ccf48d984cdb9",
+ "date": "2026-04-13",
+ "subject": "fix(textarea): position counter by computed paddings",
+ "components": [
+  "Textarea"
+ ],
+ "files": [
+  "packages/react-ui/components/Textarea/Textarea.mixins.ts",
+  "packages/react-ui/components/Textarea/Textarea.styles.ts",
+  "packages/react-ui/components/Textarea/Textarea.tsx",
+  "packages/react-ui/components/Textarea/TextareaCounter.tsx",
+  "packages/react-ui/components/Textarea/__tests__/Textarea-test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 42,
+ "findings": 0,
+ "ms": 109350
+}

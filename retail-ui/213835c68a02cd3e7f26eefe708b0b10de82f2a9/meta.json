@@ -1,0 +1,20 @@
+{
+ "repo": "retail-ui",
+ "sha": "213835c68a02cd3e7f26eefe708b0b10de82f2a9",
+ "parent": "050fe5ba8a6421704fed16d884392c6d54e2a002",
+ "date": "2026-09-03",
+ "subject": "refactor(Button): use calc instead of new vars for button-icon",
+ "components": [
+  "Button"
+ ],
+ "files": [
+  "packages/react-ui/components/Button/Button.styles.ts",
+  "packages/react-ui/internal/themes/BasicTheme.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 133692
+}

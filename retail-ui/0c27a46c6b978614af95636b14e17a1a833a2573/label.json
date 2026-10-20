@@ -1,0 +1,12 @@
+{
+ "app": "retail-ui",
+ "group": "retail-ui",
+ "sha": "0c27a46c6b978614af95636b14e17a1a833a2573",
+ "date": "2026-04-03",
+ "pr": null,
+ "title": "fix(Calendar, DatePicker): use correct hover style for selected day",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "6 visual-test baselines updated"
+}

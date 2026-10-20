@@ -1,0 +1,12 @@
+{
+ "app": "retail-ui",
+ "group": "retail-ui",
+ "sha": "831cab37060dda443e3ae92eb152d9c405ca9909",
+ "date": "2026-07-22",
+ "pr": null,
+ "title": "fix(Input): change prefix and suffix color to text neutral soft",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "41 visual-test baselines updated"
+}

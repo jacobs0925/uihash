@@ -1,0 +1,12 @@
+{
+ "app": "retail-ui",
+ "group": "retail-ui",
+ "sha": "7d08f706dcf485bdfa1f37bd6cb93cbfdaeff002",
+ "date": "2026-06-30",
+ "pr": null,
+ "title": "fix(Button): give icon-only buttons square shape",
+ "label": 1,
+ "source": "revert",
+ "confidence": 0.9,
+ "evidence": "reverted by 1634a6c1 \"Revert \"fix(Button): give icon-only buttons square shape\"\""
+}

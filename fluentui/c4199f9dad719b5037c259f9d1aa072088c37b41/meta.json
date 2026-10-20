@@ -1,0 +1,35 @@
+{
+ "repo": "fluentui",
+ "sha": "c4199f9dad719b5037c259f9d1aa072088c37b41",
+ "parent": "6daf8a064ebdab82213eebd2676a176c9f705041",
+ "date": "2025-12-08",
+ "subject": "feat(carousel): Introduce appearance prop ('flat' | 'elevated') with elevated radius/shadow and spacing (#34971)",
+ "pr": "34971",
+ "components": [
+  "react-carousel"
+ ],
+ "files": [
+  "change/@fluentui-react-carousel-a7426f68-6e99-4c35-8751-b8a3c86f5ce0.json",
+  "packages/react-components/react-carousel/library/docs/Spec.md",
+  "packages/react-components/react-carousel/library/etc/react-carousel.api.md",
+  "packages/react-components/react-carousel/library/src/CarouselContext.ts",
+  "packages/react-components/react-carousel/library/src/components/Carousel/Carousel.types.ts",
+  "packages/react-components/react-carousel/library/src/components/Carousel/useCarousel.ts",
+  "packages/react-components/react-carousel/library/src/components/Carousel/useCarouselContextValues.ts",
+  "packages/react-components/react-carousel/library/src/components/Carousel/useCarouselStyles.styles.ts",
+  "packages/react-components/react-carousel/library/src/components/CarouselCard/useCarouselCardStyles.styles.ts",
+  "packages/react-components/react-carousel/library/src/components/CarouselContext.ts",
+  "packages/react-components/react-carousel/library/src/components/CarouselContext.types.ts",
+  "packages/react-components/react-carousel/library/src/components/CarouselSlider/useCarouselSliderStyles.styles.ts",
+  "packages/react-components/react-carousel/library/src/index.ts",
+  "packages/react-components/react-carousel/stories/src/Carousel/CarouselAppearance.stories.tsx",
+  "packages/react-components/react-carousel/stories/src/Carousel/CarouselDefault.stories.tsx",
+  "packages/react-components/react-carousel/stories/src/Carousel/index.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "minor: feat: add appearance prop ('flat' | 'elevated')",
+ "recipe": 1,
+ "stories": 30,
+ "findings": 0,
+ "ms": 129581
+}

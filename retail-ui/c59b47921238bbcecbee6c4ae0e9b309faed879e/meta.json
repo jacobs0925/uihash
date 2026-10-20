@@ -1,0 +1,31 @@
+{
+ "repo": "retail-ui",
+ "sha": "c59b47921238bbcecbee6c4ae0e9b309faed879e",
+ "parent": "1878927dcd365582023ffff9f95113cf0abc325b",
+ "date": "2026-05-27",
+ "subject": "fix(Toast): change font size to 16px on mobile",
+ "components": [
+  "Toast"
+ ],
+ "files": [
+  "packages/react-ui/.creevey/images/Toast/Mobile Simple Very Long Text With Action/toastShown/chromeMobile.png",
+  "packages/react-ui/.creevey/images/Toast/Mobile Simple Very Long Text/toastShown/chromeMobile.png",
+  "packages/react-ui/.creevey/images/Toast/Mobile Simple With Action/toastShown/chromeMobile.png",
+  "packages/react-ui/.creevey/images/Toast/mobile simple notification/toastShown/chromeMobile.png",
+  "packages/react-ui/components/Toast/ToastView.styles.ts",
+  "packages/react-ui/internal/themes/BasicTheme.ts",
+  "packages/react-ui/internal/themes/DarkTheme6_1.ts",
+  "packages/react-ui/internal/themes/LightTheme6_1.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/react-ui/.creevey/images/Toast/Mobile Simple Very Long Text With Action/toastShown/chromeMobile.png",
+  "packages/react-ui/.creevey/images/Toast/Mobile Simple Very Long Text/toastShown/chromeMobile.png",
+  "packages/react-ui/.creevey/images/Toast/Mobile Simple With Action/toastShown/chromeMobile.png",
+  "packages/react-ui/.creevey/images/Toast/mobile simple notification/toastShown/chromeMobile.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 0,
+ "ms": 74091
+}

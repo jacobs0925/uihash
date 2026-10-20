@@ -1,0 +1,12 @@
+{
+ "app": "retail-ui",
+ "group": "retail-ui",
+ "sha": "9b4bfab59abcbce696f35f455a28bac0bd86af3c",
+ "date": "2026-05-08",
+ "pr": null,
+ "title": "feat(Spinner): replace `type` prop for `size`",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "24 visual-test baselines updated"
+}

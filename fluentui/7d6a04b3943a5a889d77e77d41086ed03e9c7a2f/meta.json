@@ -1,0 +1,21 @@
+{
+ "repo": "fluentui",
+ "sha": "7d6a04b3943a5a889d77e77d41086ed03e9c7a2f",
+ "parent": "18f343d85e97a6a325476e15068112f4556d711c",
+ "date": "2026-01-21",
+ "subject": "fix(react-link): use colorBrandForegroundInverted for inverted (#35681)",
+ "pr": "35681",
+ "components": [
+  "react-link"
+ ],
+ "files": [
+  "change/@fluentui-react-link-fe54120e-3e12-4256-8781-1195cd2d87e0.json",
+  "packages/react-components/react-link/library/src/components/Link/useLinkStyles.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix: use brand tokens for inverted variant",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 0,
+ "ms": 98384
+}

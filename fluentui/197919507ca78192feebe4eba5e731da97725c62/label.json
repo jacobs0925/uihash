@@ -1,0 +1,12 @@
+{
+ "app": "fluentui",
+ "group": "fluentui",
+ "sha": "197919507ca78192feebe4eba5e731da97725c62",
+ "date": "2025-12-02",
+ "pr": "35514",
+ "title": "fix(react-button): update active state styles to include keyboard press events (#35514)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "patch: fix: update active state styles to include keyboard press events"
+}

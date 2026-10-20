@@ -1,0 +1,23 @@
+{
+ "repo": "fluentui",
+ "sha": "32d2e6d036ca462858d6290dd55b0cb0f661cb32",
+ "parent": "868b534f5768615d44bad34be9406ac3576ed49e",
+ "date": "2026-01-12",
+ "subject": "fix(Table): use distinct hover background color (#35588)",
+ "pr": "35588",
+ "components": [
+  "react-table"
+ ],
+ "files": [
+  "apps/vr-tests-react-components/src/stories/Table/TableCellActions.stories.tsx",
+  "apps/vr-tests-react-components/src/stories/Table/utils.tsx",
+  "change/@fluentui-react-table-88b119b2-0ee8-457c-8e60-3b36a6f5dff1.json",
+  "packages/react-components/react-table/library/src/components/TableRow/useTableRowStyles.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix: use distinct hover background color",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 6,
+ "ms": 198313
+}

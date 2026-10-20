@@ -1,0 +1,12 @@
+{
+ "app": "fluentui",
+ "group": "fluentui",
+ "sha": "32d2e6d036ca462858d6290dd55b0cb0f661cb32",
+ "date": "2026-01-12",
+ "pr": "35588",
+ "title": "fix(Table): use distinct hover background color (#35588)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "patch: fix: use distinct hover background color"
+}

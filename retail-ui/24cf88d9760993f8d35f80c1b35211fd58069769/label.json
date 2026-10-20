@@ -1,0 +1,12 @@
+{
+ "app": "retail-ui",
+ "group": "retail-ui",
+ "sha": "24cf88d9760993f8d35f80c1b35211fd58069769",
+ "date": "2026-07-30",
+ "pr": null,
+ "title": "Revert \"feat(Radio, Toggle, Checkbox): add comment prop\"",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: block → flex undone by af2e9aa0 \"feat(Radio, Toggle, Checkbox): add comment prop\"; flex-direction: ∅ → row undone by af2e9aa0 \"feat(Radio, Toggle, Checkbox): add comment prop\"; flex-wrap: ∅ → nowrap undone by af2e9aa0 \"feat(Radio, Toggle, Checkbox): add comment prop\""
+}

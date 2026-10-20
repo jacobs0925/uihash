@@ -1,0 +1,31 @@
+{
+ "repo": "fuselage",
+ "sha": "0cca843fddb2aedf52769983e463338dd2fe673b",
+ "parent": "63685399d99d49617147ac4ca26e5b9434f979c8",
+ "date": "2026-10-14",
+ "subject": "feat(fuselage): add pill prop to Tag (#2307)",
+ "pr": "2307",
+ "components": [
+  "Tag"
+ ],
+ "files": [
+  ".changeset/tag-pill-prop.md",
+  "packages/fuselage/fuselage.api.md",
+  "packages/fuselage/src/components/Tag/Tag.spec.tsx",
+  "packages/fuselage/src/components/Tag/Tag.stories.tsx",
+  "packages/fuselage/src/components/Tag/Tag.styles.scss",
+  "packages/fuselage/src/components/Tag/Tag.tsx",
+  "packages/fuselage/src/components/Tag/__snapshots__/Tag.spec.tsx.snap",
+  "packages/fuselage/test/snapshots/data-display-tag--pill-desktop.png",
+  "packages/fuselage/test/snapshots/data-display-tag--variants-desktop.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/fuselage/test/snapshots/data-display-tag--pill-desktop.png",
+  "packages/fuselage/test/snapshots/data-display-tag--variants-desktop.png"
+ ],
+ "changeset": "---\n'@rocket.chat/fuselage': minor\n---\n\nfeat(fuselage): add `pill` prop to `Tag`\n\nAdds a `pill` boolean prop that renders a fully rounded Tag (`rcx-tag--pill`), matching the `Radius=Pill` variant in the design system. Use it for interactive tags such as filters. The modifier sets `--rcx-tag-border-radius` to the `full` border radius token, so padding, sizes and colors are unchanged. Tags without `pill` render as before.\n",
+ "recipe": 1,
+ "stories": 51,
+ "findings": 3,
+ "ms": 107321
+}

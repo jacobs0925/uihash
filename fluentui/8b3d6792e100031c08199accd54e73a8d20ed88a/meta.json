@@ -1,0 +1,32 @@
+{
+ "repo": "fluentui",
+ "sha": "8b3d6792e100031c08199accd54e73a8d20ed88a",
+ "parent": "31b4d7468fdfcb1f5c351bab9c8b3ba921028f23",
+ "date": "2025-11-27",
+ "subject": "feat(react-drawer): add support to keep drawer mounted on close (#35212)",
+ "pr": "35212",
+ "components": [
+  "react-drawer"
+ ],
+ "files": [
+  "change/@fluentui-react-drawer-04532e93-c88f-49e8-b6da-47c27b1a2b9c.json",
+  "packages/react-components/react-drawer/library/etc/react-drawer.api.md",
+  "packages/react-components/react-drawer/library/src/components/InlineDrawer/useInlineDrawer.ts",
+  "packages/react-components/react-drawer/library/src/components/OverlayDrawer/OverlayDrawer.types.ts",
+  "packages/react-components/react-drawer/library/src/components/OverlayDrawer/OverlayDrawerSurface/useOverlayDrawerSurfaceStyles.styles.ts",
+  "packages/react-components/react-drawer/library/src/components/OverlayDrawer/useOverlayDrawer.tsx",
+  "packages/react-components/react-drawer/library/src/shared/DrawerBase.types.ts",
+  "packages/react-components/react-drawer/library/src/shared/drawerMotionUtils.test.tsx",
+  "packages/react-components/react-drawer/library/src/shared/drawerMotions.ts",
+  "packages/react-components/react-drawer/library/src/shared/useDrawerDefaultProps.ts",
+  "packages/react-components/react-drawer/stories/project.json",
+  "packages/react-components/react-drawer/stories/src/Drawer/DrawerKeepRenderedInTheDOM.stories.tsx",
+  "packages/react-components/react-drawer/stories/src/Drawer/index.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "minor: feat: add support to keep Drawer mounted on clos",
+ "recipe": 1,
+ "stories": 57,
+ "findings": 0,
+ "ms": 148961
+}

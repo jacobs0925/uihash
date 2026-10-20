@@ -1,0 +1,29 @@
+{
+ "repo": "fuselage",
+ "sha": "312a2537e7dc37f1d93c1f42aa699c00890e86bf",
+ "parent": "203fc1981644af2d947fea42d69270b6b21150b0",
+ "date": "2026-10-08",
+ "subject": "fix(fuselage): SplitButton ghost trigger keeps the variant colors (#2273)",
+ "pr": "2273",
+ "components": [
+  "SplitButton"
+ ],
+ "files": [
+  ".changeset/ghost-variant-colors.md",
+  "packages/fuselage/fuselage.api.md",
+  "packages/fuselage/src/components/SplitButton/SplitButton.spec.tsx",
+  "packages/fuselage/src/components/SplitButton/SplitButton.stories.tsx",
+  "packages/fuselage/src/components/SplitButton/SplitButton.styles.scss",
+  "packages/fuselage/src/components/SplitButton/SplitButton.tsx",
+  "packages/fuselage/src/styles/variables/button-colors.scss",
+  "packages/fuselage/test/snapshots/inputs-splitbutton--variants-desktop.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/fuselage/test/snapshots/inputs-splitbutton--variants-desktop.png"
+ ],
+ "changeset": "---\n'@rocket.chat/fuselage': patch\n---\n\nfix(fuselage): Ghost segments keep the button variant colors\n\n`SplitButton` takes `warning`, `success` and `primary` props alongside `danger`, so its ghost menu trigger keeps the action's variant identity, and the split button translucency goes from 60% to 70%.\n",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 84687
+}

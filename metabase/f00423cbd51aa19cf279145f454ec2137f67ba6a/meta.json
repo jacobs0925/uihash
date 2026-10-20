@@ -1,0 +1,43 @@
+{
+ "repo": "metabase",
+ "sha": "f00423cbd51aa19cf279145f454ec2137f67ba6a",
+ "parent": "cd9114d94b3ff40c9de251ff0a39172944e52b66",
+ "date": "2026-06-29",
+ "subject": "Migrate underlined Radio usages to Mantine Tabs (#76535)",
+ "pr": "76535",
+ "components": [
+  "navigation/Tabs"
+ ],
+ "files": [
+  "e2e/test/scenarios/data-studio/transforms/transforms.cy.spec.ts",
+  "e2e/test/scenarios/onboarding/command-palette.cy.spec.js",
+  "e2e/test/scenarios/permissions/admin-permissions.cy.spec.js",
+  "e2e/test/scenarios/visualizations-charts/visualizations-charts-reproductions.cy.spec.ts",
+  "enterprise/frontend/src/metabase-enterprise/replacement/components/SourceReplacementModal/ModalBody/TabPanel/TabPanel.module.css",
+  "enterprise/frontend/src/metabase-enterprise/replacement/components/SourceReplacementModal/ModalBody/TabPanel/TabPanel.tsx",
+  "enterprise/frontend/src/metabase-enterprise/tenants/containers/TenantsListingApp.module.css",
+  "enterprise/frontend/src/metabase-enterprise/tenants/containers/TenantsListingApp.tsx",
+  "frontend/src/metabase/account/app/components/AccountHeader/AccountHeader.tsx",
+  "frontend/src/metabase/admin/people/containers/PeopleListingApp/PeopleListingApp.module.css",
+  "frontend/src/metabase/admin/people/containers/PeopleListingApp/PeopleListingApp.tsx",
+  "frontend/src/metabase/admin/permissions/components/PermissionsPageLayout/PermissionsPageLayout.styled.tsx",
+  "frontend/src/metabase/admin/permissions/components/PermissionsPageLayout/PermissionsPageLayout.tsx",
+  "frontend/src/metabase/admin/permissions/components/PermissionsPageLayout/PermissionsTabs.tsx",
+  "frontend/src/metabase/admin/permissions/pages/CollectionPermissionsPage/tests/common.unit.spec.tsx",
+  "frontend/src/metabase/admin/permissions/pages/CollectionPermissionsPage/tests/enterprise.unit.spec.tsx",
+  "frontend/src/metabase/ui/components/navigation/Tabs/Tab.module.css",
+  "frontend/src/metabase/ui/components/navigation/Tabs/Tabs.stories.tsx",
+  "frontend/src/metabase/ui/components/navigation/Tabs/Tabs.tsx",
+  "frontend/src/metabase/ui/components/navigation/Tabs/index.ts",
+  "frontend/src/metabase/visualizations/components/ChartSettings/BaseChartSettings/BaseChartSettings.styled.tsx",
+  "frontend/src/metabase/visualizations/components/ChartSettings/BaseChartSettings/BaseChartSettings.tsx",
+  "frontend/src/metabase/visualizations/components/ChartSettings/BaseChartSettings/BaseChartSettings.unit.spec.tsx",
+  "frontend/src/metabase/visualizations/visualizations/Scalar/Scalar.unit.spec.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 156640
+}

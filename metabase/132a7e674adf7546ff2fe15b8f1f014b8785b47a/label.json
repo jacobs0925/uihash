@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "132a7e674adf7546ff2fe15b8f1f014b8785b47a",
+ "date": "2026-07-02",
+ "pr": "76792",
+ "title": "refactor: Migrate icon tokens (disabled/secondary swap) (#76792)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "2 visual-test baselines updated"
+}

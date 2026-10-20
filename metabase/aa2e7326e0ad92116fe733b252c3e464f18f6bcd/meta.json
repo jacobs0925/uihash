@@ -1,0 +1,39 @@
+{
+ "repo": "metabase",
+ "sha": "aa2e7326e0ad92116fe733b252c3e464f18f6bcd",
+ "parent": "b58a926cea68b13398a2b94bbb867f6df147b857",
+ "date": "2026-06-30",
+ "subject": "Migrate bubble Radio usages to pills and remove the deprecated Radio (#76668)",
+ "pr": "76668",
+ "components": [
+  "navigation/Tabs"
+ ],
+ "files": [
+  "e2e/test/scenarios/admin-2/tenants.cy.spec.ts",
+  "e2e/test/scenarios/permissions/admin-permissions.cy.spec.js",
+  "e2e/test/scenarios/permissions/create-queries.cy.spec.js",
+  "frontend/src/metabase/actions/containers/ActionCreator/FormCreator/FormFieldEditor/FormFieldEditor.styled.tsx",
+  "frontend/src/metabase/actions/containers/ActionCreator/FormCreator/FormFieldEditor/FormFieldEditor.tsx",
+  "frontend/src/metabase/actions/containers/ActionCreator/FormCreator/FormFieldEditor/FormFieldEditor.unit.spec.tsx",
+  "frontend/src/metabase/admin/permissions/components/EntityViewSwitch/EntityViewSwitch.tsx",
+  "frontend/src/metabase/common/components/Radio/Radio.stories.tsx",
+  "frontend/src/metabase/common/components/Radio/Radio.styled.tsx",
+  "frontend/src/metabase/common/components/Radio/Radio.tsx",
+  "frontend/src/metabase/common/components/Radio/Radio.unit.spec.tsx",
+  "frontend/src/metabase/common/components/Radio/index.ts",
+  "frontend/src/metabase/common/components/Radio/types.ts",
+  "frontend/src/metabase/common/data-studio/components/PaneHeader/PaneHeader.tsx",
+  "frontend/src/metabase/metrics/components/MetricHeader/MetricTabs/MetricTabs.unit.spec.tsx",
+  "frontend/src/metabase/transforms/components/TransformHeader/TransformHeader.unit.spec.tsx",
+  "frontend/src/metabase/transforms/pages/JobRunListPage/JobRunListPage.unit.spec.tsx",
+  "frontend/src/metabase/ui/components/navigation/Tabs/Tab.module.css",
+  "frontend/src/metabase/ui/components/navigation/Tabs/Tabs.mdx",
+  "frontend/src/metabase/ui/components/navigation/Tabs/Tabs.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 140820
+}

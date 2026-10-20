@@ -1,0 +1,42 @@
+{
+ "repo": "primer-brand",
+ "sha": "6df49ae56da76b5ada3dbb37d9a0285ddbdf3504",
+ "parent": "7ea777930c4311c024bea467dc98a17cec07db6d",
+ "date": "2026-10-20",
+ "subject": "Use CSS instead of JS to set auto color mode preferences (#1507)",
+ "pr": "1507",
+ "components": [
+  "Accordion",
+  "Card",
+  "Heading",
+  "IDE"
+ ],
+ "files": [
+  ".changeset/theme-provider-auto-ssr.md",
+  "apps/next-docs/content/introduction/theming.mdx",
+  "packages/design-tokens/src/formats/color-mode-attributes.js",
+  "packages/design-tokens/src/formats/color-mode-attributes.test.js",
+  "packages/react/src/Accordion/Accordion.module.css",
+  "packages/react/src/ActionMenu/ActionMenu.test.tsx",
+  "packages/react/src/ActionMenu/ActionMenu.tsx",
+  "packages/react/src/Card/Card.stories.shared.module.css",
+  "packages/react/src/Heading/Heading.module.css",
+  "packages/react/src/IDE/IDE.stories.hljs.theme.css",
+  "packages/react/src/InlineLink/InlineLink.module.css",
+  "packages/react/src/Label/Label.module.css",
+  "packages/react/src/NavList/NavList.module.css",
+  "packages/react/src/SubNav/SubNav.module.css",
+  "packages/react/src/Text/Text.module.css",
+  "packages/react/src/ThemeProvider/ThemeProvider.ssr.test.tsx",
+  "packages/react/src/ThemeProvider/ThemeProvider.test.tsx",
+  "packages/react/src/ThemeProvider/ThemeProvider.tsx",
+  "packages/react/src/Token/Token.module.css",
+  "packages/react/src/recipes/Flexsuite/Overview/FlexSuiteAIOverview.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react-brand': minor\n'@primer/brand-primitives': patch\n---\n\nImproved `auto` support in `ThemeProvider`\n\nSystem preferences now render before hydration in SSR contexts.\n\n- ⚠️ `ThemeProvider` with `colorMode=\"auto\"` now passes through `data-color-mode=\"auto\"` instead of resolving to `light` or `dark`.\n  Use `colorMode` from `useTheme()` for the resolved value.\n\n- Adds `originalColorMode` to `useTheme` return value to preserve the original mode when forwarding themes.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 1,
+ "ms": 205728
+}

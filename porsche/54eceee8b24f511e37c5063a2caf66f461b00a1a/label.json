@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "54eceee8b24f511e37c5063a2caf66f461b00a1a",
+ "date": "2026-09-04",
+ "pr": "4701",
+ "title": "Fix boolean attribute shorthand for BreakpointCustomizable props (Issue/4404) (#4701)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "### Fixed\n\n- **Breakpoint Customizable Props**: setting a breakpoint customizable boolean prop as an HTML boolean attribute without\n  a value, e.g. `<p-input-text hide-label>`, was ignored and logged a validation error instead of behaving like\n  `<p-input-text hide-label=\"true\">`. Affects `hide-labe"
+}

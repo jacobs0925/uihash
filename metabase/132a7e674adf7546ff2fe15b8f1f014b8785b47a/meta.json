@@ -1,0 +1,33 @@
+{
+ "repo": "metabase",
+ "sha": "132a7e674adf7546ff2fe15b8f1f014b8785b47a",
+ "parent": "a1a4a037fda9e72119f1bec0138a9d79f00978bb",
+ "date": "2026-07-02",
+ "subject": "refactor: Migrate icon tokens (disabled/secondary swap) (#76792)",
+ "pr": "76792",
+ "components": [
+  "navigation/Breadcrumbs"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_Design_System_Colors_Default.png",
+  ".loki/reference/chrome_laptop_EmbeddingSDK_SdkQuestion_ChartTypeDropdownInner_Question_Chart_Type_Selector_List.png",
+  "enterprise/frontend/src/metabase-enterprise/data-studio/library/tables/pages/TableOverviewPage/TableOverview/DescriptionSection/DescriptionSection.tsx",
+  "enterprise/frontend/src/metabase-enterprise/replacement/components/SourceReplacementModal/ModalBody/EmptyState/EmptyState.tsx",
+  "frontend/src/metabase/dashboard/components/DashboardHeader/buttons/AddSectionButton/AddSectionButton.tsx",
+  "frontend/src/metabase/metrics-viewer/components/MetricSearch/MetricExpressionPill/MetricExpressionPill.tsx",
+  "frontend/src/metabase/metrics-viewer/components/MetricSearch/MetricPill/MetricPill.tsx",
+  "frontend/src/metabase/metrics-viewer/components/MetricSearch/MetricSearchInput/MetricSearchInput.unit.spec.tsx",
+  "frontend/src/metabase/ui/colors/constants/themes/dark.ts",
+  "frontend/src/metabase/ui/colors/constants/themes/light.ts",
+  "frontend/src/metabase/ui/components/navigation/Breadcrumbs/Breadcrumbs.module.css"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_Design_System_Colors_Default.png",
+  ".loki/reference/chrome_laptop_EmbeddingSDK_SdkQuestion_ChartTypeDropdownInner_Question_Chart_Type_Selector_List.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 1,
+ "ms": 125637
+}

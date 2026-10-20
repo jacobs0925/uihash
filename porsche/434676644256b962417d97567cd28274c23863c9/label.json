@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "434676644256b962417d97567cd28274c23863c9",
+ "date": "2026-10-15",
+ "pr": "4787",
+ "title": "fix(components): multi-select-option content uses full option width (#4787)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "11 visual-test baselines updated"
+}

@@ -1,0 +1,47 @@
+{
+ "repo": "porsche",
+ "sha": "434676644256b962417d97567cd28274c23863c9",
+ "parent": "619fce683de7a159c6543bd3cdcdf8d634a4b2f3",
+ "date": "2026-10-15",
+ "subject": "fix(components): multi-select-option content uses full option width (#4787)",
+ "pr": "4787",
+ "components": [
+  "multi-select"
+ ],
+ "files": [
+  "packages/components-js/src/pages/multi-select-opened-selected-slot.html",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1000-dark-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1000-dark-safari.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1000-fs200-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1000-light-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1000-light-safari.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1000-rtl-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1300-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1760-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-320-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-480-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-760-chrome.png",
+  "packages/components-react/projects/react-ssr-wrapper/tests/unit/specs/__snapshots__/react-ssr-wrapper.spec.tsx.snap",
+  "packages/components/CHANGELOG.md",
+  "packages/components/src/components/multi-select/multi-select-option/__snapshots__/multi-select-option-styles.spec.ts.snap",
+  "packages/components/src/components/multi-select/multi-select-option/multi-select-option-styles.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1000-dark-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1000-dark-safari.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1000-fs200-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1000-light-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1000-light-safari.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1000-rtl-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1300-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-1760-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-320-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-480-chrome.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/multi-select-760-chrome.png"
+ ],
+ "changeset": "- `Multi Select Option`: slotted content only took up the width of its own content, so it could not fill the option,\n  e.g. with `w-full`, and right-aligned elements were not aligned to the right edge\n  ([#4787](https://github.com/porsche-design-system/porsche-design-system/pull/4787))",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 2,
+ "ms": 812161
+}

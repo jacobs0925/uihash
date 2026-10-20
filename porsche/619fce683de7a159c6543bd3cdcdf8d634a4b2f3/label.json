@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "619fce683de7a159c6543bd3cdcdf8d634a4b2f3",
+ "date": "2026-10-15",
+ "pr": "4775",
+ "title": "Fix components HCM rendering issues (issue/4774) (#4775)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "64 visual-test baselines updated"
+}

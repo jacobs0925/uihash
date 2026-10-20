@@ -1,0 +1,12 @@
+{
+ "app": "fluentui",
+ "group": "fluentui",
+ "sha": "81852161f3ed30c461b2c8e7af30b8d0b4387fa1",
+ "date": "2026-04-22",
+ "pr": "36013",
+ "title": "fix(react-combobox): expand/collapse when clicking in root padding area (#36013)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "patch: fix: Combobox now expands/collapses when clicking in the right padding area (the dead zone between the chevron and the right border)"
+}

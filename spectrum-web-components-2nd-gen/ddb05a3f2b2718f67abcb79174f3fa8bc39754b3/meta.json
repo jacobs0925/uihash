@@ -1,0 +1,30 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "ddb05a3f2b2718f67abcb79174f3fa8bc39754b3",
+ "parent": "43ba48f0e64f0bda90590563cc30074faf7914cb",
+ "date": "2026-05-19",
+ "subject": "fix: remove cursor: pointer from all 2nd-gen non-link components (#6314)",
+ "pr": "6314",
+ "components": [
+  "button",
+  "tabs"
+ ],
+ "files": [
+  "2nd-gen/packages/swc/components/button/button-base.css",
+  "2nd-gen/packages/swc/components/tabs/tab.css",
+  "2nd-gen/packages/swc/components/tabs/tabs.css",
+  "2nd-gen/packages/swc/patterns/conversational-ai/message-feedback/message-feedback.css",
+  "2nd-gen/packages/swc/patterns/conversational-ai/message-sources/message-sources.css",
+  "2nd-gen/packages/swc/patterns/conversational-ai/prompt-field/prompt-field.css",
+  "2nd-gen/packages/swc/patterns/conversational-ai/response-status/response-status.css",
+  "2nd-gen/packages/swc/patterns/conversational-ai/suggestion-item/suggestion-item.css",
+  "2nd-gen/packages/swc/patterns/conversational-ai/upload-artifact/upload-artifact.css",
+  "2nd-gen/packages/swc/stylesheets/global/global-button.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 63,
+ "findings": 4,
+ "ms": 157397
+}

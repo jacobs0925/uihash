@@ -1,0 +1,25 @@
+{
+ "repo": "fluentui",
+ "sha": "6411342ccfa1a14f414d13af9881c61788bafd7e",
+ "parent": "4fa64db43f604aa07abfd56f81a8ce90b9b97d19",
+ "date": "2026-05-06",
+ "subject": "fix(Menu): Highlight expanded menuitem (#36098)",
+ "pr": "36098",
+ "components": [
+  "react-menu"
+ ],
+ "files": [
+  "change/@fluentui-react-menu-4b0904b6-f1ef-4b82-ace6-d2809363522d.json",
+  "packages/react-components/react-menu/library/etc/react-menu.api.md",
+  "packages/react-components/react-menu/library/src/components/MenuItem/MenuItem.types.ts",
+  "packages/react-components/react-menu/library/src/components/MenuItem/useMenuItem.tsx",
+  "packages/react-components/react-menu/library/src/components/MenuItem/useMenuItemStyles.styles.ts",
+  "packages/react-components/react-menu/library/src/components/MenuItemSwitch/useMenuItemSwitchStyles.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix(Menu): Menu item with expanded submenu should be highlighted",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 135488
+}

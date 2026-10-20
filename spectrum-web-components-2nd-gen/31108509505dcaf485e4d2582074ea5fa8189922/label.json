@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components-2nd-gen",
+ "group": "spectrum-web-components-2nd-gen",
+ "sha": "31108509505dcaf485e4d2582074ea5fa8189922",
+ "date": "2026-07-28",
+ "pr": "6555",
+ "title": "feat(card): migrate 2nd-gen swc-card (#6555)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Add the 2nd-gen `<swc-card>`, the Spectrum 2 successor to `<sp-card>`.\n\n- **API**: `variant` (`primary`/`secondary`/`tertiary`/`quiet`), `size` (`xs`–`xl`), `density`, and the `title-as-link` and `selectable` attributes. Content is slot-only (`preview`, `collection`, `media`, `title`, `actions`, `de"
+}

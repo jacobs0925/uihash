@@ -1,0 +1,43 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "7c1d0c574c918474196fa0f6007b9f905455f772",
+ "parent": "d3f2b4886dd7fa5b35f411e7a31fb89e458c92e9",
+ "date": "2026-06-10",
+ "subject": "chore(meter): 2nd-gen meter migration  (#6370)",
+ "pr": "6370",
+ "components": [
+  "meter"
+ ],
+ "files": [
+  ".changeset/meter-2nd-gen-migration.md",
+  "2nd-gen/packages/core/components/meter/Meter.base.ts",
+  "2nd-gen/packages/core/components/meter/Meter.types.ts",
+  "2nd-gen/packages/core/components/meter/index.ts",
+  "2nd-gen/packages/core/mixins/index.ts",
+  "2nd-gen/packages/core/mixins/linear-progress-mixin.ts",
+  "2nd-gen/packages/core/package.json",
+  "2nd-gen/packages/swc/.storybook/preview.ts",
+  "2nd-gen/packages/swc/components/meter/Meter.ts",
+  "2nd-gen/packages/swc/components/meter/index.ts",
+  "2nd-gen/packages/swc/components/meter/meter.css",
+  "2nd-gen/packages/swc/components/meter/meter.mdx",
+  "2nd-gen/packages/swc/components/meter/migration-guide.mdx",
+  "2nd-gen/packages/swc/components/meter/stories/meter.stories.ts",
+  "2nd-gen/packages/swc/components/meter/swc-meter.ts",
+  "2nd-gen/packages/swc/components/meter/test/meter.a11y.spec.ts",
+  "2nd-gen/packages/swc/components/meter/test/meter.test.ts",
+  "2nd-gen/packages/swc/stylesheets/shared/linear-progress-base.css",
+  "2nd-gen/packages/swc/vite.config.ts",
+  "CONTRIBUTOR-DOCS/03_project-planning/02_workstreams/02_2nd-gen-component-migration/01_status.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/README.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/meter/accessibility-migration-analysis.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/meter/migration-plan.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/meter/rendering-and-styling-migration-analysis.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': minor\n'@spectrum-web-components/core': minor\n---\n\nAdd the 2nd-gen `<swc-meter>`, migrated from the Spectrum 1 `<sp-meter>`.\n\n- **API**: `value` (replaces `progress`) with `min-value` / `max-value` for arbitrary ranges; `variant` (`informative` default, `positive`, `notice`, `negative`) with unknown values normalized to `informative`; `label-position` (`top` / `side`, replaces the `side-label` boolean); `value-label` and `formatOptions` for locale-aware value text; `label` and `description` named slots; `accessible-label` for the no-visible-label case.\n- **Accessibility**: the WAI-ARIA `meter` role and all `aria-value*`, `aria-labelledby`, and `aria-describedby` attributes live on the internal bar element, not the host; non-focusable, read-only; honors `prefers-reduced-motion: reduce` (WCAG 2.3.3) on the shared linear-progress base by dropping the fill transition.\n- **Styling**: exposes the `--swc-linear-progress-*` custom-property surface (replaces `--mod-progressbar-*` / `--mod-meter-*`); adds `static-color=\"black\"` alongside `white`.\n- **Docs and tests**: per-component Storybook docs page, consumer migration guide, and full unit + accessibility test coverage.\n",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 23248
+}

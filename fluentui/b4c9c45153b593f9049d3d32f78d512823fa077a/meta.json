@@ -1,0 +1,24 @@
+{
+ "repo": "fluentui",
+ "sha": "b4c9c45153b593f9049d3d32f78d512823fa077a",
+ "parent": "aa727a4aac5088916fe7d22e11355ba4938951e2",
+ "date": "2026-05-26",
+ "subject": "Revert removal of Griffel dependency from usePortalMount (#36235)",
+ "pr": "36235",
+ "components": [
+  "react-portal"
+ ],
+ "files": [
+  "change/@fluentui-react-portal-aa25b18c-fd1c-479e-a98c-f045187327b7.json",
+  "packages/react-components/react-portal/library/src/components/Portal/usePortalMountNode.ts",
+  "packages/react-components/react-portal/library/src/components/Portal/usePortalMountNodeStyles.styles.ts",
+  "packages/react-components/react-portal/library/src/components/Portal/usePortalMountNodeStyles.test.tsx",
+  "packages/react-components/react-portal/library/src/components/Portal/usePortalMountNodeStyles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: revert: revert removal of Griffel dependency from usePortalMount #35994",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 75090
+}

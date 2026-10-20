@@ -1,0 +1,27 @@
+{
+ "repo": "fluentui",
+ "sha": "8481779e7654e2fdf7cc98ab22eac686b5f20312",
+ "parent": "a47be845c617fc63fefb81980eb7ace68556088b",
+ "date": "2026-08-11",
+ "subject": "refactor(react-swatch-picker): move styles out of base hook (#36550)",
+ "pr": "36550",
+ "components": [
+  "react-swatch-picker"
+ ],
+ "files": [
+  "change/@fluentui-react-swatch-picker-29cb736f-3997-4405-aad2-ec8d968a0b8b.json",
+  "packages/react-components/react-swatch-picker/library/src/components/ColorSwatch/ColorSwatch.constants.ts",
+  "packages/react-components/react-swatch-picker/library/src/components/ColorSwatch/ColorSwatch.test.tsx",
+  "packages/react-components/react-swatch-picker/library/src/components/ColorSwatch/index.ts",
+  "packages/react-components/react-swatch-picker/library/src/components/ColorSwatch/useColorSwatch.tsx",
+  "packages/react-components/react-swatch-picker/library/src/components/ColorSwatch/useColorSwatchStyles.styles.ts",
+  "packages/react-components/react-swatch-picker/library/src/components/SwatchPicker/SwatchPicker.test.tsx",
+  "packages/react-components/react-swatch-picker/library/src/utils/__snapshots__/renderUtils.test.tsx.snap"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix: Move ColorSwatch styling out of the headless base hook.",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 0,
+ "ms": 97720
+}

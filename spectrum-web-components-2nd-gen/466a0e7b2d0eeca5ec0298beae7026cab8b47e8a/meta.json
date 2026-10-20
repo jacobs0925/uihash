@@ -1,0 +1,27 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "466a0e7b2d0eeca5ec0298beae7026cab8b47e8a",
+ "parent": "afe0954b1505d0c28b1932d0b9c3f830536b08c0",
+ "date": "2026-07-13",
+ "subject": "feat(infield-button): scaffold Phase 2 core and SWC file structure (#6492)",
+ "pr": "6492",
+ "components": [
+  "infield-button"
+ ],
+ "files": [
+  "2nd-gen/packages/core/components/infield-button/InfieldButton.base.ts",
+  "2nd-gen/packages/core/components/infield-button/InfieldButton.types.ts",
+  "2nd-gen/packages/core/components/infield-button/index.ts",
+  "2nd-gen/packages/core/package.json",
+  "2nd-gen/packages/swc/components/infield-button/InfieldButton.ts",
+  "2nd-gen/packages/swc/components/infield-button/index.ts",
+  "2nd-gen/packages/swc/components/infield-button/infield-button.css",
+  "2nd-gen/packages/swc/components/infield-button/swc-infield-button.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 22984
+}

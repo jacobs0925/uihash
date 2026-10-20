@@ -1,0 +1,40 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "acc0197d23b8bb7b0c4a167219b510b5f528af54",
+ "parent": "be97c8d134c68904c4c7dfa3589e341dc025bf6c",
+ "date": "2026-09-08",
+ "subject": "refactor(icons): repoint ui icon consumers (#6567)",
+ "pr": "6567",
+ "components": [
+  "close-button"
+ ],
+ "files": [
+  ".changeset/icon-repoint-consumers.md",
+  "2nd-gen/packages/swc/.storybook/helpers/icon-for-size.ts",
+  "2nd-gen/packages/swc/.storybook/helpers/index.ts",
+  "2nd-gen/packages/swc/components/badge/stories/badge.stories.ts",
+  "2nd-gen/packages/swc/components/badge/test/badge.test.ts",
+  "2nd-gen/packages/swc/components/badge/test/vrt/badge-custom-properties.vrt.ts",
+  "2nd-gen/packages/swc/components/badge/test/vrt/badge.vrt.ts",
+  "2nd-gen/packages/swc/components/button/test/vrt/button-custom-properties.vrt.ts",
+  "2nd-gen/packages/swc/components/button/test/vrt/button.vrt.ts",
+  "2nd-gen/packages/swc/components/close-button/CloseButton.ts",
+  "2nd-gen/packages/swc/components/close-button/close-button.css",
+  "2nd-gen/packages/swc/components/close-button/test/vrt/close-button-custom-properties.vrt.ts",
+  "2nd-gen/packages/swc/components/close-button/test/vrt/close-button.vrt.ts",
+  "2nd-gen/packages/swc/components/icon/migration-guide.internal.mdx",
+  "2nd-gen/packages/swc/components/ui-icons/ui-icons.internal.mdx",
+  "2nd-gen/packages/swc/patterns/ai-toolkit/message-sources/MessageSources.ts",
+  "2nd-gen/packages/swc/patterns/ai-toolkit/message-sources/test/message-sources.test.ts",
+  "2nd-gen/packages/swc/patterns/ai-toolkit/prompt-field/PromptField.ts",
+  "2nd-gen/packages/swc/patterns/ai-toolkit/response-status/ResponseStatus.ts",
+  "2nd-gen/packages/swc/tsconfig.json",
+  "2nd-gen/packages/swc/vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': patch\n---\n\nRepoint `CloseButton`, `MessageSources`, `ResponseStatus`, and `PromptField` off the pre-RFC `icon/elements/` module onto the internal `<swc-ui-icon>` element, matching the Accordion POC. No public API changes.\n\n- Visual change: `swc-close-button`'s cross icon now uses `<swc-ui-icon icon=\"cross\">` and aligns to the latest design update\n- Visual change: `MessageSources`, `ResponseStatus`, and `PromptField` chevrons now use `<swc-ui-icon icon=\"chevron\" size=\"s\">` instead of a custom `10px` inline size. The rendered size is unchanged at the default theme scale, but now follows the `ui-icon-small` token, so it scales under `--swc-theme--sizeL` instead of staying fixed at `10px`.\n",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 80240
+}

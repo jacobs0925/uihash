@@ -1,0 +1,23 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "ba9984303d09b9a0aeee1b6abf048e2da952cc04",
+ "parent": "e4509d85553b98e2d0467466c976607a68ca73e5",
+ "date": "2026-07-06",
+ "subject": "fix(tabs): correct selection indicator position in RTL (#6466)",
+ "pr": "6466",
+ "components": [
+  "tabs"
+ ],
+ "files": [
+  ".changeset/fix-tabs-rtl-selection-indicator.md",
+  "2nd-gen/packages/core/components/tabs/Tabs.base.ts",
+  "2nd-gen/packages/swc/components/tabs/tabs.css",
+  "2nd-gen/packages/swc/components/tabs/test/tabs.test.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': patch\n'@spectrum-web-components/core': patch\n---\n\n**fix(tabs):** Fixed the `<swc-tabs>` selection indicator rendering in the wrong horizontal position in right-to-left (RTL) layouts.\n\nThe indicator's resting position is set via the logical property `inset-inline-start: 0`, which resolves to `right: 0` in RTL, but the JS that positions it always measured and translated it from the container's left edge regardless of direction. The offset calculation now branches on `getComputedStyle(this).direction`, and `transform-origin` flips to `right center` in RTL to match the indicator's anchor point. The indicator also recalculates when the writing direction changes at runtime, such as an ancestor's `dir` attribute flipping after the tabs have already rendered.\n",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 0,
+ "ms": 65672
+}

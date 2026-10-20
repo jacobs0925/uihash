@@ -1,0 +1,30 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "4a309978f86b9d050cb54ed03db7418e40cb464a",
+ "parent": "70c3af5b013d43cd8a4c444fc82d8ef09689faeb",
+ "date": "2026-08-07",
+ "subject": "fix(action-button): show swc-avatar inside swc-action-button (#6587)",
+ "pr": "6587",
+ "components": [
+  "action-button"
+ ],
+ "files": [
+  ".changeset/fix-action-button-avatar-icon-size.md",
+  ".changeset/fix-slot-text-controller-comment-nodes.md",
+  "2nd-gen/packages/core/controllers/slot-text-controller/src/slot-text-controller.ts",
+  "2nd-gen/packages/core/controllers/slot-text-controller/stories/demo-hosts.ts",
+  "2nd-gen/packages/core/controllers/slot-text-controller/stories/slot-text-controller.test.ts",
+  "2nd-gen/packages/swc/components/action-button/action-button.css",
+  "2nd-gen/packages/swc/components/action-button/test/vrt/action-button-global-styles.vrt.ts",
+  "2nd-gen/packages/swc/components/action-button/test/vrt/action-button.vrt.ts",
+  "2nd-gen/packages/swc/components/avatar/avatar.mdx",
+  "2nd-gen/packages/swc/components/avatar/stories/avatar.stories.ts",
+  "2nd-gen/packages/swc/stylesheets/global/global-action-button.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': patch\n---\n\n**fix(action-button):** A `<swc-avatar>` slotted into `<swc-action-button>`'s `icon` slot now automatically scales to match the button's icon size.\n\nPreviously, Avatar's own `size` attribute controlled its rendered size regardless of the action button's size, since Avatar's `:host([size])` sizing rule won the specificity contest with the icon slot's generic sizing rule for the avatar's _host box_ only — the visible image inside Avatar's shadow root ignored that squeeze entirely and rendered at its own `size`, causing it to overflow. Consumers previously had to manually pair an avatar `size` with the action-button `size` (e.g. `xl` action button with avatar `size=\"1000\"`) to avoid a visual mismatch.\n\nThe icon slot now also sets `--swc-avatar-size` directly (the same way it already sets its own internal icon-size custom properties), which wins over Avatar's own `:host([size])` rule for a slotted avatar specifically because of how shadow-tree custom property cascading resolves rules matching via `::slotted()` against rules from the slotted element's own shadow tree. Avatar's `size` attribute becomes a no-op when slotted into an action button's icon slot; standalone avatar sizing is unaffected.\n\n---\n'@adobe/spectrum-wc-core': patch\n'@adobe/spectrum-wc': patch\n---\n\n**fix(slot-text-controller):** `SlotTextController` no longer counts comment nodes as label content. A `${cond ? nothing : label}` binding leaves a Lit child-part marker (a comment node with non-empty data) in the default slot; its data was previously misread as label text during the controller's initial `host.childNodes` scan.\n\nFor a consumer whose default slot does not bind `@slotchange` (for example an icon-only `<swc-action-button>` with a conditional label), this made `hasContent` stay `true`, so the icon-only presentation was never applied. Only real text nodes now count.\n",
+ "recipe": 1,
+ "stories": 27,
+ "findings": 3,
+ "ms": 83991
+}

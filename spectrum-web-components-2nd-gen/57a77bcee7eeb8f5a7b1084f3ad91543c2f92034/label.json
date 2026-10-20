@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components-2nd-gen",
+ "group": "spectrum-web-components-2nd-gen",
+ "sha": "57a77bcee7eeb8f5a7b1084f3ad91543c2f92034",
+ "date": "2026-06-19",
+ "pr": "6340",
+ "title": "feat(action-button): S2 migration (#6340)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Added `<swc-action-button>` with full Spectrum 2 visual fidelity, migrated from the Spectrum 1 `<sp-action-button>`. See the [component docs](https://spectrum-web-components.adobe.com/?path=/docs/components-action-button--docs) and [migration guide](https://spectrum-web-components.adobe.com/?path=/d"
+}

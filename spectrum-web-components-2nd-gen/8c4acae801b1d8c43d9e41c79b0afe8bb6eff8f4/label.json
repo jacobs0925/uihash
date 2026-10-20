@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components-2nd-gen",
+ "group": "spectrum-web-components-2nd-gen",
+ "sha": "8c4acae801b1d8c43d9e41c79b0afe8bb6eff8f4",
+ "date": "2026-07-06",
+ "pr": "6457",
+ "title": "fix(illustrated-message): center actions slot content (#6457)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "**fix(illustrated-message):** Fixed the `actions` slot content alignment in `<swc-illustrated-message>`.\n\nThe `.swc-IllustratedMessage-content` flex container was missing `align-items: center`, causing slotted actions (e.g. a `<swc-button>` or `<swc-button-group>`) to stretch to the container width "
+}

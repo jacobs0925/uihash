@@ -1,0 +1,32 @@
+{
+ "repo": "fluentui",
+ "sha": "e432c7189757ca18d81f6d1105cba71bb1f8bb38",
+ "parent": "8481779e7654e2fdf7cc98ab22eac686b5f20312",
+ "date": "2026-08-11",
+ "subject": "refactor(react-color-picker): move CSS vars to constants (#36552)",
+ "pr": "36552",
+ "components": [
+  "react-color-picker"
+ ],
+ "files": [
+  "change/@fluentui-react-color-picker-8c7d12ab-91de-4d96-a0bc-0f23c466b401.json",
+  "packages/react-components/react-color-picker/library/src/components/AlphaSlider/AlphaSlider.constants.ts",
+  "packages/react-components/react-color-picker/library/src/components/AlphaSlider/index.ts",
+  "packages/react-components/react-color-picker/library/src/components/AlphaSlider/useAlphaSliderState.ts",
+  "packages/react-components/react-color-picker/library/src/components/AlphaSlider/useAlphaSliderStyles.styles.ts",
+  "packages/react-components/react-color-picker/library/src/components/ColorArea/ColorArea.constants.ts",
+  "packages/react-components/react-color-picker/library/src/components/ColorArea/index.ts",
+  "packages/react-components/react-color-picker/library/src/components/ColorArea/useColorArea.ts",
+  "packages/react-components/react-color-picker/library/src/components/ColorArea/useColorAreaStyles.styles.ts",
+  "packages/react-components/react-color-picker/library/src/components/ColorSlider/ColorSlider.constants.ts",
+  "packages/react-components/react-color-picker/library/src/components/ColorSlider/index.ts",
+  "packages/react-components/react-color-picker/library/src/components/ColorSlider/useColorSlider.ts",
+  "packages/react-components/react-color-picker/library/src/components/ColorSlider/useColorSliderStyles.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix: Move shared color picker CSS variables from style modules to constants files.",
+ "recipe": 1,
+ "stories": 24,
+ "findings": 0,
+ "ms": 75701
+}

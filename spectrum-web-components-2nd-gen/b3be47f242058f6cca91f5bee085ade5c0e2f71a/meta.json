@@ -1,0 +1,25 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "b3be47f242058f6cca91f5bee085ade5c0e2f71a",
+ "parent": "4cb0b7b86ebfaad89f1866916415b8578aa6dbea",
+ "date": "2026-01-16",
+ "subject": "feat: migrate asset to s2 styles and second-gen architecture (#5858)",
+ "pr": "5858",
+ "components": [
+  "asset"
+ ],
+ "files": [
+  "2nd-gen/packages/core/components/asset/Asset.base.ts",
+  "2nd-gen/packages/core/components/asset/Asset.types.ts",
+  "2nd-gen/packages/core/components/asset/index.ts",
+  "2nd-gen/packages/swc/components/asset/Asset.ts",
+  "2nd-gen/packages/swc/components/asset/asset.css",
+  "2nd-gen/packages/swc/components/asset/stories/asset.stories.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 57600
+}

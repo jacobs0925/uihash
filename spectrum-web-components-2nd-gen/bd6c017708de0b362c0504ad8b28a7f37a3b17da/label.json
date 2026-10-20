@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components-2nd-gen",
+ "group": "spectrum-web-components-2nd-gen",
+ "sha": "bd6c017708de0b362c0504ad8b28a7f37a3b17da",
+ "date": "2026-07-29",
+ "pr": "6552",
+ "title": "feat(icon): S2 UI icon POC — generator, swc-ui-icon element, and IconBase unification (#6552)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Add the internal 2nd-gen UI icon system: the `<swc-ui-icon>` element plus a build-time generator for the S2 UI icon set.\n\n- **`<swc-ui-icon>`** (internal): `icon` selects the icon-set, `size` selects the matching optical step, and `accessible-label` drives host-owned accessibility; renders generated"
+}

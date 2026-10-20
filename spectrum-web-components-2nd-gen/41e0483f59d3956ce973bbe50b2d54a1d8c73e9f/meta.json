@@ -1,0 +1,26 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "41e0483f59d3956ce973bbe50b2d54a1d8c73e9f",
+ "parent": "cdc87ab49839b8896b87b336e3400708685682a7",
+ "date": "2026-07-15",
+ "subject": "fix(color-loupe): add adaptive white-first border for WCAG 1.4.11 (#6513)",
+ "pr": "6513",
+ "components": [
+  "color-loupe"
+ ],
+ "files": [
+  ".changeset/color-loupe-adaptive-border.md",
+  "2nd-gen/packages/core/components/color-loupe/ColorLoupe.base.ts",
+  "2nd-gen/packages/swc/components/color-loupe/ColorLoupe.ts",
+  "2nd-gen/packages/swc/components/color-loupe/color-loupe.css",
+  "2nd-gen/packages/swc/components/color-loupe/color-loupe.mdx",
+  "2nd-gen/packages/swc/components/color-loupe/stories/color-loupe.stories.ts",
+  "2nd-gen/packages/swc/components/color-loupe/test/color-loupe.test.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc-core': patch\n'@adobe/spectrum-wc': patch\n---\n\n**fix(color-loupe):** Added an adaptive white-first inner border to `<swc-color-loupe>` so its chrome meets WCAG 1.4.11 non-text contrast (≥3:1) across the color spectrum.\n\nThe inner border's opacity now escalates above its default floor only when the white outer halo can't itself carry 3:1 contrast against the loupe's color. The outer border, shape, and sizing are unchanged, and there is no public API change. This supersedes the prior practical-limits exception, matching the adaptive dual-border approach already shipped for `<swc-color-handle>`.\n",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 70113
+}

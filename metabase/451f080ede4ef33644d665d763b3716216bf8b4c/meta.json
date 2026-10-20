@@ -1,0 +1,23 @@
+{
+ "repo": "metabase",
+ "sha": "451f080ede4ef33644d665d763b3716216bf8b4c",
+ "parent": "4f002897290b4e13c54af7b20a1b31f99975c0a4",
+ "date": "2026-02-27",
+ "subject": "add new variants to action icon and use it in Inspector Header cell (#70180)",
+ "pr": "70180",
+ "components": [
+  "buttons/ActionIcon"
+ ],
+ "files": [
+  "frontend/src/metabase/transforms/pages/TransformInspectPage/components/LensSections/JoinAnalysisSections/JoinAnalysisSection.tsx",
+  "frontend/src/metabase/transforms/pages/TransformInspectPage/components/LensSections/JoinAnalysisSections/components/JoinHeaderCell.tsx",
+  "frontend/src/metabase/ui/components/buttons/ActionIcon/ActionButton.stories.tsx",
+  "frontend/src/metabase/ui/components/buttons/ActionIcon/ActionIcon.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 120167
+}

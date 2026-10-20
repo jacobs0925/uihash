@@ -1,0 +1,25 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "196dfc4387940fea19f1a90f0f3ace7bb04d3115",
+ "parent": "9f16e5b924f1fa2f7398b0f867bab0e5ee09a06d",
+ "date": "2026-09-02",
+ "subject": "fix(global styles): retain reflected aria attribute selectors (#6668)",
+ "pr": "6668",
+ "components": [
+  "action-button"
+ ],
+ "files": [
+  ".changeset/fix-global-reflected-aria-attribute-selectors.md",
+  "2nd-gen/packages/swc/.storybook/guides/customization/global-elements.mdx",
+  "2nd-gen/packages/swc/components/action-button/action-button.css",
+  "2nd-gen/packages/swc/stylesheets/global/global-action-button.css",
+  "2nd-gen/packages/tools/vite-global-elements-css/index.js",
+  "2nd-gen/packages/tools/vite-global-elements-css/index.test.js"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': patch\n---\n\nFix the global stylesheet generator collapsing reflected ARIA host attributes (`aria-disabled=\"true\"`, `aria-hidden=\"true\"`, etc.) into a shared, meaningless `--true`/`--false` BEM modifier class — `:host([aria-disabled=\"true\"])` and `:host([aria-hidden=\"true\"])` both produced `.swc-Foo--true`, so styling one affected the other. Reflected ARIA attributes are now emitted as native `[attr=\"value\"]` attribute selectors on the block class instead (e.g. `.swc-ActionButton[aria-disabled=\"true\"]`), matching the attributes the generated global element actually carries at runtime. A related collapse that missed attribute-selector suffixes (`.block[open]`) is also fixed so it folds onto the host selector instead of producing an unreachable descendant selector.\n",
+ "recipe": 1,
+ "stories": 27,
+ "findings": 0,
+ "ms": 81506
+}

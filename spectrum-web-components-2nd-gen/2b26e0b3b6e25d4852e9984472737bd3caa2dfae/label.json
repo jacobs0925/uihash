@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components-2nd-gen",
+ "group": "spectrum-web-components-2nd-gen",
+ "sha": "2b26e0b3b6e25d4852e9984472737bd3caa2dfae",
+ "date": "2026-08-24",
+ "pr": "6444",
+ "title": "feat(actiongroup): migrate action group (#6444)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Add the 2nd-gen `<swc-action-group>` file structure, API, accessibility semantics, and Spectrum 2 styling, migrated from the Spectrum 1 `<sp-action-group>`.\n\n- **API**: `accessible-label`, `disabled`, `orientation` (`horizontal` / `vertical`), `compact`, `quiet`, `justified`, `size`, `static-color`;"
+}

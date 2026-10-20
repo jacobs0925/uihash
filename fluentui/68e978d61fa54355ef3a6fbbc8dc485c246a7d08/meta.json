@@ -1,0 +1,23 @@
+{
+ "repo": "fluentui",
+ "sha": "68e978d61fa54355ef3a6fbbc8dc485c246a7d08",
+ "parent": "b7214c3161b6bc48253fc228d2a24a95fd5631dd",
+ "date": "2026-05-21",
+ "subject": "fix(react-tree): support indentation for TreeItem levels greater than 10 (#36014)",
+ "pr": "36014",
+ "components": [
+  "react-tree"
+ ],
+ "files": [
+  "change/@fluentui-react-tree-tree-deep-level-fix.json",
+  "packages/react-components/react-tree/library/src/components/TreeItem/TreeItem.test.tsx",
+  "packages/react-components/react-tree/library/src/components/TreeItem/useTreeItemStyles.styles.ts",
+  "packages/react-components/react-tree/stories/src/Tree/TreeInlineStylingTreeItemLevel.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix(react-tree): support indentation for TreeItem levels greater than 10 via inline CSS variable fallback",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 0,
+ "ms": 141456
+}

@@ -1,0 +1,36 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "b0c6e375760ccc1ec6c1773ed1aa4015aa3b0f03",
+ "parent": "9e7995ad8189970d6788a7872007d611af247663",
+ "date": "2026-07-15",
+ "subject": "feat(close-button): migrate to 2nd-gen (#6410)",
+ "pr": "6410",
+ "components": [
+  "close-button"
+ ],
+ "files": [
+  ".changeset/close-button-2nd-gen-migration.md",
+  "2nd-gen/packages/core/AGENTS.md",
+  "2nd-gen/packages/core/components/button/Button.base.ts",
+  "2nd-gen/packages/swc/components/close-button/CloseButton.ts",
+  "2nd-gen/packages/swc/components/close-button/close-button.css",
+  "2nd-gen/packages/swc/components/close-button/close-button.mdx",
+  "2nd-gen/packages/swc/components/close-button/index.ts",
+  "2nd-gen/packages/swc/components/close-button/migration-guide.mdx",
+  "2nd-gen/packages/swc/components/close-button/stories/close-button.stories.ts",
+  "2nd-gen/packages/swc/components/close-button/swc-close-button.ts",
+  "2nd-gen/packages/swc/components/close-button/test/close-button.a11y.spec.ts",
+  "2nd-gen/packages/swc/components/close-button/test/close-button.test.ts",
+  "2nd-gen/packages/swc/components/icon/elements/Cross400Icon.ts",
+  "2nd-gen/packages/swc/components/icon/elements/Cross500Icon.ts",
+  "2nd-gen/packages/swc/components/icon/elements/index.ts",
+  "CONTRIBUTOR-DOCS/03_project-planning/02_workstreams/02_2nd-gen-component-migration/01_status.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/close-button/migration-plan.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': minor\n'@spectrum-web-components/core': minor\n---\n\nAdd the 2nd-gen `<swc-close-button>`, migrated from the Spectrum 1 `<sp-close-button>`.\n\n- **API**: `size`, `disabled`, `accessible-label`, and `static-color`; omits the legacy `variant` surface in favor of `static-color`.\n- **Accessibility**: renders a real inner `<button type=\"button\">` with delegated focus; requires `accessible-label` for its icon-only name; the cross icon remains decorative.\n- **Styling**: ships Spectrum 2 sizing and static-color treatments plus the `--swc-close-button-*` custom-property surface for token-aligned overrides.\n- **Docs and tests**: includes Storybook docs, consumer migration guidance, unit coverage, and Playwright accessibility and keyboard tests.\n",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 24137
+}

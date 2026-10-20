@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "18706c24560cc7852ad391efa418d489123895a5",
+ "date": "2026-03-06",
+ "pr": "70520",
+ "title": "Switch component improvements (#70520)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "4 visual-test baselines updated"
+}

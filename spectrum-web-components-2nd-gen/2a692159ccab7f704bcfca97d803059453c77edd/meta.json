@@ -1,0 +1,21 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "2a692159ccab7f704bcfca97d803059453c77edd",
+ "parent": "30aa7066474b48fab5ed5c49cb3367abff14c1dd",
+ "date": "2026-08-11",
+ "subject": "test(color-handle): add VRT coverage (#6583)",
+ "pr": "6583",
+ "components": [
+  "color-loupe"
+ ],
+ "files": [
+  "2nd-gen/packages/swc/components/color-handle/test/vrt/color-handle.vrt.ts",
+  "2nd-gen/packages/swc/components/color-loupe/color-loupe.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 2,
+ "ms": 76777
+}

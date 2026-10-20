@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components-2nd-gen",
+ "group": "spectrum-web-components-2nd-gen",
+ "sha": "4a309978f86b9d050cb54ed03db7418e40cb464a",
+ "date": "2026-08-07",
+ "pr": "6587",
+ "title": "fix(action-button): show swc-avatar inside swc-action-button (#6587)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "**fix(action-button):** A `<swc-avatar>` slotted into `<swc-action-button>`'s `icon` slot now automatically scales to match the button's icon size.\n\nPreviously, Avatar's own `size` attribute controlled its rendered size regardless of the action button's size, since Avatar's `:host([size])` sizing ru"
+}

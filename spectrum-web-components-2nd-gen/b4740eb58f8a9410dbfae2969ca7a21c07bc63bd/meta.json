@@ -1,0 +1,36 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "b4740eb58f8a9410dbfae2969ca7a21c07bc63bd",
+ "parent": "1c9a897a86e508458792ed1b01735a6d2fd0f344",
+ "date": "2026-06-17",
+ "subject": "feat(button-group): S2 migration (#6395)",
+ "pr": "6395",
+ "components": [
+  "button-group"
+ ],
+ "files": [
+  ".changeset/button-group-migration.md",
+  "1st-gen/packages/button-group/src/ButtonGroup.ts",
+  "2nd-gen/packages/core/components/button-group/ButtonGroup.base.ts",
+  "2nd-gen/packages/core/components/button-group/ButtonGroup.types.ts",
+  "2nd-gen/packages/core/components/button-group/index.ts",
+  "2nd-gen/packages/core/mixins/sized-mixin.ts",
+  "2nd-gen/packages/core/package.json",
+  "2nd-gen/packages/swc/components/button-group/ButtonGroup.ts",
+  "2nd-gen/packages/swc/components/button-group/button-group.css",
+  "2nd-gen/packages/swc/components/button-group/index.ts",
+  "2nd-gen/packages/swc/components/button-group/migration-guide.mdx",
+  "2nd-gen/packages/swc/components/button-group/stories/button-group.stories.ts",
+  "2nd-gen/packages/swc/components/button-group/swc-button-group.ts",
+  "2nd-gen/packages/swc/components/button-group/test/button-group.a11y.spec.ts",
+  "2nd-gen/packages/swc/components/button-group/test/button-group.test.ts",
+  "CONTRIBUTOR-DOCS/03_project-planning/02_workstreams/02_2nd-gen-component-migration/01_status.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/button-group/migration-plan.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@spectrum-web-components/core': minor\n'@adobe/spectrum-wc': minor\n'@spectrum-web-components/button-group': patch\n---\n\n- [#6395](https://github.com/adobe/spectrum-web-components/pull/6395) [`acd555a`](https://github.com/adobe/spectrum-web-components/commit/acd555a975508f9249a1394ac808a62b2d7cbfe3) - `ButtonGroup` — Added `<swc-button-group>` with full Spectrum 2 visual fidelity. See the [component docs](https://spectrum-web-components.adobe.com/?path=/docs/button-group--docs) and [migration guide](https://spectrum-web-components.adobe.com/?path=/docs/button-group-migration-guide--docs).\n",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 24109
+}

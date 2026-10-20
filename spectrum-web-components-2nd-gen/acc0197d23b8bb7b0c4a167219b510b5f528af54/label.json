@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components-2nd-gen",
+ "group": "spectrum-web-components-2nd-gen",
+ "sha": "acc0197d23b8bb7b0c4a167219b510b5f528af54",
+ "date": "2026-09-08",
+ "pr": "6567",
+ "title": "refactor(icons): repoint ui icon consumers (#6567)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Repoint `CloseButton`, `MessageSources`, `ResponseStatus`, and `PromptField` off the pre-RFC `icon/elements/` module onto the internal `<swc-ui-icon>` element, matching the Accordion POC. No public API changes.\n\n- Visual change: `swc-close-button`'s cross icon now uses `<swc-ui-icon icon=\"cross\">` a"
+}

@@ -1,0 +1,38 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "d505036c47c9e60fdebe5b8ce8b4501aa328e240",
+ "parent": "c4b0b457651a820729700ec93299c1fb9254a48b",
+ "date": "2026-09-16",
+ "subject": "feat(asset): expanded API and making it public (#6739)",
+ "pr": "6739",
+ "components": [
+  "asset"
+ ],
+ "files": [
+  "2nd-gen/.changeset/asset-expanded-public-api.md",
+  "2nd-gen/packages/core/components/asset/Asset.base.ts",
+  "2nd-gen/packages/core/components/asset/Asset.types.ts",
+  "2nd-gen/packages/swc/components/asset/Asset.ts",
+  "2nd-gen/packages/swc/components/asset/asset.css",
+  "2nd-gen/packages/swc/components/asset/asset.internal.mdx",
+  "2nd-gen/packages/swc/components/asset/asset.mdx",
+  "2nd-gen/packages/swc/components/asset/migration-guide.mdx",
+  "2nd-gen/packages/swc/components/asset/stories/asset.internal.stories.ts",
+  "2nd-gen/packages/swc/components/asset/stories/asset.stories.ts",
+  "2nd-gen/packages/swc/components/asset/test/asset.a11y.spec.ts",
+  "2nd-gen/packages/swc/components/asset/test/asset.test.ts",
+  "2nd-gen/packages/swc/components/asset/test/vrt/asset-custom-properties.vrt.ts",
+  "2nd-gen/packages/swc/components/asset/test/vrt/asset.vrt.ts",
+  "2nd-gen/packages/swc/public/images/landscape-asset.jpg",
+  "2nd-gen/packages/swc/public/images/portrait-asset.jpg",
+  "CONTRIBUTOR-DOCS/01_contributor-guides/16_2nd-gen-shared-resources.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/02_workstreams/02_2nd-gen-component-migration/01_status.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/asset/component-plan.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': minor\n'@adobe/spectrum-wc-core': minor\n---\n\n**feat(asset):** Expanded `<swc-asset>` from a minimal file/folder-icon-or-slot component into a general image/media primitive, and promoted it from the internal genre to public.\n\nAdds sizing (`aspect-ratio`/`width`/`height`), `fit`, `background`, `decorative`, a generalized `accessible-label` fallback, and a `load-state` property with `swc-asset-load`/`swc-asset-error` events. The `variant` (`file`/`folder`) icon API is removed. See the Asset migration guide for full upgrade steps from `sp-asset`.\n",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 13,
+ "ms": 57873
+}

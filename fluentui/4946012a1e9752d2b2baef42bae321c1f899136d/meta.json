@@ -1,0 +1,23 @@
+{
+ "repo": "fluentui",
+ "sha": "4946012a1e9752d2b2baef42bae321c1f899136d",
+ "parent": "3d7f31e5f1dd3d7c96811ae47b8eda6ea174956a",
+ "date": "2026-03-11",
+ "subject": "feat(react-skeleton): add missing SkeletonItem sizes to match typography line-height scale (#35863)",
+ "pr": "35863",
+ "components": [
+  "react-skeleton"
+ ],
+ "files": [
+  "change/@fluentui-react-skeleton-bcf34707-5b77-4d83-b29c-a9736afef636.json",
+  "packages/react-components/react-skeleton/library/src/components/Skeleton/Skeleton.types.ts",
+  "packages/react-components/react-skeleton/library/src/components/SkeletonItem/useSkeletonItemStyles.styles.ts",
+  "packages/react-components/react-skeleton/stories/src/Skeleton/SkeletonItemSize.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "minor: feat: add missing SkeletonItem sizes (14, 22, 52, 92) to match typography line-height scale",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 101232
+}

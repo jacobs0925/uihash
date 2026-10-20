@@ -1,0 +1,28 @@
+{
+ "repo": "fluentui",
+ "sha": "1c7519b64a7698bee84194a55fa7e79246d6a5c4",
+ "parent": "b7469bcb9f76f2244c7e9b6d822015541e3e03b2",
+ "date": "2026-09-22",
+ "subject": "fix(react-positioning): improve safe zone hit testing (#36708)",
+ "pr": "36708",
+ "components": [
+  "react-positioning"
+ ],
+ "files": [
+  "change/@fluentui-react-positioning-982975b8-77a6-4364-bb65-696fed1f0904.json",
+  "packages/react-components/react-positioning/library/src/hooks/useSafeZoneArea/SafeZoneArea.styles.ts",
+  "packages/react-components/react-positioning/library/src/hooks/useSafeZoneArea/SafeZoneArea.tsx",
+  "packages/react-components/react-positioning/library/src/hooks/useSafeZoneArea/__snapshots__/SafeZoneArea.test.tsx.snap",
+  "packages/react-components/react-positioning/library/src/hooks/useSafeZoneArea/computeOutsideClipPath.test.ts",
+  "packages/react-components/react-positioning/library/src/hooks/useSafeZoneArea/computeOutsideClipPath.ts",
+  "packages/react-components/react-positioning/library/src/hooks/useSafeZoneArea/getSafeZonePoints.test.ts",
+  "packages/react-components/react-positioning/library/src/hooks/useSafeZoneArea/getSafeZonePoints.ts",
+  "packages/react-components/react-positioning/stories/src/UseSafeZoneArea/UseSafeZoneAreaDefault.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix: improve safe zone hit testing and avoid rerenders during pointer movement",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 50767
+}

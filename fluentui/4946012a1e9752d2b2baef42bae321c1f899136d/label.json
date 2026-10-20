@@ -1,0 +1,12 @@
+{
+ "app": "fluentui",
+ "group": "fluentui",
+ "sha": "4946012a1e9752d2b2baef42bae321c1f899136d",
+ "date": "2026-03-11",
+ "pr": "35863",
+ "title": "feat(react-skeleton): add missing SkeletonItem sizes to match typography line-height scale (#35863)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "minor: feat: add missing SkeletonItem sizes (14, 22, 52, 92) to match typography line-height scale"
+}

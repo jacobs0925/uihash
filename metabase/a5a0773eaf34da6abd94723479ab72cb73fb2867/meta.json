@@ -1,0 +1,31 @@
+{
+ "repo": "metabase",
+ "sha": "a5a0773eaf34da6abd94723479ab72cb73fb2867",
+ "parent": "c463756c60261e1c2363df498fb2d4b6a12af9a4",
+ "date": "2026-02-26",
+ "subject": "Migrate ChartTypeDropdown to use Mantine ComboBox (#69734)",
+ "pr": "69734",
+ "components": [
+  "inputs/Combobox"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_EmbeddingSDK_SdkQuestion_ChartTypeDropdownInner_Question_Chart_Type_Selector_List.png",
+  "e2e/support/helpers/e2e-embedding-sdk-assertion-helpers.ts",
+  "e2e/test-component/scenarios/embedding-sdk/pivot-table-reproductions.cy.spec.tsx",
+  "e2e/test-component/scenarios/embedding-sdk/popover.cy.spec.tsx",
+  "e2e/test-component/scenarios/embedding-sdk/sdk-question.cy.spec.tsx",
+  "e2e/test-host-app/shared/compatibility.cy.spec.js",
+  "e2e/test/scenarios/embedding/sdk-iframe-embedding-setup/select-embed-options.cy.spec.ts",
+  "frontend/src/embedding-sdk-bundle/components/private/SdkQuestion/components/ChartTypeDropdown/ChartTypeDropdown.tsx",
+  "frontend/src/embedding-sdk-bundle/components/public/SdkQuestion/SdkQuestion.unit.spec.tsx",
+  "frontend/src/metabase/ui/components/inputs/Combobox/Combobox.module.css"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_EmbeddingSDK_SdkQuestion_ChartTypeDropdownInner_Question_Chart_Type_Selector_List.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 114295
+}

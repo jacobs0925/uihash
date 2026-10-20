@@ -1,0 +1,37 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "f27f6906f142f824dcc28f588e205271a36ec04a",
+ "parent": "1f8e1df5d27bd33f80e112ea31641f84fe89a3ca",
+ "date": "2026-07-10",
+ "subject": "feat(color-handle): 2nd-gen migration (#6480)",
+ "pr": "6480",
+ "components": [
+  "color-handle"
+ ],
+ "files": [
+  ".changeset/color-handle-migration.md",
+  "2nd-gen/packages/core/components/color-handle/ColorHandle.base.ts",
+  "2nd-gen/packages/core/components/color-handle/ColorHandle.types.ts",
+  "2nd-gen/packages/core/components/color-handle/color-contrast.ts",
+  "2nd-gen/packages/core/components/color-handle/index.ts",
+  "2nd-gen/packages/core/package.json",
+  "2nd-gen/packages/swc/.storybook/preview.ts",
+  "2nd-gen/packages/swc/components/color-handle/ColorHandle.ts",
+  "2nd-gen/packages/swc/components/color-handle/color-handle.css",
+  "2nd-gen/packages/swc/components/color-handle/color-handle.mdx",
+  "2nd-gen/packages/swc/components/color-handle/index.ts",
+  "2nd-gen/packages/swc/components/color-handle/migration-guide.mdx",
+  "2nd-gen/packages/swc/components/color-handle/stories/color-handle.stories.ts",
+  "2nd-gen/packages/swc/components/color-handle/swc-color-handle.ts",
+  "2nd-gen/packages/swc/components/color-handle/test/color-handle.a11y.spec.ts",
+  "2nd-gen/packages/swc/components/color-handle/test/color-handle.test.ts",
+  "CONTRIBUTOR-DOCS/03_project-planning/02_workstreams/02_2nd-gen-component-migration/01_status.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/color-handle/migration-plan.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@spectrum-web-components/core': minor\n'@adobe/spectrum-wc': minor\n---\n\n**feat(color-handle):** Added `<swc-color-handle>`, the Spectrum 2 migration of `sp-color-handle`.\n\nA non-interactive color-picker primitive exposing `color`, `disabled`, `focused`, `open`, and the new `fill` property, with a built-in `<swc-color-loupe>` and an adaptive white-first dual border that meets WCAG 1.4.11 non-text contrast across the color spectrum. The `--mod-colorhandle-*` custom properties are removed; see the migration guide.\n",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 23468
+}

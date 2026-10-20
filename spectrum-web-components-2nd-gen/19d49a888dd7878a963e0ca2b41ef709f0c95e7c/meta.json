@@ -1,0 +1,22 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "19d49a888dd7878a963e0ca2b41ef709f0c95e7c",
+ "parent": "0100e326f47e1b6ef439da64d358468352810387",
+ "date": "2026-08-19",
+ "subject": "chore(status-light): add VRT coverage (#6620)",
+ "pr": "6620",
+ "components": [
+  "status-light"
+ ],
+ "files": [
+  "2nd-gen/packages/swc/components/status-light/status-light.css",
+  "2nd-gen/packages/swc/components/status-light/test/vrt/status-light-custom-properties.vrt.ts",
+  "2nd-gen/packages/swc/components/status-light/test/vrt/status-light.vrt.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 24,
+ "findings": 0,
+ "ms": 68100
+}

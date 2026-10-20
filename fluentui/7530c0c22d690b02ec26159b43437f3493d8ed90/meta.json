@@ -1,0 +1,35 @@
+{
+ "repo": "fluentui",
+ "sha": "7530c0c22d690b02ec26159b43437f3493d8ed90",
+ "parent": "de337cf86b501d2aa7d9b12c472489c7c88d6b24",
+ "date": "2026-06-15",
+ "subject": "feat(react-overflow): split and expose hooks for headless reuse (#36304)",
+ "pr": "36304",
+ "components": [
+  "react-overflow"
+ ],
+ "files": [
+  "change/@fluentui-react-overflow-7caf7721-7aaf-4793-9640-e9844c06d0d8.json",
+  "packages/react-components/react-overflow/library/etc/react-overflow.api.md",
+  "packages/react-components/react-overflow/library/src/components/Overflow.test.tsx",
+  "packages/react-components/react-overflow/library/src/components/Overflow.tsx",
+  "packages/react-components/react-overflow/library/src/components/Overflow/Overflow.test.tsx",
+  "packages/react-components/react-overflow/library/src/components/Overflow/Overflow.tsx",
+  "packages/react-components/react-overflow/library/src/components/Overflow/Overflow.types.ts",
+  "packages/react-components/react-overflow/library/src/components/Overflow/index.ts",
+  "packages/react-components/react-overflow/library/src/components/Overflow/renderOverflow.tsx",
+  "packages/react-components/react-overflow/library/src/components/Overflow/useOverflow.ts",
+  "packages/react-components/react-overflow/library/src/components/Overflow/useOverflowStyles.styles.ts",
+  "packages/react-components/react-overflow/library/src/components/useOverflowStyles.styles.ts",
+  "packages/react-components/react-overflow/library/src/index.ts",
+  "packages/react-components/react-overflow/library/src/overflowContext.ts",
+  "packages/react-components/react-overflow/library/src/types.ts",
+  "packages/react-components/react-overflow/library/src/useOverflowContextValues.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "minor: Expose Overflow use/render/styles hooks, provider and context types for headless consumers",
+ "recipe": 1,
+ "stories": 39,
+ "findings": 0,
+ "ms": 117314
+}

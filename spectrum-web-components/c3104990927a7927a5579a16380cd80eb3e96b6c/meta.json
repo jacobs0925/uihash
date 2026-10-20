@@ -1,0 +1,41 @@
+{
+ "repo": "spectrum-web-components",
+ "sha": "c3104990927a7927a5579a16380cd80eb3e96b6c",
+ "parent": "85081e7788d063ed8ff09af43db6fc2058a388bd",
+ "date": "2026-10-05",
+ "subject": "feat(thumbnail): add gen2 swc-thumbnail (#6726)",
+ "pr": "6726",
+ "components": [
+  "thumbnail"
+ ],
+ "files": [
+  "CONTRIBUTOR-DOCS/03_project-planning/02_workstreams/02_gen2-component-migration/01_status.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/thumbnail/accessibility-migration-analysis.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/thumbnail/migration-plan.md",
+  "gen2/.changeset/thumbnail-2nd-gen-migration.md",
+  "gen2/packages/core/components/thumbnail/Thumbnail.base.ts",
+  "gen2/packages/core/components/thumbnail/Thumbnail.types.ts",
+  "gen2/packages/core/components/thumbnail/index.ts",
+  "gen2/packages/core/package.json",
+  "gen2/packages/swc/.storybook/helpers/index.ts",
+  "gen2/packages/swc/.storybook/helpers/vrt.ts",
+  "gen2/packages/swc/components/asset/stories/asset.stories.ts",
+  "gen2/packages/swc/components/thumbnail/Thumbnail.ts",
+  "gen2/packages/swc/components/thumbnail/index.ts",
+  "gen2/packages/swc/components/thumbnail/migration-guide.mdx",
+  "gen2/packages/swc/components/thumbnail/stories/thumbnail.stories.ts",
+  "gen2/packages/swc/components/thumbnail/swc-thumbnail.ts",
+  "gen2/packages/swc/components/thumbnail/test/thumbnail.a11y.spec.ts",
+  "gen2/packages/swc/components/thumbnail/test/thumbnail.test.ts",
+  "gen2/packages/swc/components/thumbnail/test/vrt/thumbnail-custom-properties.vrt.ts",
+  "gen2/packages/swc/components/thumbnail/test/vrt/thumbnail.vrt.ts",
+  "gen2/packages/swc/components/thumbnail/thumbnail.css",
+  "gen2/packages/swc/components/thumbnail/thumbnail.mdx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': minor\n'@adobe/spectrum-wc-core': minor\n---\n\nAdd the gen2 `<swc-thumbnail>`, migrated from the Spectrum 1 `<sp-thumbnail>`.\n\n- **API**: numeric `size` (`50`–`1000`, default `500`) and `fit` (`contain` or `cover`, default `contain`). Replaces the boolean `cover` with `fit=\"cover\"`; drops `background`, `layer`, and the CSS-only `disabled`, `focused`, and `selected` attributes. Slotted elements other than `<img>` stay hidden, as in Spectrum 1.\n- **Accessibility**: new `decorative` attribute hides the thumbnail with `aria-hidden=\"true\"` and gives the slotted `<img>` `alt=\"\"` when it has none; unsetting it removes only what the component added. A dev-mode warning fires when a non-decorative image has no `alt`, `aria-label`, or `aria-labelledby`.\n- **Styling**: Spectrum 2 tokens with an opacity checkerboard frame, a forced-colors border, and one public custom property, `--swc-thumbnail-size`, set per `size`. Spectrum 1 `--mod-thumbnail-*` properties are not supported.\n- **Docs and tests**: includes Storybook docs, a consumer migration guide, unit and accessibility tests, and VRT coverage.\n",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 27915
+}

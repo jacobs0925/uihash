@@ -1,0 +1,24 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "95b28298571f690a3c3438f96475d2d796225ecb",
+ "parent": "aadfa3176862555d7d9f699e94aef39efecfe67a",
+ "date": "2026-08-25",
+ "subject": "chore(tabs): add VRT coverage (#6621)",
+ "pr": "6621",
+ "components": [
+  "tabs"
+ ],
+ "files": [
+  ".changeset/tabs-cjk-line-height.md",
+  "2nd-gen/packages/swc/components/tabs/tab-panel.css",
+  "2nd-gen/packages/swc/components/tabs/tab.css",
+  "2nd-gen/packages/swc/components/tabs/test/vrt/tabs-custom-properties.vrt.ts",
+  "2nd-gen/packages/swc/components/tabs/test/vrt/tabs.vrt.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': patch\n---\n\nRefine 2nd-gen tabs styling: `swc-tab` labels now use `cjk-line-height-100` for Japanese, Chinese, and Korean text so CJK glyphs are not vertically clipped, and `swc-tab-panel` top padding uses the `spacing-200` token via a private `--_swc-tab-panel-padding-top` custom property instead of a hardcoded `12px` fallback.\n",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 0,
+ "ms": 66387
+}

@@ -1,0 +1,43 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "6eccec93116b74d9720bbc11ae7d811b868fddb7",
+ "parent": "c28d00c474bd0480390984891d35ad50a11608be",
+ "date": "2026-07-16",
+ "subject": "Progress Bar Migration (#6488)",
+ "pr": "6488",
+ "components": [
+  "progress-bar"
+ ],
+ "files": [
+  ".ai/skills/migration-api/SKILL.md",
+  ".changeset/quiet-owls-whisper.md",
+  ".changeset/spicy-melon-parade.md",
+  "1st-gen/packages/progress-bar/src/ProgressBar.ts",
+  "1st-gen/packages/progress-bar/test/progress-bar.test.ts",
+  "2nd-gen/packages/core/components/progress-bar/ProgressBar.base.ts",
+  "2nd-gen/packages/core/components/progress-bar/ProgressBar.types.ts",
+  "2nd-gen/packages/core/components/progress-bar/index.ts",
+  "2nd-gen/packages/core/components/progress-circle/ProgressCircle.base.ts",
+  "2nd-gen/packages/core/mixins/linear-progress-mixin.ts",
+  "2nd-gen/packages/core/package.json",
+  "2nd-gen/packages/swc/components/meter/stories/meter.stories.ts",
+  "2nd-gen/packages/swc/components/progress-bar/ProgressBar.ts",
+  "2nd-gen/packages/swc/components/progress-bar/index.ts",
+  "2nd-gen/packages/swc/components/progress-bar/migration-guide.mdx",
+  "2nd-gen/packages/swc/components/progress-bar/progress-bar.css",
+  "2nd-gen/packages/swc/components/progress-bar/progress-bar.mdx",
+  "2nd-gen/packages/swc/components/progress-bar/stories/progress-bar.stories.ts",
+  "2nd-gen/packages/swc/components/progress-bar/swc-progress-bar.ts",
+  "2nd-gen/packages/swc/components/progress-bar/test/.gitkeep",
+  "2nd-gen/packages/swc/components/progress-bar/test/progress-bar.test.ts",
+  "CONTRIBUTOR-DOCS/02_style-guide/02_typescript/17_debug-validation.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/02_workstreams/02_2nd-gen-component-migration/01_status.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/progress-bar/migration-plan.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@spectrum-web-components/progress-bar': patch\n---\n\n**docs(progress-bar):** Added deprecation notices to `<sp-progress-bar>` ahead of the Spectrum 2 migration.\n\nThe `label`, `side-label`, and `progress` properties are now marked `@deprecated` and emit `window.__swc.DEBUG` warnings pointing to their `<swc-progress-bar>` replacements (`label` slot, `label-position=\"side\"`, and `value`). Runtime behavior is unchanged when debug validation is disabled.\n\n---\n'@adobe/spectrum-wc': minor\n---\n\n**feat(progress-bar):** Added `<swc-progress-bar>`, the Spectrum 2 migration of Progress Bar.\n\nRenames from `<sp-progress-bar>`: `progress` becomes `value`, `side-label` becomes `label-position=\"side\"`, the `label` string attribute becomes a `label` named slot, and `--mod-progressbar-*` custom properties become `--swc-linear-progress-*`. The default `size` is now `'m'`.\n\nNew in Spectrum 2: `min-value` / `max-value` for arbitrary numeric ranges, `static-color=\"black\"`, `value-label`, a `formatOptions` property, `accessible-label`, and a `description` slot. `over-background` is removed in favor of `static-color=\"white\"`, and `role=\"progressbar\"` plus the `aria-value*` attributes now live on an internal element rather than the host. See the Progress Bar migration guide for full upgrade steps.\n",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 24371
+}

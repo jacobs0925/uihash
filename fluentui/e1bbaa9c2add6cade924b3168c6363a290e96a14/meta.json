@@ -1,0 +1,21 @@
+{
+ "repo": "fluentui",
+ "sha": "e1bbaa9c2add6cade924b3168c6363a290e96a14",
+ "parent": "1c47db7bd3f6185851b0f7a1a78bacfdd4edf043",
+ "date": "2026-06-08",
+ "subject": "fix(Link): add disabled styles for high contrast mode (#36277)",
+ "pr": "36277",
+ "components": [
+  "react-link"
+ ],
+ "files": [
+  "change/@fluentui-react-link-046c4989-5d7d-41a2-949f-dd71ad60c063.json",
+  "packages/react-components/react-link/library/src/components/Link/useLinkStyles.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix(Link): add disabled styles for high contrast mode",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 0,
+ "ms": 92122
+}

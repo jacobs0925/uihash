@@ -1,0 +1,38 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "68261b1cf230f385be59f7e4fa1b09fd361b27c6",
+ "parent": "eb4bc125b34c2d4ec4327f9dc871da8a3dd6a43e",
+ "date": "2026-05-13",
+ "subject": "feat: migrate color-loupe to gen2 (#6184)",
+ "pr": "6184",
+ "components": [
+  "color-loupe"
+ ],
+ "files": [
+  ".changeset/shiny-bridges-orbit.md",
+  "2nd-gen/packages/core/components/color-loupe/ColorLoupe.base.ts",
+  "2nd-gen/packages/core/components/color-loupe/index.ts",
+  "2nd-gen/packages/swc/.storybook/preview.ts",
+  "2nd-gen/packages/swc/components/button/consumer-migration-guide.mdx",
+  "2nd-gen/packages/swc/components/button/migration-guide.mdx",
+  "2nd-gen/packages/swc/components/color-loupe/ColorLoupe.ts",
+  "2nd-gen/packages/swc/components/color-loupe/color-loupe.css",
+  "2nd-gen/packages/swc/components/color-loupe/index.ts",
+  "2nd-gen/packages/swc/components/color-loupe/migration-guide.mdx",
+  "2nd-gen/packages/swc/components/color-loupe/stories/color-loupe.stories.ts",
+  "2nd-gen/packages/swc/components/color-loupe/swc-color-loupe.ts",
+  "2nd-gen/packages/swc/components/color-loupe/test/color-loupe.a11y.spec.ts",
+  "2nd-gen/packages/swc/components/color-loupe/test/color-loupe.test.ts",
+  "CONTRIBUTOR-DOCS/02_style-guide/02_typescript/09_rendering-patterns.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/02_workstreams/02_2nd-gen-component-migration/01_status.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/README.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/color-loupe/migration-checklist.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/color-loupe/rendering-and-styling-migration-analysis.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': minor\n---\n\n**feat(color-loupe):** Add 2nd-gen `<swc-color-loupe>` with Spectrum 2 visual fidelity. Key changes from 1st-gen `<sp-color-loupe>`:\n\n- Pure visual, non-interactive component — accessibility semantics are delegated to the parent color picker or color field\n- SVG loupe graphic carries `aria-hidden=\"true\"`; no role, label, or tab stop on the host\n- `open` property controls visibility via CSS opacity and transform transitions\n- `color` property accepts any valid CSS color string, including colors with alpha transparency revealed over an opacity checkerboard\n\nSee the [migration guide](https://spectrum-web-components.adobe.com/?path=/docs/color-components-color-loupe-migration-guide--docs) for upgrading from 1st-gen `sp-color-loupe`.\n",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 27525
+}

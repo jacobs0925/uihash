@@ -1,0 +1,31 @@
+{
+ "repo": "metabase",
+ "sha": "18706c24560cc7852ad391efa418d489123895a5",
+ "parent": "3d5b673c9a1b4736d37a68d4e2caa19bad004787",
+ "date": "2026-03-06",
+ "subject": "Switch component improvements (#70520)",
+ "pr": "70520",
+ "components": [
+  "inputs/Switch"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Relative_Next.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Relative_Next_Dark_Theme.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Relative_Previous.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Relative_Previous_Dark_Theme.png",
+  "frontend/src/metabase/ui/components/inputs/Switch/Switch.config.ts",
+  "frontend/src/metabase/ui/components/inputs/Switch/Switch.mdx",
+  "frontend/src/metabase/ui/components/inputs/Switch/Switch.module.css"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Relative_Next.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Relative_Next_Dark_Theme.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Relative_Previous.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Relative_Previous_Dark_Theme.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 3,
+ "ms": 155499
+}

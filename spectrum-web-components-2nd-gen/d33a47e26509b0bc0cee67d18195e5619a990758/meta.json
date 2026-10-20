@@ -1,0 +1,41 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "d33a47e26509b0bc0cee67d18195e5619a990758",
+ "parent": "fd34d26e066d418a35a991f54f1219f4f3d184b9",
+ "date": "2026-08-17",
+ "subject": "fix(*): apply box-sizing to sized slotted elements (#6626)",
+ "pr": "6626",
+ "components": [
+  "action-button",
+  "asset",
+  "button",
+  "card"
+ ],
+ "files": [
+  ".ai/skills/migration-styling/references/tldr-component-css-guidelines.md",
+  ".changeset/fix-slotted-box-sizing.md",
+  "2nd-gen/packages/swc/components/action-button/action-button.css",
+  "2nd-gen/packages/swc/components/asset/asset.css",
+  "2nd-gen/packages/swc/components/button/button.css",
+  "2nd-gen/packages/swc/components/card/card.css",
+  "2nd-gen/packages/swc/components/illustrated-message/illustrated-message.css",
+  "2nd-gen/packages/swc/components/infield-button/infield-button.css",
+  "2nd-gen/packages/swc/components/tabs/tab.css",
+  "2nd-gen/packages/swc/patterns/conversational-ai/prompt-field/prompt-field.css",
+  "2nd-gen/packages/swc/patterns/conversational-ai/upload-artifact/upload-artifact.css",
+  "2nd-gen/packages/swc/patterns/conversational-ai/user-message/user-message.css",
+  "2nd-gen/packages/swc/stylesheets/_lit-styles/card-template.css",
+  "2nd-gen/packages/swc/stylesheets/_lit-styles/icon-base.css",
+  "2nd-gen/packages/swc/stylesheets/global/global-action-button.css",
+  "2nd-gen/packages/swc/stylesheets/global/global-button.css",
+  "CONTRIBUTOR-DOCS/02_style-guide/01_css/01_component-css.md",
+  "CONTRIBUTOR-DOCS/02_style-guide/01_css/03_component-css-pr-checklist.md",
+  "CONTRIBUTOR-DOCS/02_style-guide/01_css/05_anti-patterns.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': patch\n---\n\n**fix(\\*):** Added explicit `box-sizing: border-box` to `::slotted()` rules that constrain slotted content to a fixed `inline-size`, `block-size`, `aspect-ratio`, or `max-*` size across `<swc-card>`, `<swc-action-button>`, `<swc-button>`, `<swc-infield-button>`, `<swc-tab>`, `<swc-illustrated-message>`, `<swc-icon>`, `<swc-asset>`, and the conversational-ai `<swc-prompt-field>`, `<swc-upload-artifact>`, and `<swc-user-message>` patterns. This prevents slotted elements breaking an aspect ratio or overflowing their container.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 4,
+ "ms": 193918
+}

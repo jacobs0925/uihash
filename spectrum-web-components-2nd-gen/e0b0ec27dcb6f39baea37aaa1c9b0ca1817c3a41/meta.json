@@ -1,0 +1,36 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "e0b0ec27dcb6f39baea37aaa1c9b0ca1817c3a41",
+ "parent": "51ee01289a4ec866cc5a026bec46295bc0a21e3c",
+ "date": "2026-04-09",
+ "subject": "feat(avatar): migrate avatar component to S2 (#6113)",
+ "pr": "6113",
+ "components": [
+  "avatar"
+ ],
+ "files": [
+  "2nd-gen/packages/core/components/avatar/Avatar.base.ts",
+  "2nd-gen/packages/core/components/avatar/Avatar.types.ts",
+  "2nd-gen/packages/core/components/avatar/index.ts",
+  "2nd-gen/packages/core/element/spectrum-element.ts",
+  "2nd-gen/packages/core/package.json",
+  "2nd-gen/packages/swc/.storybook/preview.ts",
+  "2nd-gen/packages/swc/components/avatar/Avatar.ts",
+  "2nd-gen/packages/swc/components/avatar/avatar.css",
+  "2nd-gen/packages/swc/components/avatar/index.ts",
+  "2nd-gen/packages/swc/components/avatar/migration.md",
+  "2nd-gen/packages/swc/components/avatar/stories/avatar.stories.ts",
+  "2nd-gen/packages/swc/components/avatar/test/avatar.a11y.spec.ts",
+  "2nd-gen/packages/swc/components/avatar/test/avatar.test.ts",
+  "CONTRIBUTOR-DOCS/03_project-planning/02_workstreams/02_2nd-gen-component-migration/01_status.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/README.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/avatar/accessibility-migration-analysis.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/avatar/migration-plan.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 36302
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "909f906833c2f65d86ff5577a6f0981fb0999ca2",
+ "parent": "1d6256447be0d81c246e16c1b641a66d2c9d318a",
+ "date": "2026-06-08",
+ "subject": "fix(button): no clickable events in disabled state (#6374)",
+ "pr": "6374",
+ "components": [
+  "button"
+ ],
+ "files": [
+  "2nd-gen/packages/core/components/button/Button.base.ts",
+  "2nd-gen/packages/swc/components/button/button-base.css",
+  "2nd-gen/packages/swc/components/button/test/button.test.ts",
+  "2nd-gen/packages/swc/stylesheets/global/global-button.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 2,
+ "ms": 97505
+}

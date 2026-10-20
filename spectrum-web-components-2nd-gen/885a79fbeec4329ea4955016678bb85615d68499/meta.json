@@ -1,0 +1,25 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "885a79fbeec4329ea4955016678bb85615d68499",
+ "parent": "fe7a04268028d2ac8db4cc383026527c6bbfa577",
+ "date": "2026-08-07",
+ "subject": "fix(divider): fix zero-height vertical divider in flex/grid containers (#6592)",
+ "pr": "6592",
+ "components": [
+  "divider"
+ ],
+ "files": [
+  ".changeset/divider-vertical-zero-height.md",
+  "2nd-gen/packages/swc/components/divider/divider.css",
+  "2nd-gen/packages/swc/components/divider/divider.mdx",
+  "2nd-gen/packages/swc/components/divider/migration-guide.mdx",
+  "2nd-gen/packages/swc/components/divider/stories/divider.stories.ts",
+  "2nd-gen/packages/swc/components/divider/test/vrt/divider.vrt.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': patch\n---\n\nFix `swc-divider[vertical]` rendering with zero height inside flex/grid containers with an indefinite parent height (e.g. an auto-height flex toolbar).\n",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 3,
+ "ms": 75731
+}

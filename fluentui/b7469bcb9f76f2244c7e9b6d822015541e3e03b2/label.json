@@ -1,0 +1,12 @@
+{
+ "app": "fluentui",
+ "group": "fluentui",
+ "sha": "b7469bcb9f76f2244c7e9b6d822015541e3e03b2",
+ "date": "2026-09-22",
+ "pr": "36637",
+ "title": "Fix Dropdown filled boundary in high contrast themes (#36637)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "patch: fix: render filled Dropdown boundaries in high contrast themes"
+}

@@ -1,0 +1,27 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "c7eab0efad90b90295d8b26d79b5a3626903f8d2",
+ "parent": "83ebdbe216fb44d4dd25f0345f544184f2b1116f",
+ "date": "2026-04-15",
+ "subject": "feat: add chromatic to 2nd-gen (#6088)",
+ "pr": "6088",
+ "components": [
+  "badge"
+ ],
+ "files": [
+  ".github/workflows/chromatic-vrt.yml",
+  ".gitignore",
+  "2nd-gen/packages/swc/.storybook/main.ts",
+  "2nd-gen/packages/swc/chromatic.config.json",
+  "2nd-gen/packages/swc/components/badge/badge.css",
+  "2nd-gen/packages/swc/package.json",
+  "linters/stylelint-property-order.js",
+  "yarn.lock"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 30,
+ "findings": 0,
+ "ms": 82623
+}

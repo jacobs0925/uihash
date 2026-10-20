@@ -1,0 +1,24 @@
+{
+ "repo": "fluentui",
+ "sha": "48ff10fe4f0fe4c1ab9999a2544d6d49740728f3",
+ "parent": "e367467f8a3b1bb66f7b56217fcfd327ddd4ec84",
+ "date": "2026-04-16",
+ "subject": " refactor(react-portal): remove Griffel dependency from usePortalMountNode (#35994)",
+ "pr": "35994",
+ "components": [
+  "react-portal"
+ ],
+ "files": [
+  "change/@fluentui-react-portal-ea64a7c1-d032-4c04-a5b8-083f1685c723.json",
+  "packages/react-components/react-portal/library/src/components/Portal/usePortalMountNode.ts",
+  "packages/react-components/react-portal/library/src/components/Portal/usePortalMountNodeStyles.styles.ts",
+  "packages/react-components/react-portal/library/src/components/Portal/usePortalMountNodeStyles.test.tsx",
+  "packages/react-components/react-portal/library/src/components/Portal/usePortalMountNodeStyles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: refactor: remove Griffel dependency from usePortalMountNode",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 57035
+}

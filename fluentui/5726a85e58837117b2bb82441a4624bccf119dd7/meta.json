@@ -1,0 +1,35 @@
+{
+ "repo": "fluentui",
+ "sha": "5726a85e58837117b2bb82441a4624bccf119dd7",
+ "parent": "65271e1f97fc4909cfc0d1ea15605721d81c01e3",
+ "date": "2026-07-31",
+ "subject": "fix(react-tooltip): hide tooltip when trigger scrolls out of overflow container (#36386)",
+ "pr": "36386",
+ "components": [
+  "react-tooltip"
+ ],
+ "files": [
+  "change/@fluentui-react-headless-components-preview-13d56c43-8771-404c-a4c8-f958f522a36d.json",
+  "change/@fluentui-react-tooltip-b1816358-7b53-4ebc-8579-8308e77a0468.json",
+  "packages/react-components/react-headless-components-preview/library/etc/tooltip.api.md",
+  "packages/react-components/react-headless-components-preview/library/src/components/Tooltip/Tooltip.types.ts",
+  "packages/react-components/react-tooltip/library/cypress.config.ts",
+  "packages/react-components/react-tooltip/library/etc/react-tooltip.api.md",
+  "packages/react-components/react-tooltip/library/src/components/Tooltip/Tooltip.cy.tsx",
+  "packages/react-components/react-tooltip/library/src/components/Tooltip/Tooltip.test.tsx",
+  "packages/react-components/react-tooltip/library/src/components/Tooltip/Tooltip.types.ts",
+  "packages/react-components/react-tooltip/library/src/components/Tooltip/useTooltipBase.tsx",
+  "packages/react-components/react-tooltip/library/src/components/Tooltip/useTooltipStyles.styles.ts",
+  "packages/react-components/react-tooltip/library/tsconfig.cy.json",
+  "packages/react-components/react-tooltip/library/tsconfig.json",
+  "packages/react-components/react-tooltip/library/tsconfig.lib.json",
+  "packages/react-components/react-tooltip/stories/src/Tooltip/TooltipOverflowHidden.stories.tsx",
+  "packages/react-components/react-tooltip/stories/src/Tooltip/index.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix: preserve the headless Tooltip state API after adding overflow visibility handling to react-tooltip\npatch: fix: hide Tooltip when its trigger scrolls outside an overflow container",
+ "recipe": 1,
+ "stories": 33,
+ "findings": 0,
+ "ms": 138784
+}

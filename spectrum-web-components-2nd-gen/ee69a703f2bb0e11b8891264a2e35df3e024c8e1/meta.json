@@ -1,0 +1,25 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "ee69a703f2bb0e11b8891264a2e35df3e024c8e1",
+ "parent": "3956705c5a1b44ee8af7369a84ad905c1bcc8ed8",
+ "date": "2026-05-07",
+ "subject": "docs(badge, divider, progresscircle): improve Chromatic coverage (#6235)",
+ "pr": "6235",
+ "components": [
+  "divider"
+ ],
+ "files": [
+  "2nd-gen/packages/swc/components/badge/stories/badge.stories.ts",
+  "2nd-gen/packages/swc/components/badge/test/badge.a11y.spec.ts",
+  "2nd-gen/packages/swc/components/divider/Divider.ts",
+  "2nd-gen/packages/swc/components/divider/divider.css",
+  "2nd-gen/packages/swc/components/divider/stories/divider.stories.ts",
+  "2nd-gen/packages/swc/components/progress-circle/stories/progress-circle.stories.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 12,
+ "ms": 59736
+}

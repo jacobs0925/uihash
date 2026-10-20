@@ -1,0 +1,40 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "8aa488e3867725b1ed93b2b5c31cba686f116688",
+ "parent": "a6c29ead2237bd02005d19a217e1dfb877a69e45",
+ "date": "2026-05-08",
+ "subject": "feat(tabs): migrate tabs component to 2nd-gen (#6183)",
+ "pr": "6183",
+ "components": [
+  "tabs"
+ ],
+ "files": [
+  ".changeset/tabs-second-gen.md",
+  "2nd-gen/packages/core/components/tabs/Tab.base.ts",
+  "2nd-gen/packages/core/components/tabs/Tab.types.ts",
+  "2nd-gen/packages/core/components/tabs/TabPanel.base.ts",
+  "2nd-gen/packages/core/components/tabs/TabPanel.types.ts",
+  "2nd-gen/packages/core/components/tabs/Tabs.base.ts",
+  "2nd-gen/packages/core/components/tabs/Tabs.types.ts",
+  "2nd-gen/packages/core/components/tabs/index.ts",
+  "2nd-gen/packages/core/package.json",
+  "2nd-gen/packages/swc/components/tabs/Tab.ts",
+  "2nd-gen/packages/swc/components/tabs/TabPanel.ts",
+  "2nd-gen/packages/swc/components/tabs/Tabs.ts",
+  "2nd-gen/packages/swc/components/tabs/index.ts",
+  "2nd-gen/packages/swc/components/tabs/migration.md",
+  "2nd-gen/packages/swc/components/tabs/stories/tabs.stories.ts",
+  "2nd-gen/packages/swc/components/tabs/tab-panel.css",
+  "2nd-gen/packages/swc/components/tabs/tab.css",
+  "2nd-gen/packages/swc/components/tabs/tabs.css",
+  "2nd-gen/packages/swc/components/tabs/test/tabs.a11y.spec.ts",
+  "2nd-gen/packages/swc/components/tabs/test/tabs.test.ts",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/tabs/migration-plan.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': minor\n'@spectrum-web-components/core': minor\n---\n\n**feat(tabs):** Add 2nd-gen tabs (`swc-tabs`, `swc-tab`, `swc-tab-panel`) with Spectrum 2 styling, selection indicator, and WAI-ARIA tabs keyboard behavior. A single side-effect import `@adobe/spectrum-wc/tabs` registers all three elements. See `components/tabs/migration.md` for migration from 1st-gen `sp-tabs`.\n",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 20291
+}

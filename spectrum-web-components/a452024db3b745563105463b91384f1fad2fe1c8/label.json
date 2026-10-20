@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components",
+ "group": "spectrum-web-components",
+ "sha": "a452024db3b745563105463b91384f1fad2fe1c8",
+ "date": "2026-09-30",
+ "pr": "6733",
+ "title": "feat(icons): publish 2nd-gen icon docs and make UI icons deliverable (#6733)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Publish consumer documentation for the Spectrum 2 icon families and make UI icons deliverable.\n\n- **UI icons are now deliverable.** `<swc-ui-icon>` (chevrons, checkmarks, arrows, and other control internals) ships from `@adobe/spectrum-wc` with its own consumer docs page next to workflow icons, rath"
+}

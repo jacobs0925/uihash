@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components-2nd-gen",
+ "group": "spectrum-web-components-2nd-gen",
+ "sha": "41e0483f59d3956ce973bbe50b2d54a1d8c73e9f",
+ "date": "2026-07-15",
+ "pr": "6513",
+ "title": "fix(color-loupe): add adaptive white-first border for WCAG 1.4.11 (#6513)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "**fix(color-loupe):** Added an adaptive white-first inner border to `<swc-color-loupe>` so its chrome meets WCAG 1.4.11 non-text contrast (≥3:1) across the color spectrum.\n\nThe inner border's opacity now escalates above its default floor only when the white outer halo can't itself carry 3:1 contrast"
+}

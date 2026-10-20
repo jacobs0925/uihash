@@ -1,0 +1,28 @@
+{
+ "repo": "fluentui",
+ "sha": "b3ee095a0faf60ed0eba642a26e698453b2fffa5",
+ "parent": "2095d48e326c499b63ea3d0c49edc67ea1d2104b",
+ "date": "2026-03-19",
+ "subject": "fix: ToggleButton provides an opt-in isAccessible variant for accessible checked colors (#35837)",
+ "pr": "35837",
+ "components": [
+  "react-button"
+ ],
+ "files": [
+  "change/@fluentui-react-button-0f3dea23-86d3-4081-86f5-c9f0f0a7e9db.json",
+  "packages/react-components/react-button/library/etc/react-button.api.md",
+  "packages/react-components/react-button/library/src/components/ToggleButton/ToggleButton.types.ts",
+  "packages/react-components/react-button/library/src/components/ToggleButton/useToggleButton.ts",
+  "packages/react-components/react-button/library/src/components/ToggleButton/useToggleButtonStyles.styles.ts",
+  "packages/react-components/react-button/library/src/utils/useToggleState.ts",
+  "packages/react-components/react-button/stories/src/ToggleButton/ToggleButtonAccessibility.md",
+  "packages/react-components/react-button/stories/src/ToggleButton/ToggleButtonAppearanceAccessible.stories.tsx",
+  "packages/react-components/react-button/stories/src/ToggleButton/index.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "minor: fix: ToggleButton provides an opt-in isAccessible variant for accessible checked colors",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 143285
+}

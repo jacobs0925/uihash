@@ -1,0 +1,28 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "03729f77a0a6cae3c80844bd331a42a755040e75",
+ "parent": "acc0197d23b8bb7b0c4a167219b510b5f528af54",
+ "date": "2026-09-08",
+ "subject": "chore(icons): centralize rtl handling for icons in swc-ui-icon (#6579)",
+ "pr": "6579",
+ "components": [
+  "accordion",
+  "ui-icons"
+ ],
+ "files": [
+  "2nd-gen/packages/swc/components/accordion/accordion-item.css",
+  "2nd-gen/packages/swc/components/ui-icons/UiIcon.ts",
+  "2nd-gen/packages/swc/components/ui-icons/index.ts",
+  "2nd-gen/packages/swc/components/ui-icons/test/ui-icons.test.ts",
+  "2nd-gen/packages/swc/components/ui-icons/ui-icon-direction.css",
+  "2nd-gen/packages/swc/components/ui-icons/ui-icon-direction.ts",
+  "2nd-gen/packages/swc/patterns/ai-toolkit/message-sources/test/vrt/message-sources.vrt.ts",
+  "2nd-gen/packages/swc/patterns/ai-toolkit/response-status/test/vrt/response-status.vrt.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 48,
+ "findings": 0,
+ "ms": 110332
+}

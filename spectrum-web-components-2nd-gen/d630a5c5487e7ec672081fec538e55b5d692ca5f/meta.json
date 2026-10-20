@@ -1,0 +1,27 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "d630a5c5487e7ec672081fec538e55b5d692ca5f",
+ "parent": "f73239a5a5881dd56a0b2705ed94df9346b65691",
+ "date": "2026-01-16",
+ "subject": "Feature: Update component styles with token(), new guidelines (#5942)",
+ "pr": "5942",
+ "components": [
+  "badge",
+  "divider",
+  "progress-circle",
+  "status-light"
+ ],
+ "files": [
+  "2nd-gen/packages/swc/components/badge/badge.css",
+  "2nd-gen/packages/swc/components/divider/divider.css",
+  "2nd-gen/packages/swc/components/progress-circle/progress-circle.css",
+  "2nd-gen/packages/swc/components/status-light/status-light.css",
+  "2nd-gen/packages/tools/swc-tokens/index.js"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 63,
+ "ms": 128339
+}

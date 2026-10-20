@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components-2nd-gen",
+ "group": "spectrum-web-components-2nd-gen",
+ "sha": "d505036c47c9e60fdebe5b8ce8b4501aa328e240",
+ "date": "2026-09-16",
+ "pr": "6739",
+ "title": "feat(asset): expanded API and making it public (#6739)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "**feat(asset):** Expanded `<swc-asset>` from a minimal file/folder-icon-or-slot component into a general image/media primitive, and promoted it from the internal genre to public.\n\nAdds sizing (`aspect-ratio`/`width`/`height`), `fit`, `background`, `decorative`, a generalized `accessible-label` fallb"
+}

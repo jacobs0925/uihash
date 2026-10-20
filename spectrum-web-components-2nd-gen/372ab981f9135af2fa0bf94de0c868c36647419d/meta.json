@@ -1,0 +1,35 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "372ab981f9135af2fa0bf94de0c868c36647419d",
+ "parent": "1732aa6bb11085b685e75238f10e57293bbb0c4c",
+ "date": "2026-03-28",
+ "subject": "chore(2nd-gen): review and apply code standards across all components (#6091)",
+ "pr": "6091",
+ "components": [
+  "asset"
+ ],
+ "files": [
+  "2nd-gen/packages/core/components/alert-banner/AlertBanner.base.ts",
+  "2nd-gen/packages/core/components/alert-banner/AlertBanner.types.ts",
+  "2nd-gen/packages/core/components/alert-banner/index.ts",
+  "2nd-gen/packages/core/components/asset/Asset.types.ts",
+  "2nd-gen/packages/core/components/divider/Divider.base.ts",
+  "2nd-gen/packages/core/components/divider/Divider.types.ts",
+  "2nd-gen/packages/core/components/progress-circle/ProgressCircle.types.ts",
+  "2nd-gen/packages/core/components/status-light/StatusLight.base.ts",
+  "2nd-gen/packages/core/components/status-light/StatusLight.types.ts",
+  "2nd-gen/packages/core/mixins/observe-slot-text.ts",
+  "2nd-gen/packages/swc/.storybook/addons/screen-reader-addon/src/register.tsx",
+  "2nd-gen/packages/swc/components/asset/Asset.ts",
+  "2nd-gen/packages/swc/components/asset/asset.css",
+  "2nd-gen/packages/swc/components/divider/Divider.ts",
+  "2nd-gen/packages/swc/components/status-light/StatusLight.ts",
+  "2nd-gen/packages/tools/postcss-token/index.d.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 68178
+}

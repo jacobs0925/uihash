@@ -1,0 +1,37 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "3956705c5a1b44ee8af7369a84ad905c1bcc8ed8",
+ "parent": "7b153b5433a8f6d47850f8939b058f7bc431c48c",
+ "date": "2026-05-06",
+ "subject": "Illustrated Message Component Migration (#6207)",
+ "pr": "6207",
+ "components": [
+  "illustrated-message"
+ ],
+ "files": [
+  ".changeset/tiny-foxes-roam.md",
+  "1st-gen/packages/illustrated-message/src/IllustratedMessage.ts",
+  "1st-gen/packages/illustrated-message/test/illustrated-message.test.ts",
+  "2nd-gen/packages/core/components/illustrated-message/IllustratedMessage.base.ts",
+  "2nd-gen/packages/core/components/illustrated-message/IllustratedMessage.types.ts",
+  "2nd-gen/packages/core/components/illustrated-message/index.ts",
+  "2nd-gen/packages/swc/components/illustrated-message/IllustratedMessage.ts",
+  "2nd-gen/packages/swc/components/illustrated-message/consumer-migration-guide.mdx",
+  "2nd-gen/packages/swc/components/illustrated-message/illustrated-message.css",
+  "2nd-gen/packages/swc/components/illustrated-message/index.ts",
+  "2nd-gen/packages/swc/components/illustrated-message/stories/illustrated-message.stories.ts",
+  "2nd-gen/packages/swc/components/illustrated-message/test/illustrated-message.a11y.spec.ts",
+  "2nd-gen/packages/swc/components/illustrated-message/test/illustrated-message.test.ts",
+  "CONTRIBUTOR-DOCS/03_project-planning/02_workstreams/02_2nd-gen-component-migration/01_status.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/README.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/illustrated-message/accessibility-migration-analysis.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/illustrated-message/migration-plan.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/illustrated-message/rendering-and-styling-migration-analysis.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@spectrum-web-components/illustrated-message': minor\n---\n\nMigrated `<sp-illustrated-message>` to Spectrum 2 (2nd-gen) architecture.\n\n- **Added**: 2nd-gen `<swc-illustrated-message>` component with Spectrum 2 design tokens and styling\n- **Added**: `size` attribute (`s`, `m`, `l`) for controlling component size\n- **Added**: `orientation` attribute (`vertical`, `horizontal`) for layout control\n- **Added**: `heading` slot as the preferred API for providing heading content\n- **Deprecated**: `heading` attribute on `<sp-illustrated-message>` in favor of the `heading` slot; a dev mode warning is emitted when the attribute is used\n",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 20014
+}

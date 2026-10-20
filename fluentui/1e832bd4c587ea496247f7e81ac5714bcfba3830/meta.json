@@ -1,0 +1,30 @@
+{
+ "repo": "fluentui",
+ "sha": "1e832bd4c587ea496247f7e81ac5714bcfba3830",
+ "parent": "a72cc70fab2a56641dd70b83586039833376298b",
+ "date": "2026-03-27",
+ "subject": "feat(react-progress): migrate ProgressBar from CSS to motion components (#35883)",
+ "pr": "35883",
+ "components": [
+  "react-progress"
+ ],
+ "files": [
+  "change/@fluentui-react-motion-b1d963eb-a31f-4267-8db9-aca167e603ec.json",
+  "change/@fluentui-react-progress-dac59611-a230-4906-8ee1-29983f00d886.json",
+  "packages/react-components/react-progress/library/etc/react-progress.api.md",
+  "packages/react-components/react-progress/library/package.json",
+  "packages/react-components/react-progress/library/src/components/ProgressBar/ProgressBar.types.ts",
+  "packages/react-components/react-progress/library/src/components/ProgressBar/progressBarMotions.ts",
+  "packages/react-components/react-progress/library/src/components/ProgressBar/renderProgressBar.tsx",
+  "packages/react-components/react-progress/library/src/components/ProgressBar/useProgressBar.tsx",
+  "packages/react-components/react-progress/library/src/components/ProgressBar/useProgressBarStyles.styles.ts",
+  "packages/react-components/react-progress/stories/src/ProgressBar/ProgressBarMotionCustom.stories.tsx",
+  "packages/react-components/react-progress/stories/src/ProgressBar/index.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "minor: feat: add motionSlot() as parallel to presenceMotionSlot()\npatch: refactor: migrate ProgressBar from CSS to motion components",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 76341
+}

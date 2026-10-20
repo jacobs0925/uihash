@@ -1,0 +1,21 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "5da54741eadcf61d60fd37d700ff457419a4d2ca",
+ "parent": "d49a23f7646fdb5fbfc70374983d81430bc4187e",
+ "date": "2026-07-22",
+ "subject": "chore(progress-circle): refine reduced motion animation (#6533)",
+ "pr": "6533",
+ "components": [
+  "progress-circle"
+ ],
+ "files": [
+  ".changeset/progress-circle-reduced-motion.md",
+  "2nd-gen/packages/swc/components/progress-circle/progress-circle.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': patch\n'@adobe/spectrum-wc-core': patch\n---\n\n**fix(progress-circle):** Replaced the `animation: none` reduced-motion override on `<swc-progress-circle>`'s indeterminate state with a slowed, single-rotation animation driven by custom properties (`--swc-progress-circle-rotate-start`, `--swc-progress-circle-rotate-end`, `--swc-progress-circle-dashoffset-30`), so `prefers-reduced-motion: reduce` still conveys progress without the distracting spin.\n",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 0,
+ "ms": 72869
+}

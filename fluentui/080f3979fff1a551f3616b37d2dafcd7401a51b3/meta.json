@@ -1,0 +1,21 @@
+{
+ "repo": "fluentui",
+ "sha": "080f3979fff1a551f3616b37d2dafcd7401a51b3",
+ "parent": "233e02d989fd22ba25b73affdf2012019f71f9ad",
+ "date": "2026-04-30",
+ "subject": "fix(Option): when disabled, hover styles should not show (#36077)",
+ "pr": "36077",
+ "components": [
+  "react-combobox"
+ ],
+ "files": [
+  "change/@fluentui-react-combobox-a2384656-e329-436f-b5ad-0d9a316c1794.json",
+  "packages/react-components/react-combobox/library/src/components/Option/useOptionStyles.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix(Option): when disabled, hover styles should not show",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 141001
+}

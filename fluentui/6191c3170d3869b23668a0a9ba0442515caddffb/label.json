@@ -1,0 +1,12 @@
+{
+ "app": "fluentui",
+ "group": "fluentui",
+ "sha": "6191c3170d3869b23668a0a9ba0442515caddffb",
+ "date": "2026-06-01",
+ "pr": "35666",
+ "title": "refactor(Calendar): migrate to motion components (#35666)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "patch: refactor(react-calendar): migrate to motion components"
+}

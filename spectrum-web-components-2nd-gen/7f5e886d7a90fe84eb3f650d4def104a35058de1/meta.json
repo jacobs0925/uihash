@@ -1,0 +1,21 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "7f5e886d7a90fe84eb3f650d4def104a35058de1",
+ "parent": "6421fbaebf60229d3e9da56e6fc3fda8c162e2fe",
+ "date": "2026-06-11",
+ "subject": "chore(color-loupe): use opacity-checkerboard in color loupe (#6394)",
+ "pr": "6394",
+ "components": [
+  "color-loupe"
+ ],
+ "files": [
+  "2nd-gen/packages/swc/components/color-loupe/ColorLoupe.ts",
+  "2nd-gen/packages/swc/components/color-loupe/color-loupe.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 6,
+ "ms": 68243
+}

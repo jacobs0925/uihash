@@ -1,0 +1,41 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "173c683786effae6a834bc18532585846e60548a",
+ "parent": "fa5f82ec68b80045551a65aa821d54df297895e1",
+ "date": "2026-06-12",
+ "subject": "docs(css, ai): document process and features of shared style directories (#6403)",
+ "pr": "6403",
+ "components": [
+  "meter"
+ ],
+ "files": [
+  ".ai/rules/code-conformance.md",
+  ".ai/skills/migration-prep/SKILL.md",
+  ".ai/skills/migration-styling/SKILL.md",
+  "2nd-gen/packages/swc/components/color-loupe/ColorLoupe.ts",
+  "2nd-gen/packages/swc/components/meter/Meter.ts",
+  "2nd-gen/packages/swc/components/meter/meter.css",
+  "2nd-gen/packages/swc/components/opacity-checkerboard/opacity-checkerboard.internal.mdx",
+  "2nd-gen/packages/swc/components/opacity-checkerboard/stories/opacity-checkerboard.internal.stories.ts",
+  "2nd-gen/packages/swc/stylesheets/_lit-styles/linear-progress-base.css",
+  "2nd-gen/packages/swc/stylesheets/_lit-styles/opacity-checkerboard.css",
+  "2nd-gen/packages/swc/stylesheets/global/global-button.css",
+  "2nd-gen/packages/swc/stylesheets/shared/linear-progress-base.css",
+  "2nd-gen/packages/swc/stylesheets/shared/opacity-checkerboard.css",
+  "2nd-gen/packages/swc/vite.config.ts",
+  "CONTRIBUTOR-DOCS/01_contributor-guides/12_tools-vs-packages.md",
+  "CONTRIBUTOR-DOCS/02_style-guide/01_css/01_component-css.md",
+  "CONTRIBUTOR-DOCS/02_style-guide/01_css/07_stylesheets.md",
+  "CONTRIBUTOR-DOCS/02_style-guide/01_css/README.md",
+  "CONTRIBUTOR-DOCS/02_style-guide/README.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/meter/migration-plan.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/opacity-checkerboard/accessibility-migration-analysis.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/opacity-checkerboard/migration-plan.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 33,
+ "findings": 0,
+ "ms": 74346
+}

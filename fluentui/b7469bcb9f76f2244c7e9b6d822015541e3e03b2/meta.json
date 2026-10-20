@@ -1,0 +1,21 @@
+{
+ "repo": "fluentui",
+ "sha": "b7469bcb9f76f2244c7e9b6d822015541e3e03b2",
+ "parent": "0e398342d856b879734d1b0047daf4ebfd5d1322",
+ "date": "2026-09-22",
+ "subject": "Fix Dropdown filled boundary in high contrast themes (#36637)",
+ "pr": "36637",
+ "components": [
+  "react-combobox"
+ ],
+ "files": [
+  "change/@fluentui-react-combobox-dropdown-high-contrast-border.json",
+  "packages/react-components/react-combobox/library/src/components/Dropdown/useDropdownStyles.styles.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: fix: render filled Dropdown boundaries in high contrast themes",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 4,
+ "ms": 146192
+}

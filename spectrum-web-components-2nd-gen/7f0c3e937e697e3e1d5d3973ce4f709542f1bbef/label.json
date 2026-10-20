@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components-2nd-gen",
+ "group": "spectrum-web-components-2nd-gen",
+ "sha": "7f0c3e937e697e3e1d5d3973ce4f709542f1bbef",
+ "date": "2026-07-16",
+ "pr": "6439",
+ "title": "feat(button): extract pending state into reusable core primitives (#6439)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Add the 2nd-gen `<swc-close-button>`, migrated from the Spectrum 1 `<sp-close-button>`.\n\n- **API**: `size`, `disabled`, `accessible-label`, and `static-color`; omits the legacy `variant` surface in favor of `static-color`.\n- **Accessibility**: renders a real inner `<button type=\"button\">` with deleg"
+}

@@ -1,0 +1,37 @@
+{
+ "repo": "fluentui",
+ "sha": "6191c3170d3869b23668a0a9ba0442515caddffb",
+ "parent": "d2375b2452d9b8882ed63d4f4e91d8f537379e27",
+ "date": "2026-06-01",
+ "subject": "refactor(Calendar): migrate to motion components (#35666)",
+ "pr": "35666",
+ "components": [
+  "react-calendar-compat"
+ ],
+ "files": [
+  "change/@fluentui-react-calendar-compat-51c1ee36-d9f0-4d16-9a35-8e1fda9424e3.json",
+  "packages/react-components/react-calendar-compat/library/package.json",
+  "packages/react-components/react-calendar-compat/library/src/components/CalendarDay/CalendarDay.tsx",
+  "packages/react-components/react-calendar-compat/library/src/components/CalendarDay/useCalendarDayStyles.styles.ts",
+  "packages/react-components/react-calendar-compat/library/src/components/CalendarDayGrid/CalendarDayGrid.test.tsx",
+  "packages/react-components/react-calendar-compat/library/src/components/CalendarDayGrid/CalendarDayGrid.tsx",
+  "packages/react-components/react-calendar-compat/library/src/components/CalendarDayGrid/CalendarGridRow.tsx",
+  "packages/react-components/react-calendar-compat/library/src/components/CalendarDayGrid/CalendarMonthHeaderRow.tsx",
+  "packages/react-components/react-calendar-compat/library/src/components/CalendarDayGrid/useCalendarDayGridStyles.styles.ts",
+  "packages/react-components/react-calendar-compat/library/src/components/CalendarMonth/CalendarMonth.test.tsx",
+  "packages/react-components/react-calendar-compat/library/src/components/CalendarMonth/CalendarMonth.tsx",
+  "packages/react-components/react-calendar-compat/library/src/components/CalendarPicker/useCalendarPickerStyles.styles.ts",
+  "packages/react-components/react-calendar-compat/library/src/components/CalendarYear/CalendarYear.test.tsx",
+  "packages/react-components/react-calendar-compat/library/src/components/CalendarYear/CalendarYear.tsx",
+  "packages/react-components/react-calendar-compat/library/src/utils/animations.ts",
+  "packages/react-components/react-calendar-compat/library/src/utils/calendarMotions.test.tsx",
+  "packages/react-components/react-calendar-compat/library/src/utils/calendarMotions.tsx",
+  "packages/react-components/react-calendar-compat/library/src/utils/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "patch: refactor(react-calendar): migrate to motion components",
+ "recipe": 1,
+ "stories": 39,
+ "findings": 6,
+ "ms": 158597
+}

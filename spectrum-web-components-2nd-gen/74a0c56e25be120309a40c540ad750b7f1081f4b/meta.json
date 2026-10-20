@@ -1,0 +1,36 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "74a0c56e25be120309a40c540ad750b7f1081f4b",
+ "parent": "3ebd27e7a06f325f15e3ebebf99ac1c420dc84c6",
+ "date": "2026-08-06",
+ "subject": "feat(infield-button): 2nd-gen swc-infield-button migration (Phases 2–8) (#6563)",
+ "pr": "6563",
+ "components": [
+  "infield-button"
+ ],
+ "files": [
+  ".changeset/infield-button-2nd-gen-migration.md",
+  "2nd-gen/packages/core/components/infield-button/InfieldButton.base.ts",
+  "2nd-gen/packages/core/components/infield-button/InfieldButton.types.ts",
+  "2nd-gen/packages/core/components/infield-button/index.ts",
+  "2nd-gen/packages/core/mixins/sized-mixin.ts",
+  "2nd-gen/packages/core/package.json",
+  "2nd-gen/packages/swc/components/infield-button/InfieldButton.ts",
+  "2nd-gen/packages/swc/components/infield-button/index.ts",
+  "2nd-gen/packages/swc/components/infield-button/infield-button.css",
+  "2nd-gen/packages/swc/components/infield-button/infield-button.mdx",
+  "2nd-gen/packages/swc/components/infield-button/migration-guide.mdx",
+  "2nd-gen/packages/swc/components/infield-button/stories/infield-button.stories.ts",
+  "2nd-gen/packages/swc/components/infield-button/swc-infield-button.ts",
+  "2nd-gen/packages/swc/components/infield-button/test/infield-button.a11y.spec.ts",
+  "2nd-gen/packages/swc/components/infield-button/test/infield-button.test.ts",
+  "CONTRIBUTOR-DOCS/03_project-planning/02_workstreams/02_2nd-gen-component-migration/01_status.md",
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/infield-button/migration-plan.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': minor\n'@adobe/spectrum-wc-core': minor\n---\n\nAdd the 2nd-gen `<swc-infield-button>`, the Spectrum 2 net-new icon button for form fields.\n\n- **API**: `accessible-label` (required, maps to `aria-label` on the inner `<button>`), `size` (`s`/`m`/`l`/`xl`), `quiet`, and `disabled`. Does not inherit the 1st-gen link attributes (`href`, `target`, etc.) or position attributes (`block`, `inline`). Accepts icon content via the named `icon` slot.\n- **Accessibility**: button is set to `tabindex=\"-1\"` (not in the tab order); the parent field owns keyboard behavior and the visible focus ring. Missing `accessible-label` fires a dev-mode console warning.\n- **Styling**: `--swc-infield-button-*` custom-property surface covering background-color and icon-color per interactive state. Quiet treatment removes the background.\n- **Docs and tests**: includes Storybook docs, a consumer migration guide, unit and Playwright accessibility tests.\n",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 28249
+}

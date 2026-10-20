@@ -1,0 +1,26 @@
+{
+ "repo": "metabase",
+ "sha": "0cc35ac8768370375de9358e505eac95c4f25429",
+ "parent": "617ca0f5f098cae336d1891aeff2d37e31899e52",
+ "date": "2026-03-26",
+ "subject": "Sprinkled upsell gems in embed wizard (#71076)",
+ "pr": "71076",
+ "components": [
+  "inputs/Checkbox",
+  "inputs/Radio"
+ ],
+ "files": [
+  "frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/Common/WithNotAvailableForOssOrGuestEmbedsGuard.tsx",
+  "frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/SelectEmbedOptionsStep.tsx",
+  "frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/tests/SdkIframeEmbedSetup.unit.spec.tsx",
+  "frontend/src/metabase/embedding/embedding-iframe-sdk-setup/components/tests/test-setup.tsx",
+  "frontend/src/metabase/ui/components/inputs/Checkbox/Checkbox.module.css",
+  "frontend/src/metabase/ui/components/inputs/Radio/Radio.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 39,
+ "findings": 2,
+ "ms": 189049
+}

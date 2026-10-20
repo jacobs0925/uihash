@@ -1,0 +1,30 @@
+{
+ "repo": "spectrum-web-components-2nd-gen",
+ "sha": "591fa65574f7f8175373683e7495059b8ca27fa4",
+ "parent": "4fe9615e3cacc4c64cb302988e68f9cc7287ce64",
+ "date": "2026-06-26",
+ "subject": "chore(illustrated-message): add button group (#6454)",
+ "pr": "6454",
+ "components": [
+  "illustrated-message"
+ ],
+ "files": [
+  ".changeset/illustrated-message-actions-slot.md",
+  "2nd-gen/packages/core/components/button-group/ButtonGroup.base.ts",
+  "2nd-gen/packages/core/components/illustrated-message/IllustratedMessage.base.ts",
+  "2nd-gen/packages/core/controllers/slot-attribute-propagation/index.ts",
+  "2nd-gen/packages/core/controllers/slot-attribute-propagation/src/slot-attribute-propagation-controller.ts",
+  "2nd-gen/packages/swc/components/illustrated-message/IllustratedMessage.ts",
+  "2nd-gen/packages/swc/components/illustrated-message/illustrated-message.css",
+  "2nd-gen/packages/swc/components/illustrated-message/illustrated-message.mdx",
+  "2nd-gen/packages/swc/components/illustrated-message/stories/illustrated-message.stories.ts",
+  "2nd-gen/packages/swc/components/illustrated-message/test/illustrated-message.a11y.spec.ts",
+  "2nd-gen/packages/swc/components/illustrated-message/test/illustrated-message.test.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@spectrum-web-components/core': minor\n'@adobe/spectrum-wc': minor\n---\n\nAdded an `actions` slot to `<swc-illustrated-message>` for placing a `<swc-button>` or `<swc-button-group>` below the description. The component automatically propagates its `size` to every slotted element. Also adds `SlotAttributePropagationController`, an internal Lit `ReactiveController` that propagates any host attribute to slotted children; used by `IllustratedMessage` and `ButtonGroup`.\n",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 4,
+ "ms": 66753
+}

@@ -1,0 +1,30 @@
+{
+ "repo": "spectrum-web-components",
+ "sha": "c85d5559e5eb67b5efd8681f1c7b995706a292bd",
+ "parent": "86176dd4952becf8eb8ca647da06ce2a771262c9",
+ "date": "2026-09-28",
+ "subject": "feat(card): add support for swc-asset (#6778)",
+ "pr": "6778",
+ "components": [
+  "card"
+ ],
+ "files": [
+  "CONTRIBUTOR-DOCS/03_project-planning/03_components/asset/component-plan.md",
+  "gen2/.changeset/card-swc-asset-support.md",
+  "gen2/packages/swc/components/asset/asset.mdx",
+  "gen2/packages/swc/components/card/Card.ts",
+  "gen2/packages/swc/components/card/card.css",
+  "gen2/packages/swc/components/card/card.mdx",
+  "gen2/packages/swc/components/card/stories/card.stories.ts",
+  "gen2/packages/swc/components/card/test/vrt/card-custom-properties.vrt.ts",
+  "gen2/packages/swc/components/card/test/vrt/card.vrt.ts",
+  "gen2/packages/swc/public/images/landscape-art.jpg",
+  "gen2/packages/swc/stylesheets/_lit-styles/card-template.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': minor\n---\n\n**feat(card):** `<swc-card>`'s `preview` and `collection` slots now support `<swc-asset>` alongside a plain `<img>`.\n",
+ "recipe": 1,
+ "stories": 30,
+ "findings": 7,
+ "ms": 121202
+}

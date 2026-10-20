@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "348c513d475a1b6ea09f03a6d4f05245c4369d83",
+ "date": "2026-06-15",
+ "pr": "74769",
+ "title": "Restyle Chip component according to Figma spec (#74769)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "1 visual-test baselines updated"
+}

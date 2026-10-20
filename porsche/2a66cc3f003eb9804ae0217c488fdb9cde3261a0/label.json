@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "2a66cc3f003eb9804ae0217c488fdb9cde3261a0",
+ "date": "2025-11-20",
+ "pr": "4111",
+ "title": "Complex `p-select`/`p-multi-select` option (issue/3940) (#4111)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "24 visual-test baselines updated"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "0226c02c1de10ce7b5bddf174a39983527a5471c",
+ "date": "2025-12-16",
+ "pr": "4132",
+ "title": "[FEAT]: trim whitespace in `p-multi-select` and add fieldSizing to `p-textarea` (#4132)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "13 visual-test baselines updated"
+}

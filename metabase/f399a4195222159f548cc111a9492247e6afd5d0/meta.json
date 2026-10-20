@@ -1,0 +1,26 @@
+{
+ "repo": "metabase",
+ "sha": "f399a4195222159f548cc111a9492247e6afd5d0",
+ "parent": "194821f2227ced8e6d28e82df1ffa1407172809d",
+ "date": "2026-06-19",
+ "subject": "Fix find-never-defined-css-variables for multi-line and whitespace var() usages (#76054)",
+ "pr": "76054",
+ "components": [
+  "inputs/Select",
+  "inputs/Switch"
+ ],
+ "files": [
+  "bin/find-never-defined-css-variables/find-never-defined-css-variables.ts",
+  "bin/find-never-defined-css-variables/find-never-defined-css-variables.unit.spec.ts",
+  "frontend/src/metabase/admin/embedding/components/ThemeEditor/PreviewPanel.module.css",
+  "frontend/src/metabase/public/components/EmbedFrame/EmbedFrame.module.css",
+  "frontend/src/metabase/ui/components/inputs/Select/Select.module.css",
+  "frontend/src/metabase/ui/components/inputs/Switch/Switch.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 271800
+}

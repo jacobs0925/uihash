@@ -1,0 +1,20 @@
+{
+ "repo": "metabase",
+ "sha": "7ee95ea5d8859b6ffb6afa223ba548e6d57c85f6",
+ "parent": "514ec567ba4875857b3393d217e445e57e59ed4f",
+ "date": "2026-06-08",
+ "subject": "Fix tooltips rendering under popovers and menus (#75373)",
+ "pr": "75373",
+ "components": [
+  "overlays/Tooltip"
+ ],
+ "files": [
+  "frontend/src/metabase/ui/components/overlays/Tooltip/Tooltip.config.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 121898
+}

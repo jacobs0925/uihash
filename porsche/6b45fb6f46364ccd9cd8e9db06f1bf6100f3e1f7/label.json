@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "6b45fb6f46364ccd9cd8e9db06f1bf6100f3e1f7",
+ "date": "2026-02-20",
+ "pr": "4209",
+ "title": "Pin Code and Input Email/Url/Password RTL not working as expected (Issue/4183) (#4209)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "9 visual-test baselines updated"
+}

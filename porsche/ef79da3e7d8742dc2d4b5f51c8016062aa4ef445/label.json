@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "ef79da3e7d8742dc2d4b5f51c8016062aa4ef445",
+ "date": "2025-11-20",
+ "pr": "4114",
+ "title": "[Feat]: Add compact mode to `<p-tag-dismissibe />` (#4114)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "13 visual-test baselines updated"
+}

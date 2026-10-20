@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "d36fa12c94d7ea261601cd4f2b6be6c7e2962491",
+ "date": "2026-01-27",
+ "pr": "4180",
+ "title": "feat(components): add wide + full width option for carousel | sas (#4180)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "17 visual-test baselines updated"
+}

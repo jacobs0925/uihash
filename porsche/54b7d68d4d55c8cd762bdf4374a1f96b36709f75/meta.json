@@ -1,0 +1,27 @@
+{
+ "repo": "porsche",
+ "sha": "54b7d68d4d55c8cd762bdf4374a1f96b36709f75",
+ "parent": "6b45fb6f46364ccd9cd8e9db06f1bf6100f3e1f7",
+ "date": "2026-02-24",
+ "subject": "docs(components): add comments | oh | #4183-follow-up (#4211)",
+ "pr": "4211",
+ "components": [
+  "input-email",
+  "input-tel",
+  "input-url"
+ ],
+ "files": [
+  "packages/components/src/components/common/input-base/input-base-styles.ts",
+  "packages/components/src/components/common/input-base/input-base.tsx",
+  "packages/components/src/components/input-email/input-email-styles.ts",
+  "packages/components/src/components/input-tel/input-tel-styles.ts",
+  "packages/components/src/components/input-url/input-url-styles.ts",
+  "packages/components/src/components/pin-code/pin-code.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 781798
+}

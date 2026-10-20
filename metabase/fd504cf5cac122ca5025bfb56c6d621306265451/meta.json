@@ -1,0 +1,21 @@
+{
+ "repo": "metabase",
+ "sha": "fd504cf5cac122ca5025bfb56c6d621306265451",
+ "parent": "b94b50a1224de8436c7f85b9d99651333885cd43",
+ "date": "2026-05-27",
+ "subject": "Add overflow-wrap to tooltip content globally (#74625)",
+ "pr": "74625",
+ "components": [
+  "overlays/Tooltip"
+ ],
+ "files": [
+  "e2e/test/scenarios/onboarding/home/browse.cy.spec.ts",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/Tooltip.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 125104
+}

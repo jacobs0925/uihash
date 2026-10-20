@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "41c077593843067db1301be277ba34f549c4e16b",
+ "date": "2026-04-01",
+ "pr": "4244",
+ "title": "feat(components): add no-wrap prop to segmented control | oh | #4242 (#4244)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "13 visual-test baselines updated"
+}

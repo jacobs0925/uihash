@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "4b19535a98a4c221b141007909ac70c0715417c3",
+ "date": "2026-02-02",
+ "pr": "4181",
+ "title": "Add more flexibility in positioning the label of Checkbox/Radio component (Issue/4096-v3) (#4181)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "39 visual-test baselines updated"
+}

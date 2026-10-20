@@ -1,0 +1,28 @@
+{
+ "repo": "metabase",
+ "sha": "58a170bf01ad237d797e756c5e6757a6acd5adae",
+ "parent": "b757d6b6bf37b49d70793e6334a33e029dd490fd",
+ "date": "2026-06-04",
+ "subject": "GDGT-2525 Introduce PortalContainer for Tooltip component (#75103)",
+ "pr": "75103",
+ "components": [
+  "overlays/Tooltip"
+ ],
+ "files": [
+  ".storybook/preview.tsx",
+  "frontend/src/metabase/app.js",
+  "frontend/src/metabase/ui/components/overlays/PortalContainer/PortalContainer.tsx",
+  "frontend/src/metabase/ui/components/overlays/PortalContainer/PortalContainer.unit.spec.tsx",
+  "frontend/src/metabase/ui/components/overlays/PortalContainer/constants.ts",
+  "frontend/src/metabase/ui/components/overlays/PortalContainer/index.ts",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/Tooltip.config.tsx",
+  "frontend/src/metabase/ui/components/overlays/index.ts",
+  "frontend/test/__support__/ui.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 116418
+}

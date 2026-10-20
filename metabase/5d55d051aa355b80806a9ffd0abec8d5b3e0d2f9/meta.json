@@ -1,0 +1,24 @@
+{
+ "repo": "metabase",
+ "sha": "5d55d051aa355b80806a9ffd0abec8d5b3e0d2f9",
+ "parent": "87abb0fe6b3a480cd5ae6474252d41db2e65f7a2",
+ "date": "2026-05-19",
+ "subject": "Add hover border for default Mantine Input and Select across the app (#73945)",
+ "pr": "73945",
+ "components": [
+  "inputs/Input"
+ ],
+ "files": [
+  "frontend/src/metabase/common/components/SelectButton/SelectButton.styled.tsx",
+  "frontend/src/metabase/dashboard/components/ParameterSettings/MoveParameterMenu/MoveParameterMenu.module.css",
+  "frontend/src/metabase/parameters/components/ParameterValueWidget.module.css",
+  "frontend/src/metabase/ui/components/inputs/Input/Input.module.css",
+  "frontend/src/metabase/visualizations/components/ChartSettingsWidget.styled.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 104499
+}

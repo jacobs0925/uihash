@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "459893538582e1a3c61341bf1f69c02bda28210a",
+ "date": "2025-11-10",
+ "pr": "4094",
+ "title": "feat(component): `segmented-control` restore proportional shrinking (#4094)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "13 visual-test baselines updated"
+}

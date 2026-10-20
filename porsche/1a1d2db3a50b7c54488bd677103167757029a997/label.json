@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "1a1d2db3a50b7c54488bd677103167757029a997",
+ "date": "2025-11-14",
+ "pr": "4089",
+ "title": "[Feat]: Add filter `<slot/>` to `p-select` (#4089)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "### Added\n\n- `Multi Select, Select`:\n  - `filter` slot to allow custom asynchronous filtering\n  - `toggle` event when opening/closing the dropdown\n    ([#4089](https://github.com/porsche-design-system/porsche-design-system/pull/4089))"
+}

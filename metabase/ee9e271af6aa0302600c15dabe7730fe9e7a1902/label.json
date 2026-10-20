@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "ee9e271af6aa0302600c15dabe7730fe9e7a1902",
+ "date": "2026-04-13",
+ "pr": "72375",
+ "title": "Update Checkbox Styling (#72375)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "10 visual-test baselines updated"
+}

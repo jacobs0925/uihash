@@ -1,0 +1,47 @@
+{
+ "repo": "metabase",
+ "sha": "ee9e271af6aa0302600c15dabe7730fe9e7a1902",
+ "parent": "297421c5642bf3fc7d109d83011b84a238c4a226",
+ "date": "2026-04-13",
+ "subject": "Update Checkbox Styling (#72375)",
+ "pr": "72375",
+ "components": [
+  "inputs/Checkbox"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Parameter_List.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Parameter_List_With_Value.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Parameter_Search.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Parameter_Search_With_Value.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Parameter_List.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Parameter_List_With_Value.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Parameter_Search.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Parameter_Search_With_Value.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Exclude_Day_Of_Week.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Exclude_Day_Of_Week_Dark_Theme.png",
+  "frontend/src/metabase/parameters/components/ParameterSettings/TemporalUnitSettings/TemporalUnitSettings.tsx",
+  "frontend/src/metabase/parameters/components/widgets/ParameterFieldWidget/FieldValuesWidget/ListField/ListField.tsx",
+  "frontend/src/metabase/querying/common/components/DatePicker/ExcludeDatePicker/ExcludeDatePicker.tsx",
+  "frontend/src/metabase/querying/common/components/FieldValuePicker/ListValuePicker/ListValuePicker.tsx",
+  "frontend/src/metabase/ui/components/inputs/Checkbox/Checkbox.config.ts",
+  "frontend/src/metabase/ui/components/inputs/Checkbox/Checkbox.module.css",
+  "frontend/src/metabase/ui/components/inputs/Checkbox/Checkbox.stories.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Parameter_List.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Parameter_List_With_Value.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Parameter_Search.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Parameter_Search_With_Value.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Parameter_List.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Parameter_List_With_Value.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Parameter_Search.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Parameter_Search_With_Value.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Exclude_Day_Of_Week.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Exclude_Day_Of_Week_Dark_Theme.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 12,
+ "ms": 205595
+}

@@ -1,0 +1,12 @@
+{
+ "app": "gravity-uikit",
+ "group": "gravity-uikit",
+ "sha": "5dfd555b1225804f1682e2a96650556c511d876d",
+ "date": "2026-10-08",
+ "pr": "2900",
+ "title": "feat(Button)!: add contrast views with themer v2 (#2900)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "14 visual-test baselines updated"
+}

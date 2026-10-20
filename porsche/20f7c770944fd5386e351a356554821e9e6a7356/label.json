@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "20f7c770944fd5386e351a356554821e9e6a7356",
+ "date": "2025-11-17",
+ "pr": "4023",
+ "title": "state + error for segmented control (issue/3997) (#4023)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "13 visual-test baselines updated"
+}

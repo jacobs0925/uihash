@@ -1,0 +1,22 @@
+{
+ "repo": "metabase",
+ "sha": "f2c9b9e1ee0401d6fc9cfb94278511477f61c35f",
+ "parent": "8698ce1f2b43e852507efba991ec21866f96e0df",
+ "date": "2026-04-30",
+ "subject": "Added a loading indicator to static dashboard pdf export button (#73300)",
+ "pr": "73300",
+ "components": [
+  "buttons/ActionIcon"
+ ],
+ "files": [
+  "frontend/src/metabase/dashboard/components/DashboardHeader/buttons/ExportAsPdfButton.tsx",
+  "frontend/src/metabase/dashboard/components/DashboardHeader/buttons/ExportAsPdfButton.unit.spec.tsx",
+  "frontend/src/metabase/ui/components/buttons/ActionIcon/ActionIcon.config.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 105764
+}

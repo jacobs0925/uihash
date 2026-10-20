@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "7996338e5836d2b5455f4481c8ea890bb17cb97b",
+ "date": "2025-11-11",
+ "pr": "4093",
+ "title": "Configurable hyphenation (issue/4087) (#4093)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "### Added\n\n- `hyphens` CSS property can be changed by CSS variable `--p-hyphens` in all components containing text content\n  ([#4093](https://github.com/porsche-design-system/porsche-design-system/pull/4093))"
+}

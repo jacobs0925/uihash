@@ -1,0 +1,12 @@
+{
+ "app": "gravity-uikit",
+ "group": "gravity-uikit",
+ "sha": "2fbff0339c65452bdd572b77136910cb788d871b",
+ "date": "2026-10-07",
+ "pr": "2509",
+ "title": "feat(layout-components)!: add Grid component and rethink other (#2509)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "12 visual-test baselines updated"
+}

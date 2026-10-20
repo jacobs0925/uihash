@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "d9b9e1798e4c23ae607e14a2538890e12a0564ac",
+ "date": "2025-10-31",
+ "pr": "4078",
+ "title": "[Bug] - Radio Group not focusable in initial (deselected) state (Issue/4062) (#4078)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "2 visual-test baselines updated"
+}

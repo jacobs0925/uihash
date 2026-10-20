@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "4cd1a9f9f637535c1fb7379b2ded890034f0046f",
+ "date": "2025-10-20",
+ "pr": "4025",
+ "title": "Add footer slot to `p-link-tile` and `p-button-tile` (issue/4009) (#4025)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "22 visual-test baselines updated"
+}

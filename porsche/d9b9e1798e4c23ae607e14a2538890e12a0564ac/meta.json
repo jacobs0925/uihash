@@ -1,0 +1,49 @@
+{
+ "repo": "porsche",
+ "sha": "d9b9e1798e4c23ae607e14a2538890e12a0564ac",
+ "parent": "8ba53c604faddf3471bdfd3556f9f7d6da94a85f",
+ "date": "2025-10-31",
+ "subject": "[Bug] - Radio Group not focusable in initial (deselected) state (Issue/4062) (#4078)",
+ "pr": "4078",
+ "components": [
+  "radio-group"
+ ],
+ "files": [
+  "packages/components-js/tests/a11y/specs/a11ytree/__snapshots__/p-radio-group-0.aria.yml",
+  "packages/components-js/tests/a11y/specs/a11ytree/__snapshots__/p-radio-group-1.aria.yml",
+  "packages/components-js/tests/a11y/specs/a11ytree/__snapshots__/p-radio-group-10.aria.yml",
+  "packages/components-js/tests/a11y/specs/a11ytree/__snapshots__/p-radio-group-2.aria.yml",
+  "packages/components-js/tests/a11y/specs/a11ytree/__snapshots__/p-radio-group-3.aria.yml",
+  "packages/components-js/tests/a11y/specs/a11ytree/__snapshots__/p-radio-group-4.aria.yml",
+  "packages/components-js/tests/a11y/specs/a11ytree/__snapshots__/p-radio-group-5.aria.yml",
+  "packages/components-js/tests/a11y/specs/a11ytree/__snapshots__/p-radio-group-6.aria.yml",
+  "packages/components-js/tests/a11y/specs/a11ytree/__snapshots__/p-radio-group-7.aria.yml",
+  "packages/components-js/tests/a11y/specs/a11ytree/__snapshots__/p-radio-group-8.aria.yml",
+  "packages/components-js/tests/a11y/specs/a11ytree/__snapshots__/p-radio-group-9.aria.yml",
+  "packages/components-js/tests/e2e/specs/default-dom.e2e.ts-snapshots/p-radio-group-option.txt",
+  "packages/components-js/tests/e2e/specs/default-dom.e2e.ts-snapshots/p-radio-group.txt",
+  "packages/components-js/tests/e2e/specs/radio-group.e2e.ts",
+  "packages/components-js/tests/unit/fixtures/stats.json",
+  "packages/components-js/tests/vrt/specs/__screenshots__/radio-group-1000-theme-dark-safari.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/radio-group-1000-theme-light-safari.png",
+  "packages/components-react/projects/react-ssr-wrapper/tests/unit/specs/__snapshots__/react-ssr-wrapper.spec.tsx.snap",
+  "packages/components/src/components/common/label/label-utils.ts",
+  "packages/components/src/components/common/label/label.tsx",
+  "packages/components/src/components/radio-group/radio-group-option/radio-group-option.tsx",
+  "packages/components/src/components/radio-group/radio-group/__snapshots__/radio-group-styles.spec.ts.snap",
+  "packages/components/src/components/radio-group/radio-group/radio-group-styles.ts",
+  "packages/components/src/components/radio-group/radio-group/radio-group-utils.ts",
+  "packages/components/src/components/radio-group/radio-group/radio-group.spec.ts",
+  "packages/components/src/components/radio-group/radio-group/radio-group.tsx",
+  "packages/storefront/src/app/components/radio-group/accessibility/page.mdx"
+ ],
+ "snapshotsUpdated": [
+  "packages/components-js/tests/vrt/specs/__screenshots__/radio-group-1000-theme-dark-safari.png",
+  "packages/components-js/tests/vrt/specs/__screenshots__/radio-group-1000-theme-light-safari.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 780419
+}

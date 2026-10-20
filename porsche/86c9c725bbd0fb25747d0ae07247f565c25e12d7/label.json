@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "86c9c725bbd0fb25747d0ae07247f565c25e12d7",
+ "date": "2025-10-23",
+ "pr": "4020",
+ "title": "[FEAT]: add compact mode for `p-segmented-control` (#3913) (#4020)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "16 visual-test baselines updated"
+}

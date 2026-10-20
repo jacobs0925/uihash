@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "3ffec460335e55d790b7093ed9997936b09d114b",
+ "date": "2025-11-17",
+ "pr": "4102",
+ "title": "[Feat]: Add compact mode to `<p-textarea />` (#4102)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "13 visual-test baselines updated"
+}

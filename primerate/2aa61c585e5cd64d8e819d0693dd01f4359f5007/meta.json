@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2aa61c585e5cd64d8e819d0693dd01f4359f5007",
+ "parent": "c099dc6ece40679b196e4ea187c5fe56d21bce77",
+ "date": "2025-10-08",
+ "subject": "Add FHA MIP details to client loan calculation card",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44514
+}

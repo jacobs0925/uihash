@@ -1,0 +1,28 @@
+{
+ "repo": "metabase",
+ "sha": "fb3f08713df11826996a7ae55e99c1784d77a11b",
+ "parent": "c6e544cb1cb62fef3d179c5e4eb30051975d07a5",
+ "date": "2026-08-14",
+ "subject": "Gemini Enterprise Agent Platform: FE changes (#79558)",
+ "pr": "79558",
+ "components": [
+  "inputs/FileInput"
+ ],
+ "files": [
+  "frontend/src/metabase-types/api/metabot.ts",
+  "frontend/src/metabase-types/api/settings.ts",
+  "frontend/src/metabase/admin/ai/AIProviderSettingsSection.unit.spec.tsx",
+  "frontend/src/metabase/metabot/api.ts",
+  "frontend/src/metabase/metabot/components/AIProviderConfigurationForm/AIProviderConfigurationForm.tsx",
+  "frontend/src/metabase/metabot/components/AIProviderConfigurationForm/GoogleProviderFields.tsx",
+  "frontend/src/metabase/metabot/components/AIProviderConfigurationForm/utils.ts",
+  "frontend/src/metabase/ui/components/inputs/FileInput/FileInput.config.tsx",
+  "frontend/src/metabase/ui/components/inputs/FileInput/FileInput.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 39,
+ "findings": 6,
+ "ms": 179248
+}

@@ -1,0 +1,44 @@
+{
+ "repo": "metabase",
+ "sha": "121fa7febe10f12baaf1aaa66727bcbdbcf4d17f",
+ "parent": "ee4510a467fb663c1af1719548c0f7b208ccad40",
+ "date": "2026-10-01",
+ "subject": "GDGT-3240: SegmentedControl (#82657)",
+ "pr": "82657",
+ "components": [
+  "inputs/SegmentedControl"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_Components_Inputs_SegmentedControl_Overview.png",
+  ".loki/reference/chrome_laptop_Design_System_Colors_Default.png",
+  "enterprise/frontend/src/metabase-enterprise/collections/components/FormCollectionAuthorityLevel.tsx",
+  "enterprise/frontend/src/metabase-enterprise/dependencies/components/SortOptionsPicker/SortOptionsPicker.tsx",
+  "enterprise/frontend/src/metabase-enterprise/google_drive/GdriveConnectionModal.tsx",
+  "frontend/src/metabase/common/components/ExportSettingsWidget/ExportSettingsWidget.tsx",
+  "frontend/src/metabase/common/components/Schedule/components.tsx",
+  "frontend/src/metabase/embedding/embedding-iframe-sdk/embed.stories.tsx",
+  "frontend/src/metabase/explorations/components/ExplorationSidebar/ExplorationSidebar.tsx",
+  "frontend/src/metabase/metadata/components/FieldOrderPicker/FieldOrderPicker.module.css",
+  "frontend/src/metabase/metadata/components/FieldOrderPicker/FieldOrderPicker.tsx",
+  "frontend/src/metabase/query_builder/components/view/QuestionDisplayToggle/QuestionDisplayToggle.module.css",
+  "frontend/src/metabase/query_builder/components/view/QuestionDisplayToggle/QuestionDisplayToggle.tsx",
+  "frontend/src/metabase/ui/colors/constants/themes/dark.ts",
+  "frontend/src/metabase/ui/colors/constants/themes/light.ts",
+  "frontend/src/metabase/ui/colors/types/color-keys.ts",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/SegmentedControl.config.ts",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/SegmentedControl.mdx",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/SegmentedControl.module.css",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/SegmentedControl.stories.tsx",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/index.tsx",
+  "loki.config.js"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_Components_Inputs_SegmentedControl_Overview.png",
+  ".loki/reference/chrome_laptop_Design_System_Colors_Default.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 6,
+ "ms": 79295
+}

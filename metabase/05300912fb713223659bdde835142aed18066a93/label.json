@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "05300912fb713223659bdde835142aed18066a93",
+ "date": "2026-08-27",
+ "pr": "80372",
+ "title": "Radio component redesign (#80372)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "3 visual-test baselines updated"
+}

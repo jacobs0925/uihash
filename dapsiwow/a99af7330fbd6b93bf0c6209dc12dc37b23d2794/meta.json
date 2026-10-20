@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a99af7330fbd6b93bf0c6209dc12dc37b23d2794",
+ "parent": "caf62b87ef5c6fdad2130d7f420b317448622b97",
+ "date": "2025-11-10",
+ "subject": "Assistant checkpoint: Shortened hero section description",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 155848
+}

@@ -1,0 +1,34 @@
+{
+ "repo": "metabase",
+ "sha": "0c5d3b3a596239f1e6023ee9e95f893ee46c130b",
+ "parent": "3989cb5eb38481d980888a58fbc374a4092a8c89",
+ "date": "2026-08-19",
+ "subject": "GDGT-2459: Update Tooltip component (#79994)",
+ "pr": "79994",
+ "components": [
+  "overlays/Tooltip"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_Component_Compatibility.png",
+  ".loki/reference/chrome_laptop_Components_Overlays_Tooltip_Long_Content_With_Fixed_Width.png",
+  ".loki/reference/chrome_laptop_Components_Overlays_Tooltip_Overview.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_ParameterValueWidget_Default.png",
+  ".loki/reference/chrome_laptop_viz_Scalar_With_Formatting_And_Hover.png",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/Tooltip.config.tsx",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/Tooltip.mdx",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/Tooltip.module.css",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/Tooltip.stories.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_Component_Compatibility.png",
+  ".loki/reference/chrome_laptop_Components_Overlays_Tooltip_Long_Content_With_Fixed_Width.png",
+  ".loki/reference/chrome_laptop_Components_Overlays_Tooltip_Overview.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_ParameterValueWidget_Default.png",
+  ".loki/reference/chrome_laptop_viz_Scalar_With_Formatting_And_Hover.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 99893
+}

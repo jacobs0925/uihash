@@ -1,0 +1,23 @@
+{
+ "repo": "metabase",
+ "sha": "5b7c89d8ee4c526dc810f8479328bf0dad5f3e93",
+ "parent": "05d2f186a058fe8f0a3f38705f036f9e73ce774e",
+ "date": "2026-09-11",
+ "subject": "GDGT-2478 Translate PasswordInput toggle label at call time (#82338)",
+ "pr": "82338",
+ "components": [
+  "inputs/PasswordInput"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_Components_Inputs_PasswordInput_Overview.png",
+  "frontend/src/metabase/ui/components/inputs/PasswordInput/PasswordInput.config.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_Components_Inputs_PasswordInput_Overview.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 82176
+}

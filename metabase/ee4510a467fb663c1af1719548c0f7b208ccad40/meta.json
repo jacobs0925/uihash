@@ -1,0 +1,35 @@
+{
+ "repo": "metabase",
+ "sha": "ee4510a467fb663c1af1719548c0f7b208ccad40",
+ "parent": "35d0f1356eddb89e266a661c1c88587b60d3c5fe",
+ "date": "2026-10-01",
+ "subject": "Compile jest imports lazily (#82998)",
+ "pr": "82998",
+ "components": [
+  "data-display/Accordion"
+ ],
+ "files": [
+  "bun.lock",
+  "enterprise/frontend/src/embedding-sdk-ee/notifications/QuestionAlertsButton.unit.spec.tsx",
+  "enterprise/frontend/src/metabase-enterprise/security_center/components/SecurityCenterBanner/SecurityCenterBanner.unit.spec.tsx",
+  "frontend/src/metabase/common/components/Pickers/EntityPicker/hooks/use-get-path-from-value.unit.spec.tsx",
+  "frontend/src/metabase/embedding/embedding-iframe-sdk/embed.unit.spec.ts",
+  "frontend/src/metabase/query_builder/actions/core/initializeQB.unit.spec.ts",
+  "frontend/src/metabase/ui/components/data-display/Accordion/Accordion.config.tsx",
+  "frontend/src/metabase/visualizations/components/ObjectDetail/ObjectDetailPanel.unit.spec.tsx",
+  "frontend/test/__support__/ui.tsx",
+  "frontend/test/__support__/utils.ts",
+  "frontend/test/i18n-import-time.unit.spec.ts",
+  "frontend/test/jest-setup-eager.js",
+  "frontend/test/jest-setup-env.js",
+  "frontend/test/jest-test-runner.js",
+  "jest.base.conf.js",
+  "package.json"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 86978
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "36cfc04ad1d86eca88b8d83b938ef372e576bdd5",
+ "date": "2025-11-10",
+ "pr": null,
+ "title": "Restored to '4c21c3a8cf11ac58ac194b0b6ef4d180f11b0dfd'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Calculate EMI for home, car, personal, a\" → \"Calculate EMI for home loan, car loan, p\" undone by 9e3ec53a \"Assistant checkpoint: Shortened hero text and added professional styling\"; text: \"Calculate EMI for home, car, personal, a\" → \"Calculate EMI for home loan, car loan, p\" undone by 9e3ec53a \"Assistant checkpoint: Shortened hero text and added professional styling\"; text: \"Calculate EMI for home, car, personal, a\" → \"Calculate EMI for home loan, car loan, p\" undone by 9e3ec53a \"Assistant checkpoint: Shortened hero text and added professional styling\""
+}

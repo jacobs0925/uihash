@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "6a035e234ce52cc54bad2d47b73ea3f6c4df15c7",
+ "date": "2026-09-11",
+ "pr": "82278",
+ "title": "Use JetBrains Mono as the code font (#82278)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "14 visual-test baselines updated"
+}

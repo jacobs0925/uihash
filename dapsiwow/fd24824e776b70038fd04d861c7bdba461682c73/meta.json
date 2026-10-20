@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "fd24824e776b70038fd04d861c7bdba461682c73",
+ "parent": "7223a99ed0a51ee586ff5f8b0bf1b20515a05391",
+ "date": "2025-11-10",
+ "subject": "Improve SEO by updating meta tags and titles for the loan calculator page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 131835
+}

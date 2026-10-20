@@ -5,8 +5,8 @@
  "date": "2025-10-10",
  "pr": null,
  "title": "Assistant checkpoint: Removed icons from Related Calculators section",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2629 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "text-align: center → ∅ undone by a9adb3c1 \"Restored to '3a5010b0a29b4152b0672d17132a9d7f85d6da2a'\"; line-height: 1.5 → ∅ undone by a9adb3c1 \"Restored to '3a5010b0a29b4152b0672d17132a9d7f85d6da2a'\"; font-size: 16px → ∅ undone by a9adb3c1 \"Restored to '3a5010b0a29b4152b0672d17132a9d7f85d6da2a'\""
 }

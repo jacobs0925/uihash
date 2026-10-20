@@ -5,8 +5,8 @@
  "date": "2025-10-08",
  "pr": null,
  "title": "Improve calculator responsiveness for various screen sizes",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2766 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "padding-right: 16px → 20px undone by 6bed0325 \"Assistant checkpoint: Update hero sections to be shorter and professional\"; padding-left: 16px → 20px undone by 6bed0325 \"Assistant checkpoint: Update hero sections to be shorter and professional\"; max-width: ∅ → 100% undone by 6bed0325 \"Assistant checkpoint: Update hero sections to be shorter and professional\""
 }

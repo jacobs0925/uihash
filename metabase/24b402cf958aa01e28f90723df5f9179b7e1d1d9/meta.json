@@ -1,0 +1,20 @@
+{
+ "repo": "metabase",
+ "sha": "24b402cf958aa01e28f90723df5f9179b7e1d1d9",
+ "parent": "ca89dc06f148ae1e4dc26322e747521e265421d3",
+ "date": "2026-08-11",
+ "subject": "Fix icon and text vertical alignment in incremental transform alert (#79681)",
+ "pr": "79681",
+ "components": [
+  "feedback/Alert"
+ ],
+ "files": [
+  "frontend/src/metabase/ui/components/feedback/Alert/Alert.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 94485
+}

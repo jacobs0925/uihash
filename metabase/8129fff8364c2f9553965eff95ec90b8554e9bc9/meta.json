@@ -1,0 +1,23 @@
+{
+ "repo": "metabase",
+ "sha": "8129fff8364c2f9553965eff95ec90b8554e9bc9",
+ "parent": "0b0e6c0f4bf7c90d41557f48635cb770081eba9d",
+ "date": "2026-08-17",
+ "subject": "Match SelectButton styling to Select (#79879)",
+ "pr": "79879",
+ "components": [
+  "inputs/Select"
+ ],
+ "files": [
+  "frontend/src/metabase/common/components/SelectButton/SelectButton.module.css",
+  "frontend/src/metabase/common/components/SelectButton/SelectButton.styled.tsx",
+  "frontend/src/metabase/common/components/SelectButton/SelectButton.tsx",
+  "frontend/src/metabase/ui/components/inputs/Select/Select.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 4,
+ "ms": 254711
+}

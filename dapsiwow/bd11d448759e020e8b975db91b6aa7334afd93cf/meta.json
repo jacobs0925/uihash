@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "bd11d448759e020e8b975db91b6aa7334afd93cf",
+ "parent": "59dfa729f8c89af4f80759d05d7d845dd8c2ff96",
+ "date": "2025-11-10",
+ "subject": "Assistant checkpoint: Removed all educational content from loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 153322
+}

@@ -1,0 +1,28 @@
+{
+ "repo": "metabase",
+ "sha": "0e7e969925ab969e2b13c1b5ced3c2ae5d803fbf",
+ "parent": "1dfc2d1c903cfa935475b18eaffd4708d69ce8a4",
+ "date": "2026-09-07",
+ "subject": "GDGT-2467: Curate Paper radius tokens (#81700)",
+ "pr": "81700",
+ "components": [
+  "utils/Paper"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_Components_Overlays_Modal_Opened.png",
+  ".loki/reference/chrome_laptop_Components_Utils_Paper_Shadow_matrix.png",
+  ".loki/reference/chrome_laptop_Design_System_Colors_Default.png",
+  "frontend/src/metabase/ui/components/utils/Paper/Paper.config.tsx",
+  "frontend/src/metabase/ui/components/utils/Paper/Paper.stories.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_Components_Overlays_Modal_Opened.png",
+  ".loki/reference/chrome_laptop_Components_Utils_Paper_Shadow_matrix.png",
+  ".loki/reference/chrome_laptop_Design_System_Colors_Default.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 10,
+ "ms": 108918
+}

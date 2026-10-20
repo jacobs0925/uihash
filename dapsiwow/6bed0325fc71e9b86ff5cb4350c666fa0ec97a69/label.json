@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "6bed0325fc71e9b86ff5cb4350c666fa0ec97a69",
+ "date": "2025-11-10",
+ "pr": null,
+ "title": "Assistant checkpoint: Update hero sections to be shorter and professional",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 81bf767a, which restored 945e790c (1 commit discarded)"
+}

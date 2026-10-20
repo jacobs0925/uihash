@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "81bf767a80ac33f438c6a3b6a7c3e9ef7844f800",
+ "date": "2025-11-10",
+ "pr": null,
+ "title": "Restored to '945e790cde54b32e920dedbad4d125becd9d6afa'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"EMI (Equated Monthly Installment) is a f\" → \"EMI (Equated Monthly Installment) is a f\" undone by 9fa4d145 \"Assistant checkpoint: Shortened EMI Calculator hero section\"; text: \"EMI (Equated Monthly Installment) is a f\" → \"EMI (Equated Monthly Installment) is a f\" undone by 9fa4d145 \"Assistant checkpoint: Shortened EMI Calculator hero section\"; text: \"EMI (Equated Monthly Installment) is a f\" → \"EMI (Equated Monthly Installment) is a f\" undone by 9fa4d145 \"Assistant checkpoint: Shortened EMI Calculator hero section\""
+}

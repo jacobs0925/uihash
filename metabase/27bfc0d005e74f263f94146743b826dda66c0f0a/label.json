@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "27bfc0d005e74f263f94146743b826dda66c0f0a",
+ "date": "2026-08-25",
+ "pr": "80262",
+ "title": "Checkbox component redesign (#80262)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "14 visual-test baselines updated"
+}

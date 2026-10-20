@@ -1,0 +1,33 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e62d58e621c014b2707f1900871929cd1b2033b9",
+ "parent": "5af2d7829aec100b648105c9d1b613eaa7435441",
+ "date": "2025-11-04",
+ "subject": "Created a checkpoint",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/App.tsx",
+  "client/src/data/tools.ts",
+  "client/src/pages/markdown-to-pdf.tsx",
+  "dist/sitemap-finance.xml",
+  "dist/sitemap-health.xml",
+  "dist/sitemap-main.xml",
+  "dist/sitemap-text.xml",
+  "dist/sitemap.xml",
+  "package-lock.json",
+  "package.json"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 143774
+}

@@ -1,0 +1,34 @@
+{
+ "repo": "metabase",
+ "sha": "8e45662740d0ee3552dcc39b437e5b0a9030f429",
+ "parent": "40e185b47fced17623aa42a081d936a520c5af08",
+ "date": "2026-07-21",
+ "subject": "Restyle Pill component to match Figma design (#77086)",
+ "pr": "77086",
+ "components": [
+  "inputs/Pill"
+ ],
+ "files": [
+  "enterprise/frontend/src/metabase-enterprise/dependencies/components/DependencyGraph/GraphNode/GraphNode.module.css",
+  "frontend/src/metabase/admin/people/components/AddMemberRow.tsx",
+  "frontend/src/metabase/common/components/ReorderableTagsInput/ReorderableTagsInput.module.css",
+  "frontend/src/metabase/common/components/ReorderableTagsInput/ReorderableTagsInput.tsx",
+  "frontend/src/metabase/metrics-viewer/components/MetricSearch/MetricPill/MetricPill.module.css",
+  "frontend/src/metabase/metrics-viewer/components/MetricSearch/MetricPill/MetricPill.tsx",
+  "frontend/src/metabase/metrics-viewer/components/MetricsFilterPills/MetricsFilterPill.module.css",
+  "frontend/src/metabase/metrics-viewer/components/MetricsFilterPills/MetricsFilterPill.tsx",
+  "frontend/src/metabase/metrics-viewer/components/MetricsFilterPills/MetricsFilterPillPopover.tsx",
+  "frontend/src/metabase/transforms/pages/RunListPage/RunTable/TagList/TagList.tsx",
+  "frontend/src/metabase/ui/components/inputs/Pill/Pill.config.ts",
+  "frontend/src/metabase/ui/components/inputs/Pill/Pill.module.css",
+  "frontend/src/metabase/ui/components/inputs/Pill/Pill.stories.tsx",
+  "frontend/src/metabase/ui/components/inputs/Pill/index.ts",
+  "frontend/src/metabase/ui/theme.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 64045
+}

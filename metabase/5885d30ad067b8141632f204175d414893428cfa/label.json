@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "5885d30ad067b8141632f204175d414893428cfa",
+ "date": "2026-09-02",
+ "pr": "80481",
+ "title": "GDGT-2486 Add elevation, radius, and spacing scale variables (#80481)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "box-shadow: ∅ → rgba(0, 0, 0, 0.07) 0px 1px 3px 0px undone by 3c07580b \"GDGT-3188 Remove unintended elevation styles (#81958)\"; box-shadow: ∅ → rgba(0, 0, 0, 0.07) 0px 1px 3px 0px undone by 3c07580b \"GDGT-3188 Remove unintended elevation styles (#81958)\"; box-shadow: ∅ → rgba(0, 0, 0, 0.07) 0px 1px 3px 0px undone by 3c07580b \"GDGT-3188 Remove unintended elevation styles (#81958)\""
+}

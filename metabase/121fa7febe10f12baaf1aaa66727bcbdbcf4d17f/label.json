@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "121fa7febe10f12baaf1aaa66727bcbdbcf4d17f",
+ "date": "2026-10-01",
+ "pr": "82657",
+ "title": "GDGT-3240: SegmentedControl (#82657)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "2 visual-test baselines updated"
+}

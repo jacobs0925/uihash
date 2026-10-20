@@ -5,8 +5,8 @@
  "date": "2025-10-08",
  "pr": null,
  "title": "Improve EMI calculator usage instructions with updated styling",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2693 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "backdrop-filter: blur(4px) → ∅ undone by 205740fa \"Restored to '7e00532129153ee6a18d4287930b70bac5d598c6'\"; backdrop-filter: blur(4px) → ∅ undone by 205740fa \"Restored to '7e00532129153ee6a18d4287930b70bac5d598c6'\"; backdrop-filter: blur(4px) → ∅ undone by 205740fa \"Restored to '7e00532129153ee6a18d4287930b70bac5d598c6'\""
 }

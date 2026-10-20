@@ -1,0 +1,20 @@
+{
+ "repo": "metabase",
+ "sha": "68caadb85f0ef64c0c7ded29ab14966507e11136",
+ "parent": "0af6bce7a7e210625eff1e2ba30b22ce2ee8289c",
+ "date": "2026-09-30",
+ "subject": "Use font-size tokens for Button label (#83334)",
+ "pr": "83334",
+ "components": [
+  "buttons/Button"
+ ],
+ "files": [
+  "frontend/src/metabase/ui/components/buttons/Button/Button.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 24,
+ "findings": 0,
+ "ms": 181380
+}

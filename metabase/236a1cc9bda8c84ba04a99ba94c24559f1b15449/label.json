@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "236a1cc9bda8c84ba04a99ba94c24559f1b15449",
+ "date": "2026-09-12",
+ "pr": "82174",
+ "title": "Gdgt 2461 tabs (#82174)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "13 visual-test baselines updated"
+}

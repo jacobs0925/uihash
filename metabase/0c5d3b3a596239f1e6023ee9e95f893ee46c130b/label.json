@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "0c5d3b3a596239f1e6023ee9e95f893ee46c130b",
+ "date": "2026-08-19",
+ "pr": "79994",
+ "title": "GDGT-2459: Update Tooltip component (#79994)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "5 visual-test baselines updated"
+}

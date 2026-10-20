@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "a99af7330fbd6b93bf0c6209dc12dc37b23d2794",
+ "date": "2025-11-10",
+ "pr": null,
+ "title": "Assistant checkpoint: Shortened hero section description",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1844 later commits"
+}

@@ -1,0 +1,32 @@
+{
+ "repo": "primer-brand",
+ "sha": "c309493bb3fdfc70e8db9b1f996f2b225fdb6d20",
+ "parent": "6df49ae56da76b5ada3dbb37d9a0285ddbdf3504",
+ "date": "2026-10-20",
+ "subject": "Fix FeatureComparisonTable issues (#1508)",
+ "pr": "1508",
+ "components": [
+  "FeatureComparisonTable"
+ ],
+ "files": [
+  ".changeset/tidy-tables-align.md",
+  "packages/react/src/FeatureComparisonTable/FeatureComparisonTable.examples.stories.tsx",
+  "packages/react/src/FeatureComparisonTable/FeatureComparisonTable.module.css",
+  "packages/react/src/FeatureComparisonTable/FeatureComparisonTable.module.css.d.ts",
+  "packages/react/src/FeatureComparisonTable/FeatureComparisonTable.test.tsx",
+  "packages/react/src/FeatureComparisonTable/FeatureComparisonTable.visual.spec.ts-snapshots/Visual-Comparison-FeatureComparisonTable-Feat-c7e2c-sonTable-Copilot-Individual-Plans-Dark-Mode-1-darwin.png",
+  "packages/react/src/FeatureComparisonTable/FeatureComparisonTable.visual.spec.ts-snapshots/Visual-Comparison-FeatureComparisonTable-FeatureComparisonTable-Copilot-Individual-Plans-1-darwin.png",
+  "packages/react/src/FeatureComparisonTable/FeatureComparisonTable.visual.spec.ts-snapshots/Visual-Comparison-FeatureComparisonTable-FeatureComparisonTable-Row-Descriptions-1-darwin.png",
+  "packages/react/src/FeatureComparisonTable/sub-components/FeatureComparisonTableRow.tsx"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/FeatureComparisonTable/FeatureComparisonTable.visual.spec.ts-snapshots/Visual-Comparison-FeatureComparisonTable-Feat-c7e2c-sonTable-Copilot-Individual-Plans-Dark-Mode-1-darwin.png",
+  "packages/react/src/FeatureComparisonTable/FeatureComparisonTable.visual.spec.ts-snapshots/Visual-Comparison-FeatureComparisonTable-FeatureComparisonTable-Copilot-Individual-Plans-1-darwin.png",
+  "packages/react/src/FeatureComparisonTable/FeatureComparisonTable.visual.spec.ts-snapshots/Visual-Comparison-FeatureComparisonTable-FeatureComparisonTable-Row-Descriptions-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n'@primer/brand-css': patch\n---\n\nFix cell alignment and sticky header gutters in `FeatureComparisonTable`.\n",
+ "recipe": 1,
+ "stories": 54,
+ "findings": 40,
+ "ms": 230580
+}

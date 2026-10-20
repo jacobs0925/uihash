@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8cb6dff23d30e7911f51b277e94c64f927e5db46",
+ "parent": "2aa61c585e5cd64d8e819d0693dd01f4359f5007",
+ "date": "2025-10-08",
+ "subject": "Improve spacing and add action buttons to the FHA MIP pop-up",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44155
+}

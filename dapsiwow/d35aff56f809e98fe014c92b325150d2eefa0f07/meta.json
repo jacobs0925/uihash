@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d35aff56f809e98fe014c92b325150d2eefa0f07",
+ "parent": "a7358b2c06aa7ef98fc860709c5663742a479326",
+ "date": "2025-11-10",
+ "subject": "Assistant checkpoint: Shorten hero section description",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 150606
+}

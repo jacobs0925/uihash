@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "467f8718975babdd009c256dd85298ad94631935",
+ "parent": "7f06dffcf0aa82ddfb075a4706431a26549c72b2",
+ "date": "2025-11-10",
+ "subject": "Assistant checkpoint: Shortened hero heading to be more professional",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 142853
+}

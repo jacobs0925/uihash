@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "9e3ec53ab6b9c5b411638d7e1bf47acb16e8bf8e",
+ "parent": "4c21c3a8cf11ac58ac194b0b6ef4d180f11b0dfd",
+ "date": "2025-11-10",
+ "subject": "Assistant checkpoint: Shortened hero text and added professional styling",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "client/src/index.css",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 177331
+}

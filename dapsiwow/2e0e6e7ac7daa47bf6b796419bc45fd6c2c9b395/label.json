@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "2e0e6e7ac7daa47bf6b796419bc45fd6c2c9b395",
+ "date": "2025-11-10",
+ "pr": null,
+ "title": "Assistant checkpoint: Shortened hero description text",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 6a88d332, which restored d5e0ab76 (1 commit discarded)"
+}

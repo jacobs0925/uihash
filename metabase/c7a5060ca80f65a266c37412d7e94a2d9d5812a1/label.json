@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "c7a5060ca80f65a266c37412d7e94a2d9d5812a1",
+ "date": "2026-09-08",
+ "pr": "81709",
+ "title": "GDGT-2462: Update Switch component (#81709)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "7 visual-test baselines updated"
+}

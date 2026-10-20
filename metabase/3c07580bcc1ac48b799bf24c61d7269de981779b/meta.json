@@ -1,0 +1,27 @@
+{
+ "repo": "metabase",
+ "sha": "3c07580bcc1ac48b799bf24c61d7269de981779b",
+ "parent": "38fcd8e0578aca301490750da76b083cb3645bc4",
+ "date": "2026-09-07",
+ "subject": "GDGT-3188 Remove unintended elevation styles (#81958)",
+ "pr": "81958",
+ "components": [
+  "buttons/ActionIcon",
+  "buttons/Button",
+  "feedback/Alert",
+  "inputs/SegmentedControl"
+ ],
+ "files": [
+  "frontend/src/metabase/ui/components/buttons/ActionIcon/ActionIcon.module.css",
+  "frontend/src/metabase/ui/components/buttons/Button/Button.module.css",
+  "frontend/src/metabase/ui/components/feedback/Alert/Alert.module.css",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/SegmentedControl.module.css",
+  "frontend/src/metabase/ui/theme.unit.spec.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 11,
+ "ms": 295704
+}

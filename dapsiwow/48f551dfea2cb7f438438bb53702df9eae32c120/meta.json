@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "48f551dfea2cb7f438438bb53702df9eae32c120",
+ "parent": "de0e50669a187a5468da06c354355a74992b0596",
+ "date": "2025-11-10",
+ "subject": "Improve compound interest calculator SEO with updated metadata",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 132935
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "a780f4c01a7a15f262b0b717780e8019ba0ef153",
+ "date": "2025-11-10",
+ "pr": null,
+ "title": "Assistant checkpoint: Updated EMI calculator hero section styling",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by a9adb3c1, which restored 3a5010b0 (1 commit discarded)"
+}

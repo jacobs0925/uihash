@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "fa20179ff645e11241a3e452d9c1440e561dfd06",
+ "date": "2026-09-23",
+ "pr": "82236",
+ "title": "Restyle Button to the Figma spec and migrate call sites (#82236)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "56 visual-test baselines updated"
+}

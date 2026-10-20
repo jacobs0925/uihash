@@ -1,0 +1,45 @@
+{
+ "repo": "metabase",
+ "sha": "05300912fb713223659bdde835142aed18066a93",
+ "parent": "3ecdab5ea77e01d46d304ecf47f19724621d1bb9",
+ "date": "2026-08-27",
+ "subject": "Radio component redesign (#80372)",
+ "pr": "80372",
+ "components": [
+  "inputs/Checkbox",
+  "inputs/Radio"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_Components_Inputs_Checkbox_Checkbox_Card.png",
+  ".loki/reference/chrome_laptop_Components_Inputs_Radio_Overview.png",
+  ".loki/reference/chrome_laptop_Components_Inputs_Radio_Radio_Card.png",
+  "enterprise/frontend/src/metabase-enterprise/tenants/EditUserStrategyModal/EditUserStrategyModal.module.css",
+  "enterprise/frontend/src/metabase-enterprise/tenants/EditUserStrategyModal/EditUserStrategyModal.tsx",
+  "frontend/src/metabase/common/metrics/components/FilterPicker/DefaultFilterPicker/DefaultFilterPicker.tsx",
+  "frontend/src/metabase/embedding/embedding-hub/components/SetupPermissionsAndTenantsPage/DataSegregationStrategyPicker.module.css",
+  "frontend/src/metabase/embedding/embedding-hub/components/SetupPermissionsAndTenantsPage/DataSegregationStrategyPicker.tsx",
+  "frontend/src/metabase/querying/common/components/BooleanPicker/BooleanPicker.tsx",
+  "frontend/src/metabase/querying/filters/components/FilterPicker/DefaultFilterPicker/DefaultFilterPicker.tsx",
+  "frontend/src/metabase/ui/components/inputs/Checkbox/Checkbox.module.css",
+  "frontend/src/metabase/ui/components/inputs/Checkbox/Checkbox.stories.tsx",
+  "frontend/src/metabase/ui/components/inputs/Checkbox/CheckboxCard.tsx",
+  "frontend/src/metabase/ui/components/inputs/Radio/Radio.config.ts",
+  "frontend/src/metabase/ui/components/inputs/Radio/Radio.mdx",
+  "frontend/src/metabase/ui/components/inputs/Radio/Radio.module.css",
+  "frontend/src/metabase/ui/components/inputs/Radio/Radio.stories.tsx",
+  "frontend/src/metabase/ui/components/inputs/Radio/RadioCard.tsx",
+  "frontend/src/metabase/ui/components/inputs/Radio/index.tsx",
+  "frontend/src/metabase/ui/stories/showcase/StoryJsx.tsx",
+  "loki.config.js"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_Components_Inputs_Checkbox_Checkbox_Card.png",
+  ".loki/reference/chrome_laptop_Components_Inputs_Radio_Overview.png",
+  ".loki/reference/chrome_laptop_Components_Inputs_Radio_Radio_Card.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 6,
+ "ms": 178667
+}

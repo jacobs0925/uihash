@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "a9731f6e65e39b68237121d41e0cb3800b3cb929",
+ "date": "2026-07-24",
+ "pr": "78260",
+ "title": "style(sdk-bundle): Alert component redesign (#78260)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "6 visual-test baselines updated"
+}

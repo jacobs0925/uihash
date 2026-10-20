@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "0e7e969925ab969e2b13c1b5ced3c2ae5d803fbf",
+ "date": "2026-09-07",
+ "pr": "81700",
+ "title": "GDGT-2467: Curate Paper radius tokens (#81700)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "3 visual-test baselines updated"
+}

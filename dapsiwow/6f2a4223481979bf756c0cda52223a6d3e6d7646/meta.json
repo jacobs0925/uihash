@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "6f2a4223481979bf756c0cda52223a6d3e6d7646",
+ "parent": "50b15f65905cffe3ef224d885dec533d7a5f49db",
+ "date": "2025-11-10",
+ "subject": "Assistant checkpoint: Shorten hero section text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 140365
+}

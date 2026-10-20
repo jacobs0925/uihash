@@ -7,6 +7,6 @@
  "title": "Restored to 'e53678397a66a4fa210733bbc409dc32c9313db9'",
  "label": 1,
  "source": "undo",
- "confidence": 0.7,
+ "confidence": 0.85,
  "evidence": "text: \"Calculate monthly loan payments, total i\" → \"Calculate monthly loan payments, total i\" undone by b0130514 \"Assistant checkpoint: Added testimonial sections to 3 calculators\"; text: \"Making extra payments directly reduces y\" → \"Making extra payments directly reduces y\" undone by b0130514 \"Assistant checkpoint: Added testimonial sections to 3 calculators\"; text: \"Making half your monthly payment every t\" → \"Making half your monthly payment every t\" undone by b0130514 \"Assistant checkpoint: Added testimonial sections to 3 calculators\""
 }

@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "81bf767a80ac33f438c6a3b6a7c3e9ef7844f800",
+ "parent": "6bed0325fc71e9b86ff5cb4350c666fa0ec97a69",
+ "date": "2025-11-10",
+ "subject": "Restored to '945e790cde54b32e920dedbad4d125becd9d6afa'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx",
+  "client/src/pages/emi-calculator.tsx",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 18,
+ "ms": 178767
+}

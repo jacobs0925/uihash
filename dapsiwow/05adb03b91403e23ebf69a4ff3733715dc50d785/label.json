@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "05adb03b91403e23ebf69a4ff3733715dc50d785",
+ "date": "2025-11-10",
+ "pr": null,
+ "title": "Improve loan calculator SEO and professionalize hero section",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 43806c5e, which restored c9d69908 (5 commits discarded)"
+}

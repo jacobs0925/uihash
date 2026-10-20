@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "01d4659a3e08d17932cca86fb3fcee5234276770",
+ "date": "2026-10-06",
+ "pr": "83336",
+ "title": "GDGT-3241: SegmentedControl constrained text + icon props (#83336)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "1 visual-test baselines updated"
+}

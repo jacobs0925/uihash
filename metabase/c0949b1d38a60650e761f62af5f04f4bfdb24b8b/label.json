@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "c0949b1d38a60650e761f62af5f04f4bfdb24b8b",
+ "date": "2026-09-09",
+ "pr": "81561",
+ "title": "Gdgt 2465 popover (#81561)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "50 visual-test baselines updated"
+}

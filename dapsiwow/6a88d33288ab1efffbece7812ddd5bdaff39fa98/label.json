@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "6a88d33288ab1efffbece7812ddd5bdaff39fa98",
+ "date": "2025-11-10",
+ "pr": null,
+ "title": "Restored to 'd5e0ab76097f741051d5b4b1e6ad8cf7a4439eb8'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Inflation erodes purchasing power of fut\" → \"Inflation erodes purchasing power of fut\" undone by d35aff56 \"Assistant checkpoint: Shorten hero section description\"; text: \"Absolutely! This calculator is excellent\" → \"Absolutely! This calculator is excellent\" undone by d35aff56 \"Assistant checkpoint: Shorten hero section description\"; text: \"Step-up SIP automatically increases your\" → \"Step-up SIP automatically increases your\" undone by d35aff56 \"Assistant checkpoint: Shorten hero section description\""
+}

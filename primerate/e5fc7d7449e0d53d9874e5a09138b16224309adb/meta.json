@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e5fc7d7449e0d53d9874e5a09138b16224309adb",
+ "parent": "19f009e7de85a7883f1fc291f55bda6c3f4130cc",
+ "date": "2025-10-08",
+ "subject": "Ensure FHA MIP values are correctly calculated for all rate columns",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45172
+}

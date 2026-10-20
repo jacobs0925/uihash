@@ -1,0 +1,36 @@
+{
+ "repo": "metabase",
+ "sha": "ca17b89463272bb17cb07d2da2f7663eedc3e7a9",
+ "parent": "38b7b8c0b730cfe52d65da030e18941f73614e83",
+ "date": "2026-09-11",
+ "subject": "GDGT-2478 PasswordInput (#82117)",
+ "pr": "82117",
+ "components": [
+  "inputs/PasswordInput"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_Components_Inputs_PasswordInput_Overview.png",
+  ".loki/reference/chrome_laptop_Design_System_Colors_Default.png",
+  "e2e/test/scenarios/admin-2/people.cy.spec.js",
+  "frontend/src/metabase/common/components/PasswordReveal/PasswordReveal.tsx",
+  "frontend/src/metabase/common/components/PasswordReveal/PasswordReveal.unit.spec.tsx",
+  "frontend/src/metabase/ui/colors/constants/themes/dark.ts",
+  "frontend/src/metabase/ui/colors/constants/themes/light.ts",
+  "frontend/src/metabase/ui/colors/types/color-keys.ts",
+  "frontend/src/metabase/ui/components/inputs/PasswordInput/PasswordInput.config.tsx",
+  "frontend/src/metabase/ui/components/inputs/PasswordInput/PasswordInput.module.css",
+  "frontend/src/metabase/ui/components/inputs/PasswordInput/PasswordInput.stories.tsx",
+  "frontend/src/metabase/ui/components/inputs/PasswordInput/index.ts",
+  "frontend/src/metabase/ui/components/inputs/PasswordInput/index.tsx",
+  "loki.config.js"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_Components_Inputs_PasswordInput_Overview.png",
+  ".loki/reference/chrome_laptop_Design_System_Colors_Default.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 63184
+}

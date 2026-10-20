@@ -5,8 +5,8 @@
  "date": "2025-10-08",
  "pr": null,
  "title": "Make EMI calculator content sections responsive like the loan calculator",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2810 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-bottom: 24px → 32px undone by 9fa4d145 \"Assistant checkpoint: Shortened EMI Calculator hero section\"; margin-bottom: 24px → 32px undone by 9fa4d145 \"Assistant checkpoint: Shortened EMI Calculator hero section\"; margin-bottom: 24px → 32px undone by 9fa4d145 \"Assistant checkpoint: Shortened EMI Calculator hero section\""
 }

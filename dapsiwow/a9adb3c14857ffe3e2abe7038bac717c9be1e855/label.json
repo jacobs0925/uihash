@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "a9adb3c14857ffe3e2abe7038bac717c9be1e855",
+ "date": "2025-11-10",
+ "pr": null,
+ "title": "Restored to '3a5010b0a29b4152b0672d17132a9d7f85d6da2a'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text-align: ∅ → center undone by fbae81e8 \"Assistant checkpoint: Updated EMI Calculator hero section\"; line-height: ∅ → 1.5 undone by fbae81e8 \"Assistant checkpoint: Updated EMI Calculator hero section\"; font-size: ∅ → 16px undone by fbae81e8 \"Assistant checkpoint: Updated EMI Calculator hero section\""
+}

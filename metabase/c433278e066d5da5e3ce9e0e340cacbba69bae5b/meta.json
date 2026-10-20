@@ -1,0 +1,36 @@
+{
+ "repo": "metabase",
+ "sha": "c433278e066d5da5e3ce9e0e340cacbba69bae5b",
+ "parent": "11be7cb3e76356d5b0f6ee753d0b701c9b3959e2",
+ "date": "2026-08-27",
+ "subject": "Gdgt 2472 loader (#80586)",
+ "pr": "80586",
+ "components": [
+  "feedback/Loader"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_Components_Feedback_Loader_Default.png",
+  ".loki/reference/chrome_laptop_Components_Feedback_Loader_Overview.png",
+  ".storybook/main.ts",
+  "bun.lock",
+  "frontend/src/metabase/ui/components/feedback/Loader/Loader.config.ts",
+  "frontend/src/metabase/ui/components/feedback/Loader/Loader.mdx",
+  "frontend/src/metabase/ui/components/feedback/Loader/Loader.module.css",
+  "frontend/src/metabase/ui/components/feedback/Loader/Loader.stories.tsx",
+  "frontend/src/metabase/ui/components/feedback/Loader/Loader.tsx",
+  "frontend/src/metabase/ui/components/feedback/Loader/Loader.unit.spec.tsx",
+  "frontend/src/metabase/ui/components/feedback/Loader/index.ts",
+  "frontend/src/metabase/ui/theme.ts",
+  "loki.config.js",
+  "package.json"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_Components_Feedback_Loader_Default.png",
+  ".loki/reference/chrome_laptop_Components_Feedback_Loader_Overview.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 2,
+ "ms": 86437
+}

@@ -1,0 +1,35 @@
+{
+ "repo": "metabase",
+ "sha": "bc75a88888f904d8a89437e60681ad13a87a17b1",
+ "parent": "cd6bcc23e0ba89514bf4bad7d9a47bdc7e0315d8",
+ "date": "2026-09-28",
+ "subject": "GDGT-2458: Accordion (#82562)",
+ "pr": "82562",
+ "components": [
+  "data-display/Accordion"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_Components_Data_display_Accordion_Overview.png",
+  "enterprise/frontend/src/metabase-enterprise/monitor/ai-auditing/metabot-analytics/components/ConversationStatsPage/__snapshots__/DataComplexityCards.unit.spec.tsx.snap",
+  "enterprise/frontend/src/metabase-enterprise/remote_sync/components/RemoteSyncAdminSettings/RemoteSyncDependencyModal.module.css",
+  "enterprise/frontend/src/metabase-enterprise/remote_sync/components/RemoteSyncAdminSettings/RemoteSyncDependencyModal.tsx",
+  "frontend/src/metabase/admin/ai/MetabotSlackSetup.tsx",
+  "frontend/src/metabase/admin/permissions/components/DataPermissionsHelp/DataPermissionsHelp.tsx",
+  "frontend/src/metabase/home/components/Onboarding/Onboarding.module.css",
+  "frontend/src/metabase/metrics/components/MetricDimensions/AddDimensionsPanel.tsx",
+  "frontend/src/metabase/settings-components/SettingsSection/SettingsSection.module.css",
+  "frontend/src/metabase/ui/components/data-display/Accordion/Accordion.config.ts",
+  "frontend/src/metabase/ui/components/data-display/Accordion/Accordion.config.tsx",
+  "frontend/src/metabase/ui/components/data-display/Accordion/Accordion.module.css",
+  "frontend/src/metabase/ui/components/data-display/Accordion/Accordion.stories.tsx",
+  "loki.config.js"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_Components_Data_display_Accordion_Overview.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 70796
+}

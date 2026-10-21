@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "63df78b52a13202f4b4b6c760ad725998d3b5642",
+ "parent": "b322bfb966fbddc9530b2089a4d2965e79a4303f",
+ "date": "2025-12-19",
+ "subject": "Improve mobile navigation hamburger menu usability and accessibility",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 198647
+}

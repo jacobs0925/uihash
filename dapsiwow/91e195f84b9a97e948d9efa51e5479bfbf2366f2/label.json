@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "91e195f84b9a97e948d9efa51e5479bfbf2366f2",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Assistant checkpoint: Add balloon payment, biweekly modes, GTM config, save feature",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 944 later commits"
+}

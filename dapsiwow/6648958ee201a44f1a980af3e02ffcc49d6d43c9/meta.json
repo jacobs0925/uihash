@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "6648958ee201a44f1a980af3e02ffcc49d6d43c9",
+ "parent": "7fcf4be4cc0256dd5942b14166938e85fb256a8c",
+ "date": "2025-12-20",
+ "subject": "Add comprehensive SEO meta tags to the homepage for better search visibility",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 200253
+}

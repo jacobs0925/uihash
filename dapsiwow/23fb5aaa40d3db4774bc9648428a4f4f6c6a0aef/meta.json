@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "23fb5aaa40d3db4774bc9648428a4f4f6c6a0aef",
+ "parent": "4042ca719943ba4205e2a403174f79b7468b1d10",
+ "date": "2025-11-24",
+ "subject": "Update loan calculator PDF to enhance comparison table and add new features",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 195520
+}

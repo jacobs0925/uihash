@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "6dd44742b96910c164e90e54d8d3008589d2dde3",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Add ability to share and download loan calculation results as PDF",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 962 later commits"
+}

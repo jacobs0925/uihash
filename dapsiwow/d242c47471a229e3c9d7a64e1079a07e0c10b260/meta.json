@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d242c47471a229e3c9d7a64e1079a07e0c10b260",
+ "parent": "b52782fb932588235dd64cc7688ad5f7723bc149",
+ "date": "2025-11-24",
+ "subject": "Improve loan calculator accuracy by updating calculation dependencies",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 200844
+}

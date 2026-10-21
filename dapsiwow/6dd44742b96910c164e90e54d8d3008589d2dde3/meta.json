@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "6dd44742b96910c164e90e54d8d3008589d2dde3",
+ "parent": "3eb06c4fa5eae1dee7b6f01e29c4246d8aed1eba",
+ "date": "2025-11-24",
+ "subject": "Add ability to share and download loan calculation results as PDF",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 221381
+}

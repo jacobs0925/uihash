@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "72a39b059817b7f3a8f85e2b6b1155f8a44fb383",
+ "parent": "63df78b52a13202f4b4b6c760ad725998d3b5642",
+ "date": "2025-12-19",
+ "subject": "Remove the menu header and close button from the mobile navigation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1766165534054.png",
+  "client/src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 198792
+}

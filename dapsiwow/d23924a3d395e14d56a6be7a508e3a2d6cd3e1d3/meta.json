@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d23924a3d395e14d56a6be7a508e3a2d6cd3e1d3",
+ "parent": "0c2fb4ad890ae3d9199876a19e623e7bc031b6e2",
+ "date": "2025-11-24",
+ "subject": "Improve chart responsiveness for loan calculator on mobile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1763977531604.png",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 193560
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "75b4b6512e102d9b464e45f7a5a3771d6a1840cc",
+ "parent": "b80e208c8baf509a8ead316e5810f372eeb5c4f4",
+ "date": "2025-11-24",
+ "subject": "Improve loan calculator save-to-profile functionality with error handling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1764001126243.png",
+  "attached_assets/image_1764001138307.png",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 198649
+}

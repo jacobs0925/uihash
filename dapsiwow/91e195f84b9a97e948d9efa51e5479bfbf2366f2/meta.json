@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "91e195f84b9a97e948d9efa51e5479bfbf2366f2",
+ "parent": "05bf10e430b93017ce1b970301fafd8b19163731",
+ "date": "2025-11-24",
+ "subject": "Assistant checkpoint: Add balloon payment, biweekly modes, GTM config, save feature",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 215487
+}

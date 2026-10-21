@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "22f6cc86c751be7040a3d83886998b7e270ae5b4",
+ "date": "2025-12-19",
+ "pr": null,
+ "title": "Improve header navigation for better spacing, accessibility, and visual appeal",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 916 later commits"
+}

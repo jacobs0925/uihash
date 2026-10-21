@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "0c2fb4ad890ae3d9199876a19e623e7bc031b6e2",
+ "parent": "022561e6816c29b63c1045fb2f13c7634a07850f",
+ "date": "2025-11-24",
+ "subject": "Enhance loan calculator PDF export to match EMI calculator's professional design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 195411
+}

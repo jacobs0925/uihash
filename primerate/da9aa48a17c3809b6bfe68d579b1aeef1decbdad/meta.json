@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "da9aa48a17c3809b6bfe68d579b1aeef1decbdad",
+ "parent": "732b4bdc597476ec482847b5d6d073cfe18ac44d",
+ "date": "2025-10-08",
+ "subject": "Adjust spacing for monthly payment information pop-up box",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50177
+}

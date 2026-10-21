@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "966f9edd023301cb8ea25c5af691eaa8e55319cf",
+ "parent": "8187f85fd007fa934ba5af3c7ae0cfb66ddc5447",
+ "date": "2025-10-08",
+ "subject": "Remove red line separator from add client page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49776
+}

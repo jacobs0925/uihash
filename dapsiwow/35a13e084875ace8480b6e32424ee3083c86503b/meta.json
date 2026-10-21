@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "35a13e084875ace8480b6e32424ee3083c86503b",
+ "parent": "e387ebf3ec217addd3995495f2d99d4158670746",
+ "date": "2025-11-12",
+ "subject": "Assistant checkpoint: Make Share section fully responsive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 194592
+}

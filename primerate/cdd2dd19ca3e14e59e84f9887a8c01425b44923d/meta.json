@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "cdd2dd19ca3e14e59e84f9887a8c01425b44923d",
+ "parent": "53950655434a199a77fda4132f4b02a8b1099125",
+ "date": "2025-10-08",
+ "subject": "Adjust loan category display for FHA and VA funding fees",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51227
+}

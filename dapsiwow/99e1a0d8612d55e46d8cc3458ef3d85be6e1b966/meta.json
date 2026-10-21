@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "99e1a0d8612d55e46d8cc3458ef3d85be6e1b966",
+ "parent": "ec78928b8c469a6fa834627878bc975275813882",
+ "date": "2025-11-12",
+ "subject": "Enhance finance tool pages with improved search engine visibility",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/finance-tools.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 193481
+}

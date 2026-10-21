@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "87eaf8326e3588bf092b6b376cdf9162a609af93",
+ "parent": "40d617eb319c5225684289ddf6cf38c1dfdb38df",
+ "date": "2025-11-12",
+ "subject": "Assistant checkpoint: Made breadcrumbs fully responsive on 3 calculators",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/emi-calculator.tsx",
+  "client/src/pages/loan-calculator.tsx",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 8,
+ "ms": 431332
+}

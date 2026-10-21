@@ -1,0 +1,28 @@
+{
+ "repo": "dapsiwow",
+ "sha": "296eaa620ab78d8741b388d7682b0278bea5b832",
+ "parent": "87eaf8326e3588bf092b6b376cdf9162a609af93",
+ "date": "2025-11-12",
+ "subject": "Restored to 'e4114650bf5724471426d24f0cc606b0dcf5899d'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/image_1762957535321.png",
+  "attached_assets/image_1762957843706.png",
+  "attached_assets/image_1762959009919.png",
+  "client/src/pages/business-loan-calculator.tsx",
+  "client/src/pages/compound-interest-calculator.tsx",
+  "client/src/pages/emi-calculator.tsx",
+  "client/src/pages/loan-calculator.tsx",
+  "client/src/pages/mortgage-calculator.tsx",
+  "client/src/pages/roi-calculator.tsx",
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 7,
+ "ms": 706068
+}

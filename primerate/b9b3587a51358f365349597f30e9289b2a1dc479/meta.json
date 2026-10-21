@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b9b3587a51358f365349597f30e9289b2a1dc479",
+ "parent": "f59b2bf27f2fb1fac7a7a5aa7b83f9cdc3d26578",
+ "date": "2025-10-08",
+ "subject": "Update VA loan funding fee input and validation logic",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50087
+}

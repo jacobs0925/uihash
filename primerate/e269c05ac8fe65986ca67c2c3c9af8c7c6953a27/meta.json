@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "e269c05ac8fe65986ca67c2c3c9af8c7c6953a27",
+ "parent": "cdd2dd19ca3e14e59e84f9887a8c01425b44923d",
+ "date": "2025-10-08",
+ "subject": "Update VA funding fee input to be editable and auto-summed",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50666
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6b17ad859693632c9b280a5e87929fec1137624d",
+ "parent": "3cce4ca38517ec18189ba6ae4ee77862dea698fc",
+ "date": "2025-10-08",
+ "subject": "Adjust spacing for existing monthly payment display",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49916
+}

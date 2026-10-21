@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "fdb754198433d52dc8d65d468faa36e9ada2ad70",
+ "parent": "c8a2e26464e306a4abdc10e677ec5ebc9ed80d83",
+ "date": "2025-11-13",
+ "subject": "Fix critical errors throughout the blog section and improve user experience",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/blog-post.tsx",
+  "client/src/pages/blog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 195011
+}

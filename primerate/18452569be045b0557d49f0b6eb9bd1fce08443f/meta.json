@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "18452569be045b0557d49f0b6eb9bd1fce08443f",
+ "parent": "a06c30f06aee466b24e7fc97047f918dc95b1cf4",
+ "date": "2025-10-08",
+ "subject": "Remove the \"Apply to Rate\" button from the VA funding fee dialog",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50262
+}

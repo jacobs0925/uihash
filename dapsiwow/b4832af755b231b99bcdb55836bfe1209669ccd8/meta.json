@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b4832af755b231b99bcdb55836bfe1209669ccd8",
+ "parent": "153c35134641b7c93eab90b5706b373262d492d0",
+ "date": "2025-11-12",
+ "subject": "Restored to 'bd023968b405febd81f860d38c4232d87827e9b0'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx",
+  "client/src/pages/compound-interest-calculator.tsx",
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 6,
+ "ms": 317774
+}

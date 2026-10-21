@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d2543c38ed77896ad548d03cbb110ada1fac7693",
+ "parent": "cf54d93295a8d877767121713bed200e39081c64",
+ "date": "2025-10-08",
+ "subject": "Update loan settings to display the correct icon for FHA upfront MIP",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50314
+}

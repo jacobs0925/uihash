@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "dc8a05b40684e18970bf1ef0f01a5392fc6b19ce",
+ "parent": "626eecd6c15e9e60c70887abf59f4296c243a1ad",
+ "date": "2025-11-12",
+ "subject": "Remove educational content and FAQ from ROI calculator page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 199080
+}

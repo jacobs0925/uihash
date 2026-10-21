@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "f303f1d5c875ef5fea5dfa65c9eea2c7f3b66eae",
+ "parent": "7509eb48394850b6f65943002b8f7302429fde6c",
+ "date": "2025-11-12",
+ "subject": "Assistant checkpoint: Add breadcrumb navigation to 3 calculator pages",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/emi-calculator.tsx",
+  "client/src/pages/loan-calculator.tsx",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 12,
+ "ms": 272280
+}

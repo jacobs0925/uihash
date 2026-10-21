@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "40d617eb319c5225684289ddf6cf38c1dfdb38df",
+ "parent": "8576271438222894227028b379878e947d45d464",
+ "date": "2025-11-12",
+ "subject": "Checkpoint before assistant change: Improve loan calculator breadcrumb navigation for better user experience",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 217108
+}

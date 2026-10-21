@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "630749a4b3e532079192eaf5aaad6031d8c98fd6",
+ "date": "2025-11-13",
+ "pr": null,
+ "title": "Assistant checkpoint: Added Blog link to header navigation",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1592 later commits"
+}

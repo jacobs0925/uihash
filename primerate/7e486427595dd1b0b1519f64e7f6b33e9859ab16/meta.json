@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7e486427595dd1b0b1519f64e7f6b33e9859ab16",
+ "parent": "d231d31c2f8cb704c7150a65a94669f99513cf75",
+ "date": "2025-10-08",
+ "subject": "Make VA funding fee fields display only and apply selected category values",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50146
+}

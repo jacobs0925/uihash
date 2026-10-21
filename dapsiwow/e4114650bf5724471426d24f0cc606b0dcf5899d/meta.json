@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e4114650bf5724471426d24f0cc606b0dcf5899d",
+ "parent": "8de783b89944a18be000ec0712a79dd620fffb6e",
+ "date": "2025-11-12",
+ "subject": "Assistant checkpoint: Add breadcrumb navigation to ROI Calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 194716
+}

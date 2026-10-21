@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "dd332b6478de12cff2e13311f3ebce5f68eb76e9",
+ "parent": "9ea149a5f6c9e13c412e55be6ed7be352fa09e2c",
+ "date": "2025-11-13",
+ "subject": "Enhance blog section with improved hero, featured post, and visual hierarchy",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/components/BlogCard.tsx",
+  "client/src/pages/blog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 195793
+}

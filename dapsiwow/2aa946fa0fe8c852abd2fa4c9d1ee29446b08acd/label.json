@@ -5,8 +5,8 @@
  "date": "2025-10-08",
  "pr": null,
  "title": "Improve loan calculator responsiveness across devices",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2896 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "white-space: normal → nowrap undone by b4832af7 \"Restored to 'bd023968b405febd81f860d38c4232d87827e9b0'\"; white-space: normal → nowrap undone by b4832af7 \"Restored to 'bd023968b405febd81f860d38c4232d87827e9b0'\"; white-space: normal → nowrap undone by b4832af7 \"Restored to 'bd023968b405febd81f860d38c4232d87827e9b0'\""
 }

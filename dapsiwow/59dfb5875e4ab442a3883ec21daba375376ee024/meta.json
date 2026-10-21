@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "59dfb5875e4ab442a3883ec21daba375376ee024",
+ "parent": "2da00ea2117e85ed13c673c02d3ff17130655608",
+ "date": "2025-11-13",
+ "subject": "Improve blog card appearance and responsiveness",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/BlogCard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 193221
+}

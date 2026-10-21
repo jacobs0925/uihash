@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "53950655434a199a77fda4132f4b02a8b1099125",
+ "parent": "6a7914f1d00df21d211d188a100c8bafb8208705",
+ "date": "2025-10-08",
+ "subject": "Fix error when checking FHA loan category for new clients",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 52940
+}

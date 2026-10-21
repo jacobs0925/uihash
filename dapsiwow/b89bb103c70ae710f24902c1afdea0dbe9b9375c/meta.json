@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b89bb103c70ae710f24902c1afdea0dbe9b9375c",
+ "parent": "1419d0c5e9bc24fa2ca3e7a17d72d5824aa8f4a2",
+ "date": "2025-11-12",
+ "subject": "Add structured data to ROI calculator to improve search engine visibility",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 194982
+}

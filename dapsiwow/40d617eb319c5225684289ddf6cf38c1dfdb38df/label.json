@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "40d617eb319c5225684289ddf6cf38c1dfdb38df",
+ "date": "2025-11-12",
+ "pr": null,
+ "title": "Checkpoint before assistant change: Improve loan calculator breadcrumb navigation for better user experience",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 296eaa62, which restored e4114650 (9 commits discarded)"
+}

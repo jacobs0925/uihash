@@ -5,8 +5,8 @@
  "date": "2025-10-10",
  "pr": null,
  "title": "Assistant checkpoint: Enhanced Related Financial Calculators section",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2630 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "overflow-x: ∅ → hidden undone by f303f1d5 \"Assistant checkpoint: Add breadcrumb navigation to 3 calculator pages\"; overflow-y: ∅ → hidden undone by f303f1d5 \"Assistant checkpoint: Add breadcrumb navigation to 3 calculator pages\"; overflow-x: ∅ → hidden undone by f303f1d5 \"Assistant checkpoint: Add breadcrumb navigation to 3 calculator pages\""
 }

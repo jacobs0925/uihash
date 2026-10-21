@@ -1,0 +1,27 @@
+{
+ "repo": "dapsiwow",
+ "sha": "9255bfd3749bff58a3a1fd9920927a53f2a8e415",
+ "parent": "a28d40512759cb974dd41d8e7312e3e02543201c",
+ "date": "2025-11-13",
+ "subject": "Add a complete blog section with list and detail pages",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/App.tsx",
+  "client/src/components/BlogCard.tsx",
+  "client/src/data/blogData.ts",
+  "client/src/pages/blog-post.tsx",
+  "client/src/pages/blog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 199054
+}

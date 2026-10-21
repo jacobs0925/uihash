@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "7c579a3a1daf95c8d1673de69c3f95721f8b3d50",
+ "date": "2025-11-12",
+ "pr": null,
+ "title": "Assistant checkpoint: Updated breadcrumb navigation for 3 calculators",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 296eaa62, which restored e4114650 (9 commits discarded)"
+}

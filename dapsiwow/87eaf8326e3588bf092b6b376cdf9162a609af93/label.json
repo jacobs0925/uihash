@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "87eaf8326e3588bf092b6b376cdf9162a609af93",
+ "date": "2025-11-12",
+ "pr": null,
+ "title": "Assistant checkpoint: Made breadcrumbs fully responsive on 3 calculators",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 296eaa62, which restored e4114650 (9 commits discarded)"
+}

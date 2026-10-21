@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "26d1f7f596f8c1f5796aef2389d046ff58b22279",
+ "parent": "e4114650bf5724471426d24f0cc606b0dcf5899d",
+ "date": "2025-11-12",
+ "subject": "Restored to '8de783b89944a18be000ec0712a79dd620fffb6e'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 194318
+}

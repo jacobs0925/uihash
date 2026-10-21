@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9ce552966fb80b2bf2336b9dcbe03a54e8c87923",
+ "parent": "cdb7120a1f600b04137bf3463434bd07d31a9cce",
+ "date": "2025-10-08",
+ "subject": "Add a \"Clear\" button to reset VA funding fee calculations",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50612
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8187f85fd007fa934ba5af3c7ae0cfb66ddc5447",
+ "parent": "6b17ad859693632c9b280a5e87929fec1137624d",
+ "date": "2025-10-08",
+ "subject": "Add spacing and a red line below the escrow balance field",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49473
+}

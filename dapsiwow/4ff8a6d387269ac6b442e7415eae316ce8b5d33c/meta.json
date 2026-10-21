@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4ff8a6d387269ac6b442e7415eae316ce8b5d33c",
+ "parent": "1cc697ce4ecb2b33d9743758223f5b6b15f98441",
+ "date": "2025-11-13",
+ "subject": "Enhance blog posts with structured metadata for improved SEO and readability",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/components/BlogCard.tsx",
+  "client/src/data/blogData.ts",
+  "client/src/pages/blog-post.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 195950
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "10e121d78766b35f61f8e24eaa211b9a2b90590e",
+ "parent": "edebb8532e349dde1bfbe3936d0db4f4f4dce887",
+ "date": "2025-10-08",
+ "subject": "Add a horizontal line above client form action buttons",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49893
+}

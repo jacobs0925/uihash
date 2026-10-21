@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "2da00ea2117e85ed13c673c02d3ff17130655608",
+ "parent": "f60a711c8d1b02c4e4b2e68150728441838798ed",
+ "date": "2025-11-13",
+ "subject": "Improve blog card appearance and responsiveness across devices",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/BlogCard.tsx",
+  "client/src/pages/blog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 193483
+}

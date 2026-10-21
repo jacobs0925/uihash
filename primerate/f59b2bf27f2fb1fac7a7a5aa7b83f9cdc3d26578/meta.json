@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f59b2bf27f2fb1fac7a7a5aa7b83f9cdc3d26578",
+ "parent": "e269c05ac8fe65986ca67c2c3c9af8c7c6953a27",
+ "date": "2025-10-08",
+ "subject": "Move VA funding fee icon next to its title for clarity",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50552
+}

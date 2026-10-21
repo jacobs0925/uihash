@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "630749a4b3e532079192eaf5aaad6031d8c98fd6",
+ "parent": "71f9ad233e28858c7411c5906f3756525dde6f21",
+ "date": "2025-11-13",
+ "subject": "Assistant checkpoint: Added Blog link to header navigation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 309950
+}

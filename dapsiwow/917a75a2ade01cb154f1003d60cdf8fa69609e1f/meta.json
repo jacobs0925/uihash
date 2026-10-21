@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "917a75a2ade01cb154f1003d60cdf8fa69609e1f",
+ "parent": "b89bb103c70ae710f24902c1afdea0dbe9b9375c",
+ "date": "2025-11-12",
+ "subject": "Update SEO metadata for the ROI calculator page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 194536
+}

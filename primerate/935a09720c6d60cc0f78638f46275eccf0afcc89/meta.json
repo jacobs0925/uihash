@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "935a09720c6d60cc0f78638f46275eccf0afcc89",
+ "parent": "33c324f97f6cd8e9706c752ff1b3c6c0f60b2089",
+ "date": "2025-10-08",
+ "subject": "Adjust visual spacing and red line for existing monthly payments section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49915
+}

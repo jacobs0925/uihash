@@ -1,1 +1,20 @@
-[]
+[
+ "admin/add-client|default||a11y|accessibility tree|added: region \"Notifications (F8)\"|added: list|added: banner|added: heading \"Add New Client\" [level=1]|added: button|added: img|… and 48 more",
+ "admin/add-client|default||a11y|accessibility tree|removed: region \"Notifications (F8)\"|removed: list|removed: banner|removed: heading \"Add New Client\" [level=1]|removed: button|removed: img|… and 48 more",
+ "admin/add-client|default||same-data|div (same data, drawn differently)|added: div (\"Add New Client Screenshare Save Borrower\")",
+ "admin/add-client|default||same-data|div (same data, drawn differently)|removed: div (\"Add New Client Screenshare Save Borrower\")",
+ "admin/add-client|default||same-data|div[region] (same data, drawn differently)|added: div[region]",
+ "admin/add-client|default||same-data|div[region] (same data, drawn differently)|removed: div[region]",
+ "admin/add-client|focus||a11y|accessibility tree|added: region \"Notifications (F8)\"|added: list|added: banner|added: heading \"Add New Client\" [level=1]|added: button|added: img|… and 48 more",
+ "admin/add-client|focus||a11y|accessibility tree|removed: region \"Notifications (F8)\"|removed: list|removed: banner|removed: heading \"Add New Client\" [level=1]|removed: button|removed: img|… and 48 more",
+ "admin/add-client|focus||same-data|div (same data, drawn differently)|added: div (\"Add New Client Screenshare Save Borrower\")",
+ "admin/add-client|focus||same-data|div (same data, drawn differently)|removed: div (\"Add New Client Screenshare Save Borrower\")",
+ "admin/add-client|focus||same-data|div[region] (same data, drawn differently)|added: div[region]",
+ "admin/add-client|focus||same-data|div[region] (same data, drawn differently)|removed: div[region]",
+ "admin/add-client|hover||a11y|accessibility tree|added: region \"Notifications (F8)\"|added: list|added: banner|added: heading \"Add New Client\" [level=1]|added: button|added: img|… and 48 more",
+ "admin/add-client|hover||a11y|accessibility tree|removed: region \"Notifications (F8)\"|removed: list|removed: banner|removed: heading \"Add New Client\" [level=1]|removed: button|removed: img|… and 48 more",
+ "admin/add-client|hover||same-data|div (same data, drawn differently)|added: div (\"Add New Client Screenshare Save Borrower\")",
+ "admin/add-client|hover||same-data|div (same data, drawn differently)|removed: div (\"Add New Client Screenshare Save Borrower\")",
+ "admin/add-client|hover||same-data|div[region] (same data, drawn differently)|added: div[region]",
+ "admin/add-client|hover||same-data|div[region] (same data, drawn differently)|removed: div[region]"
+]

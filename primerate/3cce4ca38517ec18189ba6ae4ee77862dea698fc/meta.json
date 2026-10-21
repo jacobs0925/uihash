@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3cce4ca38517ec18189ba6ae4ee77862dea698fc",
+ "parent": "935a09720c6d60cc0f78638f46275eccf0afcc89",
+ "date": "2025-10-08",
+ "subject": "Remove a red line from the add client page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49720
+}

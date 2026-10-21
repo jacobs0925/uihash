@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "d3b77ddc4cf2dc5adb318d4a27092e57566961d3",
+ "date": "2025-11-13",
+ "pr": null,
+ "title": "Improve breadcrumb navigation responsiveness across all screen sizes",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1538 later commits"
+}

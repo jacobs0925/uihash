@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "55f52456a4d0d2e24df00fd7cd487390cceec2a4",
+ "parent": "8eb80487776c5a5f5c189d7176a712b7fb8ab8da",
+ "date": "2025-11-13",
+ "subject": "Update PDF generation for loan and EMI calculators",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/emi-calculator.tsx",
+  "client/src/pages/loan-calculator.tsx",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 178120
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "0c4640b386f08abfe2d43cc6ba6ddd0594ff16d8",
+ "parent": "07abd4c76560e32036d52d8023482c86bd0e56e0",
+ "date": "2025-11-13",
+ "subject": "Integrate mortgage amortization and comparison sections into results view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 174302
+}

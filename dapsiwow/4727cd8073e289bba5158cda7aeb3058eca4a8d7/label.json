@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "4727cd8073e289bba5158cda7aeb3058eca4a8d7",
+ "date": "2025-11-13",
+ "pr": null,
+ "title": "Restored to '51940aca611ee3bff8c652991786e96c2406425f'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Enter your down payment as a dollar amou\" → \"Enter your down payment as a dollar amou\" undone by 4b6df89d \"Assistant checkpoint: Updated mortgage comparison UI to match loan calculator\"; font-size: 20px → 24px undone by 4b6df89d \"Assistant checkpoint: Updated mortgage comparison UI to match loan calculator\"; line-height: 28px → 32px undone by 4b6df89d \"Assistant checkpoint: Updated mortgage comparison UI to match loan calculator\""
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "67c2adfcb90281fa442246307c368ea43186efe8",
+ "parent": "9fede17686fb5c4aa595166ce3b3ac3f4b9a4265",
+ "date": "2025-11-14",
+ "subject": "Update mortgage calculator to match loan comparison UI design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 174791
+}

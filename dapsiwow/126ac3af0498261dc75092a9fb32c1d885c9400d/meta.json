@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "126ac3af0498261dc75092a9fb32c1d885c9400d",
+ "parent": "8a5f8d85021a391749b78443175887c3e449aeb0",
+ "date": "2025-11-13",
+ "subject": "Assistant checkpoint: Move action buttons to ROI Configuration section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 179703
+}

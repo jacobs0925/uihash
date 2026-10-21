@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "cbf7078749f617f04598619dd3441d8d25b974d5",
+ "date": "2025-11-13",
+ "pr": null,
+ "title": "Saved progress at the end of the loop",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1546 later commits"
+}

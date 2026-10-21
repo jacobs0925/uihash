@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "47203d00120edbd08f44c93eeb90acec80707a4f",
+ "parent": "ec94d22fb6d496af255f28580481734943209995",
+ "date": "2025-11-14",
+ "subject": "Enhance EMI calculator PDF export to include charts and tables",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 173572
+}

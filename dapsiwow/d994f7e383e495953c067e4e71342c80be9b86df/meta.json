@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d994f7e383e495953c067e4e71342c80be9b86df",
+ "parent": "5762585d1a52d82ccd45cac50bb7271fed4b834d",
+ "date": "2025-11-13",
+ "subject": "Improve PDF generation by compressing files and reducing image quality",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1763048108792.png",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 174314
+}

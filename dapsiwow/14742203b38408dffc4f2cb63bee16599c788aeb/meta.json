@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "14742203b38408dffc4f2cb63bee16599c788aeb",
+ "parent": "3d32a846cdd9cb2218c99623c4f35a92130ae67d",
+ "date": "2025-11-14",
+ "subject": "Enhance PDF generation with chart image and improved formatting",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 173274
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "01d0821a3e9cfff5dc2ed28d2a7193933af15ffb",
+ "parent": "0bcbbc2790aabdee5413aa158e58ac7746bb5955",
+ "date": "2025-11-13",
+ "subject": "Restored to '73474f8db86be8244ccefdfda62652203d45a3ae'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/.latest.json",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 178241
+}

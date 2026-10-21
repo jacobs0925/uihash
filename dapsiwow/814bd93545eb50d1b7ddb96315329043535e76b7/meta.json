@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "814bd93545eb50d1b7ddb96315329043535e76b7",
+ "parent": "d1f2dcfcdc289fcf0571ecca061b0026f58734b0",
+ "date": "2025-11-13",
+ "subject": "Improve loan calculator PDF export button styling and spacing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1763037913929.png",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 177413
+}

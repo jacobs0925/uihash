@@ -5,8 +5,8 @@
  "date": "2025-10-08",
  "pr": null,
  "title": "Make the business loan calculator section responsive across devices",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2883 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "width: auto → 100% undone by 1524fea7 \"Assistant checkpoint: Remove breadcrumb navigation from 3 calculators\"; width: auto → 100% undone by 1524fea7 \"Assistant checkpoint: Remove breadcrumb navigation from 3 calculators\"; width: auto → 100% undone by 1524fea7 \"Assistant checkpoint: Remove breadcrumb navigation from 3 calculators\""
 }

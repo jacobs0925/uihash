@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "55dcd0a90cb78a8f0fdf7f196e3bfc270342bf45",
+ "parent": "a2868d989a3fd2bb8fd323a22f24aada1948ee6e",
+ "date": "2025-11-13",
+ "subject": "Add PDF export for amortization schedule",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 174205
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d3b77ddc4cf2dc5adb318d4a27092e57566961d3",
+ "parent": "32181b23a4cfbe6d6cd3bd2a21e196e5069955a5",
+ "date": "2025-11-13",
+ "subject": "Improve breadcrumb navigation responsiveness across all screen sizes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/.latest.json",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/ToolBreadcrumbs.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 7,
+ "ms": 352292
+}

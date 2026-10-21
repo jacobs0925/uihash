@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4b6df89d4253fd53610b2cc5140e6ad81e9f5780",
+ "parent": "51940aca611ee3bff8c652991786e96c2406425f",
+ "date": "2025-11-13",
+ "subject": "Assistant checkpoint: Updated mortgage comparison UI to match loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 189036
+}

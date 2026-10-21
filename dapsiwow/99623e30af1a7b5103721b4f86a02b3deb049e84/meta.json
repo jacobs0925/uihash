@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "99623e30af1a7b5103721b4f86a02b3deb049e84",
+ "parent": "47d3a4cb54f3f1740e54a52454520bca55593868",
+ "date": "2025-11-13",
+ "subject": "Assistant checkpoint",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 172828
+}

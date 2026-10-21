@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "13e2af584ce1cc107e09dafb30783dbceadea283",
+ "parent": "c6c71a4f9151b3c292a45a20597347df160d214e",
+ "date": "2025-11-13",
+ "subject": "Remove PDF export functionality from loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 177873
+}

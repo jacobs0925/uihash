@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "b34012813ab0fbaccdc58ed042f4fb57f84fb5f4",
+ "date": "2025-10-18",
+ "pr": null,
+ "title": "Restored to '9b3636afe8343ec8139dd5f39797ec45b40348cf'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-right: 0px → auto undone by cbf70787 \"Saved progress at the end of the loop\"; margin-right: 0px → auto undone by cbf70787 \"Saved progress at the end of the loop\"; margin-right: 0px → auto undone by cbf70787 \"Saved progress at the end of the loop\""
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "4b6df89d4253fd53610b2cc5140e6ad81e9f5780",
+ "date": "2025-11-13",
+ "pr": null,
+ "title": "Assistant checkpoint: Updated mortgage comparison UI to match loan calculator",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 4727cd80, which restored 51940aca (1 commit discarded)"
+}

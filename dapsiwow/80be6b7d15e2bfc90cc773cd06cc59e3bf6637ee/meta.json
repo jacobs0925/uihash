@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "80be6b7d15e2bfc90cc773cd06cc59e3bf6637ee",
+ "parent": "62a571528196001c913cba3cd7f097ad8ca695b1",
+ "date": "2025-11-13",
+ "subject": "Saved progress at the end of the loop",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/ToolBreadcrumbs.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 5,
+ "ms": 292320
+}

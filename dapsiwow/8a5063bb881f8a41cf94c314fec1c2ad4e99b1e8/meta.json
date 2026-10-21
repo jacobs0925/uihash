@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8a5063bb881f8a41cf94c314fec1c2ad4e99b1e8",
+ "parent": "b0c953a297fb90a8a26bca12586b3fc34762be41",
+ "date": "2025-11-13",
+ "subject": "Integrate ROI Comparison and Breakdown sections with ROI Analysis",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 179889
+}

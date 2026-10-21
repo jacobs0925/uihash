@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "47d3a4cb54f3f1740e54a52454520bca55593868",
+ "parent": "86b0783e907c416006640eb3d0381be56aae8d8d",
+ "date": "2025-11-13",
+ "subject": "Assistant checkpoint: Updated Loan Comparison UI to match ROI Calculator style",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 238768
+}

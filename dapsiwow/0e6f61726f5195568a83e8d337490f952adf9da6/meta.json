@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "0e6f61726f5195568a83e8d337490f952adf9da6",
+ "parent": "cb3de46022f4dcc6810f8370cdd0f980263508a9",
+ "date": "2025-11-14",
+ "subject": "Update business loan calculator UI and remove export PDF button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 173077
+}

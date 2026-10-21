@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "1524fea7f587db06b4054b98608aba9f4353451c",
+ "date": "2025-11-13",
+ "pr": null,
+ "title": "Assistant checkpoint: Remove breadcrumb navigation from 3 calculators",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-right: 0px → auto undone by cbf70787 \"Saved progress at the end of the loop\"; margin-left: 0px → auto undone by cbf70787 \"Saved progress at the end of the loop\"; margin-right: 0px → auto undone by cbf70787 \"Saved progress at the end of the loop\""
+}

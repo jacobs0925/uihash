@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "1524fea7f587db06b4054b98608aba9f4353451c",
+ "parent": "f6e49b32c4f3f1389d88d6a4ded1e5a858114df3",
+ "date": "2025-11-13",
+ "subject": "Assistant checkpoint: Remove breadcrumb navigation from 3 calculators",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx",
+  "client/src/pages/compound-interest-calculator.tsx",
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 14,
+ "ms": 255609
+}

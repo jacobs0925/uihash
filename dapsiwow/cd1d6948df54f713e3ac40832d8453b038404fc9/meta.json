@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "cd1d6948df54f713e3ac40832d8453b038404fc9",
+ "parent": "6a9936574a8df801e1a376bf4d0ca8499283690c",
+ "date": "2025-11-14",
+ "subject": "Update business loan comparison UI to match the loan comparison section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 171343
+}

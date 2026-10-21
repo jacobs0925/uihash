@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "0f474326b40bef6d0944ed93d5153c76901681b7",
+ "parent": "99623e30af1a7b5103721b4f86a02b3deb049e84",
+ "date": "2025-11-13",
+ "subject": "Assistant checkpoint: Update Mortgage Calculator UI to match ROI design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 172893
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "21601fb099fe4b1d5434366e9fc9d3c9a8000ec5",
+ "parent": "a10d698199f1e90ff074d2083877641940af522f",
+ "date": "2025-11-13",
+ "subject": "Enhance PDF export for ROI calculator with professional formatting",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/roi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 179518
+}

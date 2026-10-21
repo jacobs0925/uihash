@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "f39935a6e780238ca2b7958d880da8c9f9fe1cf6",
+ "parent": "1b1c75b0da3cd96c50719ef9292ee7a496ee9644",
+ "date": "2025-11-13",
+ "subject": "Connect loan amortization schedule with loan comparison",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 174959
+}

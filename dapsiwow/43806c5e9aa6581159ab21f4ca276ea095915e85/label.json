@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "43806c5e9aa6581159ab21f4ca276ea095915e85",
+ "date": "2025-11-10",
+ "pr": null,
+ "title": "Restored to 'c9d699085d0caea9a34f0d71138d032c0de3f3e5'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-right: auto → 0px undone by 1524fea7 \"Assistant checkpoint: Remove breadcrumb navigation from 3 calculators\"; margin-left: auto → 0px undone by 1524fea7 \"Assistant checkpoint: Remove breadcrumb navigation from 3 calculators\"; margin-right: auto → 0px undone by 1524fea7 \"Assistant checkpoint: Remove breadcrumb navigation from 3 calculators\""
+}

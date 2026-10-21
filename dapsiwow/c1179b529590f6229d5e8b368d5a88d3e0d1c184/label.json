@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "c1179b529590f6229d5e8b368d5a88d3e0d1c184",
+ "date": "2025-11-24",
+ "pr": null,
+ "title": "Saved progress after completing a task",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 969 later commits"
+}

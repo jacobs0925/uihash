@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ec9f228aeeb1b8ab62a410f027613919d30ddf63",
+ "parent": "c334798544168c21eecdea27e5a6bf612c31fddb",
+ "date": "2025-11-17",
+ "subject": "Add chart display and control to mortgage and loan calculators",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1763388799472.png",
+  "client/src/pages/emi-calculator.tsx",
+  "client/src/pages/loan-calculator.tsx",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 189491
+}

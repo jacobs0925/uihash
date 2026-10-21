@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d6be1e08dc6851adc93b068b4744bf1ee3c98f8e",
+ "parent": "b3b50551b31a15de3d43ddf26af2f41090efb88d",
+ "date": "2025-11-18",
+ "subject": "Assistant checkpoint: Added comprehensive EMI content sections matching loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 261425
+}

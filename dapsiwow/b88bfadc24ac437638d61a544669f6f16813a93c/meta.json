@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b88bfadc24ac437638d61a544669f6f16813a93c",
+ "parent": "4d20f41f3e7ba6cfde78e87dd0b956ef72b549cd",
+ "date": "2025-11-19",
+ "subject": "Assistant checkpoint: Reorder key metrics above chart",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 180988
+}

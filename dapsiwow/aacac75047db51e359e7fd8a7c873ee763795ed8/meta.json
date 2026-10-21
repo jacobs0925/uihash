@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "aacac75047db51e359e7fd8a7c873ee763795ed8",
+ "parent": "4669cb0fd03fade6296a173827e8e031dcd810bb",
+ "date": "2025-11-17",
+ "subject": "Add a button to easily show loan calculation charts",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/emi-calculator.tsx",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 184810
+}

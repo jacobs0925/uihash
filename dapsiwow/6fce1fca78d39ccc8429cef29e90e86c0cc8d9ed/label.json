@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "6fce1fca78d39ccc8429cef29e90e86c0cc8d9ed",
+ "date": "2025-11-18",
+ "pr": null,
+ "title": "Improve calculator title display on larger screens",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by ac9b8ef2, which restored a0bb955f (2 commits discarded)"
+}

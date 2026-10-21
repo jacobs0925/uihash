@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "84ff4ee6ae61f4058c411d9642193de11954ea4c",
+ "parent": "b88bfadc24ac437638d61a544669f6f16813a93c",
+ "date": "2025-11-19",
+ "subject": "Restored to '4d20f41f3e7ba6cfde78e87dd0b956ef72b549cd'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 179200
+}

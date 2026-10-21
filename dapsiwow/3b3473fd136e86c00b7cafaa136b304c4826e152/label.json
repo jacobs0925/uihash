@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "3b3473fd136e86c00b7cafaa136b304c4826e152",
+ "date": "2025-11-18",
+ "pr": null,
+ "title": "Update SEO metadata for EMI calculator page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1047 later commits"
+}

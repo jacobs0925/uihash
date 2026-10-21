@@ -1,0 +1,35 @@
+{
+ "repo": "dapsiwow",
+ "sha": "85321bbcd7e70c4b49c786f44623695afb3a8eed",
+ "parent": "41d3feee71e9262cbc4c1c4f86a3b92cca2c1622",
+ "date": "2025-11-23",
+ "subject": "Update website page descriptions to meet SEO requirements",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/bmr-calculator.tsx",
+  "client/src/pages/body-fat-calculator.tsx",
+  "client/src/pages/calorie-calculator.tsx",
+  "client/src/pages/character-counter.tsx",
+  "client/src/pages/compound-interest-calculator.tsx",
+  "client/src/pages/debt-payoff-calculator.tsx",
+  "client/src/pages/hex-to-text-converter.tsx",
+  "client/src/pages/hydration-calculator.tsx",
+  "client/src/pages/paragraph-counter.tsx",
+  "client/src/pages/savings-goal-calculator.tsx",
+  "client/src/pages/text-diff-checker.tsx",
+  "client/src/pages/text-pattern-generator.tsx",
+  "client/src/pages/text-to-decimal-converter.tsx",
+  "client/src/pages/text-to-hex-converter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 185544
+}

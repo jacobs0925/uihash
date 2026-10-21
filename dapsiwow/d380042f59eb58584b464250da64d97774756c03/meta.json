@@ -1,0 +1,27 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d380042f59eb58584b464250da64d97774756c03",
+ "parent": "cf57c776045aca744d7d9209ab589079c258bcf7",
+ "date": "2025-11-17",
+ "subject": "Remove markdown to PDF converter tool and sitemap entry",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/public/sitemap.xml",
+  "client/src/App.tsx",
+  "client/src/data/blogData.ts",
+  "client/src/data/tools.ts",
+  "client/src/pages/markdown-to-pdf.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 189171
+}

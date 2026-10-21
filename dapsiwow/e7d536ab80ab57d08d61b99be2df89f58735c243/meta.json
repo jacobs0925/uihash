@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e7d536ab80ab57d08d61b99be2df89f58735c243",
+ "parent": "146c242110dc1a9f41cc544ce6f806ff29b9fb4e",
+ "date": "2025-11-18",
+ "subject": "Update EMI calculator title to simplify the displayed text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1763462496967.png",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 199838
+}

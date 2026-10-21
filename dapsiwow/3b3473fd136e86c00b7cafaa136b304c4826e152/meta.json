@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "3b3473fd136e86c00b7cafaa136b304c4826e152",
+ "parent": "8e549728748705ba0ebf3f86f30b80ae07ce875b",
+ "date": "2025-11-18",
+ "subject": "Update SEO metadata for EMI calculator page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 226763
+}

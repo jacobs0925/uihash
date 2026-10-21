@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "25b3c3cba427f21d1db0c702e7e309601927dbdc",
+ "parent": "c8798c00b236e58030300bd6746151f4f359d175",
+ "date": "2025-11-17",
+ "subject": "Enhance mortgage and business loan calculators with responsive charts and improved PDF exports",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1763390763645.png",
+  "client/src/pages/business-loan-calculator.tsx",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 187064
+}

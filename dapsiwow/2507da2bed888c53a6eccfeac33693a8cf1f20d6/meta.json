@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "2507da2bed888c53a6eccfeac33693a8cf1f20d6",
+ "parent": "5a2a5a1b90f5305bcff10b1871a9f36e8dfd1b2f",
+ "date": "2025-11-19",
+ "subject": "Assistant checkpoint: Moved Interest Rate card to top summary section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 183206
+}

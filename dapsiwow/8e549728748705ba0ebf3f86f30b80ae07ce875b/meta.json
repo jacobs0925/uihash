@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8e549728748705ba0ebf3f86f30b80ae07ce875b",
+ "parent": "86053fc14f166a053c106d118456f2207669052d",
+ "date": "2025-11-18",
+ "subject": "Remove explanatory content sections from the EMI calculator page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 207522
+}

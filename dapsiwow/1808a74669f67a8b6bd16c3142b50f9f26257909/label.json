@@ -5,8 +5,8 @@
  "date": "2025-10-08",
  "pr": null,
  "title": "Make loan calculator financial calculators responsive",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 2822 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "line-height: 1.5 → 28px undone by 73666877 \"Assistant checkpoint: Added hidden fees feature to loan calculator\"; line-height: 1.5 → 28px undone by 73666877 \"Assistant checkpoint: Added hidden fees feature to loan calculator\"; line-height: 1.5 → 28px undone by 73666877 \"Assistant checkpoint: Added hidden fees feature to loan calculator\""
 }

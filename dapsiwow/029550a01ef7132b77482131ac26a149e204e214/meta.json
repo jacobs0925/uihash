@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "029550a01ef7132b77482131ac26a149e204e214",
+ "parent": "c81c1b1e58ff0722a5dfe22859a23303100af343",
+ "date": "2025-11-18",
+ "subject": "Improve EMI calculator sharing and update social media button styles",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1763449878908.png",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 178759
+}

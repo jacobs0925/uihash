@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "39961a8daa963a9253e8721438fe6be43ce5bd3c",
+ "parent": "c4f301357aabafde579b5e1fc9cf3b2002561ab0",
+ "date": "2025-11-19",
+ "subject": "Assistant checkpoint: Move Interest Rate above chart",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 180540
+}

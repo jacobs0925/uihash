@@ -1,0 +1,26 @@
+{
+ "repo": "dapsiwow",
+ "sha": "7c156891ef11858e20d9d113199c5466e33b938d",
+ "parent": "e7d536ab80ab57d08d61b99be2df89f58735c243",
+ "date": "2025-11-18",
+ "subject": "Update calculator page titles and descriptions for clarity",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1763462748990.png",
+  "attached_assets/image_1763462779581.png",
+  "attached_assets/image_1763462793390.png",
+  "client/src/pages/business-loan-calculator.tsx",
+  "client/src/pages/compound-interest-calculator.tsx",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 249622
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "22a71a795962c779febc5f30a35a32e4fa895c59",
+ "parent": "6e03564c532adf8a525f088ce6e0276aae38b747",
+ "date": "2025-11-17",
+ "subject": "Remove chart feature from compound interest calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 184605
+}

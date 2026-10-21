@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "45fd12736fe1ab4e208937142273a5c7a390be3a",
+ "parent": "d1c31d3d8ad98f91e21369b4fc26e3658a25c1d2",
+ "date": "2025-11-18",
+ "subject": "Update EMI calculator to match loan calculator's responsive content design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 239224
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "7366687785c9de99a57467c38bc665788cbf3f3d",
+ "parent": "fac942fa121589ec853350a8c3d7f16e069491b7",
+ "date": "2025-11-24",
+ "subject": "Assistant checkpoint: Added hidden fees feature to loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 9,
+ "ms": 235176
+}

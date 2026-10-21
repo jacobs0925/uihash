@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "c82cb9ee9c3389514871a0a67249ab386df312df",
+ "parent": "197e5f598d5c085376939cc459fa2fae6bccbc0f",
+ "date": "2025-11-17",
+ "subject": "Standardize Business Loan Calculator chart to match Loan Calculator design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 182991
+}

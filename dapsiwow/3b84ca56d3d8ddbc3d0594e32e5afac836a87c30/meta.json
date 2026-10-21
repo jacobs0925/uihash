@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "3b84ca56d3d8ddbc3d0594e32e5afac836a87c30",
+ "parent": "50a205c9c7ac31810296e196d304504fa5176896",
+ "date": "2025-11-24",
+ "subject": "Assistant checkpoint: Remove duplicate Total Interest and Total Amount display",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 179435
+}

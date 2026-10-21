@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "d6be1e08dc6851adc93b068b4744bf1ee3c98f8e",
+ "date": "2025-11-18",
+ "pr": null,
+ "title": "Assistant checkpoint: Added comprehensive EMI content sections matching loan calculator",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by b15894d7, which restored b3b50551 (1 commit discarded)"
+}

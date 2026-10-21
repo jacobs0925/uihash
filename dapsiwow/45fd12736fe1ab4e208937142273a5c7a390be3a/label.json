@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "45fd12736fe1ab4e208937142273a5c7a390be3a",
+ "date": "2025-11-18",
+ "pr": null,
+ "title": "Update EMI calculator to match loan calculator's responsive content design",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1041 later commits"
+}

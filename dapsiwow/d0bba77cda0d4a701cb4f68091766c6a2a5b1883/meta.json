@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d0bba77cda0d4a701cb4f68091766c6a2a5b1883",
+ "parent": "517c5e44d9745975dd8ef17e93cdc128d3e1c879",
+ "date": "2025-11-24",
+ "subject": "Assistant checkpoint: Remove duplicate Show Chart button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 179442
+}

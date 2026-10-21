@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "796dbaaa6d4b5027dc2157ec06893c7c4741cfc7",
+ "parent": "94304aa461607dae017efa22e35ee4746c7a702b",
+ "date": "2025-11-18",
+ "subject": "Improve sharing results from compound interest calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 179917
+}

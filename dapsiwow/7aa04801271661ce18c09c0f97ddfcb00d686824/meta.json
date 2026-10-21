@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "7aa04801271661ce18c09c0f97ddfcb00d686824",
+ "parent": "0d068f5f08b23256a812947c706c4be9e93f9f09",
+ "date": "2025-11-17",
+ "subject": "Align EMI Calculator charts and summary boxes with Loan Calculator design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 199527
+}

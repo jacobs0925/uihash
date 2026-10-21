@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e6061209c017aaf58b998f8721365e298ac21120",
+ "parent": "553f74fe37c21773258394fab3a52f6ba7b53eb3",
+ "date": "2025-11-14",
+ "subject": "Assistant checkpoint: Update breakdown UI and remove PDF button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 186203
+}

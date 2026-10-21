@@ -1,0 +1,40 @@
+{
+ "repo": "dapsiwow",
+ "sha": "6b0cb637ea3494bdd0b008aae69fd048179a2863",
+ "parent": "023a81fb34d09a9a4a500224554db2ade06dd95a",
+ "date": "2025-11-16",
+ "subject": "Saved progress at the end of the loop",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/BlogCard.tsx",
+  "client/src/data/blogData.ts",
+  "client/src/pages/blog.tsx",
+  "docs/BLOG_IMAGE_OPTIMIZATION_GUIDE.md",
+  "package.json",
+  "public/images/blog/financial-planning-guide.png",
+  "public/images/blog/financial-planning-guide.webp",
+  "public/images/blog/image-metadata.json",
+  "public/images/blog/online-calculators-2025.jpg",
+  "public/images/blog/online-calculators-2025.png",
+  "public/images/blog/online-calculators-2025.webp",
+  "public/images/blog/productivity-tools-2025.png",
+  "public/images/blog/productivity-tools-2025.webp",
+  "public/images/blog/seo-guide-small-business.png",
+  "public/images/blog/seo-guide-small-business.webp",
+  "public/images/blog/web-development-trends.png",
+  "public/images/blog/web-development-trends.webp",
+  "scripts/optimize-blog-images.js"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 208701
+}

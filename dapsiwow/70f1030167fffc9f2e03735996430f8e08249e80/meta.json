@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "70f1030167fffc9f2e03735996430f8e08249e80",
+ "parent": "17839a44465d6df78ab958d57415c79557b76fee",
+ "date": "2025-11-15",
+ "subject": "Assistant checkpoint: Remove gradient from Calculate button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 210201
+}

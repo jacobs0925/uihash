@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "60e67b3fa408e12b462a14d31b44240dfbcb326b",
+ "date": "2025-11-15",
+ "pr": null,
+ "title": "Assistant checkpoint: Apply solid blue color to button",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1291 later commits"
+}

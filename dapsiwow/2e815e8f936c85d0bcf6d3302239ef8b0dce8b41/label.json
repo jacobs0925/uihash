@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "2e815e8f936c85d0bcf6d3302239ef8b0dce8b41",
+ "date": "2025-11-15",
+ "pr": null,
+ "title": "Assistant checkpoint: Update button to solid blue color #2469f5",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 83b66cb5, which restored 35693dcb (1 commit discarded)"
+}

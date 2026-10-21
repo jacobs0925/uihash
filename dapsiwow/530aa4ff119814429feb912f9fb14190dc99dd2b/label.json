@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "530aa4ff119814429feb912f9fb14190dc99dd2b",
+ "date": "2025-11-15",
+ "pr": null,
+ "title": "Checkpoint before assistant change: Improve PDF generation for financial calculator reports",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1292 later commits"
+}

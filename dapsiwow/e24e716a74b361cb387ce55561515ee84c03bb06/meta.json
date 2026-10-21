@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e24e716a74b361cb387ce55561515ee84c03bb06",
+ "parent": "8e5fba210c523902cbaeef2876fa282de236fad5",
+ "date": "2025-11-14",
+ "subject": "Improve PDF export functionality for the compound interest calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 184875
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b9b5a150629e8e1315612ec31898ba7a7d9b9af8",
+ "parent": "b94035f1a2db045fc85303c63899e2de8f2dba86",
+ "date": "2025-11-17",
+ "subject": "Update mortgage calculator chart to match loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 186085
+}

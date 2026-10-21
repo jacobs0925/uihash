@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "9faaf08fdac9807073c58a290cfcf50a17440a6f",
+ "parent": "40b9df5871efb8dc021cda01bd3aedae12bae270",
+ "date": "2025-11-17",
+ "subject": "Adjust loan calculator chart display for better readability",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "attached_assets/image_1763362588224.png",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 186957
+}

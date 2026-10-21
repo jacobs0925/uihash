@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "530aa4ff119814429feb912f9fb14190dc99dd2b",
+ "parent": "b41a0eeeb445568d4631a93724249adbb676ed28",
+ "date": "2025-11-15",
+ "subject": "Checkpoint before assistant change: Improve PDF generation for financial calculator reports",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 206213
+}

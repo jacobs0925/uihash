@@ -1,0 +1,37 @@
+{
+ "repo": "dapsiwow",
+ "sha": "2fc4fc2664ccf75c088bdb43bf05df82ce7482f6",
+ "parent": "75bf9869fd47144cb208671eda298b9b79c4d326",
+ "date": "2025-11-16",
+ "subject": "Saved progress at the end of the loop",
+ "components": [
+  "App.tsx",
+  "components",
+  "main.tsx",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/filesystem/filesystem_state.json",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/index.html",
+  "client/src/App.tsx",
+  "client/src/components/ShareResultsButton.tsx",
+  "client/src/lib/analytics.ts",
+  "client/src/lib/initAnalytics.ts",
+  "client/src/main.tsx",
+  "client/src/pages/loan-calculator.tsx",
+  "client/src/pages/signup.tsx",
+  "client/src/types/analytics.d.ts",
+  "client/vite-plugin-inject-gtm.ts",
+  "docs/ANALYTICS_SETUP.md",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 189835
+}

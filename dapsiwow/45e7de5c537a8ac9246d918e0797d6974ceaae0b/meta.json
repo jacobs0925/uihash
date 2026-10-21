@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "45e7de5c537a8ac9246d918e0797d6974ceaae0b",
+ "parent": "33fd08342fd96d38c8bf1b8d36f7c62e317a4c50",
+ "date": "2025-11-17",
+ "subject": "Remove chart feature and update results section for EMI calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 188570
+}

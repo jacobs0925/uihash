@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "553f74fe37c21773258394fab3a52f6ba7b53eb3",
+ "parent": "3da119525b3ac0b3913d91ba9f995592a5a97f97",
+ "date": "2025-11-14",
+ "subject": "Checkpoint before assistant change: Update the investment breakdown section to match the loan schedule design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 185937
+}

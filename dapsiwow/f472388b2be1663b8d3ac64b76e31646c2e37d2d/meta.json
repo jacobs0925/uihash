@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "f472388b2be1663b8d3ac64b76e31646c2e37d2d",
+ "parent": "d1b79ce6e41456a6a359b71e06ce8cb590de56ae",
+ "date": "2025-11-14",
+ "subject": "Improve image loading experience for blog posts",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/BlogCard.tsx",
+  "client/src/components/LazyImage.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 57489
+}

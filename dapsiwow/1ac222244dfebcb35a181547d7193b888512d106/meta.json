@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "1ac222244dfebcb35a181547d7193b888512d106",
+ "parent": "b496809615aaa70cf35fb64ad5e40d2385910087",
+ "date": "2025-11-17",
+ "subject": "Remove payment chart functionality from loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 192311
+}

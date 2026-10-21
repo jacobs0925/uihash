@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "66323bbff6cc52ce742127f220176a692f97687d",
+ "parent": "640cc4527721150c838d7829dcc6aea6e96f392c",
+ "date": "2025-11-14",
+ "subject": "Add yearly investment breakdown table with PDF export functionality",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 204991
+}

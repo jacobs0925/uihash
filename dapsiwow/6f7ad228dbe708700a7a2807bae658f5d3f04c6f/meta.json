@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "6f7ad228dbe708700a7a2807bae658f5d3f04c6f",
+ "parent": "cf49e6c6f77709a67fa218bb4246fdfa9be99250",
+ "date": "2025-11-15",
+ "subject": "Assistant checkpoint: Remove gradient from Hide Breakdown button",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 188565
+}

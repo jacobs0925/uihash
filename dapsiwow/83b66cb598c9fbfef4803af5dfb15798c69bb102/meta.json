@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "83b66cb598c9fbfef4803af5dfb15798c69bb102",
+ "parent": "2e815e8f936c85d0bcf6d3302239ef8b0dce8b41",
+ "date": "2025-11-15",
+ "subject": "Restored to '35693dcb78df663b6ef186e14cc1aa3207b98334'",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "client/src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 25,
+ "ms": 563531
+}

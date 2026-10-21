@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d03eea21cac266359f5c762c39883db8d36d5d63",
+ "parent": "8c4fbb82ac9da192292658c021a1bebd248996b3",
+ "date": "2025-11-14",
+ "subject": "Update PDF export to match loan calculator styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 187002
+}

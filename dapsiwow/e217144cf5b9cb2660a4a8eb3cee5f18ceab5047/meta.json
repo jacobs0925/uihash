@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e217144cf5b9cb2660a4a8eb3cee5f18ceab5047",
+ "parent": "d653e713104ecb1cc2a46ecd8763f12861a6b248",
+ "date": "2025-11-17",
+ "subject": "Update mortgage results layout to match loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 187305
+}

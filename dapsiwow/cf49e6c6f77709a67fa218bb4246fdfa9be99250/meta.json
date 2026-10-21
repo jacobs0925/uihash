@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "cf49e6c6f77709a67fa218bb4246fdfa9be99250",
+ "parent": "e028d3ef167e2a453866d71071b7ad3c8d2aed9c",
+ "date": "2025-11-15",
+ "subject": "Assistant checkpoint: Unified Yearly Breakdown section with Loan Calculator design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 186841
+}

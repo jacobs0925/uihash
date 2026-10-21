@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "a6a0ffab2b7a4d3b0ce7cb0096fa89c6f6d2d588",
+ "date": "2025-11-11",
+ "pr": null,
+ "title": "Add more questions and answers to the EMI calculator page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1731 later commits"
+}

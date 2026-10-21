@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "447a9321829479507b29728dc42930ec2213855d",
+ "date": "2025-11-11",
+ "pr": null,
+ "title": "Restored to '74f8dd1373af24a164b503e1c1908b94fe134a2b'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Calculate interest instantly with I = P \" → \"Calculate simple interest instantly usin\" undone by c02dea04 \"Assistant checkpoint: Shortened calculator description\"; text: \"Calculate interest instantly with I = P \" → \"Calculate simple interest instantly usin\" undone by c02dea04 \"Assistant checkpoint: Shortened calculator description\"; text: \"Calculate interest instantly with I = P \" → \"Calculate simple interest instantly usin\" undone by c02dea04 \"Assistant checkpoint: Shortened calculator description\""
+}

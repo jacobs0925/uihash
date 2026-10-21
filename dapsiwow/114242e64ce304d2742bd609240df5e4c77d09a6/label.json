@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "114242e64ce304d2742bd609240df5e4c77d09a6",
+ "date": "2025-11-11",
+ "pr": null,
+ "title": "Assistant checkpoint: Removed all content sections from Compound Interest Calculator",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1716 later commits"
+}

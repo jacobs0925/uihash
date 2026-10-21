@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "afbb8d0efc5442098c2be79a97c6da612b07d9bc",
+ "parent": "2a552df620a4dda736636a5bf04a50485f41c5c4",
+ "date": "2025-11-11",
+ "subject": "Assistant checkpoint: Shortened intro description",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 168995
+}

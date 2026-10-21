@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "0ac8502f4710290fe49f7255d6f36bd97cf02ebb",
+ "date": "2025-11-11",
+ "pr": null,
+ "title": "Assistant checkpoint: Shorten intro description",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1717 later commits"
+}

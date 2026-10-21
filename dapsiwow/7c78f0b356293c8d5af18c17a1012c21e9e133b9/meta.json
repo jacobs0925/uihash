@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "7c78f0b356293c8d5af18c17a1012c21e9e133b9",
+ "parent": "27e0ce4af49336db1fda558d46db52ab59f0cbc5",
+ "date": "2025-11-11",
+ "subject": "Add SEO-friendly content to the mortgage calculator page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 234196
+}

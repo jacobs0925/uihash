@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "f04cb4425b10d81ea7cd34b995f9a9ea63e9fea6",
+ "parent": "a34e28580dbdd0b6506e81de6b3b4158bc6074b8",
+ "date": "2025-11-11",
+ "subject": "Restored to 'c6cd7599fe2faf0284bb780d873c8ff309823577'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 154665
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4c89d05bcddfc19b0f97082f5b32f389a5705890",
+ "parent": "d2d3b7bbcd9a487b044d9892087566c2a094a592",
+ "date": "2025-11-11",
+ "subject": "Assistant checkpoint: Update Related Calculators section design",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 7,
+ "ms": 260491
+}

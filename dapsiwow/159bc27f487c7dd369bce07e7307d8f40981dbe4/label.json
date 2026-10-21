@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "159bc27f487c7dd369bce07e7307d8f40981dbe4",
+ "date": "2025-11-12",
+ "pr": null,
+ "title": "Remove informational sections from the simple interest calculator page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1665 later commits"
+}

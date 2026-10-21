@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "c2b7f1995076c3fcb6f7f311e5e36a8fccdadaef",
+ "parent": "198634c11443d0ee444a62e1c62a42b386a7a0bb",
+ "date": "2025-11-11",
+ "subject": "Assistant checkpoint: Shortened hero heading to 'I = P × R × T Formula'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 218050
+}

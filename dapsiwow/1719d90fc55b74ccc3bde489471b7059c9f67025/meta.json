@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "1719d90fc55b74ccc3bde489471b7059c9f67025",
+ "parent": "8c20718746dad7531be91e76005861967026cbb7",
+ "date": "2025-11-11",
+ "subject": "Assistant checkpoint: Update Related Calculators section style",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 281873
+}

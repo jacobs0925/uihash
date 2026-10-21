@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "4010d16b9965c3acc2cc13b207249c2c40199520",
+ "date": "2025-11-11",
+ "pr": null,
+ "title": "Remove unrelated financial calculator sections from the mortgage page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1775 later commits"
+}

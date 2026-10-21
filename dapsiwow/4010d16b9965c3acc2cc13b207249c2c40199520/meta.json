@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4010d16b9965c3acc2cc13b207249c2c40199520",
+ "parent": "0454babddc1f2ea0c6d624ad5218c3a24657d24a",
+ "date": "2025-11-11",
+ "subject": "Remove unrelated financial calculator sections from the mortgage page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 195599
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "bdb93bc7007134415e51852d43b9224807b67ef1",
+ "date": "2025-11-11",
+ "pr": null,
+ "title": "Assistant checkpoint: Update Related Calculators section design to match mortgage calculator",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1723 later commits"
+}

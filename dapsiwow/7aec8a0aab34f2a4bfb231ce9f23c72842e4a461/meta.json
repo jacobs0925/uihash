@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "7aec8a0aab34f2a4bfb231ce9f23c72842e4a461",
+ "parent": "cc1bad4dec79b004d5c59831113d10a8c173fe8f",
+ "date": "2025-11-11",
+ "subject": "Assistant checkpoint: Remove trust indicators section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 186057
+}

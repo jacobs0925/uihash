@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "881d70f604152632c5a7f7e9bda4689ccaa3fd02",
+ "date": "2025-11-11",
+ "pr": null,
+ "title": "Restored to 'cad306a2352fbd19473e3027dbff9278dc5bf5db'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Calculate Using I = P × R × T Formula\" → \"I = P × R × T Formula\" undone by b72ffb5c \"Assistant checkpoint: Polish formula heading text\"; text: \"Calculate Using I = P × R × T Formula\" → \"I = P × R × T Formula\" undone by b72ffb5c \"Assistant checkpoint: Polish formula heading text\"; text: \"Calculate Using I = P × R × T Formula\" → \"I = P × R × T Formula\" undone by b72ffb5c \"Assistant checkpoint: Polish formula heading text\""
+}

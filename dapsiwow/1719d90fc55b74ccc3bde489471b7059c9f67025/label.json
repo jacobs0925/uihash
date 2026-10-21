@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "1719d90fc55b74ccc3bde489471b7059c9f67025",
+ "date": "2025-11-11",
+ "pr": null,
+ "title": "Assistant checkpoint: Update Related Calculators section style",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by f7c60904, which restored 8c207187 (1 commit discarded)"
+}

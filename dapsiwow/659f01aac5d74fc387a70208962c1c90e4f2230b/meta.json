@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "659f01aac5d74fc387a70208962c1c90e4f2230b",
+ "parent": "bdb93bc7007134415e51852d43b9224807b67ef1",
+ "date": "2025-11-11",
+ "subject": "Assistant checkpoint: Removed all content sections from Business Loan Calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 200729
+}

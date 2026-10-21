@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "c02dea0425e890337dae01fcffec91a28565919d",
+ "date": "2025-11-11",
+ "pr": null,
+ "title": "Assistant checkpoint: Shortened calculator description",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 447a9321, which restored 74f8dd13 (1 commit discarded)"
+}

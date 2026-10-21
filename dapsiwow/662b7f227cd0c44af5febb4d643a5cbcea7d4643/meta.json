@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "662b7f227cd0c44af5febb4d643a5cbcea7d4643",
+ "parent": "e9e81d318f537e9bbdf91449a4287228a1a2d136",
+ "date": "2025-11-11",
+ "subject": "Add comparison feature to financial calculators",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/business-loan-calculator.tsx",
+  "client/src/pages/emi-calculator.tsx",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 200902
+}

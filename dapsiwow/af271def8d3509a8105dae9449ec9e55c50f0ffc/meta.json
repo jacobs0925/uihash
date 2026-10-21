@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "af271def8d3509a8105dae9449ec9e55c50f0ffc",
+ "parent": "d565c2813241218516b19ceca97afa4b05bb521c",
+ "date": "2025-11-11",
+ "subject": "Improve mortgage calculator table scrolling with touch support",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 180964
+}

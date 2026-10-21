@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4b73affbc20a2dd70fb3555cf62b076d29c72bd0",
+ "parent": "acecdad05686a0d21ca251bdf823eaf225e8d73f",
+ "date": "2025-11-11",
+ "subject": "Assistant checkpoint: Remove duplicate loan comparison section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 199426
+}

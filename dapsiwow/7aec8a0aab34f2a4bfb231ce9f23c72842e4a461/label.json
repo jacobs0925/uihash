@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "7aec8a0aab34f2a4bfb231ce9f23c72842e4a461",
+ "date": "2025-11-11",
+ "pr": null,
+ "title": "Assistant checkpoint: Remove trust indicators section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1720 later commits"
+}

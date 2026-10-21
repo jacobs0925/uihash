@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a34e28580dbdd0b6506e81de6b3b4158bc6074b8",
+ "parent": "c6cd7599fe2faf0284bb780d873c8ff309823577",
+ "date": "2025-11-11",
+ "subject": "Assistant checkpoint: Simplified heading text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 155746
+}

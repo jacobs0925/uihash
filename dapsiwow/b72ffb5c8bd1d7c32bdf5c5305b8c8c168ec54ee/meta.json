@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b72ffb5c8bd1d7c32bdf5c5305b8c8c168ec54ee",
+ "parent": "cad306a2352fbd19473e3027dbff9278dc5bf5db",
+ "date": "2025-11-11",
+ "subject": "Assistant checkpoint: Polish formula heading text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 219786
+}

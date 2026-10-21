@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "80ec4997512221822a1cc97a86ee2dbed81fdd52",
+ "date": "2025-11-11",
+ "pr": null,
+ "title": "update: describe your changes",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1782 later commits"
+}

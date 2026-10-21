@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "c1c86ac23ac389f567d8a9d88ef28546fb3fd873",
+ "parent": "f7c609048f49983bf036e6a8a2c032129338f3f6",
+ "date": "2025-11-11",
+ "subject": "Assistant checkpoint: Add Related Financial Calculators section to Business Loan Calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 219112
+}

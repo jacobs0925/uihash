@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "168515514b9ab7144e08a7d4e65d2c1f5f28c3a5",
+ "parent": "a4612e05608a048f1b3f977a71b41185d78733a9",
+ "date": "2025-11-11",
+ "subject": "Assistant checkpoint: Added comparison feature to loan calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 201072
+}

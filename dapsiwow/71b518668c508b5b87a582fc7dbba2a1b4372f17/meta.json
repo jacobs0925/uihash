@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "71b518668c508b5b87a582fc7dbba2a1b4372f17",
+ "parent": "a7643ad681327104d274a70b8fc6ac09d4123cf0",
+ "date": "2025-11-11",
+ "subject": "Assistant checkpoint: Simplified hero title text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 163053
+}

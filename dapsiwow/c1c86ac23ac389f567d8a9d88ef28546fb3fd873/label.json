@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "c1c86ac23ac389f567d8a9d88ef28546fb3fd873",
+ "date": "2025-11-11",
+ "pr": null,
+ "title": "Assistant checkpoint: Add Related Financial Calculators section to Business Loan Calculator",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 0529baa8, which restored f7c60904 (1 commit discarded)"
+}

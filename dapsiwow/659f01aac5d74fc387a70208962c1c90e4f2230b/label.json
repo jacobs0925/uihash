@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "659f01aac5d74fc387a70208962c1c90e4f2230b",
+ "date": "2025-11-11",
+ "pr": null,
+ "title": "Assistant checkpoint: Removed all content sections from Business Loan Calculator",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1722 later commits"
+}

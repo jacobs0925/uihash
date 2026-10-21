@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "b72ffb5c8bd1d7c32bdf5c5305b8c8c168ec54ee",
+ "date": "2025-11-11",
+ "pr": null,
+ "title": "Assistant checkpoint: Polish formula heading text",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 881d70f6, which restored cad306a2 (1 commit discarded)"
+}

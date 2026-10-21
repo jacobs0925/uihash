@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "f918485ee9da2628415250f38b9789ae3cc76d68",
+ "date": "2025-11-11",
+ "pr": null,
+ "title": "Add detailed information to the business loan calculator page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1704 later commits"
+}

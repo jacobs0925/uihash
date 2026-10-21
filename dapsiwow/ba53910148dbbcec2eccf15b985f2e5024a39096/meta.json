@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ba53910148dbbcec2eccf15b985f2e5024a39096",
+ "parent": "114242e64ce304d2742bd609240df5e4c77d09a6",
+ "date": "2025-11-11",
+ "subject": "Assistant checkpoint: Remove Related Financial Calculators section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/compound-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 184627
+}

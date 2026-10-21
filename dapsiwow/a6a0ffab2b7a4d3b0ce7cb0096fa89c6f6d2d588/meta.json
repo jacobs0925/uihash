@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a6a0ffab2b7a4d3b0ce7cb0096fa89c6f6d2d588",
+ "parent": "af937e739d09be49845e8a22e2d52f4730b7bfec",
+ "date": "2025-11-11",
+ "subject": "Add more questions and answers to the EMI calculator page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  ".replit",
+  "client/src/pages/emi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 241844
+}

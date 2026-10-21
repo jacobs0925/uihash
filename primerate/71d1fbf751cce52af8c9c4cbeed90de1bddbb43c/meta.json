@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "71d1fbf751cce52af8c9c4cbeed90de1bddbb43c",
+ "parent": "902a9d49f8a90f7e60b6f0fa63975c457e91867f",
+ "date": "2025-10-09",
+ "subject": "Remove unnecessary debug logs from admin client page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 37896
+}

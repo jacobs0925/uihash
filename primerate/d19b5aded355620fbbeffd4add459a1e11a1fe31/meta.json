@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "d19b5aded355620fbbeffd4add459a1e11a1fe31",
+ "parent": "378bb02da14dcfa41c6d33d013e86ca016eec365",
+ "date": "2025-10-08",
+ "subject": "Improve client addition form with better number parsing and display",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx",
+  "client/src/pages/admin/AdminAddClient.tsx.backup"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40070
+}

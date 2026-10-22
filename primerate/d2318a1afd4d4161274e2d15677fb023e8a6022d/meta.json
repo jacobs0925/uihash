@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d2318a1afd4d4161274e2d15677fb023e8a6022d",
+ "parent": "70c56bb1e42c5df252211a611f6494229709f9b6",
+ "date": "2025-10-10",
+ "subject": "Update marketing page to use a new icon for shortcuts",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40944
+}

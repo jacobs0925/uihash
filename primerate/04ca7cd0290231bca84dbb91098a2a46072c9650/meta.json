@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "04ca7cd0290231bca84dbb91098a2a46072c9650",
+ "parent": "f03ae12632335496ba9e89d96dcbed113e26091a",
+ "date": "2025-10-09",
+ "subject": "Adjust scrollbar styling for improved visual appearance and user experience",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40061
+}

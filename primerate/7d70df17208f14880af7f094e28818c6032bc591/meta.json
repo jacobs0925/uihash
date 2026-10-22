@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7d70df17208f14880af7f094e28818c6032bc591",
+ "parent": "ee81ac0b13bcd994a706b457a712c5c2f8e275e7",
+ "date": "2025-10-09",
+ "subject": "Improve the appearance and functionality of the admin marketing page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40224
+}

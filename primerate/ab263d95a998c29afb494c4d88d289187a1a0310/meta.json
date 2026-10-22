@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ab263d95a998c29afb494c4d88d289187a1a0310",
+ "parent": "74a30e87c16e0f7381dc8d0117f34920d341422a",
+ "date": "2025-10-09",
+ "subject": "Update admin page to count and display post categories",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46264
+}

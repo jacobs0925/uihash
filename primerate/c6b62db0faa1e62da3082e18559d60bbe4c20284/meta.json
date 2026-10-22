@@ -1,0 +1,22 @@
+{
+ "repo": "primerate",
+ "sha": "c6b62db0faa1e62da3082e18559d60bbe4c20284",
+ "parent": "76e920b0288dca06254ce4c1d5ad417234a93dde",
+ "date": "2025-10-09",
+ "subject": "Add marketing dashboard to track direct mail campaign performance",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "client/src/App.tsx",
+  "client/src/pages/AdminDashboard.tsx",
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47590
+}

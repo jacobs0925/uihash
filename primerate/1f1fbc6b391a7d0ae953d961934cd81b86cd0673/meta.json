@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "1f1fbc6b391a7d0ae953d961934cd81b86cd0673",
+ "parent": "15b72acbea5fdc080a290a38062b11965f0b70c5",
+ "date": "2025-10-10",
+ "subject": "Update marketing page to use dropdown menus for data category and lenders",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41379
+}

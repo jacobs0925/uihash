@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2d70658d0c743c8844e38b7ecb992e6a025c9e98",
+ "parent": "086687b3ee4254f3014b40f75039392032195ff5",
+ "date": "2025-10-09",
+ "subject": "Combine first and last names for client display",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40043
+}

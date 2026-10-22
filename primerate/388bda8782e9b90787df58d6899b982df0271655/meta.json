@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "388bda8782e9b90787df58d6899b982df0271655",
+ "parent": "267abb25b3c4f220fefbe4f013adfca387f572ac",
+ "date": "2025-10-10",
+ "subject": "Update text for uploading CSV files to include UTF8 format",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41906
+}

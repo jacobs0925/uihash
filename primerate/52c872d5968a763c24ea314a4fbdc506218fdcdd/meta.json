@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "52c872d5968a763c24ea314a4fbdc506218fdcdd",
+ "parent": "2d70658d0c743c8844e38b7ecb992e6a025c9e98",
+ "date": "2025-10-09",
+ "subject": "Add functionality to upload and map customer data for marketing campaigns",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-import-React-useState-from-react-import-Upload-FileText-CheckCircle-AlertCircle-X-Ch-1760040671598_1760040671601.txt",
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39725
+}

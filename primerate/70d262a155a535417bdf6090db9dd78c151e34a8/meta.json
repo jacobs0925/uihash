@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "70d262a155a535417bdf6090db9dd78c151e34a8",
+ "parent": "7bef3100156952bc7bda707ebc01aaae48b10236",
+ "date": "2025-10-10",
+ "subject": "Update batch list to show state count instead of full list",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41144
+}

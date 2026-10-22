@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "225db43574c1557b980d8099d5b1afcb666b1477",
+ "parent": "709f96d9ea0829dbce8ca475f02becc8f00f751e",
+ "date": "2025-10-10",
+ "subject": "Update page title in marketing admin section to 'Marketing'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41094
+}

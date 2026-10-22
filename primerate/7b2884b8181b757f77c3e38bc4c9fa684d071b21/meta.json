@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7b2884b8181b757f77c3e38bc4c9fa684d071b21",
+ "parent": "30ebeb3a7e8dcd4139b916de0d9ce470e670d4a5",
+ "date": "2025-10-09",
+ "subject": "Update chart header to display \"Publish\" instead of \"Republish\"",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39770
+}

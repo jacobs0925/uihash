@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "d80c79d372fe9100057af5460bc003591db3bc36",
+ "parent": "120144c87541de06529cfc642d30a10d19cc5cc3",
+ "date": "2025-10-10",
+ "subject": "Make the first name column sticky in the admin marketing table",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40217
+}

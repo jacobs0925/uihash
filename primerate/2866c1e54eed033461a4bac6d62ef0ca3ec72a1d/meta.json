@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2866c1e54eed033461a4bac6d62ef0ca3ec72a1d",
+ "parent": "924e28b7b71dd3a545f20a1e8a5a4a03c2910306",
+ "date": "2025-10-09",
+ "subject": "Add new fields to the direct mail batch creation form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40336
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "f4eac9eb608e3e27ee88c43174e8284ddff0d421",
+ "parent": "0a64e2193102736c04b1eb8c25c21c5aba8650e0",
+ "date": "2025-10-10",
+ "subject": "Update property use options in marketing dropdown menu",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40564
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4b3720a859ede83bae39b06a19e4f768b3291c3e",
+ "parent": "d5fa41927cbe338a949f15955a4004f41bb88cfc",
+ "date": "2025-10-10",
+ "subject": "Clarify accepted file format for CSV uploads",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44689
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7980391610a3749dfa25169fa593c8866cd81318",
+ "parent": "898c26b80244f61483789f04dd976ed304c25f55",
+ "date": "2025-10-09",
+ "subject": "Add a scroll bar above the table to improve horizontal navigation",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48973
+}

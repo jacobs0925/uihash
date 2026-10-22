@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3a62b1f450461c4535cf03c97524952513b5b401",
+ "parent": "83006f770ead1872965c6c5f10d5e3d70fb59843",
+ "date": "2025-10-09",
+ "subject": "Fix error when editing posts by ensuring select items have values",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40972
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "203969c82f75b9349cc6c18f1206a30ff90cfa85",
+ "parent": "6814242b0f87e34114914308a6515678a561ef1a",
+ "date": "2025-10-10",
+ "subject": "Update file upload instructions to clarify acceptable formats",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40721
+}

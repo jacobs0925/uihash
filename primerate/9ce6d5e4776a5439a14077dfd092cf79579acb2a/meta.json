@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9ce6d5e4776a5439a14077dfd092cf79579acb2a",
+ "parent": "24f77ac92cf3824ae6d09cfdea94a113b22311b6",
+ "date": "2025-10-09",
+ "subject": "Improve CSV import by handling parsing errors and missing columns more gracefully",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47320
+}

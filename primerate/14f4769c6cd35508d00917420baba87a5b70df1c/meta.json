@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "14f4769c6cd35508d00917420baba87a5b70df1c",
+ "parent": "982dc8ae9f191fbe2a04b87a6a4aeb56813eef11",
+ "date": "2025-10-10",
+ "subject": "Enable sorting for additional columns in the batch list",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39806
+}

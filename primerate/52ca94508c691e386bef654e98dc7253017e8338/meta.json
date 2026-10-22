@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "52ca94508c691e386bef654e98dc7253017e8338",
+ "parent": "c173099e05a42989dacb220b3c4db5def176e204",
+ "date": "2025-10-10",
+ "subject": "Rearrange fields and update labels in the admin marketing query card",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40596
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "0b6f33333f3247477361b284e8188e124413184d",
+ "parent": "7d12ff5e7336227f56319a83588172fc63d9ea5d",
+ "date": "2025-10-09",
+ "subject": "Add animation for pinning notes and smoothly transition between them",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45365
+}

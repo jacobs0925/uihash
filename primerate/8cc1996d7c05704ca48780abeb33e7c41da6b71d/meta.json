@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "8cc1996d7c05704ca48780abeb33e7c41da6b71d",
+ "parent": "2a434af9a24561ca3a8318b08a6ba93545a428f9",
+ "date": "2025-10-09",
+ "subject": "Filter out empty rows from the marketing batch details table",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/image_1760046348690.png",
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49309
+}

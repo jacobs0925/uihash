@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "67a9cf5cdb58955f1ba8f34be05bc546fcae9d9e",
+ "parent": "3a62b1f450461c4535cf03c97524952513b5b401",
+ "date": "2025-10-09",
+ "subject": "Widen comment box in admin preview to show more text on one line",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40242
+}

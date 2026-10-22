@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e34022d0d4404a51d6fbe62b3fc56c1dbaab86d0",
+ "parent": "d2318a1afd4d4161274e2d15677fb023e8a6022d",
+ "date": "2025-10-10",
+ "subject": "Replace background image icon with lucide-react icon component",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40944
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "84b53a5896334be22be4e447bb6bbde56d4df23c",
+ "parent": "fd64c4a2302b404623e0f687762d118bce4017dd",
+ "date": "2025-10-10",
+ "subject": "Update input box styling and functionality to match other sections",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40582
+}

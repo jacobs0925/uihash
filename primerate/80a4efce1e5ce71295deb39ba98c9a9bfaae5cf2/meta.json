@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "80a4efce1e5ce71295deb39ba98c9a9bfaae5cf2",
+ "parent": "9ce6d5e4776a5439a14077dfd092cf79579acb2a",
+ "date": "2025-10-09",
+ "subject": "Improve error message for missing required columns in admin marketing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41089
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2ea0497b5bf1de58eec8305c1c2d842d08b2e3b1",
+ "parent": "e2196892df40f11609db3c98c2d99d20839cd4f6",
+ "date": "2025-10-09",
+ "subject": "Update dashboard layout and navigation for improved user experience",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43903
+}

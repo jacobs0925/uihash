@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "24f3ae32e25f009df7bf640f1bd04209112d4316",
+ "parent": "84b53a5896334be22be4e447bb6bbde56d4df23c",
+ "date": "2025-10-10",
+ "subject": "Update card title and input field labels for query interface",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40645
+}

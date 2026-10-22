@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "28c12dfd217c40450bc72ccf1fd63abef0a91d2b",
+ "parent": "5f023852e60076584ebbdc586db71b578a33d1e2",
+ "date": "2025-10-10",
+ "subject": "Rearrange fields in the direct mail tab for better user workflow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40140
+}

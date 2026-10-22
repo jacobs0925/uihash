@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "f6dfe617e08c8dc18ae085ee76d0f685d7730821",
+ "parent": "52ca94508c691e386bef654e98dc7253017e8338",
+ "date": "2025-10-10",
+ "subject": "Update labels for marketing fields to be more descriptive",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40214
+}

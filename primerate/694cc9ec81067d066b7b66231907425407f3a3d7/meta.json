@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "694cc9ec81067d066b7b66231907425407f3a3d7",
+ "parent": "225db43574c1557b980d8099d5b1afcb666b1477",
+ "date": "2025-10-10",
+ "subject": "Update hover and default colors for batch activity selections",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41074
+}

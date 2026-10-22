@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "01223f4b13b284e8fdd1825ed858252e6c06971f",
+ "parent": "2476df2c79955ce113950c8215038146530d063a",
+ "date": "2025-10-09",
+ "subject": "Add universal menu bar with circular indicators to comment pages",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42730
+}

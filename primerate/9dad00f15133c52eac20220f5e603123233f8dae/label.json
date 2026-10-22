@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "9dad00f15133c52eac20220f5e603123233f8dae",
+ "date": "2025-10-09",
+ "pr": null,
+ "title": "Update testimonials to load from user input and include new examples",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 874 later commits"
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "78211b8173388935343ce1d04ed61ddfe9a1e44e",
+ "parent": "6b58ab214bf1e6e6640dd2ee0e93df0b920772f3",
+ "date": "2025-10-10",
+ "subject": "Rearrange batch creation fields for improved user workflow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41030
+}

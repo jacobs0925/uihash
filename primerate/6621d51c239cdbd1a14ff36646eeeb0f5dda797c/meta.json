@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "6621d51c239cdbd1a14ff36646eeeb0f5dda797c",
+ "parent": "c92f38181589be3da87f0de5efa46fe68a99444e",
+ "date": "2025-10-09",
+ "subject": "Update admin page to allow posting insights with font and color controls",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/image_1759979717317.png",
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 73692
+}

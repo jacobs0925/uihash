@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "628e759f8575da926dbf070e1f52db66260f62b1",
+ "parent": "32c3f8bf0f5fc66debc5c54d00e4362050b23b8a",
+ "date": "2025-10-10",
+ "subject": "Remove duplicate \"Create Batch\" tab from the admin menu",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40637
+}

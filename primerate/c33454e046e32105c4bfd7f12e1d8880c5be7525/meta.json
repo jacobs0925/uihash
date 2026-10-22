@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c33454e046e32105c4bfd7f12e1d8880c5be7525",
+ "parent": "a9d5a17c65dcaef24ee2ddc022eee53b7c4be9f5",
+ "date": "2025-10-09",
+ "subject": "Add functionality to expand and collapse batch details in the admin marketing page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39435
+}

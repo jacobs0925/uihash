@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "754969557e0d49bc7d16d55000d82628f6e57bb5",
+ "parent": "2ea0497b5bf1de58eec8305c1c2d842d08b2e3b1",
+ "date": "2025-10-09",
+ "subject": "Adjust comment placement on the admin dashboard page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40495
+}

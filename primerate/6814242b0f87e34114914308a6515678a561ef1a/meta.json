@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "6814242b0f87e34114914308a6515678a561ef1a",
+ "parent": "78211b8173388935343ce1d04ed61ddfe9a1e44e",
+ "date": "2025-10-10",
+ "subject": "Add separation lines in the marketing batch creation form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42229
+}

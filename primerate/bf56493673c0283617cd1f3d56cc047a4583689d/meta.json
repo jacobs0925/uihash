@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "bf56493673c0283617cd1f3d56cc047a4583689d",
+ "parent": "c9de3326c037b10e9337bf5389d6f0b51baedb0a",
+ "date": "2025-10-09",
+ "subject": "Refactor sticky note functionality to improve user interaction and workflow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51129
+}

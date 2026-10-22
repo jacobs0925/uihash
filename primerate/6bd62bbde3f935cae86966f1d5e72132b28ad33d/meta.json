@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6bd62bbde3f935cae86966f1d5e72132b28ad33d",
+ "parent": "742f1ea89120a62d72629daa66dc0d109d0a898f",
+ "date": "2025-10-10",
+ "subject": "Update dashboard to display an additional menu item",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40019
+}

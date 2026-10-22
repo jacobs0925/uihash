@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "32c3f8bf0f5fc66debc5c54d00e4362050b23b8a",
+ "parent": "183fb4f1a80da323ce409998ff51ce633a7f973d",
+ "date": "2025-10-10",
+ "subject": "Add confirmation dialog for canceling new batch creation",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41017
+}

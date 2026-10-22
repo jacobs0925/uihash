@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "607d26fe60b58ded80a67de83ec6e0197f38d2e2",
+ "parent": "37ff747449c9c4273bc67323e6cd2678b782c56c",
+ "date": "2025-10-09",
+ "subject": "Add scrollable table headers for batch details view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42451
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e20d6fb2879d51863a9a674ce5c17287a6e35a92",
+ "parent": "607d26fe60b58ded80a67de83ec6e0197f38d2e2",
+ "date": "2025-10-09",
+ "subject": "Improve table scrolling and add scrollbar styling for better usability",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39269
+}

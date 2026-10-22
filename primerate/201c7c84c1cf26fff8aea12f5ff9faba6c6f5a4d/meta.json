@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "201c7c84c1cf26fff8aea12f5ff9faba6c6f5a4d",
+ "parent": "64757990a787c4ef42ac2a656efc89dc5ba3b218",
+ "date": "2025-10-09",
+ "subject": "Adjust marketing table layout to fix horizontal scrolling issues",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40479
+}

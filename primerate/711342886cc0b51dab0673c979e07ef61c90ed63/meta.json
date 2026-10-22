@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "711342886cc0b51dab0673c979e07ef61c90ed63",
+ "parent": "dd34aa4207da80e1b52c59b0198434272a1a6427",
+ "date": "2025-10-10",
+ "subject": "Improve readability of batch list tables with alternating row colors",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39199
+}

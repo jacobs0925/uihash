@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ff7281698d3aef4ad9f72b566ba0b2c2666352ab",
+ "parent": "70d262a155a535417bdf6090db9dd78c151e34a8",
+ "date": "2025-10-10",
+ "subject": "Remove batch information from the confirmation window",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40894
+}

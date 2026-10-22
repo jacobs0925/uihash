@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "18acea97b7c4f31f7d42401e3865572e2c2b2bf2",
+ "parent": "f189fc83c43cff217ad589d77dbe31570dece5e5",
+ "date": "2025-10-10",
+ "subject": "Remove border from state selection button in marketing admin section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40336
+}

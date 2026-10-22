@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e2d616ed6ca7c4aa29fbde786a6ba08208e2a94e",
+ "parent": "2e880b1150107c70b18f8f262d943715094b1264",
+ "date": "2025-10-09",
+ "subject": "Improve column titles for better readability in marketing section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41854
+}

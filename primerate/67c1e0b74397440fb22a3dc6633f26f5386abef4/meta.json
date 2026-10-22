@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "67c1e0b74397440fb22a3dc6633f26f5386abef4",
+ "parent": "2e46015b980e188ee4d0895bd588217e715f9b42",
+ "date": "2025-10-09",
+ "subject": "Improve data entry fields with automatic currency formatting",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40130
+}

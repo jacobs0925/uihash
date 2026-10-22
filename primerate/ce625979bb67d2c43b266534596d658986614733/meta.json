@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ce625979bb67d2c43b266534596d658986614733",
+ "parent": "7b352216ab0c6f722a02b22f45edf24b398b9eb5",
+ "date": "2025-10-09",
+ "subject": "Add sortable table to display all comments with organized data",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 56154
+}

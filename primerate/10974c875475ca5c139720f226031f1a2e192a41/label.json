@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "10974c875475ca5c139720f226031f1a2e192a41",
+ "date": "2025-10-10",
+ "pr": null,
+ "title": "Update text color for required file upload instruction to green",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 746 later commits"
+}

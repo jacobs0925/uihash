@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3eb554f3b5f115eed776ebd27ad1f098bc6a40e4",
+ "parent": "d14a7d9aa75563674f7c9c935fc7c8c6e3a943b0",
+ "date": "2025-10-09",
+ "subject": "Update comment section titles and button text",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 43645
+}

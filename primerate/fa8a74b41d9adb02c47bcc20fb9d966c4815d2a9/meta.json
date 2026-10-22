@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "fa8a74b41d9adb02c47bcc20fb9d966c4815d2a9",
+ "parent": "28c12dfd217c40450bc72ccf1fd63abef0a91d2b",
+ "date": "2025-10-10",
+ "subject": "Reposition query card minimize button to the right of add new batch",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40847
+}

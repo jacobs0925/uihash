@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "26672f13caa5f7b5078e59346e4d5dcca37fa85f",
+ "parent": "ed4ce9dc178d5eb19c4838f02486594c0880af24",
+ "date": "2025-10-10",
+ "subject": "Add a Cost column to the admin marketing table and documentation",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39566
+}

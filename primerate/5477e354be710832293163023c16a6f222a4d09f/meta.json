@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "5477e354be710832293163023c16a6f222a4d09f",
+ "parent": "55a1546792f2f45964e70e7de6bcef1291b39b9c",
+ "date": "2025-10-10",
+ "subject": "Remove unnecessary reference columns from marketing data view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46524
+}

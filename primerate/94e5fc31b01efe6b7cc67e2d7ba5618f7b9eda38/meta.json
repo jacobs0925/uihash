@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "94e5fc31b01efe6b7cc67e2d7ba5618f7b9eda38",
+ "parent": "0418ceb3cfcdc45d0391c7ddad3a081f9c4e9106",
+ "date": "2025-10-10",
+ "subject": "Make the states button 5% smaller on the marketing page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40838
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "cd4e15c855653630ae54a9601db8c7ed8eaac3d4",
+ "parent": "6bd62bbde3f935cae86966f1d5e72132b28ad33d",
+ "date": "2025-10-10",
+ "subject": "Remove duplicate \"Settings\" title from the admin dashboard display",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40668
+}

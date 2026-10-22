@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "a04dce65c5fbc90f395b7ee2466cf99da7bbd000",
+ "parent": "85aa918946efaee629e08109eb42d72394c6e02f",
+ "date": "2025-10-10",
+ "subject": "Update vendor and lender selection options to include new choices and default values",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41228
+}

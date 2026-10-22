@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "60d68ae8150684b931ab61c2f61a0ccd798f7870",
+ "parent": "ddb7142909c772c99d549771036aceb992681c57",
+ "date": "2025-10-10",
+ "subject": "Add a warning when users attempt to upload documents without selecting states",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40603
+}

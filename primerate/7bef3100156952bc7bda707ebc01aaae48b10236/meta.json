@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7bef3100156952bc7bda707ebc01aaae48b10236",
+ "parent": "8ed8b4d13e757d329d5d405fc647c597d458c191",
+ "date": "2025-10-10",
+ "subject": "Update column mapping to remove last name from first name search",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41021
+}

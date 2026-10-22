@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "658ae40b5bb41e80f3071e6201c0d14265213893",
+ "parent": "a7ea78f2a9b0d7e3ef517247c4afc5183d74a731",
+ "date": "2025-10-10",
+ "subject": "Add a button to start a new batch on the direct mail query page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40746
+}

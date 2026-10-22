@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "10974c875475ca5c139720f226031f1a2e192a41",
+ "parent": "388bda8782e9b90787df58d6899b982df0271655",
+ "date": "2025-10-10",
+ "subject": "Update text color for required file upload instruction to green",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 50132
+}

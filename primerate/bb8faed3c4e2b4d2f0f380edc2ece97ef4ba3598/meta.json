@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "bb8faed3c4e2b4d2f0f380edc2ece97ef4ba3598",
+ "parent": "c64b03b11c398283110bd50984048d0e350db2fb",
+ "date": "2025-10-09",
+ "subject": "Remove duplicate scrollbar from the marketing table view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40478
+}

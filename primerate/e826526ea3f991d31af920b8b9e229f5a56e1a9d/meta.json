@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e826526ea3f991d31af920b8b9e229f5a56e1a9d",
+ "parent": "e20d6fb2879d51863a9a674ce5c17287a6e35a92",
+ "date": "2025-10-09",
+ "subject": "Improve table scrolling and styling for better user experience",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49022
+}

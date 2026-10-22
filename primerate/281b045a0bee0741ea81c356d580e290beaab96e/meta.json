@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "281b045a0bee0741ea81c356d580e290beaab96e",
+ "parent": "201c7c84c1cf26fff8aea12f5ff9faba6c6f5a4d",
+ "date": "2025-10-09",
+ "subject": "Update total leads count to accurately reflect the number of records",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45115
+}

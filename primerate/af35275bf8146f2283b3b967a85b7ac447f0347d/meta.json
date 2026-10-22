@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "af35275bf8146f2283b3b967a85b7ac447f0347d",
+ "parent": "628e759f8575da926dbf070e1f52db66260f62b1",
+ "date": "2025-10-10",
+ "subject": "Update visual style of the states button on the admin marketing page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40538
+}

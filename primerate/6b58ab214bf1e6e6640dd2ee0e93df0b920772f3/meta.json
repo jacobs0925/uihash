@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6b58ab214bf1e6e6640dd2ee0e93df0b920772f3",
+ "parent": "94e5fc31b01efe6b7cc67e2d7ba5618f7b9eda38",
+ "date": "2025-10-10",
+ "subject": "Add a display-only button to show original states for batch charts",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41069
+}

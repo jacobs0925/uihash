@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "37ff747449c9c4273bc67323e6cd2678b782c56c",
+ "parent": "70c02c510178169d6f8e561eab7f588230175a10",
+ "date": "2025-10-09",
+ "subject": "Add interactive sorting to batch details and improve batch viewing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 49140
+}

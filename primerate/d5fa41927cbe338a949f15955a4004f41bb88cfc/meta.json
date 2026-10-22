@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d5fa41927cbe338a949f15955a4004f41bb88cfc",
+ "parent": "10974c875475ca5c139720f226031f1a2e192a41",
+ "date": "2025-10-10",
+ "subject": "Update upload instructions to specify CSV UTF8 format in green",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39754
+}

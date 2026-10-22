@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "37284ca85ff8390ba5714bd3ca53a09df33abd5e",
+ "parent": "a6bfc32f2d1307c3f5e5be81fe227ae605ffdb81",
+ "date": "2025-10-10",
+ "subject": "Adjust button size and border for a cleaner interface appearance",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40643
+}

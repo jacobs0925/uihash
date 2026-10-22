@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "59bb6a9d912af65729b97e47ed3b12026cecbc70",
+ "parent": "4ba0d95c9c3c3262431e68486fb3e4d9fa4efabb",
+ "date": "2025-10-09",
+ "subject": "Change the color of the scrollbar thumb to navy blue",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40207
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "2139cac9bca6dcbb2bd0ba84cea5831d17fbe890",
+ "parent": "1a05ffb24c0bc6d4ed229b734562e7fd8c485355",
+ "date": "2025-10-10",
+ "subject": "Update data category dropdown options and default selection",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40502
+}

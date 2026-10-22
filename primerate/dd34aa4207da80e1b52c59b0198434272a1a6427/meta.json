@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "dd34aa4207da80e1b52c59b0198434272a1a6427",
+ "parent": "cd4e15c855653630ae54a9601db8c7ed8eaac3d4",
+ "date": "2025-10-10",
+ "subject": "Update dashboard tile names for improved clarity and organization",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39422
+}

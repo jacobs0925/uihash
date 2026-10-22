@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "38327de5860c68e383fb32132908080f4b9429c8",
+ "parent": "9dad00f15133c52eac20220f5e603123233f8dae",
+ "date": "2025-10-09",
+ "subject": "Reduce font size for the date displayed below the last comment title",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45121
+}

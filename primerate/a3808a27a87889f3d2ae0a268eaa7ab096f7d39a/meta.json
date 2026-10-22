@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a3808a27a87889f3d2ae0a268eaa7ab096f7d39a",
+ "parent": "af35275bf8146f2283b3b967a85b7ac447f0347d",
+ "date": "2025-10-10",
+ "subject": "Update button styles and labels for admin marketing page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40818
+}

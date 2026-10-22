@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2b354db46c70df81a77a1dc8730ca8e01e7b7799",
+ "parent": "123da6062831d20f38efe7adb96c9b7d2249af33",
+ "date": "2025-10-09",
+ "subject": "Update comment form fields and layout for better data entry",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48453
+}

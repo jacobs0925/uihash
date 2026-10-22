@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "5ed7e246c0a0fb1868c0309f8d54ec8d1675537d",
+ "parent": "4e9bbed3828b8655611c7fca7a30be7d5093bb2a",
+ "date": "2025-10-09",
+ "subject": "Add more font size and style options to the preview section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx",
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46287
+}

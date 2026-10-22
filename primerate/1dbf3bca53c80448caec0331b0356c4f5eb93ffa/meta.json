@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1dbf3bca53c80448caec0331b0356c4f5eb93ffa",
+ "parent": "f566208737243eba342d84e224d9927781de0dea",
+ "date": "2025-10-09",
+ "subject": "Update data labels on the marketing administration page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39867
+}

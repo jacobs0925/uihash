@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "971c1089408ee7100541762080a5f3d99d105389",
+ "parent": "694cc9ec81067d066b7b66231907425407f3a3d7",
+ "date": "2025-10-10",
+ "subject": "Add separation lines to the Batch Activity dropdown menu",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41511
+}

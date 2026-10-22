@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2e880b1150107c70b18f8f262d943715094b1264",
+ "parent": "04ca7cd0290231bca84dbb91098a2a46072c9650",
+ "date": "2025-10-09",
+ "subject": "Improve trash can icon by adding a red hover color effect",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42215
+}

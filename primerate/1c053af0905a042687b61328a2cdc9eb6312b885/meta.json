@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1c053af0905a042687b61328a2cdc9eb6312b885",
+ "parent": "18ae3657efba4eeb3cdc4e1834b19163c7106cae",
+ "date": "2025-10-10",
+ "subject": "Improve sticky column behavior and sorting for admin marketing table",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44949
+}

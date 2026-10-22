@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "322cf22c6eef4b6b52560cfac8ab4680f704a99e",
+ "parent": "ff7281698d3aef4ad9f72b566ba0b2c2666352ab",
+ "date": "2025-10-10",
+ "subject": "Update CSV upload message to be more concise",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40854
+}

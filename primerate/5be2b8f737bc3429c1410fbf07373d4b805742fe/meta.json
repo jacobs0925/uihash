@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "5be2b8f737bc3429c1410fbf07373d4b805742fe",
+ "parent": "e63c20bc7e832ec3b51b5b2b8d8d265b3dbc06bc",
+ "date": "2025-10-10",
+ "subject": "Update marketing navigation to include new menu options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40934
+}

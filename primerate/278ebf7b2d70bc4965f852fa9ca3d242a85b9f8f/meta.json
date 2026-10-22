@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "278ebf7b2d70bc4965f852fa9ca3d242a85b9f8f",
+ "parent": "909d6d61324e0fb22c700c3f24a094172794ce3d",
+ "date": "2025-10-10",
+ "subject": "Update dashboard tile order to reflect lead journey",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39534
+}

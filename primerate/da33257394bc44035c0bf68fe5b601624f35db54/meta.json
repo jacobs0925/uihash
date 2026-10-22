@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "da33257394bc44035c0bf68fe5b601624f35db54",
+ "parent": "8cc1996d7c05704ca48780abeb33e7c41da6b71d",
+ "date": "2025-10-09",
+ "subject": "Improve table display by showing only relevant data columns",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 47147
+}

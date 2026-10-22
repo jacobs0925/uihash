@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f053527bd030a0f5b39bedfab216a5492914e209",
+ "parent": "5477e354be710832293163023c16a6f222a4d09f",
+ "date": "2025-10-10",
+ "subject": "Update the display for reference numbers in marketing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46065
+}

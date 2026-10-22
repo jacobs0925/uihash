@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2a434af9a24561ca3a8318b08a6ba93545a428f9",
+ "parent": "a19c304a1cfcacda6417af1c28260596ec5536ac",
+ "date": "2025-10-09",
+ "subject": "Adjust chart to fit within the bounds of the displayed data",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 45634
+}

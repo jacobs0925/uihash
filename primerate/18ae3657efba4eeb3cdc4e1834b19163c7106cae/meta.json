@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "18ae3657efba4eeb3cdc4e1834b19163c7106cae",
+ "parent": "26672f13caa5f7b5078e59346e4d5dcca37fa85f",
+ "date": "2025-10-10",
+ "subject": "Make first and last name columns sticky when scrolling horizontally",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39935
+}

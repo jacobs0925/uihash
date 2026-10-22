@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f03ec8e279de3348d26e11265380eeaa8b09ea65",
+ "parent": "b67d3c7da0c38c3da92f2c813e0e954347e90c2b",
+ "date": "2025-10-10",
+ "subject": "Update page title from \"Comments & Posts\" to \"Posts\"",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40624
+}

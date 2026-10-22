@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "046cb5b49efd8f903e717f5924796b5e27991393",
+ "parent": "10023fd8ebcb7d0d3622343a94558155dc826b6e",
+ "date": "2025-10-09",
+ "subject": "Update button text in the admin marketing pop-up",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 41263
+}

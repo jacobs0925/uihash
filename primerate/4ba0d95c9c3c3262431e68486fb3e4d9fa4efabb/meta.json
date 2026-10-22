@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4ba0d95c9c3c3262431e68486fb3e4d9fa4efabb",
+ "parent": "046cb5b49efd8f903e717f5924796b5e27991393",
+ "date": "2025-10-09",
+ "subject": "Add hover effect and message to delete batch icon",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39988
+}

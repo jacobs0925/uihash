@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f1af54a30404953437b85deda030e2a5b10c2965",
+ "parent": "ab41111861fb9674052e374b46447ff198233da5",
+ "date": "2025-10-09",
+ "subject": "Improve scrollbar appearance with thinner green thumbs and rounded edges",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39133
+}

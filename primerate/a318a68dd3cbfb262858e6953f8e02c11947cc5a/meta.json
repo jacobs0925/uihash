@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a318a68dd3cbfb262858e6953f8e02c11947cc5a",
+ "parent": "7980391610a3749dfa25169fa593c8866cd81318",
+ "date": "2025-10-09",
+ "subject": "Add confirmation for deleting batches and update lead count display",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39976
+}

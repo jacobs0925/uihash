@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "76e920b0288dca06254ce4c1d5ad417234a93dde",
+ "parent": "754969557e0d49bc7d16d55000d82628f6e57bb5",
+ "date": "2025-10-09",
+ "subject": "Adjust spacing at the top of the admin dashboard page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51597
+}

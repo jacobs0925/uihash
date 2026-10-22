@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "924e28b7b71dd3a545f20a1e8a5a4a03c2910306",
+ "parent": "7d70df17208f14880af7f094e28818c6032bc591",
+ "date": "2025-10-09",
+ "subject": "Improve scrollbar styling for the admin marketing page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40454
+}

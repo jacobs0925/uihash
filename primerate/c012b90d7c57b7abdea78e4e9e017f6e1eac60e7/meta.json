@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c012b90d7c57b7abdea78e4e9e017f6e1eac60e7",
+ "parent": "de3520d8ac14b327c5cd34af06b815e5e19d6b0c",
+ "date": "2025-10-09",
+ "subject": "Update the title for the direct mail batches card",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40729
+}

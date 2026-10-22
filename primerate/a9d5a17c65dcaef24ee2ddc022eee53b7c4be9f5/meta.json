@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a9d5a17c65dcaef24ee2ddc022eee53b7c4be9f5",
+ "parent": "67c1e0b74397440fb22a3dc6633f26f5386abef4",
+ "date": "2025-10-09",
+ "subject": "Improve batch list display with adjustable columns and fly wheel scrolling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39414
+}

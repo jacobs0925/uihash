@@ -1,0 +1,21 @@
+{
+ "repo": "primerate",
+ "sha": "140586c6f928c972835fb3ee72de3e7eff7e9136",
+ "parent": "694cd83ceed65772ad6711c132c00db595300abf",
+ "date": "2025-10-10",
+ "subject": "Add last name field to client data processing and display",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/image_1760075789981.png",
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40987
+}

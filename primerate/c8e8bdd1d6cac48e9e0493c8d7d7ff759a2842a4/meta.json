@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c8e8bdd1d6cac48e9e0493c8d7d7ff759a2842a4",
+ "parent": "3eb554f3b5f115eed776ebd27ad1f098bc6a40e4",
+ "date": "2025-10-09",
+ "subject": "Align titles evenly above their respective circles",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44057
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "50afc9d6cf3ca72b3704e98b7eb11dde3ab17e37",
+ "parent": "cdea63551bea713abdf84dc2c4acb57916ffde75",
+ "date": "2025-10-09",
+ "subject": "Remove unnecessary subtitle from direct mail marketing page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 44310
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "de3520d8ac14b327c5cd34af06b815e5e19d6b0c",
+ "parent": "e2d616ed6ca7c4aa29fbde786a6ba08208e2a94e",
+ "date": "2025-10-09",
+ "subject": "Update card title to display only the batch name",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40653
+}

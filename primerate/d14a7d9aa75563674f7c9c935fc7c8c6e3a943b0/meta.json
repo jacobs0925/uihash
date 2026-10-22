@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d14a7d9aa75563674f7c9c935fc7c8c6e3a943b0",
+ "parent": "4482a88ccc0cc450b95cbdb02747ab0c392a3ea8",
+ "date": "2025-10-09",
+ "subject": "Add a preview feature for client comments before posting",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40370
+}

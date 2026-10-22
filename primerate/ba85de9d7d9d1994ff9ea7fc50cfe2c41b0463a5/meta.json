@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ba85de9d7d9d1994ff9ea7fc50cfe2c41b0463a5",
+ "parent": "38327de5860c68e383fb32132908080f4b9429c8",
+ "date": "2025-10-09",
+ "subject": "Improve how testimonials are displayed on the homepage",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/TestimonialsSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42130
+}

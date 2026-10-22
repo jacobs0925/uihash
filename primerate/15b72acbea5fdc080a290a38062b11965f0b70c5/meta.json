@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "15b72acbea5fdc080a290a38062b11965f0b70c5",
+ "parent": "24f3ae32e25f009df7bf640f1bd04209112d4316",
+ "date": "2025-10-10",
+ "subject": "Add a stats card to the marketing page for future use",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40632
+}

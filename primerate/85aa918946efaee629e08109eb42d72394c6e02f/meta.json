@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "85aa918946efaee629e08109eb42d72394c6e02f",
+ "parent": "f4eac9eb608e3e27ee88c43174e8284ddff0d421",
+ "date": "2025-10-10",
+ "subject": "Update data category dropdown and add multi-select for batch activity",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 40493
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9fc9e3f9e907ba05880d6826c84c295123daab98",
+ "parent": "e34a3f2dce583389aa69de80abfd36e866981100",
+ "date": "2025-10-10",
+ "subject": "Update loan category title and swap vendor selection boxes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 48002
+}

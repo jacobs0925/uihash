@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ed4ce9dc178d5eb19c4838f02486594c0880af24",
+ "parent": "5499af366f097518bc764f7dc4a04cbb6f5825af",
+ "date": "2025-10-10",
+ "subject": "Update batch list table column titles for better clarity",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39641
+}

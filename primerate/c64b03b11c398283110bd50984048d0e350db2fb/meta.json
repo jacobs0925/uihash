@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c64b03b11c398283110bd50984048d0e350db2fb",
+ "parent": "da33257394bc44035c0bf68fe5b601624f35db54",
+ "date": "2025-10-09",
+ "subject": "Remove repetitive client name and address columns from admin view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 39539
+}

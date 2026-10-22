@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c34a531e163b8dbd8ddc94773702f446b52dd241",
+ "parent": "16bb80b7e4d23f944b5d86bf36733966bb108793",
+ "date": "2025-10-12",
+ "subject": "Arrange expense entry fields into two rows with four equal columns each",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 56778
+}

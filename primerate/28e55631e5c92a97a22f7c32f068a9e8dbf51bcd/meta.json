@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "28e55631e5c92a97a22f7c32f068a9e8dbf51bcd",
+ "parent": "b40da6974ca1e6d9c11ca675dc6437ebd769016a",
+ "date": "2025-10-11",
+ "subject": "Reorder dashboard tiles to improve user navigation and access",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50434
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "19a9b5fa401d7ccd0ba6188e71512c44fe0ca2e3",
+ "parent": "97cbccbcc3866713189115e084214ac2450abe26",
+ "date": "2025-10-11",
+ "subject": "Adjust spacing in admin marketing sections for better visual appeal",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50104
+}

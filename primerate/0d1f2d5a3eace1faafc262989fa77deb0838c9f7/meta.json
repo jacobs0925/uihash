@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0d1f2d5a3eace1faafc262989fa77deb0838c9f7",
+ "parent": "61090e75e3a40ff34bde05af9b0465e3b22a050d",
+ "date": "2025-10-11",
+ "subject": "Improve post selection behavior to ensure only one option is active",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 55905
+}

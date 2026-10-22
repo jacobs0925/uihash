@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "15aaab8f0b6c0198a60d3e88c79900be2dc45540",
+ "parent": "0bd7dad1e3d61e9dca8b476fc189bdbbfff4a399",
+ "date": "2025-10-13",
+ "subject": "Improve login form by removing distracting green border",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57126
+}

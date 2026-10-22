@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1802f625db4506494cc5529226bcf6218dcd061f",
+ "parent": "2b593b3cae7d614d45e808fea2a5d0f913274d49",
+ "date": "2025-10-11",
+ "subject": "Adjust post position when rows are hidden to maintain visual placement",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50262
+}

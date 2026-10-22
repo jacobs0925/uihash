@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0cb6501ee035dcce8f47a234c5d5522780aec1c7",
+ "parent": "bc79dadd26f84e2891fdc404f86a759896e67a86",
+ "date": "2025-10-11",
+ "subject": "Update card title from \"Quick Access\" to \"Posts\" on admin page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50383
+}

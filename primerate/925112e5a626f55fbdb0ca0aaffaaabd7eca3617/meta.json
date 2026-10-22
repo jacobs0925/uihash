@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "925112e5a626f55fbdb0ca0aaffaaabd7eca3617",
+ "parent": "bae6eabcfb629e35fa0376c0543ac3c0444c0cee",
+ "date": "2025-10-10",
+ "subject": "Improve VA batch card button styling and placement for consistency",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50436
+}

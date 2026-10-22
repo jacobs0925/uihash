@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c81214810447aa47309973e2b304258720a6f0d0",
+ "parent": "5c84ad91702a8a0b9fc3f5f2217e7df78cefecc4",
+ "date": "2025-10-13",
+ "subject": "Add fields to manage batch processing and delivery dates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57101
+}

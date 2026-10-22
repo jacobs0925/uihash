@@ -1,0 +1,21 @@
+{
+ "repo": "primerate",
+ "sha": "d44a8f0c10886c1f6e46f6b42d767c6aac2c3c3d",
+ "parent": "06c72d1db534517d4bc46cd153408709c1b56fb6",
+ "date": "2025-10-12",
+ "subject": "Update logo and capitalization for dashboard and login pages",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx",
+  "client/src/pages/AdminLogin.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 66519
+}

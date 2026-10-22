@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "dd46cf1fde4a2a19e1449b425fcb7255e6c4a4b7",
+ "parent": "79df20d1cd47b5baf615c7fde067090488d0b885",
+ "date": "2025-10-12",
+ "subject": "Add credit report as an option for document uploads",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminQuotes.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60991
+}

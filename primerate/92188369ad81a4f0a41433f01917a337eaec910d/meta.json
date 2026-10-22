@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "92188369ad81a4f0a41433f01917a337eaec910d",
+ "parent": "5f371fe0d99361652319ed910517d3f490295d67",
+ "date": "2025-10-12",
+ "subject": "Fix issue where deleted documents still appear in the extracted documents list",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminQuotes.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50818
+}

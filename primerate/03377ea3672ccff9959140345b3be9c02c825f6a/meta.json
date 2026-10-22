@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "03377ea3672ccff9959140345b3be9c02c825f6a",
+ "parent": "a140a660bc25ce06ce1bfe1c606acfe716552ac1",
+ "date": "2025-10-11",
+ "subject": "Update batch results to use clickable buttons instead of a dropdown",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50347
+}

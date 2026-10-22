@@ -1,0 +1,24 @@
+{
+ "repo": "primerate",
+ "sha": "047fc3d6756bb7c348e6428693e99ce201cf6d8d",
+ "parent": "ce98ab8abbe04ea23b7f2dab86f99653447870d3",
+ "date": "2025-10-12",
+ "subject": "Restored to 'a3a69f4720cdc491f56317ac286b4bf1f238765a'",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted--jsx-import-React-useState-from-react-import-Card-CardContent-Typography-Grid-TextFiel-1760255561227_1760255561228.txt",
+  "client/src/App.tsx",
+  "client/src/pages/AdminDashboard.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 56961
+}

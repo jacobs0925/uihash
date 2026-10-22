@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "96404dc364c1f2011526d0af9be282a8e871d492",
+ "parent": "c6c39eb28b9bb6f35ce2fa814fe3227a84311be9",
+ "date": "2025-10-11",
+ "subject": "Adjust spacing to keep posts visible when rows are collapsed",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50197
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "primerate",
+ "sha": "4052643fd6e5f7100dd0e337132af3b10afbb761",
+ "parent": "7cb61dccfb9338d464fc0b9f2ffce71c8a611f06",
+ "date": "2025-10-11",
+ "subject": "Update comment and post management features for better user experience",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "client/src/index.css",
+  "client/src/pages/admin/AdminAddComment.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60402
+}

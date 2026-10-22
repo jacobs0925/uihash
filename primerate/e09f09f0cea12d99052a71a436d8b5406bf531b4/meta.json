@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e09f09f0cea12d99052a71a436d8b5406bf531b4",
+ "parent": "c46a7b94e45cabf155a0141fa53c00070d59fa7e",
+ "date": "2025-10-13",
+ "subject": "Update dashboard chart to show state counts and allow viewing state lists",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60208
+}

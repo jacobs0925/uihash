@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "749c28372ed37a903b98fac9636f1aa7990851b6",
+ "parent": "9c806990124de2fbeb212355946afeec6d8feb5e",
+ "date": "2025-10-13",
+ "subject": "Add team and role filters to the admin dashboard financial view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57219
+}

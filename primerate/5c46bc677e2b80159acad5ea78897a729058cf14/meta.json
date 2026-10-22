@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "5c46bc677e2b80159acad5ea78897a729058cf14",
+ "parent": "bda0e7a1009d1e705cf329076a7845be9004a5c9",
+ "date": "2025-10-12",
+ "subject": "Improve expense logging form with date fields and formatted currency input",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 56786
+}

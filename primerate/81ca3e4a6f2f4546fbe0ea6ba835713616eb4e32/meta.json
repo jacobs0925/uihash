@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "81ca3e4a6f2f4546fbe0ea6ba835713616eb4e32",
+ "parent": "ee692daaaa6a375fd717025eb9540b6ab9ceb2d1",
+ "date": "2025-10-11",
+ "subject": "Add a quick access card with comment and post options to settings",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50710
+}

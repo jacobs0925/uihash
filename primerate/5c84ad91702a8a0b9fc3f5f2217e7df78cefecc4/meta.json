@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "5c84ad91702a8a0b9fc3f5f2217e7df78cefecc4",
+ "parent": "a94d141824cd47c34c01881b2e4d68295b6a9c4e",
+ "date": "2025-10-13",
+ "subject": "Rearrange vendor input fields to improve layout organization",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 56742
+}

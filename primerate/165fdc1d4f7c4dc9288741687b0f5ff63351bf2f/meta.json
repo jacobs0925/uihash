@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "165fdc1d4f7c4dc9288741687b0f5ff63351bf2f",
+ "parent": "7c6caa70df9724a5ebe407d537c0c91453b774e7",
+ "date": "2025-10-11",
+ "subject": "Update post display and navigation for enhanced user experience",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50269
+}

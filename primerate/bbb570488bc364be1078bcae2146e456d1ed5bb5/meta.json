@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "bbb570488bc364be1078bcae2146e456d1ed5bb5",
+ "parent": "28e55631e5c92a97a22f7c32f068a9e8dbf51bcd",
+ "date": "2025-10-11",
+ "subject": "Remove hover message from user shortcut icon",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx",
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50429
+}

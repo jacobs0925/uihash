@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "25f4d0d54e26ea838d090fb48dbaf208cc1893c7",
+ "parent": "15aaab8f0b6c0198a60d3e88c79900be2dc45540",
+ "date": "2025-10-13",
+ "subject": "Improve login form appearance by fixing input field focus styles",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 62778
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "93a36fc6ab1dd01e2a7332ad2297c7c39f2bc628",
+ "parent": "d3027717b9934d88663eae658b05f94509e64514",
+ "date": "2025-10-12",
+ "subject": "Remove \"partners\" and \"audit\" tiles from the admin dashboard",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50416
+}

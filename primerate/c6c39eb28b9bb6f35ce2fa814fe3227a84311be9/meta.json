@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c6c39eb28b9bb6f35ce2fa814fe3227a84311be9",
+ "parent": "21f56516bc6200daded786fed5e8b68d66020c79",
+ "date": "2025-10-11",
+ "subject": "Adjust spacing for the company posts section on the admin dashboard",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50491
+}

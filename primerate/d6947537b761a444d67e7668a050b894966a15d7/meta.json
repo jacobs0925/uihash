@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d6947537b761a444d67e7668a050b894966a15d7",
+ "parent": "45bccd01e7e3b118eca355d89208833206ab84b7",
+ "date": "2025-10-13",
+ "subject": "Adjust navigation order and separator placement in admin panel",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57357
+}

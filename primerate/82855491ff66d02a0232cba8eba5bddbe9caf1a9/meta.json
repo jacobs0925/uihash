@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "82855491ff66d02a0232cba8eba5bddbe9caf1a9",
+ "parent": "93cb5770b7de6802e82a2675303d62c132f2d05d",
+ "date": "2025-10-12",
+ "subject": "Update the dashboard tile name and the header title",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57062
+}

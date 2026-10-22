@@ -1,0 +1,21 @@
+{
+ "repo": "primerate",
+ "sha": "999ca1b2dfd701ff3183f09c8dc5c7fa0592d03c",
+ "parent": "25f4d0d54e26ea838d090fb48dbaf208cc1893c7",
+ "date": "2025-10-13",
+ "subject": "Improve input focus styles and remove default rings for clarity",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "client/src/index.css",
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 24,
+ "ms": 89828
+}

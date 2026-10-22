@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "05e068e2d1d38a2d1c6d7f1632d7a0aaa746bb65",
+ "parent": "f07a0a8c9839eaf8989ae3cc3f0ed81aa5388fc3",
+ "date": "2025-10-12",
+ "subject": "Improve layout and navigation for dashboard insights",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 56385
+}

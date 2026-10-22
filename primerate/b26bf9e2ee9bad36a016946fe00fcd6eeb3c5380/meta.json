@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b26bf9e2ee9bad36a016946fe00fcd6eeb3c5380",
+ "parent": "597cd51c55d7a8bf3d65a98304ea1aa7bf3e1e7a",
+ "date": "2025-10-10",
+ "subject": "Update loan type options in the batch creation form to include new categories",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50016
+}

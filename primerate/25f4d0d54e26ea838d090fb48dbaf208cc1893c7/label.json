@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "25f4d0d54e26ea838d090fb48dbaf208cc1893c7",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Improve login form appearance by fixing input field focus styles",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 487 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "fb74540a69e930636e6fb0c7b8b8b6f4215efb77",
+ "parent": "3e14d26e8f6299f241a216ac8b1961b5d208d096",
+ "date": "2025-10-13",
+ "subject": "Adjust layout of comment section on admin page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 56924
+}

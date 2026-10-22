@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ff88678eb71f213e60753fc759f8fe0f0bc0e9d5",
+ "parent": "6539f593482215c63c23b7b81e9a071962f7a58f",
+ "date": "2025-10-13",
+ "subject": "Add a screenshare button to the admin dashboard for live session sharing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57338
+}

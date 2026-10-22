@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "880e4a719c4876977b84f410282b0781913dcfb7",
+ "parent": "330d6149c41e2191649f2a8ebf8db8cbb54c10dd",
+ "date": "2025-10-13",
+ "subject": "Add warning when expanding query card with an open batch",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57440
+}

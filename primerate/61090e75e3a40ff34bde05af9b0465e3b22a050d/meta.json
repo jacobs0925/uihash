@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "61090e75e3a40ff34bde05af9b0465e3b22a050d",
+ "parent": "1802f625db4506494cc5529226bcf6218dcd061f",
+ "date": "2025-10-11",
+ "subject": "Show file upload option only after batch progress is complete",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50390
+}

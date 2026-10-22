@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "a26031a708867018c3001c05a1b3985706fced5f",
+ "parent": "0d1f2d5a3eace1faafc262989fa77deb0838c9f7",
+ "date": "2025-10-11",
+ "subject": "Update dashboard tile name from Ledger to Closed",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50047
+}

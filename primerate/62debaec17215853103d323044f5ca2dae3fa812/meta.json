@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "62debaec17215853103d323044f5ca2dae3fa812",
+ "parent": "ba8e05b3be9f23218acc87249ed91be24772840b",
+ "date": "2025-10-13",
+ "subject": "Move query functionality to dashboard and update its appearance",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57012
+}

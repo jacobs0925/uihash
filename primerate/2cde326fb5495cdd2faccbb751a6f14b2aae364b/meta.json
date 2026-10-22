@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2cde326fb5495cdd2faccbb751a6f14b2aae364b",
+ "parent": "a107307608cdb25f84eac050296d8192d0954d66",
+ "date": "2025-10-10",
+ "subject": "Display batch list when showing all data categories in direct mail",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50342
+}

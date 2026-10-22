@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "3cf416bde1b4d621f014d10eda019ebd826a3e0c",
+ "parent": "6f3a93851ff68e475737cbb5323e7244365065ec",
+ "date": "2025-10-11",
+ "subject": "Update color of states selection button on batch creation form",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 51308
+}

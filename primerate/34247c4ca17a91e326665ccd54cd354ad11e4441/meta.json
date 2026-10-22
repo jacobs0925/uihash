@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "34247c4ca17a91e326665ccd54cd354ad11e4441",
+ "parent": "87bba344916bdb37992422248c00e7e7d7f7123d",
+ "date": "2025-10-12",
+ "subject": "Add ability to minimize and expand revenue and expense charts",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57013
+}

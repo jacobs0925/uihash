@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "51ba993b4db7c16895d600b00ca1b807ead1b69f",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Restore original logo on the admin login page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 490 later commits"
+}

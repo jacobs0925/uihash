@@ -16,5 +16,8 @@
  "admin/add-client|hover||same-data|div (same data, drawn differently)|added: div (\"Add New Client Screenshare Save Borrower\")",
  "admin/add-client|hover||same-data|div (same data, drawn differently)|removed: div (\"Add New Client Screenshare Save Borrower\")",
  "admin/add-client|hover||same-data|div[region] (same data, drawn differently)|added: div[region]",
- "admin/add-client|hover||same-data|div[region] (same data, drawn differently)|removed: div[region]"
+ "admin/add-client|hover||same-data|div[region] (same data, drawn differently)|removed: div[region]",
+ "admin/login|default||same-data|div (same data, drawn differently)|added: div",
+ "admin/login|focus||same-data|div (same data, drawn differently)|added: div",
+ "admin/login|hover||same-data|div (same data, drawn differently)|added: div"
 ]

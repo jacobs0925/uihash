@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "b9c3bcfd66cf8c7a5b6803f8e908668c16119270",
+ "parent": "3cf416bde1b4d621f014d10eda019ebd826a3e0c",
+ "date": "2025-10-11",
+ "subject": "Add a text area for marketing notes on the admin page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50445
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "87bba344916bdb37992422248c00e7e7d7f7123d",
+ "parent": "c34a531e163b8dbd8ddc94773702f446b52dd241",
+ "date": "2025-10-12",
+ "subject": "Update expense log title and add minimize/expand functionality",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-Sure-Here-s-the-code-for-a-cool-matching-minimize-expand-toggle-button-javascriptimport-Minus-P-1760300200396_1760300200397.txt",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 56857
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "21f56516bc6200daded786fed5e8b68d66020c79",
+ "parent": "4cfb843c424f8c2462a2bba6a01c0b717122fcc6",
+ "date": "2025-10-11",
+ "subject": "Adjust spacing when third row is hidden to keep posts visible",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50136
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "daf944a2779843a0b9cdc5734bd39ec3b8d638a5",
+ "parent": "f6e65e525411a8e656a7cac60cce3e9d6c584d92",
+ "date": "2025-10-10",
+ "subject": "Add loan category selection with multiple mortgage options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50187
+}

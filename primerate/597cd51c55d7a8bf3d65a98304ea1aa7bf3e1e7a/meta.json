@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "597cd51c55d7a8bf3d65a98304ea1aa7bf3e1e7a",
+ "parent": "9df11c100e5d7cadbfc87d4ac43dffffba6acc38",
+ "date": "2025-10-10",
+ "subject": "Warn users before closing the \"Create New Batch\" card to view charts",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57695
+}

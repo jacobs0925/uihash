@@ -1,0 +1,23 @@
+{
+ "repo": "primerate",
+ "sha": "6a012e8bc62bbf51051d011d5ff2257f07fe86d0",
+ "parent": "a3ed6309b1226ad01a48887b86768f56b0bce609",
+ "date": "2025-10-12",
+ "subject": "Add PDF document upload and processing for loan applications",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminQuotes.tsx",
+  "package-lock.json",
+  "package.json",
+  "server/routes.ts",
+  "server/storage.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 68064
+}

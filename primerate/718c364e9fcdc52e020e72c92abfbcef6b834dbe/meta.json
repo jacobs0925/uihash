@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "718c364e9fcdc52e020e72c92abfbcef6b834dbe",
+ "parent": "15e85d073601b68e095b2017e71b40b0387241c2",
+ "date": "2025-10-12",
+ "subject": "Improve dashboard layout by centering tiles and increasing vertical spacing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 55329
+}

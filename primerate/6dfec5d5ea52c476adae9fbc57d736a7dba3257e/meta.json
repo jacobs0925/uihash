@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "6dfec5d5ea52c476adae9fbc57d736a7dba3257e",
+ "parent": "1e2cae5a5b831c0df716458c53606d04853bbdbc",
+ "date": "2025-10-11",
+ "subject": "Add a new \"Post\" tab to organize comments and posts",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50195
+}

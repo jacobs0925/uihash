@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d7c7f8579778d229a23e56216db20dd594e5594a",
+ "parent": "83e6573749060127db4416b7b0dae7de8a6ea997",
+ "date": "2025-10-12",
+ "subject": "Update header to display the company logo with specific styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57473
+}

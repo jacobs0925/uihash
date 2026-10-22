@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "b40da6974ca1e6d9c11ca675dc6437ebd769016a",
+ "parent": "6af565de4c56288320294d6cd5a90f2370e3f336",
+ "date": "2025-10-11",
+ "subject": "Add new menu tabs for improved navigation and organization",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50110
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "16bb80b7e4d23f944b5d86bf36733966bb108793",
+ "parent": "eae48016abad6341851c2437b3592ac661529d51",
+ "date": "2025-10-12",
+ "subject": "Update expense form to include payment term and rename expense amount field",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 56688
+}

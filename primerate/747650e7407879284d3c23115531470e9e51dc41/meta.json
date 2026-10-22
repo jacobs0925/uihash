@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "747650e7407879284d3c23115531470e9e51dc41",
+ "parent": "b26bf9e2ee9bad36a016946fe00fcd6eeb3c5380",
+ "date": "2025-10-11",
+ "subject": "Remove the subtitle \"Dashboard\" from the admin page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50705
+}

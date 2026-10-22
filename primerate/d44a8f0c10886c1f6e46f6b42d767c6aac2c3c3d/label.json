@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "d44a8f0c10886c1f6e46f6b42d767c6aac2c3c3d",
+ "date": "2025-10-12",
+ "pr": null,
+ "title": "Update logo and capitalization for dashboard and login pages",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "@src: Prime%20Rate%20Logo%20PNG_1759280639082-CCiX_SN7.png#19dc64a3830f → Loanview%20GPT%20-%20Image%20Oct%2012_%202025_%2003_38_40%20PM_1760308805575-D3KHe_mT.png#f4ea44dd7ae5 undone by 51ba993b \"Restore original logo on the admin login page\"; @src: Prime%20Rate%20Logo%20PNG_1759280639082-CCiX_SN7.png#19dc64a3830f → Loanview%20GPT%20-%20Image%20Oct%2012_%202025_%2003_38_40%20PM_1760308805575-D3KHe_mT.png#f4ea44dd7ae5 undone by 51ba993b \"Restore original logo on the admin login page\"; @src: Prime%20Rate%20Logo%20PNG_1759280639082-CCiX_SN7.png#19dc64a3830f → Loanview%20GPT%20-%20Image%20Oct%2012_%202025_%2003_38_40%20PM_1760308805575-D3KHe_mT.png#f4ea44dd7ae5 undone by 51ba993b \"Restore original logo on the admin login page\""
+}

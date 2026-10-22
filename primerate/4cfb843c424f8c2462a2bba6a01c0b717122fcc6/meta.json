@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4cfb843c424f8c2462a2bba6a01c0b717122fcc6",
+ "parent": "bbb570488bc364be1078bcae2146e456d1ed5bb5",
+ "date": "2025-10-11",
+ "subject": "Add ability to hide and show dashboard rows with a toggle icon",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50271
+}

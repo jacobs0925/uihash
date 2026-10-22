@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a3383af8ac51398c1afefd0a62328e11f5222f4e",
+ "parent": "1af59ab4615511a8040c618fad05f8616fd3c2a3",
+ "date": "2025-10-13",
+ "subject": "Show progress on form completion for admin",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58800
+}

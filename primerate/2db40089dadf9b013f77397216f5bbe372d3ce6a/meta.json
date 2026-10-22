@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2db40089dadf9b013f77397216f5bbe372d3ce6a",
+ "parent": "daf944a2779843a0b9cdc5734bd39ec3b8d638a5",
+ "date": "2025-10-10",
+ "subject": "Add multi-select functionality for choosing multiple state abbreviations",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50219
+}

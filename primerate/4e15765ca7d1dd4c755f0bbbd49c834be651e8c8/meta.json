@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4e15765ca7d1dd4c755f0bbbd49c834be651e8c8",
+ "parent": "d1f7aa8f660a07b7e7584ccca961848bee5e68ff",
+ "date": "2025-10-10",
+ "subject": "Limit FICO range input to three digits to ensure valid data",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50295
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "45bccd01e7e3b118eca355d89208833206ab84b7",
+ "parent": "c5a50c24a985905adb45c71c889f8815c155b600",
+ "date": "2025-10-13",
+ "subject": "Adjust item rendering in admin snapshot dropdown menu",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57579
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "10cf097e7ac88ad852ffd1158975e135c1f642bd",
+ "parent": "c81214810447aa47309973e2b304258720a6f0d0",
+ "date": "2025-10-13",
+ "subject": "Update batch creation form to use dropdowns and add a separator line",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 67429
+}

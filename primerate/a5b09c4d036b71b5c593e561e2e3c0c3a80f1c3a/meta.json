@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a5b09c4d036b71b5c593e561e2e3c0c3a80f1c3a",
+ "parent": "12f926063b13b95fe08b8a6cf91bbcf447db1356",
+ "date": "2025-10-13",
+ "subject": "Animate transaction cards to roll down smoothly when adding revenue or expenses",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57112
+}

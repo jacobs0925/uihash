@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "cf3cfbb7657cc9132ec32aac7c3521c0d1ddaa2d",
+ "parent": "284ceb66035c468a41cec10c3f27dc4566630f50",
+ "date": "2025-10-13",
+ "subject": "Add shortcut dropdown menu to header and update dashboard theme",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62416
+}

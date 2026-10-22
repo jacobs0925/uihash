@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "2e65536010a46ea42129c4d18898dc83e1183dd8",
+ "parent": "6dfec5d5ea52c476adae9fbc57d736a7dba3257e",
+ "date": "2025-10-11",
+ "subject": "Integrate sticky notes into the posts section and remove the separate notes tab",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50156
+}

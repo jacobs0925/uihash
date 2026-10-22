@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a6c49c2f2636565dd2f5185aa2e8116d5eff352f",
+ "parent": "35e034859d2ed54906bb618260d7ad4a33468c76",
+ "date": "2025-10-10",
+ "subject": "Update marketing section layout to rearrange input fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57656
+}

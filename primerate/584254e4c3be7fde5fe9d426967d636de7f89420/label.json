@@ -5,8 +5,8 @@
  "date": "2025-10-01",
  "pr": null,
  "title": "Update the login page appearance and logo display",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1850 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "border-bottom-width: 2px → ∅ undone by 25f4d0d5 \"Improve login form appearance by fixing input field focus styles\"; border-bottom-style: solid → ∅ undone by 25f4d0d5 \"Improve login form appearance by fixing input field focus styles\"; border-bottom-color: rgb(23, 130, 68) → ∅ undone by 25f4d0d5 \"Improve login form appearance by fixing input field focus styles\""
 }

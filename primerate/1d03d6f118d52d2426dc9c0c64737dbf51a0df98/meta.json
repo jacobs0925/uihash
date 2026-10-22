@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "1d03d6f118d52d2426dc9c0c64737dbf51a0df98",
+ "parent": "bbf5f5b85d16d51300b24064529bf34825db4d3b",
+ "date": "2025-10-11",
+ "subject": "Remove Ledger tab from admin settings and update tab count",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50164
+}

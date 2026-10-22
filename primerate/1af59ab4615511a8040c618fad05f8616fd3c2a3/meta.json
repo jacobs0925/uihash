@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1af59ab4615511a8040c618fad05f8616fd3c2a3",
+ "parent": "00fce6a1d3c8c845536dfca8a0e412d65236e8d6",
+ "date": "2025-10-13",
+ "subject": "Add a file upload feature for admin dashboard when data is complete",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 66630
+}

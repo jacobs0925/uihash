@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "33457b4473227b5d76811a7cb67c23dffa19c84f",
+ "parent": "a3383af8ac51398c1afefd0a62328e11f5222f4e",
+ "date": "2025-10-13",
+ "subject": "Update background color of input fields and select menus",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62422
+}

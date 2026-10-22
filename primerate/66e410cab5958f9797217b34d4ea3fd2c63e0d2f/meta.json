@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "66e410cab5958f9797217b34d4ea3fd2c63e0d2f",
+ "parent": "c05d0301379120667a72c37f7324b331235403dc",
+ "date": "2025-10-12",
+ "subject": "Add tracking for displayed loan application fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-When-Replit-connects-to-the-OpenAI-API-for-example-using-file-read-or-file-extract-structured-dat-1760244854963_1760244854965.txt",
+  "client/src/pages/admin/AdminQuotes.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50664
+}

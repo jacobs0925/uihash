@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "51ba993b4db7c16895d600b00ca1b807ead1b69f",
+ "parent": "5c33fd8b527b520bfbbce24b072e04fcda6a70c9",
+ "date": "2025-10-13",
+ "subject": "Restore original logo on the admin login page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 60764
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "32415fd756f0118b49994f401718aff35d83c224",
+ "parent": "39f3ab4e3d0dacf5ba8a5ab869350cec867cfc0d",
+ "date": "2025-10-12",
+ "subject": "Add functionality to add new financial entries through a modal",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-1-Import-the-additional-icons-javascriptimport-Plus-X-from-lucide-react-2-Add-state-varia-1760294256137_1760294256139.txt",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 56818
+}

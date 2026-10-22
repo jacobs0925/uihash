@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0bd7dad1e3d61e9dca8b476fc189bdbbfff4a399",
+ "parent": "51ba993b4db7c16895d600b00ca1b807ead1b69f",
+ "date": "2025-10-13",
+ "subject": "Add subtle pink/purple glow reflection to the login page background",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminLogin.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 64551
+}

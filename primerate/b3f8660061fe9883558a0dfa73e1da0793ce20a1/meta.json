@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "b3f8660061fe9883558a0dfa73e1da0793ce20a1",
+ "parent": "5d247e29d322d8e5ee65ce90f427f643a7b68cc2",
+ "date": "2025-10-11",
+ "subject": "Update comment and post management to only show specific cards on the posts tab",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50334
+}

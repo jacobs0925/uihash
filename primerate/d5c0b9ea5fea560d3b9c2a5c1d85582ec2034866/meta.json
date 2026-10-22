@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d5c0b9ea5fea560d3b9c2a5c1d85582ec2034866",
+ "parent": "96fed7f20862a58e3b1850cf6bbe59f0fcbd65a4",
+ "date": "2025-10-12",
+ "subject": "Improve PDF upload handling and display for admin quotes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminQuotes.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50865
+}

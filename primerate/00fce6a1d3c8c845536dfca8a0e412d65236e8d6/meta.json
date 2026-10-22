@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "00fce6a1d3c8c845536dfca8a0e412d65236e8d6",
+ "parent": "812050df4f4d67bb3269ea75d2fc9e748ca69f1f",
+ "date": "2025-10-13",
+ "subject": "Update the title for creating a new batch on the admin page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57441
+}

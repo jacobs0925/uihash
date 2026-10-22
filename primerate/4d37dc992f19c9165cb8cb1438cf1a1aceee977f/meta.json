@@ -1,0 +1,23 @@
+{
+ "repo": "primerate",
+ "sha": "4d37dc992f19c9165cb8cb1438cf1a1aceee977f",
+ "parent": "96f3cdf3a3b55381f19afb69f6ccdafd1f4dcbf7",
+ "date": "2025-10-12",
+ "subject": "Add a financial dashboard for managing company accounts",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-import-React-useState-useMemo-from-react-import-BarChart-Bar-LineChart-Line-XAxis-Y-1760254291172_1760254291174.txt",
+  "client/src/App.tsx",
+  "client/src/pages/AdminDashboard.tsx",
+  "client/src/pages/admin/AdminVault.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 63990
+}

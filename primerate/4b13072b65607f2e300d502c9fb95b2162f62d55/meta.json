@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4b13072b65607f2e300d502c9fb95b2162f62d55",
+ "parent": "03377ea3672ccff9959140345b3be9c02c825f6a",
+ "date": "2025-10-11",
+ "subject": "Align button styles with surrounding elements for a consistent look",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50203
+}

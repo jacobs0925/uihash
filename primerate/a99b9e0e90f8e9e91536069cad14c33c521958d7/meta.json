@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a99b9e0e90f8e9e91536069cad14c33c521958d7",
+ "parent": "1630bc2b3a48f9c0f53e717a78f50d88e11af172",
+ "date": "2025-10-11",
+ "subject": "Adjust spacing below the fifth row to improve visual layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50217
+}

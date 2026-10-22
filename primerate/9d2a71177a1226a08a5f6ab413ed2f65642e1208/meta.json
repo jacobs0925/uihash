@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "9d2a71177a1226a08a5f6ab413ed2f65642e1208",
+ "parent": "3f110cf95efe7f539e5df6f34e97c836adebcc2f",
+ "date": "2025-10-12",
+ "subject": "Rearrange dashboard tiles and update documentation accordingly",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50456
+}

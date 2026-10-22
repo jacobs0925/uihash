@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "ca23d070ff9170a89e71f112fa0cc8051a874d14",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Add underline on hover for login and navigation buttons",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 483 later commits"
+}

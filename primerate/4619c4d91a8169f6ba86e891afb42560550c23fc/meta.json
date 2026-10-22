@@ -1,0 +1,23 @@
+{
+ "repo": "primerate",
+ "sha": "4619c4d91a8169f6ba86e891afb42560550c23fc",
+ "parent": "a3a69f4720cdc491f56317ac286b4bf1f238765a",
+ "date": "2025-10-12",
+ "subject": "Add a new snapshot page for financial data and reporting",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted--jsx-import-React-useState-from-react-import-Card-CardContent-Typography-Grid-TextFiel-1760255561227_1760255561228.txt",
+  "client/src/App.tsx",
+  "client/src/pages/AdminDashboard.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57729
+}

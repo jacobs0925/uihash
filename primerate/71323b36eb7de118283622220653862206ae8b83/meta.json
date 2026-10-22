@@ -1,0 +1,24 @@
+{
+ "repo": "primerate",
+ "sha": "71323b36eb7de118283622220653862206ae8b83",
+ "parent": "748587592b11b1d456afb4629cc09ed2edc4b0a9",
+ "date": "2025-10-12",
+ "subject": "Add a business overview and analytics dashboard",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-import-React-useState-from-react-import-PieChart-Pie-Cell-ResponsiveContainer-Legend--1760291129973_1760291129975.txt",
+  "client/src/App.tsx",
+  "client/src/pages/AdminDashboard.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 53502
+}

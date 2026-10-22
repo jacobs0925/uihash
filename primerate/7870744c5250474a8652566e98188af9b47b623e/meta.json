@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7870744c5250474a8652566e98188af9b47b623e",
+ "parent": "96404dc364c1f2011526d0af9be282a8e871d492",
+ "date": "2025-10-11",
+ "subject": "Add ability to show or hide rows of dashboard menu items",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50167
+}

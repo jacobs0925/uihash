@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d8c87f833d2be6c83f00caf66aba799c58ba9d7e",
+ "parent": "4d37dc992f19c9165cb8cb1438cf1a1aceee977f",
+ "date": "2025-10-12",
+ "subject": "Improve financial tracking and reporting tools for the admin dashboard",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminVault.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60293
+}

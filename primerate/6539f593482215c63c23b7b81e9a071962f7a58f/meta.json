@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6539f593482215c63c23b7b81e9a071962f7a58f",
+ "parent": "cf3cfbb7657cc9132ec32aac7c3521c0d1ddaa2d",
+ "date": "2025-10-13",
+ "subject": "Update user menu colors to match dashboard theme",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62619
+}

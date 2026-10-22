@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a94d141824cd47c34c01881b2e4d68295b6a9c4e",
+ "parent": "882e1de74508a4186c996533c94dd84b40c8a525",
+ "date": "2025-10-13",
+ "subject": "Improve admin snapshot by adding data sourcing and vendor details",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57415
+}

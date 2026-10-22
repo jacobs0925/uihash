@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "ee692daaaa6a375fd717025eb9540b6ab9ceb2d1",
+ "parent": "8877193c505f4bc8bec11f5234cce5617e95d14c",
+ "date": "2025-10-11",
+ "subject": "Add new cyberpunk city background option to selector",
+ "components": [
+  "contexts"
+ ],
+ "files": [
+  "client/src/contexts/BackgroundContext.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57375
+}

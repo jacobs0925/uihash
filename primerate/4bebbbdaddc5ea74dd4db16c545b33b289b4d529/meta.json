@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4bebbbdaddc5ea74dd4db16c545b33b289b4d529",
+ "parent": "6d48f7e2e4c2cc8a276f95c7dd33247b621afd8f",
+ "date": "2025-10-11",
+ "subject": "Improve button colors and slightly reduce their height for better visual appeal",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50677
+}

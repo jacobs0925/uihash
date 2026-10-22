@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "20b2b549ee6e8f354c0be992cccb6d997221d493",
+ "parent": "d44a8f0c10886c1f6e46f6b42d767c6aac2c3c3d",
+ "date": "2025-10-12",
+ "subject": "Update dashboard logo to official company design and font",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57295
+}

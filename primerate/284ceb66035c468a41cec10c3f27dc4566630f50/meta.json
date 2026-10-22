@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "284ceb66035c468a41cec10c3f27dc4566630f50",
+ "parent": "19723379bf61da043a72048393f0c2fb1bd2598c",
+ "date": "2025-10-13",
+ "subject": "Add category filtering to the performance dashboard for better data organization",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57260
+}

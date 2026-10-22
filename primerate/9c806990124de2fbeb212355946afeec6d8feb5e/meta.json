@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9c806990124de2fbeb212355946afeec6d8feb5e",
+ "parent": "ff88678eb71f213e60753fc759f8fe0f0bc0e9d5",
+ "date": "2025-10-13",
+ "subject": "Update add entry options based on selected category in performance card",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57153
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f6e65e525411a8e656a7cac60cce3e9d6c584d92",
+ "parent": "8698d8bdd560697d22b11ff36ecd835c220592bb",
+ "date": "2025-10-10",
+ "subject": "Add dropdown options for loan purpose and set default to \"Show All\"",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminMarketing.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50231
+}

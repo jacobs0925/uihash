@@ -1,0 +1,30 @@
+{
+ "repo": "primer-brand",
+ "sha": "d91a0fa312e102300d449b9eb47ea5a7ce8bee85",
+ "parent": "eb24a6a0276304d4bda448215cd719b0fac52b48",
+ "date": "2026-10-23",
+ "subject": "Fix content clipping in accordions (#1513)",
+ "pr": "1513",
+ "components": [
+  "Accordion",
+  "PricingOptions"
+ ],
+ "files": [
+  ".changeset/fix-accordion-link-clipping.md",
+  "packages/react/src/Accordion/Accordion.module.css",
+  "packages/react/src/FAQ/FAQ.features.stories.tsx",
+  "packages/react/src/FAQ/FAQ.visual.spec.ts-snapshots/Visual-Comparison-FAQ-FAQ-All-Open-1-darwin.png",
+  "packages/react/src/PricingOptions/PricingOptions.features.stories.tsx",
+  "packages/react/src/PricingOptions/PricingOptions.module.css",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Actions-Message-1-darwin.png"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/FAQ/FAQ.visual.spec.ts-snapshots/Visual-Comparison-FAQ-FAQ-All-Open-1-darwin.png",
+  "packages/react/src/PricingOptions/PricingOptions.visual.spec.ts-snapshots/Visual-Comparison-PricingOptions-PricingOptions-Actions-Message-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nFixed content clipping at the end of accordions, which most noticeably affected link underlines in `FAQ` and `PricingOptions`.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 4,
+ "ms": 179988
+}

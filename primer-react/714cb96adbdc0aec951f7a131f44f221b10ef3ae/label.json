@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "714cb96adbdc0aec951f7a131f44f221b10ef3ae",
+ "date": "2026-10-23",
+ "pr": "8533",
+ "title": "DataTable: Add controllable row group expansion (#8533)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "4 visual-test baselines updated"
+}

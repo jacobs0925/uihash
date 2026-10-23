@@ -1,0 +1,44 @@
+{
+ "repo": "primer-react",
+ "sha": "714cb96adbdc0aec951f7a131f44f221b10ef3ae",
+ "parent": "32624638cb6dd51b3d8d3719a9a443f0a96bf3da",
+ "date": "2026-10-23",
+ "subject": "DataTable: Add controllable row group expansion (#8533)",
+ "pr": "8533",
+ "components": [
+  "DataTable"
+ ],
+ "files": [
+  ".changeset/datatable-group-expansion.md",
+  ".changeset/datatable-selection-header-ref.md",
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-collapsed-dark-linux.png",
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-collapsed-light-linux.png",
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-expanded-dark-linux.png",
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-expanded-light-linux.png",
+  "e2e/components/DataTable.test.ts",
+  "packages/react/src/DataTable/DataTable.accessibility.md",
+  "packages/react/src/DataTable/DataTable.docs.json",
+  "packages/react/src/DataTable/DataTable.features.stories.tsx",
+  "packages/react/src/DataTable/DataTable.tsx",
+  "packages/react/src/DataTable/DataTable.types.test.tsx",
+  "packages/react/src/DataTable/Table.features.stories.tsx",
+  "packages/react/src/DataTable/Table.module.css",
+  "packages/react/src/DataTable/Table.tsx",
+  "packages/react/src/DataTable/TableGroup.tsx",
+  "packages/react/src/DataTable/__tests__/DataTableExpansion.test.tsx",
+  "packages/react/src/DataTable/__tests__/DataTableGrouping.test.tsx",
+  "packages/react/src/DataTable/__tests__/DataTableSelection.test.tsx",
+  "packages/react/src/DataTable/useTable.ts"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-collapsed-dark-linux.png",
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-collapsed-light-linux.png",
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-expanded-dark-linux.png",
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-expanded-light-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': minor\n---\n\nDataTable, Table.Group: Add controlled and uncontrolled group expansion without changing row selection.\n\n---\n'@primer/react': patch\n---\n\nTable.SelectionHeader: Preserve the mixed checkbox state when using a callback ref.\n",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 1,
+ "ms": 124434
+}

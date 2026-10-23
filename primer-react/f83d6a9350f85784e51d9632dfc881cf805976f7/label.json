@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "f83d6a9350f85784e51d9632dfc881cf805976f7",
+ "date": "2026-10-23",
+ "pr": "8590",
+ "title": "SegmentedControl: align subtle hover with invisible buttons (#8590)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "SegmentedControl: Match unselected hover backgrounds in the subtle variant to invisible buttons."
+}

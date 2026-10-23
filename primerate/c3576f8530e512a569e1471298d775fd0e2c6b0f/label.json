@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "c3576f8530e512a569e1471298d775fd0e2c6b0f",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Improve input field appearance by preventing white backgrounds",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 2bba69da, which restored b701e2f1 (6 commits discarded)"
+}

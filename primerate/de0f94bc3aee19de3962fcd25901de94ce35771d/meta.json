@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "de0f94bc3aee19de3962fcd25901de94ce35771d",
+ "parent": "bd3879f61739f2fc0bad4f03357b190d1d08aa50",
+ "date": "2025-11-29",
+ "subject": "Remove draft loan status tile and related features",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62189
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0ab5deb40521e5bf6fb8c2214a7a04019188475d",
+ "parent": "b85c80dfd2c7dcabdffd3eaa6718c2baa6431a77",
+ "date": "2025-12-15",
+ "subject": "Align testimonial cards with service section layout and styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/TestimonialsSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 270138
+}

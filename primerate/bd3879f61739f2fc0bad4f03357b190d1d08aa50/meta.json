@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "bd3879f61739f2fc0bad4f03357b190d1d08aa50",
+ "parent": "61df539c8ebc32ddb46bebd1dae89282e15ebcd8",
+ "date": "2025-11-29",
+ "subject": "Remove the library section and its associated icon from the dashboard",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62129
+}

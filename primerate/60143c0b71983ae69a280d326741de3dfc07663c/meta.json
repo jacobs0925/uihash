@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "60143c0b71983ae69a280d326741de3dfc07663c",
+ "parent": "b701e2f1b1fc9a1ba175d53a52451b9846115b03",
+ "date": "2025-10-29",
+ "subject": "Improve input field appearance to match theme colors",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "client/src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62749
+}

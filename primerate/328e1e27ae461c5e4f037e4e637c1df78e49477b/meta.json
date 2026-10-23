@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "328e1e27ae461c5e4f037e4e637c1df78e49477b",
+ "parent": "861cdd03339eebe33d1a8cbe73eb8929499e58e7",
+ "date": "2025-10-18",
+ "subject": "Update document management to allow editing and deletion",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61782
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "581f647ee274921358781d8a0b3e7340d53d9ec1",
+ "parent": "daa516546e29260d4b2ed3869a7b850fb4d756bb",
+ "date": "2025-10-18",
+ "subject": "Add functionality to manage library entries within the admin dashboard",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-import-React-useState-from-react-import-BookOpen-from-lucide-react-const-AddLibra-1760747366826_1760747366830.txt",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61970
+}

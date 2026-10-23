@@ -1,0 +1,22 @@
+{
+ "repo": "primerate",
+ "sha": "8cffcf3dfb5ff5268e50ba2852b25e2e74f8fdbc",
+ "parent": "8f25402fe802d6a4f7b4e0c3350610553776a834",
+ "date": "2025-10-15",
+ "subject": "Adjust marketing filters and card visibility logic",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "client/src/components/dashboard/DashboardFilters.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61625
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b9867374246e371c99e863836fb0c861c56bfb47",
+ "parent": "de0f94bc3aee19de3962fcd25901de94ce35771d",
+ "date": "2025-11-29",
+ "subject": "Remove loan and funded tiles from the admin dashboard",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62268
+}

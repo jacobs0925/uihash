@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "d4ba09040092e116b271fd0b931642551d23eaef",
+ "parent": "d0e98e821d96ca7c1ed476bff1dbbaba7ed65231",
+ "date": "2025-10-15",
+ "subject": "Improve transaction search and filtering functionality for users",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61621
+}

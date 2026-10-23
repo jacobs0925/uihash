@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "d710454bfcbcceba7ac9edefdda7eda5c2465419",
+ "parent": "8156c3755d5464fa199eee5b9d2b1e5e6480b624",
+ "date": "2025-10-15",
+ "subject": "Hide the financials search card when not viewing expense-related financial data",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61370
+}

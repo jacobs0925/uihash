@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ec49b9ccce1264ffeb237191f346d1ec9accfacc",
+ "parent": "e6a27884c0ca8bedb60505597d4ba818d237c428",
+ "date": "2025-10-25",
+ "subject": "Add a new sandbox tile for developing loan status codes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 74059
+}

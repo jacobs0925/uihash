@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "6054697ae576576596672b4f31d4b24c70195860",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Set default background and text colors for input fields",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 2bba69da, which restored b701e2f1 (6 commits discarded)"
+}

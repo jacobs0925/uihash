@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d478502d0619998735c76681962608c78b56d0e8",
+ "parent": "299d2a99f870c470436aa7ac5cdb4285edca7019",
+ "date": "2025-10-15",
+ "subject": "Add date range filtering to the admin snapshot view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61638
+}

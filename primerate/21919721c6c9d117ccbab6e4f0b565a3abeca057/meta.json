@@ -1,0 +1,23 @@
+{
+ "repo": "primerate",
+ "sha": "21919721c6c9d117ccbab6e4f0b565a3abeca057",
+ "parent": "038ba907d2a8bb35f0bf4f3d2646723e9e9f6f4e",
+ "date": "2025-10-25",
+ "subject": "Add a standalone loan status dashboard for detailed loan information",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted--DOCTYPE-html-html-lang-en-head-meta-charset-UTF-8-meta-name-viewport-content-1761376693773_1761376693776.txt",
+  "client/src/components/dashboard/LoanStatusDashboard.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62287
+}

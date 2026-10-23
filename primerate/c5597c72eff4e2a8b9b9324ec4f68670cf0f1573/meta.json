@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c5597c72eff4e2a8b9b9324ec4f68670cf0f1573",
+ "parent": "9c261b19be08106551ac8751313ca79167b660bc",
+ "date": "2025-12-15",
+ "subject": "Update rate tracker form labels and add notification subtitle",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42355
+}

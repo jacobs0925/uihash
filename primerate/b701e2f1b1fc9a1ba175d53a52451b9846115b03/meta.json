@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b701e2f1b1fc9a1ba175d53a52451b9846115b03",
+ "parent": "c288b7ebd229917871d5a0205954a041f0a8a889",
+ "date": "2025-10-29",
+ "subject": "Remove left border highlight from draft loan status tile",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61776
+}

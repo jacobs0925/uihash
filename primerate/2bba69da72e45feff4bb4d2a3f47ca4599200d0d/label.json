@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "2bba69da72e45feff4bb4d2a3f47ca4599200d0d",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Restored to 'b701e2f1b1fc9a1ba175d53a52451b9846115b03'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgb(250, 250, 250) → ∅ undone by 7351323d \"Standardize input field background colors across the website\"; background-clip: border-box → ∅ undone by 7351323d \"Standardize input field background colors across the website\"; background-color: rgb(250, 250, 250) → ∅ undone by 7351323d \"Standardize input field background colors across the website\""
+}

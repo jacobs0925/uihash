@@ -1,0 +1,24 @@
+{
+ "repo": "primerate",
+ "sha": "b933d7627802edcf349798961d5e37aa1e6a41f8",
+ "parent": "e23706022d4011f5222964c9be4c3d2ea5849cbf",
+ "date": "2025-10-16",
+ "subject": "Add reusable components and hooks for dashboard development",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/dashboard/REFACTOR_PLAN.md",
+  "client/src/components/dashboard/hooks/useDashboardFilters.ts",
+  "client/src/components/dashboard/shared/CustomScrollbar.tsx",
+  "client/src/components/dashboard/shared/DashboardCard.tsx",
+  "client/src/components/dashboard/shared/DeleteConfirmationDialog.tsx",
+  "client/src/components/dashboard/shared/WarningDialog.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61699
+}

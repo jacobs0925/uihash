@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "7351323dad78b93f86532ef8d548513420d4cbb5",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Standardize input field background colors across the website",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 2bba69da, which restored b701e2f1 (6 commits discarded)"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d2165c482820e6631379716734cce84ce83134bc",
+ "parent": "47354a3af51cd2be24c0de81c72a7b390142d829",
+ "date": "2025-12-15",
+ "subject": "Remove dashboard row visibility controls and simplify layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42600
+}

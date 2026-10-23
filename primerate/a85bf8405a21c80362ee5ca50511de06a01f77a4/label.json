@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "a85bf8405a21c80362ee5ca50511de06a01f77a4",
+ "date": "2025-11-29",
+ "pr": null,
+ "title": "Update loan rate section title to include VA, FHA, and Conventional Loans",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 130 later commits"
+}

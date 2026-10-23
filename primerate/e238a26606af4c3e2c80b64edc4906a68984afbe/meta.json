@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e238a26606af4c3e2c80b64edc4906a68984afbe",
+ "parent": "4cc3886581e9ffa4d8ea014b6b23976bcd05b782",
+ "date": "2025-10-15",
+ "subject": "Update date field label to clear date and update test ID",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61679
+}

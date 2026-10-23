@@ -1,0 +1,24 @@
+{
+ "repo": "primerate",
+ "sha": "280e9cd714af25252c11a5d4a5e39eb6a73f3a57",
+ "parent": "9ead4f053f4313ace31f7cb97f42ef0a04b18b0d",
+ "date": "2025-10-25",
+ "subject": "Add a dedicated page for drafting loan statuses and integrate it into the admin dashboard",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "attached_assets/image_1761430600113.png",
+  "client/src/App.tsx",
+  "client/src/pages/AdminDashboard.tsx",
+  "client/src/pages/admin/AdminDraftLoanStatus.tsx",
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 74730
+}

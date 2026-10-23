@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "61df539c8ebc32ddb46bebd1dae89282e15ebcd8",
+ "parent": "2bba69da72e45feff4bb4d2a3f47ca4599200d0d",
+ "date": "2025-11-29",
+ "subject": "Remove the \"Closed\" loan tile from the admin dashboard view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62090
+}

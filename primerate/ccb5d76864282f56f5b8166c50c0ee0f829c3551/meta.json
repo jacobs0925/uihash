@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ccb5d76864282f56f5b8166c50c0ee0f829c3551",
+ "parent": "b1f2760015becaa60d784bf4bb6783194ff15496",
+ "date": "2025-10-25",
+ "subject": "Organize loan status into its own category within the dashboard filters",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/dashboard/DashboardFilters.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62277
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "77bfb6ed8415c0705dadeeaa024d98dc21ed7aa9",
+ "parent": "96705d3f5e8a4b82c0868feaed946bca5ae0e742",
+ "date": "2025-10-15",
+ "subject": "Update prime rate card display to show only for MLO team members",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61479
+}

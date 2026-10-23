@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "8f99241b816fd317f73d4ab87500d03451cddaea",
+ "date": "2025-10-15",
+ "pr": null,
+ "title": "Update theme settings to open on toggle icon click",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 249 later commits"
+}

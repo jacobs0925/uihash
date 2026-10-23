@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7351323dad78b93f86532ef8d548513420d4cbb5",
+ "parent": "02633fcfbc424cd563129622e5b97e169c3c8f10",
+ "date": "2025-10-29",
+ "subject": "Standardize input field background colors across the website",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "client/src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 39,
+ "ms": 113119
+}

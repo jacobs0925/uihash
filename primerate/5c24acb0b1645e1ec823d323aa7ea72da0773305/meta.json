@@ -1,0 +1,21 @@
+{
+ "repo": "primerate",
+ "sha": "5c24acb0b1645e1ec823d323aa7ea72da0773305",
+ "parent": "32a8c479568199f9938bb77d767cd4f6114f68c6",
+ "date": "2025-10-24",
+ "subject": "Update dashboard charts with new interactive and animated visualizations",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "attached_assets/Pasted-import-React-useState-useEffect-from-react-import-Filter-Search-Minus-Plus-TrendingU-1761328041886_1761328041886.txt",
+  "client/src/components/dashboard/ExpenseBreakdownChart.tsx",
+  "client/src/components/dashboard/RevenueSourcesChart.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62309
+}

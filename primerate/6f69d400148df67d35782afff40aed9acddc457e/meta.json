@@ -1,0 +1,21 @@
+{
+ "repo": "primerate",
+ "sha": "6f69d400148df67d35782afff40aed9acddc457e",
+ "parent": "4c30fe79f8e4405e86bc9438be5c878131022e11",
+ "date": "2025-10-17",
+ "subject": "Add vendor search functionality with dynamic results display",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-import-React-useState-from-react-import-ArrowUpDown-from-lucide-react-const-Vendo-1760659524300_1760659524304.txt",
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61762
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a9024ac07fa9706badb3af7f3fe0039264208195",
+ "parent": "eac59b357d1f7a5a5691b42bf6e6209fc5038f89",
+ "date": "2025-10-15",
+ "subject": "Add logout functionality for administrators to return to the home page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61431
+}

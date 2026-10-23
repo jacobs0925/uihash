@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "87c4180c034d0cd536f6d5032fd1e3f8f3b3d2ec",
+ "parent": "de8311cf8f5e3843a1db001300e40aa97f226d64",
+ "date": "2025-10-17",
+ "subject": "Add magnifying glass icon and green text to search results",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62028
+}

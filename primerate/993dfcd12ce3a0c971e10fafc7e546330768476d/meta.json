@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "993dfcd12ce3a0c971e10fafc7e546330768476d",
+ "parent": "5e31606a36492adfe557396e22a47dcbaaca82b6",
+ "date": "2025-12-10",
+ "subject": "Remove the \"Loan Prep\" card from the admin dashboard view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62126
+}

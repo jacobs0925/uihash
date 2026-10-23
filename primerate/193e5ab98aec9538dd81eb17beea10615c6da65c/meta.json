@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "193e5ab98aec9538dd81eb17beea10615c6da65c",
+ "parent": "6ecdb78402fd0b5b15b6f6d004da3097b4d3dc6f",
+ "date": "2025-10-15",
+ "subject": "Adjust how search and pipeline cards display in the admin section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61574
+}

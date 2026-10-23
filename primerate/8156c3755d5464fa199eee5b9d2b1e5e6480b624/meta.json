@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8156c3755d5464fa199eee5b9d2b1e5e6480b624",
+ "parent": "ede505d9205e7d2af425cea71ec3e34cf68707f5",
+ "date": "2025-10-15",
+ "subject": "Adjust button placement and size for a better user experience",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61166
+}

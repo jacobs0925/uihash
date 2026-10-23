@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "e203e0162722433b375ce0bd0ab0bd83d9402143",
+ "parent": "12ee1fdf23e9ef781afb8c3a2f7efb4daf2683ea",
+ "date": "2025-12-15",
+ "subject": "Stop modal from shifting when dropdowns open",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "client/src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42271
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1f33a5bf653a54412669120eb1e2648ca84efea9",
+ "parent": "e4b8e6656d78457da04a00824e8152c6ac7f80a1",
+ "date": "2025-10-15",
+ "subject": "Update transaction log to match search field updates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61477
+}

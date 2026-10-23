@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "53b17c9692d2a869818e79ab1dbc0ca5828e749c",
+ "date": "2025-12-01",
+ "pr": null,
+ "title": "Remove the status tab from the client administration page",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by bf25897d, which restored a85bf840 (1 commit discarded)"
+}

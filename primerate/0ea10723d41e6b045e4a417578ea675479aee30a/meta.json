@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0ea10723d41e6b045e4a417578ea675479aee30a",
+ "parent": "6bf1ef195e30c06e674e2327c3e7dc38395dce5b",
+ "date": "2025-10-15",
+ "subject": "Update financial dropdown menu to include revenue and expense options",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/dashboard/DashboardFilters.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61202
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "primerate",
+ "sha": "a31d69dfc423a7231daed0b6b358ea771ff07092",
+ "parent": "ccb5d76864282f56f5b8166c50c0ee0f829c3551",
+ "date": "2025-10-25",
+ "subject": "Add a loan status dashboard to display key loan metrics",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted--DOCTYPE-html-html-lang-en-head-meta-charset-UTF-8-meta-name-viewport-content-1761371706170_1761371706172.txt",
+  "client/src/components/dashboard/LoanStatusDashboard.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62727
+}

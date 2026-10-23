@@ -1,0 +1,22 @@
+{
+ "repo": "primerate",
+ "sha": "7700d07e3fcd87e958a94be7796cfedf6f09002d",
+ "parent": "49e31fe45aecb780b154d37bdf13b30a5c377de6",
+ "date": "2025-10-25",
+ "subject": "Remove loan status tab and related functionalities",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "client/src/components/dashboard/DashboardFilters.tsx",
+  "client/src/components/dashboard/LoanStatusDashboard.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62335
+}

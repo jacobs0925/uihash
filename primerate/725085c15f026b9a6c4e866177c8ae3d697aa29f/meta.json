@@ -1,0 +1,21 @@
+{
+ "repo": "primerate",
+ "sha": "725085c15f026b9a6c4e866177c8ae3d697aa29f",
+ "parent": "3a6e72b493a206ebc1ce841d51e3980ffae88694",
+ "date": "2025-10-16",
+ "subject": "Add vendor search card and prevent conflicts with add vendor card",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-import-React-useState-from-react-import-Search-ArrowUpDown-from-lucide-react-con-1760658046845_1760658046846.txt",
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61671
+}

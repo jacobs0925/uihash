@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "c0605d334adc6fa5b2cab4819934be0d33acfc79",
+ "date": "2025-12-15",
+ "pr": null,
+ "title": "Add a premium video background to the trust section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 106 later commits"
+}

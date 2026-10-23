@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8cf67225979dbea5fee8e5efc08e9f86d02f49c9",
+ "parent": "f12efca4b30872c70741d287a1dfc0cb3e8f55d1",
+ "date": "2025-10-16",
+ "subject": "Improve performance card display for vendor selections",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61366
+}

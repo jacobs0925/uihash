@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d674763b4ddc3808ca92878cae3616664632397b",
+ "parent": "807f3f241944114e751a2d72cc47bfec0e4c65d7",
+ "date": "2025-10-17",
+ "subject": "Update vendor management to close search results when adding a new entry",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61461
+}

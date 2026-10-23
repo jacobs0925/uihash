@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "daa516546e29260d4b2ed3869a7b850fb4d756bb",
+ "parent": "ca2b877e20fa1a675813fbb33ef255fc91d218a6",
+ "date": "2025-10-17",
+ "subject": "Add library category with relevant team filters to performance dashboard",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/dashboard/DashboardFilters.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61684
+}

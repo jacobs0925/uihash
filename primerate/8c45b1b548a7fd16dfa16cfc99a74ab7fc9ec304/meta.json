@@ -1,0 +1,22 @@
+{
+ "repo": "primerate",
+ "sha": "8c45b1b548a7fd16dfa16cfc99a74ab7fc9ec304",
+ "parent": "725085c15f026b9a6c4e866177c8ae3d697aa29f",
+ "date": "2025-10-16",
+ "subject": "Add warning when changing team filters while vendor card is open",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "client/src/components/dashboard/DashboardFilters.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61850
+}

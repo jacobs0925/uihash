@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "eac59b357d1f7a5a5691b42bf6e6209fc5038f89",
+ "parent": "8f99241b816fd317f73d4ab87500d03451cddaea",
+ "date": "2025-10-15",
+ "subject": "Improve dashboard workflow by auto-minimizing relevant cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61316
+}

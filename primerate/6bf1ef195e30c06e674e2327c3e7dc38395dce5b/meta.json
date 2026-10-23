@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6bf1ef195e30c06e674e2327c3e7dc38395dce5b",
+ "parent": "3af8e2a1c091f3ec33a225e16a1594e657596752",
+ "date": "2025-10-15",
+ "subject": "Adjust staff search card to close instead of minimize",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61096
+}

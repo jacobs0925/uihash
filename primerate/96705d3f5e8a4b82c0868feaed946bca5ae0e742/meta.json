@@ -1,0 +1,23 @@
+{
+ "repo": "primerate",
+ "sha": "96705d3f5e8a4b82c0868feaed946bca5ae0e742",
+ "parent": "f3290e3e6f31ece16b5983f3d9db172a8ccdd8b9",
+ "date": "2025-10-15",
+ "subject": "Prevent chart card expansion while expense or revenue logs are open",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "client/src/components/dashboard/ExpenseBreakdownChart.tsx",
+  "client/src/components/dashboard/RevenueSourcesChart.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61616
+}

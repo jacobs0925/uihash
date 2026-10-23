@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "a0d47195d800abdf01e4c5ca1f69bd4072a2b003",
+ "parent": "b39dd0c8dd415a52f08c3dadcd7452916b274eb6",
+ "date": "2025-10-28",
+ "subject": "Display loan status dashboard within an iframe for isolated development",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminDraftLoanStatus.tsx",
+  "public/loan-status-dashboard.html"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61788
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0e7f010d005017bef2b48b9945d66f88c86fbbae",
+ "parent": "287b84fb41d2eb2e76fdfb7a9ea875d6b13da13b",
+ "date": "2025-12-10",
+ "subject": "Remove administrative tabs and simplify the client comment page layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddComment.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 50366
+}

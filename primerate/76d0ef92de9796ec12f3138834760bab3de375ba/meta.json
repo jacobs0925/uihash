@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "76d0ef92de9796ec12f3138834760bab3de375ba",
+ "parent": "3779e47f1e2824a6c4deadfeca8cda645f1c4936",
+ "date": "2025-10-15",
+ "subject": "Improve revenue transaction display and search functionality",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61673
+}

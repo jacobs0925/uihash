@@ -1,0 +1,22 @@
+{
+ "repo": "primerate",
+ "sha": "f3290e3e6f31ece16b5983f3d9db172a8ccdd8b9",
+ "parent": "43cada0574fc18192abf483251c30452895c9c0c",
+ "date": "2025-10-15",
+ "subject": "Update dashboard to conditionally display financial charts and adjust dropdown labels",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "client/src/components/dashboard/DashboardFilters.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60953
+}

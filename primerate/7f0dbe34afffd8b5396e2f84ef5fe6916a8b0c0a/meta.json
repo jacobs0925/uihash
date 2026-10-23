@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "7f0dbe34afffd8b5396e2f84ef5fe6916a8b0c0a",
+ "parent": "a0b95fdfa87c11f8264266a35dc7654265a9282d",
+ "date": "2025-10-15",
+ "subject": "Adjust card visibility based on team selection for staff",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61443
+}

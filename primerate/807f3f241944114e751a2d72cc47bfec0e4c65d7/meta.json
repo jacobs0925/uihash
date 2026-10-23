@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "807f3f241944114e751a2d72cc47bfec0e4c65d7",
+ "parent": "78ae48919f7c5738dbcbff56c62c10cfb8741aaa",
+ "date": "2025-10-17",
+ "subject": "Add ability to add and search for vendors with matching fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62228
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "299d2a99f870c470436aa7ac5cdb4285edca7019",
+ "parent": "bb4059aa5e585bee0287628de3696ff18bf55588",
+ "date": "2025-10-15",
+ "subject": "Improve revenue log display with icon and styling updates",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62024
+}

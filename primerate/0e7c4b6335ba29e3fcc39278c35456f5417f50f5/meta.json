@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0e7c4b6335ba29e3fcc39278c35456f5417f50f5",
+ "parent": "1f33a5bf653a54412669120eb1e2648ca84efea9",
+ "date": "2025-10-15",
+ "subject": "Update expense log to match transaction search fields and styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60987
+}

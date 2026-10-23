@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6edbc979c2303ef3f436378bdb88d54e214065a6",
+ "parent": "c5597c72eff4e2a8b9b9324ec4f68670cf0f1573",
+ "date": "2025-12-15",
+ "subject": "Improve phone number field allowing quick re-entry",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42352
+}

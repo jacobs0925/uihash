@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "501a2742c35b36932340cfa1a17c737f1a1a7d84",
+ "parent": "76e5f9b891371be46617709c6abb33f9436e1b63",
+ "date": "2025-10-18",
+ "subject": "Adjust button sizes for improved user interface consistency",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61639
+}

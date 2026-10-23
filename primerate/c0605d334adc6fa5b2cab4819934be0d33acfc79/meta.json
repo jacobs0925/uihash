@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "c0605d334adc6fa5b2cab4819934be0d33acfc79",
+ "parent": "1c59978b020a4733f69d3465381dedf7f39bfa8b",
+ "date": "2025-12-15",
+ "subject": "Add a premium video background to the trust section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "attached_assets/generated_videos/aerial_neighborhood_golden_hour.mp4",
+  "client/src/components/TrustSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 162142
+}

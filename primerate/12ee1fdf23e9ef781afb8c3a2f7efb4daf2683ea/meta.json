@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "12ee1fdf23e9ef781afb8c3a2f7efb4daf2683ea",
+ "parent": "fafd4406e4fe12e7f42b0da03c4cec9d7bfdc9b3",
+ "date": "2025-12-15",
+ "subject": "Improve dropdown behavior in the rate tracker modal",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42189
+}

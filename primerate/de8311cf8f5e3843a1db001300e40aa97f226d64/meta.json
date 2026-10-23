@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "de8311cf8f5e3843a1db001300e40aa97f226d64",
+ "parent": "f08f62fbd6dba1dfcd7700c39e45eb52c68594c5",
+ "date": "2025-10-17",
+ "subject": "Improve user experience by preventing duplicate card openings",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61874
+}

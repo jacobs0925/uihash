@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "06b09ce407d8edf14fb23451e525c3a5b6669efa",
+ "parent": "501a2742c35b36932340cfa1a17c737f1a1a7d84",
+ "date": "2025-10-18",
+ "subject": "Add library document saving and display functionality",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-import-React-useState-from-react-import-ArrowUpDown-from-lucide-react-const-Docum-1760748829257_1760748829263.txt",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61683
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "02633fcfbc424cd563129622e5b97e169c3c8f10",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Adjust input styling to match date of birth field",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 2bba69da, which restored b701e2f1 (6 commits discarded)"
+}

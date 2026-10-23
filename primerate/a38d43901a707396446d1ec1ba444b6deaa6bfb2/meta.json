@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a38d43901a707396446d1ec1ba444b6deaa6bfb2",
+ "parent": "af44129fad80023274be35e96ab0bc37d13de5f7",
+ "date": "2025-10-28",
+ "subject": "Integrate existing loan status dashboard HTML into React component",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminDraftLoanStatus.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62662
+}

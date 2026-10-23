@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "d0e98e821d96ca7c1ed476bff1dbbaba7ed65231",
+ "parent": "aca89b6ab0c73593921bcf74251c595b852975db",
+ "date": "2025-10-15",
+ "subject": "Add new fields and improve dashboard display for expense tracking",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61444
+}

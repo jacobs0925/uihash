@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4cc3886581e9ffa4d8ea014b6b23976bcd05b782",
+ "parent": "bcc0bcfb36f695789e463973b9b2c63ce09a245b",
+ "date": "2025-10-15",
+ "subject": "Update admin snapshot search filters for payment source and log date",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61701
+}

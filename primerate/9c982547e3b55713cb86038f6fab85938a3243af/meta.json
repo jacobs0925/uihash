@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "9c982547e3b55713cb86038f6fab85938a3243af",
+ "parent": "abba2e4ce3b9eb12d782186ceca3f21e7afd770d",
+ "date": "2025-10-15",
+ "subject": "Update button styles to match the professional dashboard theme",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61320
+}

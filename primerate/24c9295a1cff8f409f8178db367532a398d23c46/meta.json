@@ -1,0 +1,22 @@
+{
+ "repo": "primerate",
+ "sha": "24c9295a1cff8f409f8178db367532a398d23c46",
+ "parent": "14e2cb989221b26b48c2d27c45a195427a1925f8",
+ "date": "2025-10-15",
+ "subject": "Adjust dashboard to show specific cards based on team selection",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "client/src/components/dashboard/DashboardFilters.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61533
+}

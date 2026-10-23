@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a0d7f00a7b0a9a8d7282f52151b77d25a0abdc9b",
+ "parent": "8508a89a8f03dacd1ea54e4ac88b82270060bfe7",
+ "date": "2025-10-15",
+ "subject": "Update revenue log to use categories with new selection options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61526
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "c97dc4180c784c014cbec124d4062254ef9a8f8b",
+ "date": "2025-10-29",
+ "pr": null,
+ "title": "Remove forced white background for input fields",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 2bba69da, which restored b701e2f1 (6 commits discarded)"
+}

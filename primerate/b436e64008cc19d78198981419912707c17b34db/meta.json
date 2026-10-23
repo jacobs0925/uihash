@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b436e64008cc19d78198981419912707c17b34db",
+ "parent": "328e1e27ae461c5e4f037e4e637c1df78e49477b",
+ "date": "2025-10-18",
+ "subject": "Update admin snapshot to include library transaction type",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62579
+}

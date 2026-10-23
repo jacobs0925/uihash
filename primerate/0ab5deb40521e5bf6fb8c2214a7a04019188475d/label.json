@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "0ab5deb40521e5bf6fb8c2214a7a04019188475d",
+ "date": "2025-12-15",
+ "pr": null,
+ "title": "Align testimonial cards with service section layout and styling",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 102 later commits"
+}

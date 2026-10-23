@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "78ae48919f7c5738dbcbff56c62c10cfb8741aaa",
+ "parent": "87c4180c034d0cd536f6d5032fd1e3f8f3b3d2ec",
+ "date": "2025-10-17",
+ "subject": "Improve vendor search functionality by filtering results based on input criteria",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62346
+}

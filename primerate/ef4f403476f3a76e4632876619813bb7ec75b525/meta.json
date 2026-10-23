@@ -1,0 +1,21 @@
+{
+ "repo": "primerate",
+ "sha": "ef4f403476f3a76e4632876619813bb7ec75b525",
+ "parent": "a4f4022f7b13dd5a2bae70aea1cd9fe62977820e",
+ "date": "2025-10-16",
+ "subject": "Update dashboard filters to default to showing all data",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "client/src/components/dashboard/DashboardFilters.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61884
+}

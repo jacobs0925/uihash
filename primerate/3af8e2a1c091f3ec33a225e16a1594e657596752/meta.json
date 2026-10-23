@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "3af8e2a1c091f3ec33a225e16a1594e657596752",
+ "parent": "1f82c0398e11dd8546b485dbefd57329491db3b6",
+ "date": "2025-10-15",
+ "subject": "Allow users to expand the search card for marketing content",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 74121
+}

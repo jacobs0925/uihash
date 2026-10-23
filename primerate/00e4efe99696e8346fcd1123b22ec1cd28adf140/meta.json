@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "00e4efe99696e8346fcd1123b22ec1cd28adf140",
+ "parent": "4c5ac7bd0e70f67d818d811671b535fcea8a9b84",
+ "date": "2025-10-15",
+ "subject": "Update transaction display to allow column filtering",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61314
+}

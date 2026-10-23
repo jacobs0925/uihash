@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "8f25402fe802d6a4f7b4e0c3350610553776a834",
+ "parent": "7f0dbe34afffd8b5396e2f84ef5fe6916a8b0c0a",
+ "date": "2025-10-15",
+ "subject": "Allow users to open the staff search card even when no team is selected",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61361
+}

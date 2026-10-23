@@ -1,0 +1,22 @@
+{
+ "repo": "primerate",
+ "sha": "47354a3af51cd2be24c0de81c72a7b390142d829",
+ "parent": "57848cf03d758c404b1780b91befa26b0d5b7f6e",
+ "date": "2025-12-15",
+ "subject": "Remove the Extract Docs feature and associated files",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "client/src/App.tsx",
+  "client/src/pages/AdminDashboard.tsx",
+  "client/src/pages/admin/AdminQuotes.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42932
+}

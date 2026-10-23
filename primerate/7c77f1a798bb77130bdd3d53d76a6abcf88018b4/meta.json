@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7c77f1a798bb77130bdd3d53d76a6abcf88018b4",
+ "parent": "aaafb7fda95d1215a52d37259510d5ed07f5045e",
+ "date": "2025-10-15",
+ "subject": "Prevent conflicting card openings in marketing performance view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61736
+}

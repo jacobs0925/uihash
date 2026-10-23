@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "4c30fe79f8e4405e86bc9438be5c878131022e11",
+ "parent": "8c45b1b548a7fd16dfa16cfc99a74ab7fc9ec304",
+ "date": "2025-10-16",
+ "subject": "Minimize chart cards when searching or adding vendor entries",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61706
+}

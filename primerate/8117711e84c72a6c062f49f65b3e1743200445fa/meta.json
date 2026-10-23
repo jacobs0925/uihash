@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8117711e84c72a6c062f49f65b3e1743200445fa",
+ "parent": "cace12602b6b76dead217b5e47a7d477e7c9ed7d",
+ "date": "2025-10-18",
+ "subject": "Add interactive search functionality to the library performance card",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62437
+}

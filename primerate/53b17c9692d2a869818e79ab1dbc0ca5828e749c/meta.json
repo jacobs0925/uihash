@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "53b17c9692d2a869818e79ab1dbc0ca5828e749c",
+ "parent": "a85bf8405a21c80362ee5ca50511de06a01f77a4",
+ "date": "2025-12-01",
+ "subject": "Remove the status tab from the client administration page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminAddClient.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 67260
+}

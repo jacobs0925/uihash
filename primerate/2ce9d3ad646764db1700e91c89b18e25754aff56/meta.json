@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2ce9d3ad646764db1700e91c89b18e25754aff56",
+ "parent": "86ac9456a3aa2162f9c83116cdb378a7676abcb4",
+ "date": "2025-12-10",
+ "subject": "Rearrange dashboard tiles to place 'Dashboard' and 'Extract Docs' side-by-side",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/AdminDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61926
+}

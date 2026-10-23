@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4c5ac7bd0e70f67d818d811671b535fcea8a9b84",
+ "parent": "d33d246b52fb835fb67e876d9a51747b98ac13f3",
+ "date": "2025-10-15",
+ "subject": "Update success message for recorded transactions",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61368
+}

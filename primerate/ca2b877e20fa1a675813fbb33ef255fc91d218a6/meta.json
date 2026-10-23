@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ca2b877e20fa1a675813fbb33ef255fc91d218a6",
+ "parent": "d674763b4ddc3808ca92878cae3616664632397b",
+ "date": "2025-10-17",
+ "subject": "Update vendor chart title to display all vendors",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/dashboard/ExpenseBreakdownChart.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62058
+}

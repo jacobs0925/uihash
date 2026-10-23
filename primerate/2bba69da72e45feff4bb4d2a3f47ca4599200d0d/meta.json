@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2bba69da72e45feff4bb4d2a3f47ca4599200d0d",
+ "parent": "c3576f8530e512a569e1471298d775fd0e2c6b0f",
+ "date": "2025-10-29",
+ "subject": "Restored to 'b701e2f1b1fc9a1ba175d53a52451b9846115b03'",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "client/src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 18,
+ "ms": 80590
+}

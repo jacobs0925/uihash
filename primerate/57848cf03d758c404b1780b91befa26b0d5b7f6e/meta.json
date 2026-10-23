@@ -1,0 +1,23 @@
+{
+ "repo": "primerate",
+ "sha": "57848cf03d758c404b1780b91befa26b0d5b7f6e",
+ "parent": "c907251f991f5739fbd17673f6057f06dc2c4e8a",
+ "date": "2025-12-15",
+ "subject": "Remove dashboard and marketing upload features from the application",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".replit",
+  "client/src/App.tsx",
+  "client/src/pages/AdminDashboard.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 46659
+}

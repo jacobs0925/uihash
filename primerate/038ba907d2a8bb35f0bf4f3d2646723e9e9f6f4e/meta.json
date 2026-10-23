@@ -1,0 +1,21 @@
+{
+ "repo": "primerate",
+ "sha": "038ba907d2a8bb35f0bf4f3d2646723e9e9f6f4e",
+ "parent": "a31d69dfc423a7231daed0b6b358ea771ff07092",
+ "date": "2025-10-25",
+ "subject": "Update loan dashboard and admin snapshot page",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "client/src/components/dashboard/LoanStatusDashboard.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 62760
+}

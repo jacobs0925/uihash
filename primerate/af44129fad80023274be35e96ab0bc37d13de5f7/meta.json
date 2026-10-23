@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "af44129fad80023274be35e96ab0bc37d13de5f7",
+ "parent": "74f8d80637e6cf9e76b7f042a8027699f37dcdbd",
+ "date": "2025-10-28",
+ "subject": "Remove the documents content card from the loan status page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminDraftLoanStatus.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 64754
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "c9ea67465d64faa637e50bb4108873bcc1a8b4d3",
+ "parent": "e203e0162722433b375ce0bd0ab0bd83d9402143",
+ "date": "2025-12-15",
+ "subject": "Update multiple modals with a consistent premium design treatment",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/ContactSection.tsx",
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 42396
+}

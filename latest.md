@@ -1,19 +1,19 @@
-### uihash learn · round 120 · 2026-10-23 13:35 UTC
+### uihash learn · round 121 · 2026-10-23 13:54 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
 | el400 | 334 | +0 | 101 | 92 | 6 | 135 | 6 |
-| livingwitharthritis | 354 | +0 | 94 | 140 | 57 | 63 | 126 |
+| livingwitharthritis | 354 | +0 | 94 | 140 | 57 | 63 | 128 |
 | milk-me-not | 846 | +0 | 66 | 192 | 276 | 312 | 6 |
 | loyal-spark | 683 | +0 | 60 | 114 | 9 | 500 | 5 |
 | pronghorn | 1249 | +0 | 23 | 57 | 0 | 1169 | 11 |
 | skilla | 310 | +0 | 12 | 44 | 6 | 248 | 2 |
 | primerate | 1624 | +0 | 48 | 109 | 24 | 1443 | 85 |
 | heartlines | 2534 | +0 | 174 | 210 | 36 | 2114 | 2 |
-| dapsiwow | 774 | +0 | 120 | 137 | 28 | 489 | 52 |
+| dapsiwow | 774 | +0 | 120 | 137 | 28 | 489 | 54 |
 | primer-react | 186 | +0 | 12 | 63 | 7 | 104 | 0 |
 | eui | 99 | +0 | 3 | 17 | 41 | 38 | 3 |
-| primer-brand | 104 | +1 | 2 | 61 | 17 | 24 | 0 |
+| primer-brand | 104 | +0 | 2 | 61 | 17 | 24 | 0 |
 | siemens-ix | 0 | +0 | 0 | 0 | 0 | 0 | 39 |
 | vkui | 72 | +0 | 1 | 12 | 12 | 47 | 0 |
 | gravity-uikit | 79 | +0 | 2 | 14 | 24 | 39 | 9 |

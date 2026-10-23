@@ -1,0 +1,27 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a7a4c909f5e1057af01d238d71d96e61ccf4b229",
+ "parent": "b269cf05ea6331a06cba2b8dff15b5ed9f2f677a",
+ "date": "2025-12-20",
+ "subject": "Remove VAT/GST and PayPal fee calculator tools",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/App.tsx",
+  "client/src/data/tools.ts",
+  "client/src/pages/paypal-fee-calculator.tsx",
+  "client/src/pages/tool-page.tsx",
+  "client/src/pages/vat-gst-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 174815
+}

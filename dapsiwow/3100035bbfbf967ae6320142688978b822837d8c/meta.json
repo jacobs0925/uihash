@@ -1,0 +1,26 @@
+{
+ "repo": "dapsiwow",
+ "sha": "3100035bbfbf967ae6320142688978b822837d8c",
+ "parent": "5afef49fdf8817b2de6b8a5852b1500da2e8e402",
+ "date": "2025-12-20",
+ "subject": "Remove break-even calculator and redirect to business loan calculator",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/App.tsx",
+  "client/src/data/tools.ts",
+  "client/src/pages/finance-tools.tsx",
+  "client/src/pages/tool-page.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 176481
+}

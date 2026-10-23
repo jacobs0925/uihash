@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "9afc9881ffe6509182d4a7283a2d910712efd824",
+ "parent": "38ac3cb75dd00ed19064e13ad9add5ff6551476f",
+ "date": "2025-12-20",
+ "subject": "Remove unused lease calculator route from application",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 8,
+ "ms": 197051
+}

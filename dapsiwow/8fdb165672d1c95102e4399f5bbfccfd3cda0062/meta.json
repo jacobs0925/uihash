@@ -1,0 +1,27 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8fdb165672d1c95102e4399f5bbfccfd3cda0062",
+ "parent": "bb951b5b8cf1b93a20d72c5f7ce0e941a9a62ce5",
+ "date": "2025-12-20",
+ "subject": "Remove percentage and lease calculators and update related references",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/App.tsx",
+  "client/src/data/blogData.ts",
+  "client/src/data/tools.ts",
+  "client/src/pages/percentage-calculator.tsx",
+  "client/src/pages/tool-page.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 176687
+}

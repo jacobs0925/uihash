@@ -1,0 +1,27 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d1404aeb8ba0293a45ff614826e8ef5538adb047",
+ "parent": "a7a4c909f5e1057af01d238d71d96e61ccf4b229",
+ "date": "2025-12-20",
+ "subject": "Remove currency and future value investment calculators from finance tools",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/App.tsx",
+  "client/src/data/tools.ts",
+  "client/src/pages/currency-percentage-change-calculator.tsx",
+  "client/src/pages/future-value-investment-calculator.tsx",
+  "client/src/pages/tool-page.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 172894
+}

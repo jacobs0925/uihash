@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "bb866d69a04473e938ec5ac26c3e760ca67ca271",
+ "parent": "29693523b4c163d538a83f4542bd98117ca3f694",
+ "date": "2025-10-13",
+ "subject": "Improve attachment display for transactions",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 61496
+}

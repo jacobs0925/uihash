@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "38a25f4b93d360ef2ecb3c2fe3626cfbdd904158",
+ "date": "2025-10-14",
+ "pr": null,
+ "title": "Add theme customization options for page and card appearance",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by b3468d28, which restored a34feff0 (2 commits discarded)"
+}

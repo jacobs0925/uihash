@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "f0c068e79e322613cbd3aa98aecec6d02661639c",
+ "parent": "3037f63cae7ec850dbebbc02e6880d23123e5530",
+ "date": "2025-10-14",
+ "subject": "Update default menu option for performance card title",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59612
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "669bad7530584a27c6b7cfbc5ba30204f27cdb48",
+ "parent": "2589f29e8f25d53ccbd7e295ea5037b90df88e51",
+ "date": "2025-10-13",
+ "subject": "Update new batch card to use button styling and show field completion",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59112
+}

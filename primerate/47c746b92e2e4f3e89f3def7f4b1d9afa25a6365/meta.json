@@ -1,0 +1,21 @@
+{
+ "repo": "primerate",
+ "sha": "47c746b92e2e4f3e89f3def7f4b1d9afa25a6365",
+ "parent": "66ccba53280a0bcc2f03941b3e9ad687d468129a",
+ "date": "2025-10-15",
+ "subject": "Add interactive custom scrollbar for enhanced table navigation",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted--Custom-Scrollbar-Track-div-className-mb-4-div-c-1760487586930_1760487586931.txt",
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 64429
+}

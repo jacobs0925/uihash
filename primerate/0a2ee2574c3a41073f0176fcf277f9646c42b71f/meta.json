@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0a2ee2574c3a41073f0176fcf277f9646c42b71f",
+ "parent": "47c746b92e2e4f3e89f3def7f4b1d9afa25a6365",
+ "date": "2025-10-15",
+ "subject": "Update admin snapshot table to display first and last names separately",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59408
+}

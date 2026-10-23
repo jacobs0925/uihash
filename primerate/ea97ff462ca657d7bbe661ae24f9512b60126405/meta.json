@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "ea97ff462ca657d7bbe661ae24f9512b60126405",
+ "parent": "7278c0c568b78475ea73cf5e4fe10e259667b4df",
+ "date": "2025-10-14",
+ "subject": "Update the search icon to match other icons used on the platform",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59422
+}

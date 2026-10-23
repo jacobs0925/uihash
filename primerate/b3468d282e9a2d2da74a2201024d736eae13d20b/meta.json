@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "b3468d282e9a2d2da74a2201024d736eae13d20b",
+ "parent": "38a25f4b93d360ef2ecb3c2fe3626cfbdd904158",
+ "date": "2025-10-14",
+ "subject": "Restored to 'a34feff0e94cc725846a3e104582b1d1a55fdc4b'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-import-React-useState-from-react-import-Sun-Moon-Palette-Sparkles-RotateCcw-from-l-1760462072146_1760462072146.txt",
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 35,
+ "ms": 90370
+}

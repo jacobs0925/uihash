@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "6c3b3d62220512a3bd038ff47e8ddbac6e56b720",
+ "date": "2025-10-14",
+ "pr": null,
+ "title": "Restored to 'f24cc52410e269aac99d4fd28924103657719c32'",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "margin-top: 12px → 24px undone by c508eda1 \"Reduce vertical spacing between the logo and card elements\"; margin-top: 12px → 24px undone by c508eda1 \"Reduce vertical spacing between the logo and card elements\"; margin-top: 12px → 24px undone by c508eda1 \"Reduce vertical spacing between the logo and card elements\""
+}

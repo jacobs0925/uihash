@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "dce9df48d58bb462dab160134042b69df81b00d9",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Adjust borrower card width for better consistency across the admin page",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "background-color: ∅ → rgba(30, 41, 59, 0.5) undone by 3970f9d3 \"Add theme customization options for library page elements\"; display: block → flex undone by 3970f9d3 \"Add theme customization options for library page elements\"; padding-top: 24px → 0px undone by 3970f9d3 \"Add theme customization options for library page elements\""
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0469394809e2e3640cc8325146170d8353deb0ca",
+ "parent": "ebb8c01d91a844c03aaa1ae20592d14d0b44a4be",
+ "date": "2025-10-13",
+ "subject": "Adjust brightness transitions for smoother visual changes on toggles",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59360
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "8752baac5a0dd0439d79cfdb48a38a24e5e5bced",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Update theme toggle to use a button with sun and moon icons",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 356 later commits"
+}

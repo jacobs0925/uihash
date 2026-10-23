@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "373ba4f05c0345779e6b7ca1a3f46c4ab2005c51",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Adjust theme toggle position to the left of the user icon",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 355 later commits"
+}

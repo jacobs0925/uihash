@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "bf0d804b614fc1392e5f18ea34836aa824752e62",
+ "parent": "5747645da0695f4c0642abf21fb217b6b15b360b",
+ "date": "2025-10-15",
+ "subject": "Improve how records are counted in admin snapshot view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59611
+}

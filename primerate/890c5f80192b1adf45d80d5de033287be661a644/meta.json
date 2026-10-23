@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "890c5f80192b1adf45d80d5de033287be661a644",
+ "parent": "669bad7530584a27c6b7cfbc5ba30204f27cdb48",
+ "date": "2025-10-13",
+ "subject": "Align button height with the 'states' button for consistency",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59269
+}

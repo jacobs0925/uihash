@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "81cc26d2486202bf3d9d25f03d99ee409cd61360",
+ "parent": "c508eda1138598c5ac6682d37449b78236fdba6a",
+ "date": "2025-10-14",
+ "subject": "Add a background to the company logo on the admin library page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 64684
+}

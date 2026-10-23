@@ -1,0 +1,21 @@
+{
+ "repo": "primerate",
+ "sha": "f24cc52410e269aac99d4fd28924103657719c32",
+ "parent": "e56713d1ae948b74c7ce934020921f02d1ec48da",
+ "date": "2025-10-14",
+ "subject": "Adjust card titles and font sizes for better readability",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "client/src/components/dashboard/RevenueSourcesChart.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59208
+}

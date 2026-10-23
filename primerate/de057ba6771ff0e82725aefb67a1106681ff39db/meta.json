@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "de057ba6771ff0e82725aefb67a1106681ff39db",
+ "parent": "d5c0480767f534ac9039908a11d691900ee81e4f",
+ "date": "2025-10-13",
+ "subject": "Improve text readability by ensuring labels are always visible",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60434
+}

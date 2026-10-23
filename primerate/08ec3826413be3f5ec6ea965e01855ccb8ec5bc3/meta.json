@@ -1,0 +1,23 @@
+{
+ "repo": "primerate",
+ "sha": "08ec3826413be3f5ec6ea965e01855ccb8ec5bc3",
+ "parent": "11f6f20248e67270d2defb0d7d5142c06f62a7ff",
+ "date": "2025-10-13",
+ "subject": "Refactor dashboard components to improve code organization and readability",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "client/src/components/dashboard/DashboardFilters.tsx",
+  "client/src/components/dashboard/ExpenseBreakdownChart.tsx",
+  "client/src/components/dashboard/RevenueSourcesChart.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 70238
+}

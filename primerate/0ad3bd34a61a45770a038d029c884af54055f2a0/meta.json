@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0ad3bd34a61a45770a038d029c884af54055f2a0",
+ "parent": "c95bc9d91cbb64a7a4f40100b46a441e639c605f",
+ "date": "2025-10-13",
+ "subject": "Update admin library appearance with new color scheme and styles",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 21,
+ "ms": 90216
+}

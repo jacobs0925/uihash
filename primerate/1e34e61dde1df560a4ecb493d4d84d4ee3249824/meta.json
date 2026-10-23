@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1e34e61dde1df560a4ecb493d4d84d4ee3249824",
+ "parent": "4f5a16f723bbba5928454ad49b88936d8c4dcaa7",
+ "date": "2025-10-13",
+ "subject": "Improve shade transitions and add setting persistence for library view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59070
+}

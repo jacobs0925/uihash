@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d5c0480767f534ac9039908a11d691900ee81e4f",
+ "parent": "75bcd42a7a7e0b579300bdb499bb6b78bd69b3d7",
+ "date": "2025-10-13",
+ "subject": "Improve readability of field titles in light mode cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59560
+}

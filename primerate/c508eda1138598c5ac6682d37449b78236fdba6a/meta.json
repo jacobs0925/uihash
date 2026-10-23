@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c508eda1138598c5ac6682d37449b78236fdba6a",
+ "parent": "bf1f98ed08017a7dd354a3ed551cf7c8e3688d5e",
+ "date": "2025-10-14",
+ "subject": "Reduce vertical spacing between the logo and card elements",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 64639
+}

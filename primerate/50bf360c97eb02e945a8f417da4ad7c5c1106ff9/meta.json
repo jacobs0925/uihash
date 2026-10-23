@@ -1,0 +1,22 @@
+{
+ "repo": "primerate",
+ "sha": "50bf360c97eb02e945a8f417da4ad7c5c1106ff9",
+ "parent": "f0c068e79e322613cbd3aa98aecec6d02661639c",
+ "date": "2025-10-14",
+ "subject": "Update dashboard layout and remove unused header filter",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "client/src/components/dashboard/DashboardFilters.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65277
+}

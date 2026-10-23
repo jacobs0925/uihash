@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b2ea0174c7ecb54a88300f252d868202c9793509",
+ "parent": "f612bdb25cf2097f0a8e750811ad591da7266f06",
+ "date": "2025-10-13",
+ "subject": "Move state selection validation to be checked before other required fields",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57734
+}

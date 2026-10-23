@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "214c4d8c91fad62ec59d356108617e3c3b55ad7c",
+ "parent": "ea97ff462ca657d7bbe661ae24f9512b60126405",
+ "date": "2025-10-14",
+ "subject": "Update staff search filters and labels for better organization",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59123
+}

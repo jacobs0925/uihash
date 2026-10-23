@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c7115c26b65f17e230d7882fbe283273b5d932d2",
+ "parent": "a6f8b785623432433ad6c7fe3898a47b0fddf819",
+ "date": "2025-10-15",
+ "subject": "Add marketing search filters and related state management",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59357
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7e72d2d33be28f7162da0a6e0456daf4084089e4",
+ "parent": "e864e691eb0273cffcf065270328696c6e553385",
+ "date": "2025-10-13",
+ "subject": "Update the entity filter options and default selection in the admin snapshot",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57699
+}

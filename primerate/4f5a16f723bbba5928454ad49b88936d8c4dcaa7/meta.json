@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4f5a16f723bbba5928454ad49b88936d8c4dcaa7",
+ "parent": "0469394809e2e3640cc8325146170d8353deb0ca",
+ "date": "2025-10-13",
+ "subject": "Improve shade transitions for card brightness adjustments",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59341
+}

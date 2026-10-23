@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "2776f7db4b3c7f1f42e99b8993d0c7ab52fc79aa",
+ "parent": "22652df43e89df80e0c2ad72d8a77537615fce58",
+ "date": "2025-10-14",
+ "subject": "Update staff page compliance card source field with new options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59537
+}

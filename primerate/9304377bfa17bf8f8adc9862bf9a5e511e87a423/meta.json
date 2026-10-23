@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "9304377bfa17bf8f8adc9862bf9a5e511e87a423",
+ "parent": "73f7ba1b52c323e71d36b88f30ede607f9320918",
+ "date": "2025-10-14",
+ "subject": "Add staff search functionality to the admin dashboard",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-import-React-useState-from-react-import-User-X-ArrowUpDown-from-lucide-react-co-1760458327365_1760458327369.txt",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65490
+}

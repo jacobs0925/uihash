@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "11f6f20248e67270d2defb0d7d5142c06f62a7ff",
+ "parent": "158c5cc5dbe357e4ed630709124979887f05a9ef",
+ "date": "2025-10-13",
+ "subject": "Update expense log card hover message for the notes icon",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60041
+}

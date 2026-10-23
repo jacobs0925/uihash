@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6d346abd9ae872bcd01778cc041ae6a2040bd88d",
+ "parent": "95c2c80e4750314bd19173e66b0adccbd1fe70b7",
+ "date": "2025-10-13",
+ "subject": "Adjust text size for filter buttons on the dashboard",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/dashboard/DashboardFilters.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59466
+}

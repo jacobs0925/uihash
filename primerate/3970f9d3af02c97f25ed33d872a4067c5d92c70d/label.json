@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "3970f9d3af02c97f25ed33d872a4067c5d92c70d",
+ "date": "2025-10-14",
+ "pr": null,
+ "title": "Add theme customization options for library page elements",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 76bbb632, which restored a34feff0 (1 commit discarded)"
+}

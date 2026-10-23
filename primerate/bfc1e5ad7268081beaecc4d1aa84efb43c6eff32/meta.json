@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "bfc1e5ad7268081beaecc4d1aa84efb43c6eff32",
+ "parent": "91037f56a94a4c48e45cd7c758b26f6978082f45",
+ "date": "2025-10-13",
+ "subject": "Add a theme switcher to toggle between light and dark modes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 71288
+}

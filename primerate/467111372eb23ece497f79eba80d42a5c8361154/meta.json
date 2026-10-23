@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "467111372eb23ece497f79eba80d42a5c8361154",
+ "parent": "41150c8de36e7c0c63515b02dccdda36557e7ac3",
+ "date": "2025-10-14",
+ "subject": "Update navigation menu titles to reflect company structure",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 71092
+}

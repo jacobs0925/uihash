@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "fef67a8a88879484e63db06af1ac915b0879c4d2",
+ "parent": "ebafef7b5560cd4b708859c0f89b0a12641b1764",
+ "date": "2025-10-13",
+ "subject": "Add attachment count display for expense and revenue entries",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60635
+}

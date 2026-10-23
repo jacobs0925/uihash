@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ebb8c01d91a844c03aaa1ae20592d14d0b44a4be",
+ "parent": "b928e09ecb7baf75e566307c9a957e086e354bb7",
+ "date": "2025-10-13",
+ "subject": "Allow users to customize page and card brightness independently",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59523
+}

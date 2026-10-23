@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "bf1f98ed08017a7dd354a3ed551cf7c8e3688d5e",
+ "parent": "1ef05f9295e3dcc73e9bd8f417958bfec48d6230",
+ "date": "2025-10-14",
+ "subject": "Increase logo size on the admin library page to improve visibility",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 64858
+}

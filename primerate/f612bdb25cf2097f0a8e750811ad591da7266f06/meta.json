@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f612bdb25cf2097f0a8e750811ad591da7266f06",
+ "parent": "b051153aa361b00a3cccc45c91fb2f703a52a2ef",
+ "date": "2025-10-13",
+ "subject": "Add state selection above the completion bar for batch processing",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 56342
+}

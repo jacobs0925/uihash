@@ -1,0 +1,21 @@
+{
+ "repo": "primerate",
+ "sha": "950ad6fc2a7377d0f394f864d7c93cf56875c098",
+ "parent": "bb866d69a04473e938ec5ac26c3e760ca67ca271",
+ "date": "2025-10-13",
+ "subject": "Add option to view transaction attachments directly in browser",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "server/routes.ts",
+  "server/storage.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60384
+}

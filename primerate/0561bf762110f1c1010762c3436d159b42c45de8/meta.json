@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "0561bf762110f1c1010762c3436d159b42c45de8",
+ "parent": "1ded46a2c5fd1bf79cc437e0ae06f5e107d15191",
+ "date": "2025-10-15",
+ "subject": "Update batch list display and remove example data",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59552
+}

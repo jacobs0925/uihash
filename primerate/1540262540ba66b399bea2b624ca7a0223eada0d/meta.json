@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1540262540ba66b399bea2b624ca7a0223eada0d",
+ "parent": "86d8f68bb27ca867a7045cfbb2a8d35e1380fba8",
+ "date": "2025-10-14",
+ "subject": "Adjust button size and icon to match header element height",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59303
+}

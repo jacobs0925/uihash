@@ -1,0 +1,22 @@
+{
+ "repo": "primerate",
+ "sha": "4f3b915ba7fa8b07e169cab72da63d3fbc1e33f4",
+ "parent": "6d346abd9ae872bcd01778cc041ae6a2040bd88d",
+ "date": "2025-10-13",
+ "subject": "Prevent other cards from expanding while creating a new batch",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "client/src/components/dashboard/ExpenseBreakdownChart.tsx",
+  "client/src/components/dashboard/RevenueSourcesChart.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59214
+}

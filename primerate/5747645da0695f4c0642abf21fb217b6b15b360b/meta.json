@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "5747645da0695f4c0642abf21fb217b6b15b360b",
+ "parent": "0561bf762110f1c1010762c3436d159b42c45de8",
+ "date": "2025-10-15",
+ "subject": "Update batch chart to show correct record counts",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59317
+}

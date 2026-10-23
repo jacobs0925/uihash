@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "4c663d7ab0dc2725ee3ef9575b934506633f462d",
+ "parent": "faa4a836ea8621f8e788d03c759da93109691b2a",
+ "date": "2025-10-15",
+ "subject": "Update marketing search to require batch selection",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59365
+}

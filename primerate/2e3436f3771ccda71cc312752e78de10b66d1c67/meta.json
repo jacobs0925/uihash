@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2e3436f3771ccda71cc312752e78de10b66d1c67",
+ "parent": "373ba4f05c0345779e6b7ca1a3f46c4ab2005c51",
+ "date": "2025-10-13",
+ "subject": "Update input field styles to match the design and user preference",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59193
+}

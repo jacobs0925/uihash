@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "a6f8b785623432433ad6c7fe3898a47b0fddf819",
+ "parent": "4c663d7ab0dc2725ee3ef9575b934506633f462d",
+ "date": "2025-10-15",
+ "subject": "Enhance batch list table with dynamic columns and interactive scrollbar",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59495
+}

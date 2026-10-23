@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "96356aaa4fce60b292c7417b2f98241f56537b64",
+ "parent": "16ee445307b9ac89fd4ca5fd37c775de7eeb6c0f",
+ "date": "2025-10-14",
+ "subject": "Increase the size of the company logo on the admin library page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 71013
+}

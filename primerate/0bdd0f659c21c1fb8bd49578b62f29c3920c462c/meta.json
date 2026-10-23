@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0bdd0f659c21c1fb8bd49578b62f29c3920c462c",
+ "parent": "f7a337a802a03eb663c67e180847352da6330b2e",
+ "date": "2025-10-13",
+ "subject": "Prevent errors when displaying record counts by ensuring a default value",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 56285
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "1b0537b6b68b1236b7f6441e6d80e55e319be343",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Reduce the size of the theme toggle switch on the admin page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 373 later commits"
+}

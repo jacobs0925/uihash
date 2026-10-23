@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "b7c639df21b3be3d8d05e5a03b63661ef03238f3",
+ "parent": "8ba00440fd19c96e84652e271c55e8fa1f3a2666",
+ "date": "2025-10-14",
+ "subject": "Animate chart expansion and minimization for better user experience",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/dashboard/ExpenseBreakdownChart.tsx",
+  "client/src/components/dashboard/RevenueSourcesChart.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59405
+}

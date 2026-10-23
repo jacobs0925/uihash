@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "1000eef757b1b1664121c9b7531e901e594d6eac",
+ "date": "2025-10-14",
+ "pr": null,
+ "title": "Update company logo font in library header to Orbitron",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 339 later commits"
+}

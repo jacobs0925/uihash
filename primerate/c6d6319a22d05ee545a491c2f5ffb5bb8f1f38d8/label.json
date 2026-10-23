@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "c6d6319a22d05ee545a491c2f5ffb5bb8f1f38d8",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Add a new dashboard-styled page for library functionality",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: flex → block undone by dce9df48 \"Adjust borrower card width for better consistency across the admin page\"; padding-top: 0px → 24px undone by dce9df48 \"Adjust borrower card width for better consistency across the admin page\"; display: block → flex undone by dce9df48 \"Adjust borrower card width for better consistency across the admin page\""
+}

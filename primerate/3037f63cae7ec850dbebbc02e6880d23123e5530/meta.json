@@ -1,0 +1,22 @@
+{
+ "repo": "primerate",
+ "sha": "3037f63cae7ec850dbebbc02e6880d23123e5530",
+ "parent": "467111372eb23ece497f79eba80d42a5c8361154",
+ "date": "2025-10-14",
+ "subject": "Rearrange dashboard filters for improved user experience",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "client/src/components/dashboard/DashboardFilters.tsx",
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 65529
+}

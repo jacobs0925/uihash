@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "331fd59461d8d18afbb1c76e62809247707c147a",
+ "parent": "3571e23634bc005ce1d7f31d81c302061fa3c155",
+ "date": "2025-10-13",
+ "subject": "Align dashboard dropdown menus with header design for a cohesive look",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 63169
+}

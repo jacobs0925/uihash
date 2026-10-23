@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "1000eef757b1b1664121c9b7531e901e594d6eac",
+ "parent": "6c3b3d62220512a3bd038ff47e8ddbac6e56b720",
+ "date": "2025-10-14",
+ "subject": "Update company logo font in library header to Orbitron",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/index.html",
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 64635
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "299aed5b5eecf007b9279c46ed4c1b6f0c35ec14",
+ "parent": "88db4fac4012817d1536e7f14fe2b9fca7b2116d",
+ "date": "2025-10-14",
+ "subject": "Update UI elements for consistent design and improved user experience",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59248
+}

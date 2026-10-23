@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "bf1f98ed08017a7dd354a3ed551cf7c8e3688d5e",
+ "date": "2025-10-14",
+ "pr": null,
+ "title": "Increase logo size on the admin library page to improve visibility",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 6c3b3d62, which restored f24cc524 (7 commits discarded)"
+}

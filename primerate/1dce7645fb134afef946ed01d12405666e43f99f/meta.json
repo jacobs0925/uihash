@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1dce7645fb134afef946ed01d12405666e43f99f",
+ "parent": "1000eef757b1b1664121c9b7531e901e594d6eac",
+ "date": "2025-10-14",
+ "subject": "Update company name displayed in the admin library section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 63928
+}

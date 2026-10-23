@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "b47ba67969f85f275a91727108e0625cc500d078",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Update label colors to adjust based on light mode settings",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "color: rgb(255, 255, 255) → rgb(233, 213, 255) undone by ff2693af \"Update address form styling to match current design guidelines\"; color: rgb(255, 255, 255) → rgb(233, 213, 255) undone by ff2693af \"Update address form styling to match current design guidelines\"; color: rgb(255, 255, 255) → rgb(233, 213, 255) undone by ff2693af \"Update address form styling to match current design guidelines\""
+}

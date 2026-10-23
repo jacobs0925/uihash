@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7376522d6acec0d877a040a8b9bead75e9692aee",
+ "parent": "366967f612bbbf1a12c5964bc09a96bb09d50d14",
+ "date": "2025-10-13",
+ "subject": "Update the \"keep settings\" button color to a deep navy/indigo shade",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58985
+}

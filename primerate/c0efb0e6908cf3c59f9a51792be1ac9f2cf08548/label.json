@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "c0efb0e6908cf3c59f9a51792be1ac9f2cf08548",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Add current residence form fields and selection options",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 421 later commits"
+}

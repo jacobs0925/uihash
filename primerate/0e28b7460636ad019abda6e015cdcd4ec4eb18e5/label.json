@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "0e28b7460636ad019abda6e015cdcd4ec4eb18e5",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Adjust card colors and styles for better visual appeal",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgba(255, 255, 255, 0.1) → rgba(51, 65, 85, 0.5) undone by ff2693af \"Update address form styling to match current design guidelines\"; background-color: rgba(255, 255, 255, 0.1) → rgba(51, 65, 85, 0.5) undone by ff2693af \"Update address form styling to match current design guidelines\"; background-color: rgba(255, 255, 255, 0.1) → rgba(51, 65, 85, 0.5) undone by ff2693af \"Update address form styling to match current design guidelines\""
+}

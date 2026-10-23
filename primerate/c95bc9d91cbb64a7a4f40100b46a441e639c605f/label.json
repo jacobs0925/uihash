@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "c95bc9d91cbb64a7a4f40100b46a441e639c605f",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Update admin library page to use a new teal and cyan color scheme",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by cd3da945, which restored 5a904e87 (3 commits discarded)"
+}

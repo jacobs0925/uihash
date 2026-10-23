@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "bbe3d91f26ed21892da309d792830558e1c2bde4",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Update card styling to match dashboard activity card appearance",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "border-top-color: rgba(100, 116, 139, 0.3) → rgba(168, 85, 247, 0.3) undone by cd3da945 \"Restored to '5a904e87bde276eea598d17442e459c50f0a0a0c'\"; border-right-color: rgba(100, 116, 139, 0.3) → rgba(168, 85, 247, 0.3) undone by cd3da945 \"Restored to '5a904e87bde276eea598d17442e459c50f0a0a0c'\"; border-bottom-color: rgba(100, 116, 139, 0.3) → rgba(168, 85, 247, 0.3) undone by cd3da945 \"Restored to '5a904e87bde276eea598d17442e459c50f0a0a0c'\""
+}

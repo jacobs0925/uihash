@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "030e2ad32641b52fcdb2bd064d757d212687a7df",
+ "parent": "ab18799a4e2218f799c5858bf075c575911a10a9",
+ "date": "2025-10-13",
+ "subject": "Improve the visual appearance and styling of the date filter dropdown",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57957
+}

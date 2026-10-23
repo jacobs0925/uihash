@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "5a904e87bde276eea598d17442e459c50f0a0a0c",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Update the admin address card to use a charcoal grey gradient design",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgba(51, 65, 85, 0.5) → rgba(71, 85, 105, 0.5) undone by bbe3d91f \"Update card styling to match dashboard activity card appearance\"; background-color: rgba(51, 65, 85, 0.5) → rgba(71, 85, 105, 0.5) undone by bbe3d91f \"Update card styling to match dashboard activity card appearance\"; background-color: rgba(51, 65, 85, 0.5) → rgba(71, 85, 105, 0.5) undone by bbe3d91f \"Update card styling to match dashboard activity card appearance\""
+}

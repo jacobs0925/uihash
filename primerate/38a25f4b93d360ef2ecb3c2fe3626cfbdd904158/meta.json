@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "38a25f4b93d360ef2ecb3c2fe3626cfbdd904158",
+ "parent": "76bbb632eed5d87cf4606f540c71f8ef5220585b",
+ "date": "2025-10-14",
+ "subject": "Add theme customization options for page and card appearance",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-import-React-useState-from-react-import-Sun-Moon-Palette-Sparkles-RotateCcw-from-l-1760462072146_1760462072146.txt",
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 35,
+ "ms": 88194
+}

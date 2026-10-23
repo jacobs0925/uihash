@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "746e988cd3ab9f2d4bfa4fc6a0bbb4f5bba75749",
+ "parent": "7376522d6acec0d877a040a8b9bead75e9692aee",
+ "date": "2025-10-13",
+ "subject": "Update interactive elements for saving library settings on admin page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59433
+}

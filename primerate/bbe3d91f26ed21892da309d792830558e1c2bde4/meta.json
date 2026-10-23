@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "bbe3d91f26ed21892da309d792830558e1c2bde4",
+ "parent": "cd3da945af1b6f4181c50673fa655a8228295d9d",
+ "date": "2025-10-13",
+ "subject": "Update card styling to match dashboard activity card appearance",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 22,
+ "ms": 85281
+}

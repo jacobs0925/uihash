@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "7278c0c568b78475ea73cf5e4fe10e259667b4df",
+ "parent": "299aed5b5eecf007b9279c46ed4c1b6f0c35ec14",
+ "date": "2025-10-14",
+ "subject": "Update dashboard dropdowns to use consistent native select styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 60368
+}

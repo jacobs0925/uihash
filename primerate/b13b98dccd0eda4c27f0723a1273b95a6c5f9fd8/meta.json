@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "b13b98dccd0eda4c27f0723a1273b95a6c5f9fd8",
+ "parent": "0a2ee2574c3a41073f0176fcf277f9646c42b71f",
+ "date": "2025-10-15",
+ "subject": "Update staff search to dynamically display relevant table columns",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59537
+}

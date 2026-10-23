@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c0efb0e6908cf3c59f9a51792be1ac9f2cf08548",
+ "parent": "e00f5f08c516dfffe65e578c36dcc01a30f13d33",
+ "date": "2025-10-13",
+ "subject": "Add current residence form fields and selection options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 68943
+}

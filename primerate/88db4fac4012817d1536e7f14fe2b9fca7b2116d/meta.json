@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "88db4fac4012817d1536e7f14fe2b9fca7b2116d",
+ "parent": "09df8d12595de608c2da95c8e8c11aa025994792",
+ "date": "2025-10-14",
+ "subject": "Update direct mail tab to use search functionality with icon",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59266
+}

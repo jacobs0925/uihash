@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "1d70f818bb2acfe57cc210f477cd589fb090612f",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Add brightness control for light mode and adjust UI elements",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "position: ∅ → relative undone by b928e09e \"Update color schemes to dynamically adapt to brightness and light/dark modes\"; position: ∅ → relative undone by b928e09e \"Update color schemes to dynamically adapt to brightness and light/dark modes\"; z-index: ∅ → 10 undone by b928e09e \"Update color schemes to dynamically adapt to brightness and light/dark modes\""
+}

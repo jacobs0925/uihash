@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b47ba67969f85f275a91727108e0625cc500d078",
+ "parent": "1e34e61dde1df560a4ecb493d4d84d4ee3249824",
+ "date": "2025-10-13",
+ "subject": "Update label colors to adjust based on light mode settings",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 71294
+}

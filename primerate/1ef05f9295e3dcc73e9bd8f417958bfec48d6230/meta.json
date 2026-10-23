@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "1ef05f9295e3dcc73e9bd8f417958bfec48d6230",
+ "parent": "f24cc52410e269aac99d4fd28924103657719c32",
+ "date": "2025-10-14",
+ "subject": "Add company logo to the admin library header with theme-based styling",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Loanview GPT Modern Logo Design_1760401338175.png",
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 70574
+}

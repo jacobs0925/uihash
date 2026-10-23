@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "0ad3bd34a61a45770a038d029c884af54055f2a0",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Update admin library appearance with new color scheme and styles",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by cd3da945, which restored 5a904e87 (3 commits discarded)"
+}

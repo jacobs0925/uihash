@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1f82c0398e11dd8546b485dbefd57329491db3b6",
+ "parent": "a327d0dadaa66b05219d2100c53a4eeb12753338",
+ "date": "2025-10-15",
+ "subject": "Allow users to remove marketing query cards from the admin view",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59675
+}

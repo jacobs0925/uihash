@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "5cb7356092cb562453485874e091217b5c1f42bc",
+ "parent": "c6713c59e68419969f8955b2482acfc69f105a9b",
+ "date": "2025-10-15",
+ "subject": "Adjust scrollbar appearance to remove duplicate and improve visual consistency",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59119
+}

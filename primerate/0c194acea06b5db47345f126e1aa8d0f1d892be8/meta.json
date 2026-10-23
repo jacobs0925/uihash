@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0c194acea06b5db47345f126e1aa8d0f1d892be8",
+ "parent": "4f3b915ba7fa8b07e169cab72da63d3fbc1e33f4",
+ "date": "2025-10-13",
+ "subject": "Improve date selection interface for performance tracking",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59285
+}

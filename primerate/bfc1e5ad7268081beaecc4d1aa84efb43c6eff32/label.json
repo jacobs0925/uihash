@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "bfc1e5ad7268081beaecc4d1aa84efb43c6eff32",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Add a theme switcher to toggle between light and dark modes",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "display: block → flex undone by c6d6319a \"Add a new dashboard-styled page for library functionality\"; flex-direction: ∅ → row undone by c6d6319a \"Add a new dashboard-styled page for library functionality\"; flex-wrap: ∅ → nowrap undone by c6d6319a \"Add a new dashboard-styled page for library functionality\""
+}

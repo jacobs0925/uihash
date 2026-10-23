@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "f88d2d2fc499fe6307cea47c94c113490daf6fa3",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Update section title colors to improve readability in light mode",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 377 later commits"
+}

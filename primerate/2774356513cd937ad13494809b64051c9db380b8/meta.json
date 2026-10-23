@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "2774356513cd937ad13494809b64051c9db380b8",
+ "parent": "b13b98dccd0eda4c27f0723a1273b95a6c5f9fd8",
+ "date": "2025-10-15",
+ "subject": "Add attachment management and actions menu to staff table",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59335
+}

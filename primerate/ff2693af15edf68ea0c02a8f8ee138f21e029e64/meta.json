@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ff2693af15edf68ea0c02a8f8ee138f21e029e64",
+ "parent": "c0efb0e6908cf3c59f9a51792be1ac9f2cf08548",
+ "date": "2025-10-13",
+ "subject": "Update address form styling to match current design guidelines",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 20,
+ "ms": 85906
+}

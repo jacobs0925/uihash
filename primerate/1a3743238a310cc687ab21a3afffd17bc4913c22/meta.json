@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1a3743238a310cc687ab21a3afffd17bc4913c22",
+ "parent": "645a7f7380ce718c83c638af291da582b95b6f2f",
+ "date": "2025-10-14",
+ "subject": "Add buttons to manage staff within the admin section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59703
+}

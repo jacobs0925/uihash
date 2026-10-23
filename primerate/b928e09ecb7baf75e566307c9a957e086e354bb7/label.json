@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "b928e09ecb7baf75e566307c9a957e086e354bb7",
+ "date": "2025-10-13",
+ "pr": null,
+ "title": "Update color schemes to dynamically adapt to brightness and light/dark modes",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 386 later commits"
+}

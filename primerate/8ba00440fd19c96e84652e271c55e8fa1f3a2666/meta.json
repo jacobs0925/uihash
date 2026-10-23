@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "8ba00440fd19c96e84652e271c55e8fa1f3a2666",
+ "parent": "f97ee309a8e23b145d4c3a6783d4063d0af92329",
+ "date": "2025-10-14",
+ "subject": "Add smooth animation for expanding and collapsing admin filters",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59257
+}

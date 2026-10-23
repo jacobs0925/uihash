@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0e9a70639c7537eeae9989a7678444131f36bc66",
+ "parent": "950ad6fc2a7377d0f394f864d7c93cf56875c098",
+ "date": "2025-10-13",
+ "subject": "Show attachment count on expense and revenue transaction cards",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 58946
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "ab18799a4e2218f799c5858bf075c575911a10a9",
+ "parent": "c346f82f2cb80e3f6fee5e17118c3ceeae7dfd74",
+ "date": "2025-10-13",
+ "subject": "Update date filtering options for improved data analysis",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 57707
+}

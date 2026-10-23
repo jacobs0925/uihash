@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "8752baac5a0dd0439d79cfdb48a38a24e5e5bced",
+ "parent": "de5a9b1df6d93df8e171a0c4891670e916adca02",
+ "date": "2025-10-13",
+ "subject": "Update theme toggle to use a button with sun and moon icons",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "attached_assets/Pasted-Sure-Here-s-the-code-for-the-dark-light-mode-toggle-button-javascriptimport-Sun-Moon-from-lu-1760397038389_1760397038391.txt",
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 4,
+ "ms": 70486
+}

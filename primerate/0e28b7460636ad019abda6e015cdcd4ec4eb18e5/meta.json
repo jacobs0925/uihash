@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "0e28b7460636ad019abda6e015cdcd4ec4eb18e5",
+ "parent": "ff2693af15edf68ea0c02a8f8ee138f21e029e64",
+ "date": "2025-10-13",
+ "subject": "Adjust card colors and styles for better visual appeal",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminLibrary.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 21,
+ "ms": 93396
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "f45cc7d4eaa34ec7e4c18c49913506b0ff616f11",
+ "parent": "214c4d8c91fad62ec59d356108617e3c3b55ad7c",
+ "date": "2025-10-14",
+ "subject": "Update admin snapshot page fields to improve data organization",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminSnapshot.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 59508
+}

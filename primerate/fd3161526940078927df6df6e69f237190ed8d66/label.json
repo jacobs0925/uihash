@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "fd3161526940078927df6df6e69f237190ed8d66",
+ "date": "2025-12-15",
+ "pr": null,
+ "title": "Animate trust section title to fade in when visible",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 100 later commits"
+}

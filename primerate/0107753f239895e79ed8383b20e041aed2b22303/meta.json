@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "0107753f239895e79ed8383b20e041aed2b22303",
+ "parent": "a21b3cf8eb11f532e2389b0db70aca116dd2c1c9",
+ "date": "2026-03-29",
+ "subject": "Update loan purpose options for pre-approval and rate tracker forms",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/HeroSection.tsx",
+  "client/src/components/PreApprovalForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 168781
+}

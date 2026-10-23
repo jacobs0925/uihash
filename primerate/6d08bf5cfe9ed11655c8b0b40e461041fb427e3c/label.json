@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "6d08bf5cfe9ed11655c8b0b40e461041fb427e3c",
+ "date": "2025-12-15",
+ "pr": null,
+ "title": "Update headline to use ampersand for conciseness",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 99 later commits"
+}

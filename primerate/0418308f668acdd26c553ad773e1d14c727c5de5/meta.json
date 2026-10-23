@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "0418308f668acdd26c553ad773e1d14c727c5de5",
+ "parent": "e70108f7c70d772174870eaed7936d079160a4a9",
+ "date": "2026-03-29",
+ "subject": "Clear all placeholder fields in mortgage calculator and pre-approval modals",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/HeroSection.tsx",
+  "client/src/components/PreApprovalForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 169208
+}

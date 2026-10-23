@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "fd3161526940078927df6df6e69f237190ed8d66",
+ "parent": "933e965277f6a39caacd6ab49a3f0f0aea2654c7",
+ "date": "2025-12-15",
+ "subject": "Animate trust section title to fade in when visible",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/TrustSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 270444
+}

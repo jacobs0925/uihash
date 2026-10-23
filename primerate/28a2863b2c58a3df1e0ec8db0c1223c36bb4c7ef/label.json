@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "28a2863b2c58a3df1e0ec8db0c1223c36bb4c7ef",
+ "date": "2026-03-29",
+ "pr": null,
+ "title": "Remove administrative features and create a purely static website",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 92 later commits"
+}

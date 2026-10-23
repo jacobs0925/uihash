@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "142a068b16674c3a3fd0ffccf776edf3614a8746",
+ "parent": "d496fb3d40a1168af41f13ca4afae03cd833a497",
+ "date": "2026-03-29",
+ "subject": "Update client testimonial comment to improve wording",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/TestimonialsSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 168584
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "063371c7f05ba3615beafeb6e47601a04fd0767f",
+ "date": "2026-03-29",
+ "pr": null,
+ "title": "Update company name and phone number on the landing page and footer",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 91 later commits"
+}

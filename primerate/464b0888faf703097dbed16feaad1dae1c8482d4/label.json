@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "464b0888faf703097dbed16feaad1dae1c8482d4",
+ "date": "2026-03-29",
+ "pr": null,
+ "title": "Update client testimonial name to Kevin R.",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 52 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "5c4d2a706d96b3838eed74006a3e75f1b0791977",
+ "date": "2026-03-29",
+ "pr": null,
+ "title": "Update client testimonials with new names and locations",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 54 later commits"
+}

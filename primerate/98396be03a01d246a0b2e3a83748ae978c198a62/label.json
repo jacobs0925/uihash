@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "98396be03a01d246a0b2e3a83748ae978c198a62",
+ "date": "2026-03-29",
+ "pr": null,
+ "title": "Add state licensing information and modal to the website footer",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 81 later commits"
+}

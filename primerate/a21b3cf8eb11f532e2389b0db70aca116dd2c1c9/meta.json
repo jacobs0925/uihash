@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "a21b3cf8eb11f532e2389b0db70aca116dd2c1c9",
+ "parent": "9c4997f42b44c115516db0de11adc1287aeed241",
+ "date": "2026-03-29",
+ "subject": "Update loan application form with new loan details and visual improvements",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/PreApprovalForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 168290
+}

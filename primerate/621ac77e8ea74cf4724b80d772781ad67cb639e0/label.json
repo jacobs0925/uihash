@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "621ac77e8ea74cf4724b80d772781ad67cb639e0",
+ "date": "2026-03-29",
+ "pr": null,
+ "title": "Remove schedule call feature from contact section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 60 later commits"
+}

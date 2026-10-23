@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "f7d9fe320e096bd9d0f83184f5f543d140cf3215",
+ "date": "2026-03-29",
+ "pr": null,
+ "title": "Remove color filter from company logo image",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 78 later commits"
+}

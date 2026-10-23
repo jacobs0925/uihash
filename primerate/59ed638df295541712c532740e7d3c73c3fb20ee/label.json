@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "59ed638df295541712c532740e7d3c73c3fb20ee",
+ "date": "2026-03-29",
+ "pr": null,
+ "title": "Update hero section to use a new logo and document existing assets",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 74 later commits"
+}

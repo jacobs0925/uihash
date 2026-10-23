@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "3f34bcb2c33f0fc1da537988abbd090673fc112d",
+ "date": "2026-03-29",
+ "pr": null,
+ "title": "Add visual enhancements to the company logo on the landing page",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "line-height: ∅ → 1.5 undone by d74c9ed2 \"Update footer to display address and parent company link on the same line\"; font-size: ∅ → 16px undone by d74c9ed2 \"Update footer to display address and parent company link on the same line\"; line-height: ∅ → 1.5 undone by d74c9ed2 \"Update footer to display address and parent company link on the same line\""
+}

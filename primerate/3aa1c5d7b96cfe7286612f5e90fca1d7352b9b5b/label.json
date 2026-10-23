@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "3aa1c5d7b96cfe7286612f5e90fca1d7352b9b5b",
+ "date": "2026-03-29",
+ "pr": null,
+ "title": "Increase the size of the company logo displayed on the main page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 73 later commits"
+}

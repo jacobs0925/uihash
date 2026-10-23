@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "d74c9ed25acde8d8bf5b343721ad4d2cb563318a",
+ "date": "2026-03-29",
+ "pr": null,
+ "title": "Update footer to display address and parent company link on the same line",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 85 later commits"
+}

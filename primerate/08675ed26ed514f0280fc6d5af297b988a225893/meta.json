@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "08675ed26ed514f0280fc6d5af297b988a225893",
+ "parent": "98396be03a01d246a0b2e3a83748ae978c198a62",
+ "date": "2026-03-29",
+ "subject": "Add company logo to the top left of the hero page",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "attached_assets/image_1774807436118.png",
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 259413
+}

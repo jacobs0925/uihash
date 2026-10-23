@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "f0eaefa647c1011f7117f4f387f424e531a035c0",
+ "parent": "ef7bd1cbe13c32de1687a1efe0b1d1aa60144099",
+ "date": "2025-10-28",
+ "subject": "Convert loan status page to React for standalone development",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/admin/AdminDraftLoanStatus.tsx",
+  "client/src/pages/admin/loan-status-dashboard.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 74147
+}

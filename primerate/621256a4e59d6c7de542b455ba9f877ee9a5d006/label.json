@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "621256a4e59d6c7de542b455ba9f877ee9a5d006",
+ "date": "2026-03-29",
+ "pr": null,
+ "title": "Update Lock Assurance content to be more client-focused",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 71 later commits"
+}

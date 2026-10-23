@@ -1,1 +1,0 @@
-{"attempts":1,"error":"Command failed: git checkout -q --detach --force ef7bd1cbe13c32de1687a1efe0b1d1aa60144099\n--- stdout (end)\n\n--- stderr (end)\nfatal: unable to access 'https://github.com/primerates/PrimeRateLanding/': Could not resolve host: github.com\nfatal: could not fetch b6df4e6a58186f8c94114cfa9c0d2df5d7b88d9e from promisor remote\n"}

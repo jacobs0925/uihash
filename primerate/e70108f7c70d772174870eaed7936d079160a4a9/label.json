@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "e70108f7c70d772174870eaed7936d079160a4a9",
+ "date": "2026-03-29",
+ "pr": null,
+ "title": "Update contact information and remove email section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 84 later commits"
+}

@@ -1,0 +1,20 @@
+{
+ "repo": "primerate",
+ "sha": "063371c7f05ba3615beafeb6e47601a04fd0767f",
+ "parent": "28a2863b2c58a3df1e0ec8db0c1223c36bb4c7ef",
+ "date": "2026-03-29",
+ "subject": "Update company name and phone number on the landing page and footer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/Footer.tsx",
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 253758
+}

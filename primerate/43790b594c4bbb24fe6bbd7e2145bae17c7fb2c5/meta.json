@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "43790b594c4bbb24fe6bbd7e2145bae17c7fb2c5",
+ "parent": "6d08bf5cfe9ed11655c8b0b40e461041fb427e3c",
+ "date": "2025-12-15",
+ "subject": "Ensure the main title remains on a single line on larger screens",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/TrustSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 176841
+}

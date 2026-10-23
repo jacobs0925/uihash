@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "4533c78120309d9579df1f46e42e786fa5761f96",
+ "parent": "9dd3f086f7ca9b9fd2b109aa6d627c913ddaba46",
+ "date": "2026-03-29",
+ "subject": "Add NMLS consumer access link to the company footer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 262524
+}

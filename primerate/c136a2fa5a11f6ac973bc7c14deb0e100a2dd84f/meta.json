@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c136a2fa5a11f6ac973bc7c14deb0e100a2dd84f",
+ "parent": "aa0b3b49fac9d00ba80fe908cd9b6b6c1dc1993d",
+ "date": "2026-03-29",
+ "subject": "Update client testimonial text for improved clarity and detail",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/TestimonialsSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 253048
+}

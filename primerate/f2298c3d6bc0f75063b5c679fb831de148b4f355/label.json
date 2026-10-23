@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "f2298c3d6bc0f75063b5c679fb831de148b4f355",
+ "date": "2026-03-29",
+ "pr": null,
+ "title": "Update and reorder client testimonials for better page flow",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 39 later commits"
+}

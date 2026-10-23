@@ -5,8 +5,8 @@
  "date": "2026-03-29",
  "pr": null,
  "title": "Update Lock Assurance content to be more client-focused",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 71 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Rates can be unpredictable. If they drop\" → \"Rates can be unpredictable. If they drop\" undone by 129689d2 \"Update text for lock assurance card to improve clarity\"; text: \"Rates can be unpredictable. If they drop\" → \"Rates can be unpredictable. If they drop\" undone by 129689d2 \"Update text for lock assurance card to improve clarity\"; text: \"Rates can be unpredictable. If they drop\" → \"Rates can be unpredictable. If they drop\" undone by 129689d2 \"Update text for lock assurance card to improve clarity\""
 }

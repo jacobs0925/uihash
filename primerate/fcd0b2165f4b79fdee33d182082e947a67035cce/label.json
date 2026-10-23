@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "fcd0b2165f4b79fdee33d182082e947a67035cce",
+ "date": "2026-04-10",
+ "pr": null,
+ "title": "Update hero section to display company's new branding",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 30 later commits"
+}

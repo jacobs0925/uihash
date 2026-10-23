@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6e7c06630aa73e99a5c6ec198f25f61f8e2f80cb",
+ "parent": "89200af5cab508aeb7470aa298202cbbb07561d6",
+ "date": "2026-08-19",
+ "subject": "Remove footer component code",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 253348
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "c0f98157af727acf1ddd0fb01051032ead4fdf8e",
+ "parent": "f191506d27911f370081919ce55c5cf3edde7ee7",
+ "date": "2026-04-10",
+ "subject": "Update hero section with new phone number and refined styling",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 263348
+}

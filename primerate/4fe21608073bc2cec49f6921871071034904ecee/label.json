@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "4fe21608073bc2cec49f6921871071034904ecee",
+ "date": "2026-03-30",
+ "pr": null,
+ "title": "Add MLO Perry Polo information to the footer section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 33 later commits"
+}

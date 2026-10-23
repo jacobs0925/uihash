@@ -1,0 +1,31 @@
+{
+ "repo": "metabase",
+ "sha": "5db80b445956b9159d9060c3c836a60421f3aa9d",
+ "parent": "f23f31361c17a7cc75b9127d6742871106db0f06",
+ "date": "2026-10-22",
+ "subject": "GDGT-3292: Keep notebook menus on the side they opened on (#83547)",
+ "pr": "83547",
+ "components": [
+  "overlays/Popover"
+ ],
+ "files": [
+  "e2e/test/scenarios/question/reproductions.cy.spec.ts",
+  "enterprise/frontend/src/metabase-enterprise/table-editing/table-edit/EditTableDataFilterButton.tsx",
+  "frontend/src/embedding-sdk-bundle/components/private/util/MultiStepPopover/MultiStepPopover.tsx",
+  "frontend/src/metabase/query_builder/components/view/ViewHeader/components/FilterHeaderButton.tsx",
+  "frontend/src/metabase/query_builder/components/view/sidebars/SummarizeSidebar/AddAggregationButton/AddAggregationButton.tsx",
+  "frontend/src/metabase/query_builder/components/view/sidebars/SummarizeSidebar/AggregationItem/AggregationItem.tsx",
+  "frontend/src/metabase/querying/filters/components/FilterPanel/FilterPanelPopover/FilterPanelPopover.tsx",
+  "frontend/src/metabase/querying/notebook/components/ClauseStep/ClausePopover.tsx",
+  "frontend/src/metabase/segments/components/SegmentEditor/FilterStep/FilterStep.tsx",
+  "frontend/src/metabase/ui/components/overlays/Popover/Popover.config.ts",
+  "frontend/src/metabase/ui/components/overlays/Popover/index.tsx",
+  "frontend/src/metabase/ui/components/overlays/Popover/use-stable-popover-position.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 132988
+}

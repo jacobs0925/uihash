@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "fcd0b2165f4b79fdee33d182082e947a67035cce",
+ "parent": "746c6e7502ac4783e3a61fc083b1b3e190cb154e",
+ "date": "2026-04-10",
+ "subject": "Update hero section to display company's new branding",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 260030
+}

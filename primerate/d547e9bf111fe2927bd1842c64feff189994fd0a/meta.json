@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "d547e9bf111fe2927bd1842c64feff189994fd0a",
+ "parent": "71b07b23770e1eb24fccf6925e37347d3c66b0a4",
+ "date": "2026-04-10",
+ "subject": "Update service section title and description for clarity",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/ServicesSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 260003
+}

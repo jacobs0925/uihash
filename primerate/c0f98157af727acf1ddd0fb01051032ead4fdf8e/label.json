@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "c0f98157af727acf1ddd0fb01051032ead4fdf8e",
+ "date": "2026-04-10",
+ "pr": null,
+ "title": "Update hero section with new phone number and refined styling",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 27 later commits"
+}

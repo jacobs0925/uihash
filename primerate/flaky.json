@@ -19,5 +19,8 @@
  "admin/add-client|hover||same-data|div[region] (same data, drawn differently)|removed: div[region]",
  "admin/login|default||same-data|div (same data, drawn differently)|added: div",
  "admin/login|focus||same-data|div (same data, drawn differently)|added: div",
- "admin/login|hover||same-data|div (same data, drawn differently)|added: div"
+ "admin/login|hover||same-data|div (same data, drawn differently)|added: div",
+ "home|default||same-data|span (same data, drawn differently)|added: span (\"|\")",
+ "home|focus||same-data|span (same data, drawn differently)|added: span (\"|\")",
+ "home|hover||same-data|span (same data, drawn differently)|added: span (\"|\")"
 ]

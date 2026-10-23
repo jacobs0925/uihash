@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "56fa8b91a9a565ee6768fb5a6d555e6a4011e687",
+ "date": "2026-04-10",
+ "pr": null,
+ "title": "Update description for lock assurance to be more concise",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 15 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1f29be6c6925e6bdcb2583986dfda8b6a56be649",
+ "parent": "f2298c3d6bc0f75063b5c679fb831de148b4f355",
+ "date": "2026-03-29",
+ "subject": "Reorder and finalize testimonials displayed on the landing page",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/TestimonialsSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 170077
+}

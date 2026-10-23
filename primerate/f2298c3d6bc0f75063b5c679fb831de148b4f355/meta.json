@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f2298c3d6bc0f75063b5c679fb831de148b4f355",
+ "parent": "c136a2fa5a11f6ac973bc7c14deb0e100a2dd84f",
+ "date": "2026-03-29",
+ "subject": "Update and reorder client testimonials for better page flow",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/TestimonialsSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 5,
+ "ms": 259620
+}

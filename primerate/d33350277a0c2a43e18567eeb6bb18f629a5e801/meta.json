@@ -1,0 +1,23 @@
+{
+ "repo": "primerate",
+ "sha": "d33350277a0c2a43e18567eeb6bb18f629a5e801",
+ "parent": "1dca2e0f47b7ddcd6911d96175790302da7adcf1",
+ "date": "2026-04-22",
+ "subject": "Add a secure submissions dashboard for reviewing leads",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/Footer.tsx",
+  "client/src/components/SubmissionsDashboard.tsx",
+  "server/routes.ts",
+  "server/storage.ts",
+  "shared/schema.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 260192
+}

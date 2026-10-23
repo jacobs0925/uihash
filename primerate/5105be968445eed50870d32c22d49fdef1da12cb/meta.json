@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "5105be968445eed50870d32c22d49fdef1da12cb",
+ "parent": "c0f98157af727acf1ddd0fb01051032ead4fdf8e",
+ "date": "2026-04-10",
+ "subject": "Update hero section phone number styling and size",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 259465
+}

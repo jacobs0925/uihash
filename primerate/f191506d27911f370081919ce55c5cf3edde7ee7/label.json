@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "f191506d27911f370081919ce55c5cf3edde7ee7",
+ "date": "2026-04-10",
+ "pr": null,
+ "title": "Make the main heading more confident and larger",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 28 later commits"
+}

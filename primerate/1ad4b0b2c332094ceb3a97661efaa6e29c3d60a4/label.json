@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "1ad4b0b2c332094ceb3a97661efaa6e29c3d60a4",
+ "date": "2026-04-10",
+ "pr": null,
+ "title": "Update service section to emphasize simplicity and speed",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Work and family life can be a handful; y\" → \"Work and family life can be a handful; y\" undone by d547e9bf \"Update service section title and description for clarity\"; text: \"Work and family life can be a handful; y\" → \"Work and family life can be a handful; y\" undone by d547e9bf \"Update service section title and description for clarity\"; text: \"Work and family life can be a handful; y\" → \"Work and family life can be a handful; y\" undone by d547e9bf \"Update service section title and description for clarity\""
+}

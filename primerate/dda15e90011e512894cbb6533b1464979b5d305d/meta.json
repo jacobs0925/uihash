@@ -1,0 +1,22 @@
+{
+ "repo": "primerate",
+ "sha": "dda15e90011e512894cbb6533b1464979b5d305d",
+ "parent": "9d3a66b986d23f70c671d5d965c240a6045be599",
+ "date": "2026-04-22",
+ "subject": "Remove chat widget and update company phone number across the site",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/index.html",
+  "client/src/components/ContactSection.tsx",
+  "client/src/components/Footer.tsx",
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 259266
+}

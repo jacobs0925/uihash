@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "d547e9bf111fe2927bd1842c64feff189994fd0a",
+ "date": "2026-04-10",
+ "pr": null,
+ "title": "Update service section title and description for clarity",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 24 later commits"
+}

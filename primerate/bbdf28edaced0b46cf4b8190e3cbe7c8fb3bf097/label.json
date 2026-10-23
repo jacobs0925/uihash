@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "bbdf28edaced0b46cf4b8190e3cbe7c8fb3bf097",
+ "date": "2026-04-10",
+ "pr": null,
+ "title": "Update hero section font and size for a refined look",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 29 later commits"
+}

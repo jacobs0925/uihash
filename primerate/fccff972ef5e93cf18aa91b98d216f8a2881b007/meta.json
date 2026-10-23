@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "fccff972ef5e93cf18aa91b98d216f8a2881b007",
+ "parent": "4eb49f9dc81abefa79d9bcbb03853ad4fcb63bf3",
+ "date": "2026-08-19",
+ "subject": "Add content to footer component",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 252221
+}

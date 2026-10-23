@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "2f6e3bbcec0b2271d9b6bda995541c6e5acde229",
+ "parent": "30476277d61a297dcd2ec48ac22691722d92bdf7",
+ "date": "2026-08-19",
+ "subject": "Update footer component content",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 252317
+}

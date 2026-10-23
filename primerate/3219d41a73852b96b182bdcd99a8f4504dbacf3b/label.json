@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "3219d41a73852b96b182bdcd99a8f4504dbacf3b",
+ "date": "2026-08-19",
+ "pr": null,
+ "title": "Update the footer component",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 6 later commits"
+}

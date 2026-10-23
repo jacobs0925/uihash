@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "129689d2f76f617c79d0e3453c94db6b7a285f49",
+ "date": "2026-04-10",
+ "pr": null,
+ "title": "Update text for lock assurance card to improve clarity",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Rates can be unpredictable. If they drop\" → \"Rates can be unpredictable. If they drop\" undone by 56fa8b91 \"Update description for lock assurance to be more concise\"; text: \"Rates can be unpredictable. If they drop\" → \"Rates can be unpredictable. If they drop\" undone by 56fa8b91 \"Update description for lock assurance to be more concise\"; text: \"Rates can be unpredictable. If they drop\" → \"Rates can be unpredictable. If they drop\" undone by 56fa8b91 \"Update description for lock assurance to be more concise\""
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "f191506d27911f370081919ce55c5cf3edde7ee7",
+ "parent": "bbdf28edaced0b46cf4b8190e3cbe7c8fb3bf097",
+ "date": "2026-04-10",
+ "subject": "Make the main heading more confident and larger",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 260984
+}

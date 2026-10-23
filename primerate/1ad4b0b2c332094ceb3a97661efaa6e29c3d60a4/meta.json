@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "1ad4b0b2c332094ceb3a97661efaa6e29c3d60a4",
+ "parent": "d547e9bf111fe2927bd1842c64feff189994fd0a",
+ "date": "2026-04-10",
+ "subject": "Update service section to emphasize simplicity and speed",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/ServicesSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 252010
+}

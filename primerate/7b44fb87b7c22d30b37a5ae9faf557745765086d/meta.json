@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "7b44fb87b7c22d30b37a5ae9faf557745765086d",
+ "parent": "4fe21608073bc2cec49f6921871071034904ecee",
+ "date": "2026-03-30",
+ "subject": "Add NMLS ID to the company footer information",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 252090
+}

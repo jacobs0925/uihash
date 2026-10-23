@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "b1b183c8c1c1c50edb4b942785c40a0f93e14c23",
+ "parent": "fc570954d2b38834712720dbd7abf521e432740f",
+ "date": "2026-03-30",
+ "subject": "Remove redundant title from contact section",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/ContactSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 3,
+ "ms": 259407
+}

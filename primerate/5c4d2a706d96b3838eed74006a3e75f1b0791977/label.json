@@ -5,8 +5,8 @@
  "date": "2026-03-29",
  "pr": null,
  "title": "Update client testimonials with new names and locations",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 54 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"DT\" → \"MC\" undone by aa0b3b49 \"Reorder testimonials and update associated text content\"; text: \"DT\" → \"MC\" undone by aa0b3b49 \"Reorder testimonials and update associated text content\"; text: \"DT\" → \"MC\" undone by aa0b3b49 \"Reorder testimonials and update associated text content\""
 }

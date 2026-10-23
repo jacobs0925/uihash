@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "5105be968445eed50870d32c22d49fdef1da12cb",
+ "date": "2026-04-10",
+ "pr": null,
+ "title": "Update hero section phone number styling and size",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "font-weight: 500 → 600 undone by c0f98157 \"Update hero section with new phone number and refined styling\"; font-weight: 500 → 600 undone by c0f98157 \"Update hero section with new phone number and refined styling\"; font-weight: 500 → 600 undone by c0f98157 \"Update hero section with new phone number and refined styling\""
+}

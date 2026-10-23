@@ -1,0 +1,19 @@
+{
+ "repo": "primerate",
+ "sha": "6b38af84399c0120cf86e335c90e871ddc2af2e8",
+ "parent": "d33350277a0c2a43e18567eeb6bb18f629a5e801",
+ "date": "2026-04-22",
+ "subject": "Fix issue preventing users from typing digits into the PIN input field",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/SubmissionsDashboard.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 0,
+ "ms": 169551
+}

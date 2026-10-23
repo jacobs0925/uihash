@@ -1,0 +1,12 @@
+{
+ "app": "primerate",
+ "group": "primerate",
+ "sha": "b1b183c8c1c1c50edb4b942785c40a0f93e14c23",
+ "date": "2026-03-30",
+ "pr": null,
+ "title": "Remove redundant title from contact section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 35 later commits"
+}

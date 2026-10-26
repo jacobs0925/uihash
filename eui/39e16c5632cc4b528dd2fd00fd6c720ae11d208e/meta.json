@@ -1,0 +1,26 @@
+{
+ "repo": "eui",
+ "sha": "39e16c5632cc4b528dd2fd00fd6c720ae11d208e",
+ "parent": "a738646f04b8b62aebe9e26f67e4f0ebc19775e4",
+ "date": "2026-10-26",
+ "subject": "[EuiThemeProvider] Derive `colorMode` and the computed theme during render (#10233)",
+ "pr": "10233",
+ "components": [
+  "selectable",
+  "token"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/10233.md",
+  "packages/eui/src/components/selectable/selectable_templates/selectable_template_sitewide.styles.ts",
+  "packages/eui/src/components/token/token.styles.ts",
+  "packages/eui/src/components/token/token.test.tsx",
+  "packages/eui/src/services/theme/provider.test.tsx",
+  "packages/eui/src/services/theme/provider.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 54,
+ "findings": 0,
+ "ms": 265969
+}

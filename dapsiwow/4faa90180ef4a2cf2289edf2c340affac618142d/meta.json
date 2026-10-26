@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4faa90180ef4a2cf2289edf2c340affac618142d",
+ "parent": "523cf383f21f4753224a5ecdd8f2d15b83748839",
+ "date": "2025-12-22",
+ "subject": "update: describe your changes",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 171165
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8fee3f8511d761bf810f78e11072cf7ac7b96865",
+ "parent": "b1624ad8b1ad8bb94b16d617be173ddf891a7c3f",
+ "date": "2025-12-25",
+ "subject": "Improve type safety and fix calculation errors in interest calculators",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/lib/calculators/interest-calculator.engine.ts",
+  "client/src/pages/compound-interest-calculator.tsx",
+  "client/src/pages/simple-interest-calculator.tsx",
+  "client/src/types/calculator.types.ts",
+  "type-errors.txt"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 48612
+}

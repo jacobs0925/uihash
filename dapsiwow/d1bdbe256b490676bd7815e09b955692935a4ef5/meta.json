@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d1bdbe256b490676bd7815e09b955692935a4ef5",
+ "parent": "7a2bde2a51f2361f0c1dc83be34b6afa6bfa68f3",
+ "date": "2025-12-21",
+ "subject": "Update tool counts and descriptions across the website",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/config/seo/categoryDefaults.ts",
+  "client/src/pages/home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 172383
+}

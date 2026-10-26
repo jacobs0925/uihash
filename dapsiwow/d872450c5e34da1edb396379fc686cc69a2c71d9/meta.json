@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d872450c5e34da1edb396379fc686cc69a2c71d9",
+ "parent": "0344790df461c7554c9809170cf546b616aa8075",
+ "date": "2025-12-22",
+ "subject": "Improve hero section text scaling and spacing across devices",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 171378
+}

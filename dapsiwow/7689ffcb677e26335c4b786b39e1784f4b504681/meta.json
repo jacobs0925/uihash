@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "7689ffcb677e26335c4b786b39e1784f4b504681",
+ "parent": "e323d0634f1e0a26f8de4fd428ded9b7b20ed439",
+ "date": "2025-12-25",
+ "subject": "Add TypeScript types to interest calculators for improved accuracy",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/lib/calculators/interest-calculator.engine.ts",
+  "client/src/pages/compound-interest-calculator.tsx",
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 49007
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "450e849e101b52e3f4369a5a24faa37d37db7b38",
+ "parent": "0b59f5f94a7e28dfcd6b2af42b1b6c21850d5b7b",
+ "date": "2025-12-25",
+ "subject": "Add TypeScript generics to health calculator engines",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/heart-rate-calculator.tsx",
+  "client/src/pages/tdee-calculator.tsx",
+  "client/src/tools/health/engines/heart-rate.engine.ts",
+  "client/src/tools/health/engines/tdee.engine.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 48621
+}

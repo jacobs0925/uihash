@@ -1,0 +1,30 @@
+{
+ "repo": "dapsiwow",
+ "sha": "95ac877334587fa9eba4ccb4887a29dbac531c4d",
+ "parent": "117928f6b2a645191dbe6443a434d721d44d9a56",
+ "date": "2025-12-22",
+ "subject": "Update website to reflect current number of tools and improve content",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/PopularToolsSection.tsx",
+  "client/src/data/blogData.ts",
+  "client/src/data/tools.ts",
+  "client/src/pages/about-us.tsx",
+  "client/src/pages/health-tools.tsx",
+  "client/src/pages/help-center.tsx",
+  "client/src/pages/home.tsx",
+  "client/src/pages/not-found.tsx",
+  "client/src/pages/tool-page.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 177599
+}

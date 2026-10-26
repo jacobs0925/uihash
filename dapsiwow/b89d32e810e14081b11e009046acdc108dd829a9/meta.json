@@ -1,0 +1,28 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b89d32e810e14081b11e009046acdc108dd829a9",
+ "parent": "c76a3a05af571521a2b2a057c6f93abfa872f83d",
+ "date": "2025-12-25",
+ "subject": "Update health calculators with improved TypeScript definitions",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/lib/calculators/health/bmi.engine.ts",
+  "client/src/lib/calculators/health/body-fat.engine.ts",
+  "client/src/lib/calculators/health/calories.engine.ts",
+  "client/src/pages/bmi-calculator.tsx",
+  "client/src/pages/body-fat-calculator.tsx",
+  "client/src/pages/calorie-calculator.tsx",
+  "client/src/types/health-tool.types.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 48758
+}

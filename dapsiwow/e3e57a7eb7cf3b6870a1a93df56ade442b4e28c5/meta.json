@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e3e57a7eb7cf3b6870a1a93df56ade442b4e28c5",
+ "parent": "3557537334bd8fdc9d70027f3ced25d730a685ef",
+ "date": "2025-12-25",
+ "subject": "Improve interest calculator logic with additional details",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/lib/calculators/interest-calculator.engine.ts",
+  "client/src/pages/compound-interest-calculator.tsx",
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 48668
+}

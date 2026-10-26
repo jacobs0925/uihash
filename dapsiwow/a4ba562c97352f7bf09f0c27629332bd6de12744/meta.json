@@ -1,0 +1,27 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a4ba562c97352f7bf09f0c27629332bd6de12744",
+ "parent": "f8e24eae08e2c7526195a1ffde808a2579141cf8",
+ "date": "2025-12-25",
+ "subject": "Extract and type health calculator engines for better type safety",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/lib/calculators/health/protein-intake.engine.ts",
+  "client/src/lib/calculators/health/sleep.engine.ts",
+  "client/src/lib/calculators/health/water-intake.engine.ts",
+  "client/src/pages/protein-intake-calculator.tsx",
+  "client/src/pages/sleep-calculator.tsx",
+  "client/src/pages/water-intake-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 48630
+}

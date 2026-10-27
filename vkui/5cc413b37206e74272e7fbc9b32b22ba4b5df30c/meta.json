@@ -1,0 +1,24 @@
+{
+ "repo": "vkui",
+ "sha": "5cc413b37206e74272e7fbc9b32b22ba4b5df30c",
+ "parent": "fddefaa3a27e6dedaad25e55d99b3266f9c5640b",
+ "date": "2026-10-27",
+ "subject": "fix(ChipsInputBase)!: move chips from the listbox pattern to the grid pattern (#10457)",
+ "pr": "10457",
+ "components": [
+  "ChipsInputBase"
+ ],
+ "files": [
+  "packages/vkui/src/components/ChipsInputBase/Chip/Chip.test.tsx",
+  "packages/vkui/src/components/ChipsInputBase/ChipsInputBase.module.css",
+  "packages/vkui/src/components/ChipsInputBase/ChipsInputBase.test.tsx",
+  "packages/vkui/src/components/ChipsInputBase/ChipsInputBase.tsx",
+  "packages/vkui/src/components/ChipsSelect/ChipsSelect.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 78576
+}

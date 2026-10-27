@@ -1,0 +1,26 @@
+{
+ "repo": "spectrum-web-components",
+ "sha": "5126fecfe42dc90fec0f3438a2f5f3873fc6c67f",
+ "parent": "2e87a11cb48ee4207b7a0580b511d930709cff54",
+ "date": "2026-10-27",
+ "subject": "fix(button, close-button): update static variant colors (#6846)",
+ "pr": "6846",
+ "components": [
+  "button",
+  "close-button"
+ ],
+ "files": [
+  "gen2/.changeset/fix-button-static-label-contrast.md",
+  "gen2/packages/swc/components/button/button.css",
+  "gen2/packages/swc/components/button/test/vrt/button-global-styles.vrt.ts",
+  "gen2/packages/swc/components/button/test/vrt/button.vrt.ts",
+  "gen2/packages/swc/components/close-button/close-button.css",
+  "gen2/packages/swc/stylesheets/global/global-button.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@adobe/spectrum-wc': patch\n---\n\n**fix(button, close-button):** Fixed static-white and static-black secondary and outline `swc-button` labels and `swc-close-button` icons to use opaque white or black in default, hover, pressed, and focus-visible states, improving contrast and keeping their colors consistent. Border, background, focus-indicator, and disabled-state colors are unchanged.\n",
+ "recipe": 1,
+ "stories": 54,
+ "findings": 3,
+ "ms": 138542
+}

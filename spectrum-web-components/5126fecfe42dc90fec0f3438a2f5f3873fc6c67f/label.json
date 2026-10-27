@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components",
+ "group": "spectrum-web-components",
+ "sha": "5126fecfe42dc90fec0f3438a2f5f3873fc6c67f",
+ "date": "2026-10-27",
+ "pr": "6846",
+ "title": "fix(button, close-button): update static variant colors (#6846)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "**fix(button, close-button):** Fixed static-white and static-black secondary and outline `swc-button` labels and `swc-close-button` icons to use opaque white or black in default, hover, pressed, and focus-visible states, improving contrast and keeping their colors consistent. Border, background, foc"
+}

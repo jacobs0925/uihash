@@ -1,0 +1,26 @@
+{
+ "repo": "dapsiwow",
+ "sha": "76b783b72e2be666a3e94b59591a49a315c4080b",
+ "parent": "0fce1bb3c7ab2e2d9da06e123df9f51f9366258b",
+ "date": "2025-12-27",
+ "subject": "Improve website accessibility by enhancing semantic markup and ARIA attributes",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/Footer.tsx",
+  "client/src/components/Header.tsx",
+  "client/src/components/HeroSection.tsx",
+  "client/src/components/ToolCard.tsx",
+  "client/src/pages/home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 289343
+}

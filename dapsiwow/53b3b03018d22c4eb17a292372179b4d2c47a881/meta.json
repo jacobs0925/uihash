@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "53b3b03018d22c4eb17a292372179b4d2c47a881",
+ "parent": "1a545bc40ca253a8e66948edd85c0e862efc0a5a",
+ "date": "2025-12-25",
+ "subject": "Fix white screen errors by implementing error handling and adding necessary configurations",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1766679083670.png",
+  "client/src/App.tsx",
+  "public/index.html",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 48731
+}

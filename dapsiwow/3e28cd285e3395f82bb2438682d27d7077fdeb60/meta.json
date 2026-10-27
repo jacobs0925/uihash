@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "3e28cd285e3395f82bb2438682d27d7077fdeb60",
+ "parent": "cb30e0213a7ace7c14ab582e40b13cb5f2bc65b7",
+ "date": "2025-12-26",
+ "subject": "Add a feature to save and load tool comparisons from the user profile",
+ "components": [
+  "context",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/context/ComparisonContext.tsx",
+  "client/src/pages/compare-tools.tsx",
+  "client/src/pages/profile.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 171681
+}

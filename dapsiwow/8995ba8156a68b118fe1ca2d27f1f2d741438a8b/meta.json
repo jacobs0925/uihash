@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8995ba8156a68b118fe1ca2d27f1f2d741438a8b",
+ "parent": "32ab41de25a979f31e3cde79aac4ea71d6abab88",
+ "date": "2025-12-26",
+ "subject": "Add ability to share favorite tool collections via unique links",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/favorite-tools.tsx",
+  "package-lock.json",
+  "package.json",
+  "server.js"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 187335
+}

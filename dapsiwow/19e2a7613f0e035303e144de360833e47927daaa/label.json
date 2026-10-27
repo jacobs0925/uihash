@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "19e2a7613f0e035303e144de360833e47927daaa",
+ "date": "2025-12-27",
+ "pr": null,
+ "title": "Improve accessibility by adding ARIA labels and adjusting color contrast",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text-align: ∅ → start undone by 40ee8b25 \"Improve website accessibility by adding descriptive labels and enhancing color contrast\"; line-height: ∅ → 1.5 undone by 40ee8b25 \"Improve website accessibility by adding descriptive labels and enhancing color contrast\"; font-size: ∅ → 16px undone by 40ee8b25 \"Improve website accessibility by adding descriptive labels and enhancing color contrast\""
+}

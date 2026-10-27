@@ -1,0 +1,26 @@
+{
+ "repo": "dapsiwow",
+ "sha": "8b4e08b14bdb675ff859326e54e4634b950da6e3",
+ "parent": "62fa043b016680179aa905381d89a06cbcff2f58",
+ "date": "2025-12-25",
+ "subject": "Improve UI component stability by correcting import statements and Vite configuration",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/ui/avatar.tsx",
+  "client/src/components/ui/collapsible.tsx",
+  "client/src/components/ui/select.tsx",
+  "client/src/components/ui/tabs.tsx",
+  "client/src/components/ui/tooltip.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 48348
+}

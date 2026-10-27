@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ec1a79176281ef702ab0dcf0177726de8087f690",
+ "parent": "b58be70d1b99a32bb5bd6d049c58b1e974c1aecf",
+ "date": "2025-12-26",
+ "subject": "Add a page to preview shared tool collections via a unique link",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/App.tsx",
+  "client/src/pages/collection-preview.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 172080
+}

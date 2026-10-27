@@ -1,0 +1,28 @@
+{
+ "repo": "dapsiwow",
+ "sha": "05b44ce6b8ef40f04682162efb9cba527fc9cc7c",
+ "parent": "2474e5c552b00f7ab7c2f735b13f00f46edd132c",
+ "date": "2025-12-25",
+ "subject": "Update UI components and configurations for improved functionality",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/ui/avatar.tsx",
+  "client/src/components/ui/collapsible.tsx",
+  "client/src/components/ui/select.tsx",
+  "client/src/components/ui/tabs.tsx",
+  "client/src/components/ui/tooltip.tsx",
+  "package-lock.json",
+  "package.json"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 63163
+}

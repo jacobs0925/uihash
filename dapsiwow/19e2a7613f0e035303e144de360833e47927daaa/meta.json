@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "19e2a7613f0e035303e144de360833e47927daaa",
+ "parent": "24361431461b80f97ab81b240a6ed3962e693762",
+ "date": "2025-12-27",
+ "subject": "Improve accessibility by adding ARIA labels and adjusting color contrast",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/Header.tsx",
+  "client/src/components/ui/button.tsx",
+  "client/src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 67,
+ "ms": 985607
+}

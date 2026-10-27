@@ -1,0 +1,26 @@
+{
+ "repo": "dapsiwow",
+ "sha": "34ce0db21e1f3f56ffa10c9a8cc7c07d7a79d232",
+ "parent": "1d88156ba62dc2da26bbf4ad30caeb75004055ee",
+ "date": "2025-12-26",
+ "subject": "Add accessible descriptions for dialogs and command menus",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/PresetManager.tsx",
+  "client/src/components/ui/command.tsx",
+  "client/src/pages/favorite-tools.tsx",
+  "package-lock.json",
+  "package.json"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 193111
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "04115e1df6ea6ae6a0d0194a4b35bff60ee12057",
+ "parent": "d29f981ee544e724bd339d93895954c90c96d6a8",
+ "date": "2025-12-26",
+ "subject": "Enable source maps for improved error reporting during builds",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/ui/dialog.tsx",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 191020
+}

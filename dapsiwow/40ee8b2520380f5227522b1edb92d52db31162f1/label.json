@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "40ee8b2520380f5227522b1edb92d52db31162f1",
+ "date": "2025-12-27",
+ "pr": null,
+ "title": "Improve website accessibility by adding descriptive labels and enhancing color contrast",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 413 later commits"
+}

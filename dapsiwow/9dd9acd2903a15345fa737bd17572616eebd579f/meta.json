@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "9dd9acd2903a15345fa737bd17572616eebd579f",
+ "parent": "0bc1cb0e5d9fce23615160a12dc5c1bb1bf68672",
+ "date": "2025-12-27",
+ "subject": "Add an offline indicator to the site header",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/Header.tsx",
+  "client/src/components/ui/OfflineStatus.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 192585
+}

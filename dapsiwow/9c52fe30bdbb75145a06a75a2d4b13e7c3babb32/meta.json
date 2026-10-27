@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "9c52fe30bdbb75145a06a75a2d4b13e7c3babb32",
+ "parent": "e9f6d0233f2c5faafa3f5f4db33d2f6c558fcf19",
+ "date": "2025-12-27",
+ "subject": "Add schema for breadcrumbs to tool pages",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/seo/BreadcrumbSchema.tsx",
+  "client/src/components/seo/ToolSEOHead.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 179154
+}

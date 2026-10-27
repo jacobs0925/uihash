@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "c0db29d9121c54630ffbced0630cd9be101d405b",
+ "parent": "cdca3c9409e97e6e4c3f37ddc1b874dedd9975f4",
+ "date": "2025-12-26",
+ "subject": "Enable users to select multiple tools for comparison",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 172472
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "508ec79bc9bd21bbf15b5ce99c09e11254ed7fd6",
+ "parent": "b90655c46de7dc99ad783596a66454633e670a45",
+ "date": "2025-12-25",
+ "subject": "Fix rendering issues and complete project import process",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/App.tsx",
+  "client/src/components/ui/avatar.tsx",
+  "client/src/components/ui/tabs.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 70418
+}

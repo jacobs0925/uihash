@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "0c2f1d598f56c9bd0e08eefe078d8ef451b147ef",
+ "parent": "0886cd5bc91d16a0a9ac8634dab6fbd00be29b0e",
+ "date": "2025-12-25",
+ "subject": "Fix display name resolution errors and improve sourcemap configuration",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/ui/avatar.tsx",
+  "client/src/components/ui/tabs.tsx",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 53981
+}

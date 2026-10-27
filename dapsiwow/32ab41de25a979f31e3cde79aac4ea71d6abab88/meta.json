@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "32ab41de25a979f31e3cde79aac4ea71d6abab88",
+ "parent": "998cfe9f8f6c2da624047bd817ce3c42fd3702f0",
+ "date": "2025-12-26",
+ "subject": "Add a way to share collections of favorite tools with others",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/favorite-tools.tsx",
+  "shared/schema.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 172461
+}

@@ -1,0 +1,27 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e92b2271d4f3aea381a0efcfa8c1298b19169ab3",
+ "parent": "b931003ed49e407485a36db70b5a18a57785a8be",
+ "date": "2025-12-27",
+ "subject": "update: describe your changes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/body-fat-calculator.tsx",
+  "client/src/pages/calorie-calculator.tsx",
+  "client/src/pages/heart-rate-calculator.tsx",
+  "client/src/pages/protein-intake-calculator.tsx",
+  "client/src/pages/sleep-calculator.tsx",
+  "client/src/pages/tdee-calculator.tsx",
+  "client/src/pages/water-intake-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 177980
+}

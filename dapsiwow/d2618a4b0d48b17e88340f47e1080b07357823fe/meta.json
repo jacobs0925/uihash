@@ -1,0 +1,26 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d2618a4b0d48b17e88340f47e1080b07357823fe",
+ "parent": "a9aaa38555bcbb2464a525849237512bc41f814c",
+ "date": "2025-12-26",
+ "subject": "Add ability to save and load tool configurations as presets",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/PresetManager.tsx",
+  "client/src/hooks/use-presets.ts",
+  "client/src/pages/bmi-calculator.tsx",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 171717
+}

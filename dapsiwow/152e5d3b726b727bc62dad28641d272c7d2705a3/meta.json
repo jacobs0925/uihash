@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "152e5d3b726b727bc62dad28641d272c7d2705a3",
+ "parent": "212cf7b95ed0ee3c60dda97b162b743d48eb7350",
+ "date": "2025-12-26",
+ "subject": "Improve type safety across calculation engines and user inputs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/lib/calculators/health/bmi.engine.ts",
+  "client/src/lib/calculators/health/calories.engine.ts",
+  "client/src/pages/bmi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 186691
+}

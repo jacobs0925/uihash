@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e74fce56f81c3f57ec051214abbf4ac592cd238b",
+ "parent": "6769b6e3da45dbb9cb0a8a6ab555dccda7c4257f",
+ "date": "2025-12-27",
+ "subject": "Add structured data for calculators and pricing comparison pages",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/seo/ToolSEOHead.tsx",
+  "client/src/utils/schemaGenerators.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 181457
+}

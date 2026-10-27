@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "7b4153c4932ed910e26e39e04f40d2044022144d",
+ "parent": "31dd68dfac50fd940b6869898c513274fab86da6",
+ "date": "2025-12-26",
+ "subject": "Add backend storage and API endpoints for shared collections",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/collection-preview.tsx",
+  "server.js",
+  "server/storage.ts",
+  "shared/schema.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 172449
+}

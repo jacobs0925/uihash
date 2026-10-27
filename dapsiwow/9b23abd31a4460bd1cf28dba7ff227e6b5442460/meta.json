@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "9b23abd31a4460bd1cf28dba7ff227e6b5442460",
+ "parent": "7b9ccce061d7675463901164652c4a07bf74f9ea",
+ "date": "2025-12-26",
+ "subject": "Create a page to preview collections shared via a unique link",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/collection-preview.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 172598
+}

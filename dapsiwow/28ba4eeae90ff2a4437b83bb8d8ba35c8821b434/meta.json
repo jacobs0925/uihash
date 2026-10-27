@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "28ba4eeae90ff2a4437b83bb8d8ba35c8821b434",
+ "parent": "3e18a14e155af29ecb1f21c48326078d82f168d2",
+ "date": "2025-12-27",
+ "subject": "Add support for new question and offer schemas in SEO generation",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/seo/ToolSEOHead.tsx",
+  "client/src/utils/schemaGenerators.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 177502
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ba2f1339b664022928447b6404f4e7233b3c34a6",
+ "parent": "911591d18de2230442578133a92ba6876cae21a1",
+ "date": "2025-12-25",
+ "subject": "Fix UI component import errors and ensure correct package usage",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/ui/collapsible.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 50498
+}

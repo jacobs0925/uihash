@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "fb06231c808811b335224fee89cbf534460ded12",
+ "date": "2025-12-27",
+ "pr": null,
+ "title": "Improve color contrast and accessibility across the interface",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 411 later commits"
+}

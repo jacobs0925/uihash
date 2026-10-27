@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e8874714e9fcd66c5c9b0d0ce930216cf66dd1c4",
+ "parent": "2e968770f2db30f61d1d3db785981d2e088c5c62",
+ "date": "2025-12-27",
+ "subject": "Improve interactive element accessibility and screen reader announcements",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "ACCESSIBILITY_AUDIT.md",
+  "client/src/App.tsx",
+  "client/src/pages/bmi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 364359
+}

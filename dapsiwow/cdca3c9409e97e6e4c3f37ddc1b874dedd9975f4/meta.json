@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "cdca3c9409e97e6e4c3f37ddc1b874dedd9975f4",
+ "parent": "4a952ad70c684e1ecfdbff90187f4f686d127994",
+ "date": "2025-12-26",
+ "subject": "Add functionality for users to compare multiple tools",
+ "components": [
+  "components",
+  "context"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/ToolCard.tsx",
+  "client/src/components/ToolHeroSection.tsx",
+  "client/src/context/ComparisonContext.tsx",
+  "client/src/data/tools.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 171831
+}

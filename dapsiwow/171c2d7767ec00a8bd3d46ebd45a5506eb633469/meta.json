@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "171c2d7767ec00a8bd3d46ebd45a5506eb633469",
+ "parent": "b705d889ff3b1ef922b01d349e2b10d1c8946493",
+ "date": "2025-12-27",
+ "subject": "Update SEO schema generation for pricing and calculator features",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/seo/ToolSEOHead.tsx",
+  "client/src/utils/schemaGenerators.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 176093
+}

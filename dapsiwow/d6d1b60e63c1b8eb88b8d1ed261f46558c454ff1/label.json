@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "d6d1b60e63c1b8eb88b8d1ed261f46558c454ff1",
+ "date": "2025-12-27",
+ "pr": null,
+ "title": "Improve visual elements and accessibility across the application",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 394 later commits"
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a0a4bd69460ee4699f9d4526da2b42c065dabb9f",
+ "parent": "7936688cd2034dec250ff006993f5c73d61c9da6",
+ "date": "2025-12-26",
+ "subject": "Add functionality to import shared collection tools into user favorites",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/collection-preview.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 172395
+}

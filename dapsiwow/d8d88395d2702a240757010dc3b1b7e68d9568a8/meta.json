@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d8d88395d2702a240757010dc3b1b7e68d9568a8",
+ "parent": "c56d9b0166923bdda0c77415581a413c3ac4ae29",
+ "date": "2025-12-27",
+ "subject": "Improve navigation link styling and hover effects",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/Footer.tsx",
+  "client/src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 123502
+}

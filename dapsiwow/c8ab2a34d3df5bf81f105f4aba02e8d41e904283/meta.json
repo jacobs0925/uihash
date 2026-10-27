@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "c8ab2a34d3df5bf81f105f4aba02e8d41e904283",
+ "parent": "99c0f59478e93b6d6fff1407422a4b347b3d222d",
+ "date": "2025-12-27",
+ "subject": "Improve site performance and user experience with optimizations",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/public/sw.js",
+  "client/src/App.tsx",
+  "client/src/components/Header.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 122337
+}

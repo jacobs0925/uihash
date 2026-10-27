@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ac5bddf5abde6be2b7ca3c3c78b3aa8a87c2567c",
+ "parent": "0bff08174571990d97284fb0523a75438c6ea21d",
+ "date": "2025-12-27",
+ "subject": "Enhance site performance, UX, and analytics accuracy with critical fixes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/lib/calculators/loan-calculator.engine.ts",
+  "client/src/pages/loan-calculator.tsx",
+  "client/src/utils/schemaGenerators.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 124382
+}

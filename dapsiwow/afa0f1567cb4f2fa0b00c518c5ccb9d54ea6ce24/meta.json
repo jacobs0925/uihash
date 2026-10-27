@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "afa0f1567cb4f2fa0b00c518c5ccb9d54ea6ce24",
+ "parent": "22ee8f1269e4e464aa510425b82929c68287dee9",
+ "date": "2025-12-27",
+ "subject": "Improve accessibility with ARIA labels and live regions",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/FavoriteButton.tsx",
+  "client/src/components/ShareResultsButton.tsx",
+  "client/src/pages/bmi-calculator.tsx",
+  "client/src/pages/word-counter.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 134390
+}

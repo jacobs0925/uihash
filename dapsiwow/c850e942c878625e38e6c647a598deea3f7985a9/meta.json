@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "c850e942c878625e38e6c647a598deea3f7985a9",
+ "parent": "91a2147914a881550fa21d8f520c749a27971e90",
+ "date": "2025-12-27",
+ "subject": "Add expert tips and advice to relevant tool pages",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/seo/SearchIntentSection.tsx",
+  "client/src/pages/tool-page.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 211502
+}

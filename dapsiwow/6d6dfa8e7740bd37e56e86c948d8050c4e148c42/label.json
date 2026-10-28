@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "6d6dfa8e7740bd37e56e86c948d8050c4e148c42",
+ "date": "2025-12-29",
+ "pr": null,
+ "title": "Adapt the calculation history section for responsive viewing on all devices",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 217 later commits"
+}

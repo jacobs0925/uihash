@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "bdf841760d1733ab69c4052b0fbaff518d0f77fd",
+ "parent": "a472371611fa8feff11e02d7194845b38a4a862f",
+ "date": "2025-12-29",
+ "subject": "Update profile page to remove comparisons tab and improve layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1767015308037.png",
+  "client/src/pages/profile.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 133618
+}

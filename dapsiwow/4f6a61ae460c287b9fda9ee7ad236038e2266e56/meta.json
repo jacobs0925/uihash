@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4f6a61ae460c287b9fda9ee7ad236038e2266e56",
+ "parent": "8b42e74c290c3b6eb50a9f114f852698c7fe6ef8",
+ "date": "2025-12-29",
+ "subject": "Update the profile page to show history instead of settings",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/.latest.json",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1767015091135.png",
+  "client/src/pages/profile.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 130077
+}

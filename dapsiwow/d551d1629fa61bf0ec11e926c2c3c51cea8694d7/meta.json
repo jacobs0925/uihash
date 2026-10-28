@@ -1,0 +1,23 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d551d1629fa61bf0ec11e926c2c3c51cea8694d7",
+ "parent": "61d1ac26d2dd9987aafd7146c2300b7a6b12d7b7",
+ "date": "2026-01-01",
+ "subject": "Update navigation links to conditionally show user profile or sign-up options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/finance-tools.tsx",
+  "client/src/pages/health-tools.tsx",
+  "client/src/pages/text-tools.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 139254
+}

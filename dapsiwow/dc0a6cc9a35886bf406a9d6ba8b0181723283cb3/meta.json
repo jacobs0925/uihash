@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "dc0a6cc9a35886bf406a9d6ba8b0181723283cb3",
+ "parent": "48056ce632950c3d801c424c395b4020717a9be9",
+ "date": "2026-01-03",
+ "subject": "Move loan calculator details to the results section",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1767418480782.png",
+  "client/src/pages/business-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 156595
+}

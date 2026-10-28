@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ff3b863b5ecd070fba1eb59bbafae2997cda75e5",
+ "parent": "bd8ec1ac8e5efffbab0d40249075519e93ab227c",
+ "date": "2026-01-04",
+ "subject": "Remove processing fee and balloon payment calculations from loan forms",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/lib/calculators/loan-calculator.engine.ts",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 119281
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "3a13ce2a6dc8215e279785ef97b9826680f8c06c",
+ "parent": "e14f9e9d8d9fe26a8ec63e5bf74effbca254ba2f",
+ "date": "2026-01-02",
+ "subject": "Update website security to allow ads to display correctly",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "attached_assets/image_1767338134721.png",
+  "client/index.html",
+  "client/src/components/AdBanner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 132257
+}

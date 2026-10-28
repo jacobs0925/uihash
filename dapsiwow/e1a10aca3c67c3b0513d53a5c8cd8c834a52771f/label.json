@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "e1a10aca3c67c3b0513d53a5c8cd8c834a52771f",
+ "date": "2026-01-04",
+ "pr": null,
+ "title": "Simplify loan calculator by removing less common payment options",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: block → flex undone by b708ec65 \"Remove fee and balloon payment fields from loan calculator UI\"; display: block → flex undone by b708ec65 \"Remove fee and balloon payment fields from loan calculator UI\"; display: block → flex undone by b708ec65 \"Remove fee and balloon payment fields from loan calculator UI\""
+}

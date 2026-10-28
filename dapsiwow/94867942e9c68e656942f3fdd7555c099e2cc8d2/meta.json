@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "94867942e9c68e656942f3fdd7555c099e2cc8d2",
+ "parent": "cd7db532ce98ff272d9a9700d3f186e9cc1db2dc",
+ "date": "2026-01-05",
+ "subject": "Update loan calculation to remove fee and balloon payment logic",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 135908
+}

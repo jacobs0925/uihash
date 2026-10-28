@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "dc0a6cc9a35886bf406a9d6ba8b0181723283cb3",
+ "date": "2026-01-03",
+ "pr": null,
+ "title": "Move loan calculator details to the results section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 106 later commits"
+}

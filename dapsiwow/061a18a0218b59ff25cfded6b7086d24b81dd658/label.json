@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "061a18a0218b59ff25cfded6b7086d24b81dd658",
+ "date": "2026-01-03",
+ "pr": null,
+ "title": "Improve search bar's escape key handling and mobile scrolling behavior",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 111 later commits"
+}

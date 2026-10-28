@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e1f8c7ab8c66f89e1edbb57feb20f51bff5cb9c5",
+ "parent": "aae51ca9dfd7649e7ac013d2c0d688bc0cd25b9f",
+ "date": "2026-01-02",
+ "subject": "Restored to 'de37b43e09b67304a2d65c07c35faeb078989d17'",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "attached_assets/Pasted-adsbygoogle-js-1-Failed-to-load-resource-net-ERR-BLOCKE_1767339652966.txt",
+  "attached_assets/Pasted-pagead2-googlesyndication-com-pagead-js-adsbygoogle-js-_1767339319752.txt",
+  "attached_assets/image_1767339409072.png",
+  "client/index.html",
+  "client/src/components/AdBanner.tsx",
+  "vercel.json"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 132905
+}

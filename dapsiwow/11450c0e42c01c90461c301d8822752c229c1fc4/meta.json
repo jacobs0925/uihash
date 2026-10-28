@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "11450c0e42c01c90461c301d8822752c229c1fc4",
+ "parent": "f5f7d3cbc7cb27b08b77a541cdba6347e33600d3",
+ "date": "2025-12-29",
+ "subject": "Add client-side calculation history for offline access and session recovery",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/bmi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 128988
+}

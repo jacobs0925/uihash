@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a462c6e59dd8ed22e55527a7fd4e03d12d8a9ac0",
+ "parent": "edfce6f1ec8544e86081aca81606eeae14dcb9c3",
+ "date": "2026-01-02",
+ "subject": "Update copyright information in the website footer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/Footer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 202914
+}

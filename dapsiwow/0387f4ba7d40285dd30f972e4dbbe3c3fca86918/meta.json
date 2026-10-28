@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "0387f4ba7d40285dd30f972e4dbbe3c3fca86918",
+ "parent": "346059a128bf90a3a8c9ca729b426e3b7670f12e",
+ "date": "2026-01-02",
+ "subject": "Update ad banner to correctly display advertisements",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "client/src/components/AdBanner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 132152
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "2f57e858336e5c3be2468ea82e1d680d28e09fbc",
+ "parent": "29ec068e1a7cf70ad826c947ab0c8fe418b4709d",
+ "date": "2026-01-04",
+ "subject": "Update loan calculator to show configuration results Update the loan calculator UI to move the \"Loan Configuration\" section to the \"Your Loan Calculation Results\" section and display it conditionally when results are available.",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 2,
+ "ms": 147002
+}

@@ -1,0 +1,26 @@
+{
+ "repo": "dapsiwow",
+ "sha": "efe19fdb6df3e72dfc4d6478c8a408560f47fea2",
+ "parent": "b455a54f8c5eb74436b8bd16cb40ff01908963c0",
+ "date": "2026-01-03",
+ "subject": "Remove the \"Show Comparison\" button from loan calculators",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1767420732839.png",
+  "client/src/pages/business-loan-calculator.tsx",
+  "client/src/pages/emi-calculator.tsx",
+  "client/src/pages/loan-calculator.tsx",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 139108
+}

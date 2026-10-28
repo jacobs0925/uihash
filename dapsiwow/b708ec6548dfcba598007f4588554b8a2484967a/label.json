@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "b708ec6548dfcba598007f4588554b8a2484967a",
+ "date": "2026-01-05",
+ "pr": null,
+ "title": "Remove fee and balloon payment fields from loan calculator UI",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 76 later commits"
+}

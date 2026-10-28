@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "ce8cc5612073a5482c09e603877c422da1c7f78c",
+ "date": "2025-12-29",
+ "pr": null,
+ "title": "Add calculation history section to the user profile page",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 220 later commits"
+}

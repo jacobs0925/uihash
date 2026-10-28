@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "84414ba9b52316ac565cdf21987aa1b354c03481",
+ "parent": "dee4775a036633cb439aec748163d2d29be02807",
+ "date": "2026-01-02",
+ "subject": "Improve ad banner loading and display reliability",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1767357096962.png",
+  "client/src/components/Ads/AdBanner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 137289
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "ccfb2ebec8d704bdfff94b3b1da6e91385cce2d2",
+ "parent": "d551d1629fa61bf0ec11e926c2c3c51cea8694d7",
+ "date": "2026-01-01",
+ "subject": "Update navigation links to reflect user status and improve home page links",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/finance-tools.tsx",
+  "client/src/pages/health-tools.tsx",
+  "client/src/pages/home.tsx",
+  "client/src/pages/text-tools.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 130776
+}

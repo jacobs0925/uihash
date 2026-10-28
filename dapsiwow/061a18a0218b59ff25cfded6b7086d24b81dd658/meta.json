@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "061a18a0218b59ff25cfded6b7086d24b81dd658",
+ "parent": "4ab2f28ce79b440142826de4f9f32bf085bd3ab4",
+ "date": "2026-01-03",
+ "subject": "Improve search bar's escape key handling and mobile scrolling behavior",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/Header/SearchBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 188667
+}

@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4f3dceecac10006ffd16af15420ff424b3c1c3c7",
+ "parent": "047da5809d68589d687622179d1f12e5358c0963",
+ "date": "2025-12-30",
+ "subject": "Update account creation links based on user login status",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1767086020186.png",
+  "client/src/pages/finance-tools.tsx",
+  "client/src/pages/health-tools.tsx",
+  "client/src/pages/text-tools.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 131778
+}

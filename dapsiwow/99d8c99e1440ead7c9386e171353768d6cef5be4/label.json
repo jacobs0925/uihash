@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "99d8c99e1440ead7c9386e171353768d6cef5be4",
+ "date": "2026-01-03",
+ "pr": null,
+ "title": "Improve header search bar with animations and keyboard navigation",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 114 later commits"
+}

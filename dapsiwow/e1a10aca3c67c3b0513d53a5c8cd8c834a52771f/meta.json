@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e1a10aca3c67c3b0513d53a5c8cd8c834a52771f",
+ "parent": "de6859649ece44bb6bad803ea5e821f062a3523e",
+ "date": "2026-01-04",
+ "subject": "Simplify loan calculator by removing less common payment options",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/.latest.json",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 6,
+ "ms": 137117
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e5368d9da0ba188a74af209afdbeea52a0b43121",
+ "parent": "11450c0e42c01c90461c301d8822752c229c1fc4",
+ "date": "2025-12-29",
+ "subject": "Add calculation history to BMI and Loan calculators for offline access",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/bmi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 129179
+}

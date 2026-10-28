@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "3812df0bcb612c857d963c6448ea537ae622470f",
+ "parent": "d6f0549b18effdcbbe317822057a4f6c8519d65b",
+ "date": "2025-12-29",
+ "subject": "Remove the Data Management section from the user profile page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/profile.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 137885
+}

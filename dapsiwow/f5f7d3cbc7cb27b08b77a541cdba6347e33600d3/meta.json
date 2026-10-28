@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "f5f7d3cbc7cb27b08b77a541cdba6347e33600d3",
+ "parent": "6db9b369b5bbd02970fe3d56dc85991364232c00",
+ "date": "2025-12-29",
+ "subject": "Add robust client-side calculation history system",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/CalculationHistoryPanel.tsx",
+  "client/src/lib/calculationHistory.ts",
+  "client/src/pages/bmi-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 135547
+}

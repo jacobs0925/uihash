@@ -1,0 +1,25 @@
+{
+ "repo": "dapsiwow",
+ "sha": "82d9ada58b96f403e40872ff1f15cbd13e64156a",
+ "parent": "b9177b724669dea6eb4580aba58f3918f3931a04",
+ "date": "2026-01-02",
+ "subject": "Update home page to display new ad placement",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1767356255589.png",
+  "attached_assets/image_1767356332136.png",
+  "attached_assets/image_1767356410530.png",
+  "attached_assets/image_1767356415108.png",
+  "client/src/pages/home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 135908
+}

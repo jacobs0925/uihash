@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "2f57e858336e5c3be2468ea82e1d680d28e09fbc",
+ "date": "2026-01-04",
+ "pr": null,
+ "title": "Update loan calculator to show configuration results Update the loan calculator UI to move the \"Loan Configuration\" section to the \"Your Loan Calculation Results\" section and display it conditionally when results are available.",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by aef2cd19, which restored dff2e6e4 (5 commits discarded)"
+}

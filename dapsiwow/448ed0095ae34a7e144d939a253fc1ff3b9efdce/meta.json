@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "448ed0095ae34a7e144d939a253fc1ff3b9efdce",
+ "parent": "8a0393100968910ac82ce85d0ea059b3a4791b6c",
+ "date": "2026-01-03",
+ "subject": "Prevent background scrolling when the search overlay is open",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/components/Header/SearchBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 139171
+}

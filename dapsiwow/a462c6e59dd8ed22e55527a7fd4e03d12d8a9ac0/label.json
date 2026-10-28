@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "a462c6e59dd8ed22e55527a7fd4e03d12d8a9ac0",
+ "date": "2026-01-02",
+ "pr": null,
+ "title": "Update copyright information in the website footer",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by dd92ca8a, which restored f81bfcdb (30 commits discarded)"
+}

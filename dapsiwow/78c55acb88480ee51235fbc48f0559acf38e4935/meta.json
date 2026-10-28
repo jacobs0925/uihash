@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "78c55acb88480ee51235fbc48f0559acf38e4935",
+ "parent": "c957f43814c1a102f39e236461bc84048590265f",
+ "date": "2026-01-05",
+ "subject": "Update loan calculator to remove unused APR field",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 136457
+}

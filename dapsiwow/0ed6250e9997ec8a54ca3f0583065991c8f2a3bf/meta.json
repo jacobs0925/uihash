@@ -1,0 +1,26 @@
+{
+ "repo": "dapsiwow",
+ "sha": "0ed6250e9997ec8a54ca3f0583065991c8f2a3bf",
+ "parent": "da892a41dc7088a03eebbda1a801718df201924d",
+ "date": "2026-01-03",
+ "subject": "Add a scale icon to the \"Add to Comparison\" buttons",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/business-loan-calculator.tsx",
+  "client/src/pages/emi-calculator.tsx",
+  "client/src/pages/loan-calculator.tsx",
+  "client/src/pages/mortgage-calculator.tsx",
+  "client/src/pages/simple-interest-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 142590
+}

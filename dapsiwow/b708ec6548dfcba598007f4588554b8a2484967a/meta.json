@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b708ec6548dfcba598007f4588554b8a2484967a",
+ "parent": "6a24359416069f90b847f86043244325aa042332",
+ "date": "2026-01-05",
+ "subject": "Remove fee and balloon payment fields from loan calculator UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 7,
+ "ms": 135528
+}

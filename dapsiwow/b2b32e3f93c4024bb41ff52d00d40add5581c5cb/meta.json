@@ -1,0 +1,26 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b2b32e3f93c4024bb41ff52d00d40add5581c5cb",
+ "parent": "af15e3129ee3172731f50895ed29fbf4a27014e8",
+ "date": "2026-01-02",
+ "subject": "Restored to '721acd63f82f12433863f3010d3fcbc0d198511b'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/.latest.json",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1767356255589.png",
+  "attached_assets/image_1767356332136.png",
+  "attached_assets/image_1767356410530.png",
+  "attached_assets/image_1767356415108.png",
+  "client/src/pages/home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 134597
+}

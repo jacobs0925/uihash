@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "5d9441f0cd41d9d58976230cf3c1d2e64c4a2a41",
+ "parent": "2431dd6263d4d8f177c728a8cdaf05ee426d6b3a",
+ "date": "2026-01-03",
+ "subject": "Improve loan calculator button layout for smaller screens",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 137305
+}

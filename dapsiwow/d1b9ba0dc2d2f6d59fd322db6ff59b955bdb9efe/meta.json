@@ -1,0 +1,29 @@
+{
+ "repo": "dapsiwow",
+ "sha": "d1b9ba0dc2d2f6d59fd322db6ff59b955bdb9efe",
+ "parent": "80a27ab04c594172548de70cecaec1674b8fb3ec",
+ "date": "2025-12-29",
+ "subject": "Add a fully functional calculation history system to the application",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/progress_tracker.md",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/App.tsx",
+  "client/src/components/CalculationHistoryPanel.tsx",
+  "client/src/lib/calculationHistory.ts",
+  "client/src/pages/calculation-history.tsx",
+  "client/src/pages/loan-calculator.tsx",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 142859
+}

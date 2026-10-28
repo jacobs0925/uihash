@@ -1,0 +1,24 @@
+{
+ "repo": "dapsiwow",
+ "sha": "616d4c395486e8128c974731d7e2a33439ede523",
+ "parent": "a9d52dbe66337446e38186d0457f62c2db763c32",
+ "date": "2026-01-02",
+ "subject": "Add native advertising components to display sponsored content",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "attached_assets/image_1767349988835.png",
+  "attached_assets/image_1767350010033.png",
+  "client/src/components/Footer.tsx",
+  "client/src/components/NativeAd.tsx",
+  "client/src/pages/tool-page.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 1,
+ "ms": 228781
+}

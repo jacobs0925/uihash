@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "a1c0caef0f68ceb74c504a422a5d3913cb9c47f8",
+ "parent": "e5f89bc011c08ca85444d8b336914922f97b339e",
+ "date": "2025-12-30",
+ "subject": "update: describe your changes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/image_1767084383241.png",
+  "client/src/pages/home-loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 132316
+}

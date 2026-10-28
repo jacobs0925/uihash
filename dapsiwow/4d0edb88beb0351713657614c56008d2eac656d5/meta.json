@@ -1,0 +1,19 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4d0edb88beb0351713657614c56008d2eac656d5",
+ "parent": "aa383ceb55a79efaea07e81a1be9a0fc8a1479da",
+ "date": "2026-01-02",
+ "subject": "Add native ad display to the home page for monetization",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "client/src/pages/home.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 134185
+}

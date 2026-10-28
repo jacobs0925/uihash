@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "616d4c395486e8128c974731d7e2a33439ede523",
+ "date": "2026-01-02",
+ "pr": null,
+ "title": "Add native advertising components to display sponsored content",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by dd92ca8a, which restored f81bfcdb (30 commits discarded)"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "edd90f8c4f59de9a0157533c7b6ebc7cee5aa6ce",
+ "date": "2025-12-29",
+ "pr": null,
+ "title": "Add calculation history saving to multiple tools",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 267 later commits"
+}

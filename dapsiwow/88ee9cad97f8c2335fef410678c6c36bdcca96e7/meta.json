@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "88ee9cad97f8c2335fef410678c6c36bdcca96e7",
+ "parent": "a330afaa298246a4f99ba04062734f554575b7b3",
+ "date": "2026-01-05",
+ "subject": "Improve loan calculator table scrolling for smoother user experience",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 120062
+}

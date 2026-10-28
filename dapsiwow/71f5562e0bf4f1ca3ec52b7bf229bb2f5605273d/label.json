@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "71f5562e0bf4f1ca3ec52b7bf229bb2f5605273d",
+ "date": "2026-01-06",
+ "pr": null,
+ "title": "Add detailed loan summary cards alongside the payment breakdown chart",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: block → flex undone by 89883424 \"Update mortgage calculator to automatically recalculate results when inputs change\"; display: block → flex undone by 89883424 \"Update mortgage calculator to automatically recalculate results when inputs change\"; display: block → flex undone by 89883424 \"Update mortgage calculator to automatically recalculate results when inputs change\""
+}

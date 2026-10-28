@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "207127f07281de0351db04e411687760b48e9585",
+ "parent": "26209b94d1e6095a0ae719a2c105e1f80594e8b8",
+ "date": "2026-01-05",
+ "subject": "Add loan comparison and amortization schedule features to the calculator",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 125368
+}

@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "898834246b965ccc41d6100127d0f1554247a647",
+ "date": "2026-01-06",
+ "pr": null,
+ "title": "Update mortgage calculator to automatically recalculate results when inputs change",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 33 later commits"
+}

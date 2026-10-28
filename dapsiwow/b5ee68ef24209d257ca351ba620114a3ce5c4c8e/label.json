@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "b5ee68ef24209d257ca351ba620114a3ce5c4c8e",
+ "date": "2026-01-06",
+ "pr": null,
+ "title": "Update mortgage calculator to show detailed results",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 24 later commits"
+}

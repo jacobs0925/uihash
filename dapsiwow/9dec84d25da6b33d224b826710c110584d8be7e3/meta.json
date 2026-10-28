@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "9dec84d25da6b33d224b826710c110584d8be7e3",
+ "parent": "36d14fa23c7335cba9fa86803814239b72a7e169",
+ "date": "2026-01-05",
+ "subject": "update: describe your changes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/lib/calculators/mortgage-calculator.engine.ts",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 118837
+}

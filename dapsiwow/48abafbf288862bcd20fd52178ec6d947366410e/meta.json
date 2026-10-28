@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "48abafbf288862bcd20fd52178ec6d947366410e",
+ "parent": "b9e586fcd851f9e325278ec9161e8a9f1d0c1bef",
+ "date": "2026-01-06",
+ "subject": "Enable automatic mortgage calculation based on input changes",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/Pasted-Part-1-Hero-Result-Display-Redesign-the-top-of-the-Resu_1767697162872.txt",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 135086
+}

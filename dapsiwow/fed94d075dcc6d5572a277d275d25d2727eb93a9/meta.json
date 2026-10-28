@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "fed94d075dcc6d5572a277d275d25d2727eb93a9",
+ "parent": "e219c5671adc0b6e732b89fd318849de5f9402f6",
+ "date": "2026-01-05",
+ "subject": "Restored to 'a3f25837ea83b475c2ef3edc0d58d387fc166a98'",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/.latest.json",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 118697
+}

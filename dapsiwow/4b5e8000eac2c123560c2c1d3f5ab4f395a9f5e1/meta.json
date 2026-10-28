@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "4b5e8000eac2c123560c2c1d3f5ab4f395a9f5e1",
+ "parent": "01ae09db4757a418bc574897a476a387f2e2f6f8",
+ "date": "2026-01-06",
+ "subject": "Add real-time input sliders for home price and interest rate",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/Pasted-Part-1-Hero-Result-Display-Redesign-the-top-of-the-Resu_1767697010445.txt",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 157501
+}

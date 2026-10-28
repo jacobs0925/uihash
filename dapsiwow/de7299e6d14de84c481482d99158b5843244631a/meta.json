@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "de7299e6d14de84c481482d99158b5843244631a",
+ "parent": "777b593de51872821236b70001bbe869ddce1ab5",
+ "date": "2026-01-06",
+ "subject": "Add responsive donut chart breakdown for monthly mortgage payments",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "attached_assets/Pasted-Part-1-Hero-Result-Display-Redesign-the-top-of-the-Resu_1767697236849.txt",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 4,
+ "ms": 230491
+}

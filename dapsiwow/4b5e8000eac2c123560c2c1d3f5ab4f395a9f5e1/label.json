@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "4b5e8000eac2c123560c2c1d3f5ab4f395a9f5e1",
+ "date": "2026-01-06",
+ "pr": null,
+ "title": "Add real-time input sliders for home price and interest rate",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 22 later commits"
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "2753d8a70d21dc4142fdf131c324dfe69910c557",
+ "parent": "1336eebf5c9f030dc2e68426c01de46d46e7263e",
+ "date": "2026-01-05",
+ "subject": "Enhance mortgage calculator with draggable amortization and comparison tables",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 117991
+}

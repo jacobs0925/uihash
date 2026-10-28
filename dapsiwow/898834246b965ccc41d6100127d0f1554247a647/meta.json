@@ -1,0 +1,22 @@
+{
+ "repo": "dapsiwow",
+ "sha": "898834246b965ccc41d6100127d0f1554247a647",
+ "parent": "a09093b07eb93fa89eae1fb80ae334c50892d5a5",
+ "date": "2026-01-06",
+ "subject": "Update mortgage calculator to automatically recalculate results when inputs change",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/.latest.json",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 11,
+ "ms": 133536
+}

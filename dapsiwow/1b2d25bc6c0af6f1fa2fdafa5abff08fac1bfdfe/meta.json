@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "1b2d25bc6c0af6f1fa2fdafa5abff08fac1bfdfe",
+ "parent": "9bc1569e0b7fea1efef5e8f5f70ee014c904a306",
+ "date": "2026-01-05",
+ "subject": "Add ability to drag amortization table with touch and mouse",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/loan-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 0,
+ "ms": 118149
+}

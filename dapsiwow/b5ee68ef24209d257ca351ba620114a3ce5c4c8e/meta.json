@@ -1,0 +1,21 @@
+{
+ "repo": "dapsiwow",
+ "sha": "b5ee68ef24209d257ca351ba620114a3ce5c4c8e",
+ "parent": "e23eedd2f6d01d26dff7df06758880e138a4fb90",
+ "date": "2026-01-06",
+ "subject": "Update mortgage calculator to show detailed results",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/pages/mortgage-calculator.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 8,
+ "ms": 166475
+}

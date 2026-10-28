@@ -1,0 +1,28 @@
+{
+ "repo": "dapsiwow",
+ "sha": "e9cea48c3697a586e7d20b0012e26db81b40c2d8",
+ "parent": "6a8e059ad62188306e86bea05ab7a08887311e23",
+ "date": "2025-12-29",
+ "subject": "Update website header with new navigation and search components",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  ".local/state/replit/agent/.agent_state_main.bin",
+  ".local/state/replit/agent/repl_state.bin",
+  "client/src/App.tsx",
+  "client/src/components/Header.tsx",
+  "client/src/components/Header/MegaMenu.tsx",
+  "client/src/components/Header/SearchBar.tsx",
+  "client/src/components/Header/TopBar.tsx",
+  "client/src/components/Header/index.tsx",
+  "replit.md"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 20,
+ "ms": 285038
+}

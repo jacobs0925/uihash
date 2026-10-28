@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "7cb894b99bc3d612c45cb42cb60bdeefd30d5c4e",
+ "date": "2025-12-29",
+ "pr": null,
+ "title": "Add a favorites link to the main navigation bar",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 288 later commits"
+}

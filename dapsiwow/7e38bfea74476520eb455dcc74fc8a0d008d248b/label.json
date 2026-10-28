@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "7e38bfea74476520eb455dcc74fc8a0d008d248b",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Improve website header responsiveness and visual smoothness",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 299 later commits"
+}

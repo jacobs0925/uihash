@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "e10ba3a2ea9adad59f1385141f94eb426a4f343e",
+ "date": "2025-12-28",
+ "pr": null,
+ "title": "Increase header height and spacing for better visibility",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 298 later commits"
+}

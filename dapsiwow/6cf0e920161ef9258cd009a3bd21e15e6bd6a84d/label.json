@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "6cf0e920161ef9258cd009a3bd21e15e6bd6a84d",
+ "date": "2025-12-29",
+ "pr": null,
+ "title": "Remove the utility top bar from the header",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "top: 32px → 0px undone by e9cea48c \"Update website header with new navigation and search components\"; top: 32px → 0px undone by e9cea48c \"Update website header with new navigation and search components\"; top: 32px → 0px undone by e9cea48c \"Update website header with new navigation and search components\""
+}

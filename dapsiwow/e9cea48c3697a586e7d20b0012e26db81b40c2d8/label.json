@@ -1,0 +1,12 @@
+{
+ "app": "dapsiwow",
+ "group": "dapsiwow",
+ "sha": "e9cea48c3697a586e7d20b0012e26db81b40c2d8",
+ "date": "2025-12-29",
+ "pr": null,
+ "title": "Update website header with new navigation and search components",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 292 later commits"
+}

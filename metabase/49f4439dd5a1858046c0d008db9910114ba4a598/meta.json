@@ -1,0 +1,26 @@
+{
+ "repo": "metabase",
+ "sha": "49f4439dd5a1858046c0d008db9910114ba4a598",
+ "parent": "cfa42cbaf498fec964990c94bc299469a0a96837",
+ "date": "2026-10-29",
+ "subject": "GDGT-3417: Only show one tooltip at a time (#85230)",
+ "pr": "85230",
+ "components": [
+  "overlays/Tooltip"
+ ],
+ "files": [
+  "e2e/test/scenarios/models/reproductions-3.cy.spec.ts",
+  "frontend/src/metabase/nav/containers/MainNavbar/SidebarItems/SidebarItemName.tsx",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/Tooltip.module.css",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/Tooltip.tsx",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/Tooltip.unit.spec.tsx",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/use-is-transition-open.ts",
+  "frontend/src/metabase/ui/components/overlays/Tooltip/use-tooltip-visibility.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 124481
+}

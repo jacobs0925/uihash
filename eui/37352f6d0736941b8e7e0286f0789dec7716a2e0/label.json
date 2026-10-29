@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "37352f6d0736941b8e7e0286f0789dec7716a2e0",
+ "date": "2026-10-29",
+ "pr": "10248",
+ "title": "[EUILink] Add an explicit underline offset (#10248)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "122 visual-test baselines updated"
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c02cb5bcdedbecb9ea6b6fd3b2eebae21ef50416",
+ "parent": "f704d035fa65d3e841c7437f26e0ce1ba704c9e1",
+ "date": "2026-11-01",
+ "subject": "Let admins add product properties from the picker (#304)",
+ "pr": "304",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/ProductOptions.test.tsx",
+  "src/components/milk-test/ProductOptions.tsx",
+  "src/components/milk-test/registration-ui/FormSections.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 36292
+}

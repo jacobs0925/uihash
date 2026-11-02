@@ -1,0 +1,35 @@
+{
+ "repo": "retail-ui",
+ "sha": "8de72081224f469934713d35e8591313b8de1997",
+ "parent": "85bd413793d593a487bf756420eff075abff80d4",
+ "date": "2026-10-02",
+ "subject": "feat(Calendar,DateRangePicker,FileUploader,MenuItem,Radio,Tabs,Toggle,Token): add pressed states",
+ "components": [
+  "Calendar",
+  "DateRangePicker",
+  "FileUploader",
+  "MenuItem"
+ ],
+ "files": [
+  "packages/react-ui/components/Calendar/DayCellView.styles.ts",
+  "packages/react-ui/components/DateRangePicker/DateRangePicker.styles.ts",
+  "packages/react-ui/components/FileUploader/FileUploader.styles.ts",
+  "packages/react-ui/components/FileUploader/FileUploaderFile.styles.ts",
+  "packages/react-ui/components/FileUploader/FileUploaderFileList/FileUploaderFileList.styles.ts",
+  "packages/react-ui/components/MenuItem/MenuItem.styles.ts",
+  "packages/react-ui/components/Radio/Radio.styles.ts",
+  "packages/react-ui/components/Tabs/Tab.styles.ts",
+  "packages/react-ui/components/Toggle/Toggle.styles.ts",
+  "packages/react-ui/components/Toggle/__creevey__/Toggle.creevey.mts",
+  "packages/react-ui/components/Token/Token.styles.ts",
+  "packages/react-ui/internal/DateSelect/DateSelect.styles.ts",
+  "packages/react-ui/internal/themes/BasicTheme.ts",
+  "packages/react-ui/internal/themes/DarkTheme6_0.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 181253
+}

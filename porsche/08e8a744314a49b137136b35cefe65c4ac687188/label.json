@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "08e8a744314a49b137136b35cefe65c4ac687188",
+ "date": "2026-11-02",
+ "pr": "4779",
+ "title": "Add hide-arrow prop to popover and add combobox examples (#4779)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "55 visual-test baselines updated"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "815f0e7f3de20cc1a2e851a5e8dac07551a99a0c",
+ "date": "2026-11-02",
+ "pr": "85207",
+ "title": "GDGT-3412: Truncate long SegmentedControl labels (#85207)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "1 visual-test baselines updated"
+}

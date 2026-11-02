@@ -1,0 +1,22 @@
+{
+ "repo": "retail-ui",
+ "sha": "79eae177ea98bc2c5ab640de75a2986d92c78329",
+ "parent": "8de72081224f469934713d35e8591313b8de1997",
+ "date": "2026-10-12",
+ "subject": "fix(MenuItem): keep selected state on hover and press",
+ "components": [
+  "MenuItem"
+ ],
+ "files": [
+  "packages/react-ui/components/MenuItem/MenuItem.styles.ts",
+  "packages/react-ui/components/MenuItem/MenuItem.tsx",
+  "packages/react-ui/components/MenuItem/__tests__/MenuItem-test.tsx",
+  "packages/react-ui/internal/themes/BasicTheme.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 40800
+}

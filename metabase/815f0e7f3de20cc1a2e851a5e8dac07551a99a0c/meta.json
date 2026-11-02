@@ -1,0 +1,32 @@
+{
+ "repo": "metabase",
+ "sha": "815f0e7f3de20cc1a2e851a5e8dac07551a99a0c",
+ "parent": "d807ddf4ad44b8fc16fbc6e43bde46813e3c2446",
+ "date": "2026-11-02",
+ "subject": "GDGT-3412: Truncate long SegmentedControl labels (#85207)",
+ "pr": "85207",
+ "components": [
+  "inputs/SegmentedControl"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_Components_Inputs_SegmentedControl_Overview.png",
+  "e2e/test/scenarios/sharing/downloads/downloads.cy.spec.js",
+  "enterprise/frontend/src/metabase-enterprise/ai-controls/pages/MetabotUsageLimitsPage/GeneralLimitsSettingsSection.module.css",
+  "enterprise/frontend/src/metabase-enterprise/ai-controls/pages/MetabotUsageLimitsPage/GeneralLimitsSettingsSection.tsx",
+  "frontend/src/metabase/common/components/Pickers/EntityPicker/components/ItemLists/SearchResults.tsx",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/SegmentedControl.mdx",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/SegmentedControl.module.css",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/SegmentedControl.stories.tsx",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/SegmentedControl.unit.spec.tsx",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/index.tsx",
+  "frontend/src/metabase/ui/components/inputs/SegmentedControl/use-item-tooltip.ts"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_Components_Inputs_SegmentedControl_Overview.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 21,
+ "findings": 17,
+ "ms": 255570
+}

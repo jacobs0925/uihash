@@ -1,9 +1,9 @@
-### uihash learn · round 176 · 2026-11-02 13:05 UTC
+### uihash learn · round 177 · 2026-11-02 13:27 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
 | el400 | 334 | +0 | 101 | 92 | 6 | 135 | 6 |
-| livingwitharthritis | 354 | +0 | 94 | 140 | 57 | 63 | 209 |
+| livingwitharthritis | 354 | +0 | 94 | 140 | 57 | 63 | 210 |
 | milk-me-not | 847 | +0 | 66 | 193 | 275 | 313 | 6 |
 | loyal-spark | 683 | +0 | 60 | 114 | 9 | 500 | 5 |
 | pronghorn | 1249 | +0 | 23 | 57 | 0 | 1169 | 11 |
@@ -18,12 +18,12 @@
 | vkui | 73 | +0 | 1 | 12 | 12 | 48 | 0 |
 | gravity-uikit | 79 | +0 | 2 | 14 | 24 | 39 | 9 |
 | fuselage | 35 | +0 | 2 | 24 | 1 | 8 | 3 |
-| retail-ui | 39 | +2 | 3 | 10 | 2 | 24 | 3 |
+| retail-ui | 40 | +1 | 3 | 10 | 2 | 25 | 3 |
 | fluentui | 47 | +0 | 0 | 13 | 0 | 34 | 11 |
 | spectrum-web-components-2nd-gen | 54 | +0 | 1 | 14 | 12 | 27 | 2 |
 | spectrum-web-components | 7 | +0 | 0 | 4 | 0 | 3 | 1 |
-| metabase | 76 | +1 | 1 | 24 | 16 | 35 | 6 |
-| porsche | 44 | +1 | 0 | 36 | 1 | 7 | 0 |
+| metabase | 76 | +0 | 1 | 24 | 16 | 35 | 6 |
+| porsche | 44 | +0 | 0 | 36 | 1 | 7 | 0 |
 
 Held out of training and judged on: 68 regressions, 314 intended changes, 70 mixed. Trained on 1689 labelled commits, no synthetic PRs.
 

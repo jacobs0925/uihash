@@ -1,0 +1,22 @@
+{
+ "repo": "retail-ui",
+ "sha": "88e72afedee3b7f00aaacaaffc0b4cf23d432e88",
+ "parent": "2d0c524ad0fe3dc65c8a6db579a51cf6bf3c62b1",
+ "date": "2026-11-02",
+ "subject": "fix(Paging): separate pressed and current page colors",
+ "components": [
+  "Paging"
+ ],
+ "files": [
+  "packages/react-ui/components/Paging/Paging.styles.ts",
+  "packages/react-ui/internal/themes/BasicTheme.ts",
+  "packages/react-ui/internal/themes/DarkTheme6_5.ts",
+  "packages/react-ui/internal/themes/LightTheme6_5.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 30,
+ "findings": 0,
+ "ms": 144738
+}

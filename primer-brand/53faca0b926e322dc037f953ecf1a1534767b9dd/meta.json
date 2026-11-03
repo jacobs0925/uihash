@@ -1,0 +1,39 @@
+{
+ "repo": "primer-brand",
+ "sha": "53faca0b926e322dc037f953ecf1a1534767b9dd",
+ "parent": "5ba187536cae91449cf3a8165151976c4b5129ea",
+ "date": "2026-11-03",
+ "subject": "Fix accessibility audit findings (1) (#1522)",
+ "pr": "1522",
+ "components": [
+  "ComparisonTable",
+  "MediaPlaylist",
+  "MinimalFooter"
+ ],
+ "files": [
+  ".changeset/action-menu-trigger-tooltip.md",
+  ".changeset/comparison-table-narrow-heading.md",
+  ".changeset/media-playlist-focus-outline.md",
+  ".changeset/minimal-footer-social-wrap.md",
+  "packages/react/src/ActionMenu/ActionMenu.test.tsx",
+  "packages/react/src/ActionMenu/ActionMenu.tsx",
+  "packages/react/src/ComparisonTable/ComparisonTable.module.css",
+  "packages/react/src/ComparisonTable/ComparisonTable.module.css.d.ts",
+  "packages/react/src/ComparisonTable/ComparisonTable.test.tsx",
+  "packages/react/src/ComparisonTable/ComparisonTable.tsx",
+  "packages/react/src/ComparisonTable/ComparisonTable.visual.spec.ts-snapshots/Visual-Comparison-ComparisonTable-Mobile-view-44488-mobile-ComparisonTable-Playground-mobile-1-darwin.png",
+  "packages/react/src/MediaPlaylist/MediaPlaylist.module.css",
+  "packages/react/src/MediaPlaylist/MediaPlaylist.test.tsx",
+  "packages/react/src/MinimalFooter/MinimalFooter.features.stories.tsx",
+  "packages/react/src/MinimalFooter/MinimalFooter.module.css",
+  "packages/react/src/MinimalFooter/MinimalFooter.test.tsx"
+ ],
+ "snapshotsUpdated": [
+  "packages/react/src/ComparisonTable/ComparisonTable.visual.spec.ts-snapshots/Visual-Comparison-ComparisonTable-Mobile-view-44488-mobile-ComparisonTable-Playground-mobile-1-darwin.png"
+ ],
+ "changeset": "---\n'@primer/react-brand': patch\n---\n\nAdded a hover and focus tooltip to the `ActionMenu.Button` split-button menu trigger while preserving its accessible name.\n\n---\n'@primer/react-brand': patch\n'@primer/brand-css': patch\n---\n\nKept the first-column heading in `ComparisonTable` visible in narrow layouts.\n\n---\n'@primer/react-brand': patch\n'@primer/brand-css': patch\n---\n\nFixed `MediaPlaylist` keyboard focus outlines being clipped by the playlist's overflow containers.\n\n---\n'@primer/react-brand': patch\n'@primer/brand-css': patch\n---\n\nFixed `MinimalFooter` social links overflowing narrow layouts by allowing them to wrap.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 8,
+ "ms": 234887
+}

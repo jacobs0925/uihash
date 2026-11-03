@@ -1,0 +1,22 @@
+{
+ "repo": "el400",
+ "sha": "af1e7775408c36a1808129a363da8545050443d5",
+ "parent": "d52da17d6559b8a956dbfbd8bc4907235ad69a60",
+ "date": "2026-11-02",
+ "subject": "fix: restore native EL400 face without changing unit sync (#338)",
+ "pr": "338",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "README.md",
+  "e2e/helpers/dro-page.ts",
+  "src/components/MultiAxisSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 26463
+}

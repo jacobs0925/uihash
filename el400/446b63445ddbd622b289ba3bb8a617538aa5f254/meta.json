@@ -1,0 +1,31 @@
+{
+ "repo": "el400",
+ "sha": "446b63445ddbd622b289ba3bb8a617538aa5f254",
+ "parent": "77f045fb9fe9e81e9d84c7e478c1d8d5f233dcfd",
+ "date": "2026-11-04",
+ "subject": "feat: add Shopfloor-style browser fullscreen (#341)",
+ "pr": "341",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "CHANGELOG.md",
+  "DEVELOPING.md",
+  "README.md",
+  "e2e/01-foundation/fullscreen.spec.ts",
+  "package-lock.json",
+  "package.json",
+  "src/components/FullscreenControl.test.tsx",
+  "src/components/FullscreenControl.tsx",
+  "src/pages/Index.integration.test.tsx",
+  "src/pages/Index.layout.test.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 6,
+ "ms": 52573
+}

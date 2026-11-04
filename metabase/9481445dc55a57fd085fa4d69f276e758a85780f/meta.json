@@ -1,0 +1,24 @@
+{
+ "repo": "metabase",
+ "sha": "9481445dc55a57fd085fa4d69f276e758a85780f",
+ "parent": "83736c88eca49d6f9ef46fc32a4a0714b9b351a3",
+ "date": "2026-11-04",
+ "subject": "UIT-149: Remove the slide transition from the Button loading state (#86167)",
+ "pr": "86167",
+ "components": [
+  "buttons/ActionIcon",
+  "buttons/Button"
+ ],
+ "files": [
+  "frontend/src/metabase/ui/components/buttons/ActionIcon/ActionIcon.config.tsx",
+  "frontend/src/metabase/ui/components/buttons/ActionIcon/ActionIcon.module.css",
+  "frontend/src/metabase/ui/components/buttons/Button/Button.config.tsx",
+  "frontend/src/metabase/ui/components/buttons/Button/Button.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 45,
+ "findings": 11,
+ "ms": 385449
+}

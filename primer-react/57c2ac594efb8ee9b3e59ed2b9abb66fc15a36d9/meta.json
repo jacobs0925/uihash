@@ -1,0 +1,42 @@
+{
+ "repo": "primer-react",
+ "sha": "57c2ac594efb8ee9b3e59ed2b9abb66fc15a36d9",
+ "parent": "6edff5e9a720aee107da9afe9562a86b626f369c",
+ "date": "2026-11-04",
+ "subject": "DataTable: add bulk actions for selected rows (#8534)",
+ "pr": "8534",
+ "components": [
+  "DataTable"
+ ],
+ "files": [
+  ".changeset/data-table-bulk-actions.md",
+  ".changeset/table-empty-group-corners.md",
+  ".playwright/snapshots/components/DataTableBulkActions.test.ts-snapshots/DataTable-BulkActions-Mixed-dark-linux.png",
+  ".playwright/snapshots/components/DataTableBulkActions.test.ts-snapshots/DataTable-BulkActions-Mixed-light-linux.png",
+  "e2e/components/DataTableBulkActions.test.ts",
+  "packages/react/src/DataTable/DataTable.accessibility.md",
+  "packages/react/src/DataTable/DataTable.docs.json",
+  "packages/react/src/DataTable/DataTable.features.stories.tsx",
+  "packages/react/src/DataTable/DataTable.tsx",
+  "packages/react/src/DataTable/DataTable.types.test.tsx",
+  "packages/react/src/DataTable/Table.module.css",
+  "packages/react/src/DataTable/Table.tsx",
+  "packages/react/src/DataTable/TableBulkActions.module.css",
+  "packages/react/src/DataTable/TableBulkActions.tsx",
+  "packages/react/src/DataTable/__tests__/DataTableBulkActions.test.tsx",
+  "packages/react/src/DataTable/__tests__/DataTableExpansion.test.tsx",
+  "packages/react/src/DataTable/index.ts",
+  "packages/react/src/DataTable/useTable.ts",
+  "packages/react/src/__tests__/__snapshots__/exports.test.ts.snap",
+  "packages/react/src/experimental/index.ts"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/DataTableBulkActions.test.ts-snapshots/DataTable-BulkActions-Mixed-dark-linux.png",
+  ".playwright/snapshots/components/DataTableBulkActions.test.ts-snapshots/DataTable-BulkActions-Mixed-light-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': minor\n---\n\nDataTable: Add bulk actions in the table header with selection counts and focus recovery.\n\n---\n'@primer/react': patch\n---\n\nTable: Preserve bottom corners when the final row group is empty.\n",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 0,
+ "ms": 177960
+}

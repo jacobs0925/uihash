@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "c9eff9ad30d9758d4f4603b7d94ad681fb64673a",
+ "date": "2026-11-05",
+ "pr": "8532",
+ "title": "fix(SegmentedControl): prevent constrained labels from wrapping (#8532)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "36 visual-test baselines updated"
+}

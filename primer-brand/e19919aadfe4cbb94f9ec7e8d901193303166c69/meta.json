@@ -1,0 +1,24 @@
+{
+ "repo": "primer-brand",
+ "sha": "e19919aadfe4cbb94f9ec7e8d901193303166c69",
+ "parent": "da8da5ec3ab2ba7f62c299fb2dc5e535f52b43b0",
+ "date": "2026-11-05",
+ "subject": "Fix LogoSuite marquee links and focus behavior (#1519)",
+ "pr": "1519",
+ "components": [
+  "LogoSuite"
+ ],
+ "files": [
+  ".changeset/quiet-pears-dance.md",
+  "packages/react/src/LogoSuite/LogoSuite.module.css",
+  "packages/react/src/LogoSuite/LogoSuite.module.css.d.ts",
+  "packages/react/src/LogoSuite/LogoSuite.test.tsx",
+  "packages/react/src/LogoSuite/LogoSuite.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react-brand': patch\n'@primer/brand-css': patch\n---\n\nFix duplicate `LogoSuite` links and prevent pointer clicks from resetting the marquee.\n",
+ "recipe": 1,
+ "stories": 66,
+ "findings": 4,
+ "ms": 183195
+}

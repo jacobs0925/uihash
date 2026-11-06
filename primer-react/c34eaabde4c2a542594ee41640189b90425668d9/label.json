@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "c34eaabde4c2a542594ee41640189b90425668d9",
+ "date": "2026-11-05",
+ "pr": "8687",
+ "title": "Revert \"fix(SegmentedControl): prevent constrained labels from wrapping (#8532) (#8687)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "max-width: 100% → ∅ undone by c9eff9ad \"fix(SegmentedControl): prevent constrained labels from wrapping (#8532)\"; display: grid → flex undone by c9eff9ad \"fix(SegmentedControl): prevent constrained labels from wrapping (#8532)\"; grid-template-columns: auto minmax(0px, max-content) auto → ∅ undone by c9eff9ad \"fix(SegmentedControl): prevent constrained labels from wrapping (#8532)\""
+}

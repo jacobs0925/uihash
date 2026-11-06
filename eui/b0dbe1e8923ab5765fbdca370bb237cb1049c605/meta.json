@@ -1,0 +1,53 @@
+{
+ "repo": "eui",
+ "sha": "b0dbe1e8923ab5765fbdca370bb237cb1049c605",
+ "parent": "6b48a1b49fe8d29594e8ad06d864bdba75ee464f",
+ "date": "2026-11-05",
+ "subject": "[Flyout Menu] Add `showMaximizeButton` option (#10242)",
+ "pr": "10242",
+ "components": [
+  "flyout"
+ ],
+ "files": [
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--playground-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--playground-mobile.png",
+  "packages/eui/changelogs/upcoming/10242.md",
+  "packages/eui/src/components/flyout/flyout.component.tsx",
+  "packages/eui/src/components/flyout/flyout.styles.ts",
+  "packages/eui/src/components/flyout/flyout_maximize.test.tsx",
+  "packages/eui/src/components/flyout/flyout_menu.stories.tsx",
+  "packages/eui/src/components/flyout/flyout_menu.test.tsx",
+  "packages/eui/src/components/flyout/flyout_menu/flyout_menu.tsx",
+  "packages/eui/src/components/flyout/flyout_menu/types.ts",
+  "packages/eui/src/components/flyout/manager/__mocks__/index.ts",
+  "packages/eui/src/components/flyout/manager/actions.test.ts",
+  "packages/eui/src/components/flyout/manager/actions.ts",
+  "packages/eui/src/components/flyout/manager/flyout_child.tsx",
+  "packages/eui/src/components/flyout/manager/flyout_containers.stories.tsx",
+  "packages/eui/src/components/flyout/manager/flyout_main.tsx",
+  "packages/eui/src/components/flyout/manager/flyout_managed.tsx",
+  "packages/eui/src/components/flyout/manager/flyout_manager.stories.tsx",
+  "packages/eui/src/components/flyout/manager/index.ts",
+  "packages/eui/src/components/flyout/manager/layout_mode.test.tsx",
+  "packages/eui/src/components/flyout/manager/layout_mode.ts",
+  "packages/eui/src/components/flyout/manager/reducer.test.ts",
+  "packages/eui/src/components/flyout/manager/reducer.ts",
+  "packages/eui/src/components/flyout/manager/store.test.ts",
+  "packages/eui/src/components/flyout/manager/store.ts",
+  "packages/eui/src/components/flyout/manager/types.ts",
+  "packages/eui/src/components/flyout/use_flyout_maximize.test.ts",
+  "packages/eui/src/components/flyout/use_flyout_maximize.ts",
+  "packages/eui/src/components/flyout/use_flyout_menu.test.ts",
+  "packages/eui/src/components/flyout/use_flyout_menu.ts",
+  "packages/website/docs/components/containers/flyout/_flyout_menu.mdx"
+ ],
+ "snapshotsUpdated": [
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--playground-desktop.png",
+  "packages/eui/.vrt/reference/layout-euiflyout-euiflyoutmenu--playground-mobile.png"
+ ],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 30,
+ "findings": 3,
+ "ms": 262131
+}

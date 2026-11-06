@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "8088a06e5b5380d81736179fee71d698b650d110",
+ "date": "2026-11-05",
+ "pr": "8640",
+ "title": "DataTable: add selection checkboxes to collapsible groups (#8640)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "6 visual-test baselines updated"
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "primer-react",
+ "sha": "f80b27cc531b4f12f3384a68a6c0259639d07d99",
+ "parent": "8088a06e5b5380d81736179fee71d698b650d110",
+ "date": "2026-11-05",
+ "subject": "Blankslate: shift size scale and use default button size (#8034)",
+ "pr": "8034",
+ "components": [
+  "Blankslate"
+ ],
+ "files": [
+  ".changeset/blankslate-size-scale.md",
+  "packages/react/src/Blankslate/Blankslate.module.css",
+  "packages/react/src/Blankslate/Blankslate.test.tsx",
+  "packages/react/src/Blankslate/Blankslate.tsx",
+  "packages/react/src/Blankslate/BlankslateContext.ts",
+  "packages/react/src/FeatureFlags/DefaultFeatureFlags.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': minor\n---\n\nBlankslate: Add compact-default sizing and default-sized primary actions behind the default-off `primer_react_blankslate_compact_default` feature flag. The `small` size remains supported.\n",
+ "recipe": 1,
+ "stories": 30,
+ "findings": 0,
+ "ms": 54834
+}

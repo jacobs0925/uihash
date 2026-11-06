@@ -1,0 +1,32 @@
+{
+ "repo": "metabase",
+ "sha": "79e7149d4269a2113a45b9c09ee93dc35b9d4a3e",
+ "parent": "e7a8d99c08800ed532918c465e056f8e69030950",
+ "date": "2026-11-05",
+ "subject": "fix(ui): stop searchable dropdowns showing a stale first-row highlight (#86390)",
+ "pr": "86390",
+ "components": [
+  "inputs/Select"
+ ],
+ "files": [
+  "frontend/src/metabase/metadata/components/CurrencyPicker/CurrencyPicker.tsx",
+  "frontend/src/metabase/metadata/components/FkTargetPicker/FkTargetPicker.tsx",
+  "frontend/src/metabase/metadata/components/FkTargetPicker/FkTargetPicker.unit.spec.tsx",
+  "frontend/src/metabase/metadata/components/SemanticTypePicker/SemanticTypePicker.tsx",
+  "frontend/src/metabase/metadata/components/SemanticTypePicker/SemanticTypePicker.unit.spec.tsx",
+  "frontend/src/metabase/metadata/components/UserInput.tsx",
+  "frontend/src/metabase/metadata/components/UserInput.unit.spec.tsx",
+  "frontend/src/metabase/monitor/tools/components/TaskListPage/TaskListPage.unit.spec.tsx",
+  "frontend/src/metabase/monitor/tools/components/TaskPicker/TaskPicker.tsx",
+  "frontend/src/metabase/monitor/tools/components/TaskRunEntityPicker/TaskRunEntityPicker.tsx",
+  "frontend/src/metabase/monitor/tools/components/TaskRunEntityPicker/TaskRunEntityPicker.unit.spec.tsx",
+  "frontend/src/metabase/ui/components/inputs/Select/Select.config.tsx",
+  "frontend/src/metabase/visualizations/visualizations/SmartScalar/SettingsComponents/AnotherColumnForm.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 0,
+ "ms": 247721
+}

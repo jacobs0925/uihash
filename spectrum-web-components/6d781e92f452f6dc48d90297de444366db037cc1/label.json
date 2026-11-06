@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components",
+ "group": "spectrum-web-components",
+ "sha": "6d781e92f452f6dc48d90297de444366db037cc1",
+ "date": "2026-11-05",
+ "pr": "6905",
+ "title": "fix(avatar): restore default size to 100 to match 1st-gen and RSP (#6905)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "**fix(avatar):** Changed the default `size` of `<swc-avatar>` from `500` (40 px) to `100` (24 px), the same size value as 1st-gen's default (`20px` there) and the React Spectrum S2 default. Use `size=\"75\"` for `20px`. Invalid `size` values now fall back to `100`. To keep the previous default, set `s"
+}

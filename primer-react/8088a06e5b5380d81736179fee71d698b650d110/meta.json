@@ -1,0 +1,43 @@
+{
+ "repo": "primer-react",
+ "sha": "8088a06e5b5380d81736179fee71d698b650d110",
+ "parent": "c9eff9ad30d9758d4f4603b7d94ad681fb64673a",
+ "date": "2026-11-05",
+ "subject": "DataTable: add selection checkboxes to collapsible groups (#8640)",
+ "pr": "8640",
+ "components": [
+  "DataTable"
+ ],
+ "files": [
+  ".changeset/tidy-groups-select.md",
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-collapsed-dark-linux.png",
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-collapsed-light-linux.png",
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-expanded-dark-linux.png",
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-expanded-light-linux.png",
+  ".playwright/snapshots/components/DataTableBulkActions.test.ts-snapshots/DataTable-BulkActions-Mixed-dark-linux.png",
+  ".playwright/snapshots/components/DataTableBulkActions.test.ts-snapshots/DataTable-BulkActions-Mixed-light-linux.png",
+  "e2e/components/DataTable.test.ts",
+  "packages/react/src/DataTable/DataTable.accessibility.md",
+  "packages/react/src/DataTable/DataTable.docs.json",
+  "packages/react/src/DataTable/DataTable.features.stories.tsx",
+  "packages/react/src/DataTable/DataTable.tsx",
+  "packages/react/src/DataTable/Table.module.css",
+  "packages/react/src/DataTable/TableGroup.tsx",
+  "packages/react/src/DataTable/__tests__/DataTableExpansion.test.tsx",
+  "packages/react/src/DataTable/__tests__/TableGroup.test.tsx",
+  "packages/react/src/DataTable/useTable.ts"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-collapsed-dark-linux.png",
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-collapsed-light-linux.png",
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-expanded-dark-linux.png",
+  ".playwright/snapshots/components/DataTable.test.ts-snapshots/DataTable-Group-expansion-expanded-light-linux.png",
+  ".playwright/snapshots/components/DataTableBulkActions.test.ts-snapshots/DataTable-BulkActions-Mixed-dark-linux.png",
+  ".playwright/snapshots/components/DataTableBulkActions.test.ts-snapshots/DataTable-BulkActions-Mixed-light-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': minor\n---\n\nDataTable: Add selection checkboxes to collapsible groups, aligned with row checkboxes. Table.Group supports controlled group selection.\n",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 27,
+ "ms": 195333
+}

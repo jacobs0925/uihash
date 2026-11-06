@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "b0dbe1e8923ab5765fbdca370bb237cb1049c605",
+ "date": "2026-11-05",
+ "pr": "10242",
+ "title": "[Flyout Menu] Add `showMaximizeButton` option (#10242)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "2 visual-test baselines updated"
+}

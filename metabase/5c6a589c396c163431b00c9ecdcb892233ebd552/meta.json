@@ -1,0 +1,32 @@
+{
+ "repo": "metabase",
+ "sha": "5c6a589c396c163431b00c9ecdcb892233ebd552",
+ "parent": "cc117bf51795ae611da7ebda45f40bed6cf86ca1",
+ "date": "2026-11-06",
+ "subject": "UIT-143: Support a back button and header actions in Modal (#86270)",
+ "pr": "86270",
+ "components": [
+  "overlays/Modal"
+ ],
+ "files": [
+  "e2e/test/scenarios/organization/timelines-collection.cy.spec.js",
+  "frontend/src/metabase/actions/containers/ActionParametersInputForm/ActionParametersInputModal.tsx",
+  "frontend/src/metabase/embedding-sdk/theme/default-component-theme.ts",
+  "frontend/src/metabase/embedding/components/EmbedModal/EmbedModal.module.css",
+  "frontend/src/metabase/embedding/components/EmbedModal/EmbedModal.tsx",
+  "frontend/src/metabase/timelines/common/components/TimelineModalHeader/TimelineModalHeader.module.css",
+  "frontend/src/metabase/timelines/common/components/TimelineModalHeader/TimelineModalHeader.tsx",
+  "frontend/src/metabase/ui/components/overlays/Modal/Modal.config.tsx",
+  "frontend/src/metabase/ui/components/overlays/Modal/Modal.mdx",
+  "frontend/src/metabase/ui/components/overlays/Modal/Modal.module.css",
+  "frontend/src/metabase/ui/components/overlays/Modal/Modal.stories.tsx",
+  "frontend/src/metabase/ui/components/overlays/Modal/Modal.unit.spec.tsx",
+  "frontend/src/metabase/ui/components/overlays/Modal/index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 24,
+ "findings": 3,
+ "ms": 110171
+}

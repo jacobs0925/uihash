@@ -1,0 +1,41 @@
+{
+ "repo": "metabase",
+ "sha": "cc117bf51795ae611da7ebda45f40bed6cf86ca1",
+ "parent": "e35cfec79a3c8a7960e19bc5e2bbcaadbfd9d65c",
+ "date": "2026-11-06",
+ "subject": "UXW2-19 Update TreeTable to provide a static mode (#85972)",
+ "pr": "85972",
+ "components": [
+  "data-display/TreeTable"
+ ],
+ "files": [
+  "enterprise/frontend/src/metabase-enterprise/ai-controls/components/AccessTable.module.css",
+  "enterprise/frontend/src/metabase-enterprise/ai-controls/pages/AiFeatureAccessPage/components/AiFeatureAccessTable/AiFeatureAccessTable.tsx",
+  "enterprise/frontend/src/metabase-enterprise/monitor/ai-auditing/cli-analytics/components/CliEventsTable.tsx",
+  "enterprise/frontend/src/metabase-enterprise/monitor/ai-auditing/data-apps-analytics/components/DataAppLogTable.tsx",
+  "enterprise/frontend/src/metabase-enterprise/monitor/ai-auditing/mcp-analytics/components/McpEventsTable.tsx",
+  "enterprise/frontend/src/metabase-enterprise/monitor/api-key-usage/components/ApiKeyActivityTable.tsx",
+  "enterprise/frontend/src/metabase-enterprise/monitor/api-key-usage/components/ApiKeyUsageEventsTable.tsx",
+  "enterprise/frontend/src/metabase-enterprise/multi_factor_auth/components/MfaUsersPage/MfaUsersPage.module.css",
+  "enterprise/frontend/src/metabase-enterprise/multi_factor_auth/components/MfaUsersPage/MfaUsersPage.tsx",
+  "enterprise/frontend/src/metabase-enterprise/replacement/components/SourceReplacementModal/ModalBody/ColumnMappingTable/ColumnMappingTable.tsx",
+  "enterprise/frontend/src/metabase-enterprise/replacement/components/SourceReplacementModal/ModalBody/DependentsTable/DependentsTable.tsx",
+  "enterprise/frontend/src/metabase-enterprise/transforms-inspector/pages/TransformInspectPage/components/LensSections/GenericSummarySections/GenericSummarySection.tsx",
+  "enterprise/frontend/src/metabase-enterprise/transforms-inspector/pages/TransformInspectPage/components/LensSections/JoinAnalysisSections/JoinAnalysisSection.tsx",
+  "enterprise/frontend/src/metabase-enterprise/transforms-testing/components/TransformTestDataCard/TransformTestDataCard.tsx",
+  "frontend/src/metabase/admin/ai/OAuthAuthorizationsPage.module.css",
+  "frontend/src/metabase/admin/ai/OAuthAuthorizationsPage.tsx",
+  "frontend/src/metabase/ui/components/data-display/TreeTable/TreeTable.stories.tsx",
+  "frontend/src/metabase/ui/components/data-display/TreeTable/TreeTable.tsx",
+  "frontend/src/metabase/ui/components/data-display/TreeTable/TreeTable.unit.spec.tsx",
+  "frontend/src/metabase/ui/components/data-display/TreeTable/TreeTableRow/TreeTableRow.module.css",
+  "frontend/src/metabase/ui/components/data-display/TreeTable/TreeTableRow/TreeTableRow.tsx",
+  "frontend/src/metabase/ui/components/data-display/TreeTable/types.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 184782
+}

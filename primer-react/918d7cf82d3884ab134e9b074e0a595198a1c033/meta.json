@@ -1,0 +1,25 @@
+{
+ "repo": "primer-react",
+ "sha": "918d7cf82d3884ab134e9b074e0a595198a1c033",
+ "parent": "6862a4bc1e9b67a0b0f9279a68c4271f09bfdd91",
+ "date": "2026-11-06",
+ "subject": "feat(Stack): support balanced wrapping (#8692)",
+ "pr": "8692",
+ "components": [
+  "Stack"
+ ],
+ "files": [
+  ".changeset/stack-balanced-wrap.md",
+  "packages/react/src/Stack/Stack.docs.json",
+  "packages/react/src/Stack/Stack.module.css",
+  "packages/react/src/Stack/Stack.stories.tsx",
+  "packages/react/src/Stack/Stack.tsx",
+  "packages/react/src/Stack/__tests__/Stack.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': minor\n---\n\nStack: Add `balance` as a value for the `wrap` prop.\n",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 47692
+}

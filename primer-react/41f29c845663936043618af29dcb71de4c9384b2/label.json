@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "41f29c845663936043618af29dcb71de4c9384b2",
+ "date": "2026-11-06",
+ "pr": "8628",
+ "title": "SkeletonAvatar: Fix stylesheet-order-dependent size and shape (#8628)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "SkeletonAvatar, SkeletonText: Preserve the requested size and shape regardless of stylesheet load order"
+}

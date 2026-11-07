@@ -1,0 +1,26 @@
+{
+ "repo": "primer-react",
+ "sha": "da9022741a8109195480d7e6ccdf80cd723d6199",
+ "parent": "a0e0016e7d851e218dc0c29cbd0ac2a456d38622",
+ "date": "2026-11-06",
+ "subject": "fix(ActionList): preserve link item state across rerenders (#8609)",
+ "pr": "8609",
+ "components": [
+  "NavList"
+ ],
+ "files": [
+  ".changeset/stable-link-item-subtree.md",
+  "e2e/components/NavList.test.ts",
+  "packages/react/src/ActionList/LinkItem.test.tsx",
+  "packages/react/src/ActionList/LinkItem.tsx",
+  "packages/react/src/NavList/NavList.dev.stories.module.css",
+  "packages/react/src/NavList/NavList.dev.stories.tsx",
+  "packages/react/src/NavList/NavList.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nActionList.LinkItem, NavList.Item: Preserve keyboard focus and running child animations when links rerender.\n",
+ "recipe": 1,
+ "stories": 69,
+ "findings": 0,
+ "ms": 142326
+}

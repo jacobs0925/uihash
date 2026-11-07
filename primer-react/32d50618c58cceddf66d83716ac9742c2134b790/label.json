@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "32d50618c58cceddf66d83716ac9742c2134b790",
+ "date": "2026-11-06",
+ "pr": "8683",
+ "title": "perf(Breadcrumbs): rebuild overflow menu for fewer renders, cheaper layout and better SSR (#8683)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Breadcrumbs: Improve the performance of `overflow=\"menu\"` and `\"menu-with-root\"` on mount, resize and navigation. Server-rendered markup now applies the collapse rules before hydration, and the overflow menu trigger is a `<button>`."
+}

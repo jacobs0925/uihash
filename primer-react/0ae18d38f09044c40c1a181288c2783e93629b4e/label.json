@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "0ae18d38f09044c40c1a181288c2783e93629b4e",
+ "date": "2026-11-06",
+ "pr": "8592",
+ "title": "Card: incorporate adoption feedback (#8592)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Card: Add optional shadows, regular (16px) and spacious (24px) padding in either layout, and heading links and buttons with opt-in full-card hit areas using fullCardHitArea. Existing normal padding and defaults are unchanged.\n\n---\n'@primer/react': patch\n---\n\nCard: Improve shrinking and equal-height "
+}

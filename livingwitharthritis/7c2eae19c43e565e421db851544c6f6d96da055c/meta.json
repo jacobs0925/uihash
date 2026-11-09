@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "7c2eae19c43e565e421db851544c6f6d96da055c",
+ "parent": "a5290899ee4d82bc62198c4f59bf968747cd0df1",
+ "date": "2026-05-02",
+ "subject": "Added original photo to site",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/assets/forest-balance-pose.jpg",
+  "src/components/landing/MovementMomentSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 205383
+}

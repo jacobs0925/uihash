@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "d2133edaa07ac3d13bc808e72f4130a0e6438ae8",
+ "parent": "b48d5c889ae6370d8596bda9e4e0ac6df33668ae",
+ "date": "2026-04-23",
+ "subject": "Refined hero and section spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 14,
+ "ms": 207906
+}

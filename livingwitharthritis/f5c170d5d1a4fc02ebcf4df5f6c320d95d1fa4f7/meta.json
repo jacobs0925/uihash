@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f5c170d5d1a4fc02ebcf4df5f6c320d95d1fa4f7",
+ "parent": "fa8540fce2a8a2fa276e6a731b7c3e1c8d16816f",
+ "date": "2026-04-18",
+ "subject": "Rebuilt About page with serif",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/index.css",
+  "src/pages/AboutUs.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 56,
+ "ms": 335146
+}

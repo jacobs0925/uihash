@@ -1,0 +1,28 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a5a8583fc5335da4c726931d7d33e07a3b37276e",
+ "parent": "f590c0031b403dddf3df65b5ef326afa68c49fa7",
+ "date": "2026-05-01",
+ "subject": "Rewrote 6-pg editorial copy",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx",
+  "src/components/landing/HowItWorksSection.tsx",
+  "src/components/landing/QuickAccessSection.tsx",
+  "src/components/landing/TestimonialsSection.tsx",
+  "src/components/landing/TriageSection.tsx",
+  "src/components/landing/TrustBar.tsx",
+  "src/components/ui/MedicallyReviewed.tsx",
+  "src/pages/Donate.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 31,
+ "ms": 278088
+}

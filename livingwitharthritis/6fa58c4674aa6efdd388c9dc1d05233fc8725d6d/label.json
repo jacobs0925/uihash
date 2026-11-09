@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "6fa58c4674aa6efdd388c9dc1d05233fc8725d6d",
+ "date": "2026-05-03",
+ "pr": null,
+ "title": "Executed Phase 1–5 autonomously",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1352 later commits"
+}

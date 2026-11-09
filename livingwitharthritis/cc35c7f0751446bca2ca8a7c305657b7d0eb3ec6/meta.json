@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "cc35c7f0751446bca2ca8a7c305657b7d0eb3ec6",
+ "parent": "06bdff6095140c99bab615ae19e6286c2e74e78e",
+ "date": "2026-04-24",
+ "subject": "Added Arthritis guide landing",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/ExitIntentModal.tsx",
+  "src/pages/ArthritisStarterGuide.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 169204
+}

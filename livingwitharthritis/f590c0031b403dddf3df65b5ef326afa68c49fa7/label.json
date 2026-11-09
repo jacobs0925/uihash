@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "f590c0031b403dddf3df65b5ef326afa68c49fa7",
+ "date": "2026-04-30",
+ "pr": null,
+ "title": "Applied SEO pass to 6 pages",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.6,
+ "evidence": "thrown away by 308679ca, which restored 7af545de (5 commits discarded)"
+}

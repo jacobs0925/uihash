@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "973e20681044c1993f3f90d2b8e2314e61f2e59b",
+ "parent": "810a96d64cabaf359dc310784fcf2572bced7ef8",
+ "date": "2026-04-19",
+ "subject": "Removed lead capture section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/LeadCaptureSection.tsx",
+  "src/components/landing/__tests__/LeadCaptureSection.test.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 201903
+}

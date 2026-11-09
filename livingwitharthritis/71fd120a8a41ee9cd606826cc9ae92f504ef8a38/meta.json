@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "71fd120a8a41ee9cd606826cc9ae92f504ef8a38",
+ "parent": "96632dcc7110e7e3ba7edbc658197da5421eabbe",
+ "date": "2026-04-26",
+ "subject": "Added stable hero preload",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 74233
+}

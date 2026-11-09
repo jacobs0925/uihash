@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "5797b9bfe621e5c6c6546f0e5a9640aaeea4927c",
+ "date": "2026-04-24",
+ "pr": null,
+ "title": "Added exit-intent modal",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1422 later commits"
+}

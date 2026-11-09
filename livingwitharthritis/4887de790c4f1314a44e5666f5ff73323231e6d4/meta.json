@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4887de790c4f1314a44e5666f5ff73323231e6d4",
+ "parent": "610bff77bc2a4dd067f0e8450bceae1a25b3a160",
+ "date": "2026-05-02",
+ "subject": "Added interactive joint figure",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 219725
+}

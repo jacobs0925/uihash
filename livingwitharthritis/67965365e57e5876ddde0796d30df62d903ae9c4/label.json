@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "67965365e57e5876ddde0796d30df62d903ae9c4",
+ "date": "2026-05-03",
+ "pr": null,
+ "title": "Audited landing sections for a11y",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1355 later commits"
+}

@@ -5,8 +5,8 @@
  "date": "2026-03-06",
  "pr": null,
  "title": "Imposed CSS stagger animation",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1805 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "transform: ∅ → matrix(1, 0, 0, 1, 0, 0) undone by 96e5bd4c \"Code edited in Lovable Code Editor\""
 }

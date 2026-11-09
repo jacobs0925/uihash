@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "90db7fbdfd612a553373d70f417342d8710a9231",
+ "date": "2026-04-18",
+ "pr": null,
+ "title": "Reverted to commit fa8540fce2a8a2fa276e6a731b7c3e1c8d16816f",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "font-family: \"Work Sans\", system-ui, sans-serif → \"Plus Jakarta Sans\", system-ui, sans-serif undone by f5c170d5 \"Rebuilt About page with serif\"; font-feature-settings: \"ss01\" → \"cv11\", \"ss01\" undone by f5c170d5 \"Rebuilt About page with serif\"; font-family: \"Work Sans\", system-ui, sans-serif → \"Plus Jakarta Sans\", system-ui, sans-serif undone by f5c170d5 \"Rebuilt About page with serif\""
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "388a9d49ab0ad52f15084cc8b20df78a5e59ad8a",
+ "parent": "e1c179c98ecced7e136c8f8fdf8d1be725d74399",
+ "date": "2026-04-29",
+ "subject": "Added PSI dashboard page",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/AdminPsiDashboard.tsx",
+  "supabase/functions/run-psi-audit/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 65453
+}

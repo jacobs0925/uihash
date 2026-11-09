@@ -1,0 +1,29 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "6fa58c4674aa6efdd388c9dc1d05233fc8725d6d",
+ "parent": "5cb95d4449eba11eabbcfef1bc7f39f4ccc1700f",
+ "date": "2026-05-03",
+ "subject": "Executed Phase 1–5 autonomously",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/EngagementTracker.tsx",
+  "src/components/ExitIntentModal.tsx",
+  "src/components/Footer.tsx",
+  "src/components/FooterMostRead.tsx",
+  "src/components/landing/IntentChooser.tsx",
+  "src/components/landing/PortraitGrid.tsx",
+  "src/hooks/useLinkPrefetch.ts",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 8,
+ "ms": 244964
+}

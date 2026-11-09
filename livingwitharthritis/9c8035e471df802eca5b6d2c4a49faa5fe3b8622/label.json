@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "9c8035e471df802eca5b6d2c4a49faa5fe3b8622",
+ "date": "2026-05-01",
+ "pr": null,
+ "title": "Reverted to commit f590c0031b403dddf3df65b5ef326afa68c49fa7",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "color: ∅ → rgb(20, 20, 20) undone by a5a8583f \"Rewrote 6-pg editorial copy\"; font-family: ∅ → \"Plus Jakarta Sans\", system-ui, sans-serif undone by a5a8583f \"Rewrote 6-pg editorial copy\"; font-size: ∅ → 14px undone by a5a8583f \"Rewrote 6-pg editorial copy\""
+}

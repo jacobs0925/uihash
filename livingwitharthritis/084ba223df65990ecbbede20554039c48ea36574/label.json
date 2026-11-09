@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "084ba223df65990ecbbede20554039c48ea36574",
+ "date": "2026-04-25",
+ "pr": null,
+ "title": "Fixed donation email copy",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1406 later commits"
+}

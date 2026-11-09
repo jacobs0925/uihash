@@ -1,0 +1,33 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "7af545de795d14c6df5adc9e845bd4c31549c789",
+ "parent": "388a9d49ab0ad52f15084cc8b20df78a5e59ad8a",
+ "date": "2026-04-30",
+ "subject": "Hardened public API layer",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/AppointmentModal.tsx",
+  "src/components/StripeDonationModal.tsx",
+  "src/hooks/useAdminAppointments.ts",
+  "src/hooks/useAppointment.ts",
+  "src/hooks/useContact.ts",
+  "src/hooks/useStreamingChat.ts",
+  "src/lib/apiResponse.ts",
+  "supabase/functions/_shared/http.ts",
+  "supabase/functions/_shared/validation.ts",
+  "supabase/functions/book-appointment/index.ts",
+  "supabase/functions/chat/index.ts",
+  "supabase/functions/create-donation-checkout/index.ts",
+  "supabase/functions/notify-patient-status/index.ts",
+  "supabase/functions/submit-contact/index.ts",
+  "supabase/functions/submit-fundraising/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 68306
+}

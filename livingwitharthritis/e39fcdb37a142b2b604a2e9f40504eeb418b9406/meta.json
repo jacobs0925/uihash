@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "e39fcdb37a142b2b604a2e9f40504eeb418b9406",
+ "parent": "b3a44b11e341d474c5c7df92245cf91eaf6b2033",
+ "date": "2026-04-24",
+ "subject": "Added post-signup PDF screen",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/downloads/arthritis-starter-guide-preview.pdf",
+  "src/components/ExitIntentModal.tsx",
+  "src/components/ExitIntentSuccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 198621
+}

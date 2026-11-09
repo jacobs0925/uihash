@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "35aa9c74603978a8b4d268addec041ca48a0e2aa",
+ "parent": "4887de790c4f1314a44e5666f5ff73323231e6d4",
+ "date": "2026-05-02",
+ "subject": "Added scroll + pulse to joint",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 191766
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "bdd008469729665a714d1dd2a2abe835b288c2ad",
+ "parent": "386319183dd0bb627cf229ee532cd31bb5ce1d78",
+ "date": "2026-05-02",
+ "subject": "Added keyboard focus ring",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 103439
+}

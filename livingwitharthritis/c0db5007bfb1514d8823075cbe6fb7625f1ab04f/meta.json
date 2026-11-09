@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "c0db5007bfb1514d8823075cbe6fb7625f1ab04f",
+ "parent": "c088d27ab65f9d58ef2a7366131e5f80d8675460",
+ "date": "2026-04-18",
+ "subject": "Deferred Sonner mount",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 78971
+}

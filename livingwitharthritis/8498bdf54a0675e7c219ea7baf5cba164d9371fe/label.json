@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "8498bdf54a0675e7c219ea7baf5cba164d9371fe",
+ "date": "2026-05-03",
+ "pr": null,
+ "title": "Added Gift Aid consent UI",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1354 later commits"
+}

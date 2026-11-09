@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "8fdbec23ed3bd343324b0b8fc4ddb9062e034c9b",
+ "date": "2026-04-17",
+ "pr": null,
+ "title": "Updated registered address",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1455 later commits"
+}

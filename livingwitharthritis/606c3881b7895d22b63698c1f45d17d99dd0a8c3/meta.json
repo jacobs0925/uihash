@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "606c3881b7895d22b63698c1f45d17d99dd0a8c3",
+ "parent": "c68dbc5c320bf18b07d690fd95e704f2f36903e6",
+ "date": "2026-05-02",
+ "subject": "Added original image + credits",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/yoga-monument-group.jpg",
+  "src/components/landing/MovementMomentSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 121529
+}

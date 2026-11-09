@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "e39fcdb37a142b2b604a2e9f40504eeb418b9406",
+ "date": "2026-04-24",
+ "pr": null,
+ "title": "Added post-signup PDF screen",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1414 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "dce3a1e661a899ea5e4132160f9e69f2138d4d20",
+ "parent": "eeb047bfc9adfb1e77881ea994e561213dc7e4d7",
+ "date": "2026-04-25",
+ "subject": "Added inline loading/error UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ExitIntentModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 66007
+}

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "d2133edaa07ac3d13bc808e72f4130a0e6438ae8",
+ "date": "2026-04-23",
+ "pr": null,
+ "title": "Refined hero and section spacing",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1429 later commits"
+}

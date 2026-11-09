@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "a02a31f72c96947cb41beb6b5c63a29588a5eb6b",
+ "date": "2026-04-25",
+ "pr": null,
+ "title": "Fixed Lighthouse perf issues",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text-align: ∅ → start undone by 5cb95d44 \"Upgraded Faces of Arthritis\"; text-align: ∅ → start undone by 5cb95d44 \"Upgraded Faces of Arthritis\"; text-align: ∅ → start undone by 5cb95d44 \"Upgraded Faces of Arthritis\""
+}

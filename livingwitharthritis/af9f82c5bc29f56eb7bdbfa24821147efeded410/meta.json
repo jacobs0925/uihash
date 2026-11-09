@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "af9f82c5bc29f56eb7bdbfa24821147efeded410",
+ "parent": "3409f7edee94a3cc2980fb91b5f4c3f9f142e3f4",
+ "date": "2026-04-21",
+ "subject": "Svipped hero image to local",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/hero-walking-group.jpg",
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 89152
+}

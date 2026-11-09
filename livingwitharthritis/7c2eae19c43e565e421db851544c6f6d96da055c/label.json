@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "7c2eae19c43e565e421db851544c6f6d96da055c",
+ "date": "2026-05-02",
+ "pr": null,
+ "title": "Added original photo to site",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1370 later commits"
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "942c9fdc329e603717d19845bc82f66833c92d0a",
+ "parent": "a5cbcf926c836859b2aa7d926e409882e8f97583",
+ "date": "2026-04-25",
+ "subject": "Fixed RLS and enabled HIBP",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/hooks/__tests__/useDonation.test.ts",
+  "src/hooks/useDonation.ts",
+  "src/integrations/supabase/types.ts",
+  "src/pages/DonationSuccess.tsx",
+  "supabase/migrations/20260425190738_5bf5b251-4886-4c3c-9538-a680f7ed149c.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 7,
+ "ms": 197477
+}

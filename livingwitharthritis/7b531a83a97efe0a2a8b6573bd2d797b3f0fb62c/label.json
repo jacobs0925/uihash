@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "7b531a83a97efe0a2a8b6573bd2d797b3f0fb62c",
+ "date": "2026-04-24",
+ "pr": null,
+ "title": "Added ReadNext cards to pages",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1423 later commits"
+}

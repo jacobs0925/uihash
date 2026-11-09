@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "fc46ca43694cccffe30b0e2f0e40c2b890bd8d7b",
+ "parent": "0f93b4ad520bd29b1a3dcf7f33002bb219e9451e",
+ "date": "2026-04-24",
+ "subject": "Added sticky mobile next step",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/MobileNextStepBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 136489
+}

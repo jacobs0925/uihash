@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "386319183dd0bb627cf229ee532cd31bb5ce1d78",
+ "parent": "35aa9c74603978a8b4d268addec041ca48a0e2aa",
+ "date": "2026-05-02",
+ "subject": "Split left/right joint logic",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/JointExerciseSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 219564
+}

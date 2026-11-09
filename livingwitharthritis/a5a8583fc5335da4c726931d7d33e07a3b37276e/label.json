@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "a5a8583fc5335da4c726931d7d33e07a3b37276e",
+ "date": "2026-05-01",
+ "pr": null,
+ "title": "Rewrote 6-pg editorial copy",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.75,
+ "evidence": "thrown away by 9c8035e4, which restored f590c003 (4 commits discarded)"
+}

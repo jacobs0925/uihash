@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "b3a44b11e341d474c5c7df92245cf91eaf6b2033",
+ "date": "2026-04-24",
+ "pr": null,
+ "title": "Tuned exit-intent thresholds",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1415 later commits"
+}

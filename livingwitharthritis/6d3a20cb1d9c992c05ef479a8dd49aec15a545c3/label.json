@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "6d3a20cb1d9c992c05ef479a8dd49aec15a545c3",
+ "date": "2026-04-20",
+ "pr": null,
+ "title": "Completed full SEO programme",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"John R.\" → \"Sarah K.\" undone by f020181e \"Added Openverse image source\"; text: \"£␟200\" → \"£␟50\" undone by f020181e \"Added Openverse image source\"; text: \"❤️\" → \"🥳\" undone by f020181e \"Added Openverse image source\""
+}

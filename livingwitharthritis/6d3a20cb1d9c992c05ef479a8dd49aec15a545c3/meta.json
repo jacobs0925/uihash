@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "6d3a20cb1d9c992c05ef479a8dd49aec15a545c3",
+ "parent": "6d49bf496192790a01dd40206810e53674cb70d6",
+ "date": "2026-04-20",
+ "subject": "Completed full SEO programme",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/CityArthritisPage.tsx",
+  "src/pages/NHSWaitingListHelp.tsx",
+  "src/pages/regions/RegionHub.tsx",
+  "src/pages/tools/NHSWaitingTimeCalculator.tsx",
+  "supabase/functions/generate-sitemap/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 198977
+}

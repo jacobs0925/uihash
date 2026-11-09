@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "973e20681044c1993f3f90d2b8e2314e61f2e59b",
+ "date": "2026-04-19",
+ "pr": null,
+ "title": "Removed lead capture section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1444 later commits"
+}

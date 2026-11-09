@@ -1,0 +1,29 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "d91397a458ab0b219049ffc4b12a7ec3c86fc1aa",
+ "parent": "5ccf2d975dd4d6603871e8dd8af3cbadc3e7f0ea",
+ "date": "2026-04-17",
+ "subject": "Cut 8 sections, 6 moved to pages",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/Footer.tsx",
+  "src/components/landing/HomeTabs.tsx",
+  "src/components/landing/JumpNav.tsx",
+  "src/pages/AISafety.tsx",
+  "src/pages/Contact.tsx",
+  "src/pages/FAQ.tsx",
+  "src/pages/Index.tsx",
+  "src/pages/Services.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 10,
+ "ms": 211606
+}

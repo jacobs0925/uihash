@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "7595d524439b3ad2951bb7b9f99951fa4cebabed",
+ "parent": "ffdffb7a9818cb7c482362b07dff213fa8033982",
+ "date": "2026-04-24",
+ "subject": "Enhanced colors & added mesh",
+ "components": [
+  "components",
+  "index.css"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 213720
+}

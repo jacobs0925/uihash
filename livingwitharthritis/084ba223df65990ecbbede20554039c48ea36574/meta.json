@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "084ba223df65990ecbbede20554039c48ea36574",
+ "parent": "a02a31f72c96947cb41beb6b5c63a29588a5eb6b",
+ "date": "2026-04-25",
+ "subject": "Fixed donation email copy",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/DonationSuccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 85400
+}

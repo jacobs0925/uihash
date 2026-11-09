@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "3409f7edee94a3cc2980fb91b5f4c3f9f142e3f4",
+ "parent": "9ddc32faff759aed2f7ee45ef6d0ff7f4e369371",
+ "date": "2026-04-21",
+ "subject": "Added triage widget & bot block",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/robots.txt",
+  "src/components/landing/TriageSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 202463
+}

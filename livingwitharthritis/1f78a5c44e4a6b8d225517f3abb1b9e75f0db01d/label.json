@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "1f78a5c44e4a6b8d225517f3abb1b9e75f0db01d",
+ "date": "2026-05-03",
+ "pr": null,
+ "title": "Added 3 new sections",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1356 later commits"
+}

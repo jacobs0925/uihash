@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "d91397a458ab0b219049ffc4b12a7ec3c86fc1aa",
+ "date": "2026-04-17",
+ "pr": null,
+ "title": "Cut 8 sections, 6 moved to pages",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1453 later commits"
+}

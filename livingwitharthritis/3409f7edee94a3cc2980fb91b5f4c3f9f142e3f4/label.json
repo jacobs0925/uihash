@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "3409f7edee94a3cc2980fb91b5f4c3f9f142e3f4",
+ "date": "2026-04-21",
+ "pr": null,
+ "title": "Added triage widget & bot block",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"John R.\" → \"Sarah K.\" undone by f020181e \"Added Openverse image source\"; text: \"£␟200\" → \"£␟50\" undone by f020181e \"Added Openverse image source\"; text: \"❤️\" → \"🥳\" undone by f020181e \"Added Openverse image source\""
+}

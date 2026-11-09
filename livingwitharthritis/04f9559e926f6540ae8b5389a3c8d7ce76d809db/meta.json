@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "04f9559e926f6540ae8b5389a3c8d7ce76d809db",
+ "parent": "d0180ca3e445bca4e0dd96f1b36082ee85ebb3dc",
+ "date": "2026-05-02",
+ "subject": "Adjusted mobile spacing",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/MovementMomentSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 241101
+}

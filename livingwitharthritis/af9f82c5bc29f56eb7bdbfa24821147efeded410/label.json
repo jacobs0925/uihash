@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "af9f82c5bc29f56eb7bdbfa24821147efeded410",
+ "date": "2026-04-21",
+ "pr": null,
+ "title": "Svipped hero image to local",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1434 later commits"
+}

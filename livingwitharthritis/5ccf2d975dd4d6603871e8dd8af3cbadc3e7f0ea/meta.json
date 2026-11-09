@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "5ccf2d975dd4d6603871e8dd8af3cbadc3e7f0ea",
+ "parent": "8fdbec23ed3bd343324b0b8fc4ddb9062e034c9b",
+ "date": "2026-04-17",
+ "subject": "Slimmed homepage to 7 sections",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/HomeTabs.tsx",
+  "src/components/landing/JumpNav.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 235679
+}

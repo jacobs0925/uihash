@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "c68dbc5c320bf18b07d690fd95e704f2f36903e6",
+ "parent": "444146f35be9a689b0b113a10533db54ad8bc985",
+ "date": "2026-05-02",
+ "subject": "Added attribution below image",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/MovementMomentSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 102875
+}

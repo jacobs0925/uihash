@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "90db7fbdfd612a553373d70f417342d8710a9231",
+ "parent": "2b65f978fae8c2791cef503a870be9dcf8429f82",
+ "date": "2026-04-18",
+ "subject": "Reverted to commit fa8540fce2a8a2fa276e6a731b7c3e1c8d16816f",
+ "components": [
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "src/index.css",
+  "src/pages/AboutUs.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 84,
+ "ms": 336160
+}

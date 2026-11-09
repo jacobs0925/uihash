@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "0f93b4ad520bd29b1a3dcf7f33002bb219e9451e",
+ "parent": "5797b9bfe621e5c6c6546f0e5a9640aaeea4927c",
+ "date": "2026-04-24",
+ "subject": "Optimized mobile hero loading",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 104803
+}

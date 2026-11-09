@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "8f7f895b5f66174177ef2a3cc487debdce4fa134",
+ "date": "2026-05-01",
+ "pr": null,
+ "title": "Reverted to commit c26f3e102a563bbf2575c35fdf1df736727edfb6",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "display: block → flex undone by 96e5bd4c \"Code edited in Lovable Code Editor\"; position: fixed → absolute undone by 96e5bd4c \"Code edited in Lovable Code Editor\"; line-height: 1.75 → 1.7 undone by 96e5bd4c \"Code edited in Lovable Code Editor\""
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "b3a44b11e341d474c5c7df92245cf91eaf6b2033",
+ "parent": "65d5e7fecd7b02d1b68cb3c18e89d29d536094d5",
+ "date": "2026-04-24",
+ "subject": "Tuned exit-intent thresholds",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ExitIntentModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 71737
+}

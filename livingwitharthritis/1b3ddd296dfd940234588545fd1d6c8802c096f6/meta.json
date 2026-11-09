@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "1b3ddd296dfd940234588545fd1d6c8802c096f6",
+ "parent": "af9f82c5bc29f56eb7bdbfa24821147efeded410",
+ "date": "2026-04-21",
+ "subject": "Kept hero image at 4898×3265",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 9,
+ "ms": 97452
+}

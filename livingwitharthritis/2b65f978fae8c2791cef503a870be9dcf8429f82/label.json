@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "2b65f978fae8c2791cef503a870be9dcf8429f82",
+ "date": "2026-04-18",
+ "pr": null,
+ "title": "Tightened site font scale",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 90db7fbd, which restored fa8540fc (2 commits discarded)"
+}

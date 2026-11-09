@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "f5c170d5d1a4fc02ebcf4df5f6c320d95d1fa4f7",
+ "date": "2026-04-18",
+ "pr": null,
+ "title": "Rebuilt About page with serif",
+ "label": 1,
+ "source": "restore",
+ "confidence": 0.85,
+ "evidence": "thrown away by 90db7fbd, which restored fa8540fc (2 commits discarded)"
+}

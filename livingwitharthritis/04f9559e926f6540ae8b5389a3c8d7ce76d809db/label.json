@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "04f9559e926f6540ae8b5389a3c8d7ce76d809db",
+ "date": "2026-05-02",
+ "pr": null,
+ "title": "Adjusted mobile spacing",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1365 later commits"
+}

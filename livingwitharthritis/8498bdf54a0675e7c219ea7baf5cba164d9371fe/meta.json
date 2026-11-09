@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "8498bdf54a0675e7c219ea7baf5cba164d9371fe",
+ "parent": "67965365e57e5876ddde0796d30df62d903ae9c4",
+ "date": "2026-05-03",
+ "subject": "Added Gift Aid consent UI",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/InspiredHeroBand.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 118610
+}

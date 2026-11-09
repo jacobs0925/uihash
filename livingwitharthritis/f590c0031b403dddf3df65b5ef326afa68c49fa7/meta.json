@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f590c0031b403dddf3df65b5ef326afa68c49fa7",
+ "parent": "7af545de795d14c6df5adc9e845bd4c31549c789",
+ "date": "2026-04-30",
+ "subject": "Applied SEO pass to 6 pages",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AboutUs.tsx",
+  "src/pages/DietHub.tsx",
+  "src/pages/Donate.tsx",
+  "src/pages/ExerciseHub.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 3,
+ "ms": 108789
+}

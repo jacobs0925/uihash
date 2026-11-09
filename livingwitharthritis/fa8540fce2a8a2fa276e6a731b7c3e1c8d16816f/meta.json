@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "fa8540fce2a8a2fa276e6a731b7c3e1c8d16816f",
+ "parent": "302725c779a00d8afd7dba006006c344f7a3958d",
+ "date": "2026-04-18",
+ "subject": "Optimized on-page SEO for 5 pages",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AISafety.tsx",
+  "src/pages/Contact.tsx",
+  "src/pages/Donate.tsx",
+  "src/pages/FAQ.tsx",
+  "src/pages/Services.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 12,
+ "ms": 118510
+}

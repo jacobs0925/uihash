@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a02a31f72c96947cb41beb6b5c63a29588a5eb6b",
+ "parent": "d6a329d141a9fbb041e85282d77d8c4d26a489c2",
+ "date": "2026-04-25",
+ "subject": "Fixed Lighthouse perf issues",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/assets/hero-walking-group-1200.webp",
+  "src/assets/hero-walking-group-1600.jpg",
+  "src/assets/hero-walking-group-1600.webp",
+  "src/assets/hero-walking-group-800.webp",
+  "src/assets/hero-walking-group.jpg",
+  "src/components/ExitIntentModal.tsx",
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 77935
+}

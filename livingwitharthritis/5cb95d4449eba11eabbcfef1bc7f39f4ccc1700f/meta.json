@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "5cb95d4449eba11eabbcfef1bc7f39f4ccc1700f",
+ "parent": "8498bdf54a0675e7c219ea7baf5cba164d9371fe",
+ "date": "2026-05-03",
+ "subject": "Upgraded Faces of Arthritis",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/PortraitGrid.tsx",
+  "src/data/facesOfArthritis.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 11,
+ "ms": 232860
+}

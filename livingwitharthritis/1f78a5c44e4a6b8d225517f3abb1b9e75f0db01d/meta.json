@@ -1,0 +1,24 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "1f78a5c44e4a6b8d225517f3abb1b9e75f0db01d",
+ "parent": "b45aad445af4e3c1150bcf3652746826234e8f04",
+ "date": "2026-05-03",
+ "subject": "Added 3 new sections",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/ChangeLivesStats.tsx",
+  "src/components/landing/InspiredHeroBand.tsx",
+  "src/components/landing/PortraitGrid.tsx",
+  "src/data/images.ts",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 7,
+ "ms": 220283
+}

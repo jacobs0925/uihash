@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "0f93b4ad520bd29b1a3dcf7f33002bb219e9451e",
+ "date": "2026-04-24",
+ "pr": null,
+ "title": "Optimized mobile hero loading",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1421 later commits"
+}

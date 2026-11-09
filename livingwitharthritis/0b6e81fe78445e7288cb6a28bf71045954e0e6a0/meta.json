@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "0b6e81fe78445e7288cb6a28bf71045954e0e6a0",
+ "parent": "7bdba8adea015073e7c539d1dcadf5fdeeae61ad",
+ "date": "2026-04-19",
+ "subject": "Added journey chapters & UI",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/integrations/supabase/types.ts",
+  "src/pages/AboutUs.tsx",
+  "supabase/migrations/20260419204538_f5a46f17-7da2-4b19-9ade-71a280f8f91c.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 11,
+ "ms": 208373
+}

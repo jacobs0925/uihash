@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "5ccf2d975dd4d6603871e8dd8af3cbadc3e7f0ea",
+ "date": "2026-04-17",
+ "pr": null,
+ "title": "Slimmed homepage to 7 sections",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1454 later commits"
+}

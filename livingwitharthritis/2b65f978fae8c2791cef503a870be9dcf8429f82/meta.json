@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "2b65f978fae8c2791cef503a870be9dcf8429f82",
+ "parent": "f5c170d5d1a4fc02ebcf4df5f6c320d95d1fa4f7",
+ "date": "2026-04-18",
+ "subject": "Tightened site font scale",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 42,
+ "ms": 212288
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "06bdff6095140c99bab615ae19e6286c2e74e78e",
+ "parent": "fc46ca43694cccffe30b0e2f0e40c2b890bd8d7b",
+ "date": "2026-04-24",
+ "subject": "Added GA4 event tracking",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DownloadableResources.tsx",
+  "src/components/ExitIntentModal.tsx",
+  "src/lib/analytics.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 70118
+}

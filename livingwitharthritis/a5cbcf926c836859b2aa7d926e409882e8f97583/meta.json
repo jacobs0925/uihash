@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a5cbcf926c836859b2aa7d926e409882e8f97583",
+ "parent": "dce3a1e661a899ea5e4132160f9e69f2138d4d20",
+ "date": "2026-04-25",
+ "subject": "Added inbox CTA with deep links",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ExitIntentSuccess.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 77355
+}

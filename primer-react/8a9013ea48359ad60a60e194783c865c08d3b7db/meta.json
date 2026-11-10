@@ -1,0 +1,45 @@
+{
+ "repo": "primer-react",
+ "sha": "8a9013ea48359ad60a60e194783c865c08d3b7db",
+ "parent": "82d287d1c9a2deb074faffe2e9fe5e117c92698a",
+ "date": "2026-11-09",
+ "subject": "SkeletonBox, ProgressBar: run shimmer on the compositor (#8681)",
+ "pr": "8681",
+ "components": [
+  "ProgressBar",
+  "Skeleton"
+ ],
+ "files": [
+  ".changeset/skeleton-shimmer-compositor.md",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-dark-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-light-colorblind-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-light-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-light-tritanopia-linux.png",
+  "e2e/components/ProgressBar.test.ts",
+  "packages/react/src/ProgressBar/ProgressBar.module.css",
+  "packages/react/src/Skeleton/skeleton.module.css",
+  "packages/react/src/SkeletonAvatar/SkeletonAvatar.test.tsx",
+  "packages/react/src/SkeletonText/SkeletonText.test.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-dark-colorblind-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-dark-dimmed-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-dark-high-contrast-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-dark-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-dark-tritanopia-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-light-colorblind-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-light-high-contrast-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-light-linux.png",
+  ".playwright/snapshots/components/ProgressBar.test.ts-snapshots/ProgressBar-Animated-light-tritanopia-linux.png"
+ ],
+ "changeset": "---\n'@primer/react': patch\n---\n\nSkeletonBox, SkeletonText, SkeletonAvatar, ProgressBar: Run the loading shimmer animation on the compositor to reduce main-thread work while skeletons are visible\n",
+ "recipe": 1,
+ "stories": 54,
+ "findings": 0,
+ "ms": 166324
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4f77d279a1807ed5e249dd3538246c69b11137a0",
+ "parent": "7899ea9c320bf60dc499738c8b76a245611dcc54",
+ "date": "2026-05-13",
+ "subject": "Added Diet Hub & Diet Guide",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "public/sitemap.xml",
+  "src/App.tsx",
+  "src/pages/DietHub.tsx",
+  "src/pages/diet/MediterraneanDietForArthritis.tsx",
+  "src/pages/pillar/DietGuide.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 8,
+ "ms": 81358
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "ca44a8f3d5212c3ce766ef34b985c9e27eca42fd",
+ "parent": "dd8b958c1541ddf2c9cfc640822fac9df5eaec11",
+ "date": "2026-05-13",
+ "subject": "Published myths article",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "public/sitemap.xml",
+  "src/App.tsx",
+  "src/pages/myths/DoesCrackingKnucklesCauseArthritis.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 78068
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4c369e5f3b1d4b5758fc8e7b078119336173ddcc",
+ "parent": "b40f8307451fdaa11e3966bdc05ace655ff2e76e",
+ "date": "2026-05-12",
+ "subject": "Added Donate modal flow",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/pages/Donate.tsx",
+  "src/pages/ZakatAppeal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 20,
+ "ms": 69086
+}

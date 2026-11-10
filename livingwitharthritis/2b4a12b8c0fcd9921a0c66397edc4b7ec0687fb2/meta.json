@@ -1,0 +1,27 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "2b4a12b8c0fcd9921a0c66397edc4b7ec0687fb2",
+ "parent": "a669e3f6449730104fcec2f365515c6c9264d4e1",
+ "date": "2026-05-10",
+ "subject": "Unified colour palette to red",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/components/tools/InflammationCalculator.tsx",
+  "src/index.css",
+  "src/pages/AdminDashboard.tsx",
+  "src/pages/Finances.tsx",
+  "src/pages/Index.tsx",
+  "tailwind.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 160,
+ "ms": 300090
+}

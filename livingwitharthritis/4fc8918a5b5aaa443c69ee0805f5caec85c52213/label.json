@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "4fc8918a5b5aaa443c69ee0805f5caec85c52213",
+ "date": "2026-05-10",
+ "pr": null,
+ "title": "Fixed arthritis blog rendering",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1277 later commits"
+}

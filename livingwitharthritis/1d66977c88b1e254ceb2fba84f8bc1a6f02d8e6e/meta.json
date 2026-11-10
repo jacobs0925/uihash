@@ -1,0 +1,26 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "1d66977c88b1e254ceb2fba84f8bc1a6f02d8e6e",
+ "parent": "1e57f4932831ddd4cd3677ab4227159e007bc6ed",
+ "date": "2026-05-13",
+ "subject": "Wired joint routes into App",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "public/sitemap.xml",
+  "src/App.tsx",
+  "src/pages/conditions/HandArthritis.tsx",
+  "src/pages/conditions/KneeArthritis.tsx",
+  "src/pages/conditions/Osteoarthritis.tsx",
+  "src/pages/conditions/ShoulderArthritis.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 182237
+}

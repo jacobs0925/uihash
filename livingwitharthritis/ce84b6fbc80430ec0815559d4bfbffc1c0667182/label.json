@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "ce84b6fbc80430ec0815559d4bfbffc1c0667182",
+ "date": "2026-05-13",
+ "pr": null,
+ "title": "Added MovementLibrary/JSON-LD",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1265 later commits"
+}

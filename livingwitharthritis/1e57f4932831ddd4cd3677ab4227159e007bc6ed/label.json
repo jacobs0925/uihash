@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "1e57f4932831ddd4cd3677ab4227159e007bc6ed",
+ "date": "2026-05-13",
+ "pr": null,
+ "title": "Set OG images for 28 helmets",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1255 later commits"
+}

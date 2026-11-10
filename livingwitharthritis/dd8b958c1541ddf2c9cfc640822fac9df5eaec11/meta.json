@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "dd8b958c1541ddf2c9cfc640822fac9df5eaec11",
+ "parent": "4f77d279a1807ed5e249dd3538246c69b11137a0",
+ "date": "2026-05-13",
+ "subject": "Wired up video modals",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/components/exercises/ExerciseVideoModal.tsx",
+  "src/components/exercises/TaiChiAnimations.tsx",
+  "src/pages/exercises/TaiChiForArthritis.tsx",
+  "src/pages/exercises/TaiChiForBalance.tsx",
+  "src/pages/exercises/TaiChiForBeginners.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 10,
+ "ms": 227992
+}

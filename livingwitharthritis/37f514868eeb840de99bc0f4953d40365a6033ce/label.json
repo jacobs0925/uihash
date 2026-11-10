@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "37f514868eeb840de99bc0f4953d40365a6033ce",
+ "date": "2026-05-13",
+ "pr": null,
+ "title": "Fixed 3 SEO findings",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1258 later commits"
+}

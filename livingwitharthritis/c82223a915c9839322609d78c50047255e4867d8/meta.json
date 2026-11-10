@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "c82223a915c9839322609d78c50047255e4867d8",
+ "parent": "2885d9741b4bc80ba50fb5760b28d098edfcc63a",
+ "date": "2026-05-13",
+ "subject": "Added Tai Chi hub & routes",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "public/sitemap.xml",
+  "src/App.tsx",
+  "src/pages/ExerciseHub.tsx",
+  "src/pages/exercises/SeatedTaiChiForArthritis.tsx",
+  "src/pages/exercises/TaiChiForArthritis.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 1,
+ "ms": 179021
+}

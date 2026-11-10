@@ -1,0 +1,27 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "7899ea9c320bf60dc499738c8b76a245611dcc54",
+ "parent": "ce84b6fbc80430ec0815559d4bfbffc1c0667182",
+ "date": "2026-05-13",
+ "subject": "Added Tai Chi for Beginners",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "public/sitemap.xml",
+  "src/App.tsx",
+  "src/pages/ExerciseHub.tsx",
+  "src/pages/exercises/SeatedTaiChiForArthritis.tsx",
+  "src/pages/exercises/TaiChiForArthritis.tsx",
+  "src/pages/exercises/TaiChiForBalance.tsx",
+  "src/pages/exercises/TaiChiForBeginners.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 8,
+ "ms": 122757
+}

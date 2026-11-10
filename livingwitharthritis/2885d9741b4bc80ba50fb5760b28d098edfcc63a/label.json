@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "2885d9741b4bc80ba50fb5760b28d098edfcc63a",
+ "date": "2026-05-13",
+ "pr": null,
+ "title": "Fixed accessibility contrast",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1268 later commits"
+}

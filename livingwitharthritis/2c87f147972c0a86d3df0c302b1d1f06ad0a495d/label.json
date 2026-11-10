@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "2c87f147972c0a86d3df0c302b1d1f06ad0a495d",
+ "date": "2026-05-10",
+ "pr": null,
+ "title": "Added reload guard for broken modules",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1280 later commits"
+}

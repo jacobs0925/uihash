@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "e9af732f85fdc307a55fb4e57f8e36097d245bc4",
+ "parent": "e24a57784ab86c35eb1115130f8818a71805e2cd",
+ "date": "2026-05-09",
+ "subject": "Added skeleton + retry to lazy",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/components/landing/LazySection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 76290
+}

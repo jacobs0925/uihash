@@ -1,0 +1,31 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a1b4fac75bf75e0f741d2c165ade4d41ee8afc32",
+ "parent": "3d1cf4f3aad419ad7b21624c0202a7425dc1512a",
+ "date": "2026-05-10",
+ "subject": "Integrated ConditionBlogStrip",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/components/ConditionBlogStrip.tsx",
+  "src/components/conditions/ConditionPageTemplate.tsx",
+  "src/hooks/useBlogArticles.ts",
+  "src/pages/conditions/AnkylosingSpondylitis.tsx",
+  "src/pages/conditions/Fibromyalgia.tsx",
+  "src/pages/conditions/Gout.tsx",
+  "src/pages/conditions/JuvenileArthritis.tsx",
+  "src/pages/conditions/Lupus.tsx",
+  "src/pages/conditions/Osteoarthritis.tsx",
+  "src/pages/conditions/PsoriaticArthritis.tsx",
+  "src/pages/conditions/RheumatoidArthritis.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 28,
+ "ms": 395937
+}

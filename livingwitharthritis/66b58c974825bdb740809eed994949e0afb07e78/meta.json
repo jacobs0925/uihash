@@ -1,0 +1,32 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "66b58c974825bdb740809eed994949e0afb07e78",
+ "parent": "e9af732f85fdc307a55fb4e57f8e36097d245bc4",
+ "date": "2026-05-09",
+ "subject": "Added AI trust & safety layer",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/components/ChatBot.tsx",
+  "src/components/Footer.tsx",
+  "src/components/ai/AiConsentModal.tsx",
+  "src/components/ai/AiDisclosureBadge.tsx",
+  "src/components/ai/AiSourcesList.tsx",
+  "src/components/ai/ClinicalReviewBadge.tsx",
+  "src/components/ai/EmergencyRedirectDialog.tsx",
+  "src/pages/AISafety.tsx",
+  "src/pages/DietHub.tsx",
+  "src/pages/SelfHelpTool.tsx",
+  "supabase/functions/_shared/ai-safety.ts",
+  "supabase/functions/chat/index.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 11,
+ "ms": 204761
+}

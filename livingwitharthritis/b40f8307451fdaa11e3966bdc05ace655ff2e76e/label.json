@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "b40f8307451fdaa11e3966bdc05ace655ff2e76e",
+ "date": "2026-05-12",
+ "pr": null,
+ "title": "Updated donation presets",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1273 later commits"
+}

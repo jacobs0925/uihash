@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "66b58c974825bdb740809eed994949e0afb07e78",
+ "date": "2026-05-09",
+ "pr": null,
+ "title": "Added AI trust & safety layer",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1284 later commits"
+}

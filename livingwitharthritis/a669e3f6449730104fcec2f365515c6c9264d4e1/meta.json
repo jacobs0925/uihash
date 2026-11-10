@@ -1,0 +1,33 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "a669e3f6449730104fcec2f365515c6c9264d4e1",
+ "parent": "2c87f147972c0a86d3df0c302b1d1f06ad0a495d",
+ "date": "2026-05-10",
+ "subject": "Added triage/new user DB",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/App.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/pages/Buddy.tsx",
+  "src/pages/BuddyMatch.tsx",
+  "src/pages/NewsletterConfirm.tsx",
+  "src/pages/SelfAssessment.tsx",
+  "supabase/functions/confirm-newsletter/index.ts",
+  "supabase/functions/request-buddy-match/compatibility.ts",
+  "supabase/functions/request-buddy-match/index.ts",
+  "supabase/functions/submit-triage/index.ts",
+  "supabase/functions/submit-triage/scoring.ts",
+  "supabase/migrations/20260510083509_12f06653-9209-463b-997b-c66e2eed97cb.sql",
+  "supabase/migrations/20260510083528_6a8d1025-1383-46a8-8f9e-4f1a188cb13c.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 45618
+}

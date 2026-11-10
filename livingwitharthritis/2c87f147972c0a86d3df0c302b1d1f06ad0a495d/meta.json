@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "2c87f147972c0a86d3df0c302b1d1f06ad0a495d",
+ "parent": "5e1281a9ba79bac5cbe4de06fdb4d761316ff489",
+ "date": "2026-05-10",
+ "subject": "Added reload guard for broken modules",
+ "components": [
+  "main.tsx"
+ ],
+ "files": [
+  "src/main.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 44577
+}

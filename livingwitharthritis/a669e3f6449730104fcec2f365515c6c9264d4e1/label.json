@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "a669e3f6449730104fcec2f365515c6c9264d4e1",
+ "date": "2026-05-10",
+ "pr": null,
+ "title": "Added triage/new user DB",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1279 later commits"
+}

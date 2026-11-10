@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "dd8b958c1541ddf2c9cfc640822fac9df5eaec11",
+ "date": "2026-05-13",
+ "pr": null,
+ "title": "Wired up video modals",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1262 later commits"
+}

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "a1b4fac75bf75e0f741d2c165ade4d41ee8afc32",
+ "date": "2026-05-10",
+ "pr": null,
+ "title": "Integrated ConditionBlogStrip",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1275 later commits"
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "5e1281a9ba79bac5cbe4de06fdb4d761316ff489",
+ "parent": "84b89aec817e3ce1a2e77334ff18b7789b50a59c",
+ "date": "2026-05-10",
+ "subject": "Code edited in Lovable Code Editor",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 24,
+ "ms": 135678
+}

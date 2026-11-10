@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4bb2a56fd364dadf66d2dad5f6ff6a1bf23c82b8",
+ "parent": "37f514868eeb840de99bc0f4953d40365a6033ce",
+ "date": "2026-05-13",
+ "subject": "Fixed 2 of 3 SEO findings",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/Footer.tsx",
+  "src/components/landing/GeometricCubeSection.tsx",
+  "src/components/landing/ParticleNetworkSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 174308
+}

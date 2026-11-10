@@ -1,0 +1,26 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "cf2e1b828ac1be96886364141ad59b08e7045fae",
+ "parent": "4c369e5f3b1d4b5758fc8e7b078119336173ddcc",
+ "date": "2026-05-13",
+ "subject": "Fixed remaining SEO issues",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "index.html",
+  "public/llms.txt",
+  "public/sitemap.xml",
+  "src/pages/AboutUs.tsx",
+  "src/pages/ExpertArticles.tsx",
+  "src/pages/FAQ.tsx",
+  "src/pages/ImpactStories.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 6,
+ "ms": 72875
+}

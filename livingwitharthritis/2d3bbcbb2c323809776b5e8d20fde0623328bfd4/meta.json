@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "2d3bbcbb2c323809776b5e8d20fde0623328bfd4",
+ "parent": "fa9dadfaf1c973d57bb29c371c6063258a3c0746",
+ "date": "2026-05-13",
+ "subject": "Re-enabled donation toast",
+ "components": [
+  "App.tsx"
+ ],
+ "files": [
+  "src/App.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 43310
+}

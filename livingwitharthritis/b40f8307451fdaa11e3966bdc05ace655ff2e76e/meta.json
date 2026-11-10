@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "b40f8307451fdaa11e3966bdc05ace655ff2e76e",
+ "parent": "dd546cfd5a3a66567314e70faa2ab695bee406d6",
+ "date": "2026-05-12",
+ "subject": "Updated donation presets",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/components/DonationQuickBar.tsx",
+  "src/pages/Donate.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 9,
+ "ms": 73048
+}

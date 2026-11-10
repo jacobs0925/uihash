@@ -1,0 +1,24 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "4fc8918a5b5aaa443c69ee0805f5caec85c52213",
+ "parent": "2b4a12b8c0fcd9921a0c66397edc4b7ec0687fb2",
+ "date": "2026-05-10",
+ "subject": "Fixed arthritis blog rendering",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/data/blogRedirects.ts",
+  "src/hooks/useBlogArticles.ts",
+  "src/pages/BlogCategory.tsx",
+  "src/pages/BlogIndex.tsx",
+  "src/pages/BlogPost.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 121346
+}

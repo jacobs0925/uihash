@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "0524277990a8302173bdd2d64612d35e1e0f5d66",
+ "parent": "caa34a88d31f4b8460fa90e948f65e57620405f1",
+ "date": "2026-05-13",
+ "subject": "Fixed slow homepage hero load",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 54698
+}

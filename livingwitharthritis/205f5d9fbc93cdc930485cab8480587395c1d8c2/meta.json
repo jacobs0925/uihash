@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "205f5d9fbc93cdc930485cab8480587395c1d8c2",
+ "parent": "66b58c974825bdb740809eed994949e0afb07e78",
+ "date": "2026-05-09",
+ "subject": "Cached `scrollHeight` lookup",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/ExitIntentModal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 42597
+}

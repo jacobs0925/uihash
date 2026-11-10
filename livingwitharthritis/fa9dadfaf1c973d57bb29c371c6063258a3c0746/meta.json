@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "fa9dadfaf1c973d57bb29c371c6063258a3c0746",
+ "parent": "ca44a8f3d5212c3ce766ef34b985c9e27eca42fd",
+ "date": "2026-05-13",
+ "subject": "Added captions to videos",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/pages/exercises/TaiChiForArthritis.tsx",
+  "src/pages/exercises/TaiChiForBalance.tsx",
+  "src/pages/exercises/TaiChiForBeginners.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 9,
+ "ms": 98980
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "37f514868eeb840de99bc0f4953d40365a6033ce",
+ "parent": "2d3bbcbb2c323809776b5e8d20fde0623328bfd4",
+ "date": "2026-05-13",
+ "subject": "Fixed 3 SEO findings",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "public/sitemap.xml",
+  "src/pages/ExerciseHub.tsx",
+  "src/pages/ProductDetail.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 60327
+}

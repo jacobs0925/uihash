@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "08555a26e78015c7bfa4ffb4b616afb980ce1a65",
+ "parent": "c82223a915c9839322609d78c50047255e4867d8",
+ "date": "2026-05-13",
+ "subject": "Added arthritis FAQs",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/pages/exercises/SeatedTaiChiForArthritis.tsx",
+  "src/pages/exercises/TaiChiForArthritis.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 16,
+ "ms": 80748
+}

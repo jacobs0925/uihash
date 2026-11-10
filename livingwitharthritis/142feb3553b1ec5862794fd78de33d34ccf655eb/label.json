@@ -5,8 +5,8 @@
  "date": "2026-05-05",
  "pr": null,
  "title": "Added donate bar & Zakat section",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1312 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "max-width: 768px → 1024px undone by 4c369e5f \"Added Donate modal flow\"; max-width: 768px → 1024px undone by 4c369e5f \"Added Donate modal flow\"; max-width: 768px → 1024px undone by 4c369e5f \"Added Donate modal flow\""
 }

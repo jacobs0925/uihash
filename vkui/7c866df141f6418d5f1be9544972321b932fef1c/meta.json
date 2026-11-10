@@ -1,0 +1,44 @@
+{
+ "repo": "vkui",
+ "sha": "7c866df141f6418d5f1be9544972321b932fef1c",
+ "parent": "69f787eac62964673a1067d6781f547b46be0d78",
+ "date": "2026-11-10",
+ "subject": "feat(Alert): sync vkcom and android platforms (#10032)",
+ "pr": "10032",
+ "components": [
+  "Alert"
+ ],
+ "files": [
+  "packages/vkui/src/components/Alert/Alert.module.css",
+  "packages/vkui/src/components/Alert/Alert.test.tsx",
+  "packages/vkui/src/components/Alert/AlertAction.tsx",
+  "packages/vkui/src/components/Alert/AlertActions.tsx",
+  "packages/vkui/src/components/Alert/AlertBase.tsx",
+  "packages/vkui/src/components/Alert/AlertTypography.tsx",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-desktop-vkcom-chromium-dark-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-desktop-vkcom-chromium-light-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-desktop-vkcom-firefox-dark-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-desktop-vkcom-firefox-light-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-desktop-vkcom-webkit-dark-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-desktop-vkcom-webkit-light-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-long-word-vkcom-chromium-light-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-long-word-vkcom-firefox-light-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-long-word-vkcom-webkit-light-1-snap.webp"
+ ],
+ "snapshotsUpdated": [
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-desktop-vkcom-chromium-dark-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-desktop-vkcom-chromium-light-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-desktop-vkcom-firefox-dark-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-desktop-vkcom-firefox-light-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-desktop-vkcom-webkit-dark-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-desktop-vkcom-webkit-light-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-long-word-vkcom-chromium-light-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-long-word-vkcom-firefox-light-1-snap.webp",
+  "packages/vkui/src/components/Alert/__image_snapshots__/alert-long-word-vkcom-webkit-light-1-snap.webp"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 3,
+ "ms": 84659
+}

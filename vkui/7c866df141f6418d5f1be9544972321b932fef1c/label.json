@@ -1,0 +1,12 @@
+{
+ "app": "vkui",
+ "group": "vkui",
+ "sha": "7c866df141f6418d5f1be9544972321b932fef1c",
+ "date": "2026-11-10",
+ "pr": "10032",
+ "title": "feat(Alert): sync vkcom and android platforms (#10032)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "9 visual-test baselines updated"
+}

@@ -1,0 +1,36 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "1e10b02c145c8798649d2fd4e6c3b19a4810fa6b",
+ "parent": "d8a2639a4586932e95e81827cfebecb2ba6344df",
+ "date": "2026-05-03",
+ "subject": "Used AI to generate 15 clips",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "public/exercise-videos/exercise-ankle.mp4.asset.json",
+  "public/exercise-videos/exercise-chair.mp4.asset.json",
+  "public/exercise-videos/exercise-elbow.mp4.asset.json",
+  "public/exercise-videos/exercise-hand.mp4.asset.json",
+  "public/exercise-videos/exercise-hip.mp4.asset.json",
+  "public/exercise-videos/exercise-knee.mp4.asset.json",
+  "public/exercise-videos/exercise-neck.mp4.asset.json",
+  "public/exercise-videos/exercise-shoulder.mp4.asset.json",
+  "public/exercise-videos/exercise-spine.mp4.asset.json",
+  "public/exercise-videos/exercise-wrist.mp4.asset.json",
+  "public/exercise-videos/tai-chi-brush-knee.mp4.asset.json",
+  "public/exercise-videos/tai-chi-closing-posture.mp4.asset.json",
+  "public/exercise-videos/tai-chi-cloud-hands.mp4.asset.json",
+  "public/exercise-videos/tai-chi-rooted-stance.mp4.asset.json",
+  "public/exercise-videos/tai-chi-weight-shift.mp4.asset.json",
+  "src/components/exercises/ExerciseAnimations.tsx",
+  "src/components/exercises/ExerciseVideo.tsx",
+  "src/components/exercises/TaiChiAnimations.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 1,
+ "ms": 293183
+}

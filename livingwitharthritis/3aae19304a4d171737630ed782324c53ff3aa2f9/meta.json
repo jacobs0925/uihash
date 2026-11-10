@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "3aae19304a4d171737630ed782324c53ff3aa2f9",
+ "parent": "9b9df3ae98baab10b4408fb7bcd1c743cbf5af12",
+ "date": "2026-05-04",
+ "subject": "Simplified and cleaned layout",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 12,
+ "ms": 303817
+}

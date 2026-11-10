@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "991b0a344d745b33df1182a8a0781865ab4b432b",
+ "parent": "7eecf447685520ac577a8d41e3399df64664044a",
+ "date": "2026-05-05",
+ "subject": "Moved donation bar to header",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/Header.tsx",
+  "src/pages/Donate.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 7,
+ "ms": 216604
+}

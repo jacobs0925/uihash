@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "e9bf1cd022e6aec5fc44e998b6677fbd2b7a3511",
+ "date": "2026-05-04",
+ "pr": null,
+ "title": "Improved social-proof a11y",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1315 later commits"
+}

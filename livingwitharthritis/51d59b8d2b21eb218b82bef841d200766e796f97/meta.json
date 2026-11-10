@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "51d59b8d2b21eb218b82bef841d200766e796f97",
+ "parent": "6fa58c4674aa6efdd388c9dc1d05233fc8725d6d",
+ "date": "2026-05-03",
+ "subject": "Added colourful mosaic section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/ColourMosaic.tsx",
+  "src/components/landing/IntentChooser.tsx",
+  "src/components/landing/TriageSection.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 11,
+ "ms": 290564
+}

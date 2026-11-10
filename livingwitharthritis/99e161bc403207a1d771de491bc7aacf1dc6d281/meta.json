@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "99e161bc403207a1d771de491bc7aacf1dc6d281",
+ "parent": "9d4c9fc0a36a288c5c16e4116dd1f778c6107f20",
+ "date": "2026-05-04",
+ "subject": "Added mission statement band",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/MissionStatementBand.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 311176
+}

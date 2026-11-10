@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "7eecf447685520ac577a8d41e3399df64664044a",
+ "parent": "73c7eef6c5b5426ed3f91b3756d68bb3950b0774",
+ "date": "2026-05-05",
+ "subject": "Updated Donation QuickBar color",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationQuickBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 67059
+}

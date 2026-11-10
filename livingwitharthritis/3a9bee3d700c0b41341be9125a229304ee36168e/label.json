@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "3a9bee3d700c0b41341be9125a229304ee36168e",
+ "date": "2026-05-04",
+ "pr": null,
+ "title": "Fixed sitemap Google redirect",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Sitemap\" → \"Site Index\" undone by d9311b29 \"Renamed page title to Sitemap\"; text: \"Sitemap\" → \"Site Index\" undone by d9311b29 \"Renamed page title to Sitemap\"; text: \"Sitemap\" → \"Site Index\" undone by d9311b29 \"Renamed page title to Sitemap\""
+}

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "f46b0808f6809b5a11d9d10a98c65c59f9e304ed",
+ "date": "2026-05-05",
+ "pr": null,
+ "title": "Unified contact email config",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1312 later commits"
+}

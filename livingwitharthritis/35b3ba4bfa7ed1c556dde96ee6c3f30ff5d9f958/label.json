@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "35b3ba4bfa7ed1c556dde96ee6c3f30ff5d9f958",
+ "date": "2026-05-04",
+ "pr": null,
+ "title": "Added hero render monitoring",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1314 later commits"
+}

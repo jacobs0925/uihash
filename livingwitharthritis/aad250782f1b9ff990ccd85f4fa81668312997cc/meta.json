@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "aad250782f1b9ff990ccd85f4fa81668312997cc",
+ "parent": "144f080d4367b4aa15b87b7269b7c04ad33596d6",
+ "date": "2026-05-03",
+ "subject": "Added animated tai chi demos",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/exercises/TaiChiAnimations.tsx",
+  "src/pages/exercises/TaiChiForBalance.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 14,
+ "ms": 467825
+}

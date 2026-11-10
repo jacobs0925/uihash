@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "0acfd53b867f924ecd02a9c1ea6b656366363125",
+ "date": "2026-05-04",
+ "pr": null,
+ "title": "Adjusted hero and background",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "background-color: rgb(255, 255, 255) → rgb(248, 246, 241) undone by efc1db7d \"Made the requested updates\"; background-color: rgb(255, 255, 255) → rgb(248, 246, 241) undone by efc1db7d \"Made the requested updates\"; stroke: rgb(255, 255, 255) → rgb(248, 246, 241) undone by efc1db7d \"Made the requested updates\""
+}

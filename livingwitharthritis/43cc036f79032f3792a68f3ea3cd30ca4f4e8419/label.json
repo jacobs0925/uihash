@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "43cc036f79032f3792a68f3ea3cd30ca4f4e8419",
+ "date": "2026-05-05",
+ "pr": null,
+ "title": "Changed button to bright red",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1304 later commits"
+}

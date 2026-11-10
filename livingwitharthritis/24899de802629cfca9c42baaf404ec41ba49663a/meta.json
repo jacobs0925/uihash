@@ -1,0 +1,26 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "24899de802629cfca9c42baaf404ec41ba49663a",
+ "parent": "4cf3d1f0a4f3a349b4237b04b508336832ee1650",
+ "date": "2026-05-06",
+ "subject": "Added admin email dashboard",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/App.tsx",
+  "src/pages/AdminDashboard.tsx",
+  "src/pages/AdminEmails.tsx",
+  "supabase/functions/auth-email-hook/index.ts",
+  "supabase/functions/send-transactional-email/index.ts",
+  "supabase/migrations/20260506144556_1cd7f9cb-94ba-4c8e-9150-8cea69051836.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 67051
+}

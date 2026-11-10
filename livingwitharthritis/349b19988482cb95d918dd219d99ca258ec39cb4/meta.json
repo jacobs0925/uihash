@@ -1,0 +1,28 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "349b19988482cb95d918dd219d99ca258ec39cb4",
+ "parent": "db41fed6a41c2f499b78cab04b82204f48424715",
+ "date": "2026-05-03",
+ "subject": "Added contextual links to pages",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/ContextualLinks.tsx",
+  "src/components/conditions/ConditionPageTemplate.tsx",
+  "src/pages/ArthritisFlareUps.tsx",
+  "src/pages/CommunityHub.tsx",
+  "src/pages/DietHub.tsx",
+  "src/pages/ExerciseHub.tsx",
+  "src/pages/conditions/Osteoarthritis.tsx",
+  "src/pages/conditions/PsoriaticArthritis.tsx",
+  "src/pages/conditions/RheumatoidArthritis.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 27,
+ "ms": 563652
+}

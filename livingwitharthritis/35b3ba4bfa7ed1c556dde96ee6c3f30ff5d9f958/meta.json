@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "35b3ba4bfa7ed1c556dde96ee6c3f30ff5d9f958",
+ "parent": "e9bf1cd022e6aec5fc44e998b6677fbd2b7a3511",
+ "date": "2026-05-04",
+ "subject": "Added hero render monitoring",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx",
+  "src/lib/heroLayoutMonitor.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 73646
+}

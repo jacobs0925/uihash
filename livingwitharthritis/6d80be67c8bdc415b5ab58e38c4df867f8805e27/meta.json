@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "6d80be67c8bdc415b5ab58e38c4df867f8805e27",
+ "parent": "142feb3553b1ec5862794fd78de33d34ccf655eb",
+ "date": "2026-05-05",
+ "subject": "Replaced donation bar pattern",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DonationQuickBar.tsx",
+  "src/pages/Donate.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 7,
+ "ms": 127997
+}

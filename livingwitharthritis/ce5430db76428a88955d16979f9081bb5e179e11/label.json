@@ -5,8 +5,8 @@
  "date": "2026-03-08",
  "pr": null,
  "title": "Full-width layout and speedup",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1771 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "margin-right: 0px → auto undone by 1ce2b5b6 \"Fixed hero clipping & UX\"; margin-left: 0px → auto undone by 1ce2b5b6 \"Fixed hero clipping & UX\""
 }

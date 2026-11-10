@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "73c7eef6c5b5426ed3f91b3756d68bb3950b0774",
+ "date": "2026-05-05",
+ "pr": null,
+ "title": "Removed donation banner",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1307 later commits"
+}

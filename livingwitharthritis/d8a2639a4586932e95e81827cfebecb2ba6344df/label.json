@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "d8a2639a4586932e95e81827cfebecb2ba6344df",
+ "date": "2026-05-03",
+ "pr": null,
+ "title": "Added cinematic 3D-feel libs",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1345 later commits"
+}

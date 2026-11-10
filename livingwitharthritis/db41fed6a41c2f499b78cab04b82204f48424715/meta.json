@@ -1,0 +1,29 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "db41fed6a41c2f499b78cab04b82204f48424715",
+ "parent": "e2f3e7ed0cc52070157179b87c3b2c9bc7cc4060",
+ "date": "2026-05-03",
+ "subject": "Created arthritis condition pages",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/sitemap.xml",
+  "src/App.tsx",
+  "src/components/Header.tsx",
+  "src/components/conditions/ConditionPageTemplate.tsx",
+  "src/pages/conditions/AnkylosingSpondylitis.tsx",
+  "src/pages/conditions/Fibromyalgia.tsx",
+  "src/pages/conditions/Gout.tsx",
+  "src/pages/conditions/JuvenileArthritis.tsx",
+  "src/pages/conditions/Lupus.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 296301
+}

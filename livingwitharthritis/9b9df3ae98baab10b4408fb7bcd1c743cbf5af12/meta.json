@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "9b9df3ae98baab10b4408fb7bcd1c743cbf5af12",
+ "parent": "cac735267d3be56865628459a2fd8eef515dfc13",
+ "date": "2026-05-04",
+ "subject": "Added Editorial Index band",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/EditorialIndex.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 5,
+ "ms": 322941
+}

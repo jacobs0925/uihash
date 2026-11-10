@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "aad250782f1b9ff990ccd85f4fa81668312997cc",
+ "date": "2026-05-03",
+ "pr": null,
+ "title": "Added animated tai chi demos",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1348 later commits"
+}

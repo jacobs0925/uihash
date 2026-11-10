@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "3aae19304a4d171737630ed782324c53ff3aa2f9",
+ "date": "2026-05-04",
+ "pr": null,
+ "title": "Simplified and cleaned layout",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1321 later commits"
+}

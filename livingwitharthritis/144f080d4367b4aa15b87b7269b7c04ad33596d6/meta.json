@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "144f080d4367b4aa15b87b7269b7c04ad33596d6",
+ "parent": "b26d37a18b91c6de2282300d739b6ad66805fec7",
+ "date": "2026-05-03",
+ "subject": "Created Tai Chi for Balance page",
+ "components": [
+  "App.tsx",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/pages/ExerciseHub.tsx",
+  "src/pages/exercises/TaiChiForBalance.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 301476
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "bb44c3db73ea477fd87ebd7792c6c60fcf6274f1",
+ "parent": "7abb8c7bd226ce08846bb7c65db46f185f124bf1",
+ "date": "2026-05-03",
+ "subject": "Enhanced humanoid animations",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/exercises/TaiChiAnimations.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 295477
+}

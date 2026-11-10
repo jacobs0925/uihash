@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "ceb5d99a2d8bcc1073dd2c56ee542c487092d2da",
+ "parent": "880ea6ac1697838046ea4f20dfea9355d4024de9",
+ "date": "2026-05-04",
+ "subject": "Added Featured Story section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/FeaturedStoryBand.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 11,
+ "ms": 292489
+}

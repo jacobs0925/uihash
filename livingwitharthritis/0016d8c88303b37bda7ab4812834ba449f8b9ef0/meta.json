@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "0016d8c88303b37bda7ab4812834ba449f8b9ef0",
+ "parent": "6d80be67c8bdc415b5ab58e38c4df867f8805e27",
+ "date": "2026-05-05",
+ "subject": "Removed donation strip text",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationBanner.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 176221
+}

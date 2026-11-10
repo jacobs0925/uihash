@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "ae74d5c9c78cd91f859fd1adb0f9e81a9cf7a16d",
+ "date": "2026-05-04",
+ "pr": null,
+ "title": "Added active section nav",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1326 later commits"
+}

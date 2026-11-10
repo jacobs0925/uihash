@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "d4a416f255b4568140c155c51e7fd3013b0971d0",
+ "date": "2026-05-04",
+ "pr": null,
+ "title": "Removed magazine masthead",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1318 later commits"
+}

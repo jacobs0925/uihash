@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "142feb3553b1ec5862794fd78de33d34ccf655eb",
+ "parent": "ae03d19e3175d81e3864ee1f91a6b9f0ee3b60f0",
+ "date": "2026-05-05",
+ "subject": "Added donate bar & Zakat section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/DonationQuickBar.tsx",
+  "src/pages/Donate.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 10,
+ "ms": 129479
+}

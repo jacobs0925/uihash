@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "cac735267d3be56865628459a2fd8eef515dfc13",
+ "date": "2026-05-04",
+ "pr": null,
+ "title": "Added FeaturedStory backend",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1323 later commits"
+}

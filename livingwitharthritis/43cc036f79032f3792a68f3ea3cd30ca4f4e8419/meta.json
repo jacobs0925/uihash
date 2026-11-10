@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "43cc036f79032f3792a68f3ea3cd30ca4f4e8419",
+ "parent": "991b0a344d745b33df1182a8a0781865ab4b432b",
+ "date": "2026-05-05",
+ "subject": "Changed button to bright red",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/DonationQuickBar.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 3,
+ "ms": 86551
+}

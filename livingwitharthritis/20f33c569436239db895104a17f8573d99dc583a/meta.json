@@ -1,0 +1,30 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "20f33c569436239db895104a17f8573d99dc583a",
+ "parent": "322d963ba1f9ce6db56f8987b35a026327bd3bd2",
+ "date": "2026-05-03",
+ "subject": "Enriched SEO keywords per page",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/AboutUs.tsx",
+  "src/pages/ArthritisFlareUps.tsx",
+  "src/pages/CommunityHub.tsx",
+  "src/pages/DietHub.tsx",
+  "src/pages/Donate.tsx",
+  "src/pages/ExerciseHub.tsx",
+  "src/pages/FAQ.tsx",
+  "src/pages/Index.tsx",
+  "src/pages/WaysToHelp.tsx",
+  "src/pages/conditions/Osteoarthritis.tsx",
+  "src/pages/conditions/PsoriaticArthritis.tsx",
+  "src/pages/conditions/RheumatoidArthritis.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 6,
+ "ms": 240053
+}

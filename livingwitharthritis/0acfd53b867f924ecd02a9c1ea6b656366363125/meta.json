@@ -1,0 +1,23 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "0acfd53b867f924ecd02a9c1ea6b656366363125",
+ "parent": "3aae19304a4d171737630ed782324c53ff3aa2f9",
+ "date": "2026-05-04",
+ "subject": "Adjusted hero and background",
+ "components": [
+  "components",
+  "index.css",
+  "pages"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx",
+  "src/index.css",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 78,
+ "ms": 404964
+}

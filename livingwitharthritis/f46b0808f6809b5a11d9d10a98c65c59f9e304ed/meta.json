@@ -1,0 +1,35 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f46b0808f6809b5a11d9d10a98c65c59f9e304ed",
+ "parent": "e8a0bc517bfd576ee93301072a60052012e3b91c",
+ "date": "2026-05-05",
+ "subject": "Unified contact email config",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/ExitIntentSuccess.tsx",
+  "src/components/landing/AISafetyExtras.tsx",
+  "src/components/landing/AITrustSection.tsx",
+  "src/components/landing/ContactSection.tsx",
+  "src/config/__tests__/contact.test.ts",
+  "src/config/contact.ts",
+  "src/pages/Accessibility.tsx",
+  "src/pages/Complaints.tsx",
+  "src/pages/CookiesPolicy.tsx",
+  "src/pages/Governance.tsx",
+  "src/pages/Index.tsx",
+  "src/pages/Partners.tsx",
+  "src/pages/Press.tsx",
+  "src/pages/PrivacyPolicy.tsx",
+  "src/pages/Safeguarding.tsx",
+  "src/pages/TermsConditions.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 18,
+ "findings": 3,
+ "ms": 103004
+}

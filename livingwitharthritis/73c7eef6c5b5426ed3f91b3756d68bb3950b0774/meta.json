@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "73c7eef6c5b5426ed3f91b3756d68bb3950b0774",
+ "parent": "0016d8c88303b37bda7ab4812834ba449f8b9ef0",
+ "date": "2026-05-05",
+ "subject": "Removed donation banner",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/Header.tsx",
+  "src/pages/ZakatAppeal.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 28,
+ "ms": 219547
+}

@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "7abb8c7bd226ce08846bb7c65db46f185f124bf1",
+ "parent": "aad250782f1b9ff990ccd85f4fa81668312997cc",
+ "date": "2026-05-03",
+ "subject": "Humanoidified stick figures",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/exercises/TaiChiAnimations.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 159217
+}

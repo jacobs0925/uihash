@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "6d80be67c8bdc415b5ab58e38c4df867f8805e27",
+ "date": "2026-05-05",
+ "pr": null,
+ "title": "Replaced donation bar pattern",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1309 later commits"
+}

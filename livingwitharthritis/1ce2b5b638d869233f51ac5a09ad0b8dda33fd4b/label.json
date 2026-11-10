@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "1ce2b5b638d869233f51ac5a09ad0b8dda33fd4b",
+ "date": "2026-05-04",
+ "pr": null,
+ "title": "Fixed hero clipping & UX",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "position: relative → ∅ undone by ae74d5c9 \"Added active section nav\"; position: relative → ∅ undone by ae74d5c9 \"Added active section nav\"; position: relative → ∅ undone by ae74d5c9 \"Added active section nav\""
+}

@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "880ea6ac1697838046ea4f20dfea9355d4024de9",
+ "parent": "ae74d5c9c78cd91f859fd1adb0f9e81a9cf7a16d",
+ "date": "2026-05-04",
+ "subject": "Added Impact Ledger section",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/ImpactLedger.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 6,
+ "ms": 288398
+}

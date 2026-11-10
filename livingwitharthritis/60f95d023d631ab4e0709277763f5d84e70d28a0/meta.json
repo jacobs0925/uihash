@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "60f95d023d631ab4e0709277763f5d84e70d28a0",
+ "parent": "ba70d0693147ca5de4db8ce730daa9bd53f2726f",
+ "date": "2026-05-04",
+ "subject": "Expanded AI Safety page content",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/AISafetyExtras.tsx",
+  "src/components/landing/AITrustSection.tsx",
+  "src/pages/AISafety.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 301780
+}

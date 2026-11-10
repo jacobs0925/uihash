@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "e8a0bc517bfd576ee93301072a60052012e3b91c",
+ "parent": "35b3ba4bfa7ed1c556dde96ee6c3f30ff5d9f958",
+ "date": "2026-05-04",
+ "subject": "Updated complaints email",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "src/pages/Complaints.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 5,
+ "ms": 82758
+}

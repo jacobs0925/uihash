@@ -1,0 +1,24 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "d8a2639a4586932e95e81827cfebecb2ba6344df",
+ "parent": "bb44c3db73ea477fd87ebd7792c6c60fcf6274f1",
+ "date": "2026-05-03",
+ "subject": "Added cinematic 3D-feel libs",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/JointExerciseSection.tsx",
+  "src/components/exercises/CinematicHumanoid.tsx",
+  "src/components/exercises/ExerciseAnimations.tsx",
+  "src/components/exercises/TaiChiAnimations.tsx",
+  "src/pages/ExerciseHub.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 312616
+}

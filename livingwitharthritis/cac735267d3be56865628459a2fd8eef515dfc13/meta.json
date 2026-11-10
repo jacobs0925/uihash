@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "cac735267d3be56865628459a2fd8eef515dfc13",
+ "parent": "ceb5d99a2d8bcc1073dd2c56ee542c487092d2da",
+ "date": "2026-05-04",
+ "subject": "Added FeaturedStory backend",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/FeaturedStoryBand.tsx",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260504134943_16efd396-037e-4f0e-bbd0-863a2c1f5b7e.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 9,
+ "ms": 319926
+}

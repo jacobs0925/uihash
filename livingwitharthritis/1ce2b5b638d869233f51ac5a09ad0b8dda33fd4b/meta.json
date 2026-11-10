@@ -1,0 +1,26 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "1ce2b5b638d869233f51ac5a09ad0b8dda33fd4b",
+ "parent": "d4a416f255b4568140c155c51e7fd3013b0971d0",
+ "date": "2026-05-04",
+ "subject": "Fixed hero clipping & UX",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/App.tsx",
+  "src/components/DonationBanner.tsx",
+  "src/components/Header.tsx",
+  "src/components/HeroSection.tsx",
+  "src/components/landing/CookieBanner.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 25,
+ "ms": 217693
+}

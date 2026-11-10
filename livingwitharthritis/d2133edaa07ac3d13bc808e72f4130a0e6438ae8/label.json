@@ -5,8 +5,8 @@
  "date": "2026-04-23",
  "pr": null,
  "title": "Refined hero and section spacing",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1429 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.85,
+ "evidence": "padding-top: 20px → 24px undone by 1ce2b5b6 \"Fixed hero clipping & UX\"; padding-bottom: 20px → 24px undone by 1ce2b5b6 \"Fixed hero clipping & UX\"; padding-top: 64px → 112px undone by 9d4c9fc0 \"Polished hero to magazine style\""
 }

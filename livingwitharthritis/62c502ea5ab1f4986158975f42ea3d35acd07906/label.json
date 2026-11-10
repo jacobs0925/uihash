@@ -5,8 +5,8 @@
  "date": "2026-03-08",
  "pr": null,
  "title": "Build Trust & Resources Hub",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 1758 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "outline-style: ∅ → solid undone by db41fed6 \"Created arthritis condition pages\"; border-top-left-radius: 9999px → 4px undone by db41fed6 \"Created arthritis condition pages\"; border-top-right-radius: 9999px → 4px undone by db41fed6 \"Created arthritis condition pages\""
 }

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "5a7db904df2c3bb27722cf4aa92bc80145369635",
+ "date": "2026-05-03",
+ "pr": null,
+ "title": "Removed all NHS strings",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1351 later commits"
+}

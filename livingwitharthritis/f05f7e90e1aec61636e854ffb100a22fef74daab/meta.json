@@ -1,0 +1,21 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f05f7e90e1aec61636e854ffb100a22fef74daab",
+ "parent": "1ce2b5b638d869233f51ac5a09ad0b8dda33fd4b",
+ "date": "2026-05-04",
+ "subject": "Added aggregated social proof",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/landing/AggregatedSocialProof.tsx",
+  "src/pages/Index.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 176426
+}

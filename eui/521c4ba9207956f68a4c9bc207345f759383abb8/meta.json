@@ -1,0 +1,51 @@
+{
+ "repo": "eui",
+ "sha": "521c4ba9207956f68a4c9bc207345f759383abb8",
+ "parent": "9b2996823e604deac4da134f064e3ef557a88a4b",
+ "date": "2026-11-10",
+ "subject": "EuiBadge primary color option and EuiFilterButton use it by default (#10237)",
+ "pr": "10237",
+ "components": [
+  "badge"
+ ],
+ "files": [
+  "packages/eui/.vrt/reference/forms-euifilterbutton--full-width-and-grow-desktop.png",
+  "packages/eui/.vrt/reference/forms-euifilterbutton--full-width-and-grow-mobile.png",
+  "packages/eui/.vrt/reference/forms-euifilterbutton--high-contrast-desktop.png",
+  "packages/eui/.vrt/reference/forms-euifilterbutton--high-contrast-mobile.png",
+  "packages/eui/.vrt/reference/forms-euifilterbutton--playground-desktop.png",
+  "packages/eui/.vrt/reference/forms-euifilterbutton--playground-mobile.png",
+  "packages/eui/.vrt/reference/forms-euifiltergroup--multiple-popovers-desktop.png",
+  "packages/eui/.vrt/reference/forms-euifiltergroup--multiple-popovers-mobile.png",
+  "packages/eui/.vrt/reference/forms-euifiltergroup--playground-desktop.png",
+  "packages/eui/.vrt/reference/forms-euifiltergroup--playground-mobile.png",
+  "packages/eui/.vrt/reference/forms-euifiltergroup--with-popover-desktop.png",
+  "packages/eui/.vrt/reference/forms-euifiltergroup--with-popover-mobile.png",
+  "packages/eui/changelogs/upcoming/10237.md",
+  "packages/eui/src/components/badge/notification_badge/__snapshots__/badge_notification.test.tsx.snap",
+  "packages/eui/src/components/badge/notification_badge/badge_notification.styles.ts",
+  "packages/eui/src/components/badge/notification_badge/badge_notification.tsx",
+  "packages/eui/src/components/filter_group/__snapshots__/filter_button.test.tsx.snap",
+  "packages/eui/src/components/filter_group/filter_button.stories.tsx",
+  "packages/eui/src/components/filter_group/filter_button.tsx"
+ ],
+ "snapshotsUpdated": [
+  "packages/eui/.vrt/reference/forms-euifilterbutton--full-width-and-grow-desktop.png",
+  "packages/eui/.vrt/reference/forms-euifilterbutton--full-width-and-grow-mobile.png",
+  "packages/eui/.vrt/reference/forms-euifilterbutton--high-contrast-desktop.png",
+  "packages/eui/.vrt/reference/forms-euifilterbutton--high-contrast-mobile.png",
+  "packages/eui/.vrt/reference/forms-euifilterbutton--playground-desktop.png",
+  "packages/eui/.vrt/reference/forms-euifilterbutton--playground-mobile.png",
+  "packages/eui/.vrt/reference/forms-euifiltergroup--multiple-popovers-desktop.png",
+  "packages/eui/.vrt/reference/forms-euifiltergroup--multiple-popovers-mobile.png",
+  "packages/eui/.vrt/reference/forms-euifiltergroup--playground-desktop.png",
+  "packages/eui/.vrt/reference/forms-euifiltergroup--playground-mobile.png",
+  "packages/eui/.vrt/reference/forms-euifiltergroup--with-popover-desktop.png",
+  "packages/eui/.vrt/reference/forms-euifiltergroup--with-popover-mobile.png"
+ ],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 15,
+ "findings": 0,
+ "ms": 187977
+}

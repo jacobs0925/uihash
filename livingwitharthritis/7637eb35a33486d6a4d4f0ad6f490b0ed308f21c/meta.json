@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "7637eb35a33486d6a4d4f0ad6f490b0ed308f21c",
+ "parent": "0b9c232dbe9f0fa0ca54469a52af48bcd76ec4c5",
+ "date": "2026-05-09",
+ "subject": "Enabled pedometer tablist",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/components/pedometer/PedometerApp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 97090
+}

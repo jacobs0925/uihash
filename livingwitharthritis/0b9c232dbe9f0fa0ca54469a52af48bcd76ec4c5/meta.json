@@ -1,0 +1,25 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "0b9c232dbe9f0fa0ca54469a52af48bcd76ec4c5",
+ "parent": "584412802791ccb22c068cc899596be4f245fe27",
+ "date": "2026-05-07",
+ "subject": "Added pedometer page and route",
+ "components": [
+  "App.tsx",
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "public/sitemap.xml",
+  "src/App.tsx",
+  "src/components/pedometer/PedometerApp.tsx",
+  "src/pages/Pedometer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 54173
+}

@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "f3e6cb107daf8a99dfd63cbdbfd3dd4a6b9d2b8b",
+ "date": "2026-05-07",
+ "pr": null,
+ "title": "Added data layer to Faces",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1298 later commits"
+}

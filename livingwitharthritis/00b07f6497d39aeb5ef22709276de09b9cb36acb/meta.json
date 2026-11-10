@@ -1,0 +1,19 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "00b07f6497d39aeb5ef22709276de09b9cb36acb",
+ "parent": "695579dc4efbfee6a523e98a29f34a9d3afd2a03",
+ "date": "2026-05-06",
+ "subject": "Widened image column to 6 cols",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/HeroSection.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 8,
+ "ms": 157954
+}

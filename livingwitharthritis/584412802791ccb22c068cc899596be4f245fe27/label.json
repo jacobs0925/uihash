@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "584412802791ccb22c068cc899596be4f245fe27",
+ "date": "2026-05-07",
+ "pr": null,
+ "title": "Removed Impact Ledger section",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1297 later commits"
+}

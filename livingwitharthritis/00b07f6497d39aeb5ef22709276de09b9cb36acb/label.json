@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "00b07f6497d39aeb5ef22709276de09b9cb36acb",
+ "date": "2026-05-06",
+ "pr": null,
+ "title": "Widened image column to 6 cols",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1300 later commits"
+}

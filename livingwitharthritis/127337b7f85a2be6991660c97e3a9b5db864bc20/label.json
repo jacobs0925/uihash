@@ -1,0 +1,12 @@
+{
+ "app": "livingwitharthritis",
+ "group": "livingwitharthritis",
+ "sha": "127337b7f85a2be6991660c97e3a9b5db864bc20",
+ "date": "2026-05-09",
+ "pr": null,
+ "title": "Added GA4 pedometer events",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 1291 later commits"
+}

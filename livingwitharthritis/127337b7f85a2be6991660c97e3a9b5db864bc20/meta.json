@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "127337b7f85a2be6991660c97e3a9b5db864bc20",
+ "parent": "7278cd44bbae0ed61b62cada20a49f8c4c84eb03",
+ "date": "2026-05-09",
+ "subject": "Added GA4 pedometer events",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/components/pedometer/PedometerApp.tsx",
+  "src/pages/Pedometer.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 3,
+ "ms": 68477
+}

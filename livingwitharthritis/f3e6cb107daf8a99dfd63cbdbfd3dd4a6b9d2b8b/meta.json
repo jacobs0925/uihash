@@ -1,0 +1,22 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "f3e6cb107daf8a99dfd63cbdbfd3dd4a6b9d2b8b",
+ "parent": "874104bd4b0e47b4a1d7cb0e2cca0d94dac620f3",
+ "date": "2026-05-07",
+ "subject": "Added data layer to Faces",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/landing/PortraitGrid.tsx",
+  "src/hooks/useFacesOfArthritis.ts",
+  "src/integrations/supabase/types.ts",
+  "supabase/migrations/20260507203919_76b64565-f394-40fc-9bc2-8f1793fec99d.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 4,
+ "ms": 73884
+}

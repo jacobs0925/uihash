@@ -1,0 +1,20 @@
+{
+ "repo": "livingwitharthritis",
+ "sha": "c4e18b4ffb53295f891046a364ccae4e60436d69",
+ "parent": "127337b7f85a2be6991660c97e3a9b5db864bc20",
+ "date": "2026-05-09",
+ "subject": "Added streak widget to Today tab",
+ "components": [
+  "components"
+ ],
+ "files": [
+  ".lovable/plan.md",
+  "src/components/pedometer/PedometerApp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 2,
+ "ms": 57959
+}

@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components",
+ "group": "spectrum-web-components",
+ "sha": "1612540401dfbbbe25ecaf7438944a3df3b9fc6d",
+ "date": "2026-11-10",
+ "pr": "6911",
+ "title": "fix(progress-circle): derive ring radius from stroke thickness (#6911)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "**fix(progress-circle):** Fixed the `<swc-progress-circle>` rings so their outer edge always meets the edge of the circle. The ring radius now comes from the same thickness that draws the stroke. Before, the radius came from a fixed value per size, so `size=\"m\"` and `size=\"l\"` rings sat up to 1px in"
+}

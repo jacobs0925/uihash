@@ -1,0 +1,45 @@
+{
+ "repo": "metabase",
+ "sha": "d9091901991de56ed5e011cdd6f16f6f1f714e44",
+ "parent": "6006cc9c65ddc75fd44a2e27210269ceb03cb04e",
+ "date": "2026-11-12",
+ "subject": "UIT-168: Use the button blue for selected calendar days (#86782)",
+ "pr": "86782",
+ "components": [
+  "inputs/Calendar"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Date_Filter_Month_Year.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Date_Filter_Quarter_Year.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Date_Filter_Range.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Date_Filter_Single.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Date_Filter_Month_Year.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Date_Filter_Quarter_Year.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Date_Filter_Range.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Date_Filter_Single.png",
+  ".loki/reference/chrome_laptop_Components_Inputs_DatePicker_Dates_range.png",
+  ".loki/reference/chrome_laptop_Components_Inputs_DatePicker_Dates_range_SDK.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Specific_Between.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Specific_Between_Dark_Theme.png",
+  "frontend/src/metabase/ui/components/inputs/Calendar/Calendar.module.css"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Date_Filter_Month_Year.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Date_Filter_Quarter_Year.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Date_Filter_Range.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Dark_Theme_Date_Filter_Single.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Date_Filter_Month_Year.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Date_Filter_Quarter_Year.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Date_Filter_Range.png",
+  ".loki/reference/chrome_laptop_App_Embed_PublicOrEmbeddedDashboardView_filters_Light_Theme_Date_Filter_Single.png",
+  ".loki/reference/chrome_laptop_Components_Inputs_DatePicker_Dates_range.png",
+  ".loki/reference/chrome_laptop_Components_Inputs_DatePicker_Dates_range_SDK.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Specific_Between.png",
+  ".loki/reference/chrome_laptop_Components_Parameters_DatePicker_Specific_Between_Dark_Theme.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 91485
+}

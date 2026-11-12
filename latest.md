@@ -1,4 +1,4 @@
-### uihash learn · round 236 · 2026-11-12 01:02 UTC
+### uihash learn · round 237 · 2026-11-12 01:22 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
@@ -21,7 +21,7 @@
 | retail-ui | 40 | +0 | 3 | 10 | 2 | 25 | 3 |
 | fluentui | 47 | +0 | 0 | 13 | 0 | 34 | 12 |
 | spectrum-web-components-2nd-gen | 54 | +0 | 1 | 14 | 12 | 27 | 2 |
-| spectrum-web-components | 10 | +1 | 0 | 6 | 0 | 4 | 1 |
+| spectrum-web-components | 10 | +0 | 0 | 6 | 0 | 4 | 1 |
 | metabase | 83 | +0 | 1 | 24 | 19 | 39 | 6 |
 | porsche | 44 | +0 | 0 | 36 | 1 | 7 | 0 |
 

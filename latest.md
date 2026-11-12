@@ -1,9 +1,9 @@
-### uihash learn · round 239 · 2026-11-12 12:49 UTC
+### uihash learn · round 240 · 2026-11-12 13:07 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
 | el400 | 337 | +0 | 101 | 92 | 7 | 137 | 6 |
-| livingwitharthritis | 494 | +0 | 114 | 225 | 81 | 74 | 303 |
+| livingwitharthritis | 494 | +0 | 114 | 225 | 81 | 74 | 306 |
 | milk-me-not | 847 | +0 | 66 | 193 | 275 | 313 | 6 |
 | loyal-spark | 683 | +0 | 60 | 114 | 9 | 500 | 5 |
 | pronghorn | 1249 | +0 | 23 | 57 | 0 | 1169 | 11 |
@@ -22,7 +22,7 @@
 | fluentui | 47 | +0 | 0 | 13 | 0 | 34 | 12 |
 | spectrum-web-components-2nd-gen | 54 | +0 | 1 | 14 | 12 | 27 | 2 |
 | spectrum-web-components | 10 | +0 | 0 | 6 | 0 | 4 | 1 |
-| metabase | 84 | +1 | 1 | 24 | 19 | 40 | 6 |
+| metabase | 84 | +0 | 1 | 24 | 19 | 40 | 6 |
 | porsche | 44 | +0 | 0 | 36 | 1 | 7 | 0 |
 
 Held out of training and judged on: 69 regressions, 333 intended changes, 71 mixed. Trained on 1783 labelled commits, no synthetic PRs.

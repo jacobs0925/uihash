@@ -1,4 +1,4 @@
-### uihash learn · round 244 · 2026-11-13 06:50 UTC
+### uihash learn · round 245 · 2026-11-13 12:49 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | primer-react | 199 | +0 | 13 | 70 | 7 | 109 | 0 |
 | eui | 104 | +0 | 3 | 19 | 41 | 41 | 3 |
 | primer-brand | 108 | +0 | 2 | 61 | 19 | 26 | 0 |
-| siemens-ix | 0 | +0 | 0 | 0 | 0 | 0 | 98 |
+| siemens-ix | 0 | +0 | 0 | 0 | 0 | 0 | 100 |
 | vkui | 74 | +0 | 1 | 13 | 12 | 48 | 0 |
 | gravity-uikit | 79 | +0 | 2 | 14 | 24 | 39 | 12 |
 | fuselage | 35 | +0 | 2 | 24 | 1 | 8 | 3 |

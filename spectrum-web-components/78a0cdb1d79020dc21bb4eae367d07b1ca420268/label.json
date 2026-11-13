@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components",
+ "group": "spectrum-web-components",
+ "sha": "78a0cdb1d79020dc21bb4eae367d07b1ca420268",
+ "date": "2026-11-13",
+ "pr": "6914",
+ "title": "feat(radio-group): migrate swc-radio-group and swc-radio to gen2 (#6914)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "**feat(radio-group, text-field):** Added `<swc-radio-group>` and `<swc-radio>`, and aligned `<swc-text-field>` with the shared form-field behavior.\n\n- **Radio group**: Added `<swc-radio-group>` and `<swc-radio>`, the Spectrum 2 successors to `<sp-radio-group>` and `<sp-radio>`, with keyboard navigat"
+}

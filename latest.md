@@ -1,4 +1,4 @@
-### uihash learn · round 242 · 2026-11-13 01:03 UTC
+### uihash learn · round 243 · 2026-11-13 01:20 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | heartlines | 2534 | +0 | 174 | 210 | 36 | 2114 | 2 |
 | dapsiwow | 939 | +0 | 129 | 159 | 30 | 621 | 103 |
 | primer-react | 199 | +0 | 13 | 70 | 7 | 109 | 0 |
-| eui | 104 | +1 | 3 | 19 | 41 | 41 | 3 |
+| eui | 104 | +0 | 3 | 19 | 41 | 41 | 3 |
 | primer-brand | 108 | +0 | 2 | 61 | 19 | 26 | 0 |
 | siemens-ix | 0 | +0 | 0 | 0 | 0 | 0 | 98 |
 | vkui | 74 | +0 | 1 | 13 | 12 | 48 | 0 |

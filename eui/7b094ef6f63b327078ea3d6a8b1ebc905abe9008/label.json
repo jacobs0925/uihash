@@ -1,0 +1,12 @@
+{
+ "app": "eui",
+ "group": "eui",
+ "sha": "7b094ef6f63b327078ea3d6a8b1ebc905abe9008",
+ "date": "2026-11-13",
+ "pr": "10292",
+ "title": "[EuiModal] Increase close button inset from corner (#10292)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "16 visual-test baselines updated"
+}

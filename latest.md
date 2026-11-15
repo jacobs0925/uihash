@@ -1,9 +1,9 @@
-### uihash learn · round 253 · 2026-11-15 01:00 UTC
+### uihash learn · round 254 · 2026-11-15 06:46 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
 | el400 | 337 | +0 | 101 | 92 | 7 | 137 | 6 |
-| livingwitharthritis | 494 | +0 | 114 | 225 | 81 | 74 | 324 |
+| livingwitharthritis | 494 | +0 | 114 | 225 | 81 | 74 | 327 |
 | milk-me-not | 847 | +0 | 66 | 193 | 275 | 313 | 6 |
 | loyal-spark | 683 | +0 | 60 | 114 | 9 | 500 | 5 |
 | pronghorn | 1249 | +0 | 23 | 57 | 0 | 1169 | 11 |

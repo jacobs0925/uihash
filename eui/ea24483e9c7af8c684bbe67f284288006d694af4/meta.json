@@ -1,0 +1,27 @@
+{
+ "repo": "eui",
+ "sha": "ea24483e9c7af8c684bbe67f284288006d694af4",
+ "parent": "53bd1ad571b6eaef3c8478d3a64bf35f2c830c4b",
+ "date": "2026-11-16",
+ "subject": "[EuiFormRow] Align label and labelAppend to the bottom (#10293)",
+ "pr": "10293",
+ "components": [
+  "form"
+ ],
+ "files": [
+  "packages/eui/.vrt/reference/forms-euiform-euiformrow--tall-label-append-desktop.png",
+  "packages/eui/.vrt/reference/forms-euiform-euiformrow--tall-label-append-mobile.png",
+  "packages/eui/changelogs/upcoming/10293.md",
+  "packages/eui/src/components/form/form_row/form_row.stories.tsx",
+  "packages/eui/src/components/form/form_row/form_row.styles.ts"
+ ],
+ "snapshotsUpdated": [
+  "packages/eui/.vrt/reference/forms-euiform-euiformrow--tall-label-append-desktop.png",
+  "packages/eui/.vrt/reference/forms-euiform-euiformrow--tall-label-append-mobile.png"
+ ],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 72,
+ "findings": 1,
+ "ms": 259343
+}

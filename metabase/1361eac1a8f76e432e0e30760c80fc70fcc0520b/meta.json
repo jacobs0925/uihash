@@ -1,0 +1,32 @@
+{
+ "repo": "metabase",
+ "sha": "1361eac1a8f76e432e0e30760c80fc70fcc0520b",
+ "parent": "9903ddc433374cd9f02905b8a55ac52024a1f592",
+ "date": "2026-11-16",
+ "subject": "Migrate the core styles and app entry off Emotion (#87017)",
+ "pr": "87017",
+ "components": [
+  "icons/Icon"
+ ],
+ "files": [
+  ".storybook/preview.tsx",
+  "frontend/lint/module-boundaries.mjs",
+  "frontend/lint/side-effect-files.json",
+  "frontend/src/metabase/App.styled.tsx",
+  "frontend/src/metabase/AppComponent.module.css",
+  "frontend/src/metabase/AppComponent.tsx",
+  "frontend/src/metabase/css/core/base.css",
+  "frontend/src/metabase/css/core/base.styled.ts",
+  "frontend/src/metabase/public/components/EmbedFrame/EmbedFrame.module.css",
+  "frontend/src/metabase/styled-components/containers/GlobalStyles/GlobalStyles.tsx",
+  "frontend/src/metabase/ui/components/icons/Icon/Icon.module.css",
+  "frontend/src/metabase/ui/components/icons/Icon/Icon.tsx",
+  "frontend/test/__support__/ui.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 129495
+}

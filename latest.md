@@ -1,4 +1,4 @@
-### uihash learn · round 268 · 2026-11-18 06:52 UTC
+### uihash learn · round 269 · 2026-11-18 07:13 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | vkui | 74 | +0 | 1 | 13 | 12 | 48 | 0 |
 | gravity-uikit | 79 | +0 | 2 | 14 | 24 | 39 | 14 |
 | fuselage | 35 | +0 | 2 | 24 | 1 | 8 | 3 |
-| retail-ui | 41 | +1 | 3 | 11 | 2 | 25 | 3 |
+| retail-ui | 41 | +0 | 3 | 11 | 2 | 25 | 3 |
 | fluentui | 47 | +0 | 0 | 13 | 0 | 34 | 12 |
 | spectrum-web-components-2nd-gen | 54 | +0 | 1 | 14 | 12 | 27 | 2 |
 | spectrum-web-components | 11 | +0 | 0 | 7 | 0 | 4 | 1 |

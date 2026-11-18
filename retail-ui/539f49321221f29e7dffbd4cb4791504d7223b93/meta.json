@@ -1,0 +1,27 @@
+{
+ "repo": "retail-ui",
+ "sha": "539f49321221f29e7dffbd4cb4791504d7223b93",
+ "parent": "32b3b587acfb3ca580ad8df3d1603e6f6e1ac053",
+ "date": "2026-11-18",
+ "subject": "fix(Toast): keep height for notification without text",
+ "components": [
+  "Toast"
+ ],
+ "files": [
+  "packages/react-ui/.creevey/images/Toast/notification without text/toastShown/firefox2022.png",
+  "packages/react-ui/.creevey/images/Toast/notification without text/toastShown/firefox2022Dark.png",
+  "packages/react-ui/components/Toast/ToastView.styles.ts",
+  "packages/react-ui/components/Toast/ToastView.tsx",
+  "packages/react-ui/components/Toast/__creevey__/Toast.creevey.mts",
+  "packages/react-ui/components/Toast/__stories__/Toast.stories.tsx"
+ ],
+ "snapshotsUpdated": [
+  "packages/react-ui/.creevey/images/Toast/notification without text/toastShown/firefox2022.png",
+  "packages/react-ui/.creevey/images/Toast/notification without text/toastShown/firefox2022Dark.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 36,
+ "findings": 1,
+ "ms": 132229
+}

@@ -1,0 +1,12 @@
+{
+ "app": "retail-ui",
+ "group": "retail-ui",
+ "sha": "539f49321221f29e7dffbd4cb4791504d7223b93",
+ "date": "2026-11-18",
+ "pr": null,
+ "title": "fix(Toast): keep height for notification without text",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "2 visual-test baselines updated"
+}

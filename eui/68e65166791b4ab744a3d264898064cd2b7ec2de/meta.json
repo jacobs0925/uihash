@@ -1,0 +1,26 @@
+{
+ "repo": "eui",
+ "sha": "68e65166791b4ab744a3d264898064cd2b7ec2de",
+ "parent": "528f29561cd04181cdab0dd48cf1698ba90f188e",
+ "date": "2026-11-18",
+ "subject": "[ESLint] Replace deprecated shadow helpers (#10267)",
+ "pr": "10267",
+ "components": [
+  "bottom_bar",
+  "popover",
+  "resizable_container"
+ ],
+ "files": [
+  "packages/eui/changelogs/upcoming/10267.md",
+  "packages/eui/src/components/bottom_bar/bottom_bar.styles.ts",
+  "packages/eui/src/components/popover/popover_panel/_popover_panel.styles.ts",
+  "packages/eui/src/components/resizable_container/resizable_collapse_button.styles.ts",
+  "packages/eui/src/global_styling/mixins/_shadow.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 21,
+ "findings": 0,
+ "ms": 185284
+}

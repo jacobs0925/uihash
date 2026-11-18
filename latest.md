@@ -1,9 +1,9 @@
-### uihash learn · round 271 · 2026-11-18 13:09 UTC
+### uihash learn · round 272 · 2026-11-18 18:44 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
 | el400 | 337 | +0 | 101 | 92 | 7 | 137 | 6 |
-| livingwitharthritis | 494 | +0 | 114 | 225 | 81 | 74 | 351 |
+| livingwitharthritis | 494 | +0 | 114 | 225 | 81 | 74 | 354 |
 | milk-me-not | 847 | +0 | 66 | 193 | 275 | 313 | 6 |
 | loyal-spark | 683 | +0 | 60 | 114 | 9 | 500 | 5 |
 | pronghorn | 1249 | +0 | 23 | 57 | 0 | 1169 | 11 |
@@ -19,7 +19,7 @@
 | gravity-uikit | 79 | +0 | 2 | 14 | 24 | 39 | 14 |
 | fuselage | 35 | +0 | 2 | 24 | 1 | 8 | 3 |
 | retail-ui | 41 | +0 | 3 | 11 | 2 | 25 | 3 |
-| fluentui | 47 | +0 | 0 | 13 | 0 | 34 | 12 |
+| fluentui | 47 | +0 | 0 | 13 | 0 | 34 | 13 |
 | spectrum-web-components-2nd-gen | 54 | +0 | 1 | 14 | 12 | 27 | 2 |
 | spectrum-web-components | 11 | +0 | 0 | 7 | 0 | 4 | 1 |
 | metabase | 85 | +0 | 1 | 24 | 19 | 41 | 6 |

@@ -1,0 +1,12 @@
+{
+ "app": "metabase",
+ "group": "metabase",
+ "sha": "f8af4e8d4b058239bda6cd76e24d468ff88fae89",
+ "date": "2026-11-19",
+ "pr": "83529",
+ "title": "Restyle text inputs, selects, and combobox (#83529)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "39 visual-test baselines updated"
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "primer-react",
+ "sha": "4fc8b82cd8f2dbc0fcc0fd1ded8393abf7fbba41",
+ "parent": "24ce6b2c48dc3e301f03717f565a1427dc15d9d0",
+ "date": "2026-11-19",
+ "subject": "fix(Breadcrumbs): let the nav shrink in a flex row so menu modes collapse (#8750)",
+ "pr": "8750",
+ "components": [
+  "Breadcrumbs"
+ ],
+ "files": [
+  ".changeset/breadcrumbs-shrink-in-flex-row.md",
+  "packages/react/src/Breadcrumbs/Breadcrumbs.module.css",
+  "packages/react/src/Breadcrumbs/__tests__/BreadcrumbsOverflow.test.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "---\n'@primer/react': patch\n---\n\nBreadcrumbs: In `menu` and `menu-with-root` overflow modes, collapse crumbs as soon as they no longer fit beside sibling content in a flex row, so the collapse point no longer depends on crumb length or resize direction.\n",
+ "recipe": 1,
+ "stories": 24,
+ "findings": 1,
+ "ms": 74593
+}

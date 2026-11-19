@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "4fc8b82cd8f2dbc0fcc0fd1ded8393abf7fbba41",
+ "date": "2026-11-19",
+ "pr": "8750",
+ "title": "fix(Breadcrumbs): let the nav shrink in a flex row so menu modes collapse (#8750)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Breadcrumbs: In `menu` and `menu-with-root` overflow modes, collapse crumbs as soon as they no longer fit beside sibling content in a flex row, so the collapse point no longer depends on crumb length or resize direction."
+}

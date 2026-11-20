@@ -1,0 +1,12 @@
+{
+ "app": "primer-react",
+ "group": "primer-react",
+ "sha": "77a8d088f1528d8b2101254d45ddf880b1e317dd",
+ "date": "2026-11-19",
+ "pr": "8801",
+ "title": "update PageLayout to respect Sidebar padding (#8801)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Fix PageLayout.Sidebar ignoring its padding prop"
+}

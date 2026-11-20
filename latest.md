@@ -1,4 +1,4 @@
-### uihash learn · round 283 · 2026-11-20 18:53 UTC
+### uihash learn · round 284 · 2026-11-20 19:14 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | spectrum-web-components-2nd-gen | 54 | +0 | 1 | 14 | 12 | 27 | 2 |
 | spectrum-web-components | 11 | +0 | 0 | 7 | 0 | 4 | 1 |
 | metabase | 86 | +0 | 1 | 25 | 19 | 41 | 6 |
-| porsche | 45 | +1 | 0 | 37 | 1 | 7 | 0 |
+| porsche | 45 | +0 | 0 | 37 | 1 | 7 | 0 |
 
 Held out of training and judged on: 69 regressions, 335 intended changes, 71 mixed. Trained on 1789 labelled commits, no synthetic PRs.
 

@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "155a42006f59389975ce2e91b9a07fb4cb4a5f1b",
+ "date": "2026-11-20",
+ "pr": "4773",
+ "title": "feat: add tile patterns and cover prop to p-link (#4773)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "- `Link`: prop `cover` stretches the clickable area of the link over its nearest positioned ancestor, e.g. a card, so\n  the whole area navigates without a second, hidden link\n  ([#4773](https://github.com/porsche-design-system/porsche-design-system/pull/4773))\n- `Link`: CSS variable `--p-link-cover-"
+}

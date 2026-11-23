@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "2c8e9d0614ae64904d02e7d296e9c31a2fedbc9f",
+ "parent": "e593db9f8128dbb8a9c41dd9f06f1b957dc73d01",
+ "date": "2026-11-23",
+ "subject": "Keep the brand table's filters in the address bar (#324)",
+ "pr": "324",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "e2e/brands.spec.ts",
+  "src/components/brand/brandTableState.test.ts",
+  "src/components/brand/brandTableState.ts",
+  "src/pages/Brands.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 6,
+ "ms": 41614
+}

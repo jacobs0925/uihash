@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "bc4407351b8bdf3fa568c92ae46f13ff392eaa93",
+ "parent": "5a588009f3ab036384bf9ff7a8a3dd94e4fbad6a",
+ "date": "2026-11-23",
+ "subject": "Ask before recording a barcode against the only match (#333)",
+ "pr": "333",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/story/ScanFlow.flow.test.tsx",
+  "src/components/story/ScanFlow.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 12,
+ "ms": 39258
+}

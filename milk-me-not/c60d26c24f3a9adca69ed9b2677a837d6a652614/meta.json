@@ -1,0 +1,29 @@
+{
+ "repo": "milk-me-not",
+ "sha": "c60d26c24f3a9adca69ed9b2677a837d6a652614",
+ "parent": "2c8e9d0614ae64904d02e7d296e9c31a2fedbc9f",
+ "date": "2026-11-23",
+ "subject": "Teach the board every barcode a scan ends on, and rank the match list (#330)",
+ "pr": "330",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/milk-test/hooks/product-registration/formState.ts",
+  "src/components/story/ScanFlow.flow.test.tsx",
+  "src/components/story/ScanFlow.tsx",
+  "src/lib/rankScanMatches.test.ts",
+  "src/lib/rankScanMatches.ts",
+  "src/lib/rememberBarcode.test.ts",
+  "src/lib/rememberBarcode.ts",
+  "src/pages/AddProduct.test.tsx",
+  "src/pages/AddProduct.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 13,
+ "ms": 35417
+}

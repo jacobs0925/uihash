@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "a6d6b30d9773489b0af41f6920cf301e1dd81d25",
+ "date": "2026-11-22",
+ "pr": "316",
+ "title": "Give the mobile scoreboard a row that fits (#316)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 17 later commits"
+}

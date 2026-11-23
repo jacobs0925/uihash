@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "2c8e9d0614ae64904d02e7d296e9c31a2fedbc9f",
+ "date": "2026-11-23",
+ "pr": "324",
+ "title": "Keep the brand table's filters in the address bar (#324)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 11 later commits"
+}

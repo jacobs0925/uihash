@@ -1,0 +1,34 @@
+{
+ "repo": "milk-me-not",
+ "sha": "1f08c7261da082dc1250269430c03560673827d4",
+ "parent": "a6d6b30d9773489b0af41f6920cf301e1dd81d25",
+ "date": "2026-11-22",
+ "subject": "Remove Sentry, which was never switched on (#315)",
+ "pr": "315",
+ "components": [
+  "components",
+  "main.tsx",
+  "pages"
+ ],
+ "files": [
+  ".env.example",
+  ".github/workflows/deploy.yml",
+  "CLAUDE.md",
+  "bun.lock",
+  "package.json",
+  "public/_headers",
+  "src/components/common/ErrorBoundary.test.tsx",
+  "src/components/common/ErrorBoundary.tsx",
+  "src/lib/errorReporting.test.ts",
+  "src/lib/errorReporting.ts",
+  "src/main.tsx",
+  "src/pages/Privacy.tsx",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 7,
+ "ms": 37145
+}

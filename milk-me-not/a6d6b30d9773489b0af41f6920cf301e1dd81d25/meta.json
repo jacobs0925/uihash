@@ -1,0 +1,28 @@
+{
+ "repo": "milk-me-not",
+ "sha": "a6d6b30d9773489b0af41f6920cf301e1dd81d25",
+ "parent": "980e3f53fff8eb081329d2ab9c7e3b8e1e428f30",
+ "date": "2026-11-22",
+ "subject": "Give the mobile scoreboard a row that fits (#316)",
+ "pr": "316",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "src/components/results/ResultsCardList.test.tsx",
+  "src/components/results/ResultsCardList.tsx",
+  "src/components/results/ResultsHero.test.tsx",
+  "src/components/results/ResultsHero.tsx",
+  "src/components/results/ResultsToolbar.tsx",
+  "src/components/results/ResultsViewSwitcher.tsx",
+  "src/components/story/primitives.tsx",
+  "src/pages/Results.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 7,
+ "ms": 68177
+}

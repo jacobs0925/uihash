@@ -1,0 +1,12 @@
+{
+ "app": "spectrum-web-components",
+ "group": "spectrum-web-components",
+ "sha": "824ef7532fde7c8e30065014b9c134486d6843c3",
+ "date": "2026-11-24",
+ "pr": "6949",
+ "title": "feat(menu-item): migrate swc-menu-item to Spectrum 2 (#6949)",
+ "label": 0,
+ "source": "changeset",
+ "confidence": 0.6,
+ "evidence": "Add the gen2 `<swc-menu>`, the Spectrum 2 successor to `<sp-menu>`.\n\n- **API**: `for` / `triggerElement` reference an externally-authored trigger (the menu renders none of its own), plus `placement` (12 values, default `bottom-start`), `should-flip` (default `true`), the reflected `open`, and `size`"
+}

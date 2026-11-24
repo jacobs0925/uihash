@@ -1,0 +1,38 @@
+{
+ "repo": "vkui",
+ "sha": "ddcf5a0e93f8b665643b4e3f93e4eafdc34acfe4",
+ "parent": "82e1d3cbdffe5aaf31a5b1527265c64bec35a5fe",
+ "date": "2026-11-24",
+ "subject": "refactor: add margin-trim (#10554)",
+ "pr": "10554",
+ "components": [
+  "ContentCard",
+  "Placeholder",
+  "SubnavigationBar",
+  "UsersStack"
+ ],
+ "files": [
+  "package.json",
+  "packages/vkui-docs-theme/src/mdx/index.module.css",
+  "packages/vkui/scripts/postcss.ts",
+  "packages/vkui/src/components/ContentCard/ContentCard.module.css",
+  "packages/vkui/src/components/Placeholder/Placeholder.module.css",
+  "packages/vkui/src/components/SubnavigationBar/SubnavigationBar.module.css",
+  "packages/vkui/src/components/UsersStack/UsersStack.module.css",
+  "packages/vkui/vite.config.ts",
+  "stylelint.config.mjs",
+  "tools/postcss-margin-trim/index.d.ts",
+  "tools/postcss-margin-trim/index.js",
+  "tools/postcss-margin-trim/package.json",
+  "tools/postcss-margin-trim/postcss-margin-trim.test.ts",
+  "website/components/mdx/McpClientsTabs/McpClientsTabs.module.css",
+  "website/postcss.config.js",
+  "yarn.lock"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 0,
+ "ms": 51470
+}

@@ -1,0 +1,22 @@
+{
+ "repo": "vkui",
+ "sha": "82e1d3cbdffe5aaf31a5b1527265c64bec35a5fe",
+ "parent": "1f8a1bdaa0e5fe91e711107d8c349fb90f4c88f0",
+ "date": "2026-11-24",
+ "subject": "fix(SegmentedControl): respect reduced motion (#10586)",
+ "pr": "10586",
+ "components": [
+  "SegmentedControl"
+ ],
+ "files": [
+  "packages/vkui/playwright/index.css",
+  "packages/vkui/src/components/SegmentedControl/SegmentedControl.e2e.tsx",
+  "packages/vkui/src/components/SegmentedControl/SegmentedControl.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 71394
+}

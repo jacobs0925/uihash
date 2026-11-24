@@ -1,4 +1,4 @@
-### uihash learn · round 299 · 2026-11-23 19:08 UTC
+### uihash learn · round 300 · 2026-11-24 00:57 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|

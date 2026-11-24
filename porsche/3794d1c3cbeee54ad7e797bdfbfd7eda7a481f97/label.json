@@ -1,0 +1,12 @@
+{
+ "app": "porsche",
+ "group": "porsche",
+ "sha": "3794d1c3cbeee54ad7e797bdfbfd7eda7a481f97",
+ "date": "2026-11-24",
+ "pr": "4866",
+ "title": "feat(components): add swipe-handle prop and drag-to-close to p-sheet (#4837) (#4866)",
+ "label": 0,
+ "source": "baseline-update",
+ "confidence": 0.7,
+ "evidence": "15 visual-test baselines updated"
+}

@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "17d094a0b062cd8400a30c07fa8719e5a1f2bbf2",
+ "parent": "c08857423b6e07a0b1098880936a374aa34c8e51",
+ "date": "2026-11-24",
+ "subject": "Drop react-hook-form and the ui/form.tsx nothing imported (#342)",
+ "pr": "342",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "CLAUDE.md",
+  "bun.lock",
+  "package.json",
+  "src/components/ui/form.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 6,
+ "ms": 37754
+}

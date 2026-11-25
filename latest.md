@@ -1,9 +1,9 @@
-### uihash learn · round 310 · 2026-11-25 18:55 UTC
+### uihash learn · round 311 · 2026-11-25 19:12 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
 | el400 | 337 | +0 | 101 | 92 | 7 | 137 | 6 |
-| livingwitharthritis | 494 | +0 | 114 | 225 | 81 | 74 | 408 |
+| livingwitharthritis | 494 | +0 | 114 | 225 | 81 | 74 | 411 |
 | milk-me-not | 853 | +0 | 66 | 195 | 279 | 313 | 6 |
 | loyal-spark | 683 | +0 | 60 | 114 | 9 | 500 | 5 |
 | pronghorn | 1249 | +0 | 23 | 57 | 0 | 1169 | 11 |
@@ -13,12 +13,12 @@
 | dapsiwow | 939 | +0 | 129 | 159 | 30 | 621 | 103 |
 | primer-react | 201 | +0 | 13 | 72 | 7 | 109 | 0 |
 | eui | 108 | +0 | 3 | 21 | 41 | 43 | 3 |
-| primer-brand | 110 | +1 | 2 | 61 | 21 | 26 | 0 |
+| primer-brand | 110 | +0 | 2 | 61 | 21 | 26 | 0 |
 | siemens-ix | 0 | +0 | 0 | 0 | 0 | 0 | 106 |
 | vkui | 79 | +0 | 1 | 13 | 13 | 52 | 0 |
 | gravity-uikit | 79 | +0 | 2 | 14 | 24 | 39 | 15 |
 | fuselage | 35 | +0 | 2 | 24 | 1 | 8 | 3 |
-| retail-ui | 42 | +1 | 3 | 11 | 3 | 25 | 3 |
+| retail-ui | 42 | +0 | 3 | 11 | 3 | 25 | 3 |
 | fluentui | 47 | +0 | 0 | 13 | 0 | 34 | 16 |
 | spectrum-web-components-2nd-gen | 54 | +0 | 1 | 14 | 12 | 27 | 2 |
 | spectrum-web-components | 12 | +0 | 0 | 8 | 0 | 4 | 1 |

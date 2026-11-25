@@ -1,9 +1,9 @@
-### uihash learn · round 308 · 2026-11-25 12:56 UTC
+### uihash learn · round 309 · 2026-11-25 13:15 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
 | el400 | 337 | +0 | 101 | 92 | 7 | 137 | 6 |
-| livingwitharthritis | 494 | +0 | 114 | 225 | 81 | 74 | 405 |
+| livingwitharthritis | 494 | +0 | 114 | 225 | 81 | 74 | 408 |
 | milk-me-not | 853 | +0 | 66 | 195 | 279 | 313 | 6 |
 | loyal-spark | 683 | +0 | 60 | 114 | 9 | 500 | 5 |
 | pronghorn | 1249 | +0 | 23 | 57 | 0 | 1169 | 11 |
@@ -15,14 +15,14 @@
 | eui | 108 | +0 | 3 | 21 | 41 | 43 | 3 |
 | primer-brand | 109 | +0 | 2 | 61 | 20 | 26 | 0 |
 | siemens-ix | 0 | +0 | 0 | 0 | 0 | 0 | 106 |
-| vkui | 79 | +3 | 1 | 13 | 13 | 52 | 0 |
+| vkui | 79 | +0 | 1 | 13 | 13 | 52 | 0 |
 | gravity-uikit | 79 | +0 | 2 | 14 | 24 | 39 | 15 |
 | fuselage | 35 | +0 | 2 | 24 | 1 | 8 | 3 |
 | retail-ui | 41 | +0 | 3 | 11 | 2 | 25 | 3 |
 | fluentui | 47 | +0 | 0 | 13 | 0 | 34 | 16 |
 | spectrum-web-components-2nd-gen | 54 | +0 | 1 | 14 | 12 | 27 | 2 |
 | spectrum-web-components | 12 | +0 | 0 | 8 | 0 | 4 | 1 |
-| metabase | 87 | +1 | 1 | 25 | 19 | 42 | 6 |
+| metabase | 87 | +0 | 1 | 25 | 19 | 42 | 6 |
 | porsche | 47 | +0 | 0 | 38 | 1 | 8 | 0 |
 
 Held out of training and judged on: 69 regressions, 336 intended changes, 71 mixed. Trained on 1792 labelled commits, no synthetic PRs.

@@ -1,0 +1,33 @@
+{
+ "repo": "vkui",
+ "sha": "b7c362647de6e910feca5257395635a59f9b74df",
+ "parent": "e9bf119ce44dcb4e40e6c2f9134e20be1b382e13",
+ "date": "2026-11-25",
+ "subject": "fix: use gap (#10553)",
+ "pr": "10553",
+ "components": [
+  "ActionSheetItem",
+  "ButtonGroup",
+  "CalendarRange",
+  "CellButton"
+ ],
+ "files": [
+  "packages/vkui-docs-theme/src/components/Navbar/Navbar.module.css",
+  "packages/vkui-docs-theme/src/components/Sidebar/MobileSidebar/MobileSidebar.module.css",
+  "packages/vkui-docs-theme/src/mdx/Pre/Pre.module.css",
+  "packages/vkui/src/components/ActionSheetItem/ActionSheetItem.module.css",
+  "packages/vkui/src/components/ButtonGroup/ButtonGroup.module.css",
+  "packages/vkui/src/components/CalendarRange/CalendarRange.module.css",
+  "packages/vkui/src/components/CellButton/CellButton.module.css",
+  "packages/vkui/src/components/CustomSelectOption/CustomSelectOption.module.css",
+  "packages/vkui/src/components/DropZone/DropZoneGrid/DropZoneGrid.module.css",
+  "packages/vkui/src/components/PanelHeader/PanelHeader.module.css",
+  "packages/vkui/src/components/SimpleCell/SimpleCell.module.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 24,
+ "findings": 17,
+ "ms": 115238
+}

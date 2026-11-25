@@ -1,0 +1,22 @@
+{
+ "repo": "vkui",
+ "sha": "35382518e2d6f956bf637fa38609a31f78792209",
+ "parent": "b7c362647de6e910feca5257395635a59f9b74df",
+ "date": "2026-11-25",
+ "subject": "fix(ScreenSpinner): keep the done checkmark static with reduced motion (#10542)",
+ "pr": "10542",
+ "components": [
+  "ScreenSpinner"
+ ],
+ "files": [
+  "packages/vkui/src/components/ScreenSpinner/ScreenSpinner.module.css",
+  "packages/vkui/src/components/ScreenSpinner/ScreenSpinner.reduced-motion.e2e.tsx",
+  "packages/vkui/src/components/ScreenSpinner/ScreenSpinnerDone.e2e-playground.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 3,
+ "findings": 0,
+ "ms": 50410
+}

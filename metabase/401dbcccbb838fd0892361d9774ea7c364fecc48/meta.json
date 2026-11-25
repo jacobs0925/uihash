@@ -1,0 +1,45 @@
+{
+ "repo": "metabase",
+ "sha": "401dbcccbb838fd0892361d9774ea7c364fecc48",
+ "parent": "b3c374d36c982016662aca7543398b61aac38cc5",
+ "date": "2026-11-25",
+ "subject": "UIT-211: Read-only inputs look like editable ones (copy fields, one-time key fields) (#87738)",
+ "pr": "87738",
+ "components": [
+  "inputs/Input"
+ ],
+ "files": [
+  ".loki/reference/chrome_laptop_Components_Inputs_PasswordInput_Overview.png",
+  ".loki/reference/chrome_laptop_Components_Inputs_TextInput_Overview.png",
+  ".loki/reference/chrome_laptop_Components_Inputs_Textarea_Overview.png",
+  "enterprise/frontend/src/metabase-enterprise/auth/components/SettingsOIDCForm/SettingsOIDCForm.tsx",
+  "enterprise/frontend/src/metabase-enterprise/user_provisioning/components/UserProvisioning.unit.spec.tsx",
+  "frontend/src/metabase/admin/people/containers/UserPasswordResetModal.tsx",
+  "frontend/src/metabase/admin/settings/components/ApiKeys/SecretKeyModal.module.css",
+  "frontend/src/metabase/admin/settings/components/ApiKeys/SecretKeyModal.tsx",
+  "frontend/src/metabase/common/components/CopyTextField/copy-text-field-props.tsx",
+  "frontend/src/metabase/common/components/CopyTextInput/CopyTextInput.unit.spec.tsx",
+  "frontend/src/metabase/common/components/PasswordReveal/PasswordReveal.tsx",
+  "frontend/src/metabase/embedding/components/PublicLinkPopover/PublicLinkPopover.unit.spec.tsx",
+  "frontend/src/metabase/forms/components/FormSecretKey/FormSecretKey.module.css",
+  "frontend/src/metabase/forms/components/FormSecretKey/FormSecretKey.tsx",
+  "frontend/src/metabase/ui/components/inputs/Input/Input.module.css",
+  "frontend/src/metabase/ui/components/inputs/PasswordInput/PasswordInput.stories.tsx",
+  "frontend/src/metabase/ui/components/inputs/PasswordInput/index.tsx",
+  "frontend/src/metabase/ui/components/inputs/TextInput/TextInput.mdx",
+  "frontend/src/metabase/ui/components/inputs/TextInput/TextInput.stories.tsx",
+  "frontend/src/metabase/ui/components/inputs/TextInput/index.tsx",
+  "frontend/src/metabase/ui/components/inputs/Textarea/Textarea.stories.tsx",
+  "frontend/src/metabase/ui/components/inputs/Textarea/index.tsx"
+ ],
+ "snapshotsUpdated": [
+  ".loki/reference/chrome_laptop_Components_Inputs_PasswordInput_Overview.png",
+  ".loki/reference/chrome_laptop_Components_Inputs_TextInput_Overview.png",
+  ".loki/reference/chrome_laptop_Components_Inputs_Textarea_Overview.png"
+ ],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 0,
+ "findings": 0,
+ "ms": 120058
+}

@@ -1,0 +1,25 @@
+{
+ "repo": "vkui",
+ "sha": "3d31fb30e090f8d59a86d570f26948ca15f230bb",
+ "parent": "fa45349d29b93b65cbb7523962ecc51d96261823",
+ "date": "2026-11-25",
+ "subject": "fix(Scroll): respect reduced motion preferences (#10540)",
+ "pr": "10540",
+ "components": [
+  "CustomScrollView"
+ ],
+ "files": [
+  "packages/vkui/src/components/CustomScrollView/CustomScrollView.e2e-playground.tsx",
+  "packages/vkui/src/components/CustomScrollView/CustomScrollView.e2e.tsx",
+  "packages/vkui/src/components/CustomScrollView/CustomScrollView.module.css",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalScroll.e2e.tsx",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalScroll.test.tsx",
+  "packages/vkui/src/components/HorizontalScroll/HorizontalScroll.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 6,
+ "findings": 0,
+ "ms": 114605
+}

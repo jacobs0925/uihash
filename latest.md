@@ -1,4 +1,4 @@
-### uihash learn · round 307 · 2026-11-25 06:53 UTC
+### uihash learn · round 308 · 2026-11-25 12:56 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
@@ -15,14 +15,14 @@
 | eui | 108 | +0 | 3 | 21 | 41 | 43 | 3 |
 | primer-brand | 109 | +0 | 2 | 61 | 20 | 26 | 0 |
 | siemens-ix | 0 | +0 | 0 | 0 | 0 | 0 | 106 |
-| vkui | 76 | +0 | 1 | 13 | 12 | 50 | 0 |
+| vkui | 79 | +3 | 1 | 13 | 13 | 52 | 0 |
 | gravity-uikit | 79 | +0 | 2 | 14 | 24 | 39 | 15 |
 | fuselage | 35 | +0 | 2 | 24 | 1 | 8 | 3 |
 | retail-ui | 41 | +0 | 3 | 11 | 2 | 25 | 3 |
 | fluentui | 47 | +0 | 0 | 13 | 0 | 34 | 16 |
 | spectrum-web-components-2nd-gen | 54 | +0 | 1 | 14 | 12 | 27 | 2 |
 | spectrum-web-components | 12 | +0 | 0 | 8 | 0 | 4 | 1 |
-| metabase | 86 | +0 | 1 | 25 | 19 | 41 | 6 |
+| metabase | 87 | +1 | 1 | 25 | 19 | 42 | 6 |
 | porsche | 47 | +0 | 0 | 38 | 1 | 8 | 0 |
 
 Held out of training and judged on: 69 regressions, 336 intended changes, 71 mixed. Trained on 1792 labelled commits, no synthetic PRs.

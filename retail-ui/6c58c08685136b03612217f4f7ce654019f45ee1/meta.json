@@ -1,0 +1,27 @@
+{
+ "repo": "retail-ui",
+ "sha": "6c58c08685136b03612217f4f7ce654019f45ee1",
+ "parent": "eac192bb29f8a0b8b1f7092b3c9b3befafcc86d1",
+ "date": "2026-11-25",
+ "subject": "fix(Button,Select,DatePicker): remove parent font-size side effects",
+ "components": [
+  "Button",
+  "DatePicker",
+  "Select"
+ ],
+ "files": [
+  "packages/react-ui/components/Button/Button.styles.ts",
+  "packages/react-ui/components/Button/__stories__/Button.stories.tsx",
+  "packages/react-ui/components/DatePicker/DatePicker.styles.ts",
+  "packages/react-ui/components/DatePicker/__stories__/DatePicker.stories.tsx",
+  "packages/react-ui/components/Select/Select.styles.ts",
+  "packages/react-ui/components/Select/Select.tsx",
+  "packages/react-ui/components/Select/__stories__/Select.stories.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 72,
+ "findings": 9,
+ "ms": 256375
+}

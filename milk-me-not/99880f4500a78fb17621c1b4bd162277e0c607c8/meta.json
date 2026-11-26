@@ -1,0 +1,27 @@
+{
+ "repo": "milk-me-not",
+ "sha": "99880f4500a78fb17621c1b4bd162277e0c607c8",
+ "parent": "7502a30a6d8d968c7d6a1bcb4d633b8cd1f08176",
+ "date": "2026-11-26",
+ "subject": "Limit recovery code attempts to five failures an hour (#370)",
+ "pr": "370",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "docs/supabase.md",
+  "src/components/auth/TwoFactorGate.test.tsx",
+  "src/components/auth/TwoFactorGate.tsx",
+  "src/lib/recoveryCodes.test.ts",
+  "src/lib/recoveryCodes.ts",
+  "supabase/functions/mfa-recover/index.ts",
+  "supabase/migrations/20261126150000_limit_mfa_recovery_attempts.sql",
+  "supabase/tests/mfa_recovery_attempts.test.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 30064
+}

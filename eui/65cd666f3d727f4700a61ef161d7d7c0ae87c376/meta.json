@@ -1,0 +1,40 @@
+{
+ "repo": "eui",
+ "sha": "65cd666f3d727f4700a61ef161d7d7c0ae87c376",
+ "parent": "68b8e63d1d993c80ce6dae3b5fd056c484af2c49",
+ "date": "2026-11-26",
+ "subject": "EuiDescriptionList compressed fix (#10302)",
+ "pr": "10302",
+ "components": [
+  "datagrid",
+  "description_list"
+ ],
+ "files": [
+  "packages/eui/.vrt/reference/tabular-content-euidatagrid-toolbarvisibility-prop--keyboard-shortcuts-desktop.png",
+  "packages/eui/.vrt/reference/tabular-content-euidatagrid-toolbarvisibility-prop--keyboard-shortcuts-mobile.png",
+  "packages/eui/changelogs/upcoming/10302.md",
+  "packages/eui/src/components/datagrid/controls/__snapshots__/keyboard_shortcuts.test.tsx.snap",
+  "packages/eui/src/components/datagrid/controls/keyboard_shortcuts.spec.tsx",
+  "packages/eui/src/components/datagrid/controls/keyboard_shortcuts.styles.ts",
+  "packages/eui/src/components/datagrid/controls/keyboard_shortcuts.test.tsx",
+  "packages/eui/src/components/datagrid/controls/keyboard_shortcuts.tsx",
+  "packages/eui/src/components/description_list/__snapshots__/description_list_description.test.tsx.snap",
+  "packages/eui/src/components/description_list/__snapshots__/description_list_title.test.tsx.snap",
+  "packages/eui/src/components/description_list/description_list.test.tsx",
+  "packages/eui/src/components/description_list/description_list_description.styles.ts",
+  "packages/eui/src/components/description_list/description_list_description.test.tsx",
+  "packages/eui/src/components/description_list/description_list_description.tsx",
+  "packages/eui/src/components/description_list/description_list_title.styles.ts",
+  "packages/eui/src/components/description_list/description_list_title.test.tsx",
+  "packages/eui/src/components/description_list/description_list_title.tsx"
+ ],
+ "snapshotsUpdated": [
+  "packages/eui/.vrt/reference/tabular-content-euidatagrid-toolbarvisibility-prop--keyboard-shortcuts-desktop.png",
+  "packages/eui/.vrt/reference/tabular-content-euidatagrid-toolbarvisibility-prop--keyboard-shortcuts-mobile.png"
+ ],
+ "changeset": "",
+ "recipe": 2,
+ "stories": 72,
+ "findings": 0,
+ "ms": 328431
+}

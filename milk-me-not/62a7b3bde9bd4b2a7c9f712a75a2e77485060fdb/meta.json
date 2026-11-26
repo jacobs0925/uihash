@@ -1,0 +1,36 @@
+{
+ "repo": "milk-me-not",
+ "sha": "62a7b3bde9bd4b2a7c9f712a75a2e77485060fdb",
+ "parent": "87eb28b587ff660e7ffb46de81761d4ce40bdf79",
+ "date": "2026-11-26",
+ "subject": "Report crashes in visitors' browsers to Sentry again (#354)",
+ "pr": "354",
+ "components": [
+  "components",
+  "main.tsx",
+  "pages"
+ ],
+ "files": [
+  ".env.example",
+  ".github/workflows/deploy.yml",
+  "CLAUDE.md",
+  "bun.lock",
+  "docs/error-handling.md",
+  "package.json",
+  "public/_headers",
+  "src/components/common/ErrorBoundary.test.tsx",
+  "src/components/common/ErrorBoundary.tsx",
+  "src/lib/errorReporting.test.ts",
+  "src/lib/errorReporting.ts",
+  "src/lib/sentryChunk.test.ts",
+  "src/main.tsx",
+  "src/pages/Privacy.tsx",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 2,
+ "ms": 51014
+}

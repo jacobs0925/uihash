@@ -1,0 +1,23 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3017d8d813f93f938f98aecc9d84dc5e74cb0867",
+ "parent": "37fea4e8d990e76254192462f255df573df598de",
+ "date": "2026-11-26",
+ "subject": "Keep Sentry from locating visitors by their connection (#361)",
+ "pr": "361",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "docs/error-handling.md",
+  "src/lib/errorReporting.test.ts",
+  "src/lib/errorReporting.ts",
+  "src/pages/Privacy.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 12,
+ "findings": 1,
+ "ms": 31684
+}

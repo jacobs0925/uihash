@@ -1,0 +1,25 @@
+{
+ "repo": "milk-me-not",
+ "sha": "b9113cbe3398a1e6df1eec5fe3f06686e36fdeaf",
+ "parent": "62a7b3bde9bd4b2a7c9f712a75a2e77485060fdb",
+ "date": "2026-11-26",
+ "subject": "Let an admin correct which product a barcode leads to (#337)",
+ "pr": "337",
+ "components": [
+  "components"
+ ],
+ "files": [
+  "src/components/milk-test/registration-ui/FormSections.tsx",
+  "src/components/milk-test/registration-ui/ProductBarcodes.test.tsx",
+  "src/components/milk-test/registration-ui/ProductBarcodes.tsx",
+  "src/integrations/supabase/types.ts",
+  "src/lib/rememberBarcode.ts",
+  "supabase/migrations/20261123120000_admin_barcode_corrections.sql"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21743
+}

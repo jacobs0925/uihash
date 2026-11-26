@@ -5,8 +5,8 @@
  "date": "2026-11-22",
  "pr": "315",
  "title": "Remove Sentry, which was never switched on (#315)",
- "label": 0,
- "source": "kept",
- "confidence": 0.6,
- "evidence": "not restored away or undone; 32 later commits"
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Milk Me Not is run by two people, not a \" → \"Milk Me Not is run by two people, not a \" undone by 3017d8d8 \"Keep Sentry from locating visitors by their connection (#361)\"; text: \"Milk Me Not is run by two people, not a \" → \"Milk Me Not is run by two people, not a \" undone by 3017d8d8 \"Keep Sentry from locating visitors by their connection (#361)\"; text: \"Milk Me Not is run by two people, not a \" → \"Milk Me Not is run by two people, not a \" undone by 3017d8d8 \"Keep Sentry from locating visitors by their connection (#361)\""
 }

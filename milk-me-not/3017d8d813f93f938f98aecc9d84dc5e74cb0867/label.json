@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "3017d8d813f93f938f98aecc9d84dc5e74cb0867",
+ "date": "2026-11-26",
+ "pr": "361",
+ "title": "Keep Sentry from locating visitors by their connection (#361)",
+ "label": 1,
+ "source": "undo",
+ "confidence": 0.7,
+ "evidence": "text: \"Milk Me Not is run by two people, not a \" → \"Milk Me Not is run by two people, not a \" undone by 62a7b3bd \"Report crashes in visitors' browsers to Sentry again (#354)\"; text: \"Milk Me Not is run by two people, not a \" → \"Milk Me Not is run by two people, not a \" undone by 62a7b3bd \"Report crashes in visitors' browsers to Sentry again (#354)\"; text: \"Milk Me Not is run by two people, not a \" → \"Milk Me Not is run by two people, not a \" undone by 62a7b3bd \"Report crashes in visitors' browsers to Sentry again (#354)\""
+}

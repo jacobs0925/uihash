@@ -1,4 +1,4 @@
-### uihash learn · round 311 · 2026-11-25 19:12 UTC
+### uihash learn · round 312 · 2026-11-26 01:07 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
@@ -11,7 +11,7 @@
 | primerate | 1624 | +0 | 48 | 109 | 24 | 1443 | 85 |
 | heartlines | 2534 | +0 | 174 | 210 | 36 | 2114 | 2 |
 | dapsiwow | 939 | +0 | 129 | 159 | 30 | 621 | 103 |
-| primer-react | 201 | +0 | 13 | 72 | 7 | 109 | 0 |
+| primer-react | 202 | +1 | 13 | 72 | 7 | 110 | 0 |
 | eui | 108 | +0 | 3 | 21 | 41 | 43 | 3 |
 | primer-brand | 110 | +0 | 2 | 61 | 21 | 26 | 0 |
 | siemens-ix | 0 | +0 | 0 | 0 | 0 | 0 | 106 |
@@ -22,7 +22,7 @@
 | fluentui | 47 | +0 | 0 | 13 | 0 | 34 | 16 |
 | spectrum-web-components-2nd-gen | 54 | +0 | 1 | 14 | 12 | 27 | 2 |
 | spectrum-web-components | 12 | +0 | 0 | 8 | 0 | 4 | 1 |
-| metabase | 87 | +0 | 1 | 25 | 19 | 42 | 6 |
+| metabase | 88 | +1 | 1 | 25 | 19 | 43 | 6 |
 | porsche | 47 | +0 | 0 | 38 | 1 | 8 | 0 |
 
 Held out of training and judged on: 69 regressions, 336 intended changes, 71 mixed. Trained on 1792 labelled commits, no synthetic PRs.

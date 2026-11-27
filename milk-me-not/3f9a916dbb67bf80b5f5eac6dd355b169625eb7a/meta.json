@@ -1,0 +1,21 @@
+{
+ "repo": "milk-me-not",
+ "sha": "3f9a916dbb67bf80b5f5eac6dd355b169625eb7a",
+ "parent": "9f69149d681bbc70bf390bc09085c12bf5504666",
+ "date": "2026-11-26",
+ "subject": "Keep the site light when a phone is in dark mode (#385)",
+ "pr": "385",
+ "components": [
+  "index.css"
+ ],
+ "files": [
+  "index.html",
+  "src/index.css"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21841
+}

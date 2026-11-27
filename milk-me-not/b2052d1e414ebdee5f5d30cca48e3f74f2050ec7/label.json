@@ -1,0 +1,12 @@
+{
+ "app": "milk-me-not",
+ "group": "milk-me-not",
+ "sha": "b2052d1e414ebdee5f5d30cca48e3f74f2050ec7",
+ "date": "2026-11-26",
+ "pr": "382",
+ "title": "Point the app pages at the home-screen install, not the APK (#382)",
+ "label": 0,
+ "source": "kept",
+ "confidence": 0.6,
+ "evidence": "not restored away or undone; 6 later commits"
+}

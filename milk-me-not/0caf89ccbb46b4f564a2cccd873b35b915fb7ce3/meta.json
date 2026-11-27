@@ -1,0 +1,26 @@
+{
+ "repo": "milk-me-not",
+ "sha": "0caf89ccbb46b4f564a2cccd873b35b915fb7ce3",
+ "parent": "4d5dae9e223747a2b8bd1760f629c09fa5cdcc4e",
+ "date": "2026-11-26",
+ "subject": "Give every rated product page its own HTML head (#380)",
+ "pr": "380",
+ "components": [
+  "pages"
+ ],
+ "files": [
+  "docs/seo-and-sitemap.md",
+  "scripts/generate-sitemap.ts",
+  "src/lib/productSeo.test.ts",
+  "src/lib/productSeo.ts",
+  "src/lib/staticSeo.ts",
+  "src/pages/ProductDetails.tsx",
+  "vite.config.ts"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 34139
+}

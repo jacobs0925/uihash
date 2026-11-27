@@ -1,0 +1,26 @@
+{
+ "repo": "milk-me-not",
+ "sha": "b2052d1e414ebdee5f5d30cca48e3f74f2050ec7",
+ "parent": "a768fe07a91f2b9814172cfd22e37aaa962320cb",
+ "date": "2026-11-26",
+ "subject": "Point the app pages at the home-screen install, not the APK (#382)",
+ "pr": "382",
+ "components": [
+  "components",
+  "pages"
+ ],
+ "files": [
+  "public/llms.txt",
+  "src/components/story/StoryFooter.tsx",
+  "src/components/story/memberNav.ts",
+  "src/lib/staticSeo.ts",
+  "src/pages/InstallGuide.tsx",
+  "src/pages/MobileApp.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 15,
+ "findings": 64,
+ "ms": 87336
+}

@@ -1,0 +1,28 @@
+{
+ "repo": "milk-me-not",
+ "sha": "9f69149d681bbc70bf390bc09085c12bf5504666",
+ "parent": "afd9c8d569b70310a97e19472c425d721ce0457a",
+ "date": "2026-11-26",
+ "subject": "Official logo on the Android icon, and a branded launch screen (#384)",
+ "pr": "384",
+ "components": [
+  "App.tsx",
+  "components"
+ ],
+ "files": [
+  "index.html",
+  "public/icons/icon-maskable-512.png",
+  "public/manifest.webmanifest",
+  "scripts/generate-app-icons.ts",
+  "src/App.tsx",
+  "src/components/auth/TwoFactorGate.tsx",
+  "src/components/install/LaunchScreenDone.test.tsx",
+  "src/components/install/LaunchScreenDone.tsx"
+ ],
+ "snapshotsUpdated": [],
+ "changeset": "",
+ "recipe": 1,
+ "stories": 9,
+ "findings": 0,
+ "ms": 21855
+}

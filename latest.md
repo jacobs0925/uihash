@@ -1,10 +1,10 @@
-### uihash learn · round 319 · 2026-11-26 19:10 UTC
+### uihash learn · round 320 · 2026-11-27 01:10 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
 | el400 | 337 | +0 | 101 | 92 | 7 | 137 | 6 |
 | livingwitharthritis | 494 | +0 | 114 | 225 | 81 | 74 | 423 |
-| milk-me-not | 858 | +0 | 68 | 195 | 279 | 316 | 6 |
+| milk-me-not | 862 | +4 | 68 | 196 | 279 | 319 | 6 |
 | loyal-spark | 683 | +0 | 60 | 114 | 9 | 500 | 5 |
 | pronghorn | 1249 | +0 | 23 | 57 | 0 | 1169 | 11 |
 | skilla | 310 | +0 | 12 | 44 | 6 | 248 | 2 |
@@ -13,7 +13,7 @@
 | dapsiwow | 939 | +0 | 129 | 159 | 30 | 621 | 103 |
 | primer-react | 202 | +0 | 13 | 72 | 7 | 110 | 0 |
 | eui | 109 | +0 | 3 | 21 | 41 | 44 | 3 |
-| primer-brand | 110 | +0 | 2 | 61 | 21 | 26 | 0 |
+| primer-brand | 111 | +1 | 2 | 61 | 22 | 26 | 0 |
 | siemens-ix | 0 | +0 | 0 | 0 | 0 | 0 | 107 |
 | vkui | 79 | +0 | 1 | 13 | 13 | 52 | 0 |
 | gravity-uikit | 79 | +0 | 2 | 14 | 24 | 39 | 16 |
@@ -25,9 +25,9 @@
 | metabase | 88 | +0 | 1 | 25 | 19 | 43 | 6 |
 | porsche | 47 | +0 | 0 | 38 | 1 | 8 | 0 |
 
-Held out of training and judged on: 69 regressions, 336 intended changes, 71 mixed. Trained on 1794 labelled commits, no synthetic PRs.
+Held out of training and judged on: 69 regressions, 337 intended changes, 71 mixed. Trained on 1794 labelled commits, no synthetic PRs.
 
-Candidates (mean PR-level AUROC on the held-out commits, and on unseen repositories): logistic-all 0.712, unseen 0.692; logistic-local 0.691, unseen 0.689; trees-all 0.678, unseen 0.692 (chosen).
+Candidates (mean PR-level AUROC on the held-out commits, and on unseen repositories): logistic-all 0.711, unseen 0.691; logistic-local 0.690, unseen 0.693; trees-all 0.677, unseen 0.694 (chosen).
 
 #### Promotion gate: FAIL
 
@@ -43,7 +43,7 @@ Candidates (mean PR-level AUROC on the held-out commits, and on unseen repositor
 | livingwitharthritis-held-out | 68 | 0.628 | 0.589 | -0.140 to 0.052 | 7 → 7 | 16 → 19 | 8 → 6 | 1 → 1 | mistakes flagged: 13 vs 15 of 20 (at most 1 fewer) |
 | loyal-spark-held-out | 38 | 0.634 | 0.706 | -0.036 to 0.212 | 2 → 1 | 12 → 12 | 7 → 4 | 1 → 1 | mistakes flagged: 5 vs 9 of 11 (at most 1 fewer) |
 | metabase-held-out | 3 | n/a | n/a | n/a | 0 → 0 | 2 → 2 | 0 → 0 | 0 → 0 | pass |
-| milk-me-not-held-out | 54 | 0.699 | 0.719 | -0.095 to 0.159 | 2 → 2 | 9 → 9 | 6 → 4 | 1 → 4 | mistakes flagged: 6 vs 8 of 16 (at most 1 fewer) |
+| milk-me-not-held-out | 55 | 0.688 | 0.709 | -0.084 to 0.145 | 2 → 2 | 9 → 9 | 6 → 4 | 1 → 4 | mistakes flagged: 6 vs 8 of 16 (at most 1 fewer) |
 | porsche-held-out | 8 | n/a | n/a | n/a | 0 → 0 | 3 → 3 | 0 → 0 | 0 → 0 | pass |
 | primer-brand-held-out | 13 | n/a | n/a | n/a | 0 → 0 | 2 → 2 | 0 → 0 | 0 → 0 | pass |
 | primer-react-held-out | 13 | 0.818 | 0.909 | 0.000 to 0.300 | 2 → 2 | 3 → 3 | 0 → 0 | 0 → 0 | pass |
@@ -61,28 +61,28 @@ Cross-validation on the training data (variant all; whole operators or repositor
 
 | repository | regressions | intended | AUROC |
 |---|---|---|---|
-| dapsiwow | 129 | 230 | 0.659 |
-| el400 | 101 | 130 | 0.729 |
-| eui | 3 | 24 | 0.500 |
+| dapsiwow | 129 | 230 | 0.663 |
+| el400 | 101 | 130 | 0.724 |
+| eui | 3 | 24 | 0.507 |
 | fluentui | 0 | 13 | n/a |
-| fuselage | 2 | 26 | 0.481 |
+| fuselage | 2 | 26 | 0.462 |
 | gravity-uikit | 2 | 16 | 0.594 |
-| heartlines | 174 | 290 | 0.655 |
-| livingwitharthritis | 114 | 292 | 0.742 |
-| loyal-spark | 60 | 152 | 0.679 |
+| heartlines | 174 | 290 | 0.652 |
+| livingwitharthritis | 114 | 292 | 0.750 |
+| loyal-spark | 60 | 152 | 0.687 |
 | metabase | 1 | 26 | 0.231 |
-| milk-me-not | 68 | 235 | 0.734 |
+| milk-me-not | 68 | 236 | 0.731 |
 | porsche | 0 | 38 | n/a |
-| primer-brand | 2 | 63 | 0.556 |
-| primer-react | 13 | 76 | 0.723 |
-| primerate | 48 | 127 | 0.611 |
-| pronghorn | 23 | 73 | 0.763 |
-| retail-ui | 3 | 12 | 0.708 |
-| skilla | 12 | 51 | 0.627 |
+| primer-brand | 2 | 63 | 0.611 |
+| primer-react | 13 | 76 | 0.734 |
+| primerate | 48 | 127 | 0.612 |
+| pronghorn | 23 | 73 | 0.759 |
+| retail-ui | 3 | 12 | 0.736 |
+| skilla | 12 | 51 | 0.623 |
 | spectrum-web-components | 0 | 8 | n/a |
 | spectrum-web-components-2nd-gen | 1 | 15 | 0.933 |
 | vkui | 1 | 13 | 0.615 |
 
-Mean 0.692, lowest 0.611: 0 of 10 repositories with 5 or more of each are at the goal.
+Mean 0.694, lowest 0.612: 0 of 10 repositories with 5 or more of each are at the goal.
 
 **Keeping the current model**: trees-all did not pass the promotion gate: el400-held-out: mistakes flagged: 7 vs 10 of 20 (at most 1 fewer) / livingwitharthritis-held-out: mistakes flagged: 13 vs 15 of 20 (at most 1 fewer) / loyal-spark-held-out: mistakes flagged: 5 vs 9 of 11 (at most 1 fewer) / milk-me-not-held-out: mistakes flagged: 6 vs 8 of 16 (at most 1 fewer).

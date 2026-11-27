@@ -1,10 +1,10 @@
-### uihash learn · round 320 · 2026-11-27 01:10 UTC
+### uihash learn · round 321 · 2026-11-27 01:29 UTC
 
 | repository | commits checked | this round | labelled regression | labelled intended | no evidence yet | no findings | failed |
 |---|---|---|---|---|---|---|---|
 | el400 | 337 | +0 | 101 | 92 | 7 | 137 | 6 |
-| livingwitharthritis | 494 | +0 | 114 | 225 | 81 | 74 | 423 |
-| milk-me-not | 862 | +4 | 68 | 196 | 279 | 319 | 6 |
+| livingwitharthritis | 494 | +0 | 114 | 225 | 81 | 74 | 426 |
+| milk-me-not | 862 | +0 | 68 | 196 | 279 | 319 | 6 |
 | loyal-spark | 683 | +0 | 60 | 114 | 9 | 500 | 5 |
 | pronghorn | 1249 | +0 | 23 | 57 | 0 | 1169 | 11 |
 | skilla | 310 | +0 | 12 | 44 | 6 | 248 | 2 |
@@ -13,7 +13,7 @@
 | dapsiwow | 939 | +0 | 129 | 159 | 30 | 621 | 103 |
 | primer-react | 202 | +0 | 13 | 72 | 7 | 110 | 0 |
 | eui | 109 | +0 | 3 | 21 | 41 | 44 | 3 |
-| primer-brand | 111 | +1 | 2 | 61 | 22 | 26 | 0 |
+| primer-brand | 111 | +0 | 2 | 61 | 22 | 26 | 0 |
 | siemens-ix | 0 | +0 | 0 | 0 | 0 | 0 | 107 |
 | vkui | 79 | +0 | 1 | 13 | 13 | 52 | 0 |
 | gravity-uikit | 79 | +0 | 2 | 14 | 24 | 39 | 16 |
